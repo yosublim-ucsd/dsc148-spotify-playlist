@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain]
 
 > アニメ「デッドデッドデーモンズデデデデデストラクション」の世界を彩る楽曲をプレイリストで。Music from "Dead Dead Demon's Dededede Destruction"! ©︎浅野いにお／小学館／DeDeDeDe Committee
 
-[Spotify](https://open.spotify.com/user/spotify) - 92 likes - 28 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 28 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 
 > Legendary tracks been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,506 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,600 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 5 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 6 | [Mr\. Vain](https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Serenity](https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO) | 5:36 |
 | 7 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
-| 8 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 |
-| 9 | [Go West \- 2003 Remaster](https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl) | 5:04 |
+| 8 | [Go West \- 2003 Remaster](https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl) | 5:04 |
+| 9 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 |
 | 10 | [Sweet Harmony](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Conscience](https://open.spotify.com/album/1KFxJU4UBv1RWwrrwbn9xY) | 5:01 |
 | 11 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
 | 12 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 32 | [Tribute](https://open.spotify.com/track/3p7Ydiltj799Rx3JfjARxF) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 6:01 |
 | 33 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 34 | [Parade D'Amour](https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Garden Party](https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8) | 3:31 |
-| 35 | [Agfachrome RSX II](https://open.spotify.com/track/7za2bHIESAb7RVIhQzwn6H) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [Colour Negatives](https://open.spotify.com/album/0Odwnjhcu9okjCZMq9sK1p) | 7:42 |
-| 36 | [My Heart Goes Boom \- Radio Version](https://open.spotify.com/track/4k75o8WPCPqDd2tgD4AKxU) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [My Heart Goes Boom \(La Di da Da\)](https://open.spotify.com/album/0AVy1xmas9TvWDPPsHOC0G) | 3:40 |
+| 35 | [My Heart Goes Boom \- Radio Version](https://open.spotify.com/track/4k75o8WPCPqDd2tgD4AKxU) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [My Heart Goes Boom \(La Di da Da\)](https://open.spotify.com/album/0AVy1xmas9TvWDPPsHOC0G) | 3:40 |
+| 36 | [Agfachrome RSX II](https://open.spotify.com/track/7za2bHIESAb7RVIhQzwn6H) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [Colour Negatives](https://open.spotify.com/album/0Odwnjhcu9okjCZMq9sK1p) | 7:42 |
 | 37 | [I'm Your Pusher](https://open.spotify.com/track/7dxAjXJvJ63V0bjQ13cCa9) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Colors](https://open.spotify.com/album/6axoq3JzasaOsl9FmLp0v9) | 5:35 |
 | 38 | [History \- Special Dance Mix](https://open.spotify.com/track/7wjpIve8KZjIfxF8crW5SF) | [Mai Tai](https://open.spotify.com/artist/0L0XA2oh77ZfPZiaBxw96D) | [History](https://open.spotify.com/album/6oPuo7PCqssFcUZkuGxoeq) | 7:18 |
 | 39 | [Boom\-Boom](https://open.spotify.com/track/7xpqxbOxqFTltGFvzdu6aV) | [dancer](https://open.spotify.com/artist/3hst5vmCCxskyGcL4kL1gb), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Boom\-Boom](https://open.spotify.com/album/5BFbZ5FhSIrz7JUpqrS1nL) | 7:45 |

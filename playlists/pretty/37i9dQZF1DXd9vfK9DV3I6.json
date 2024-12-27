@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 345775,
+  "num_followers": 345889,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Heatiche (Vip Mix)",
+        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+      },
+      "artists": [
+        {
+          "name": "Mpirgkel",
+          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "Heatiche - Vip Mix",
+      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Arabic Soul",
         "url": "https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 273031,
       "name": "Arabic Soul",
       "url": "https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Heatiche (Vip Mix)",
-        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
-      },
-      "artists": [
-        {
-          "name": "Mpirgkel",
-          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "Heatiche - Vip Mix",
-      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 225226,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
-      },
-      "artists": [
-        {
-          "name": "Acid Arab",
-          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
-        },
-        {
-          "name": "Cem Y\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Ederlezi (feat. Dikanda)",
         "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 244878,
       "name": "Ederlezi (feat. Dikanda)",
       "url": "https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
+      },
+      "artists": [
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        },
+        {
+          "name": "Cem Y\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "DJ Pantelis",
-          "url": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
-        }
-      ],
-      "duration_ms": 334889,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
+      },
+      "artists": [
+        {
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "DJ Pantelis",
+          "url": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
+        }
+      ],
+      "duration_ms": 334889,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Anatolieni",
-        "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        },
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        }
-      ],
-      "duration_ms": 126545,
-      "name": "Anatolieni",
-      "url": "https://open.spotify.com/track/0aiLsfS9b2L7puIX9FsuEv"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Bladi B3ida",
         "url": "https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 319851,
       "name": "Bladi B3ida",
       "url": "https://open.spotify.com/track/2h519R5O4HhdPjboqsOond"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Anatolieni",
+        "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        },
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "Anatolieni",
+      "url": "https://open.spotify.com/track/0aiLsfS9b2L7puIX9FsuEv"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Sakaratou Achiqin",
-        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Mawal Lotfi",
-          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
-        }
-      ],
-      "duration_ms": 139415,
-      "name": "Sakaratou Achiqin",
-      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Watra",
         "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
       },
@@ -1607,18 +1587,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
+        "name": "Sakaratou Achiqin",
+        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
       },
       "artists": [
         {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Mawal Lotfi",
+          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
         }
       ],
-      "duration_ms": 161577,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
+      "duration_ms": 139415,
+      "name": "Sakaratou Achiqin",
+      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1643,6 +1627,22 @@
       "duration_ms": 97636,
       "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
       "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "duration_ms": 161577,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Mindreader",
+        "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "duration_ms": 172850,
+      "name": "Mindreader",
+      "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Mawjou3 Galbi",
         "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
       },
@@ -1815,38 +1831,18 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Mindreader",
-        "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
+        "name": "Samra",
+        "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
       },
       "artists": [
         {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+          "name": "Mostafa Akmal",
+          "url": "https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3"
         }
       ],
-      "duration_ms": 172850,
-      "name": "Mindreader",
-      "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "The Universe of Buddha Bar",
-        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
-      },
-      "artists": [
-        {
-          "name": "OSENS",
-          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
-        },
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 291576,
-      "name": "ZMAN",
-      "url": "https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz"
+      "duration_ms": 283659,
+      "name": "Samra",
+      "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1887,18 +1883,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Samra",
-        "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
+        "name": "The Universe of Buddha Bar",
+        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
       "artists": [
         {
-          "name": "Mostafa Akmal",
-          "url": "https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3"
+          "name": "OSENS",
+          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
+        },
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
         }
       ],
-      "duration_ms": 283659,
-      "name": "Samra",
-      "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
+      "duration_ms": 291576,
+      "name": "ZMAN",
+      "url": "https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz"
     },
     {
       "added_at": "2024-11-22 18:05:57",

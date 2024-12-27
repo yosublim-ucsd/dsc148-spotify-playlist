@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,655 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,681 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 25 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
 | 26 | [O Que Há Por Dentro](https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU) | [Sobre Deixar](https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt) | 3:40 |
 | 27 | [Atenção \- Ao Vivo](https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r) | [Atenção \(Ao Vivo\)](https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87) | 3:18 |
-| 28 | [Nada Se Compara](https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo) | [Coral Unasp](https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2), [Garnet Lima](https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S) | [Nada Se Compara](https://open.spotify.com/album/3UeS120DmaRg42viHosGU6) | 3:01 |
-| 29 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
+| 28 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
+| 29 | [Nada Se Compara](https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo) | [Coral Unasp](https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2), [Garnet Lima](https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S) | [Nada Se Compara](https://open.spotify.com/album/3UeS120DmaRg42viHosGU6) | 3:01 |
 | 30 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo) | [Pablo Simplicio](https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5) | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4) | 2:49 |
 | 31 | [Mulher de Ló \(AO VIVO\)](https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival, Pt.1 \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 3:57 |
 | 32 | [Pela Fé](https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Laboratório Do Groove](https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem) | 4:11 |

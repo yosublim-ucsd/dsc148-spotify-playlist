@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 215565,
       "name": "Ashoof AL Afyiah",
       "url": "https://open.spotify.com/track/04RQf3c5aAqLmd07WHaCFN"
@@ -2166,6 +2166,24 @@
       "duration_ms": 199591,
       "name": "Gedart Tnaam",
       "url": "https://open.spotify.com/track/1NpgxL5cAHN0r1qB3XMoko"
+    },
+    {
+      "album": {
+        "name": "Hayen",
+        "url": "https://open.spotify.com/album/28ms6jlPHDk4zbSLKUqnnO"
+      },
+      "artists": [
+        {
+          "name": "Sultan Khalifa",
+          "url": "https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Ghana Wajed",
+      "url": "https://open.spotify.com/track/6Wa4s4YU2tvIGZLmIFKovZ"
     },
     {
       "album": {

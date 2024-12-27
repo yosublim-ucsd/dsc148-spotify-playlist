@@ -4,7 +4,7 @@
 
 > Les meilleurs hits de la pop maghrébine\. Cover: Douaa Lahyaoui
 
-157 songs - 8 hr 33 min
+158 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 | 2023-07-07 | 2023-12-22 |
 | [Favori](https://open.spotify.com/track/48kp069SRdTvuGFobRyhlQ) | [Yasmine Belkacem](https://open.spotify.com/artist/7EmOe92RLgv1axv2KyxGVR), [Tarek Kadem](https://open.spotify.com/artist/43BDWBOkq6wZHr9UNmqSHw) | [Favori](https://open.spotify.com/album/3nGqVqbJSdDkM6ma5NGpO6) | 3:20 | 2023-12-21 | 2024-05-17 |
 | [FEL HAWA SAWA](https://open.spotify.com/track/6dWnQFvP0rj5VgTdKEHtBE) | [Larbi Imghrane](https://open.spotify.com/artist/1YVSmUGMeeVFoA54ZX1vvg), [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [FEL HAWA SAWA](https://open.spotify.com/album/07uJOfbHCHwkQ3x3hlW1Es) | 3:12 | 2023-11-30 | 2024-11-22 |
+| [Flouka](https://open.spotify.com/track/6qJsZS6HgNROEQ8CMYzaeV) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Flouka](https://open.spotify.com/album/7qBXcxkVVtw24cLXDiinIn) | 3:14 | 2024-12-26 |  |
 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 | 2023-07-07 |  |
 | [Galbi Khtarek \- Orange Music Talents](https://open.spotify.com/track/4NOrutPLYyAqEwh8wFa6th) | [Tahir Salami](https://open.spotify.com/artist/4QWZDhr7y1O2JgFO75RpUK) | [Galbi Khtarek \- Orange Music Talents](https://open.spotify.com/album/5DJlKLM1jVxc6jYmwOYkYg) | 3:57 | 2024-08-19 |  |
 | [Galo Lik Elia](https://open.spotify.com/track/6BU7Xu7gYJl5fwctmS1RTb) | [Chaimae Abdelaziz](https://open.spotify.com/artist/2dAN3UYOUQU41wR5IObThO) | [Galo Lik Elia](https://open.spotify.com/album/5f5SrvgQMYpfzhcpn8ZYJ6) | 3:34 | 2023-07-07 | 2023-07-14 |
@@ -120,7 +121,7 @@
 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 | 2023-08-24 | 2023-12-15 |
 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-15 |  |
 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-07-07 |  |
-| [Msimima](https://open.spotify.com/track/11N0goryQf8hngeyYOz8Hw) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Msimima](https://open.spotify.com/album/0AwQgqB4VLgJlyBReOjRlQ) | 3:58 | 2024-08-16 |  |
+| [Msimima](https://open.spotify.com/track/11N0goryQf8hngeyYOz8Hw) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Msimima](https://open.spotify.com/album/0AwQgqB4VLgJlyBReOjRlQ) | 3:58 | 2024-08-16 | 2024-12-27 |
 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 | 2023-08-05 |  |
 | [Mélancolique.](https://open.spotify.com/track/5CWZc1mtT7r33th3nwyMJh) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Mélancolique.](https://open.spotify.com/album/6C5Q1wAG3PrMqfk2iZYLY0) | 3:17 | 2024-10-30 |  |
 | [Ness Lil](https://open.spotify.com/track/07F2Rm83gNLKwiBi2ucRep) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ness Lil](https://open.spotify.com/album/63EmbDWn9juvJwL4iqgmPx) | 3:24 | 2023-08-14 | 2024-10-25 |

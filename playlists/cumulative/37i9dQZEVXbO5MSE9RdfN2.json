@@ -206,7 +206,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 180880,
       "name": "2s n 3s",
       "url": "https://open.spotify.com/track/5Wzc4Qh6nBoWZz2TjRIHYG"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -8558,7 +8558,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 267306,
       "name": "How to Make Gravy",
       "url": "https://open.spotify.com/track/6rEOqC9CQW7kzelaDivh65"
@@ -8576,7 +8576,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 268911,
       "name": "How to Make Gravy",
       "url": "https://open.spotify.com/track/76wswZbVlavetSoQhvlxYj"
@@ -9104,6 +9104,24 @@
       "duration_ms": 181677,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
+    },
+    {
+      "album": {
+        "name": "Little Miss Shirley Temple",
+        "url": "https://open.spotify.com/album/0Ucf1sBgQbLpPa2AmbfYEi"
+      },
+      "artists": [
+        {
+          "name": "Shirley Temple",
+          "url": "https://open.spotify.com/artist/325LVWNjKZv6UwNq5xuPHt"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153053,
+      "name": "I'm Gettin Nuttin for Christmas",
+      "url": "https://open.spotify.com/track/1Aw7qXuLCpQDmcSZ456o2g"
     },
     {
       "album": {
@@ -11876,7 +11894,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -11906,7 +11924,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -13796,7 +13814,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 143184,
       "name": "NOW IT'S GONE",
       "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
@@ -14407,6 +14425,24 @@
     },
     {
       "album": {
+        "name": "Peace with Pain",
+        "url": "https://open.spotify.com/album/2N4Nxmkr3jORP44i5lZEiQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Conner",
+          "url": "https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180535,
+      "name": "Peace with Pain",
+      "url": "https://open.spotify.com/track/3bPVSzCzxrMxheZEhq62Cp"
+    },
+    {
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -14732,7 +14768,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 108791,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
@@ -14750,7 +14786,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 108798,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0CT22b8NYf47LKD5FSrJHO"
@@ -17561,6 +17597,24 @@
     },
     {
       "album": {
+        "name": "Steam",
+        "url": "https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd"
+      },
+      "artists": [
+        {
+          "name": "East 17",
+          "url": "https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267133,
+      "name": "Stay Another Day",
+      "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
+    },
+    {
+      "album": {
         "name": "Stay in Your Lane",
         "url": "https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z"
       },
@@ -17922,7 +17976,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
@@ -17944,7 +17998,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"

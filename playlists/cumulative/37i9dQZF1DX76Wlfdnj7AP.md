@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,398 songs - 3 day 3 hr 28 min
+1,399 songs - 3 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [7 Seconds \(feat\. Shamiya Battles\) \[Radio Edit\]](https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG) | 1:32 | 2024-10-22 |  |
 | [911 \- Remix](https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [911 \(Remix\)](https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR) | 3:28 | 2021-07-18 | 2021-10-13 |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-03-30 | 2023-02-19 |
-| [A Milli \- SIDEPIECE Remix](https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [A Milli \(SIDEPIECE Remix\)](https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS) | 2:33 | 2023-02-14 |  |
+| [A Milli \- SIDEPIECE Remix](https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [A Milli \(SIDEPIECE Remix\)](https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS) | 2:33 | 2023-02-14 | 2024-12-27 |
 | [Acronym](https://open.spotify.com/track/2LDzkukrAPSqUpCzuggJRN) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Acronym](https://open.spotify.com/album/0LIUuVfhyE6CzCbuXJ6t18) | 6:46 | 2020-07-03 | 2020-09-15 |
 | [Act a Fool](https://open.spotify.com/track/3KIMdTgROcteSwwKwoK3Bs) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Act a Fool](https://open.spotify.com/album/0a7jB92VAx5XUNqvryHsox) | 4:48 | 2019-08-09 | 2021-03-16 |
 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 | 2020-10-06 | 2020-11-03 |
@@ -1124,6 +1124,7 @@
 | [Spicy Future](https://open.spotify.com/track/3jtIrwj6m3qdME2nCUBVwF) | [Barely Alive](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3) | [Spicy Future](https://open.spotify.com/album/03z9NrPNsETvFZbqbJfmrw) | 2:51 | 2019-11-15 | 2020-05-30 |
 | [Spinnin](https://open.spotify.com/track/5OzgCc3gQsqchX95k1C1Qa) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Spinnin](https://open.spotify.com/album/00MzZpBeVYJBvnt6dKrvS4) | 1:50 | 2023-01-06 | 2024-12-05 |
 | [Spite](https://open.spotify.com/track/2FSUNChv7yVrImQlCWhQpO) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [Spite](https://open.spotify.com/album/3sqg64JTldt8YlBbdTfOwb) | 4:24 | 2019-06-11 | 2019-06-12 |
+| [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-12-26 |  |
 | [Squats](https://open.spotify.com/track/3iSK0crYWJQZC1SGgruMcW) | [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [SLATIN](https://open.spotify.com/artist/2K7Mq9tikWmSfodrb6ZyD3), [Blak Trash](https://open.spotify.com/artist/0Hq5yFzGhEVdgmLMiylxET) | [Squats](https://open.spotify.com/album/3HEPHrJIH4yIeFnmUHJwsi) | 2:42 | 2019-10-23 | 2020-09-15 |
 | [Started](https://open.spotify.com/track/5t0VcwyjDPOWIdylULdfxk) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Started](https://open.spotify.com/album/04MknhNSl3DH9qDbBr61bS) | 3:06 | 2019-05-26\* | 2020-02-01 |
 | [Stay \(Don't Go Away\) \[feat\. Raye\] \- Nicky Romero Remix](https://open.spotify.com/track/5qIzTkMpgEFfvkDdr9zJzg) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Stay \(Don't Go Away\) \[feat\. Raye\] \[Nicky Romero Remix\]](https://open.spotify.com/album/7biIbzlDBUbV7p3SOwlF1q) | 2:57 | 2019-07-06 | 2020-05-30 |

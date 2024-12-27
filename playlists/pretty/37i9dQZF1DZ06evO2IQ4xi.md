@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,044 likes - 44 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,381 likes - 44 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 7 | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:18 |
 | 8 | [BOILED PEANUTS](https://open.spotify.com/track/3Ehr6qjkJQTSL1LjsWELQb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 |
 | 9 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
-| 10 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 |
-| 11 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 |
+| 10 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 |
+| 11 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 |
 | 12 | [BULLFROG](https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 1:34 |
 | 13 | [Spookie Coochie](https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Spookie Coochie](https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR) | 2:48 |
 | 14 | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/track/6l8Qzewg2rhEgfyaoJRRTJ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/album/1qOm9MfWnGxA4EPdKeDSXs) | 2:23 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 43 | [Girls](https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls](https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9) | 5:17 |
 | 44 | [God](https://open.spotify.com/track/34soFye9AmIvGfmc9YPQRi) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:36 |
 
-Snapshot ID: `Z2n5gAAAAAAZ5o4zw0lJ0X5D8om3TdhK`
+Snapshot ID: `Z2tLAAAAAAB3l4WmbWC2m2FA0/xdL7mh`

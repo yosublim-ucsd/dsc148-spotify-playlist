@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: In\u00e9s Errandonea.",
-  "num_followers": 127620,
+  "num_followers": 127655,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 198642,
-      "name": "Lugar ideal",
-      "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "Quiero Mejor",
         "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 183165,
       "name": "Quiero Mejor",
       "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 198642,
+      "name": "Lugar ideal",
+      "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "poquito",
-        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "poquito",
-      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "A la deriva",
         "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
       },
@@ -771,22 +755,18 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "LLORAR",
-        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
+        "name": "poquito",
+        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
       },
       "artists": [
         {
-          "name": "Magdalena Matthey",
-          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 238266,
-      "name": "LLORAR",
-      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
+      "duration_ms": 219681,
+      "name": "poquito",
+      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -815,18 +795,42 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "FANZINE",
-        "url": "https://open.spotify.com/album/7ke6TyqA8BI2gauyWGqZUf"
+        "name": "LLORAR",
+        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
       },
       "artists": [
         {
-          "name": "Ant\u00edlopez",
-          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
+          "name": "Magdalena Matthey",
+          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 186976,
-      "name": "FANZINE",
-      "url": "https://open.spotify.com/track/2nsh52iLz95IhDoq1BUupl"
+      "duration_ms": 238266,
+      "name": "LLORAR",
+      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
+        "name": "La Vista y el Habla",
+        "url": "https://open.spotify.com/album/0vPr9Sq4zfNR0iuMfVYBtw"
+      },
+      "artists": [
+        {
+          "name": "ISTMO",
+          "url": "https://open.spotify.com/artist/19vuGSNSERbfUNNfmRoFIL"
+        },
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "duration_ms": 223542,
+      "name": "La Vista y el Habla",
+      "url": "https://open.spotify.com/track/77C5U9TIFwdc6NrX0p874w"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -851,22 +855,18 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "La Vista y el Habla",
-        "url": "https://open.spotify.com/album/0vPr9Sq4zfNR0iuMfVYBtw"
+        "name": "FANZINE",
+        "url": "https://open.spotify.com/album/7ke6TyqA8BI2gauyWGqZUf"
       },
       "artists": [
         {
-          "name": "ISTMO",
-          "url": "https://open.spotify.com/artist/19vuGSNSERbfUNNfmRoFIL"
-        },
-        {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+          "name": "Ant\u00edlopez",
+          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
         }
       ],
-      "duration_ms": 223542,
-      "name": "La Vista y el Habla",
-      "url": "https://open.spotify.com/track/77C5U9TIFwdc6NrX0p874w"
+      "duration_ms": 186976,
+      "name": "FANZINE",
+      "url": "https://open.spotify.com/track/2nsh52iLz95IhDoq1BUupl"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Due\u00f1a",
-        "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        },
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        }
-      ],
-      "duration_ms": 195024,
-      "name": "Due\u00f1a",
-      "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 212019,
       "name": "T\u00f3came",
       "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
+        "name": "Due\u00f1a",
+        "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        },
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "duration_ms": 195024,
+      "name": "Due\u00f1a",
+      "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Ma\u00f1ana es tarde",
-        "url": "https://open.spotify.com/album/3iXfZHPDPpX2Zf2zqZriBN"
-      },
-      "artists": [
-        {
-          "name": "alberto.vela",
-          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
-        }
-      ],
-      "duration_ms": 199070,
-      "name": "Ma\u00f1ana es tarde",
-      "url": "https://open.spotify.com/track/2V4LbhEo9pHIBhZ8suAxKg"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "Pan de muertos",
         "url": "https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 196670,
       "name": "Pan de muertos",
       "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
+        "name": "Ma\u00f1ana es tarde",
+        "url": "https://open.spotify.com/album/3iXfZHPDPpX2Zf2zqZriBN"
+      },
+      "artists": [
+        {
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+        }
+      ],
+      "duration_ms": 199070,
+      "name": "Ma\u00f1ana es tarde",
+      "url": "https://open.spotify.com/track/2V4LbhEo9pHIBhZ8suAxKg"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Hoy no tengo nada que hacer",
-        "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
-      },
-      "artists": [
-        {
-          "name": "Ombligo",
-          "url": "https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y"
-        },
-        {
-          "name": "La Pena",
-          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
-        }
-      ],
-      "duration_ms": 251856,
-      "name": "Hoy no tengo nada que hacer",
-      "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "Deshielo",
         "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
+        "name": "Hoy no tengo nada que hacer",
+        "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
+      },
+      "artists": [
+        {
+          "name": "Ombligo",
+          "url": "https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y"
+        },
+        {
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
+        }
+      ],
+      "duration_ms": 251856,
+      "name": "Hoy no tengo nada que hacer",
+      "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "Que te parta un rayo",
-        "url": "https://open.spotify.com/album/68o0h7V0M3TacqOzcy3UDu"
-      },
-      "artists": [
-        {
-          "name": "Pauline En La Playa",
-          "url": "https://open.spotify.com/artist/6lWRTt7KIsFeuwixhbgnTe"
-        }
-      ],
-      "duration_ms": 254847,
-      "name": "Que te parta un rayo",
-      "url": "https://open.spotify.com/track/1AR3Xeu36321ZWz5xaFkyT"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 209326,
       "name": "Dicen Que Llora",
       "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
+        "name": "Que te parta un rayo",
+        "url": "https://open.spotify.com/album/68o0h7V0M3TacqOzcy3UDu"
+      },
+      "artists": [
+        {
+          "name": "Pauline En La Playa",
+          "url": "https://open.spotify.com/artist/6lWRTt7KIsFeuwixhbgnTe"
+        }
+      ],
+      "duration_ms": 254847,
+      "name": "Que te parta un rayo",
+      "url": "https://open.spotify.com/track/1AR3Xeu36321ZWz5xaFkyT"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
         "name": "Migas",
         "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
         "name": "Tananan\u00e1",
         "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
       },
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
+        "name": "Qu\u00e9 Bonito Es Tu Mirar",
+        "url": "https://open.spotify.com/album/7b01cMsnic5QsuDVSuwN4E"
+      },
+      "artists": [
+        {
+          "name": "Manuel Villaescusa",
+          "url": "https://open.spotify.com/artist/6nmnwrJlB3ODf44KSORUyA"
+        }
+      ],
+      "duration_ms": 285581,
+      "name": "Qu\u00e9 Bonito Es Tu Mirar",
+      "url": "https://open.spotify.com/track/78KNojt04z4EYY9n41bWyf"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
         "name": "El Estallido",
         "url": "https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
-        "name": "Qu\u00e9 Bonito Es Tu Mirar",
-        "url": "https://open.spotify.com/album/7b01cMsnic5QsuDVSuwN4E"
-      },
-      "artists": [
-        {
-          "name": "Manuel Villaescusa",
-          "url": "https://open.spotify.com/artist/6nmnwrJlB3ODf44KSORUyA"
-        }
-      ],
-      "duration_ms": 285581,
-      "name": "Qu\u00e9 Bonito Es Tu Mirar",
-      "url": "https://open.spotify.com/track/78KNojt04z4EYY9n41bWyf"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
+        "name": "Siembro",
+        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "Raquel Riba Rossy",
+          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
+        }
+      ],
+      "duration_ms": 231373,
+      "name": "Siembro",
+      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
         "name": "Palomita de Mar",
         "url": "https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
-        "name": "Siembro",
-        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "Raquel Riba Rossy",
-          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Siembro",
-      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
     },
     {
       "added_at": "2024-12-20 15:56:58",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-12-20 15:56:58",
       "album": {
+        "name": "\u00a1Qu\u00e9 bonito es vivir!",
+        "url": "https://open.spotify.com/album/4CPaFD65cexVMdHVbCoddz"
+      },
+      "artists": [
+        {
+          "name": "La Helen",
+          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
+        }
+      ],
+      "duration_ms": 217475,
+      "name": "\u00a1Qu\u00e9 bonito es vivir!",
+      "url": "https://open.spotify.com/track/1bZZOc7OZOI0lH1zI72MtY"
+    },
+    {
+      "added_at": "2024-12-20 15:56:58",
+      "album": {
         "name": "REGALAMOS ROSAS EN LA LUNA",
         "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 280106,
       "name": "REGALAMOS ROSAS EN LA LUNA",
       "url": "https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc"
-    },
-    {
-      "added_at": "2024-12-20 15:56:58",
-      "album": {
-        "name": "\u00a1Qu\u00e9 bonito es vivir!",
-        "url": "https://open.spotify.com/album/4CPaFD65cexVMdHVbCoddz"
-      },
-      "artists": [
-        {
-          "name": "La Helen",
-          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
-        }
-      ],
-      "duration_ms": 217475,
-      "name": "\u00a1Qu\u00e9 bonito es vivir!",
-      "url": "https://open.spotify.com/track/1bZZOc7OZOI0lH1zI72MtY"
     },
     {
       "added_at": "2024-12-20 15:56:58",

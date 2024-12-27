@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,598 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,600 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 48 | [Tu Maldad](https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:15 |
 | 49 | [Arrepiéntete](https://open.spotify.com/track/0qe27hcrq0TrMt83uYpTIs) | [Rojo Tabaco](https://open.spotify.com/artist/5xoyjz868s9vDfGyJkVRRN), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Arrepiéntete](https://open.spotify.com/album/2U45ybea0lPaBgJCvKSNEf) | 2:55 |
 
-Snapshot ID: `Z2n5gAAAAABfXcjd7u97e5u5eRhdIWyy`
+Snapshot ID: `Z2tLAAAAAABmLx23kK2ZFO53SWDjLbus`

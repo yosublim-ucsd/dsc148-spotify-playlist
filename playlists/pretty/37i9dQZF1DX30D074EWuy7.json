@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 31408,
+  "num_followers": 31422,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Shades of Chet",
+        "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        }
+      ],
+      "duration_ms": 457360,
+      "name": "You can't go home again",
+      "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 251109,
       "name": "You Know",
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Shades of Chet",
-        "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        }
-      ],
-      "duration_ms": 457360,
-      "name": "You can't go home again",
-      "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Amore a prima vista",
-        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
-      },
-      "artists": [
-        {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
-        },
-        {
-          "name": "Papik",
-          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
-        }
-      ],
-      "duration_ms": 164246,
-      "name": "Amore a prima vista - Bossa & Jazz Version",
-      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Scenario",
         "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 566966,
       "name": "Hula Om",
       "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Amore a prima vista",
+        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
+      },
+      "artists": [
+        {
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+        },
+        {
+          "name": "Papik",
+          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
+        }
+      ],
+      "duration_ms": 164246,
+      "name": "Amore a prima vista - Bossa & Jazz Version",
+      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Opera prima (Including Ice One Remix)",
-        "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
-      },
-      "artists": [
-        {
-          "name": "Loop Therapy",
-          "url": "https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 278773,
-      "name": "Musica e fumo (featuring Colle Der Fomento)",
-      "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1107,38 +1087,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+        "name": "Opera prima (Including Ice One Remix)",
+        "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
       "artists": [
         {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Liquid Portraits",
-        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
-      },
-      "artists": [
-        {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+          "name": "Loop Therapy",
+          "url": "https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN"
         },
         {
-          "name": "Domenico Candellori",
-          "url": "https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC"
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Southern Dub",
-      "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
+      "duration_ms": 278773,
+      "name": "Musica e fumo (featuring Colle Der Fomento)",
+      "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1187,6 +1151,42 @@
       "duration_ms": 194977,
       "name": "Rotation Suggesting Permanence",
       "url": "https://open.spotify.com/track/3PdRX3VXcvB5QihiG9AGkn"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Liquid Portraits",
+        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
+      },
+      "artists": [
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        },
+        {
+          "name": "Domenico Candellori",
+          "url": "https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Southern Dub",
+      "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "For Those I Never Knew",
         "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
       },
@@ -1435,46 +1435,6 @@
       "duration_ms": 269139,
       "name": "How Far Can You Fly? (Ladder) - Original Version",
       "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Cosmica Italiana",
-        "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Morresi",
-          "url": "https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2"
-        },
-        {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
-        }
-      ],
-      "duration_ms": 222391,
-      "name": "Movimento Astratto",
-      "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Under Italian Skies",
-        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        },
-        {
-          "name": "Andrea Donati",
-          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
-        }
-      ],
-      "duration_ms": 323533,
-      "name": "Impronte",
-      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1511,22 +1471,42 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Kuni",
-        "url": "https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM"
+        "name": "Under Italian Skies",
+        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
       },
       "artists": [
         {
-          "name": "LNDFK",
-          "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
         },
         {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+          "name": "Andrea Donati",
+          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
         }
       ],
-      "duration_ms": 231426,
-      "name": "How Do We Know We're Alive",
-      "url": "https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP"
+      "duration_ms": 323533,
+      "name": "Impronte",
+      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Cosmica Italiana",
+        "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Morresi",
+          "url": "https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2"
+        },
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "duration_ms": 222391,
+      "name": "Movimento Astratto",
+      "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1543,6 +1523,26 @@
       "duration_ms": 184213,
       "name": "Looping",
       "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Kuni",
+        "url": "https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM"
+      },
+      "artists": [
+        {
+          "name": "LNDFK",
+          "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "How Do We Know We're Alive",
+      "url": "https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Something In Our Way",
-        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
-      },
-      "artists": [
-        {
-          "name": "Danilo Rea",
-          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Explorare",
         "url": "https://open.spotify.com/album/2bISlKj86NDaG7oV1HBxFB"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Senza Fine",
-        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
+        "name": "Something In Our Way",
+        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
       },
       "artists": [
         {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+          "name": "Danilo Rea",
+          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
         }
       ],
-      "duration_ms": 137613,
-      "name": "Napule \u00c8",
-      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
+      "duration_ms": 336666,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 353310,
       "name": "Desertico",
       "url": "https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Senza Fine",
+        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
+      },
+      "artists": [
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 137613,
+      "name": "Napule \u00c8",
+      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1831,6 +1831,34 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Ten Stops",
+        "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
+      },
+      "artists": [
+        {
+          "name": "Simone Locarni",
+          "url": "https://open.spotify.com/artist/3csUj3ZIE3yX1maghB7MZ5"
+        },
+        {
+          "name": "Andrea Dulbecco",
+          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Riccardo Fioravanti",
+          "url": "https://open.spotify.com/artist/6efZd8coYQR0z5g2PTyshf"
+        }
+      ],
+      "duration_ms": 344596,
+      "name": "Ten Stops",
+      "url": "https://open.spotify.com/track/0hlprOV51kOSzcJm2c2KOR"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Unconscious Collective",
         "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
       },
@@ -1875,50 +1903,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Ten Stops",
-        "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
-      },
-      "artists": [
-        {
-          "name": "Simone Locarni",
-          "url": "https://open.spotify.com/artist/3csUj3ZIE3yX1maghB7MZ5"
-        },
-        {
-          "name": "Andrea Dulbecco",
-          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
-        },
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        },
-        {
-          "name": "Riccardo Fioravanti",
-          "url": "https://open.spotify.com/artist/6efZd8coYQR0z5g2PTyshf"
-        }
-      ],
-      "duration_ms": 344596,
-      "name": "Ten Stops",
-      "url": "https://open.spotify.com/track/0hlprOV51kOSzcJm2c2KOR"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Ampia",
-        "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 370080,
-      "name": "Traspare",
-      "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "L'AMANTE BUGIARDO",
         "url": "https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 256560,
       "name": "L'AMANTE BUGIARDO",
       "url": "https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Ampia",
+        "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "duration_ms": 370080,
+      "name": "Traspare",
+      "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
     },
     {
       "added_at": "2024-12-05 23:01:00",

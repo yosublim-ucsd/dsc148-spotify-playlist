@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,425 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,441 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,14 +62,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 52 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
 | 53 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
 | 54 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
-| 55 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
-| 56 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 |
-| 57 | [Alarido](https://open.spotify.com/track/0rG9YumeEcdIjyM6sg2Ap9) | [La Sombra del Grajo](https://open.spotify.com/artist/7fmqc78do1eu7j750fkiPO) | [Alarido](https://open.spotify.com/album/6u1KRaLtj158VGVKycQCjd) | 3:48 |
+| 55 | [Alarido](https://open.spotify.com/track/0rG9YumeEcdIjyM6sg2Ap9) | [La Sombra del Grajo](https://open.spotify.com/artist/7fmqc78do1eu7j750fkiPO) | [Alarido](https://open.spotify.com/album/6u1KRaLtj158VGVKycQCjd) | 3:48 |
+| 56 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
+| 57 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 |
 | 58 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
 | 59 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
-| 60 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 |
-| 61 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
-| 62 | [Desnazificant](https://open.spotify.com/track/01XJzWEVuH9oP6hyvHIJ58) | [Inadaptats](https://open.spotify.com/artist/4mqXPNpuimTATkJ3WNHGik) | [Desnazificant](https://open.spotify.com/album/08qOnRM6t3iraXWtS7qVKP) | 3:56 |
+| 60 | [Desnazificant](https://open.spotify.com/track/01XJzWEVuH9oP6hyvHIJ58) | [Inadaptats](https://open.spotify.com/artist/4mqXPNpuimTATkJ3WNHGik) | [Desnazificant](https://open.spotify.com/album/08qOnRM6t3iraXWtS7qVKP) | 3:56 |
+| 61 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 |
+| 62 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
 | 63 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
 | 64 | [Otra Partida](https://open.spotify.com/track/6KODMn838ClulWzOf27Lkm) | [A Granel](https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M) | [Otra Partida](https://open.spotify.com/album/6AMSWPbMxR3uAeGqOWhKcq) | 3:05 |
 | 65 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 75 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 |
 | 76 | [Sabor a Plomo](https://open.spotify.com/track/4hc7wJtn6lWgD6eAmcfjq0) | [Belial](https://open.spotify.com/artist/2SDf1CeFMHEop1lzdpvS28) | [Sabor a Plomo](https://open.spotify.com/album/4CR0loWGYTsMyIgY8kybeh) | 3:19 |
 | 77 | [Levántate](https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Levántate](https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5) | 3:52 |
-| 78 | [Nada que me haga resurgir](https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Nada que me haga resurgir](https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI) | 3:07 |
-| 79 | [En La Batalla](https://open.spotify.com/track/6cMzrfhTShDac4wRTDPJ6w) | [REO](https://open.spotify.com/artist/5u0DB8dhYFxaW2Wwl5Fnr2) | [Con Dolor](https://open.spotify.com/album/03bpNQfxpjadNsU3zlQLlg) | 2:55 |
+| 78 | [En La Batalla](https://open.spotify.com/track/6cMzrfhTShDac4wRTDPJ6w) | [REO](https://open.spotify.com/artist/5u0DB8dhYFxaW2Wwl5Fnr2) | [Con Dolor](https://open.spotify.com/album/03bpNQfxpjadNsU3zlQLlg) | 2:55 |
+| 79 | [Nada que me haga resurgir](https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Nada que me haga resurgir](https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI) | 3:07 |
 | 80 | [Pudredumbre](https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v) | [A Tomar X Culo](https://open.spotify.com/artist/6r5n867130CDJnBJC1kJWW) | [Pudredumbre](https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr) | 2:05 |
 | 81 | [Cien Colores](https://open.spotify.com/track/6pEb4CdkThMdqD0g0MXSik) | [La Inquisición](https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ) | [Cien Colores](https://open.spotify.com/album/6PgFqXwfJPQcJ5gQlK2V4L) | 2:50 |
 | 82 | [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 |

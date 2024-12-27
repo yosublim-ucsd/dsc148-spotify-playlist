@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Daniela Spalla & Camilo en portada.",
-  "num_followers": 88404,
+  "num_followers": 88442,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-12-20 19:11:18",
       "album": {
-        "name": "QUEBRANTO",
-        "url": "https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "QUEBRANTO",
-      "url": "https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1"
-    },
-    {
-      "added_at": "2024-12-20 19:11:18",
-      "album": {
         "name": "miamor",
         "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 159360,
       "name": "miamor",
       "url": "https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF"
+    },
+    {
+      "added_at": "2024-12-20 19:11:18",
+      "album": {
+        "name": "QUEBRANTO",
+        "url": "https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "QUEBRANTO",
+      "url": "https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1"
     },
     {
       "added_at": "2024-12-20 19:11:18",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-12-20 19:11:18",
       "album": {
+        "name": "Te Juro No Te Miento",
+        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Te Juro No Te Miento",
+      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+    },
+    {
+      "added_at": "2024-12-20 19:11:18",
+      "album": {
         "name": "Qui\u00e9n lo dir\u00eda",
         "url": "https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 159497,
       "name": "Qui\u00e9n lo dir\u00eda",
       "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
-    },
-    {
-      "added_at": "2024-12-20 19:11:18",
-      "album": {
-        "name": "Te Juro No Te Miento",
-        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Te Juro No Te Miento",
-      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
     },
     {
       "added_at": "2024-12-20 19:11:18",

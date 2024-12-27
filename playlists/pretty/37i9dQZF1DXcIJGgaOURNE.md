@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,101 likes - 83 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,111 likes - 83 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 82 | [6 A.M.](https://open.spotify.com/track/4oiMLvhZYMov0BjrTU2jyK) | [DJ HMC](https://open.spotify.com/artist/3LpUervcOFfZjMgeXIabZN) | [6 A.M\. / Maurader](https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d) | 5:19 |
 | 83 | [Spending Week \- Oceanic 'Cornucopia' Remix](https://open.spotify.com/track/2vyx6Qnk5eeOHatGjdKvXp) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Oceanic](https://open.spotify.com/artist/7sANqRox5nKK9vc7MZrg81) | [The Livingstone Remix EP](https://open.spotify.com/album/3Di5h8sc8imKqPlGUueTIT) | 8:09 |
 
-Snapshot ID: `ZmwA7wAAAACxhIpqiglya3cu4vP3eUoA`
+Snapshot ID: `Z23uIgAAAACaStdpOD5n6WjZZA8z6HdI`

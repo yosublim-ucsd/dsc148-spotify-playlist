@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 
 > 女性ポップアイコンの名曲を一つのプレイリストに。cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,892 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,890 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 | 14 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 15 | [Heartbreaker From Tennessee](https://open.spotify.com/track/7HSEbDs7fluK8oXGduNKay) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Heartbreaker From Tennessee](https://open.spotify.com/album/6Imjg8TtPxOpudGWMqUeCH) | 2:12 |
 | 16 | [Alice of the Upper Class](https://open.spotify.com/track/3C34G0n3pThaxTSwsWpSOT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/3rnRG8mHzOpShNNJpYQQDR) | 3:22 |
-| 17 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
+| 17 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 18 | [bonsai \(feat\. CENT\)](https://open.spotify.com/track/4LyVCEKAB9Dk4PNoqdWNuY) | [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp), [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [bonsai \(feat\. CENT\)](https://open.spotify.com/album/4EjqrQmADVVs6lsoktBkDE) | 3:26 |
-| 19 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
+| 19 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 20 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 |
 | 21 | [Drums of Death](https://open.spotify.com/track/0s2kdkcG5N7ySBbEwTiFEF) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Drums of Death](https://open.spotify.com/album/5O2iDeaXzm0HOsEkYartOo) | 3:11 |
-| 22 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
-| 23 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
-| 24 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 |
-| 25 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
-| 26 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
+| 22 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
+| 23 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
+| 24 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 25 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 |
+| 26 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
 | 27 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
 | 28 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
 | 29 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4F2k37fMTyn.md) - [plain]
 | 59 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
 | 60 | [We Are Never Ever Getting Back Together \(Taylor's Version\)](https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:13 |
 
-Snapshot ID: `Z2Q1CQAAAADZ+NeoFkQsfB4TRDeCVbkd`
+Snapshot ID: `Z21vjAAAAACnjYTVhDHRqedn43SD8EH0`

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Burak Bulut
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Simge x Era7capone
 
 99 songs - 5 hr 1 min
 

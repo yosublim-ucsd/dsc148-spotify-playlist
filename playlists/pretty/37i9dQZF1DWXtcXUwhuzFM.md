@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa emma & matilda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,415 likes - 61 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,420 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,21 +53,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 43 | [Never Enough](https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Never Enough](https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1) | 3:19 |
 | 44 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 45 | [When He Comes Around](https://open.spotify.com/track/2ShbjyFjQJ6mRKy4NykDbU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [When He Comes Around](https://open.spotify.com/album/4Pw4LalZWzcnve0sH4ms1H) | 3:14 |
-| 46 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 |
-| 47 | [Kaikista pedoista](https://open.spotify.com/track/3HmiDngSDPa600y1sn4DYo) | [RiASA](https://open.spotify.com/artist/6x5HPkDbOMZPuFCRRHiRi1) | [Kaikista pedoista](https://open.spotify.com/album/2c61ylXjkx61QnooC5VoYy) | 3:33 |
-| 48 | [On Sight](https://open.spotify.com/track/4W8QlyNrOorTaOoJn7gIrp) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [On Sight](https://open.spotify.com/album/5xv5wv1PbITAw9gwVNQ6rM) | 1:59 |
-| 49 | [On And On](https://open.spotify.com/track/3yGvuM7ZiPgjGbicd90rty) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [On And On](https://open.spotify.com/album/1smjM1eRoFGGHWJjtq4hrO) | 2:26 |
-| 50 | [Taivaaseen](https://open.spotify.com/track/1f4eGu6u6EvSWq5QDHey0j) | [Threelaxs](https://open.spotify.com/artist/47L49YxUl4BLPMsudMYI3Z), [Kekkonen](https://open.spotify.com/artist/5tJwZkGyiMumm81fN1aM0p) | [Taivaaseen](https://open.spotify.com/album/1cx25Wnqsvi2zSnpZxndFw) | 3:02 |
-| 51 | [Syyllinen syksyyn](https://open.spotify.com/track/39JntBIke9N6IncNf0t8e2) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Syyllinen syksyyn](https://open.spotify.com/album/68o9s4ZHwgOq81AWkDkY9B) | 3:11 |
-| 52 | [Spider Lilly](https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [Spider Lilly](https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK) | 4:34 |
-| 53 | [Rakkauden Haamu](https://open.spotify.com/track/58wVAZTNwpXIDRtyHhxeAG) | [kaipuu](https://open.spotify.com/artist/31WpuOj9ZXuZCVyU2icUwT) | [Rakkauden Haamu](https://open.spotify.com/album/0JWNaSyCLJJVgU3hbvSKjO) | 3:12 |
-| 54 | [New Year's Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 |
-| 55 | [The Final Straw](https://open.spotify.com/track/0V2G4OMFtXsUMzWZBvYJas) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [The Final Straw](https://open.spotify.com/album/24GDSBE6IJN4q3WXzQJc1A) | 3:11 |
-| 56 | [What we said](https://open.spotify.com/track/5Y4aw2gcV037p1riWrghOb) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [What we said](https://open.spotify.com/album/6j2186lsxzwtnEEeDA76tm) | 3:52 |
-| 57 | [armor](https://open.spotify.com/track/2lEJr7hB3LunkHSJFvX17z) | [r1](https://open.spotify.com/artist/16UN1X6J3owogXWB5Vt4i7) | [keho ja mieli // armor](https://open.spotify.com/album/5fD0tYRz6qZQlNnrFYV14u) | 2:47 |
-| 58 | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
-| 59 | [Not Me](https://open.spotify.com/track/0Zdmd3wlVvDbVAj1dfqxbT) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Peysoh Did It](https://open.spotify.com/album/0vrkhx5cRnzXHWEaLkrwOp) | 1:50 |
-| 60 | [In The Tall Grass](https://open.spotify.com/track/6G03hqmLDzZChdr2LwO8zA) | [Lust For Lily](https://open.spotify.com/artist/0ZJ3IO7uby8sijyT0uGw3Y) | [In The Tall Grass](https://open.spotify.com/album/07VO92aGgrA2vsdzcQbGPf) | 2:29 |
-| 61 | [Honestly](https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S) | [Honestly](https://open.spotify.com/album/3QJXbQQdY1lGrbrDfTMlJF) | 2:53 |
+| 46 | [People Are Strange](https://open.spotify.com/track/71IXymKfRMk8Jpo6NrukhT) | [The Confusions](https://open.spotify.com/artist/4sdIrh3T6OIgerxqonYuvM) | [Songs for Movies](https://open.spotify.com/album/4XzRucinrhyfgHstVgZoJR) | 4:23 |
+| 47 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 |
+| 48 | [Kaikista pedoista](https://open.spotify.com/track/3HmiDngSDPa600y1sn4DYo) | [RiASA](https://open.spotify.com/artist/6x5HPkDbOMZPuFCRRHiRi1) | [Kaikista pedoista](https://open.spotify.com/album/2c61ylXjkx61QnooC5VoYy) | 3:33 |
+| 49 | [On Sight](https://open.spotify.com/track/4W8QlyNrOorTaOoJn7gIrp) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [On Sight](https://open.spotify.com/album/5xv5wv1PbITAw9gwVNQ6rM) | 1:59 |
+| 50 | [On And On](https://open.spotify.com/track/3yGvuM7ZiPgjGbicd90rty) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [On And On](https://open.spotify.com/album/1smjM1eRoFGGHWJjtq4hrO) | 2:26 |
+| 51 | [Taivaaseen](https://open.spotify.com/track/1f4eGu6u6EvSWq5QDHey0j) | [Threelaxs](https://open.spotify.com/artist/47L49YxUl4BLPMsudMYI3Z), [Kekkonen](https://open.spotify.com/artist/5tJwZkGyiMumm81fN1aM0p) | [Taivaaseen](https://open.spotify.com/album/1cx25Wnqsvi2zSnpZxndFw) | 3:02 |
+| 52 | [Syyllinen syksyyn](https://open.spotify.com/track/39JntBIke9N6IncNf0t8e2) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Syyllinen syksyyn](https://open.spotify.com/album/68o9s4ZHwgOq81AWkDkY9B) | 3:11 |
+| 53 | [Spider Lilly](https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [Spider Lilly](https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK) | 4:34 |
+| 54 | [Rakkauden Haamu](https://open.spotify.com/track/58wVAZTNwpXIDRtyHhxeAG) | [kaipuu](https://open.spotify.com/artist/31WpuOj9ZXuZCVyU2icUwT) | [Rakkauden Haamu](https://open.spotify.com/album/0JWNaSyCLJJVgU3hbvSKjO) | 3:12 |
+| 55 | [New Year's Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 |
+| 56 | [The Final Straw](https://open.spotify.com/track/0V2G4OMFtXsUMzWZBvYJas) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [The Final Straw](https://open.spotify.com/album/24GDSBE6IJN4q3WXzQJc1A) | 3:11 |
+| 57 | [What we said](https://open.spotify.com/track/5Y4aw2gcV037p1riWrghOb) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [What we said](https://open.spotify.com/album/6j2186lsxzwtnEEeDA76tm) | 3:52 |
+| 58 | [armor](https://open.spotify.com/track/2lEJr7hB3LunkHSJFvX17z) | [r1](https://open.spotify.com/artist/16UN1X6J3owogXWB5Vt4i7) | [keho ja mieli // armor](https://open.spotify.com/album/5fD0tYRz6qZQlNnrFYV14u) | 2:47 |
+| 59 | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
+| 60 | [Not Me](https://open.spotify.com/track/0Zdmd3wlVvDbVAj1dfqxbT) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Peysoh Did It](https://open.spotify.com/album/0vrkhx5cRnzXHWEaLkrwOp) | 1:50 |
+| 61 | [In The Tall Grass](https://open.spotify.com/track/6G03hqmLDzZChdr2LwO8zA) | [Lust For Lily](https://open.spotify.com/artist/0ZJ3IO7uby8sijyT0uGw3Y) | [In The Tall Grass](https://open.spotify.com/album/07VO92aGgrA2vsdzcQbGPf) | 2:29 |
+| 62 | [Honestly](https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S) | [Honestly](https://open.spotify.com/album/3QJXbQQdY1lGrbrDfTMlJF) | 2:53 |
 
 Snapshot ID: `Z2SXoAAAAAAt3KFMWVOafENlQEmdSfcE`

@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Los Tucanes de Tijuana, Luis R Conriquez en portada.",
-  "num_followers": 238995,
+  "num_followers": 239083,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
-      },
-      "artists": [
-        {
-          "name": "La Cuatiza",
-          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
-        }
-      ],
-      "duration_ms": 133250,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Los Brothers",
         "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 213442,
       "name": "Los Brothers",
       "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
+      },
+      "artists": [
+        {
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+        }
+      ],
+      "duration_ms": 133250,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Corridos a Lo Maximo",
-        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "David De Los Acme",
-      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Me Dicen Pollito",
         "url": "https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 259035,
       "name": "Me Dicen Pollito",
       "url": "https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "La Belikada",
-        "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 153106,
-      "name": "La Belikada",
-      "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Clave 18",
         "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 235663,
       "name": "Clave 18",
       "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "La Belikada",
+        "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 153106,
+      "name": "La Belikada",
+      "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Capitan O Chachito",
+        "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 224314,
+      "name": "Capitan O Chachito",
+      "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "La Gente Del M",
         "url": "https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 170403,
       "name": "La Gente Del M",
       "url": "https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Capitan O Chachito",
-        "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 224314,
-      "name": "Capitan O Chachito",
-      "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 237679,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "De LM a GVE",
         "url": "https://open.spotify.com/album/4mt1JOASnU158hhph30M0l"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 175583,
       "name": "Desde La Prisi\u00f3n 19",
       "url": "https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "El Mago",
-      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Asociacion Antrax",
-        "url": "https://open.spotify.com/album/68EP0SBEocxEtCeCBozk8c"
-      },
-      "artists": [
-        {
-          "name": "Los Buitres De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
-        }
-      ],
-      "duration_ms": 219684,
-      "name": "Asociacion Antrax",
-      "url": "https://open.spotify.com/track/38pjpQWm9JmIpTAyyUGRGp"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Al Gusto de Uno",
         "url": "https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 174804,
       "name": "El Guero Reyna",
       "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Asociacion Antrax",
+        "url": "https://open.spotify.com/album/68EP0SBEocxEtCeCBozk8c"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        }
+      ],
+      "duration_ms": 219684,
+      "name": "Asociacion Antrax",
+      "url": "https://open.spotify.com/track/38pjpQWm9JmIpTAyyUGRGp"
     },
     {
       "added_at": "2024-11-29 06:00:00",

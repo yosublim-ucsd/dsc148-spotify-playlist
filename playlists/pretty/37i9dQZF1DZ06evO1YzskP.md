@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,864 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,934 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ya No Vuelvas](https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ) | 3:33 |
-| 2 | [Sálvame](https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Sálvame](https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB) | 3:13 |
-| 3 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
-| 4 | [De Madrid a París](https://open.spotify.com/track/1v0a2XPbqk40rKlIiEFQCS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [De Madrid a ParÍs](https://open.spotify.com/album/3ilZ3b1wYpkJRa9UaNsodz) | 4:17 |
+| 1 | [Sálvame](https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Sálvame](https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB) | 3:13 |
+| 2 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
+| 3 | [De Madrid a París](https://open.spotify.com/track/1v0a2XPbqk40rKlIiEFQCS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [De Madrid a ParÍs](https://open.spotify.com/album/3ilZ3b1wYpkJRa9UaNsodz) | 4:17 |
+| 4 | [Ya No Vuelvas](https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ) | 3:33 |
 | 5 | [Marbella](https://open.spotify.com/track/3xmGmwtUM3tpsPArcYYAQ4) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:50 |
 | 6 | [Don Ismael](https://open.spotify.com/track/6PNZYtWTOtGgIxuyPnSbab) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/5TZ27t1orP5BcTJ6i0KgiQ) | 2:38 |
 | 7 | [Ojitos Lindos](https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:36 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 33 | [Amigo 09](https://open.spotify.com/track/6u2zEs6QmaVYbuQFzh8JVQ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:49 |
 | 34 | [Somos Mayiza](https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX) | 3:12 |
 | 35 | [CHV FLX](https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Estilo Sencillo](https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5) | [CHV FLX](https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM) | 2:24 |
-| 36 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 |
+| 36 | [No Voy Con Rodeos](https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:47 |
 | 37 | [Mcklein \(Comanches\)](https://open.spotify.com/track/2YdwRw1wiAmgLfQKPIBR4J) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:22 |
-| 38 | [No Voy Con Rodeos](https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:47 |
-| 39 | [El Niño De La Tuna](https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:47 |
-| 40 | [Arturon Beltran](https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 2:08 |
+| 38 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 |
+| 39 | [Arturon Beltran](https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 2:08 |
+| 40 | [El Gerente](https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:57 |
 | 41 | [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 |
-| 42 | [El Gerente](https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:57 |
+| 42 | [El Niño De La Tuna](https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:47 |
 | 43 | [Bien Firme el Sombrero](https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bien Firme el Sombrero](https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4) | 2:20 |
 | 44 | [El Nieto Del Mayo](https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:11 |
 | 45 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 50 | [Me Ven X LA](https://open.spotify.com/track/3VVk8rPvZ7xdKzYugKNO42) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Me Ven X LA](https://open.spotify.com/album/0OziSS9Rh7H2xnJwfYeMoS) | 2:38 |
 | 51 | [El Sera Y El Chavo](https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera Y El Chavo](https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F) | 2:50 |
 
-Snapshot ID: `Z2n5gAAAAADKRGOAwO0sFW9KxMH18aSp`
+Snapshot ID: `Z2tLAAAAAAB9/xEGU+IsPKD+f+fLajfP`

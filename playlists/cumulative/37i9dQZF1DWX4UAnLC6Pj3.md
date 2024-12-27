@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! El Mimoso Luis Antonio Lopez en portada.
 
-435 songs - 22 hr 57 min
+436 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 | 2022-11-03 |  |
 | [Made In Culiacán](https://open.spotify.com/track/2agwS63hLGGke66GxSH3BL) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Made In Culiacán](https://open.spotify.com/album/7imq6EzxyDQqHDWOemSj7s) | 2:21 | 2023-06-23 | 2023-09-29 |
 | [Mala Hierba](https://open.spotify.com/track/47Nf0haFCGYpWfMTP9Jdgd) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mala Hierba](https://open.spotify.com/album/6QFKbgYHqHWwBL1MnSrC0v) | 2:47 | 2024-04-12 |  |
+| [Malabares](https://open.spotify.com/track/1neubhunsokl2tnLWgoY48) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Malabares](https://open.spotify.com/album/42TfsK86ReyzjnN9iEXREl) | 3:41 | 2024-12-20 |  |
 | [Malamente](https://open.spotify.com/track/76okUlYIoaEsT0IVIUaOxs) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Malamente](https://open.spotify.com/album/1Rd0sR7bIlPzD8XhkfmSBM) | 3:13 | 2024-01-12 | 2024-03-23 |
 | [Mamacita](https://open.spotify.com/track/1EgDuGy5UlKVLTWv0UqIYL) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mamacita](https://open.spotify.com/album/31bOSdDYTvdfgIAGXUeCHk) | 2:41 | 2024-04-12 | 2024-06-05 |
 | [Me Dejé Ir Con Todo](https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 2:32 | 2022-12-03 |  |
@@ -260,7 +261,7 @@
 | [Necesito Tu Perdón](https://open.spotify.com/track/6uBL9bmmwwQeDK8wbE9LDr) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Banda La Autentica](https://open.spotify.com/artist/7ccozMZJAeXJcXvwvo2kRT) | [Necesito Tu Perdón](https://open.spotify.com/album/15o4wGalDXk6QJgHEhx50c) | 2:55 | 2022-06-17 | 2022-07-12 |
 | [Necesito Una Compañera](https://open.spotify.com/track/7g3mra5POFsnVAbiOJiMm7) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Necesito Una Compañera](https://open.spotify.com/album/71OHFsOtLMkkIyUEJ9h9M1) | 3:33 | 2022-09-23 | 2023-06-24 |
 | [Nimodo](https://open.spotify.com/track/7jSJmetLa9y5DUIQC1pTiq) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nimodo](https://open.spotify.com/album/19Ei3bMxRcA3DbraG7a5eY) | 3:02 | 2022-04-22 | 2022-09-06 |
-| [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats) | 2:20 | 2023-06-09 |  |
+| [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats) | 2:20 | 2023-06-09 | 2024-12-27 |
 | [No Es Lo Que Dices](https://open.spotify.com/track/2YGOwVow3IMJAOwVGAZeQW) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Va De Nuevo](https://open.spotify.com/album/0F6fytM0EQ1340itrP5o9T) | 3:22 | 2022-07-01 | 2023-01-28 |
 | [No Hay Nada Mas Que Decir](https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4) | [Banda Todo Terreno](https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX) | [No Hay Nada Mas Que Decir](https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF) | 3:32 | 2023-06-09 |  |
 | [No Le Digas](https://open.spotify.com/track/2WMz8fentsrb9TpRmymAeY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [No Le Digas](https://open.spotify.com/album/7MZMipgR6C5gGVbhNDxLxd) | 3:25 | 2022-11-03 | 2022-12-03 |

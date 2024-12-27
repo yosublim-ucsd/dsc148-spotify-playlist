@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Otsochodzi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Sobel",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 266616,
       "name": "CALVIN KELER (OUTRO)",
       "url": "https://open.spotify.com/track/7CjWRY97NCvY2U9QP4PeWT"
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 168600,
       "name": "DOBRY ZNAK",
       "url": "https://open.spotify.com/track/44b7ekJoPu7Zr43epBwBBh"
@@ -5232,6 +5232,32 @@
       "duration_ms": 166203,
       "name": "Klasyczny trap",
       "url": "https://open.spotify.com/track/6Xeq2GpNm9Go385J5lyv6I"
+    },
+    {
+      "album": {
+        "name": "KOCHASZ?",
+        "url": "https://open.spotify.com/album/41oKsyCDiyUxtWX2GL1ptR"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152386,
+      "name": "KOCHASZ?",
+      "url": "https://open.spotify.com/track/1d718gwJbujwNO9x9BzNfc"
     },
     {
       "album": {
@@ -8215,6 +8241,24 @@
     },
     {
       "album": {
+        "name": "OGRODY WINTER FREESTYLE",
+        "url": "https://open.spotify.com/album/6qdUT2lpuSxo7hAYdDvnoD"
+      },
+      "artists": [
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162391,
+      "name": "OGRODY WINTER FREESTYLE",
+      "url": "https://open.spotify.com/track/2qXptpJThd4LC1UNVhIhif"
+    },
+    {
+      "album": {
         "name": "Oh My Gawd",
         "url": "https://open.spotify.com/album/09VBO00Nq8UBvPNB07XWJS"
       },
@@ -9638,7 +9682,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 219428,
       "name": "Raz, drugi, trzeci",
       "url": "https://open.spotify.com/track/7i4xcndCyKecS3ydgoA9FE"
@@ -11328,6 +11372,32 @@
       "duration_ms": 187445,
       "name": "Ulubiony",
       "url": "https://open.spotify.com/track/233m2I0kzHIifD6NbdIYV0"
+    },
+    {
+      "album": {
+        "name": "UMOWA",
+        "url": "https://open.spotify.com/album/0z0SBsiDgF2zjuFzUsWZ5h"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "UMOWA",
+      "url": "https://open.spotify.com/track/1aSSU4UUWipkmXIpOdCKj0"
     },
     {
       "album": {

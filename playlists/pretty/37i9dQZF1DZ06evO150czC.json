@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 20847,
+  "num_followers": 20845,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAABZg89RCeKUipbzLBnSOAdg",
+  "snapshot_id": "Z2tLAAAAAAB/3JIbfpA3nECf7Hm0/Z8H",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
-        "url": "https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI"
+        "name": "N\u00e3o Desisto",
+        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
       },
       "artists": [
         {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Misael J",
-          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
         }
       ],
-      "duration_ms": 829691,
-      "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
-      "url": "https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC"
+      "duration_ms": 299788,
+      "name": "N\u00e3o Desisto",
+      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
     },
     {
       "added_at": null,
@@ -543,22 +539,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Desisto",
-        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
+        "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI"
       },
       "artists": [
         {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
         }
       ],
-      "duration_ms": 299788,
-      "name": "N\u00e3o Desisto",
-      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
+      "duration_ms": 829691,
+      "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
+      "url": "https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vencer ou Vencer (Ao Vivo)",
         "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 325720,
       "name": "Vencer ou Vencer (Ao Vivo)",
       "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Haver\u00e1 Vergonha",
-        "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 316673,
-      "name": "N\u00e3o Haver\u00e1 Vergonha",
-      "url": "https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mais Um Dia",
         "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Haver\u00e1 Vergonha",
+        "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 316673,
+      "name": "N\u00e3o Haver\u00e1 Vergonha",
+      "url": "https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midian Lima Live Session",
         "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
       },
@@ -811,6 +811,26 @@
       "duration_ms": 229552,
       "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
       "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quando o Vento Soprar (Legado)",
+        "url": "https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY"
+      },
+      "artists": [
+        {
+          "name": "Beno C\u00e9sar",
+          "url": "https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 262002,
+      "name": "Quando o Vento Soprar (Legado)",
+      "url": "https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9"
     },
     {
       "added_at": null,
@@ -851,26 +871,6 @@
       "duration_ms": 275945,
       "name": "Irresist\u00edvel Gl\u00f3ria",
       "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quando o Vento Soprar (Legado)",
-        "url": "https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY"
-      },
-      "artists": [
-        {
-          "name": "Beno C\u00e9sar",
-          "url": "https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 262002,
-      "name": "Quando o Vento Soprar (Legado)",
-      "url": "https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9"
     },
     {
       "added_at": null,

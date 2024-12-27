@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,932 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,931 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 91 | [Can we…?](https://open.spotify.com/track/3vC0yAxytKeY7cteZV63QL) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [Can we…?](https://open.spotify.com/album/6xhNzjJT8YnzxQLhtspRYX) | 2:23 |
 | 92 | [COME MY WAY](https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI) | [Jay Sanon](https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu), [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly) | [COME MY WAY](https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY) | 3:00 |
 | 93 | [Be Yourself](https://open.spotify.com/track/6P0actEG7h74NHvxqRB321) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [FEVER / SKY](https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip) | 3:22 |
-| 94 | [Yours](https://open.spotify.com/track/6IWcLsZ9h2Kde0Qjyt8BdS) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Yours](https://open.spotify.com/album/7audZAXHAdxmRD3YJErUVm) | 3:33 |
-| 95 | [Boo](https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv) | [Bachi](https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK) | [Boo](https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl) | 2:20 |
+| 94 | [Boo](https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv) | [Bachi](https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK) | [Boo](https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl) | 2:20 |
+| 95 | [Yours](https://open.spotify.com/track/6IWcLsZ9h2Kde0Qjyt8BdS) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Yours](https://open.spotify.com/album/7audZAXHAdxmRD3YJErUVm) | 3:33 |
 | 96 | [Love You, Still](https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Love You, Still](https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f) | 5:07 |
 | 97 | [OMM \(On My Mind\) \[Remix\]](https://open.spotify.com/track/5NSk2v3d5O32aJPBnWQ2b3) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Church Girls Love R&B \- Girls Trip ll](https://open.spotify.com/album/6v5VS3app0uhJ8NLXuZ0jY) | 4:35 |
 | 98 | [Holding On to You \- Single Version](https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g) | [Dan Stirling](https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Holding On To You](https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw) | 3:42 |
-| 99 | [When It Hurts](https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Lightmuzik](https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [CC](https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG) | 1:58 |
-| 100 | [Sunday Morning](https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Sunday Morning](https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD) | 2:34 |
+| 99 | [Sunday Morning](https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Sunday Morning](https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD) | 2:34 |
+| 100 | [When It Hurts](https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Lightmuzik](https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [CC](https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG) | 1:58 |
 
 Snapshot ID: `ZpdMuAAAAACp6gbNjmwMxDjxDBa/ryt/`

@@ -447,6 +447,28 @@
     },
     {
       "album": {
+        "name": "AMNESIA",
+        "url": "https://open.spotify.com/album/2H2O7XZjkAuEwORRzMIhAR"
+      },
+      "artists": [
+        {
+          "name": "Stiffy",
+          "url": "https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO"
+        },
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199407,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/3xWhaR53xysDSPketnnZjI"
+    },
+    {
+      "album": {
         "name": "Amor de Madrugada",
         "url": "https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW"
       },
@@ -7368,7 +7390,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 238612,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/4Smf2SlfBKvBztC7WLRIn3"

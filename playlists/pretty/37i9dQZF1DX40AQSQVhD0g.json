@@ -1,6 +1,6 @@
 {
   "description": "Buenas vibras para limpiar la casa! The best vibes to keep the house clean!",
-  "num_followers": 971697,
+  "num_followers": 971673,
   "original_name": "Cleaning Kit en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "VAGABUNDO",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Dile al Amor",
-      "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+        }
+      ],
+      "duration_ms": 271031,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Pa' Otro La 'O",
-        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        },
-        {
-          "name": "Jandy Feliz",
-          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
-        }
-      ],
-      "duration_ms": 271031,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Ojos Verdes",
         "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 142410,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 228146,
       "name": "S\u00e9 Que Te Duele",
       "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 168896,
       "name": "(Entre Par\u00e9ntesis)",
       "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Jose Jose (1)",
         "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 222213,
       "name": "Volv\u00ed a Nacer",
       "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "El Sapo",
+        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+      },
+      "artists": [
+        {
+          "name": "Azul Azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        }
+      ],
+      "duration_ms": 123960,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1007,22 +1023,6 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "El Sapo",
-        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
-      },
-      "artists": [
-        {
-          "name": "Azul Azul",
-          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
-        }
-      ],
-      "duration_ms": 123960,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Con Su Loquera",
+        "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
+      },
+      "artists": [
+        {
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+        }
+      ],
+      "duration_ms": 255533,
+      "name": "La Vaca",
+      "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Con Su Loquera",
-        "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Mala Fe",
-          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 255533,
-      "name": "La Vaca",
-      "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
+      "duration_ms": 267000,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1379,6 +1379,22 @@
       "duration_ms": 186013,
       "name": "Tu Boca",
       "url": "https://open.spotify.com/track/4wtOpbBoX1O3ClP6W7OEPz"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 193066,
       "name": "EL PANTALON - RUMBAS",
       "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "La ni\u00f1a fresa",
+      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Touching The Sky",
         "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
       },
       "artists": [
         {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 160626,
-      "name": "La ni\u00f1a fresa",
-      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 168601,
       "name": "Junio",
       "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/62FQCSvSUSG3m9uajVkvWe"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 214933,
       "name": "El List\u00f3n De Tu Pelo",
       "url": "https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/62FQCSvSUSG3m9uajVkvWe"
     },
     {
       "added_at": "2024-11-08 05:00:00",

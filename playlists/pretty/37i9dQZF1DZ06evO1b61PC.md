@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,127 likes - 34 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,126 likes - 34 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 20 | [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 |
 | 21 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2Vri51GfnSn9pzRcIy91u3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 1:40 |
 | 22 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
-| 23 | [Alive \(Radio Edit\)](https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Alive](https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC) | 2:46 |
-| 24 | [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
+| 23 | [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
+| 24 | [Alive \(Radio Edit\)](https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Alive](https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC) | 2:46 |
 | 25 | [Flight Log 822](https://open.spotify.com/track/2a6mctKwLyjHbZut4kOe0B) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 2:03 |
 | 26 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
-| 27 | [In The End \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [In The End \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc) | 3:49 |
-| 28 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/2AaNTnYTf24qzu5SsT5K8s) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:26 |
+| 27 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/2AaNTnYTf24qzu5SsT5K8s) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:26 |
+| 28 | [In The End \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [In The End \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc) | 3:49 |
 | 29 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/691WixUevM2PcSqt0hMTiH) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 3:06 |
 | 30 | [Drivin Thru the Night \- Jai Wolf Remix](https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Parachute Remixes](https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR) | 4:09 |
 | 31 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 33 | [My Tears Could Fill A Well](https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 6:06 |
 | 34 | [This Space In My Heart Is for You](https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 1:35 |
 
-Snapshot ID: `Z2n5gAAAAABupf4UWSMjRcqcIiSwXWoa`
+Snapshot ID: `Z2tLAAAAAACPaaL2Yj5KXGnDI7hb1wgB`

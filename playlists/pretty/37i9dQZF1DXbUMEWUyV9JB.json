@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Oscar Ortiz y Los Primos del Este ",
-  "num_followers": 273662,
+  "num_followers": 273677,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-12-13 21:20:30",
       "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "added_at": "2024-12-13 21:20:30",
+      "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2024-12-13 21:20:30",
-      "album": {
-        "name": "Ojos Verdes",
-        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
     },
     {
       "added_at": "2024-12-13 21:20:30",
@@ -675,22 +675,26 @@
     {
       "added_at": "2024-12-13 21:20:30",
       "album": {
-        "name": "PA'L CORA EP. 01",
-        "url": "https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV"
+        "name": "Lo Mismo Que A M\u00ed",
+        "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         },
         {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 184864,
-      "name": "Un Besito M\u00e1s",
-      "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"
+      "duration_ms": 186360,
+      "name": "Lo Mismo Que A M\u00ed",
+      "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
     },
     {
       "added_at": "2024-12-13 21:20:30",
@@ -715,26 +719,22 @@
     {
       "added_at": "2024-12-13 21:20:30",
       "album": {
-        "name": "Lo Mismo Que A M\u00ed",
-        "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
+        "name": "PA'L CORA EP. 01",
+        "url": "https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         },
         {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 186360,
-      "name": "Lo Mismo Que A M\u00ed",
-      "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
+      "duration_ms": 184864,
+      "name": "Un Besito M\u00e1s",
+      "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"
     },
     {
       "added_at": "2024-12-13 21:20:30",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2024-12-13 21:20:30",
       "album": {
-        "name": "Cu\u00e9ntale",
-        "url": "https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 161214,
-      "name": "Cu\u00e9ntale",
-      "url": "https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL"
-    },
-    {
-      "added_at": "2024-12-13 21:20:30",
-      "album": {
         "name": "\u00c1ngel de Amor",
         "url": "https://open.spotify.com/album/0g4FobPrEueLnugnpSy03q"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 157666,
       "name": "\u00c1ngel de Amor",
       "url": "https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5"
+    },
+    {
+      "added_at": "2024-12-13 21:20:30",
+      "album": {
+        "name": "Cu\u00e9ntale",
+        "url": "https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 161214,
+      "name": "Cu\u00e9ntale",
+      "url": "https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL"
     },
     {
       "added_at": "2024-12-13 21:20:30",

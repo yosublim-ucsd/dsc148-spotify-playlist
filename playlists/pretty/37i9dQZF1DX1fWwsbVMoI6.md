@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: La Única Tropical
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,474 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,524 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
+| 1 | [Motor Y Motivo](https://open.spotify.com/track/2yjHvbMtfyoXXJYpsR3rYP) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Motor Y Motivo](https://open.spotify.com/album/69585tYHxNAZVvA9X1VwhK) | 3:16 |
 | 2 | [TATTOO](https://open.spotify.com/track/0uK4qOvijuVKXgieyScZ04) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [TATTOO](https://open.spotify.com/album/7Ht7cK6rfhcfTa78K0veYh) | 3:34 |
-| 3 | [Motor Y Motivo](https://open.spotify.com/track/2yjHvbMtfyoXXJYpsR3rYP) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Motor Y Motivo](https://open.spotify.com/album/69585tYHxNAZVvA9X1VwhK) | 3:16 |
+| 3 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
 | 4 | [La Duda](https://open.spotify.com/track/1euvZCoC0ETg1aiK0tfkEs) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Una Cualquiera](https://open.spotify.com/album/1ShwZyhoqhWGaZkQg6yVfS) | 4:24 |
-| 5 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
+| 5 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 |
 | 6 | [Te Juro Que Te Amo](https://open.spotify.com/track/2yCpEZSEC0iw94ORV8qkdU) | [Claveles de la Cumbia](https://open.spotify.com/artist/6xONmQbNz6KhUEabbxPb6S) | [Seguimos Imparables](https://open.spotify.com/album/24DilvlrCWcXijotIJLVhm) | 5:58 |
-| 7 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 |
+| 7 | [Puro Corazón](https://open.spotify.com/track/2mEVUW5UL7iDK5DnomVvOy) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Puro Corazón](https://open.spotify.com/album/6J6p32z5lFri9g2K1iwGjo) | 3:09 |
 | 8 | [El Embrujo](https://open.spotify.com/track/66Y7UyvE5aEgiPl9dDZScz) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Amigo y Algo Más](https://open.spotify.com/album/5p1NbnRWWNSZlpyYh1xJEC) | 4:00 |
-| 9 | [Ya No Te Buscaré](https://open.spotify.com/track/4A8c2GJnvpq9DIy85VW24v) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:29 |
+| 9 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
 | 10 | [PARTIDO EN DOS](https://open.spotify.com/track/7sPqCI54XxKNaOoGooaeCp) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [PARTIDO EN DOS](https://open.spotify.com/album/3Lpl5qOMQqiO4mN9TNT6Fg) | 3:37 |
 | 11 | [Tu Recuerdo](https://open.spotify.com/track/7LCyetqC0dra5wnypug3gH) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Tan Solo Tú](https://open.spotify.com/album/1R1pHL32brtnkxgZstFz6m) | 4:06 |
 | 12 | [Cual Adiós](https://open.spotify.com/track/5bivFU6gebehzoGKdslN3F) | [Orquesta La Única Tropical](https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK) | [Sin Fronteras](https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx) | 3:25 |
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 14 | [Amor Vuelve \- \(En Vivo\)](https://open.spotify.com/track/29QkpKsdxiChq3xsmu5VDG) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Noche de Oro \(En Vivo\)](https://open.spotify.com/album/639y9TFplTFnb6WeqB4c9d) | 3:46 |
 | 15 | [Cuerpo de Sirena](https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Cuerpo de Sirena](https://open.spotify.com/album/5zIOM5zbPm8WS1Qnf7rm7U) | 4:03 |
 | 16 | [Si Esta Casa Hablara](https://open.spotify.com/track/7aLA9WPyVfmB3WeciQ6Fb3) | [Orquesta La Única Tropical](https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK) | [Sin Fronteras](https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx) | 3:44 |
-| 17 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 |
+| 17 | [Ya No Te Buscaré](https://open.spotify.com/track/4A8c2GJnvpq9DIy85VW24v) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:29 |
 | 18 | [Tu amor fue una mentira](https://open.spotify.com/track/62JXVPey9QjeB8mxAQDLLu) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Vol.11 Tu amor fué una mentira](https://open.spotify.com/album/01MVw4qCCfafHo3k894gHT) | 3:36 |
-| 19 | [Puro Corazón](https://open.spotify.com/track/2mEVUW5UL7iDK5DnomVvOy) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Puro Corazón](https://open.spotify.com/album/6J6p32z5lFri9g2K1iwGjo) | 3:09 |
+| 19 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 |
 | 20 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 | 21 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
 | 22 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |

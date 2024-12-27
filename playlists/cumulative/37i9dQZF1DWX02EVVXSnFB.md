@@ -2,7 +2,7 @@
 
 ### [Young Franco's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWX02EVVXSnFB)
 
-> <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
+> <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco</a>'s favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
 209 songs - 13 hr 53 min
 

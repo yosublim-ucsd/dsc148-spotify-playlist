@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAB2gYnUuJ4U3i92UqYgV5kq",
+  "snapshot_id": "Z2tLAAAAAAAOiiwktJ+RRSqUDaRGwKMC",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 298066,
-      "name": "Everytime I Close My Eyes (with Babyface)",
-      "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The Cool In You",
         "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
       },
@@ -79,22 +59,6 @@
       "duration_ms": 229600,
       "name": "When Can I See You",
       "url": "https://open.spotify.com/track/2zItQNJrVrTioXTXWiI2ed"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 242866,
-      "name": "Seven Seas",
-      "url": "https://open.spotify.com/track/2pLD65NMnE6XuuTy4tId65"
     },
     {
       "added_at": null,
@@ -115,6 +79,22 @@
       "duration_ms": 250080,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/7EB10pKYUvwe7nnCBBn6mA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 242866,
+      "name": "Seven Seas",
+      "url": "https://open.spotify.com/track/2pLD65NMnE6XuuTy4tId65"
     },
     {
       "added_at": null,
@@ -167,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 175290,
-      "name": "Keeps On Fallin\u2019 (with Ella Mai)",
-      "url": "https://open.spotify.com/track/2aunyb1BeN1HrWDzAJPyBq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Marriage\u200e & Divorce",
         "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
       },
@@ -203,6 +163,26 @@
       "duration_ms": 263066,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 175290,
+      "name": "Keeps On Fallin\u2019 (with Ella Mai)",
+      "url": "https://open.spotify.com/track/2aunyb1BeN1HrWDzAJPyBq"
     },
     {
       "added_at": null,
@@ -243,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lips On Lips",
-        "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Young",
-          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 226926,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Marriage\u200e & Divorce",
         "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
       },
@@ -283,6 +243,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lips On Lips",
+        "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Young",
+          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 226926,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
@@ -295,26 +275,6 @@
       "duration_ms": 245373,
       "name": "I Said I Love You",
       "url": "https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa"
-      },
-      "artists": [
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 134666,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN"
     },
     {
       "added_at": null,
@@ -355,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 134666,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
@@ -391,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonafide",
-        "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 273400,
-      "name": "Someone to Love (feat. Babyface)",
-      "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Marriage\u200e & Divorce",
         "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
       },
@@ -427,6 +387,26 @@
       "duration_ms": 197560,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/3FUnoNtMGU9XjEKFmgXIR4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonafide",
+        "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 273400,
+      "name": "Someone to Love (feat. Babyface)",
+      "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
     },
     {
       "added_at": null,
@@ -607,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 309333,
+      "name": "Where Will You Go",
+      "url": "https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In My Lifetime, Vol.1",
         "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
       },
@@ -627,22 +623,6 @@
       "duration_ms": 283360,
       "name": "Always Be My Sunshine",
       "url": "https://open.spotify.com/track/1EkteNRr1GNnrjRZ5zRXWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 309333,
-      "name": "Where Will You Go",
-      "url": "https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9"
     },
     {
       "added_at": null,
@@ -951,6 +931,22 @@
       "duration_ms": 246533,
       "name": "I Honestly Love You",
       "url": "https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     }
   ],
   "unique_name": "This Is Babyface",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAC0fll0gbccpU/jUm2UXv2B",
+  "snapshot_id": "Z2tLAAAAAAD9nILtgMpwKV8O46F3tEo8",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
-        "url": "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 194843,
-      "name": "Leaders (feat. NAV)",
-      "url": "https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 228106,
       "name": "Held Me Down",
       "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
+        "url": "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 194843,
+      "name": "Leaders (feat. NAV)",
+      "url": "https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "ABOUT YOU (with NAV)",
-      "url": "https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 169786,
       "name": "Hit",
       "url": "https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "ABOUT YOU (with NAV)",
+      "url": "https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Good For It",
-      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WUNNA (Deluxe)",
         "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 165013,
       "name": "NOTHING 4 FREE (feat. NAV)",
       "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Good For It",
+      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "NAV",
-      "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RECKLESS",
         "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
       },
@@ -943,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
       "artists": [
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Perfect Timing (Intro)",
-      "url": "https://open.spotify.com/track/5Od0M7jp6IODTPW0cygHgu"
+      "duration_ms": 182880,
+      "name": "NAV",
+      "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
     },
     {
       "added_at": null,
@@ -987,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
       "artists": [
         {
@@ -996,13 +976,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 164937,
-      "name": "Interstellar (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
+      "duration_ms": 177026,
+      "name": "Perfect Timing (Intro)",
+      "url": "https://open.spotify.com/track/5Od0M7jp6IODTPW0cygHgu"
     },
     {
       "added_at": null,
@@ -1019,6 +999,26 @@
       "duration_ms": 186800,
       "name": "Freshman List",
       "url": "https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 164937,
+      "name": "Interstellar (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
     },
     {
       "added_at": null,

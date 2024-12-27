@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Yami Safdie y Lasso en portada.",
-  "num_followers": 541372,
+  "num_followers": 541408,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Solo Boleros",
-        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 178925,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Casi algo",
         "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 165229,
       "name": "Casi algo",
       "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Solo Boleros",
+        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
+      },
+      "artists": [
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 178925,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Que Sepan Todos",
-        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Que Sepan Todos",
-      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Duetos lo mejor de Armando Manzanero",
         "url": "https://open.spotify.com/album/6RlbnA5C1oKufZT8aEnQ1Y"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 200773,
       "name": "Somos novios (feat. Lolita)",
       "url": "https://open.spotify.com/track/5oG4GkFukkeFvxTlu4MoMp"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Que Sepan Todos",
+        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Que Sepan Todos",
+      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Me Vuelves Loca",
-        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        },
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 268146,
-      "name": "Me Vuelves Loca",
-      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Nuestro Primer Disco / Nuestro Amor",
         "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
@@ -1399,6 +1375,30 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Me Vuelves Loca",
+        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+        }
+      ],
+      "duration_ms": 268146,
+      "name": "Me Vuelves Loca",
+      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Armando Manzanero Duetos 2",
         "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
       },
@@ -1411,26 +1411,6 @@
       "duration_ms": 188600,
       "name": "Nada personal (A dueto con Ana Torroja)",
       "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Para No Romperme",
-        "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "Para No Romperme",
-      "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1451,6 +1431,26 @@
       "duration_ms": 197000,
       "name": "Noche Sensacional",
       "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Para No Romperme",
+        "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Para No Romperme",
+      "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
     },
     {
       "added_at": "2024-12-06 17:29:46",

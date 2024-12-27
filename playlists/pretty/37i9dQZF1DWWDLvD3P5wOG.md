@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,843 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,012 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 71 | [Bedroom Bully](https://open.spotify.com/track/3KiVsbXehlQmO8ob18EL6B) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [IT \(Incomparable Talent\)](https://open.spotify.com/album/0L0sXJEat24OuHrAFRyBqd) | 2:45 |
 | 72 | [On Fleek \(Love You Everything\)](https://open.spotify.com/track/5tGLXqxNmzeXcK050Lw5Ou) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [On Fleek \(Love You Everything\) \- Single](https://open.spotify.com/album/0yReupj5PtIMxd8RpwORv8) | 2:45 |
 | 73 | [Frenzy](https://open.spotify.com/track/0uihaAV3Pq9jqb5EtCLHnO) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Stays On My Mind](https://open.spotify.com/album/4SpMwzXhjDtumADkYXJvSd) | 3:37 |
-| 74 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
-| 75 | [One Man Raw \(feat\. Vybz Kartel\)](https://open.spotify.com/track/7Kh8RtMvZrGrkjM7TXYnBi) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Adidjaheim Records Presents Introducing Vanessa Bling As Gaza Slim](https://open.spotify.com/album/09pax8uRRPpG0LpMI9HaSr) | 2:56 |
+| 74 | [Summer Time](https://open.spotify.com/track/3bpOaamnFP5260EVqP9GhR) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Vybz Kartel \- Colouring Book EP](https://open.spotify.com/album/6inQiTYFGDcPcprh0syxXh) | 2:44 |
+| 75 | [Worthless Bwoy](https://open.spotify.com/track/2m1vofswv8bhNwFpO5DD1j) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Nah No Mercy \- The Warlord Scrolls](https://open.spotify.com/album/61skmM7sbrVaMEfyAYqVMG) | 2:42 |
 | 76 | [Get Busy](https://open.spotify.com/track/2PAur5UdDtOOYq234rqZRD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Reggae Gold 2003](https://open.spotify.com/album/76Ln6U1PHLVU8Zc10xXAnF) | 3:30 |
-| 77 | [Gasolina](https://open.spotify.com/track/4D1eJ4MRs8Ky0DlBTbFGRp) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [The Playlist \- Carnival](https://open.spotify.com/album/3yZRGphKhDplZip42iTTbO) | 3:12 |
-| 78 | [Only Man She Want](https://open.spotify.com/track/1agtNtmuVxT9tRxogGexBt) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Lost Angel Riddim](https://open.spotify.com/album/38u26Ur4KgW2TzpD2uf5nY) | 3:25 |
-| 79 | [Settle Down \(Destiny\)](https://open.spotify.com/track/7v3cWjR0s7OGMwFUKNGxhy) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/7EtA6cQCbAhsPDN6eqp01J) | 3:09 |
-| 80 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR) | 3:06 |
+| 77 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
+| 78 | [One Man Raw \(feat\. Vybz Kartel\)](https://open.spotify.com/track/7Kh8RtMvZrGrkjM7TXYnBi) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Adidjaheim Records Presents Introducing Vanessa Bling As Gaza Slim](https://open.spotify.com/album/09pax8uRRPpG0LpMI9HaSr) | 2:56 |
+| 79 | [Gasolina](https://open.spotify.com/track/4D1eJ4MRs8Ky0DlBTbFGRp) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [The Playlist \- Carnival](https://open.spotify.com/album/3yZRGphKhDplZip42iTTbO) | 3:12 |
+| 80 | [Only Man She Want](https://open.spotify.com/track/1agtNtmuVxT9tRxogGexBt) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Lost Angel Riddim](https://open.spotify.com/album/38u26Ur4KgW2TzpD2uf5nY) | 3:25 |
 
 Snapshot ID: `ZrsfhwAAAABZ4gd6pZR3f8HxvItKXLWM`

@@ -4,7 +4,7 @@
 
 > Dale play y dejá que la música te lleve.
 
-214 songs - 13 hr 29 min
+215 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 | 2024-03-22 | 2024-06-15 |
 | [Quieta](https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quieta](https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu) | 2:55 | 2024-05-10 | 2024-06-08 |
 | [Rayando el Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Rayando El Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8) | 4:18 | 2023-12-07 |  |
+| [Refugio](https://open.spotify.com/track/1zbJrdazNgbWR88CrUVDAb) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Refugio](https://open.spotify.com/album/6F9syUZJubOERg42FJNHWl) | 4:16 | 2024-11-29 |  |
 | [Resaca](https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Resaca](https://open.spotify.com/album/0kXhUyBXTjElgrkGStIVMr) | 3:22 | 2024-02-23 | 2024-03-15 |
 | [Rock del Gato](https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Furtivos](https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl) | 3:02 | 2024-08-30 | 2024-11-27 |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2023-12-07 | 2024-08-31 |

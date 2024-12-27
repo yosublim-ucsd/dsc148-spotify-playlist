@@ -4410,7 +4410,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Awolowo - Remix",
       "url": "https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO"
@@ -9165,6 +9165,24 @@
     },
     {
       "album": {
+        "name": "Mientes",
+        "url": "https://open.spotify.com/album/6wKOaCDQJo7v6lWBaWLzF3"
+      },
+      "artists": [
+        {
+          "name": "Oscar Domingo",
+          "url": "https://open.spotify.com/artist/5xMpufex2hd47uecLP7G3b"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250554,
+      "name": "Carita de Tugurio",
+      "url": "https://open.spotify.com/track/2iUUwykXuHEcSEzTSzdhJU"
+    },
+    {
+      "album": {
         "name": "CARNET",
         "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
       },
@@ -10036,7 +10054,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 202000,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
@@ -10912,7 +10930,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 164880,
       "name": "Cobro",
       "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
@@ -14842,6 +14860,24 @@
       "duration_ms": 289560,
       "name": "Don't Look Back in Anger - Remastered",
       "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg"
+      },
+      "artists": [
+        {
+          "name": "Derik Fein",
+          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200446,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw"
     },
     {
       "album": {
@@ -21082,6 +21118,24 @@
       "duration_ms": 219212,
       "name": "Goldigger",
       "url": "https://open.spotify.com/track/10YoUoKIx96ZJM0NDSkTlV"
+    },
+    {
+      "album": {
+        "name": "Gollo Cumbia",
+        "url": "https://open.spotify.com/album/18lsp8KZxkHpLDtmLtWwqy"
+      },
+      "artists": [
+        {
+          "name": "Gollo Costa Rica",
+          "url": "https://open.spotify.com/artist/1CH0wnpnulCSBKDXv5dZtC"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134234,
+      "name": "Gollo Cumbia",
+      "url": "https://open.spotify.com/track/4nYJEE960fIw20lDqfnRXR"
     },
     {
       "album": {
@@ -27844,7 +27898,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 250512,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/3cHe2WE06CnPADc5T5nXQB"
@@ -30264,7 +30318,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -30294,7 +30348,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -36174,7 +36228,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
@@ -44180,7 +44234,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 199328,
       "name": "Sabor a Derrota",
       "url": "https://open.spotify.com/track/4EbUtMcf5pUFBNvvxQFC5G"
@@ -48734,7 +48788,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
@@ -48756,7 +48810,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
@@ -50024,7 +50078,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 152957,
       "name": "Tattoo - Spanish Version",
       "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"

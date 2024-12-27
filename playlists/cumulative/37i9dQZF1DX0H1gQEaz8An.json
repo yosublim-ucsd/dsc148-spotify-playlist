@@ -191,6 +191,36 @@
     },
     {
       "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219164,
+      "name": "AURORA (feat. Armenta)",
+      "url": "https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ"
+    },
+    {
+      "album": {
         "name": "Belico Enamorado",
         "url": "https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U"
       },

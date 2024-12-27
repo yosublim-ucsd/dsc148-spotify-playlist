@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-109 songs - 5 hr 13 min
+110 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [GO SHORTY](https://open.spotify.com/track/4zX3kNYoVwmU1dkkg5zvNt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:53 | 2023-12-13 |  |
 | [God Sent](https://open.spotify.com/track/0MyOenr6UKkwTFlBvO5dQz) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 0:54 | 2023-12-13 |  |
 | [Good Life](https://open.spotify.com/track/04mFzfiMGq2EHPZhTpcYMc) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:45 | 2023-12-13 |  |
+| [hair down](https://open.spotify.com/track/5VsqyVi1rbl1zppQ3hXYWG) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:29 | 2024-12-26 |  |
 | [Hard To Get](https://open.spotify.com/track/76EsDQYBWuwOSh8BBf8fIT) | [KUN](https://open.spotify.com/artist/4SfFh31iZGOER3ajjaeior) | [Hard To Get](https://open.spotify.com/album/11lQK5t31grTuIBjhCyL47) | 2:39 | 2023-12-13 |  |
 | [Hat Trick](https://open.spotify.com/track/02Y5afO1mCHxKp9ozmBv1Q) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:49 | 2023-12-13 |  |
 | [He Say She Say](https://open.spotify.com/track/2DOwIiI5L9lWsoUnZQlUqr) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 2:24 | 2023-12-16 |  |

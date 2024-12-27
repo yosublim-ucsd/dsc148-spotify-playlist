@@ -398,7 +398,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 138984,
       "name": "boomerang",
       "url": "https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl"
@@ -2151,6 +2151,28 @@
     },
     {
       "album": {
+        "name": "LYKE MIIKE",
+        "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190432,
+      "name": "LOS DEPURO (feat. L-Gante)",
+      "url": "https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3"
+    },
+    {
+      "album": {
         "name": "Luces Tenues",
         "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
       },
@@ -2692,7 +2714,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 221856,
       "name": "PA K",
       "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
@@ -2820,6 +2842,24 @@
       "duration_ms": 225661,
       "name": "Piscina",
       "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
+    },
+    {
+      "album": {
+        "name": "PIToRRO DE COCO",
+        "url": "https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206627,
+      "name": "PIToRRO DE COCO",
+      "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,260 likes - 70 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,326 likes - 70 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 6 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
 | 7 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
 | 8 | [Jam On It](https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:23 |
-| 9 | [Ain't No Half\-Steppin'](https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Long Live The Kane](https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z) | 5:19 |
+| 9 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:25 |
 | 10 | [It's Like That](https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 4:50 |
-| 11 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:25 |
+| 11 | [Ain't No Half\-Steppin'](https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Long Live The Kane](https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z) | 5:19 |
 | 12 | [You Gots To Chill](https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:21 |
 | 13 | [Me So Horny](https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg) | [2 LIVE CREW](https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes) | [As Nasty As They Wanna Be](https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb) | 4:36 |
 | 14 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 16 | [Microphone Fiend](https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader \(Expanded Edition\)](https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9) | 5:14 |
 | 17 | [Hold It Now, Hit It](https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:26 |
 | 18 | [9mm Goes Bang](https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 4:17 |
-| 19 | [Smooth Operator](https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [It's A Big Daddy Thing](https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX) | 4:44 |
-| 20 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
+| 19 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
+| 20 | [Smooth Operator](https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [It's A Big Daddy Thing](https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX) | 4:44 |
 | 21 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
 | 22 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 23 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 46 | [I Got It Made](https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz) | [Special Ed](https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx) | [Youngest in Charge](https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk) | 3:41 |
 | 47 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
 | 48 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
-| 49 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz) | 4:49 |
-| 50 | [Boogie Down Bronx](https://open.spotify.com/track/2CbgPrMwa0UWUdppsOIoTR) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:18 |
+| 49 | [Boogie Down Bronx](https://open.spotify.com/track/2CbgPrMwa0UWUdppsOIoTR) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:18 |
+| 50 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz) | 4:49 |
 | 51 | [I'll Take Your Man](https://open.spotify.com/track/1o19erG7MurnvFf76zsX41) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 5:08 |
 | 52 | [The Breaks](https://open.spotify.com/track/4Tr756ILIER3QrujKqVKcc) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Cool \- Funk](https://open.spotify.com/album/7gQvwVSqfD2lqzf40WFNQz) | 4:04 |
 | 53 | [Go See the Doctor](https://open.spotify.com/track/60z5ezmI1iL3s2pPEct4wh) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Kool Moe Dee \(Bonus Track Version\)](https://open.spotify.com/album/2gDDmbIsGzPKdHERy8ozIt) | 5:33 |

@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> The many fruits of Caribbean culture under one tree\. Cover: <a href="spotify:artist:7kpAW7boBJFRFCMydZpjUd">SadBoi</a>
+> A melting pot of Caribbean culture\. Cover: <a href="spotify:artist:62DmErcU7dqZbJaDqwsqzR">Popcaan</a>
 
-117 songs - 5 hr 50 min
+119 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Champion](https://open.spotify.com/track/1qyBQ1Lmzz1EpCVupaWZSf) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [ROAD TO GREATNESS](https://open.spotify.com/album/0A7UQT8XvgYeZtuScs5HJ1) | 3:57 | 2024-08-29 |  |
 | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx) | 2:49 | 2024-08-29 |  |
 | [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 | 2024-10-25 |  |
+| [Cocoa Tea](https://open.spotify.com/track/1x89dD1bENfCHL6MiZurDI) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Cocoa Tea](https://open.spotify.com/album/4bKlTsxPKoojrBks3j7JSL) | 3:31 | 2024-12-26 |  |
 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 | 2024-08-29 |  |
 | [Dating Szn](https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dating Szn](https://open.spotify.com/album/0POPtgxngG9xYy2ogbHqVK) | 2:55 | 2024-12-06 |  |
 | [DEMON TIME](https://open.spotify.com/track/17W4evsdCRgH69xKC7rNRv) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [TRILOGY](https://open.spotify.com/album/3ugvJpAgveYhXpghHfqlG4) | 3:38 | 2024-08-29 | 2024-09-28 |
@@ -61,7 +62,7 @@
 | [Jub Jub](https://open.spotify.com/track/3RkteeO2kwfZygdShcdFGM) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Man With No Door](https://open.spotify.com/album/1MS5QTc5isnW4DGXNVm1PZ) | 3:10 | 2024-08-29 |  |
 | [Judgement](https://open.spotify.com/track/1o6TzHkNsPqogIAwMGtoV7) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Judgement](https://open.spotify.com/album/5XZKQUo3IgjjqC0hG9R6xd) | 2:17 | 2024-12-06 |  |
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-10-25 |  |
-| [L's](https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:03 | 2024-12-06 |  |
+| [L's](https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:03 | 2024-12-06 | 2024-12-27 |
 | [Levels](https://open.spotify.com/track/1Qvo0zEU8S0xvbi3CCcZbk) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Levels](https://open.spotify.com/album/6PfnVo94DilxyB9XgVIvNe) | 2:40 | 2024-12-06 |  |
 | [LIFESTYLE](https://open.spotify.com/track/50v9IKJoA8b1Qqx7wwdZzf) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [LIFESTYLE](https://open.spotify.com/album/7MQy2VfgrtsZz4hXvsQOz4) | 2:51 | 2024-08-29 |  |
 | [Looking for It](https://open.spotify.com/track/3RUzc2zCcZBaGUdXfOPBrw) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [Looking for It](https://open.spotify.com/album/2VxXWMvK1VWv6QoAshbDIg) | 2:56 | 2024-08-29 | 2024-09-14 |
@@ -72,7 +73,7 @@
 | [Missbnasty](https://open.spotify.com/track/3TRysxb88dV6F0t37yZjjb) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Missbnasty](https://open.spotify.com/album/59kzETWYbbnNYMhysIA1fy) | 3:32 | 2024-08-29 |  |
 | [More Money](https://open.spotify.com/track/5ycfmjGhq6e9vvFHweiAOb) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Tanto Blacks](https://open.spotify.com/artist/4lmElIMV37akQs59AhoIF9) | [More Money](https://open.spotify.com/album/29Y0BC1C3AD4SzfMHvcXzg) | 2:30 | 2024-12-02 |  |
 | [My Woman](https://open.spotify.com/track/4T3z9vQCpCqZHJazLXiMfd) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi), [Chambah](https://open.spotify.com/artist/6WKWGcRMN83IBGozupiLhS) | [Guarded \- EP](https://open.spotify.com/album/0HfUgNY3Sj0sZuFLskCP2E) | 3:06 | 2024-08-29 |  |
-| [Nah Lef Eh Game](https://open.spotify.com/track/0dj5HEvwYiVcaSIYjq6HjL) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Nah Lef Eh Game](https://open.spotify.com/album/2YhIc6rtDT2b1MT2VXz2Td) | 2:35 | 2024-08-29 |  |
+| [Nah Lef Eh Game](https://open.spotify.com/track/0dj5HEvwYiVcaSIYjq6HjL) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Nah Lef Eh Game](https://open.spotify.com/album/2YhIc6rtDT2b1MT2VXz2Td) | 2:35 | 2024-08-29 | 2024-12-27 |
 | [Never Complain \(feat\. Masicka\)](https://open.spotify.com/track/1UxL2KHtDw10T2MoBU15xn) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Never Complain \(feat\. Masicka\)](https://open.spotify.com/album/5rGKlYt2tWIrCHaLfXdKyg) | 2:56 | 2024-10-25 |  |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/6OJ9YUPa90I1nXjSfdqCL7) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Leeyuh Neptune](https://open.spotify.com/artist/4seFlt0LNyKvft0xxekhPA) | [NIGHTS LIKE THIS](https://open.spotify.com/album/0EjMJ9VwUScWujQJ95kx6x) | 3:24 | 2024-10-25 |  |
 | [No Follow](https://open.spotify.com/track/4c8HLjFn29KYDZIjoPZnR3) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Eleven](https://open.spotify.com/album/2sSRlmp5ZtyGPHeWjs89lK) | 2:51 | 2024-12-02 |  |
@@ -116,6 +117,7 @@
 | [UnFck You](https://open.spotify.com/track/21sgVzSx0qQIpKnUEOUt0j) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [UnFck You](https://open.spotify.com/album/5OKm4MYpe25NJFpMfM7kGj) | 2:40 | 2024-12-06 |  |
 | [Unstoppable](https://open.spotify.com/track/2sGiwsp8kDpa0XHrokyv1e) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [First Week Out](https://open.spotify.com/album/2OeHKYJwIswaxKT4cGBIgp) | 3:24 | 2024-08-29 |  |
 | [Vibrations](https://open.spotify.com/track/6fRMK1sDPkbCpETqLnaiBI) | [Imeru Tafari](https://open.spotify.com/artist/1YxQyYfXtg9pMJStr0hvxT), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [The Essential](https://open.spotify.com/album/1SNwkb5nYGoI3pVzV3GFnv) | 4:45 | 2024-10-25 |  |
+| [Wait 4 Me](https://open.spotify.com/track/0CpanQr35GbjeuwH69aUfK) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Wait 4 Me](https://open.spotify.com/album/1Vm86lGZIrhMwuMjPuH62V) | 1:51 | 2024-12-26 |  |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/06Autwbs6Qlj7Ydq6i0Xss) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Great Is He \(Deluxe\)](https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o) | 4:05 | 2024-08-29 |  |
 | [What If](https://open.spotify.com/track/0IJ7vYRyxKcf3Zeszr04Mk) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [What If](https://open.spotify.com/album/08p4g5egk6GyGq0FCquNFH) | 2:46 | 2024-08-29 |  |
 | [What's Up \(Big Buddy\)](https://open.spotify.com/track/2Zqi4KB2Wl0Luxwwx4qEM7) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [What's Up \(Big Buddy\)](https://open.spotify.com/album/2Mee0OzBr15EoIr0CYuwwh) | 2:21 | 2024-08-29 |  |

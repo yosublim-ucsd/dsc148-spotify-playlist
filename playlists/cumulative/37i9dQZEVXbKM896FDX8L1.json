@@ -5743,6 +5743,24 @@
     },
     {
       "album": {
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163093,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -10060,7 +10078,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -10078,7 +10096,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -12134,6 +12152,24 @@
       "duration_ms": 202533,
       "name": "Hall of Fame (feat. will.i.am)",
       "url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX"
+    },
+    {
+      "album": {
+        "name": "A Pentatonix Christmas Deluxe",
+        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
     },
     {
       "album": {
@@ -15636,7 +15672,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -15662,7 +15698,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
@@ -15698,7 +15734,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -15716,7 +15752,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 151933,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
@@ -21846,7 +21882,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 239586,
       "name": "One More Sleep",
       "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
@@ -25006,7 +25042,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -25046,7 +25082,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 206066,
       "name": "Santa Baby (with Henri Ren\u00e9 & His Orchestra)",
       "url": "https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO"
@@ -25057,6 +25093,10 @@
         "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
       },
       "artists": [
+        {
+          "name": "J. Fred Coots",
+          "url": "https://open.spotify.com/artist/5IBkss8RwasiJY2sj5qEdM"
+        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
@@ -29502,7 +29542,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"

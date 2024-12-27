@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: MARK
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: fromis\_9
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,331 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,342 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 |
-| 2 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 |
-| 3 | [Fraktsiya](https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Fraktsiya](https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6) | 3:12 |
-| 4 | [CRAZY \- Japanese ver.](https://open.spotify.com/track/7dVokhn14vnPmUK0HF5hV1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/2G4myfKwdL4C6sWYj6byB2) | 2:44 |
-| 5 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
-| 6 | [Over U, Goodbye \(Seeun x J\)](https://open.spotify.com/track/0dzvx0egKD128Icnaz2YeR) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Over U, Goodbye \(Seeun x J\)](https://open.spotify.com/album/1nxjZwlxvQ8reEI844D2bm) | 3:01 |
-| 7 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 |
-| 8 | [Wishful Winter](https://open.spotify.com/track/3hCg0ihZAaSEVquRz9MKAs) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:08 |
-| 9 | [from](https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from](https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2) | 3:21 |
+| 1 | [from](https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from](https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2) | 3:21 |
+| 2 | [Fraktsiya](https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Fraktsiya](https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6) | 3:12 |
+| 3 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 |
+| 4 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 |
+| 5 | [Over U, Goodbye \(Seeun x J\)](https://open.spotify.com/track/0dzvx0egKD128Icnaz2YeR) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Over U, Goodbye \(Seeun x J\)](https://open.spotify.com/album/1nxjZwlxvQ8reEI844D2bm) | 3:01 |
+| 6 | [CRAZY \- Japanese ver.](https://open.spotify.com/track/7dVokhn14vnPmUK0HF5hV1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/2G4myfKwdL4C6sWYj6byB2) | 2:44 |
+| 7 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
+| 8 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 |
+| 9 | [Wishful Winter](https://open.spotify.com/track/3hCg0ihZAaSEVquRz9MKAs) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:08 |
 | 10 | [The wish](https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The wish](https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL) | 2:47 |
 | 11 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 |
 | 12 | [Like A Flower](https://open.spotify.com/track/2ivhjourUwztR3kmz575KV) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Like A Flower \- The 1st Mini Album](https://open.spotify.com/album/7wf9YjsrbjqPq8orPOW2Rw) | 3:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
 | 80 | [Combo](https://open.spotify.com/track/0W0STGeR1lBHBbDgdB0uie) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING : Epilogue \- The 1st Mini Album](https://open.spotify.com/album/12H3XVm97o4FhhWhtRnBWY) | 3:39 |
 
-Snapshot ID: `Z2pr9AAAAADnlXt70BtX4uyCSaEtDqCd`
+Snapshot ID: `Z23tswAAAABliURCJLPxA4FXbXSAB/xS`

@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno.
+> Gli e le emergenti dell'anno in Italia per Spotify\. Cover: Coca Puma
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,979 likes - 39 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,982 likes - 39 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bnb life](https://open.spotify.com/track/4h2ZxFz4acPlkoom2BuBeC) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:20 |
 | 2 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
-| 3 | [ok \*\_\*](https://open.spotify.com/track/34Cy5XsCmZCRY1kV1muEPu) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 2:42 |
-| 4 | [figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 |
-| 5 | [POLIGONO](https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [POLIGONO](https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI) | 2:17 |
-| 6 | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/album/1gHHbM7rsEjkl4P6eQ7CKp) | 2:08 |
-| 7 | [ok :0](https://open.spotify.com/track/03sT1BVGtSRMk96kVtFTHy) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/6ez42IrMS6Y1TBbdLt3wBz) | 3:10 |
-| 8 | [Tutti i giorni](https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:18 |
-| 9 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
-| 10 | [Lose Control](https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Lose Control](https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91) | 4:20 |
+| 3 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
+| 4 | [ok \*\_\*](https://open.spotify.com/track/34Cy5XsCmZCRY1kV1muEPu) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 2:42 |
+| 5 | [figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 |
+| 6 | [Lose Control](https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Lose Control](https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91) | 4:20 |
+| 7 | [POLIGONO](https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [POLIGONO](https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI) | 2:17 |
+| 8 | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/album/1gHHbM7rsEjkl4P6eQ7CKp) | 2:08 |
+| 9 | [ok :0](https://open.spotify.com/track/03sT1BVGtSRMk96kVtFTHy) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/6ez42IrMS6Y1TBbdLt3wBz) | 3:10 |
+| 10 | [Tutti i giorni](https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:18 |
 | 11 | [Stanza](https://open.spotify.com/track/2EBlqIr8yZLUqTiWtB9Tgo) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:18 |
 | 12 | [pupille](https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [pupille](https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt) | 2:49 |
 | 13 | [Cerchio](https://open.spotify.com/track/7ziLqtC6tXHbzu8tWVtC2M) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Cerchio](https://open.spotify.com/album/44vHEKMkpA4Bnz8SRFP5AS) | 2:08 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 38 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
 | 39 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 |
 
-Snapshot ID: `Z1rqhQAAAAAnIPZv5ZQDO3UI5so2hHmV`
+Snapshot ID: `Z20Z6gAAAAC1eZLPMegDBlZ/AdPcGGA8`

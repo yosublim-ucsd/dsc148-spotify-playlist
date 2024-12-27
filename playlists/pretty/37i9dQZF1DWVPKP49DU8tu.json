@@ -1,6 +1,6 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 357285,
+  "num_followers": 357277,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Jazz (2011 Remaster)",
         "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 235545,
-      "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
-      "url": "https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "I P\u2019 ME, TU P\u2019 TE",
         "url": "https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 187881,
       "name": "I P\u2019 ME, TU P\u2019 TE",
       "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 235545,
+      "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
+      "url": "https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "La tua canzone",
-      "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Sinceramente",
         "url": "https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 215714,
       "name": "Sinceramente",
       "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "La tua canzone",
+      "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
     },
     {
       "added_at": "2024-11-14 23:01:00",

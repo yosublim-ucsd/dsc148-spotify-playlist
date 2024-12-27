@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Elaine Martins",
-  "num_followers": 337192,
+  "num_followers": 337242,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -251,18 +251,22 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
     },
     {
       "added_at": "2024-12-20 03:01:13",
@@ -299,22 +303,18 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": "2024-12-20 03:01:13",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Porque Ele Vive",
-        "url": "https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 341420,
-      "name": "Porque Ele Vive",
-      "url": "https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 420477,
       "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
       "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Porque Ele Vive",
+        "url": "https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 341420,
+      "name": "Porque Ele Vive",
+      "url": "https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk"
     },
     {
       "added_at": "2024-12-20 03:01:13",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Um Milh\u00e3o de Vezes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7IMuWFyccEHVI2qJocfD9I"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Um Milh\u00e3o de Vezes - Ao Vivo",
-      "url": "https://open.spotify.com/track/3ozxp7Jde9AAbBycLmyetV"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Eu Tenho Pai",
         "url": "https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 400906,
       "name": "Eu Tenho Pai",
       "url": "https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Um Milh\u00e3o de Vezes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7IMuWFyccEHVI2qJocfD9I"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Um Milh\u00e3o de Vezes - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ozxp7Jde9AAbBycLmyetV"
     },
     {
       "added_at": "2024-12-20 03:01:13",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 312497,
-      "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 277160,
       "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 312497,
+      "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF"
     },
     {
       "added_at": "2024-12-20 03:01:13",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 334310,
-      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 383968,
       "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
       "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 334310,
+      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
     },
     {
       "added_at": "2024-12-20 03:01:13",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Drive In (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 298388,
-      "name": "Deus da Gra\u00e7a (Ao Vivo)",
-      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Cora\u00e7\u00e3o que Sangra / Vem Me Consolar (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Ui5tEKDYJXEz7BeSdgOv2"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 264765,
       "name": "Em Miss\u00e3o de Amor",
       "url": "https://open.spotify.com/track/6u3BXKJdGXUKyDpti4QSGL"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Drive In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 298388,
+      "name": "Deus da Gra\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
     },
     {
       "added_at": "2024-12-20 03:01:13",

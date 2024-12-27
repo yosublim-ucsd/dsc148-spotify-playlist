@@ -4,7 +4,7 @@
 
 > viral, trend ve yükselenler\. Kapak: Gökhan Türkmen
 
-107 songs - 5 hr 28 min
+108 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Gönlüm](https://open.spotify.com/track/5kGvQXOy9zumMUtmaYn2A9) | [Electro Tülay](https://open.spotify.com/artist/2xpDzwu0RYiHXcUjq0jbMO) | [Gece Film \(Soundtrack\)](https://open.spotify.com/album/7Kenl6rraE4GJi7RRev7LD) | 4:24 | 2024-11-27 |  |
 | [Gör Bak](https://open.spotify.com/track/00zpoHL8I7zlPzWEbSYDgB) | [Fatih Bulut](https://open.spotify.com/artist/4QYrSz56GbbWzazB3ykW7G), [Elmas](https://open.spotify.com/artist/7G5tUGKHqDFfyxsCnzE2jd) | [Gör Bak](https://open.spotify.com/album/1DivhWbVDQtOJNWqNwygkm) | 3:38 | 2024-08-08 | 2024-09-08 |
 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 | 2024-07-02 | 2024-12-05 |
-| [I WANNA DANCE](https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ) | [I WANNA DANCE](https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d) | 1:50 | 2024-12-10 |  |
+| [I WANNA DANCE](https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ) | [I WANNA DANCE](https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d) | 1:50 | 2024-12-10 | 2024-12-27 |
 | [ILTIMAS X SUBMARINER](https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [ILTIMAS X SUBMARINER](https://open.spotify.com/album/43yjmZvIXU6NjFoMul1Uw2) | 3:01 | 2024-07-02 | 2024-11-22 |
 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 | 2024-12-04 |  |
 | [İkimizden Biri](https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [İkimizden Biri](https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX) | 3:47 | 2024-12-05 |  |
@@ -86,6 +86,7 @@
 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-08-08 |  |
 | [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 | 2024-10-10 | 2024-10-22 |
 | [PRENSES](https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [PRENSES](https://open.spotify.com/album/44BLCsDbownvFI59OzlBgX) | 2:09 | 2024-10-24 | 2024-11-22 |
+| [PSYCHO](https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Drama](https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X) | 2:33 | 2024-12-26 |  |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-07-02 | 2024-09-06 |
 | [Saat 03.00 \(By Volga Tamöz\)](https://open.spotify.com/track/45cI1Cz1nyp1sHiUd2kgal) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Dört Dörtlük](https://open.spotify.com/album/6BlUffy1dlYUfo3uUhnwP8) | 3:32 | 2024-07-02 |  |
 | [Sahici](https://open.spotify.com/track/6eZ9sIqtEqzPkGR3G9z2Pl) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [İkinci Hal](https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe) | 3:27 | 2024-11-21 | 2024-12-24 |

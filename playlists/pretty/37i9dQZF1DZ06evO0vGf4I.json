@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1580448,
+  "num_followers": 1580825,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAABQm4FAhuU+el6YvcikfmUb",
+  "snapshot_id": "Z2tLAAAAAAC/+AAA1H4DKN2iBo0dj7JC",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
       },
       "artists": [
         {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 314836,
-      "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
-      "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
+      "duration_ms": 172794,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4CdAc7V4hUe1cuJAjnPpSQ"
     },
     {
       "added_at": null,
@@ -467,22 +463,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith Of A Mustard Seed",
-        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 172794,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/4CdAc7V4hUe1cuJAjnPpSQ"
+      "duration_ms": 314836,
+      "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+      "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life of a DON",
+        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 213637,
+      "name": "You (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 229573,
       "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
       "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life of a DON",
-        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 213637,
-      "name": "You (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
     },
     {
       "added_at": null,

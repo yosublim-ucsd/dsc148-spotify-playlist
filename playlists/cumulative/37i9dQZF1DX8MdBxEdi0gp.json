@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 258573,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5"
@@ -2070,6 +2070,24 @@
       "duration_ms": 169240,
       "name": "Hip\u00f3crita",
       "url": "https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229306,
+      "name": "Hoy Te Confieso",
+      "url": "https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC"
     },
     {
       "album": {

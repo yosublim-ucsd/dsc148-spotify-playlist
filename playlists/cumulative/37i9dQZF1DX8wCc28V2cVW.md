@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-263 songs - 15 hr 17 min
+264 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Somnus \- Instrumental Version](https://open.spotify.com/track/6b1n2ORIYdDD5zrbUS0z1H) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGSGLAIVE FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI) | 2:32 | 2021-05-21 | 2022-11-13 |
 | [Spira Unplugged](https://open.spotify.com/track/1ZpFAnggGRjqXbDynGp7AL) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:49 | 2024-09-18 |  |
 | [Stand Your Ground](https://open.spotify.com/track/238Owc9WvZ4HsUD57bcq8o) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 3:29 | 2023-12-21 |  |
-| [Streets of Rabanastre](https://open.spotify.com/track/1KI1VC1CBoFyw3CkR1PozH) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 5:27 | 2024-09-18 |  |
+| [Starting Over](https://open.spotify.com/track/2v7T65sRJlhytPQSqrnQ6L) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:21 | 2024-09-18 |  |
+| [Streets of Rabanastre](https://open.spotify.com/track/1KI1VC1CBoFyw3CkR1PozH) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 5:27 | 2024-09-18 | 2024-12-27 |
 | [Sunset Path](https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 5:43 | 2023-06-08 |  |
 | [Sunset Waltz](https://open.spotify.com/track/72WtmxQ4guQdtQorJOZkMm) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 1:21 | 2023-06-08 |  |
 | [SUTEKI DA NE \(Isn't It Wonderful?\)](https://open.spotify.com/track/3H39xh0GOrFkp0cjwazaXx) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 5:34 | 2021-05-21 |  |

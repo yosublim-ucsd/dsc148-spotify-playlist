@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > nasze brzmienie ✨ Cover: Zuza Jabłońska
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,953 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,957 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 37 | [Candy](https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx) | [Agata Świderska](https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC) | [Candy](https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7) | 2:06 |
 | 38 | [nieoczywiste](https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [nieoczywiste](https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1) | 2:34 |
 | 39 | [Znak](https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Znak](https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C) | 2:53 |
-| 40 | [kochaj na serio](https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [kochaj na serio](https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE) | 2:40 |
+| 40 | [wspomnienie o](https://open.spotify.com/track/5y64rWFoYGPagbptX7pTGB) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [wspomnienie o](https://open.spotify.com/album/0fZNrgtdOGYG4yILi1TaNA) | 3:24 |
 | 41 | [dla Ciebie mógłbym zabić](https://open.spotify.com/track/2cljfGUtSk2mbIJBo8EKch) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Do rany przyłóż](https://open.spotify.com/album/4vW0hzSiDuPxgCtIE0VjlI) | 2:21 |
-| 42 | [wspomnienie o](https://open.spotify.com/track/5y64rWFoYGPagbptX7pTGB) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [wspomnienie o](https://open.spotify.com/album/0fZNrgtdOGYG4yILi1TaNA) | 3:24 |
-| 43 | [Gadać albo milczeć](https://open.spotify.com/track/2AtHnPQ1SoNmwTe8Ag4n8J) | [Wilhelm](https://open.spotify.com/artist/7jxBlr52pdoKTrrjehTunc) | [Gadać albo milczeć](https://open.spotify.com/album/6IZBWIMJxXW3fwMbOJYAIZ) | 3:04 |
-| 44 | [Nagie Ciała](https://open.spotify.com/track/2oSEUSC3loQDRYsyFJuxoE) | [KONRAD](https://open.spotify.com/artist/1TgEw7mL5WngIOffVvNuAn) | [Nagie Ciała](https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR) | 3:10 |
+| 42 | [kochaj na serio](https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [kochaj na serio](https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE) | 2:40 |
+| 43 | [Nagie Ciała](https://open.spotify.com/track/2oSEUSC3loQDRYsyFJuxoE) | [KONRAD](https://open.spotify.com/artist/1TgEw7mL5WngIOffVvNuAn) | [Nagie Ciała](https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR) | 3:10 |
+| 44 | [Gadać albo milczeć](https://open.spotify.com/track/2AtHnPQ1SoNmwTe8Ag4n8J) | [Wilhelm](https://open.spotify.com/artist/7jxBlr52pdoKTrrjehTunc) | [Gadać albo milczeć](https://open.spotify.com/album/6IZBWIMJxXW3fwMbOJYAIZ) | 3:04 |
 | 45 | [Stacja Hel](https://open.spotify.com/track/6n6ME7vJzu3C3QpmGzahTA) | [Stan Zapalny](https://open.spotify.com/artist/15BJ0ipMSdHELUOqJZ7Xmr) | [Stacja Hel](https://open.spotify.com/album/2a91tP89paQQeBNtvrgZb3) | 2:34 |
 | 46 | [Tak jak ja](https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Wracam do siebie](https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a) | 2:58 |
 | 47 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 |
-| 48 | [Miracle](https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle](https://open.spotify.com/album/4IyYlHAeJrECsT7VSXCH6Y) | 3:00 |
-| 49 | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM) | 3:55 |
+| 48 | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM) | 3:55 |
+| 49 | [Miracle](https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle](https://open.spotify.com/album/4IyYlHAeJrECsT7VSXCH6Y) | 3:00 |
 | 50 | [Ktoś](https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Ktoś](https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE) | 2:36 |
 | 51 | [Przy Tobie to...](https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [MINT](https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y) | 2:44 |
 | 52 | [księżniczka type beat](https://open.spotify.com/track/7zJuTk0G6CYUIAK7UIgJtj) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Kacha](https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:51 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 55 | [Długie Spacery](https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Długie Spacery](https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB) | 4:36 |
 | 56 | [Aż tyle](https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [Aż tyle](https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV) | 2:16 |
 | 57 | [Wschód](https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Wschód](https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G) | 2:46 |
-| 58 | [kropelki](https://open.spotify.com/track/6OWGy59gDRgAZWTkXS7Q6Z) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [kropelki](https://open.spotify.com/album/3bXw2kVCTMr5lnRUIFQKnI) | 2:30 |
-| 59 | [Powiedz](https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Powiedz](https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq) | 2:03 |
+| 58 | [Powiedz](https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Powiedz](https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq) | 2:03 |
+| 59 | [kropelki](https://open.spotify.com/track/6OWGy59gDRgAZWTkXS7Q6Z) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [kropelki](https://open.spotify.com/album/3bXw2kVCTMr5lnRUIFQKnI) | 2:30 |
 | 60 | [Pastelowe Kredki](https://open.spotify.com/track/3KQOxCDBSeg6Bid2qYsQw3) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Mikolaj Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Pastelowe Kredki](https://open.spotify.com/album/6vp7j3Iug4KbRTPF4VagsN) | 2:00 |
 | 61 | [Wonderful](https://open.spotify.com/track/3IOQ1Mlfs0Jcw0I4jksFlU) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Wonderful](https://open.spotify.com/album/4s70qBQDzfGfvWmKnOxIxV) | 2:54 |
 | 62 | [Gaduła](https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:22 |

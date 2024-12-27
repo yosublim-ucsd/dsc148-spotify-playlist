@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,771 likes - 150 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,811 likes - 150 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 15 | [Wait for Me](https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:30 |
 | 16 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
 | 17 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 |
-| 18 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
-| 19 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 |
+| 18 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 |
+| 19 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
 | 20 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 |
 | 21 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 |
 | 22 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 47 | [Ohio All The Time](https://open.spotify.com/track/4MZfdXX0OnqH3tGxEsm1nU) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Ohio All The Time](https://open.spotify.com/album/6RgZwiFk9c2zY1BOR3JT7Y) | 3:04 |
 | 48 | [The Way](https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Way](https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i) | 3:54 |
 | 49 | [Heartbeat Highway](https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:41 |
-| 50 | [Just A Western](https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 4:29 |
-| 51 | [Slow Burn](https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 3:21 |
-| 52 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 |
+| 50 | [Slow Burn](https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 3:21 |
+| 51 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 |
+| 52 | [Just A Western](https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 4:29 |
 | 53 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
-| 54 | [Graveyard Whistling](https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:52 |
-| 55 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 |
+| 54 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 |
+| 55 | [Graveyard Whistling](https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:52 |
 | 56 | [Telepath](https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Million Masks Of God](https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B) | 2:28 |
 | 57 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 |
 | 58 | [The World Ender](https://open.spotify.com/track/3NNimGud58iHka1LHkda6D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:30 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 88 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 |
 | 89 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 |
 | 90 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 |
-| 91 | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi) | 3:12 |
-| 92 | [Horizons](https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Horizons](https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D) | 3:03 |
+| 91 | [Horizons](https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Horizons](https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D) | 3:03 |
+| 92 | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi) | 3:12 |
 | 93 | [Dead Boys](https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Dead Boys](https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL) | 3:25 |
 | 94 | [Silver](https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Silver](https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI) | 3:16 |
 | 95 | [I See You](https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [I See You](https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p) | 3:48 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 119 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
 | 120 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 |
 | 121 | [Gemini](https://open.spotify.com/track/6Y7xUTnb3aI79DpqBioAcr) | [PLGRMS](https://open.spotify.com/artist/1KR4mZ0mbC8ATQFqljUR6k) | [Gemini](https://open.spotify.com/album/53BCrCrl3BENt20FFixjn9) | 3:45 |
-| 122 | [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 |
-| 123 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
+| 122 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
+| 123 | [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 |
 | 124 | [Spinning the Truth Around](https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Spinning the Truth Around](https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP) | 4:49 |
 | 125 | [IFK \(i fucking know\)](https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [IFK \(i fucking know\)](https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66) | 3:15 |
 | 126 | [Honey](https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un) | 3:43 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 145 | [Take a Look Inside](https://open.spotify.com/track/1pWu29hfLPWxqegK7ohVWt) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Take a Look Inside](https://open.spotify.com/album/63zgDmHLZgi5FtHJNLFt0R) | 4:28 |
 | 146 | [Aeroplane](https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Xenos](https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h) | 3:16 |
 | 147 | [Flake](https://open.spotify.com/track/0VWV373XFV4xpX2s6bQS9n) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/1moZ22n6w8zWMkWHdHyjSE) | 3:07 |
-| 148 | [Your Life Your Time \- Acoustic](https://open.spotify.com/track/33whXaknBDUx53evCaViv1) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time \(Acoustic\)](https://open.spotify.com/album/4sxRXwPnLAWdfg4TwA4D1v) | 2:57 |
-| 149 | [Candy Eyes](https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Candy Eyes](https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX) | 2:50 |
+| 148 | [Candy Eyes](https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Candy Eyes](https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX) | 2:50 |
+| 149 | [Your Life Your Time \- Acoustic](https://open.spotify.com/track/33whXaknBDUx53evCaViv1) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time \(Acoustic\)](https://open.spotify.com/album/4sxRXwPnLAWdfg4TwA4D1v) | 2:57 |
 | 150 | [Superstar](https://open.spotify.com/track/1Lsfs8NeHVboIMgl7C7T16) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/1qp5OgpmF5KZeXoWPWkSI9) | 4:02 |
 
 Snapshot ID: `ZyALEQAAAAASRiOz45FL5hgagrEF4moY`

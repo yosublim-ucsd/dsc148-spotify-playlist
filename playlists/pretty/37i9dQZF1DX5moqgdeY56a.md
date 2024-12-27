@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,690 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,719 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 32 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 |
 | 33 | [Cucurrucucú Paloma](https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 4:41 |
 | 34 | [La Cima del Cielo](https://open.spotify.com/track/6YfR85OhPZ330CQ1Md3Onh) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 5:07 |
-| 35 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 |
-| 36 | [Cielo Rojo](https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:55 |
+| 35 | [Cielo Rojo](https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:55 |
+| 36 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 |
 | 37 | [El Comienzo del Final](https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Comienzo del Final](https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g) | 2:53 |
 | 38 | [El Chivo](https://open.spotify.com/track/24kt3lkqJ5FNN9M3y2nSvF) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Sus 25 Canciones Imprescindibles](https://open.spotify.com/album/44OkeA0iYmnPfIzvXzAhE9) | 2:30 |
 | 39 | [Tu Méndigo Recuerdo](https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Tu Méndigo Recuerdo](https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3) | 3:33 |

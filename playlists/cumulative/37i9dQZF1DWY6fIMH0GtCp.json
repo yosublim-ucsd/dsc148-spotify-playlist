@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "8 LIGHTS",
+        "url": "https://open.spotify.com/album/5rLAJNMsE3jeGmYfQQ1puk"
+      },
+      "artists": [
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        },
+        {
+          "name": "HAPPIE",
+          "url": "https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "8 LIGHTS",
+      "url": "https://open.spotify.com/track/4edpCnGBYraq49mjm2JVfF"
+    },
+    {
+      "album": {
         "name": "A Wicked Chanukah",
         "url": "https://open.spotify.com/album/5zSYE8VuuxuFBvfvpi31hB"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 112645,
+  "num_followers": 112662,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAB7/NV7yLSCVW1p82wAYAkK",
+  "snapshot_id": "Z2tLAAAAAACtRFrJ9pzZbM5WtFjnpGmM",
   "tracks": [
     {
       "added_at": null,
@@ -311,58 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer To Fine (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/0xmn6GY7CCPi7qYV0sZJ7p"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Catherine Carlile",
-          "url": "https://open.spotify.com/artist/6AYTFdGwtMZiuHhmTMO4Ig"
-        }
-      ],
-      "duration_ms": 352687,
-      "name": "Closer To Fine (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/1v9iJFBaJCxBCdBNdvXeMd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Too Late (From The Film \u201cElton John: Never Too Late\")",
         "url": "https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH"
       },
@@ -379,6 +327,38 @@
       "duration_ms": 216596,
       "name": "Never Too Late - From The Film \u201cElton John: Never Too Late\u201d",
       "url": "https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": null,
@@ -411,6 +391,26 @@
       "duration_ms": 178320,
       "name": "Turpentine",
       "url": "https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer To Fine (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/0xmn6GY7CCPi7qYV0sZJ7p"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Catherine Carlile",
+          "url": "https://open.spotify.com/artist/6AYTFdGwtMZiuHhmTMO4Ig"
+        }
+      ],
+      "duration_ms": 352687,
+      "name": "Closer To Fine (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1v9iJFBaJCxBCdBNdvXeMd"
     },
     {
       "added_at": null,

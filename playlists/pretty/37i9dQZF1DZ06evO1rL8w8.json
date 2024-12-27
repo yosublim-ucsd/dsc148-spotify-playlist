@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 216377,
+  "num_followers": 216432,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAC5QW15nfgyIoN55boNu7Jo",
+  "snapshot_id": "Z2tLAAAAAADS3SYQu/D0+6I5PhSY5eDU",
   "tracks": [
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Spider",
-        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 180589,
-      "name": "El Spider",
-      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
+      "duration_ms": 148093,
+      "name": "El Ejecutor (Bonus Track)",
+      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
     }
   ],
   "unique_name": "This Is El Komander",

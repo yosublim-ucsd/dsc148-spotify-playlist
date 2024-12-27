@@ -4,7 +4,7 @@
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-174 songs - 11 hr 6 min
+175 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [La Negra Tomasa \- Bilongo \- Versión Tropical](https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 7:52 | 2021-09-14 |  |
 | [La Pava Congona](https://open.spotify.com/track/0HceRYOs31IFICIrELU5Ei) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Grandes Hits: Andrés Landero](https://open.spotify.com/album/5VrvPC5Or7FetzXvyk0MTM) | 3:09 | 2022-04-22 | 2022-06-07 |
 | [La Piragua](https://open.spotify.com/track/1B3etW82zCJdqdLfVUZujh) | [Gabriel Romero](https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88) | [Éxitos Gabriel Romero](https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb) | 2:41 | 2024-05-24 |  |
+| [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 | 2024-05-24 |  |
 | [La Pollera Colorá](https://open.spotify.com/track/6OzXCNNTfqX9BPQZFWbDyh) | [Pedro Salcedo](https://open.spotify.com/artist/45068sb2JWsdsk1xWwhLV3), [Wilson Choperena](https://open.spotify.com/artist/2mKu6bBLXGOUgDXsVFT656) | [Ídolos Bailables](https://open.spotify.com/album/38tLtO44etS4uzf1ezQpMg) | 2:38 | 2022-04-22 | 2022-07-27 |
 | [La Suavecita](https://open.spotify.com/track/2PXTwetJcZb2GS417RyCga) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia de la Cumbia en el Siglo XX \(Vol\. 2\)](https://open.spotify.com/album/2NE1HmtyFqRKg2zV2uWxY2) | 3:54 | 2021-09-14 | 2022-07-29 |
 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 | 2022-08-12 |  |
@@ -104,7 +105,7 @@
 | [Me Gusta Todo De Ti](https://open.spotify.com/track/2SEYkDv8jqEVMpppKoG3mY) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Me Gusta Todo De Ti](https://open.spotify.com/album/3kvLgFBMMD55vLEuBjJUpU) | 4:08 | 2022-04-22 |  |
 | [Me Sabe a Mango](https://open.spotify.com/track/5LGyksCxddKAVlUOEJhTUk) | [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [Me Sabe a Mango](https://open.spotify.com/album/59Z2tOKaSeuHirQeVTjYTA) | 2:24 | 2022-02-28 | 2022-03-17 |
 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 | 2021-09-14 |  |
-| [Me Vas A Recordar](https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Serie Diamante \- 15 Súper Exitos](https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq) | 3:00 | 2021-09-14 |  |
+| [Me Vas A Recordar](https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Serie Diamante \- 15 Súper Exitos](https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq) | 3:00 | 2021-09-14 | 2024-12-27 |
 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:57 | 2022-04-22 | 2024-04-19 |
 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/3ZTMJQ5B7lsauB4GJt7kue) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Cumbias Sonideras Románticas 2015](https://open.spotify.com/album/4fvBXJ9gjqM2tlsAQVb1cV) | 3:57 | 2021-09-14 | 2022-07-29 |
 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 | 2022-08-12 | 2024-04-19 |

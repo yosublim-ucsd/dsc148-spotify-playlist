@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,421 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,419 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 24 | [Pursuit Freestyle](https://open.spotify.com/track/2B73UoSzm1mABGzzMzLO2o) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Pursuit Freestyle](https://open.spotify.com/album/3MKfcWdsJDX09s36eVyqCM) | 2:29 |
 | 25 | [Blick Sum](https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:11 |
 | 26 | [Brand New](https://open.spotify.com/track/0gkCuoQzy86HsdH7jMeXjk) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Brand New](https://open.spotify.com/album/3WtRTYXLKW8mG5eB8xVabm) | 2:22 |
-| 27 | [You Don’t Love Me](https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [You Don’t Love Me](https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9) | 2:37 |
-| 28 | [Don Who Leo](https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Don Who Leo](https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK) | 2:18 |
+| 27 | [Don Who Leo](https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Don Who Leo](https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK) | 2:18 |
+| 28 | [You Don’t Love Me](https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [You Don’t Love Me](https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9) | 2:37 |
 | 29 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
 | 30 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
 | 31 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 |
-| 32 | [I AIN’T GOING](https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:51 |
-| 33 | [Bad Kids \(feat\. GloRilla\)](https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:36 |
+| 32 | [Bad Kids \(feat\. GloRilla\)](https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:36 |
+| 33 | [I AIN’T GOING](https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:51 |
 | 34 | [She's Back](https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:42 |
 | 35 | [Accent \(feat\. GloRilla\)](https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:19 |
 | 36 | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4) | 3:12 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 47 | [Ranchero](https://open.spotify.com/track/2JQlJ8NMAsc64NpK40I7FK) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Ranchero](https://open.spotify.com/album/6YuTYAphtTtx15HsessRq4) | 2:55 |
 | 48 | [Get In There \(feat\. GloRilla\)](https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Get In There \(feat\. GloRilla\)](https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p) | 3:15 |
 | 49 | [Figueroa](https://open.spotify.com/track/18jgn5QOjqsEx9TiqH4e1E) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:23 |
-| 50 | [WHERE YO DADDY? \(feat\. KARRAHBOOO\)](https://open.spotify.com/track/3z5q2KgNxECnr3eYWenPKx) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 1:59 |
+| 50 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 |
 
 Snapshot ID: `Z1KE0AAAAAAvels4seBkbub8U+KCRrDa`

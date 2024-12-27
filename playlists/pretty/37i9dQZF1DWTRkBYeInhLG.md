@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,520 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,599 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 47 | [Dari Mata](https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Dari Mata](https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh) | 3:43 |
 | 48 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 |
 | 49 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
-| 50 | [Nuansa Bening](https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Pelangi Di Malam Hari](https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx) | 4:42 |
-| 51 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 |
+| 50 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 |
+| 51 | [Nuansa Bening](https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Pelangi Di Malam Hari](https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx) | 4:42 |
 | 52 | [Rayu](https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm) | [Marion](https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz) | 3:41 |
 | 53 | [Sepatu](https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:39 |
 | 54 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |

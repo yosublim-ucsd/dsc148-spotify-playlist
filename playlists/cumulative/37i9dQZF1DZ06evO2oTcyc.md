@@ -4,7 +4,7 @@
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-141 songs - 7 hr 24 min
+142 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [SHAKA LAKA \(feat\. Kodak Black\)](https://open.spotify.com/track/4thyim0b9fKcBByGgtnqHF) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SHAKA LAKA \(feat\. Kodak Black\)](https://open.spotify.com/album/7A7J7WdAhJZBr8VfV4QFtd) | 2:57 | 2023-11-10 | 2024-02-19 |
 | [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 | 2022-10-28 |  |
 | [Shampoo](https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shampoo](https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7) | 2:11 | 2024-02-24 |  |
+| [Shit Show \(feat\. Veeze & Lil Yachty\)](https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:45 | 2024-12-27 |  |
 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 | 2022-10-28 |  |
 | [Skrt](https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Skrt](https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS) | 3:44 | 2022-10-28 |  |
 | [Slay Like Santa](https://open.spotify.com/track/3Kj9pwFxtYXEQR4ZsZg3NU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:13 | 2022-10-30 | 2022-12-16 |

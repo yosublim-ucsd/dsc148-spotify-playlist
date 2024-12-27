@@ -4337,6 +4337,32 @@
     },
     {
       "album": {
+        "name": "Jeesus",
+        "url": "https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe"
+      },
+      "artists": [
+        {
+          "name": "koira",
+          "url": "https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        },
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110810,
+      "name": "Jeesus",
+      "url": "https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R"
+    },
+    {
+      "album": {
         "name": "NOIDANKEH\u00c4",
         "url": "https://open.spotify.com/album/7wQUA6wEvkiBriwyfmAIJf"
       },
@@ -8648,7 +8674,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 211026,
       "name": "Mulle riitt\u00e4\u00e4 yks",
       "url": "https://open.spotify.com/track/1uo81rXi7lKlT9dI7ZeSyz"

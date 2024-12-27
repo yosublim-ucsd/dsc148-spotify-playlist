@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,530 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,595 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 50 | [Lejos de Ti](https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:40 |
 | 51 | [Mía](https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Compilado, Vol\. 1](https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG) | 3:10 |
 
-Snapshot ID: `Z2n5gAAAAAAx51SndhQUcrmMl0X25fK8`
+Snapshot ID: `Z2tLAAAAAAAxDVZzXY1JlkmvtCilhVdz`

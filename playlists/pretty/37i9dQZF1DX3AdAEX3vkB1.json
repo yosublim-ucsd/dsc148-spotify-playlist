@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 275873,
+  "num_followers": 275983,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -891,6 +891,42 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Best Of Dion",
+        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The House of the Rising Sun: Best of The Animals",
         "url": "https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg"
       },
@@ -919,42 +955,6 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Best Of Dion",
-        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "The Wanderer",
-      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
-      },
-      "artists": [
-        {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Young Girl",
-      "url": "https://open.spotify.com/track/28E3Hw3po6GAA83aB9vHSz"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 162866,
       "name": "These Boots Are Made for Walkin'",
       "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
+      },
+      "artists": [
+        {
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Young Girl",
+      "url": "https://open.spotify.com/track/28E3Hw3po6GAA83aB9vHSz"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "No Place To Hide",
+        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
+      },
+      "artists": [
+        {
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+        }
+      ],
+      "duration_ms": 129758,
+      "name": "It's In The Kiss (The Shoop Shoop Song)",
+      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Tell Him",
         "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
       },
@@ -1345,22 +1361,6 @@
       "url": "https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "No Place To Hide",
-        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
-      },
-      "artists": [
-        {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
-        }
-      ],
-      "duration_ms": 129758,
-      "name": "It's In The Kiss (The Shoop Shoop Song)",
-      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "The Complete Johnny Kidd Vol 1 & 2",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "At Abbey Road",
-        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/77KLEElnsx9lRInnzCqMBW"
       },
       "artists": [
         {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+          "name": "Chris Montez",
+          "url": "https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA"
         }
       ],
-      "duration_ms": 114986,
-      "name": "How Do You Do It? - Mono",
-      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
+      "duration_ms": 149626,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/2Qm5DrmotzWvqNM3JlcQYo"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/77KLEElnsx9lRInnzCqMBW"
+        "name": "At Abbey Road",
+        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
       },
       "artists": [
         {
-          "name": "Chris Montez",
-          "url": "https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA"
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
         }
       ],
-      "duration_ms": 149626,
-      "name": "Let's Dance",
-      "url": "https://open.spotify.com/track/2Qm5DrmotzWvqNM3JlcQYo"
+      "duration_ms": 114986,
+      "name": "How Do You Do It? - Mono",
+      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
     },
     {
       "added_at": "2022-06-16 22:02:00",

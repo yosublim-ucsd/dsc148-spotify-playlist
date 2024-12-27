@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 785365,
+  "num_followers": 785445,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "Heart Of My Own",
+        "url": "https://open.spotify.com/album/00VIGPygVKjYbWXfoOaqHa"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Heart Of My Own",
+      "url": "https://open.spotify.com/track/1mqk8DNti1zvdd1GY5quDS"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "At Night",
         "url": "https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg"
       },
@@ -1483,6 +1499,22 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "Real Midnight",
+        "url": "https://open.spotify.com/album/7mFltVGJpL7QSFfPAdWeMZ"
+      },
+      "artists": [
+        {
+          "name": "Birds of Chicago",
+          "url": "https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Barley",
+      "url": "https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "More Primitive",
         "url": "https://open.spotify.com/album/6sFW1cZGE5B2PeDDb7kuRp"
       },
@@ -1531,22 +1563,6 @@
       "duration_ms": 380160,
       "name": "Will There Be Enough Water?",
       "url": "https://open.spotify.com/track/3Bx2b6DkK0lOLuwnLVaULP"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "Heart Of My Own",
-        "url": "https://open.spotify.com/album/00VIGPygVKjYbWXfoOaqHa"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Heart Of My Own",
-      "url": "https://open.spotify.com/track/1mqk8DNti1zvdd1GY5quDS"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1611,22 +1627,6 @@
       "duration_ms": 186453,
       "name": "Bartholomew",
       "url": "https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "A Long Life of Living",
-        "url": "https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "The Railroad",
-      "url": "https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I"
     }
   ],
   "unique_name": "Southern Gothic",

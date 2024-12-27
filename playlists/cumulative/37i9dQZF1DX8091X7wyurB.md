@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-436 songs - 1 day 17 hr 28 min
+437 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Shower Me](https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6) | [Sam Oladotun](https://open.spotify.com/artist/5Ai5qD3eCMMJU7GAzZ277c) | [Shower Me](https://open.spotify.com/album/37SvA5fQ9ltthsyNThSHwe) | 3:31 | 2022-06-30 | 2023-03-08 |
 | [Simple Matter](https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Strike The Ground](https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs) | 5:17 | 2023-12-15 | 2024-05-11 |
 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-06-02 | 2024-07-04 |
+| [Something New](https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Something New](https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg) | 7:02 | 2024-12-27 |  |
 | [Speak to My Heart](https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:22 | 2023-12-05 | 2023-12-10 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2023-06-23 |  |
 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-06-30 | 2023-04-28 |
@@ -362,7 +363,7 @@
 | [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 | 2024-10-18 | 2024-11-01 |
 | [Thandwa Ndim](https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU), [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX) | [Thandwa Ndim](https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH) | 4:31 | 2023-11-10 | 2024-01-07 |
 | [Thank You](https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe) | [Kobby Mantey](https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Thank You](https://open.spotify.com/album/3FicrFn5np6XgUfj0GEXD6) | 5:16 | 2022-06-30 | 2023-03-27 |
-| [That's My King](https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA) | 4:10 | 2024-02-16 |  |
+| [That's My King](https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA) | 4:10 | 2024-02-16 | 2024-12-27 |
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2023-11-10 |  |
 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 | 2022-06-30 | 2023-06-16 |
 | [The Commission \- Live](https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [The Commission \(Live\)](https://open.spotify.com/album/2KUoF56KCelukYtMprpuex) | 6:59 | 2023-12-15 | 2024-02-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,980 likes - 48 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,280 likes - 48 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 26 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 |
 | 27 | [DISPO](https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:13 |
 | 28 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 |
-| 29 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
-| 30 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
+| 29 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
+| 30 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
 | 31 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 |
 | 32 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 |
 | 33 | [GATITA GANGSTER](https://open.spotify.com/track/5bD6mFl116xCxVMLy7IK9F) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:50 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 47 | [Poblado \- Remix](https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado \(Remix\)](https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7) | 6:33 |
 | 48 | [Mi Cama](https://open.spotify.com/track/3fFMAZtSAK5YQ3Zdl3EE4Q) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:29 |
 
-Snapshot ID: `Z2n5gAAAAACIfCFpfy7KEWw/HSOybjwC`
+Snapshot ID: `Z2tLAAAAAACzk1ioXVg+3YqbHewxVOOa`

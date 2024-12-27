@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 76902,
+  "num_followers": 76931,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAADc3hyY9H6/TOz4LaeyM7I9",
+  "snapshot_id": "Z2tLAAAAAAC0FB5IobjlVYccb4Kfej6x",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempo pa' Matar",
-        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 414266,
-      "name": "Gitana",
-      "url": "https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempo pa' Matar",
+        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 414266,
+      "name": "Gitana",
+      "url": "https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estar Lejos",
-        "url": "https://open.spotify.com/album/6lH96T5oRD0PSBkeblpq11"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 247092,
-      "name": "Estar Lejos",
-      "url": "https://open.spotify.com/track/4lmd6jUDk3bUWkID5w0CCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metiendo Mano",
         "url": "https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 296240,
       "name": "Plantaci\u00f3n Adentro",
       "url": "https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estar Lejos",
+        "url": "https://open.spotify.com/album/6lH96T5oRD0PSBkeblpq11"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 247092,
+      "name": "Estar Lejos",
+      "url": "https://open.spotify.com/track/4lmd6jUDk3bUWkID5w0CCA"
     },
     {
       "added_at": null,
@@ -866,15 +866,11 @@
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 336120,
-      "name": "Barrunto",
-      "url": "https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc"
+      "duration_ms": 354600,
+      "name": "Paname\u00f1a",
+      "url": "https://open.spotify.com/track/1c7GpIXR8F85rFxFj90Z63"
     },
     {
       "added_at": null,
@@ -950,11 +946,15 @@
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 354600,
-      "name": "Paname\u00f1a",
-      "url": "https://open.spotify.com/track/1c7GpIXR8F85rFxFj90Z63"
+      "duration_ms": 336120,
+      "name": "Barrunto",
+      "url": "https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc"
     },
     {
       "added_at": null,

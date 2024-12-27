@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest EA SPORTS FC tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,700 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,736 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 19 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 |
 | 20 | [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 |
 | 21 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 |
-| 22 | [Play God](https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:45 |
-| 23 | [Walk](https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Love + War](https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH) | 3:34 |
+| 22 | [Walk](https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Love + War](https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH) | 3:34 |
+| 23 | [Play God](https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:45 |
 | 24 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 |
 | 25 | [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 |
 | 26 | [High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines \(Deluxe\)](https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP) | 3:44 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 28 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
 | 29 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
 | 30 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
-| 31 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 |
-| 32 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 |
+| 31 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 |
+| 32 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 |
 | 33 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 |
 | 34 | [Fools Gold \- Remastered 2009](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
 | 35 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 40 | [Tearing Me Up](https://open.spotify.com/track/6NDt5z8GKIHub37hBQ4x18) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Days Gone By](https://open.spotify.com/album/0u3Rl4KquP15smujFrgGz4) | 7:50 |
 | 41 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 |
 | 42 | [Found What I've Been Looking For](https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:11 |
-| 43 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
-| 44 | [19\-2000 \- Soulchild Remix](https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:29 |
+| 43 | [19\-2000 \- Soulchild Remix](https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:29 |
+| 44 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
 | 45 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
 | 46 | [Take Your Mama](https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4) | 4:31 |
 | 47 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 88 | [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 |
 | 89 | [Send Them Off!](https://open.spotify.com/track/5AAU5Ov1CEesKwWS2uzQji) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Send Them Off!](https://open.spotify.com/album/0sm6aqm1zr6rkROVIKICJd) | 3:20 |
 | 90 | [Levanta e Anda](https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp) | 2:30 |
-| 91 | [16 Years](https://open.spotify.com/track/3GncyQAqKMwlSVhyM31Lsu) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Be Impressive](https://open.spotify.com/album/689bhllQWGeODWheOb9Ejt) | 3:45 |
-| 92 | [Êfemera](https://open.spotify.com/track/0iRIYx90xEgqfbFcwzrtFc) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Efêmera](https://open.spotify.com/album/4jZncyAcIndHAVVlYG4vDk) | 3:44 |
+| 91 | [Êfemera](https://open.spotify.com/track/0iRIYx90xEgqfbFcwzrtFc) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Efêmera](https://open.spotify.com/album/4jZncyAcIndHAVVlYG4vDk) | 3:44 |
+| 92 | [16 Years](https://open.spotify.com/track/3GncyQAqKMwlSVhyM31Lsu) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Be Impressive](https://open.spotify.com/album/689bhllQWGeODWheOb9Ejt) | 3:45 |
 | 93 | [Gold Guns Girls](https://open.spotify.com/track/7y6yueMgmCFLAdUg7Eq1N2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/2wx95OdyKPntJDvEQkjtq5) | 4:05 |
 | 94 | [Cocoon](https://open.spotify.com/track/2W1NDIRXfBnIxBcnTIxE7p) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/2RySzAMRGrSnXYDf1lY5Ay) | 3:56 |
 | 95 | [BUYA](https://open.spotify.com/track/4JzupGoZoRC5qRY9Y4vUuE) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [BUYA](https://open.spotify.com/album/40YPn9jFKNXuWjoSAB8kyR) | 2:49 |

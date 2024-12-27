@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 4659,
+  "num_followers": 4661,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Reasons Why",
-        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 272177,
-      "name": "Feel This Way Too",
-      "url": "https://open.spotify.com/track/4pjo6uHUuP2FgoBfphagOd"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 293973,
       "name": "Chicago Blues",
       "url": "https://open.spotify.com/track/03GB3BpOhd8PiIug8UKQQy"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Reasons Why",
+        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 272177,
+      "name": "Feel This Way Too",
+      "url": "https://open.spotify.com/track/4pjo6uHUuP2FgoBfphagOd"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 403933,
-      "name": "Foreword",
-      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "The Oracle",
         "url": "https://open.spotify.com/album/5KmGjVw9SJOJ6sCxSevpIp"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 166106,
       "name": "London",
       "url": "https://open.spotify.com/track/4gVfIYoA1p4hG6jFr9RUv1"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 403933,
+      "name": "Foreword",
+      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Wish I Knew",
-        "url": "https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 186020,
-      "name": "Hard To Tell",
-      "url": "https://open.spotify.com/track/5GkaWwSzJnFihJVPlRoEcr"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Plot Armor",
         "url": "https://open.spotify.com/album/7Cs5RVkL2D9j9pQfVgBRxq"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 290725,
       "name": "Bucket of F's",
       "url": "https://open.spotify.com/track/0EE8m2mrTZpM2WbieU2QTp"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Wish I Knew",
+        "url": "https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 186020,
+      "name": "Hard To Tell",
+      "url": "https://open.spotify.com/track/5GkaWwSzJnFihJVPlRoEcr"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Songs From Home",
+        "url": "https://open.spotify.com/album/2pSI826dRU8Gb5NH7UxSxN"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        }
+      ],
+      "duration_ms": 369435,
+      "name": "Wouldn't It Be Loverly",
+      "url": "https://open.spotify.com/track/0cg1zPrF59wB0GibluYlE8"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Bark Out Thunder Roar Out Lightning",
         "url": "https://open.spotify.com/album/4hDXyL2ja7MKltRAUqo40g"
       },
@@ -2043,22 +2059,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Songs From Home",
-        "url": "https://open.spotify.com/album/2pSI826dRU8Gb5NH7UxSxN"
-      },
-      "artists": [
-        {
-          "name": "Fred Hersch",
-          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
-        }
-      ],
-      "duration_ms": 369435,
-      "name": "Wouldn't It Be Loverly",
-      "url": "https://open.spotify.com/track/0cg1zPrF59wB0GibluYlE8"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Step out",
         "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
       },
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Riddles",
-        "url": "https://open.spotify.com/album/5kLtkBWe4jnLLr5eQmJ5xQ"
-      },
-      "artists": [
-        {
-          "name": "Ed Schrader's Music Beat",
-          "url": "https://open.spotify.com/artist/5AihBcq33PSL5jtuPhz2DJ"
-        }
-      ],
-      "duration_ms": 278348,
-      "name": "Riddles",
-      "url": "https://open.spotify.com/track/01ElpQ8qLuLBpVvZ6GmPtf"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Legend Legend",
         "url": "https://open.spotify.com/album/4B008GCiu03AAvtCOxuU2B"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 218988,
       "name": "30 Million",
       "url": "https://open.spotify.com/track/1zeAgRxjzZFB1U3pa8Z55v"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Riddles",
+        "url": "https://open.spotify.com/album/5kLtkBWe4jnLLr5eQmJ5xQ"
+      },
+      "artists": [
+        {
+          "name": "Ed Schrader's Music Beat",
+          "url": "https://open.spotify.com/artist/5AihBcq33PSL5jtuPhz2DJ"
+        }
+      ],
+      "duration_ms": 278348,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/01ElpQ8qLuLBpVvZ6GmPtf"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/1kDGXvAOgTeao16BFyYwm9"
-      },
-      "artists": [
-        {
-          "name": "Little Magic Sam",
-          "url": "https://open.spotify.com/artist/7dpdHV7UXA4uvsVivR2HfU"
-        }
-      ],
-      "duration_ms": 208522,
-      "name": "Big Bad Wolf",
-      "url": "https://open.spotify.com/track/24gsxG89W5JkgZQFh4B1mM"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Creatures of the Late Afternoon",
         "url": "https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 144760,
       "name": "1000 Towns",
       "url": "https://open.spotify.com/track/1CVqnk1ilxgitab7JONA81"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/1kDGXvAOgTeao16BFyYwm9"
+      },
+      "artists": [
+        {
+          "name": "Little Magic Sam",
+          "url": "https://open.spotify.com/artist/7dpdHV7UXA4uvsVivR2HfU"
+        }
+      ],
+      "duration_ms": 208522,
+      "name": "Big Bad Wolf",
+      "url": "https://open.spotify.com/track/24gsxG89W5JkgZQFh4B1mM"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2819,22 +2819,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Alzar la voz sin reclamar",
-        "url": "https://open.spotify.com/album/2PMFEh0hSuPY82IGKEVeF9"
-      },
-      "artists": [
-        {
-          "name": "Papish",
-          "url": "https://open.spotify.com/artist/41hp1MlVWwW3LcITV0m8uK"
-        }
-      ],
-      "duration_ms": 179464,
-      "name": "Alzar la voz sin reclamar",
-      "url": "https://open.spotify.com/track/7eu4tKJUEnH1HHlbpTSV2N"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Take 3",
         "url": "https://open.spotify.com/album/6ZqqkFzCWuKviVoXsGJhH9"
       },
@@ -2851,18 +2835,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Walking Man",
-        "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
+        "name": "Alzar la voz sin reclamar",
+        "url": "https://open.spotify.com/album/2PMFEh0hSuPY82IGKEVeF9"
       },
       "artists": [
         {
-          "name": "YAMA//SATO",
-          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
+          "name": "Papish",
+          "url": "https://open.spotify.com/artist/41hp1MlVWwW3LcITV0m8uK"
         }
       ],
-      "duration_ms": 184620,
-      "name": "Walking Man",
-      "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
+      "duration_ms": 179464,
+      "name": "Alzar la voz sin reclamar",
+      "url": "https://open.spotify.com/track/7eu4tKJUEnH1HHlbpTSV2N"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2879,6 +2863,22 @@
       "duration_ms": 285171,
       "name": "The Valley",
       "url": "https://open.spotify.com/track/4zY786ytjaoeTb2VGI1Jxs"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Walking Man",
+        "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
+      },
+      "artists": [
+        {
+          "name": "YAMA//SATO",
+          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "Walking Man",
+      "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3111,22 +3111,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "MDR",
-        "url": "https://open.spotify.com/album/1DqZGqTwMfs1NP6rPfYRYW"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Michel",
-          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "L\u00f3t B\u00f3",
-      "url": "https://open.spotify.com/track/7HBQHG3g9hbJEaIbuonDXj"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Memory Blues",
         "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
       },
@@ -3155,6 +3139,22 @@
       "duration_ms": 222648,
       "name": "Tanboum Sa La",
       "url": "https://open.spotify.com/track/399kaQPiQ5Z1iKSqHQNCmM"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "MDR",
+        "url": "https://open.spotify.com/album/1DqZGqTwMfs1NP6rPfYRYW"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "L\u00f3t B\u00f3",
+      "url": "https://open.spotify.com/track/7HBQHG3g9hbJEaIbuonDXj"
     },
     {
       "added_at": "2024-06-28 14:45:02",

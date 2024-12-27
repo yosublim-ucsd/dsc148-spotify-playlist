@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,117 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,135 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,20 +38,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 28 | [Hey Good Lookin'](https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [License to Chill](https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg) | 3:03 |
 | 29 | [Ships That Don’t Come In](https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:44 |
 | 30 | [Weed With Willie \- Live](https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:03 |
-| 31 | [Rum Is the Reason](https://open.spotify.com/track/2Y9o2plHDMxKzbPTEah8Cu) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 3:17 |
+| 31 | [Beautiful Stranger](https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 4:17 |
 | 32 | [Bullets in the Gun](https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:16 |
 | 33 | [Get Drunk And Be Somebody](https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [White Trash With Money](https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl) | 2:58 |
 | 34 | [The Taliban Song \- Live](https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:58 |
-| 35 | [Beautiful Stranger](https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 4:17 |
+| 35 | [Rum Is the Reason](https://open.spotify.com/track/2Y9o2plHDMxKzbPTEah8Cu) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 3:17 |
 | 36 | [Trailerhood](https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 2:53 |
 | 37 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 |
 | 38 | [Stays In Mexico](https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:34 |
 | 39 | [A Little Too Late](https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [White Trash With Money](https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl) | 4:06 |
 | 40 | [Sailboat for Sale](https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 3:08 |
 | 41 | [If I Was Jesus](https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:44 |
-| 42 | [Honkytonk U](https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:34 |
+| 42 | [We Were In Love](https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 4:20 |
 | 43 | [She Only Gets That Way With Me](https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 2:30 |
-| 44 | [We Were In Love](https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 4:20 |
+| 44 | [Honkytonk U](https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:34 |
 | 45 | [Oklahoma Breakdown](https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Peso in My Pocket](https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ) | 3:31 |
 | 46 | [Getcha Some](https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:17 |
 | 47 | [Copenhagen](https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Rodeo Rock And Roll Collection](https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 49 | [Cryin' for Me \(Wayman's Song\)](https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 4:45 |
 | 50 | [She's A Hottie \- Single Version](https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:08 |
 
-Snapshot ID: `Z2n5gAAAAAApLbfgdNg4m9C+g3JDAiPO`
+Snapshot ID: `Z2tLAAAAAADqHtqnxwnt/Yih5bEAdpUm`

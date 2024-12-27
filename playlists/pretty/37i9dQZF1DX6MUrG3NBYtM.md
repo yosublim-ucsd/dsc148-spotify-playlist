@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > Indie & Alternative op zijn grootst\. Cover: Fontaines DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,051 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,038 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,454 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,470 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 25 | [Destrucción \- Remix](https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Destrucción \(Remix\)](https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM) | 3:20 |
 | 26 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
 | 27 | [La Última Vez](https://open.spotify.com/track/18H0STg2CPkVKx0AqRsoLQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:34 |
-| 28 | [Meu Amore](https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Meu Amore](https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ) | 3:09 |
-| 29 | [Superdeli](https://open.spotify.com/track/7oizn3u0M51APTosX3LQzL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Superdeli](https://open.spotify.com/album/10I29JjHVk7kRIDa85Bagx) | 2:48 |
+| 28 | [Superdeli](https://open.spotify.com/track/7oizn3u0M51APTosX3LQzL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Superdeli](https://open.spotify.com/album/10I29JjHVk7kRIDa85Bagx) | 2:48 |
+| 29 | [Meu Amore](https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Meu Amore](https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ) | 3:09 |
 | 30 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 |
 | 31 | [2mil horas](https://open.spotify.com/track/66i0E3wCeq7syKWpJPHG4v) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [2mil horas](https://open.spotify.com/album/6q1J3riPhRx3oIuDSAY8AC) | 3:27 |
 | 32 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 |

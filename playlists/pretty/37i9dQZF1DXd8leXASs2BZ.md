@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Eric.B.Jr
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,942 likes - 98 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,945 likes - 98 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

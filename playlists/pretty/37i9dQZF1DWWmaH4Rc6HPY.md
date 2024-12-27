@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Javier Blake en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,195 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,203 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 34 | [No lo Entiendo](https://open.spotify.com/track/0K859Tz6Fu6TkuSWl4Rm5r) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [No lo Entiendo](https://open.spotify.com/album/7CvTYtmwM9m59TP0Fn1jLG) | 3:30 |
 | 35 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
 | 36 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
-| 37 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 |
-| 38 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
+| 37 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
+| 38 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 |
 | 39 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
 | 40 | [Último Día](https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/71vi2JGeiJNNjmNy1Ua31r) | 2:54 |
 | 41 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 65 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 |
 | 66 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 67 | [sin nada](https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [sin nada](https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD) | 2:34 |
-| 68 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
-| 69 | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/track/6aDqixiGaqoxD4XibLphOQ) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/album/3NTWEeCqT99b9vsHsKPj5f) | 3:20 |
+| 68 | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/track/6aDqixiGaqoxD4XibLphOQ) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/album/3NTWEeCqT99b9vsHsKPj5f) | 3:20 |
+| 69 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
 | 70 | [El paraíso \#2](https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [María de Juan](https://open.spotify.com/artist/3JOaesg3hFdm9PjUAlAevb), [Liam Garner](https://open.spotify.com/artist/01Ct72ERdVHRVlFDdl3cAF) | [El paraíso \#2](https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu) | 2:54 |
 | 71 | [Rey Ahogado](https://open.spotify.com/track/5WQIiQ0Nitqwdh9i7gIIOB) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Rey Ahogado](https://open.spotify.com/album/5KHUN8igWIO1NCCJug8gNJ) | 4:05 |
 | 72 | [Brujería](https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Brujería](https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0) | 2:53 |

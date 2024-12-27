@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "Beni Yaln\u0131zl\u0131\u011fa Verme",
+        "url": "https://open.spotify.com/album/4qq6jEmJE6MhvykNYfJnIV"
+      },
+      "artists": [
+        {
+          "name": "\u015ean\u0131\u015fer",
+          "url": "https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86"
+        },
+        {
+          "name": "Ados",
+          "url": "https://open.spotify.com/artist/4jtv7mIerRdHNQOkFtKyDW"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199359,
+      "name": "Beni Yaln\u0131zl\u0131\u011fa Verme",
+      "url": "https://open.spotify.com/track/1A7bTfuzDy7F629yV9f5mF"
+    },
+    {
+      "album": {
         "name": "Beni Yarg\u0131lama",
         "url": "https://open.spotify.com/album/5pD2RIbL3CfdSF6Gu7MwRB"
       },
@@ -2192,6 +2214,28 @@
       "duration_ms": 202608,
       "name": "Deliyoo",
       "url": "https://open.spotify.com/track/34zeF2M1eQT6mSr8iRLHqa"
+    },
+    {
+      "album": {
+        "name": "Demoralize Makine",
+        "url": "https://open.spotify.com/album/5LG8qDgOfTuICE5XmWZl7L"
+      },
+      "artists": [
+        {
+          "name": "Sansar Salvo",
+          "url": "https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9"
+        },
+        {
+          "name": "Volt",
+          "url": "https://open.spotify.com/artist/2EZY0VASOYzEheftuL1KeB"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157784,
+      "name": "Demoralize Makine",
+      "url": "https://open.spotify.com/track/3yijY964nk5ajvoaNhNuSP"
     },
     {
       "album": {
@@ -4078,7 +4122,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 213139,
       "name": "H\u00fcsran Hepsi",
       "url": "https://open.spotify.com/track/1cLGvuG1AQYxIHhto1XJda"
@@ -4289,6 +4333,32 @@
     },
     {
       "album": {
+        "name": "\u0130craat",
+        "url": "https://open.spotify.com/album/5CNM1V7V0ZcmN05L73zKZS"
+      },
+      "artists": [
+        {
+          "name": "Darpo",
+          "url": "https://open.spotify.com/artist/7s9jM61uDC71eLxMog4sbP"
+        },
+        {
+          "name": "Xir",
+          "url": "https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2"
+        },
+        {
+          "name": "Maestro",
+          "url": "https://open.spotify.com/artist/6dn3wwfEYlRaQQUC8RLhTz"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176385,
+      "name": "\u0130craat",
+      "url": "https://open.spotify.com/track/2TIQMEqjZfd83Cv23GVL1Y"
+    },
+    {
+      "album": {
         "name": "\u0130lk Kez",
         "url": "https://open.spotify.com/album/2XaBUb7Ozy5DfvOFDanKTV"
       },
@@ -4472,7 +4542,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 162000,
       "name": "\u0130stanbul",
       "url": "https://open.spotify.com/track/1XbcUEDgr6PARv1nqCGSjR"
@@ -6939,6 +7009,24 @@
     },
     {
       "album": {
+        "name": "NOEL GELD\u0130",
+        "url": "https://open.spotify.com/album/3MXJtW3Tqc22Iky6eQfTA7"
+      },
+      "artists": [
+        {
+          "name": "Abugat",
+          "url": "https://open.spotify.com/artist/2KPINxWCVBb9yxO8xKtdFh"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145334,
+      "name": "NOEL GELD\u0130",
+      "url": "https://open.spotify.com/track/6QtCjAv6GlXR1YVPoyL6aS"
+    },
+    {
+      "album": {
         "name": "O Yeterdi Asl\u0131nda",
         "url": "https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF"
       },
@@ -8760,7 +8848,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 243939,
       "name": "starlight",
       "url": "https://open.spotify.com/track/5XjpVXZ7YGNsuDPf3skmPA"
@@ -9996,7 +10084,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 183870,
       "name": "YSIVII",
       "url": "https://open.spotify.com/track/67FJONzR4S8nS535Op1HK5"

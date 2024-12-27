@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 220824,
+  "num_followers": 220902,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -319,8 +319,8 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Santeria",
-        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
+        "name": "Status (Inediti, Rarit\u00e0 & Live)",
+        "url": "https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq"
       },
       "artists": [
         {
@@ -328,13 +328,13 @@
           "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Federica Abbate",
+          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
         }
       ],
-      "duration_ms": 206805,
-      "name": "Insta Lova",
-      "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
+      "duration_ms": 226808,
+      "name": "Niente Canzoni D'Amore - Inedito",
+      "url": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -419,6 +419,38 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 133217,
+      "name": "Marocchino",
+      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "00",
+        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 134347,
+      "name": "00",
+      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
       },
@@ -443,40 +475,8 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "00",
-        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 134347,
-      "name": "00",
-      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 133217,
-      "name": "Marocchino",
-      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Status (Inediti, Rarit\u00e0 & Live)",
-        "url": "https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq"
+        "name": "Santeria",
+        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
       },
       "artists": [
         {
@@ -484,13 +484,13 @@
           "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         },
         {
-          "name": "Federica Abbate",
-          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 226808,
-      "name": "Niente Canzoni D'Amore - Inedito",
-      "url": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk"
+      "duration_ms": 206805,
+      "name": "Insta Lova",
+      "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -639,42 +639,6 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 147498,
-      "name": "MIU MIU",
-      "url": "https://open.spotify.com/track/6EhJVd1934ZIdg1gLEp6sF"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 218367,
-      "name": "\u221e LOVE (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
         "name": "In Italia 2024 (feat. Emma & Baby Gang)",
         "url": "https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU"
       },
@@ -699,26 +663,38 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Senza Di Me",
-        "url": "https://open.spotify.com/album/1RIFJfcfz9CgzSER8yweTm"
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         },
         {
-          "name": "Venerus",
-          "url": "https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 201961,
-      "name": "Senza Di Me (feat. Venerus & Franco126)",
-      "url": "https://open.spotify.com/track/3xGD5KhnizETt7KQwxtUAc"
+      "duration_ms": 218367,
+      "name": "\u221e LOVE (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 147498,
+      "name": "MIU MIU",
+      "url": "https://open.spotify.com/track/6EhJVd1934ZIdg1gLEp6sF"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -739,6 +715,30 @@
       "duration_ms": 212284,
       "name": "Lei (feat. Ben\u00e9)",
       "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "Senza Di Me",
+        "url": "https://open.spotify.com/album/1RIFJfcfz9CgzSER8yweTm"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Venerus",
+          "url": "https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "duration_ms": 201961,
+      "name": "Senza Di Me (feat. Venerus & Franco126)",
+      "url": "https://open.spotify.com/track/3xGD5KhnizETt7KQwxtUAc"
     },
     {
       "added_at": "2024-11-28 13:31:00",

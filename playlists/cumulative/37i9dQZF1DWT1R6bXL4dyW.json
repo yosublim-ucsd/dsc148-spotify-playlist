@@ -46,8 +46,24 @@
       },
       "artists": [
         {
+          "name": "Renato Rascel",
+          "url": "https://open.spotify.com/artist/1GVIshrqh9tT1excC8sftj"
+        },
+        {
+          "name": "Pietro Garinei",
+          "url": "https://open.spotify.com/artist/0IQQvVcg8yGxrkQsTZjxMO"
+        },
+        {
+          "name": "Alessandro Giovannini",
+          "url": "https://open.spotify.com/artist/0rr9T4u0NYFs1BS28NA5IM"
+        },
+        {
           "name": "Sergio Franchi",
           "url": "https://open.spotify.com/artist/3afJ7ksCTA53PwM233jIf8"
+        },
+        {
+          "name": "Henri Rene",
+          "url": "https://open.spotify.com/artist/65dfY9wvk8WRCknx4EQIeT"
         }
       ],
       "date_added": "2019-03-18",

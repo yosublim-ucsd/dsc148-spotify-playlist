@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,653 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,670 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 34 | [SOLONELY](https://open.spotify.com/track/6Z3TackFYDr41wDXgfKAkB) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [SOLONELY](https://open.spotify.com/album/2hEt194qb7vBjQBwcMeByW) | 2:28 |
 | 35 | [Soso \- Remix](https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:22 |
 | 36 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 |
-| 37 | [Vive La Vida \- Remix](https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Vive La Vida \(Remix\)](https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp) | 3:57 |
-| 38 | [Baila Baila](https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Baila Baila](https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI) | 2:17 |
-| 39 | [Somos 3](https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Somos 3](https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX) | 2:45 |
-| 40 | [Thalía](https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Thalía](https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og) | 3:03 |
+| 37 | [Baila Baila](https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Baila Baila](https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI) | 2:17 |
+| 38 | [Vive La Vida \- Remix](https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Vive La Vida \(Remix\)](https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp) | 3:57 |
+| 39 | [Thalía](https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Thalía](https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og) | 3:03 |
+| 40 | [Somos 3](https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Somos 3](https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX) | 2:45 |
 | 41 | [Woman Commando \(feat\. Anitta & Coco Jones\)](https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 3:28 |
 | 42 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 |
 | 43 | [On My Body](https://open.spotify.com/track/5uxzcaOKTqgUf6E9KXftKz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:37 |

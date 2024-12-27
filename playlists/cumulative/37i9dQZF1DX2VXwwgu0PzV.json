@@ -471,6 +471,28 @@
     },
     {
       "album": {
+        "name": "AHA GI",
+        "url": "https://open.spotify.com/album/1m0UBS67ULLyN2Z5WsUrko"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230884,
+      "name": "AHA GI",
+      "url": "https://open.spotify.com/track/2FG8qmndhyFqajnUF2912N"
+    },
+    {
+      "album": {
         "name": "Eternal Cruise",
         "url": "https://open.spotify.com/album/5beZMQVLgzGHoPC88yqN2s"
       },
@@ -2636,7 +2658,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 207890,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/0YzxXvJEokptYlZ50ppKsO"
@@ -5478,7 +5500,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 140281,
       "name": "Father We Declare",
       "url": "https://open.spotify.com/track/6fDCxjnAQbcizv2yvzztGY"
@@ -6800,6 +6822,28 @@
       "duration_ms": 195000,
       "name": "God Don Do Am Again",
       "url": "https://open.spotify.com/track/0IszwngkfBqfLT2Tzyhobl"
+    },
+    {
+      "album": {
+        "name": "God In Heaven",
+        "url": "https://open.spotify.com/album/2CWkCGn6cP5b5paZdqKbVI"
+      },
+      "artists": [
+        {
+          "name": "JayMikee",
+          "url": "https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2"
+        },
+        {
+          "name": "Folarin Godman",
+          "url": "https://open.spotify.com/artist/7oQQ5DCRffP9JoEKhskxgV"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253727,
+      "name": "God In Heaven",
+      "url": "https://open.spotify.com/track/3Z9fQAaz9AWwxpZreeb8Dz"
     },
     {
       "album": {
@@ -10568,7 +10612,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 184946,
       "name": "Lay",
       "url": "https://open.spotify.com/track/72wKF92paVR0X3Y9N7z2Vu"
@@ -10914,7 +10958,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 144285,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/452YNTnUsyCDL01xcC6en0"
@@ -14408,7 +14452,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 161818,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7aV505QqvikC9q8oFEihV0"
@@ -14736,7 +14780,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 173571,
       "name": "Peace",
       "url": "https://open.spotify.com/track/1gNH0hwPFxpG8yGN0BKQ2B"
@@ -14940,7 +14984,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 144059,
       "name": "Power",
       "url": "https://open.spotify.com/track/5Z0U7FBU5g3et5lbGK8n33"
@@ -16961,6 +17005,32 @@
     },
     {
       "album": {
+        "name": "Supa II",
+        "url": "https://open.spotify.com/album/1aioY88IJoUr5GxBJR0I7a"
+      },
+      "artists": [
+        {
+          "name": "Sammy Sas",
+          "url": "https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv"
+        },
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        },
+        {
+          "name": "Sydneyondabeat",
+          "url": "https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Supa II",
+      "url": "https://open.spotify.com/track/1uZo8bWMrVGFxk0N09512a"
+    },
+    {
+      "album": {
         "name": "Grace and Glory",
         "url": "https://open.spotify.com/album/61Bj5pIRBY7vQmqAo9DQwY"
       },
@@ -17742,6 +17812,24 @@
       "duration_ms": 206022,
       "name": "The Lord's Abode",
       "url": "https://open.spotify.com/track/7p6ZnttJDDR1pCB1xsXPae"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/3WZgCYXQjjKQSJcZ76UqhO"
+      },
+      "artists": [
+        {
+          "name": "Iryne Rock",
+          "url": "https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187252,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/6C9qgqcGTqTnzExLnuPuNA"
     },
     {
       "album": {
@@ -19354,7 +19442,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 122666,
       "name": "YHWH",
       "url": "https://open.spotify.com/track/56POh3uI9bPlFjkBVmnquW"
@@ -19772,7 +19860,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 113278,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0FeuYLP73IxU5X1MC7ORdn"

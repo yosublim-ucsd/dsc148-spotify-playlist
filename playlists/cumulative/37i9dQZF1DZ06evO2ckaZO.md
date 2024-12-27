@@ -4,7 +4,7 @@
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-48 songs - 1 hr 49 min
+51 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,10 +34,12 @@
 | [Gimmie A Light](https://open.spotify.com/track/1F4619NcTA9JJz4amduNbj) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gimmie A Light](https://open.spotify.com/album/4OHSyEms6LDlacyYJr3A5A) | 2:06 | 2024-05-12 | 2024-06-09 |
 | [Gimmie A Light](https://open.spotify.com/track/2OanF8uRWtK74rlBlz9VMI) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:06 | 2024-08-03 | 2024-08-24 |
 | [GYAT](https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! \(Bonus\)](https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK) | 1:54 | 2024-08-06 |  |
+| [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 | 2024-12-27 |  |
 | [HIT EM UP!](https://open.spotify.com/track/1IoipRoSTRjCPRQzBYdP4Y) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/0CHvmABIyn7O4cUlwwHqW3), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 2:28 | 2023-06-07 | 2023-06-16 |
 | [How High?](https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:09 | 2023-07-22 |  |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-06-07 |  |
 | [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:21 | 2023-06-07 |  |
+| [Like](https://open.spotify.com/track/7EpDZpPycD5sTmA1NjoW8D) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 1:56 | 2024-12-27 |  |
 | [MICHELIN](https://open.spotify.com/track/5lLpXVtuRXZgEgQJYXakgs) | [2KJ](https://open.spotify.com/artist/0vcUPwNhkFPWBGTxTGlu2e), [Ice Spice](https://open.spotify.com/artist/0CHvmABIyn7O4cUlwwHqW3) | [GENESIS](https://open.spotify.com/album/51alOOrVmKmNIYqfYFEOdB) | 1:47 | 2023-06-07 | 2023-06-16 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/3cbbb7H5k6yXNndjZ0AJuV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 1:44 | 2023-06-07 | 2023-08-07 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2023-08-06 |  |
@@ -54,6 +56,7 @@
 | [Popa](https://open.spotify.com/track/5WODIX9TtDrmD9oAFFoxkG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:39 | 2024-07-27 |  |
 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-11-10 |  |
 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-06-07 |  |
+| [So What?](https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:38 | 2024-12-27 |  |
 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-27 |  |
 | [TTYL](https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:03 | 2024-07-27 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Grüezi! This is 100% made in Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,869 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,873 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 37 | [fire](https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [fire](https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc) | 2:15 |
 | 38 | [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 |
 | 39 | [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 |
-| 40 | [As Long as You Stay Here](https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [As Long as You Stay Here](https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb) | 1:55 |
+| 40 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 |
 | 41 | [Losing My Mind](https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Losing My Mind](https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH) | 3:10 |
 | 42 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 |
 | 43 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 |
-| 44 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 |
+| 44 | [As Long as You Stay Here](https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [As Long as You Stay Here](https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb) | 1:55 |
 | 45 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 |
 | 46 | [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 |
 | 47 | [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 52 | [Hearts Lust](https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J) | 2:22 |
 | 53 | [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 |
 | 54 | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL) | 3:57 |
-| 55 | [High Hopes](https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [High Hopes](https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe) | 3:12 |
-| 56 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 |
+| 55 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 |
+| 56 | [High Hopes](https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [High Hopes](https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe) | 3:12 |
 | 57 | [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 |
 | 58 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 |
 | 59 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 64 | [Fomo](https://open.spotify.com/track/1iho6JCCMpTS2yLHocyOeQ) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [Trottinette](https://open.spotify.com/album/2sQnRepY5FEm0rgQpAvfKq) | 3:34 |
 | 65 | [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 |
 | 66 | [all night](https://open.spotify.com/track/1eCdTHsE0dek7lKGavN9Z9) | [outofhere](https://open.spotify.com/artist/5Tfwoxw3tFQX7FWxTcX2Rf) | [all night](https://open.spotify.com/album/19WyumxNi7EgpvCspY2t0F) | 2:09 |
-| 67 | [Coastline](https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV) | [Shem Thomas](https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw) | [Coastline](https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn) | 2:44 |
+| 67 | [Chlorine](https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D) | [Sivilian](https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI) | [Chlorine](https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY) | 3:00 |
 | 68 | [Just Like I Love You](https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Libertad](https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw) | 3:21 |
-| 69 | [Floating](https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC) | [Damian Lynn](https://open.spotify.com/artist/4ST7R4xWexBdeBD5u6OP2U) | [Floating](https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5) | 2:50 |
-| 70 | [Chlorine](https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D) | [Sivilian](https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI) | [Chlorine](https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY) | 3:00 |
+| 69 | [Coastline](https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV) | [Shem Thomas](https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw) | [Coastline](https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn) | 2:44 |
+| 70 | [Floating](https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC) | [Damian Lynn](https://open.spotify.com/artist/4ST7R4xWexBdeBD5u6OP2U) | [Floating](https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5) | 2:50 |
 
 Snapshot ID: `Z2UdcwAAAAAXEIKclF9SX5VBi9+ROFKK`

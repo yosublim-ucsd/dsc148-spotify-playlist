@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 12255,
+  "num_followers": 12258,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAAqOM3MumDiYX+CvGpqD4Wm",
+  "snapshot_id": "Z2tLAAAAAAA3X29LPSi8IiCfT4hRMxYb",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folon",
-        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 394306,
-      "name": "Tekere",
-      "url": "https://open.spotify.com/track/6DFxJ5NncVCnUnEaRRRWjh"
+      "duration_ms": 361933,
+      "name": "Cono",
+      "url": "https://open.spotify.com/track/7cms6JQGv9q2iA2XN35V0n"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soro",
-        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+        "name": "Folon",
+        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 361933,
-      "name": "Cono",
-      "url": "https://open.spotify.com/track/7cms6JQGv9q2iA2XN35V0n"
+      "duration_ms": 394306,
+      "name": "Tekere",
+      "url": "https://open.spotify.com/track/6DFxJ5NncVCnUnEaRRRWjh"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 245320,
+      "name": "La diff\u00e9rence",
+      "url": "https://open.spotify.com/track/1cmteMwv4y3Gr7qerXiLuq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djourou",
         "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 332361,
       "name": "Guelen",
       "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 245320,
-      "name": "La diff\u00e9rence",
-      "url": "https://open.spotify.com/track/1cmteMwv4y3Gr7qerXiLuq"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 419186,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz"
+      "duration_ms": 429333,
+      "name": "Samigna",
+      "url": "https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 429333,
-      "name": "Samigna",
-      "url": "https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR"
+      "duration_ms": 419186,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,628 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,635 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 91 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
 | 92 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
 | 93 | [Sans Soleil](https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil](https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re) | 5:04 |
-| 94 | [waste](https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [waste](https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy) | 3:51 |
-| 95 | [Moments Of Clarity](https://open.spotify.com/track/4T8GhH9Jz2ZAf8BnE7OXzi) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/135Y92eWcCGg8GeFi5IF3v) | 3:50 |
+| 94 | [Moments Of Clarity](https://open.spotify.com/track/4T8GhH9Jz2ZAf8BnE7OXzi) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/135Y92eWcCGg8GeFi5IF3v) | 3:50 |
+| 95 | [waste](https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [waste](https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy) | 3:51 |
 | 96 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |
 | 97 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 |
 | 98 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 |

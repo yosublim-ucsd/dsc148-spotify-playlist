@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,366 likes - 125 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,346 likes - 125 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 75 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
 | 76 | [The Universe](https://open.spotify.com/track/5SOV1dyQQJx98X4yY17bCI) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 4:16 |
 | 77 | [Revival](https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:05 |
-| 78 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
-| 79 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 |
-| 80 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 |
+| 78 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 |
+| 79 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 80 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 |
 | 81 | [oh, mexico](https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF) | 3:04 |
 | 82 | [Fatal Line](https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Fatal Line](https://open.spotify.com/album/02389joKGpQeSgbeMocOI2) | 3:01 |
 | 83 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 97 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
 | 98 | [Stranger](https://open.spotify.com/track/1xn1htwSeRr3HhOlYToFEx) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:54 |
 | 99 | [Climbing Bear](https://open.spotify.com/track/36lEFwL7po0THo1sTAmAtO) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 3:18 |
-| 100 | [Apple Tree Blues](https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Apple Tree Blues](https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g) | 3:32 |
-| 101 | [Feel \- with Kyson](https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Feel \(with Kyson\)](https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD) | 4:00 |
+| 100 | [Feel \- with Kyson](https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Feel \(with Kyson\)](https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD) | 4:00 |
+| 101 | [Apple Tree Blues](https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Apple Tree Blues](https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g) | 3:32 |
 | 102 | [Light of a Clear Blue Morning](https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 4:38 |
 | 103 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 |
 | 104 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 |

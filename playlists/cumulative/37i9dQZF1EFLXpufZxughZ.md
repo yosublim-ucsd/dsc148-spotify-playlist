@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-153 songs - 8 hr 52 min
+154 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Throw That](https://open.spotify.com/track/645aNrBOT7qX6jKEOCQq8Q) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 3:57 | 2023-12-13 |  |
 | [Tonight](https://open.spotify.com/track/0rNAKjp23yWUcNHeoiV9Pk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas \(Light / Dark Deluxe Edition\)](https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47) | 3:46 | 2023-12-13 |  |
 | [Trial And Error](https://open.spotify.com/track/25HnNxGuzRfjTt8ax0op8f) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 2:38 | 2023-12-13 |  |
-| [Trill](https://open.spotify.com/track/6PExAd6Tb6JXMsV9C67QTW) | [Lil Rae](https://open.spotify.com/artist/2TjHMEtyUA9JGLdye1O7Mt) | [If You Sleep Its Too Late](https://open.spotify.com/album/1VkzxTEd5O6Ky4MbYmpx8a) | 2:43 | 2023-12-13 |  |
+| [Trill](https://open.spotify.com/track/6b0wv9CNnM6vDHGyTmm7tr) | [C\-Dove](https://open.spotify.com/artist/0mSTAf4akbwKQEoJFOuIUm), [Mike Saiz](https://open.spotify.com/artist/7d0UxJrcf4p0f7DwBVl4HV) | [Life](https://open.spotify.com/album/7hpdUZbpSVZee8iufCWeXF) | 5:03 | 2024-12-26 |  |
+| [Trill](https://open.spotify.com/track/6PExAd6Tb6JXMsV9C67QTW) | [Lil Rae](https://open.spotify.com/artist/2TjHMEtyUA9JGLdye1O7Mt) | [If You Sleep Its Too Late](https://open.spotify.com/album/1VkzxTEd5O6Ky4MbYmpx8a) | 2:43 | 2023-12-13 | 2024-12-27 |
 | [Trippin](https://open.spotify.com/track/4huciygZHFSjTP5DHmPs20) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 2:19 | 2023-12-13 |  |
 | [Trust Issues](https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:41 | 2023-12-13 |  |
 | [Turn It Up \(feat\. Usher\)](https://open.spotify.com/track/2aupzXVfgAkI4nnVR8dDMe) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Basic Instinct](https://open.spotify.com/album/5kcwxjSYHuuafWqUflsSsu) | 3:08 | 2023-12-13 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Lainey Wilson",
-  "num_followers": 376984,
+  "num_followers": 377127,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Mud On The Tires",
+        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "Whiskey Lullaby (feat. Alison Krauss)",
+      "url": "https://open.spotify.com/track/6iblnklMzUKIXAtjk5lzIy"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 191626,
       "name": "This Town's Been Too Good To Us",
       "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Mud On The Tires",
-        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Whiskey Lullaby (feat. Alison Krauss)",
-      "url": "https://open.spotify.com/track/6iblnklMzUKIXAtjk5lzIy"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Mud On The Tires",
+        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Mud on the Tires",
+      "url": "https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Thought You Should Know",
         "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 335480,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Mud On The Tires",
-        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Mud on the Tires",
-      "url": "https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2087,8 +2087,8 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Knockin' Boots",
-        "url": "https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS"
+        "name": "One Margarita",
+        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
       },
       "artists": [
         {
@@ -2096,9 +2096,9 @@
           "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 199382,
-      "name": "Knockin' Boots",
-      "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
+      "duration_ms": 193426,
+      "name": "One Margarita",
+      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2191,8 +2191,8 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "One Margarita",
-        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
+        "name": "Knockin' Boots",
+        "url": "https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS"
       },
       "artists": [
         {
@@ -2200,9 +2200,9 @@
           "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 193426,
-      "name": "One Margarita",
-      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
+      "duration_ms": 199382,
+      "name": "Knockin' Boots",
+      "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Memory I Don't Mess With",
+        "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 180616,
+      "name": "Memory I Don't Mess With",
+      "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Memory I Don't Mess With",
-        "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 180616,
-      "name": "Memory I Don't Mess With",
-      "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2519,22 +2519,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "I Will (When You Do)",
-        "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
+        "name": "What Do They Know",
+        "url": "https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        },
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
         }
       ],
-      "duration_ms": 207533,
-      "name": "I Will (When You Do)",
-      "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
+      "duration_ms": 219640,
+      "name": "Try Losing One",
+      "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
     }
   ],
   "unique_name": "Country Drive",

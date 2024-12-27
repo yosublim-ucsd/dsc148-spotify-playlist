@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Jensen McRae",
-  "num_followers": 303790,
+  "num_followers": 303838,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 176360,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Cairo, IL",
+      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Other Voices, Other Rooms",
         "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 260440,
       "name": "Speed of the Sound of Loneliness",
       "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "Odetta Sings Dylan",
+        "url": "https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34"
+      },
+      "artists": [
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "duration_ms": 341293,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/0YYXg3u5ELZb2SjcD2YTFF"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "Thousand (acoustic)",
         "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
       },
@@ -1287,34 +1303,18 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Odetta Sings Dylan",
-        "url": "https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
       "artists": [
         {
-          "name": "Odetta",
-          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
         }
       ],
-      "duration_ms": 341293,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/0YYXg3u5ELZb2SjcD2YTFF"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
       "artists": [
         {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
         }
       ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
-      },
-      "artists": [
-        {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Fruit",
         "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 249173,
       "name": "Swing and Turn Jubilee",
       "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 195735,
       "name": "Boardwalks",
       "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Birdseye",
-        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 174540,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Birdseye",
+        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Do You See The Light Around Me?",
-        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 204034,
-      "name": "Do You See The Light Around Me?",
-      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Circles And Arrows",
         "url": "https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo"
       },
@@ -1831,22 +1815,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 246611,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Kate & Anna McGarrigle",
         "url": "https://open.spotify.com/album/4PtJUyTpyy4pkiNsPYfW0J"
       },
@@ -1859,6 +1827,38 @@
       "duration_ms": 192466,
       "name": "Heart Like a Wheel",
       "url": "https://open.spotify.com/track/7ctYp2gIPnE79lRzov5k2n"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 246611,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Age of a Man",
-        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 219253,
-      "name": "Age of a Man",
-      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Between the Dirt and the Stars",
         "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 179306,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Age of a Man",
+        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 219253,
+      "name": "Age of a Man",
+      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Hours Are the New Days",
-        "url": "https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ"
-      },
-      "artists": [
-        {
-          "name": "Mary Glenn",
-          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
-        }
-      ],
-      "duration_ms": 244664,
-      "name": "Hours Are the New Days",
-      "url": "https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Singing The Traditional Songs Of Her Kentucky Mountain Family",
         "url": "https://open.spotify.com/album/61V1HdEA3F24DmZIyry7MW"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 136733,
       "name": "Black Is the Color",
       "url": "https://open.spotify.com/track/7hdVMPuU0ur50wAW9uGZD5"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Hours Are the New Days",
+        "url": "https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ"
+      },
+      "artists": [
+        {
+          "name": "Mary Glenn",
+          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+        }
+      ],
+      "duration_ms": 244664,
+      "name": "Hours Are the New Days",
+      "url": "https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53"
     },
     {
       "added_at": "2024-07-05 18:47:06",

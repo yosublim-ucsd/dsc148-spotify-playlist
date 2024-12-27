@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-174 songs - 11 hr 45 min
+175 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [It's All Right](https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 2:50 | 2021-12-16 |  |
 | [It's All Right With Me \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:00 | 2021-12-16 | 2024-09-01 |
 | [It's Crazy](https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:06 | 2021-12-16 |  |
-| [It's Only a Paper Moon](https://open.spotify.com/track/27Gqrcetxl6L6UOyhKrLwo) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Follow Your Heart](https://open.spotify.com/album/2KPizBplSDIJ16sDqjLFKT) | 3:12 | 2021-12-16 |  |
+| [It's Only a Paper Moon](https://open.spotify.com/track/27Gqrcetxl6L6UOyhKrLwo) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Follow Your Heart](https://open.spotify.com/album/2KPizBplSDIJ16sDqjLFKT) | 3:12 | 2021-12-16 | 2024-12-27 |
 | [Jazz \(Ain't Nothin' But Soul\)](https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Modern Sound Of Betty Carter](https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS) | 1:56 | 2022-05-25 |  |
 | [Jeannie](https://open.spotify.com/track/2S16YRyDugzBKy2FglLBLz) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Sophisticated Swing](https://open.spotify.com/album/2HSXNwybsegzhAgASpZcHD) | 3:28 | 2021-12-16 | 2023-04-20 |
 | [John Hardy's Wife](https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Duke Ellington Song Book](https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc) | 2:33 | 2021-12-16 |  |
@@ -166,6 +166,7 @@
 | [They Can't Take That Away From Me](https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Past Midnight](https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr) | 2:52 | 2022-05-25 |  |
 | [Things Ain't What They Used To Be](https://open.spotify.com/track/7pzhoKl2D6oRVU6C7ZDqjR) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 4:43 | 2021-12-16 | 2022-01-14 |
 | [Trouble Maker](https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Trouble Maker](https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS) | 6:47 | 2021-12-16 | 2022-01-14 |
+| [Two Fish \- Alt Take](https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [David Cook](https://open.spotify.com/artist/1kTlMFv8G550JogQHA7Jq6) | [How Love Begins \(Extended Edition\)](https://open.spotify.com/album/7sOSStvEboV0UZOvHO4iHb) | 5:16 | 2024-11-29 |  |
 | [Two Not One](https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:31 | 2021-12-16 | 2022-10-26 |
 | [Uncle Rough](https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:33 | 2021-12-16 | 2024-06-04 |
 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 | 2022-05-24 | 2022-08-11 |

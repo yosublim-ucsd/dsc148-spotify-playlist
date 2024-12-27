@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,709 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,733 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 37 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
 | 38 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 |
 | 39 | [시소](https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J) | [KiTak](https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM) | [시소](https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR) | 2:43 |
-| 40 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 |
-| 41 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
-| 42 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
+| 40 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
+| 41 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
+| 42 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 |
 | 43 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
 | 44 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
 | 45 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 |

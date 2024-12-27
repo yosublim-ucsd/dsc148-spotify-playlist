@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Our editors' top picks from EQUAL 2024 from across the globe\. Cover: Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,285 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,158 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 13 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 14 | [TGIF](https://open.spotify.com/track/31TVho4kOuAeRmLYGIEuWn) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:44 |
 | 15 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
-| 16 | [LABOUR \- the cacophony](https://open.spotify.com/track/4B0cJGASxVICLW2AsBZhiE) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [LABOUR \(the cacophony\)](https://open.spotify.com/album/0YsJwceJYAPbMx2O0mcRgF) | 4:07 |
-| 17 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 |
+| 16 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 |
+| 17 | [LABOUR \- the cacophony](https://open.spotify.com/track/4B0cJGASxVICLW2AsBZhiE) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [LABOUR \(the cacophony\)](https://open.spotify.com/album/0YsJwceJYAPbMx2O0mcRgF) | 4:07 |
 | 18 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 | 19 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 20 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 53 | [NEED U](https://open.spotify.com/track/5QQyJ8NxA6EPJI4hxq9fUb) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [FUJU](https://open.spotify.com/artist/4EBHix5Pj89l0ISzlIjaal), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [NEED U](https://open.spotify.com/album/28Rr6j0hu7KfQMznypbRqE) | 2:55 |
 | 54 | [La rabbia non ti basta](https://open.spotify.com/track/74RMAiFZ89d8JhGn7iNSVc) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Sangue](https://open.spotify.com/album/2ODTNZ6HLMTNiiu05e4kHO) | 3:09 |
 | 55 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
-| 56 | [August](https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 3:47 |
-| 57 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 |
+| 56 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 |
+| 57 | [August](https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 3:47 |
 | 58 | [Crowded Roomz](https://open.spotify.com/track/0JH3rxj9e7cY8T1QFgr5mQ) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:52 |
 | 59 | [Нітрогліцерин](https://open.spotify.com/track/4O9DsRSsHcZDB93PRQ1qwS) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:33 |
 | 60 | [Grito](https://open.spotify.com/track/1MJqdZY2srI7SVxLO6fJ1s) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito](https://open.spotify.com/album/5kIN4fhsoFopjJwFSlLgkL) | 2:56 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Jack Harlow",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: d4vd",
   "name": "Next Up",
   "tracks": [
     {
@@ -868,6 +868,24 @@
       "duration_ms": 209188,
       "name": "3 Boys",
       "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+    },
+    {
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
       "album": {
@@ -6472,7 +6490,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 190240,
       "name": "Believe It",
       "url": "https://open.spotify.com/track/6swXNfuOM0rp3WecD55izx"
@@ -8030,6 +8048,28 @@
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+    },
+    {
+      "album": {
+        "name": "bonsai (feat. CENT)",
+        "url": "https://open.spotify.com/album/4EjqrQmADVVs6lsoktBkDE"
+      },
+      "artists": [
+        {
+          "name": "\u8a69\u7fbd",
+          "url": "https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp"
+        },
+        {
+          "name": "CENT",
+          "url": "https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206309,
+      "name": "bonsai (feat. CENT)",
+      "url": "https://open.spotify.com/track/4LyVCEKAB9Dk4PNoqdWNuY"
     },
     {
       "album": {
@@ -10677,6 +10717,32 @@
     },
     {
       "album": {
+        "name": "CHEESE CAKE",
+        "url": "https://open.spotify.com/album/5bCs6T5NIVD23cUC7tKiPg"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124933,
+      "name": "CHEESE CAKE",
+      "url": "https://open.spotify.com/track/46qwh8ErZ9HQZS11L87Llm"
+    },
+    {
+      "album": {
         "name": "CHELSEA",
         "url": "https://open.spotify.com/album/2lJVa505accbQtDWLPIKa7"
       },
@@ -10996,7 +11062,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 211732,
       "name": "Christmas Wish",
       "url": "https://open.spotify.com/track/2XPm3kT9wJZIIy9LimP69P"
@@ -11584,7 +11650,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 161666,
       "name": "Come Play (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
@@ -12968,6 +13034,28 @@
       "duration_ms": 292093,
       "name": "Dancing In Babylon (feat. Christine and the Queens)",
       "url": "https://open.spotify.com/track/6QybVJMtaDCJjl2vPR2DcA"
+    },
+    {
+      "album": {
+        "name": "Dancing in love",
+        "url": "https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
     },
     {
       "album": {
@@ -15468,6 +15556,24 @@
       "duration_ms": 158093,
       "name": "Done With You",
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+    },
+    {
+      "album": {
+        "name": "Lonely Ghost",
+        "url": "https://open.spotify.com/album/07TLVVuZNzC2N9jn9Ltv6x"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249475,
+      "name": "Dong, Nan, Xi, Bei",
+      "url": "https://open.spotify.com/track/3YdY8kv4ShsMrDfYKXE8v7"
     },
     {
       "album": {
@@ -18546,6 +18652,24 @@
       "duration_ms": 215306,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
+    },
+    {
+      "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
       "album": {
@@ -24006,7 +24130,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 192487,
       "name": "HAPPY END",
       "url": "https://open.spotify.com/track/1osPfNzwwAxWjRv2tCB3FN"
@@ -24846,7 +24970,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -42738,7 +42862,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 173783,
       "name": "Nov",
       "url": "https://open.spotify.com/track/7Eksv9gBRK85pacHCop2oF"
@@ -44608,7 +44732,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 283822,
       "name": "Our Lady of Sorrows",
       "url": "https://open.spotify.com/track/1oLyoAX5Y89g84tplWqMlP"
@@ -45010,6 +45134,24 @@
       "duration_ms": 191967,
       "name": "OVERTIME",
       "url": "https://open.spotify.com/track/1xInZKQ3317MQlefCVjgSH"
+    },
+    {
+      "album": {
+        "name": "New Gate",
+        "url": "https://open.spotify.com/album/0HEARBcZXrBW69rD5jCEEj"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265305,
+      "name": "Oyasumi",
+      "url": "https://open.spotify.com/track/4qvYAyYaOGbsBEiEGLTEpJ"
     },
     {
       "album": {
@@ -50631,6 +50773,24 @@
     },
     {
       "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119639,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
+    },
+    {
+      "album": {
         "name": "fruitcake",
         "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
       },
@@ -52132,7 +52292,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 214800,
       "name": "Shinsekai Yori",
       "url": "https://open.spotify.com/track/3NyKPMAryBkJg0Ium7AGgF"
@@ -54308,6 +54468,24 @@
       "duration_ms": 192647,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
+    },
+    {
+      "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/0KzLQCUmZ0wLFtMDj6O5Mq"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189625,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/1OACi7kjZbYeMzHBrVGKcB"
     },
     {
       "album": {
@@ -57847,6 +58025,28 @@
     },
     {
       "album": {
+        "name": "Take Me to the Beach (feat. Ado)",
+        "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Take Me to the Beach (feat. Ado)",
+      "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
+    },
+    {
+      "album": {
         "name": "Take Me to the River",
         "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
       },
@@ -58414,7 +58614,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 150000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
@@ -59993,6 +60193,24 @@
     },
     {
       "album": {
+        "name": "The wish",
+        "url": "https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "The wish",
+      "url": "https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV"
+    },
+    {
+      "album": {
         "name": "Their Stories Continue",
         "url": "https://open.spotify.com/album/3K84dx4ngb96W4Ggv1FLIW"
       },
@@ -60952,6 +61170,28 @@
       "duration_ms": 248098,
       "name": "Tomodachi",
       "url": "https://open.spotify.com/track/0aN84pd1P3r9eSqZA9pLv9"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/11CTLBOXlw8eXoZ3xerLxv"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161979,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/5nQ6kRjN3AwFL1DYrqHQQ5"
     },
     {
       "album": {
@@ -76758,7 +76998,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 189495,
       "name": "\u4e00\u5207\u5408\u5207",
       "url": "https://open.spotify.com/track/01Y5Y1IVEOCUxBmjycQWGI"
@@ -76878,7 +77118,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 163946,
       "name": "\u4e0a\u66f8\u304d\u3057\u3061\u3083\u3063\u305f",
       "url": "https://open.spotify.com/track/722e4w55BjchjugfieaaAX"
@@ -78104,7 +78344,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 212783,
       "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
       "url": "https://open.spotify.com/track/27bqdCSVJk7TrXJZvr6CN2"
@@ -79916,7 +80156,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 208630,
       "name": "\u604b\u306e8\u79d2\u30eb\u30fc\u30eb",
       "url": "https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv"
@@ -80520,6 +80760,24 @@
       "duration_ms": 195450,
       "name": "\u6551\u4e16\u4e3b",
       "url": "https://open.spotify.com/track/2HpElJe84VQKeiZWpIXzWq"
+    },
+    {
+      "album": {
+        "name": "Salyu 20th Anniversary Tribute Album \u201cgrafting\u201d",
+        "url": "https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4"
+      },
+      "artists": [
+        {
+          "name": "Kazutoshi Sakurai",
+          "url": "https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310053,
+      "name": "\u65b0\u3057\u3044YES",
+      "url": "https://open.spotify.com/track/1p0t95Ldn7igeYLSR7aZCj"
     },
     {
       "album": {
@@ -84535,6 +84793,24 @@
     },
     {
       "album": {
+        "name": "\u96ea\u660e\u304b\u308a (Yukiakari)",
+        "url": "https://open.spotify.com/album/0sC7gPF7nafWA69qus9sxq"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193704,
+      "name": "\u96ea\u660e\u304b\u308a (Yukiakari)",
+      "url": "https://open.spotify.com/track/0uHnmZfRQVgme4k99xeKzH"
+    },
+    {
+      "album": {
         "name": "\u96ea\u6708\u98a8\u82b1",
         "url": "https://open.spotify.com/album/31GxFhtydmhCfECgg7NEc9"
       },
@@ -84990,7 +85266,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 243493,
       "name": "\u99ac\u9e7f\u306e\u4e00\u3064\u899a\u3048",
       "url": "https://open.spotify.com/track/6qXaLEEgVGhA3cQGfwAZa9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,681 likes - 41 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,746 likes - 41 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 16 | [Hay Una Luz Dentro De Ti](https://open.spotify.com/track/1SAYcTIjXstwVqmzfKOXjK) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:05 |
 | 17 | [Desde Que Te Vi](https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Desde Que Te Vi](https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd) | 2:51 |
 | 18 | [Afuera Del Planeta](https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:49 |
-| 19 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 |
-| 20 | [Buena](https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Buena](https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN) | 3:38 |
+| 19 | [Buena](https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Buena](https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN) | 3:38 |
+| 20 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 |
 | 21 | [Cielo \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Cielo \(feat\. Nile Rodgers\)](https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK) | 3:03 |
 | 22 | [Quédate](https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:03 |
 | 23 | [Hace Tiempo](https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:22 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 40 | [Perfecto](https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:08 |
 | 41 | [Auténtica](https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC) | 3:24 |
 
-Snapshot ID: `Z2n5gAAAAAAgMndhqgZhCNGJZBd9zRas`
+Snapshot ID: `Z2tLAAAAAACH1H4rFjwGV2Z+EIlYpPss`

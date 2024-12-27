@@ -1,6 +1,6 @@
 {
   "description": "Buon Appetito!",
-  "num_followers": 281597,
+  "num_followers": 281637,
   "original_name": "The Perfect Italian Dinner",
   "owner": {
     "name": "Spotify",
@@ -572,8 +572,24 @@
       },
       "artists": [
         {
+          "name": "Renato Rascel",
+          "url": "https://open.spotify.com/artist/1GVIshrqh9tT1excC8sftj"
+        },
+        {
+          "name": "Pietro Garinei",
+          "url": "https://open.spotify.com/artist/0IQQvVcg8yGxrkQsTZjxMO"
+        },
+        {
+          "name": "Alessandro Giovannini",
+          "url": "https://open.spotify.com/artist/0rr9T4u0NYFs1BS28NA5IM"
+        },
+        {
           "name": "Sergio Franchi",
           "url": "https://open.spotify.com/artist/3afJ7ksCTA53PwM233jIf8"
+        },
+        {
+          "name": "Henri Rene",
+          "url": "https://open.spotify.com/artist/65dfY9wvk8WRCknx4EQIeT"
         }
       ],
       "duration_ms": 203733,

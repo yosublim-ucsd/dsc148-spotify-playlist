@@ -2,7 +2,7 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Only Monday
+> ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: GEMINI
 
 109 songs - 6 hr 30 min
 

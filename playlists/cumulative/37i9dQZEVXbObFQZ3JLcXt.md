@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-593 songs - 1 day 12 hr 41 min
+594 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Know Me Too Well \(with Danna Paola\)](https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [New Hope Club](https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn) | 3:20 | 2021-06-08 | 2021-12-16 |
 | [Komang](https://open.spotify.com/track/19GVttbvglsRrRB8FGGM05) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/6qNAh30wzA0xwInyRza9XD) | 3:42 | 2023-02-23 | 2023-02-26 |
 | [Komang](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE) | 3:42 | 2023-02-15 | 2023-12-03 |
-| [Komang](https://open.spotify.com/track/654ZF6YNWjQS2NhwR3QnX7) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/7F3BUHlrZdaKrtSQ0LEpLm) | 3:42 | 2023-12-02 | 2024-12-24 |
+| [Komang](https://open.spotify.com/track/654ZF6YNWjQS2NhwR3QnX7) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/7F3BUHlrZdaKrtSQ0LEpLm) | 3:42 | 2023-12-02 |  |
 | [Komang](https://open.spotify.com/track/6w5b3VYbq3kp0Nv4iZkAMz) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/63Gd7z1HEDrSr3w2KO55ns) | 3:42 | 2023-02-14 | 2023-02-16 |
 | [Kota](https://open.spotify.com/track/0SeBJ2sAl8CV58kBfpd5va) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Kota](https://open.spotify.com/album/6kn7hqy1xP6XsYD6rSIhZW) | 3:18 | 2021-03-27\* | 2021-12-26 |
 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 | 2023-12-30 | 2024-06-22 |
@@ -322,7 +322,7 @@
 | [Masa Sepi](https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Masa Sepi](https://open.spotify.com/album/264G53YN0qa679J5JEDtkg) | 3:33 | 2024-08-14 | 2024-10-16 |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-03-12 | 2024-07-19 |
 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 | 2024-10-08 |  |
-| [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 | 2024-03-30 |  |
+| [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 | 2024-03-30 | 2024-12-27 |
 | [Melawan Restu](https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Melawan Restu](https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0) | 3:39 | 2021-05-23 | 2023-01-14 |
 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 | 2021-03-27\* | 2021-08-13 |
 | [Mendua](https://open.spotify.com/track/5g7TAIGfB6vgbaX8AH19FG) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Terpukau](https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr) | 4:10 | 2024-03-24 | 2024-05-13 |
@@ -542,7 +542,7 @@
 | [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2022-11-12 | 2023-10-01 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-06 | 2022-05-16 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-20 | 2021-12-04 |
-| [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-24 |  |
+| [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-24 | 2024-12-27 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2022-11-01 |
 | [The Happiest Girl](https://open.spotify.com/track/7AdGloF1UHKe1vAZPbqIXH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:42 | 2022-09-17 | 2022-09-23 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2024-03-15 | 2024-12-12 |
@@ -569,6 +569,7 @@
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-08 | 2022-08-21 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-07-20 | 2023-04-20 |
 | [Untuk Mencintaimu](https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Lelaki Hebat](https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9) | 3:29 | 2023-11-12 | 2024-02-09 |
+| [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 | 2024-12-26 |  |
 | [Untungnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:02 | 2024-08-03 |  |
 | [Usai](https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Usai](https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8) | 3:37 | 2022-12-27 | 2024-06-18 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-05-11 | 2023-05-30 |

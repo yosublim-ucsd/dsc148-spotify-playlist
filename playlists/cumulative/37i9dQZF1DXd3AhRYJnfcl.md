@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=8VV0BsjvQGuPnIV33IU6sQ"> بهاء سلطان </a>
 
-349 songs - 20 hr 19 min
+350 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Ya Layaly](https://open.spotify.com/track/7ygixJ8FptOv80Ot2KadAN) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Ana Kteer](https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT) | 4:59 | 2023-03-16 | 2024-02-17 |
 | [Ya Rab Tkoon Be Khair](https://open.spotify.com/track/7BHkU54RSmqhtd8TNKRKx6) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Rab Tkoon Be Khair](https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV) | 3:05 | 2023-01-03 | 2023-02-08 |
 | [Ya Salam \- Remix](https://open.spotify.com/track/7kFcz3xHq7hsOrfQWkipvP) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Ya Salam \(Remix\)](https://open.spotify.com/album/3hmV8luknujbOif3arzW4J) | 4:13 | 2022-04-13 | 2022-10-11 |
+| [Yaah](https://open.spotify.com/track/70dKMd8vTYyNZ0UBbtrT00) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/1kOTpVpceIIpzMSoHgTOK9) | 4:10 | 2024-12-26 |  |
 | [Yalla](https://open.spotify.com/track/6rhd40DNmApnDOGsd4SPQG) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Yalla](https://open.spotify.com/album/0L9JuitPjP5cGRcyiQ17fx) | 3:02 | 2023-09-01 | 2023-09-06 |
 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 | 2023-09-01 | 2024-09-10 |
 | [Zay El Ganna](https://open.spotify.com/track/6AVEglzXRfBsRag62s9JGn) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [Zay El Ganna](https://open.spotify.com/album/3f7aSZmg3DNCFwsnDiKVr7) | 3:20 | 2024-07-08 | 2024-09-10 |

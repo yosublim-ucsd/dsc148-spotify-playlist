@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,870 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,890 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Modo de Festejo](https://open.spotify.com/track/7fUQ2lIwbdjQrPATWfT55g) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [A Modo de Festejo](https://open.spotify.com/album/3vlVahTHKYc9BBUa2L7ixn) | 3:04 |
-| 2 | [Un Amor Bonito](https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Trilogía, Vol\. 2](https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc) | 2:37 |
-| 3 | [900 Cigarros](https://open.spotify.com/track/5l9Yiss1tK7DFlOIZ6VumO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 2:03 |
+| 2 | [900 Cigarros](https://open.spotify.com/track/5l9Yiss1tK7DFlOIZ6VumO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 2:03 |
+| 3 | [Un Amor Bonito](https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Trilogía, Vol\. 2](https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc) | 2:37 |
 | 4 | [Te Vas a Acordar de Mi](https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 3:24 |
 | 5 | [Beses a Quien Beses](https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Beses a Quien Beses](https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj) | 2:57 |
 | 6 | [La Boca Les Callamos](https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos](https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9) | 2:44 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 37 | [Como una Fiera](https://open.spotify.com/track/0rFI3guWwBbbiO5BfYnHh6) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Como una Fiera](https://open.spotify.com/album/3y6ZgAAV5YwdyMuFOwpCJf) | 2:47 |
 | 38 | [Te Sale Bien](https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Sale Bien](https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv) | 2:47 |
 | 39 | [Me Derrumbé a Tus Pies](https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Me Derrumbé a Tus Pies](https://open.spotify.com/album/5BapJqjEnc9bRomteNgQtC) | 3:24 |
-| 40 | [Si Llegan a Enterarse](https://open.spotify.com/track/235uSINaGqneZry2vVXtx0) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7.2](https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB) | 2:40 |
-| 41 | [Mi Peloncito](https://open.spotify.com/track/4rgMWX25ov8duYmrgMuD7x) | [Academia Mis Raices](https://open.spotify.com/artist/6U5NItWyZsDrvob0HI0ajg), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t), [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mi Peloncito](https://open.spotify.com/album/1tglosdWAKZpRow8HzK4Ne) | 4:00 |
+| 40 | [Mi Peloncito](https://open.spotify.com/track/4rgMWX25ov8duYmrgMuD7x) | [Academia Mis Raices](https://open.spotify.com/artist/6U5NItWyZsDrvob0HI0ajg), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t), [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mi Peloncito](https://open.spotify.com/album/1tglosdWAKZpRow8HzK4Ne) | 4:00 |
+| 41 | [Si Llegan a Enterarse](https://open.spotify.com/track/235uSINaGqneZry2vVXtx0) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7.2](https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB) | 2:40 |
 | 42 | [Olvidarte ¿Cómo?](https://open.spotify.com/track/6qoLoLaw4zC48XERFdTBgN) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 3:27 |
 | 43 | [Ya No Te Quiero Querer](https://open.spotify.com/track/28yEy7OAKeiAZ1m0td8N3H) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 2:50 |
 | 44 | [Calientita](https://open.spotify.com/track/0vM0UcnVHS3JQMTaKyU5bG) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Calientita](https://open.spotify.com/album/5kyoEFoQ2MKSNMCNl0GZw9) | 2:21 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 50 | [Tus Historias Mienten](https://open.spotify.com/track/6M3fUO8he626evmaoYay1a) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Tus Historias Mienten](https://open.spotify.com/album/1Cj4btxoSIydkaxQsmUJ0d) | 2:26 |
 | 51 | [Eclipse](https://open.spotify.com/track/57pVaakpJ2asKjALpW7DyI) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Eclipse](https://open.spotify.com/album/58x41YRex4WzbE9zvzfaU5) | 2:05 |
 
-Snapshot ID: `Z2n5gAAAAAC9u+ILWg94sBJP6FN9mbbT`
+Snapshot ID: `Z2tLAAAAAAD3KIgL0Oy6dnBBVo40Y9AM`

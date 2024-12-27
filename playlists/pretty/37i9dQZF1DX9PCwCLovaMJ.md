@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,265 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 26 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 |
 | 27 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
 | 28 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 |
-| 29 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 |
-| 30 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
+| 29 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
+| 30 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 |
 | 31 | [Du flög iväg](https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Du flög iväg](https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM) | 2:35 |
 | 32 | [Bättre dar](https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Bättre dar](https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo) | 2:41 |
 | 33 | [Håll om mig](https://open.spotify.com/track/1LfdHoC7x7kECo4I9CGzzT) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Håll om mig](https://open.spotify.com/album/7dFZX0d5gXDqDygckfzdNj) | 2:06 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 39 | [My Love For You](https://open.spotify.com/track/7pwctg6xFE9ihh3gcoQWTf) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 5:35 |
 | 40 | [The Trip](https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [The Trip](https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B) | 3:12 |
 | 41 | [Shoulder](https://open.spotify.com/track/1Z8MidkV2WcP1vUxM64vpf) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Shoulder](https://open.spotify.com/album/7jjCS1RPvekWlZ6RFZ0Ni1) | 2:53 |
-| 42 | [EVERYDAY IS A NEW BEGINNING](https://open.spotify.com/track/6KWyM51UniwFc6rx3u20Ye) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [My Heart Weighs A Ton](https://open.spotify.com/album/3ZrDgzyEV7A1rwsXPeEFOC) | 3:03 |
-| 43 | [Feel your love](https://open.spotify.com/track/61S1qXu0XbNmwmVdqnThYs) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:44 |
+| 42 | [Feel your love](https://open.spotify.com/track/61S1qXu0XbNmwmVdqnThYs) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:44 |
+| 43 | [EVERYDAY IS A NEW BEGINNING](https://open.spotify.com/track/6KWyM51UniwFc6rx3u20Ye) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [My Heart Weighs A Ton](https://open.spotify.com/album/3ZrDgzyEV7A1rwsXPeEFOC) | 3:03 |
 | 44 | [Without Calling](https://open.spotify.com/track/65M5rwETpwZenkeSyCBgjI) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Without Calling](https://open.spotify.com/album/2seZnoNRl94w7Qfrwgwn6x) | 3:04 |
 | 45 | [Wa Nibi](https://open.spotify.com/track/7jZESJkAP1efDTqaDTJXBi) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Wa Nibi](https://open.spotify.com/album/30SFFOEsMJKrTink00To4d) | 2:34 |
 | 46 | [Nightrun](https://open.spotify.com/track/4QsFvkrElAa4gbKN2VML5z) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 4:24 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 49 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 |
 | 50 | [Restart](https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Restart](https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL) | 2:36 |
 | 51 | [Spooky](https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Denzel Himself](https://open.spotify.com/artist/1cdFsfULlsBxTYbAhWlKNQ) | [Spooky](https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS) | 2:49 |
-| 52 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
-| 53 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 |
+| 52 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 |
+| 53 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
 | 54 | [Light](https://open.spotify.com/track/3znoDo4pQe84sKpFPRKZ2G) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Light](https://open.spotify.com/album/3ib9CGIQOVy6up6PmMEzxo) | 3:37 |
 | 55 | [Kvar här](https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54) | [Den stora fula kavajen](https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9) | 3:30 |
 | 56 | [Good News](https://open.spotify.com/track/22jO3kTf60Qf6W808xDjrH) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [SHIFT](https://open.spotify.com/album/2LtiWOQGDLp72gxTBZ4XTf) | 2:00 |

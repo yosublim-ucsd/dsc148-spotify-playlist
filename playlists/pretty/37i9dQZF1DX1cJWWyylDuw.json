@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Whitechapel",
-  "num_followers": 236842,
+  "num_followers": 236952,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Fleshweaver",
-        "url": "https://open.spotify.com/album/5Jbu1MEHnNvbNpHqXC4JPQ"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        }
-      ],
-      "duration_ms": 138920,
-      "name": "Fleshweaver",
-      "url": "https://open.spotify.com/track/6TmUd3qdkx5FbRsY6IoSDS"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Dead Man's Diary",
         "url": "https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 279060,
       "name": "Dead Man's Diary",
       "url": "https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Fleshweaver",
+        "url": "https://open.spotify.com/album/5Jbu1MEHnNvbNpHqXC4JPQ"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 138920,
+      "name": "Fleshweaver",
+      "url": "https://open.spotify.com/track/6TmUd3qdkx5FbRsY6IoSDS"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1307,6 +1307,38 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "The Anguished Throne",
+        "url": "https://open.spotify.com/album/066lbqrEiKN7xEf3bSidD8"
+      },
+      "artists": [
+        {
+          "name": "Worm Shepherd",
+          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
+        }
+      ],
+      "duration_ms": 340373,
+      "name": "The Anguished Throne",
+      "url": "https://open.spotify.com/track/2pQmZWhfn6aeHzE8OaJCJl"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Join Me In Armageddon",
+        "url": "https://open.spotify.com/album/5KpZEmnkR80qQNk9NGlNto"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 278160,
+      "name": "Join Me In Armageddon",
+      "url": "https://open.spotify.com/track/28uVRfGtycdhFROppf4tHA"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Torturous Symphony (feat. Matthew K. Heafy)",
         "url": "https://open.spotify.com/album/6Q8AVnb0T0sesNOqXODHVH"
       },
@@ -1327,22 +1359,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "The Anguished Throne",
-        "url": "https://open.spotify.com/album/066lbqrEiKN7xEf3bSidD8"
-      },
-      "artists": [
-        {
-          "name": "Worm Shepherd",
-          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
-        }
-      ],
-      "duration_ms": 340373,
-      "name": "The Anguished Throne",
-      "url": "https://open.spotify.com/track/2pQmZWhfn6aeHzE8OaJCJl"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Under the Weight of Things I Couldn't Change",
         "url": "https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 216500,
       "name": "Coffin of Pain",
       "url": "https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Join Me In Armageddon",
-        "url": "https://open.spotify.com/album/5KpZEmnkR80qQNk9NGlNto"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Join Me In Armageddon",
-      "url": "https://open.spotify.com/track/28uVRfGtycdhFROppf4tHA"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "The Tide of Death and Fractured Dreams",
-        "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 271717,
-      "name": "Where No Light Shines",
-      "url": "https://open.spotify.com/track/38pklo617cL9UmIMU8FkTQ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Fathomless Maw",
         "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 205058,
       "name": "Fathomless Maw",
       "url": "https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Tide of Death and Fractured Dreams",
+        "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 271717,
+      "name": "Where No Light Shines",
+      "url": "https://open.spotify.com/track/38pklo617cL9UmIMU8FkTQ"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "The Isnis",
+        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 197614,
+      "name": "The Isnis",
+      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap"
       },
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "The Isnis",
-        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 197614,
-      "name": "The Isnis",
-      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "The Price of Grace",
         "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
       },
@@ -1727,22 +1727,6 @@
       "duration_ms": 247282,
       "name": "The Price of Grace",
       "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Mana God",
-        "url": "https://open.spotify.com/album/1nNequaT9lAbQgiVFYgRRU"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Mana God",
-      "url": "https://open.spotify.com/track/2NTGgDTU4xDSgoMXvtRawI"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1779,6 +1763,22 @@
       "duration_ms": 149432,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/19HmHAY4FPJXh8StiN8qLu"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Mana God",
+        "url": "https://open.spotify.com/album/1nNequaT9lAbQgiVFYgRRU"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Mana God",
+      "url": "https://open.spotify.com/track/2NTGgDTU4xDSgoMXvtRawI"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Banshee",
-        "url": "https://open.spotify.com/album/2gPp8IUtPPOkTWaIGSxcxj"
-      },
-      "artists": [
-        {
-          "name": "Seeing Things",
-          "url": "https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH"
-        }
-      ],
-      "duration_ms": 190530,
-      "name": "Banshee",
-      "url": "https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Dying Life",
         "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 200629,
       "name": "Dying Life",
       "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Banshee",
+        "url": "https://open.spotify.com/album/2gPp8IUtPPOkTWaIGSxcxj"
+      },
+      "artists": [
+        {
+          "name": "Seeing Things",
+          "url": "https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH"
+        }
+      ],
+      "duration_ms": 190530,
+      "name": "Banshee",
+      "url": "https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Empyrean",
-        "url": "https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb"
-      },
-      "artists": [
-        {
-          "name": "Fallujah",
-          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Mindless Omnipotent Master",
-      "url": "https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "No One's Above",
         "url": "https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH"
       },
@@ -1999,18 +1983,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Burn Your Local Butcher",
-        "url": "https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m"
+        "name": "Empyrean",
+        "url": "https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb"
       },
       "artists": [
         {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+          "name": "Fallujah",
+          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
         }
       ],
-      "duration_ms": 184944,
-      "name": "Burn Your Local Butcher",
-      "url": "https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr"
+      "duration_ms": 278600,
+      "name": "Mindless Omnipotent Master",
+      "url": "https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2031,6 +2015,22 @@
       "duration_ms": 184285,
       "name": "Stay Out of My Swamp",
       "url": "https://open.spotify.com/track/7puhKmQVgOl50FiOOYXgZH"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Burn Your Local Butcher",
+        "url": "https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "duration_ms": 184944,
+      "name": "Burn Your Local Butcher",
+      "url": "https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2615,6 +2615,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Everything Bleeds",
+        "url": "https://open.spotify.com/album/2KPSXo6XMYGge8SUqPWdrY"
+      },
+      "artists": [
+        {
+          "name": "Crown Magnetar",
+          "url": "https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "Everything Bleeds",
+      "url": "https://open.spotify.com/track/4z3D0mWD3L1Qzo07naNHlh"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Plague Bringer (Inhuman Rework)",
         "url": "https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH"
       },
@@ -2631,22 +2647,6 @@
       "duration_ms": 205562,
       "name": "Plague Bringer - Inhuman Rework",
       "url": "https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Everything Bleeds",
-        "url": "https://open.spotify.com/album/2KPSXo6XMYGge8SUqPWdrY"
-      },
-      "artists": [
-        {
-          "name": "Crown Magnetar",
-          "url": "https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "Everything Bleeds",
-      "url": "https://open.spotify.com/track/4z3D0mWD3L1Qzo07naNHlh"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2771,6 +2771,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Complete Control",
+        "url": "https://open.spotify.com/album/32W7n2vtVx6QuMCZiMnsSa"
+      },
+      "artists": [
+        {
+          "name": "Misery Index",
+          "url": "https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA"
+        }
+      ],
+      "duration_ms": 292320,
+      "name": "Administer the Dagger",
+      "url": "https://open.spotify.com/track/76oQEVB2qHnATgoUJNEXgu"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Mournful Benediction (feat. Ben Duerr)",
         "url": "https://open.spotify.com/album/5jwvhbhjLUy5wePrQCQDY1"
       },
@@ -2787,22 +2803,6 @@
       "duration_ms": 380639,
       "name": "Mournful Benediction (feat. Ben Duerr)",
       "url": "https://open.spotify.com/track/6gij4IsYFTkgiNuDiMHjsl"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Complete Control",
-        "url": "https://open.spotify.com/album/32W7n2vtVx6QuMCZiMnsSa"
-      },
-      "artists": [
-        {
-          "name": "Misery Index",
-          "url": "https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA"
-        }
-      ],
-      "duration_ms": 292320,
-      "name": "Administer the Dagger",
-      "url": "https://open.spotify.com/track/76oQEVB2qHnATgoUJNEXgu"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -3123,6 +3123,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Helix",
+        "url": "https://open.spotify.com/album/5XlKRhFaEPZl0NEoLbMsRo"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        }
+      ],
+      "duration_ms": 312468,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/7fFb8tJU5thmLGP1ZKqLxw"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Take Me To Hell",
         "url": "https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ"
       },
@@ -3335,22 +3351,6 @@
       "duration_ms": 190485,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/4CtFvQhdhJoBcgkSuaA0D9"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Helix",
-        "url": "https://open.spotify.com/album/5XlKRhFaEPZl0NEoLbMsRo"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
-        }
-      ],
-      "duration_ms": 312468,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/7fFb8tJU5thmLGP1ZKqLxw"
     },
     {
       "added_at": "2024-10-18 04:00:00",

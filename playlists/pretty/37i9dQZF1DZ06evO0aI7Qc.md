@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,093 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,277 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 21 | [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 |
 | 22 | [Por Si Se Les Olvidaba](https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Por Si Se Les Olvidaba](https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck) | 2:40 |
 | 23 | [Pixelados](https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:55 |
-| 24 | [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 |
-| 25 | [Con Todo Respetillo](https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 2:57 |
+| 24 | [Con Todo Respetillo](https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 2:57 |
+| 25 | [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 |
 | 26 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 |
 | 27 | [El Menos Visto](https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 3:03 |
 | 28 | [LA 701](https://open.spotify.com/track/7Jk86fYuucnJRzp3XlYK4C) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:44 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 50 | [Le Apodan El Fresa](https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Apodan El Fresa](https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG) | 3:14 |
 | 51 | [A Punta de Balazos](https://open.spotify.com/track/30jSzrU2QGEVG623M6x63V) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:31 |
 
-Snapshot ID: `Z2n5gAAAAACt13RC1GpgiYxvGLbf3u4z`
+Snapshot ID: `Z2tLAAAAAAD3BkH4GMEFnmaK6ZnrZwJX`

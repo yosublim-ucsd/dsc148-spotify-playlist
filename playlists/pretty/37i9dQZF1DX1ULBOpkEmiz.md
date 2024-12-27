@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 
 > Feeling like summer in 03'
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,262 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,261 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 | 25 | [Blame It](https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Intuition](https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f) | 4:49 |
 | 26 | [Get It Shawty](https://open.spotify.com/track/2a03afRiyAbNAleOByVju4) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 3:29 |
 | 27 | [Where the Party At \(feat\. Nelly\)](https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 3:52 |
-| 28 | [Do It To It](https://open.spotify.com/track/6MBEjJlXQYXr8dfxDvZuoA) | [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo), [Sean Paul](https://open.spotify.com/artist/2ZVEnkCKF0ytNHpj9cLxte) | [Unappreciated](https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn) | 3:46 |
-| 29 | [Dance Tonight](https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:41 |
+| 28 | [Dance Tonight](https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:41 |
+| 29 | [Do It To It](https://open.spotify.com/track/6MBEjJlXQYXr8dfxDvZuoA) | [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo), [Sean Paul](https://open.spotify.com/artist/2ZVEnkCKF0ytNHpj9cLxte) | [Unappreciated](https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn) | 3:46 |
 | 30 | [Oh Boy](https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:24 |
 | 31 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 32 | [Wanna Get To Know You](https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 4:25 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 | 41 | [So What](https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x) | [Field Mob](https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Light Poles And Pine Trees](https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR) | 3:36 |
 | 42 | [The Jump Off](https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 3:54 |
 | 43 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
-| 44 | [Why You Wanna](https://open.spotify.com/track/1g0oI97rPdYuWDIpkbtQdv) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 3:35 |
-| 45 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
+| 44 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
+| 45 | [Why You Wanna](https://open.spotify.com/track/1g0oI97rPdYuWDIpkbtQdv) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 3:35 |
 | 46 | [Some Cut \(feat\. Cutty\)](https://open.spotify.com/track/07u02f6biDHx5VexfAs41b) | [Trillville](https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY), [Cutty](https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB) | [The King Of Crunk & BME Recordings Present: Welcome to Trillville USA](https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu) | 4:43 |
 | 47 | [Between Me & You](https://open.spotify.com/track/4xwRtK6tfMp4yZwcDvY0gT) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Rule 3:36](https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH) | 4:10 |
 | 48 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |

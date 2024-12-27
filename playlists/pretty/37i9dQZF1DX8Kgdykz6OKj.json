@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1391448,
+  "num_followers": 1392012,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-20 05:00:26",
       "album": {
-        "name": "Quaranta (Deluxe)",
-        "url": "https://open.spotify.com/album/5WY7ylzZpMxR43miLR8WB3"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 130895,
-      "name": "Cheaters",
-      "url": "https://open.spotify.com/track/6a742CHToHxyoAghYZOYho"
-    },
-    {
-      "added_at": "2024-12-20 05:00:26",
-      "album": {
         "name": "Samurai",
         "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 194786,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
+    },
+    {
+      "added_at": "2024-12-20 05:00:26",
+      "album": {
+        "name": "Quaranta (Deluxe)",
+        "url": "https://open.spotify.com/album/5WY7ylzZpMxR43miLR8WB3"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 130895,
+      "name": "Cheaters",
+      "url": "https://open.spotify.com/track/6a742CHToHxyoAghYZOYho"
     },
     {
       "added_at": "2024-12-20 05:00:26",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-12-20 05:00:26",
       "album": {
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+      },
+      "artists": [
+        {
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2024-12-20 05:00:26",
+      "album": {
         "name": "Perdu in Peru",
         "url": "https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 178604,
       "name": "More Than a Lova",
       "url": "https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf"
-    },
-    {
-      "added_at": "2024-12-20 05:00:26",
-      "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2024-12-20 05:00:26",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2024-12-20 05:00:26",
       "album": {
-        "name": "They Ain't Want Us",
-        "url": "https://open.spotify.com/album/435MUSLZrcdgYWmdppSpXg"
-      },
-      "artists": [
-        {
-          "name": "Wakai",
-          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
-        },
-        {
-          "name": "Samant",
-          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
-        }
-      ],
-      "duration_ms": 222027,
-      "name": "PARADIGM",
-      "url": "https://open.spotify.com/track/0nwo2syHpAMtqTC2vnq2u1"
-    },
-    {
-      "added_at": "2024-12-20 05:00:26",
-      "album": {
         "name": "We Do It Remixes",
         "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 187941,
       "name": "We Do It (Jazz Spastiks Remix)",
       "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
+    },
+    {
+      "added_at": "2024-12-20 05:00:26",
+      "album": {
+        "name": "They Ain't Want Us",
+        "url": "https://open.spotify.com/album/435MUSLZrcdgYWmdppSpXg"
+      },
+      "artists": [
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        },
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        }
+      ],
+      "duration_ms": 222027,
+      "name": "PARADIGM",
+      "url": "https://open.spotify.com/track/0nwo2syHpAMtqTC2vnq2u1"
     },
     {
       "added_at": "2024-12-20 05:00:26",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2024-12-20 05:00:26",
       "album": {
-        "name": "Jazz & Coffee, Pt. 4",
-        "url": "https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70"
-      },
-      "artists": [
-        {
-          "name": "Kid Abstrakt",
-          "url": "https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w"
-        },
-        {
-          "name": "Emapea",
-          "url": "https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6"
-        },
-        {
-          "name": "DJ Million Faces",
-          "url": "https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Jazz & Coffee, Pt. 4",
-      "url": "https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:26",
-      "album": {
         "name": "Protea",
         "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
       },
@@ -1859,26 +1835,26 @@
     {
       "added_at": "2024-12-20 05:00:26",
       "album": {
-        "name": "AMALAMA",
-        "url": "https://open.spotify.com/album/0UdNmx41O4U8B1IvSOBBLV"
+        "name": "Jazz & Coffee, Pt. 4",
+        "url": "https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70"
       },
       "artists": [
         {
-          "name": "Moka Only",
-          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+          "name": "Kid Abstrakt",
+          "url": "https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w"
         },
         {
-          "name": "Alcynoos",
-          "url": "https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY"
+          "name": "Emapea",
+          "url": "https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6"
         },
         {
-          "name": "Parental",
-          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
+          "name": "DJ Million Faces",
+          "url": "https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP"
         }
       ],
-      "duration_ms": 109416,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2JFbWsM4ooD9EMcTI0yO92"
+      "duration_ms": 180000,
+      "name": "Jazz & Coffee, Pt. 4",
+      "url": "https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ"
     },
     {
       "added_at": "2024-12-20 05:00:26",
@@ -1919,6 +1895,30 @@
       "duration_ms": 334374,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
+    },
+    {
+      "added_at": "2024-12-20 05:00:26",
+      "album": {
+        "name": "AMALAMA",
+        "url": "https://open.spotify.com/album/0UdNmx41O4U8B1IvSOBBLV"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        },
+        {
+          "name": "Alcynoos",
+          "url": "https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY"
+        },
+        {
+          "name": "Parental",
+          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
+        }
+      ],
+      "duration_ms": 109416,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2JFbWsM4ooD9EMcTI0yO92"
     },
     {
       "added_at": "2024-12-20 05:00:26",

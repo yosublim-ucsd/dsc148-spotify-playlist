@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,603 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,707 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 16 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 |
 | 17 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 |
 | 18 | [You](https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:37 |
-| 19 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
-| 20 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
+| 19 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
+| 20 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
 | 21 | [Body Party](https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG) | 3:54 |
 | 22 | [Focus](https://open.spotify.com/track/6KluBT5Zthyzk6sBwqAcso) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 1](https://open.spotify.com/album/6btE9k5ED8ydC8XY1K0kko) | 3:20 |
 | 23 | [Bad Intentions](https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:05 |
 | 24 | [Feels](https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:01 |
-| 25 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
-| 26 | [All We Do](https://open.spotify.com/track/2yZKtBfdFdvcfjtAbSIsRb) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 4:27 |
+| 25 | [All We Do](https://open.spotify.com/track/2yZKtBfdFdvcfjtAbSIsRb) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 4:27 |
+| 26 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
 | 27 | [Belong to You \(feat\. 6LACK\)](https://open.spotify.com/track/2I88NEWpKrAPZuapXNV5G6) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 3:05 |
 | 28 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
 | 29 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 74 | [Black & Blue](https://open.spotify.com/track/6GXpmbSdQsvn3qTJuQL4XI) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Black & Blue](https://open.spotify.com/album/1oX4HaDukcIu95wcTt6r8M) | 3:10 |
 | 75 | [All I See Is You](https://open.spotify.com/track/3iGCmdEr1Nja2gPhJAUsD3) | [Meaku](https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ) | [All I See Is You](https://open.spotify.com/album/1MexXJHmamEttAaPeUsq7T) | 3:44 |
 | 76 | [Control Me](https://open.spotify.com/track/6ImX9KIEXSf3xEIOXoBTG6) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Control Me](https://open.spotify.com/album/4YNz9YitCxbSJawRhMkPbL) | 3:33 |
-| 77 | [idc bout the club, i just want you](https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK) | [Kalin White](https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq) | [idc bout the club, i just want you](https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M) | 2:44 |
-| 78 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
+| 77 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
+| 78 | [idc bout the club, i just want you](https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK) | [Kalin White](https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq) | [idc bout the club, i just want you](https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M) | 2:44 |
 | 79 | [Devour](https://open.spotify.com/track/4wEDkySDxnlg9wBwcFsp6v) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [Devour](https://open.spotify.com/album/4HPoxlB9tyhq1LJHswoVeT) | 2:28 |
 | 80 | [Jazmine \(Lights Low\)](https://open.spotify.com/track/0Ljvg59UWrTiwSmRbcU9ZK) | [Mont Jake](https://open.spotify.com/artist/19rpW44F6JtXkC8TrK6VBD) | [Jazmine \(Lights Low\)](https://open.spotify.com/album/2OSfGonDcYgvCGHngFTRFC) | 3:37 |
 

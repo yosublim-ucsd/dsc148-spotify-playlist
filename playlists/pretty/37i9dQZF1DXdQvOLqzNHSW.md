@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,462 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,437 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 41 | [Someone Else](https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 3:17 |
 | 42 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10) | 4:51 |
 | 43 | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6) | 2:40 |
-| 44 | [green house](https://open.spotify.com/track/7ltRWqAI5vXTbn5Tb1KX2q) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 1:57 |
-| 45 | [Dreamflower](https://open.spotify.com/track/4iyH37AHAkYK1MVhveeqcm) | [Tarika Blue](https://open.spotify.com/artist/5lq6V5V6D0zzfClxSPzV4G) | [Tarika Blue](https://open.spotify.com/album/7HAwI2tHY7ReYr2pjg4eWT) | 4:15 |
+| 44 | [Dreamflower](https://open.spotify.com/track/4iyH37AHAkYK1MVhveeqcm) | [Tarika Blue](https://open.spotify.com/artist/5lq6V5V6D0zzfClxSPzV4G) | [Tarika Blue](https://open.spotify.com/album/7HAwI2tHY7ReYr2pjg4eWT) | 4:15 |
+| 45 | [green house](https://open.spotify.com/track/7ltRWqAI5vXTbn5Tb1KX2q) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 1:57 |
 | 46 | [Amnesia](https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Craterellus Tubaeformis](https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ) | 3:40 |
 | 47 | [Camille](https://open.spotify.com/track/0HBvrmugioEvfQpnv2kPX0) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:16 |
 | 48 | [Broom](https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 2:15 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 56 | [Take Ur Time](https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [One More Rush](https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV) | 4:00 |
 | 57 | [Hate the Sun](https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:34 |
 | 58 | [Black Car](https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:11 |
-| 59 | [Hammer](https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 5:38 |
-| 60 | [Emotions](https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon](https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC) | 3:24 |
-| 61 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 |
-| 62 | [Fallin 4 Ya Luv](https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Café Noir](https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI) | 2:20 |
+| 59 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 |
+| 60 | [Hammer](https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 5:38 |
+| 61 | [Fallin 4 Ya Luv](https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Café Noir](https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI) | 2:20 |
+| 62 | [Emotions](https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon](https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC) | 3:24 |
 | 63 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
 | 64 | [Biking](https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Biking](https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad) | 2:50 |
 | 65 | [Falling in Loves too Mean](https://open.spotify.com/track/2ECYzy9Xr3Cr3cRgcWXnga) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Hether Who?](https://open.spotify.com/album/4U5EhQq161gJSUVFaEgrGA) | 2:56 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 92 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
 | 93 | [I Think I Lost That Love](https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX) | [r mccarthy](https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7) | [Dick Arkive: Issue 2](https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV) | 4:02 |
 | 94 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
-| 95 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
-| 96 | [Day In The Life](https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB) | [BABYKIRA](https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX) | [Day In The Life](https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B) | 3:00 |
-| 97 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
+| 95 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
+| 96 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
+| 97 | [Day In The Life](https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB) | [BABYKIRA](https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX) | [Day In The Life](https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B) | 3:00 |
 | 98 | [Outro 4 NYC](https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N) | [Vondelpark](https://open.spotify.com/artist/4W8Yz77BGq4uaiqCR2sYJ9) | [NYC Stuff and NYC Bags \- EP](https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS) | 1:55 |
 | 99 | [Forget About Us](https://open.spotify.com/track/65SdUIqOkTDkVRcZSa9xAu) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Stars at Midnight](https://open.spotify.com/album/2227pVdlLCui08gdcK3Pe0) | 4:12 |
 | 100 | [Get Well](https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:57 |

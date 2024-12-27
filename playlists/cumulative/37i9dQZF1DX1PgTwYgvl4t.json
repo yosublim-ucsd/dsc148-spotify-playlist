@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "I Cant Tell It All",
+        "url": "https://open.spotify.com/album/3hJEXMrli90vxYUlDubnHd"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303751,
+      "name": "I Cant Tell It All",
+      "url": "https://open.spotify.com/track/6h8Kqtmm4skWxoXkVhnTMT"
+    },
+    {
+      "album": {
         "name": "Truth in Sounds",
         "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
       },
@@ -1296,6 +1314,28 @@
       "duration_ms": 159428,
       "name": "In You",
       "url": "https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn"
+    },
+    {
+      "album": {
+        "name": "Jesu Doh (Revisitation)",
+        "url": "https://open.spotify.com/album/3EuYKNMSaFJjncOA1yZktn"
+      },
+      "artists": [
+        {
+          "name": "Onome Ovwori",
+          "url": "https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323376,
+      "name": "Jesu Doh (Revisitation)",
+      "url": "https://open.spotify.com/track/2ff0oDG7KHh5G6Sn4Tn6KH"
     },
     {
       "album": {
@@ -1712,6 +1752,24 @@
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
+    },
+    {
+      "album": {
+        "name": "Ndi M'ozi",
+        "url": "https://open.spotify.com/album/6Gc6oSXPr1LcJ6u6Z2KB3Z"
+      },
+      "artists": [
+        {
+          "name": "Rhema Onuoha",
+          "url": "https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 673300,
+      "name": "Ndi M'ozi",
+      "url": "https://open.spotify.com/track/2IvKkQgWqgfrL77DMgX4Pd"
     },
     {
       "album": {

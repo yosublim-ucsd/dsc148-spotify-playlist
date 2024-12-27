@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,460 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,475 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 18 | [Jeden smutek](https://open.spotify.com/track/0embiNjtOdlKEkZHiKoC8f) | [Asia Nawojska](https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3), [Paplajki](https://open.spotify.com/artist/5Pu1wcbGGN9l55I6LbwePQ) | [Jeden smutek](https://open.spotify.com/album/2cEkuEzeBK1gtHVKTtZsMr) | 2:43 |
 | 19 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
 | 20 | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3) | 3:55 |
-| 21 | [diament](https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament](https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W) | 3:23 |
-| 22 | [Latawce](https://open.spotify.com/track/4LlmrFWkS7N8b53CZdxs6J) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Latawce](https://open.spotify.com/album/7c8U6QYolAJGd58eCMd0k3) | 3:10 |
+| 21 | [Latawce](https://open.spotify.com/track/4LlmrFWkS7N8b53CZdxs6J) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Latawce](https://open.spotify.com/album/7c8U6QYolAJGd58eCMd0k3) | 3:10 |
+| 22 | [diament](https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament](https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W) | 3:23 |
 | 23 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 24 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 25 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 |
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 34 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
 | 35 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
 | 36 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
-| 37 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 |
-| 38 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:26 |
+| 37 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:26 |
+| 38 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 |
 | 39 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 |
 | 40 | [Sto żyć](https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 4:04 |
 | 41 | [Po co mi to?](https://open.spotify.com/track/0PRBe98QBon2UjYpQOqsmr) | [BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n) | [Po co mi to?](https://open.spotify.com/album/5PZsPQIMIx8RN2WTL1uE7m) | 3:01 |
 | 42 | [Tak musiało być](https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny ciąg dalszy](https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1) | 3:33 |
-| 43 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10) | 4:51 |
-| 44 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
+| 43 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
+| 44 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10) | 4:51 |
 | 45 | [Poznajmy się](https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL) | [Kacper Andrzejewski](https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N) | [Poznajmy się](https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt) | 2:38 |
 | 46 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 |
 | 47 | [Próba](https://open.spotify.com/track/5spcXc9GLGoxb2VHhyF2zT) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ), [Archie](https://open.spotify.com/artist/7MfeMkE24VwoEnNKR2RA8u) | [Dobrostan](https://open.spotify.com/album/7ceGAAkYLx3kIppeHjuibV) | 3:05 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 54 | [Czułość](https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Czułość](https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV) | 5:37 |
 | 55 | [Nie chcę być w Twoim życiu przejazdem](https://open.spotify.com/track/4AHXoE1MS8jTZMeW57000F) | [Patrick the Pan](https://open.spotify.com/artist/7vYfq6OMlGDw1IpTxar2h2) | [To nie najlepszy czas dla wrażliwych ludzi](https://open.spotify.com/album/4DX4IM3HoMQUFKDre6OiEV) | 3:18 |
 | 56 | [Na Siłę](https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [W Domu EP](https://open.spotify.com/album/3A9JbJcyw7ZLklN2BHkRCJ) | 3:54 |
-| 57 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 |
-| 58 | [Najbardziej lubię ten moment](https://open.spotify.com/track/52wrgDTHHipuBOx6LGXbBC) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Najbardziej lubię ten moment](https://open.spotify.com/album/4XTJXh61QUZlQZvi2c2nTz) | 3:10 |
+| 57 | [Najbardziej lubię ten moment](https://open.spotify.com/track/52wrgDTHHipuBOx6LGXbBC) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Najbardziej lubię ten moment](https://open.spotify.com/album/4XTJXh61QUZlQZvi2c2nTz) | 3:10 |
+| 58 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 |
 | 59 | [powiedz](https://open.spotify.com/track/6i1eHxmWVmgg0hU2m90wIn) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:16 |
 | 60 | [Zaspy](https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Zaspy](https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl) | 3:10 |
 

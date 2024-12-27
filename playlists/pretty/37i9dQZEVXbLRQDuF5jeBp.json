@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - USA.",
-  "num_followers": 3375446,
+  "num_followers": 3375372,
   "original_name": "Top 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lv9yyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LwDESAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
@@ -89,23 +89,7 @@
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
@@ -121,23 +105,7 @@
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
@@ -153,23 +121,23 @@
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
-        "name": "Sleigh Ride",
-        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 181266,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
@@ -193,7 +161,23 @@
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
@@ -209,7 +193,39 @@
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 121526,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Christmas (Baby, Please Come Home)",
         "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
@@ -225,7 +241,23 @@
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
@@ -249,55 +281,7 @@
       "url": "https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Rock 'N' Roll Rarities",
-        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 121526,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Elvis' Christmas Album",
         "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
@@ -313,7 +297,23 @@
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "The Beach Boys' Christmas Album",
         "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
@@ -329,87 +329,7 @@
       "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Under The Mistletoe",
-        "url": "https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Winter Wonderland - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "McCartney II (Special Edition)",
-        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
-      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
-        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
-      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Home Alone (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
@@ -425,23 +345,7 @@
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "A Nonsense Christmas",
-        "url": "https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 153099,
-      "name": "A Nonsense Christmas",
-      "url": "https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
@@ -461,7 +365,91 @@
       "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 163093,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
+      },
+      "artists": [
+        {
+          "name": "J. Fred Coots",
+          "url": "https://open.spotify.com/artist/5IBkss8RwasiJY2sj5qEdM"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Under The Mistletoe",
+        "url": "https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
@@ -477,55 +465,7 @@
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
-      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Please Come Home for Christmas / Funky New Year (2013 Remaster)",
-        "url": "https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Please Come Home for Christmas - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 166386,
-      "name": "Christmas Time Is Here - Vocal",
-      "url": "https://open.spotify.com/track/06Pfxmp9TtC2H00apclouT"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Heavenly Eartha",
         "url": "https://open.spotify.com/album/6gOVmmV26wBBgxUtbF8YZd"
@@ -545,7 +485,39 @@
       "url": "https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Please Come Home for Christmas / Funky New Year (2013 Remaster)",
+        "url": "https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Please Come Home for Christmas - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 68760,
+      "name": "Deck The Hall",
+      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7"
@@ -565,43 +537,55 @@
       "url": "https://open.spotify.com/track/0SUKNXEqZnRw7g0NO139FM"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 68760,
-      "name": "Deck The Hall",
-      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+      "duration_ms": 206600,
+      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
+      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "A Nonsense Christmas",
+        "url": "https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 153099,
+      "name": "A Nonsense Christmas",
+      "url": "https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Run Rudolph Run - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
@@ -617,43 +601,39 @@
       "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
+        "name": "A Holly Jolly Christmas",
+        "url": "https://open.spotify.com/album/0fAVpoXu7aJFu1wBIL9qhL"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Burl Ives",
+          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
         }
       ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+      "duration_ms": 130226,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/0f5slGJQq4iafoxngc95h1"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
-        "name": "These are Special Times",
-        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+        "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
+        "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
         }
       ],
-      "duration_ms": 320760,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
+      "duration_ms": 150266,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
+      "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
@@ -673,107 +653,7 @@
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
-        "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
-      },
-      "artists": [
-        {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
-      "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "A Holly Jolly Christmas",
-        "url": "https://open.spotify.com/album/0fAVpoXu7aJFu1wBIL9qhL"
-      },
-      "artists": [
-        {
-          "name": "Burl Ives",
-          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
-        }
-      ],
-      "duration_ms": 130226,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/0f5slGJQq4iafoxngc95h1"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
-        }
-      ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Holiday Road - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 125196,
-      "name": "Holiday Road - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
-      "album": {
-        "name": "Do They Know It\u2019s Christmas?",
-        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
-      },
-      "artists": [
-        {
-          "name": "Band Aid",
-          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Do They Know It's Christmas? - 1984 Version",
-      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
-    },
-    {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "We Wish You A Merry Christmas",
         "url": "https://open.spotify.com/album/4seyLe1WMj53X4MJuFn5Yr"
@@ -789,7 +669,87 @@
       "url": "https://open.spotify.com/track/5nhwuGvAsR1a3ITEv8SfG6"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Donny Hathaway",
+        "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Do You Hear What I Hear? - Remastered 2006",
+      "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 320760,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "Holiday Road - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 125196,
+      "name": "Holiday Road - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "You Make It Feel Like Christmas",
         "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
@@ -809,23 +769,55 @@
       "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
-        "name": "Donny Hathaway",
-        "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i"
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 231173,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD"
+      "duration_ms": 144253,
+      "name": "Winter Wonderland - Remastered 2006",
+      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 84986,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
+      "album": {
+        "name": "A Pentatonix Christmas Deluxe",
+        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
+    },
+    {
+      "added_at": "2024-12-26 13:08:35",
       "album": {
         "name": "When Christmas Comes Around...",
         "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
@@ -845,20 +837,20 @@
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
     },
     {
-      "added_at": "2024-12-25 12:32:46",
+      "added_at": "2024-12-26 13:08:35",
       "album": {
-        "name": "A Pentatonix Christmas Deluxe",
-        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/3yAHCdy8s77OpoBvVY9EJp"
       },
       "artists": [
         {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 268960,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
+      "duration_ms": 182040,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4jHl6jgzZOnS4nGamPZ1Uk"
     }
   ],
   "unique_name": "Top 50 - USA",

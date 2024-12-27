@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,443 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,445 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 14 | [I Feel A Sin Coming On](https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:52 |
 | 15 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
 | 16 | [Ain't Got Time For Hate](https://open.spotify.com/track/6JQEfDsrQap0VFFjP9cKYr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:18 |
-| 17 | [Clotilda's On Fire](https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:26 |
-| 18 | [Blame It On Eve](https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:32 |
+| 17 | [Blame It On Eve](https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:32 |
+| 18 | [Clotilda's On Fire](https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:26 |
 | 19 | [I'm A Woman](https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I'm A Woman](https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm) | 4:58 |
 | 20 | [Should Have Come Home](https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:30 |
 | 21 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 49 | [Hand In Hand](https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2) | [Ian Siegal](https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Stone by Stone](https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl) | 4:28 |
 | 50 | [Is There Anybody Up There?](https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 3:44 |
 
-Snapshot ID: `Z2n5gAAAAAA9bfYNrgag3u/gSTmOVOzu`
+Snapshot ID: `Z2tLAAAAAAA6x/bgmpsQgYo4FRNdVNqb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > 🔊canzoni rap da pomparti fino all'alba! 🔊Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,261 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,265 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 33 | [Cookies N' Cream \(feat\. ANNA & Sfera Ebbasta\)](https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:21 |
 | 34 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
 | 35 | [COPACABANA](https://open.spotify.com/track/3P3wdlzvU9pZSu5Ppkv53L) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [COPACABANA](https://open.spotify.com/album/1r5LuajK4YigSJ2HXDcDIQ) | 2:18 |
-| 36 | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey) | 2:24 |
-| 37 | [FULL FULL](https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [FULL FULL](https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9) | 1:51 |
+| 36 | [FULL FULL](https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [FULL FULL](https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9) | 1:51 |
+| 37 | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey) | 2:24 |
 | 38 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 |
 | 39 | [Caramba](https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Caramba](https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1) | 3:03 |
 | 40 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 |

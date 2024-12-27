@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,772,223 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,772,614 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 72 | [Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 2:28 |
 | 73 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
 | 74 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 |
-| 75 | [Punk Rock Princess](https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 3:52 |
-| 76 | [The Mixed Tape \- 2015 Remastered](https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit](https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM) | 3:14 |
+| 75 | [The Mixed Tape \- 2015 Remastered](https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit](https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM) | 3:14 |
+| 76 | [Punk Rock Princess](https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 3:52 |
 | 77 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 |
 | 78 | [All over You](https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [No Really, I'm Fine \(Standard Version\)](https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj) | 3:22 |
 | 79 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 |

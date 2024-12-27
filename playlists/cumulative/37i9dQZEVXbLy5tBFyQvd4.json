@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 180693,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
@@ -4701,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Navidad Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5HGjBjJLpglH0XbRRv7GF7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "El Baile De Santa Clos",
+      "url": "https://open.spotify.com/track/0K2YDgFEMjWXuHUL3B2V6Q"
+    },
+    {
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -4814,7 +4832,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -4950,6 +4968,24 @@
       "duration_ms": 216106,
       "name": "El List\u00f3n De Tu Pelo",
       "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+    },
+    {
+      "album": {
+        "name": "Pachang\u00f3n Sonidero",
+        "url": "https://open.spotify.com/album/4IuvHsh5JjYRrkIlsUkhlK"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217080,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/34OqC7ejSH2Xz7cmCfVRzU"
     },
     {
       "album": {
@@ -5854,7 +5890,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -7984,7 +8020,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -9228,7 +9264,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -9428,6 +9464,24 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
       "album": {
@@ -9858,7 +9912,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 160409,
       "name": "LOS CUADROS",
       "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
@@ -11352,10 +11406,46 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 254933,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
+    },
+    {
+      "album": {
+        "name": "35 Aniversario",
+        "url": "https://open.spotify.com/album/4WPfZE0Nv2FI3MtP6exBRB"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259825,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/7EuZwFgnxU17qwyaEPRKJN"
+    },
+    {
+      "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154653,
+      "name": "Navidad, Navidad",
+      "url": "https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK"
     },
     {
       "album": {
@@ -11494,6 +11584,24 @@
       "duration_ms": 158440,
       "name": "Ni Parientes Somos",
       "url": "https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/4fFbDrfnPDYqxbz4i3yOL4"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "Ni Parientes Somos",
+      "url": "https://open.spotify.com/track/6lxvRtLVsWpGV4ldYu94Vp"
     },
     {
       "album": {
@@ -11662,7 +11770,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 136000,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
@@ -13078,7 +13186,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 240669,
       "name": "PI\u00c9NSALO",
       "url": "https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr"
@@ -14896,7 +15004,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 178079,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
@@ -17177,6 +17285,24 @@
     },
     {
       "album": {
+        "name": "Navidad Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6oBOCsleDlRaFBhtMeO2Jj"
+      },
+      "artists": [
+        {
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Triste Navidad",
+      "url": "https://open.spotify.com/track/7iUnPTATDO6dXaKxzJASVM"
+    },
+    {
+      "album": {
         "name": "Tu Boda",
         "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
       },
@@ -17945,6 +18071,24 @@
     },
     {
       "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -17981,6 +18125,56 @@
     },
     {
       "album": {
+        "name": "Eterna Navidad",
+        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        },
+        {
+          "name": "Arianna",
+          "url": "https://open.spotify.com/artist/6k8y1np6q05Us6dNn3vmF8"
+        },
+        {
+          "name": "Denise De Kalafe",
+          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
+        },
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        },
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        },
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        },
+        {
+          "name": "Hernaldo Zuniga",
+          "url": "https://open.spotify.com/artist/42vpZLi12oBjp8MuFFkirS"
+        },
+        {
+          "name": "Oscar Athie",
+          "url": "https://open.spotify.com/artist/5wk7LFJizWvjj1m7ybEA3J"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239800,
+      "name": "Ven A Cantar",
+      "url": "https://open.spotify.com/track/0vLLRQTHEvIidczOP4JROU"
+    },
+    {
+      "album": {
         "name": "Internacionales Y Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
       },
@@ -17992,7 +18186,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 175013,
       "name": "Ven Porque Te Necesito",
       "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"

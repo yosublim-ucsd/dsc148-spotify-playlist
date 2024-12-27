@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: No Te Va Gustar
 
-351 songs - 1 day 2 hr 29 min
+352 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Ni Mierda \- Vivo En Obras](https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Mierda \(Vivo En Obras\)](https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs) | 5:11 | 2023-03-03 | 2024-10-11 |
 | [Niebla Rosada \- En Vivo](https://open.spotify.com/track/1k5JoCQKj03GKvWDSRVJg7) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Niebla Rosada \(En Vivo\)](https://open.spotify.com/album/1QG8uJkxtxPTyKCCoi11I8) | 3:11 | 2022-04-01 | 2022-05-29 |
 | [Nike es la Cultura \- En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza](https://open.spotify.com/track/3Q4hJ8NSxwg4NrnjDY2yTg) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Nike es la Cultura \(En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza\)](https://open.spotify.com/album/4vbEXau7Yb3FLROSipkzQv) | 5:46 | 2024-07-26 |  |
+| [No Era Cierto \- En Vivo En Argentina](https://open.spotify.com/track/6WkbvEq0p1lwLk9HiWET7x) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [No Era Cierto \- En Vivo En Argentina](https://open.spotify.com/album/6pwut5VJt6jFHkPNhDyVaP) | 4:18 | 2024-12-20 |  |
 | [No estoy borracho \- En directo, Las Ventas 7 septiembre 1993](https://open.spotify.com/track/5yhzhE3r6tLA02UhMfdLAP) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [En Las Ventas 7 septiembre 1993 \(En directo\)](https://open.spotify.com/album/30GKlcBPFyyhVjAxH6TC5Q) | 5:38 | 2022-06-24 | 2022-07-29 |
 | [No Me Arrepiento de Este Amor \(En Vivo\)](https://open.spotify.com/track/3KAzDoRRG9BFI5DJ5JA6T1) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Trapos](https://open.spotify.com/album/1K64jidLVfUXr4aCBbcXEI) | 4:58 | 2022-04-01 | 2023-10-07 |
 | [No Necesito Nada \- En Vivo](https://open.spotify.com/track/61hlpyF4onGzyPsx3kp0Z5) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [MVD/05/03/05 \(En Vivo\)](https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U) | 3:27 | 2022-04-01 | 2022-07-29 |
@@ -308,7 +309,7 @@
 | [Sueles Dejarme Solo \- Me Verás Volver Gira 2007](https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC) | 4:21 | 2022-04-01 |  |
 | [Sé Vos \- En Vivo](https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 4:09 | 2022-04-01 |  |
 | [Tan Blanca, Tan Azul\(En Vivo Estadio Malvinas Argentinas\) \- En vivo](https://open.spotify.com/track/4X8qu2irPHD4ImLI5OfNfp) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Tan Blanca, Tan Azul\(En Vivo Estadio Malvinas Argentinas\)](https://open.spotify.com/album/3ZCR3Mk2yhjm3QpmtNciAv) | 4:31 | 2022-06-10 | 2022-06-16 |
-| [Tan Lejos](https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 4:44 | 2022-04-01 |  |
+| [Tan Lejos](https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 4:44 | 2022-04-01 | 2024-12-27 |
 | [Tanto Amor \- En Vivo](https://open.spotify.com/track/5UmNIP5ft2rgFpwBfhqLhj) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Recuerdos al Futuro \(En Vivo\)](https://open.spotify.com/album/1JuDBBHkcyPyyq2zZModr8) | 2:40 | 2022-04-01 | 2022-07-29 |
 | [Taxi Boy \- En Vivo](https://open.spotify.com/track/47zE7UOlQkqKpFasogh8QZ) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 5:28 | 2022-06-10 | 2022-07-25 |
 | [Te Diría \- En Vivo](https://open.spotify.com/track/791qSfAXdS5tBhiCedt6ty) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 7:19 | 2022-04-01 | 2023-10-07 |

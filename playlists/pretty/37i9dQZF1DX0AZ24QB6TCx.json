@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 312377,
+  "num_followers": 312386,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Let You In (feat. East Forest)",
         "url": "https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 356373,
       "name": "Let You In (feat. East Forest)",
       "url": "https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Remote",
+        "url": "https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7"
+      },
+      "artists": [
+        {
+          "name": "MagnusTheMagnus",
+          "url": "https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs"
+        }
+      ],
+      "duration_ms": 198069,
+      "name": "Remote",
+      "url": "https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "What If I",
         "url": "https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 224262,
       "name": "Home",
       "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Remote",
-        "url": "https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7"
-      },
-      "artists": [
-        {
-          "name": "MagnusTheMagnus",
-          "url": "https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs"
-        }
-      ],
-      "duration_ms": 198069,
-      "name": "Remote",
-      "url": "https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w"
     },
     {
       "added_at": "2024-08-09 18:28:29",

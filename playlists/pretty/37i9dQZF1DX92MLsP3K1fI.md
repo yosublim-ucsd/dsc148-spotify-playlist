@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Daniela Spalla & Camilo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,404 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,442 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 37 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 |
 | 38 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/7sa6E5h8yXMbK50kBDB91x) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 |
 | 39 | [ANTES](https://open.spotify.com/track/18z0oXWIOBLT3qruaegt5o) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:14 |
-| 40 | [QUEBRANTO](https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [QUEBRANTO](https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG) | 3:00 |
-| 41 | [miamor](https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [miamor](https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz) | 2:39 |
+| 40 | [miamor](https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [miamor](https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz) | 2:39 |
+| 41 | [QUEBRANTO](https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [QUEBRANTO](https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG) | 3:00 |
 | 42 | [Como Amigos](https://open.spotify.com/track/3G6AGojyBobTlHNibQ4W48) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Como Amigos](https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ) | 2:11 |
 | 43 | [TQ](https://open.spotify.com/track/0ZNVJPAXyL6ubMiPS0NGPr) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [EVOLUTION](https://open.spotify.com/album/0uqXfeEoEnK6tFevx5pRRe) | 3:06 |
 | 44 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 |
 | 45 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 46 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
-| 47 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 |
-| 48 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
+| 47 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
+| 48 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 |
 | 49 | [Dame Tu Amor](https://open.spotify.com/track/2aMzvik8mqYmjD0CB6mAix) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Dame Tu Amor](https://open.spotify.com/album/4XNMKxJJbBvcgg3ml5S5Ou) | 2:36 |
 | 50 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |
 

@@ -4178,7 +4178,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 239464,
       "name": "Cumbia Cianaguera",
       "url": "https://open.spotify.com/track/1Vfmi3mCenArbL67iRjuyv"
@@ -4932,7 +4932,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -5264,7 +5264,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 153928,
       "name": "DOS D\u00cdAS",
       "url": "https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL"
@@ -5848,7 +5848,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -5978,7 +5978,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 216106,
       "name": "El List\u00f3n De Tu Pelo",
       "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
@@ -6018,6 +6018,24 @@
       "duration_ms": 177453,
       "name": "El Machito",
       "url": "https://open.spotify.com/track/7eVcNLTGHkdBqYppzHSEqA"
+    },
+    {
+      "album": {
+        "name": "El Machito",
+        "url": "https://open.spotify.com/album/6Woj7yb5O6ALtc4PYmTdej"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178392,
+      "name": "El Machito",
+      "url": "https://open.spotify.com/track/4Ikzt8SOSuzXe1BgV5V8hs"
     },
     {
       "album": {
@@ -6101,6 +6119,28 @@
     },
     {
       "album": {
+        "name": "La Billo's y Los Melodicos de coleccion, vol.1",
+        "url": "https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        },
+        {
+          "name": "La Billo's y Los Melodicos",
+          "url": "https://open.spotify.com/artist/62okGmZQ0Yr2lQhBUL6h86"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "El Merecumbe",
+      "url": "https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y"
+    },
+    {
+      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -6156,7 +6196,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 217652,
       "name": "El Peluquero",
       "url": "https://open.spotify.com/track/0gZ3LxqGlnolJQnvtjEPE0"
@@ -7164,7 +7204,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 155960,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
@@ -7186,6 +7226,24 @@
       "duration_ms": 156400,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
       "album": {
@@ -9209,6 +9267,24 @@
     },
     {
       "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
         "name": "Jordan",
         "url": "https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M"
       },
@@ -9516,6 +9592,24 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "album": {
+        "name": "Las Obligadas de Fin de A\u00f1o",
+        "url": "https://open.spotify.com/album/4mzBJoBARzwmc6m5Nf82V0"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Flores",
+          "url": "https://open.spotify.com/artist/3S43VHav7suUXwnPFvoR9O"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516568,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/3xMfuQHLUOHK1FJblkJwgt"
     },
     {
       "album": {
@@ -10016,7 +10110,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 180893,
       "name": "La Mariscada",
       "url": "https://open.spotify.com/track/1WdAQ3wWY9YYCKcuAMloC0"
@@ -10038,6 +10132,24 @@
       "duration_ms": 186519,
       "name": "La Mariscada",
       "url": "https://open.spotify.com/track/03ibjS9THnSH58twjvOkoo"
+    },
+    {
+      "album": {
+        "name": "Pachanga 2000, Vol. 1",
+        "url": "https://open.spotify.com/album/7nqlc5ux4yAAJ95WnASg8Q"
+      },
+      "artists": [
+        {
+          "name": "Hnos. Flores",
+          "url": "https://open.spotify.com/artist/0sUaqAynNLskeVLJYTt8JJ"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "La Medallita",
+      "url": "https://open.spotify.com/track/68ifeP8MU0mthShua9Bp5O"
     },
     {
       "album": {
@@ -10242,7 +10354,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 130614,
       "name": "LA PATRULLA",
       "url": "https://open.spotify.com/track/2aYZaN5SmkRDLsrrV8GkBQ"
@@ -11067,6 +11179,24 @@
     },
     {
       "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
+    },
+    {
+      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -11286,7 +11416,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
@@ -11388,6 +11518,28 @@
       "duration_ms": 166020,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/50y0OQgar3BnwTt1pXdYsM"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Armando Hern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
+      },
+      "artists": [
+        {
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        },
+        {
+          "name": "El Combo Caribe",
+          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287459,
+      "name": "Loquito por Ti",
+      "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
     },
     {
       "album": {
@@ -11654,7 +11806,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 187087,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
@@ -12579,6 +12731,24 @@
     },
     {
       "album": {
+        "name": "Las Obligadas de Fin de A\u00f1o",
+        "url": "https://open.spotify.com/album/4mzBJoBARzwmc6m5Nf82V0"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Flores",
+          "url": "https://open.spotify.com/artist/3S43VHav7suUXwnPFvoR9O"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163716,
+      "name": "Mi Pais",
+      "url": "https://open.spotify.com/track/4HG5s0drr2XzZtwWsbMsnC"
+    },
+    {
+      "album": {
         "name": "Bailables de el Salvador",
         "url": "https://open.spotify.com/album/4ldPdkdFihZbnjYSWnJSC6"
       },
@@ -13372,7 +13542,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 197031,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg"
@@ -13868,7 +14038,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
@@ -14354,7 +14524,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 189954,
       "name": "Oye",
       "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
@@ -14372,7 +14542,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 188717,
       "name": "Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]",
       "url": "https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94"
@@ -16298,7 +16468,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 150927,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/0zNMdrDEs5N0JPQ7RYQZln"
@@ -16644,7 +16814,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 185933,
       "name": "Regalo De Dios",
       "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
@@ -16960,6 +17130,24 @@
       "duration_ms": 106666,
       "name": "RKO",
       "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
       "album": {
@@ -17630,7 +17818,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
@@ -18116,7 +18304,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 147011,
       "name": "Si No Quieres No",
       "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
@@ -19575,6 +19763,24 @@
     },
     {
       "album": {
+        "name": "Y Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/4RfCyQPkzzYAJOqDX34efR"
+      },
+      "artists": [
+        {
+          "name": "Jhosse Lora",
+          "url": "https://open.spotify.com/artist/5vvRhOFCqRb0u17DEjtx60"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180323,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1fWXQiJMRI27vbCADZAOiL"
+    },
+    {
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -20404,7 +20610,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD"
@@ -21138,7 +21344,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

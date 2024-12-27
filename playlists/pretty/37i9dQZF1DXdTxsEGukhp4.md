@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: コレサワ
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,431 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,482 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 15 | [一目惚れ](https://open.spotify.com/track/08xsN4IJlXiJOc3C7jWNaZ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [一目惚れ](https://open.spotify.com/album/6HTYjgKJEQdvrOIB8WGeGN) | 3:21 |
 | 16 | [Giri Giri](https://open.spotify.com/track/2D5TDcdWIZLMKZ5xPYXRwq) | [KOMOREBI](https://open.spotify.com/artist/1T7UDf2UKWE7gsvwvsuxRD) | [Giri Giri](https://open.spotify.com/album/5u7gdArPPixjWZlD34MntD) | 2:14 |
 | 17 | [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 |
-| 18 | [H.S.K.T\. \(feat\. Wonstein\)](https://open.spotify.com/track/39382sUtIOwIXftX0i76do) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:24 |
+| 18 | [メロイズム](https://open.spotify.com/track/2IHo698jDcqkmpd0d4qHIw) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [メロイズム](https://open.spotify.com/album/49AaMk5LjDEm3wNda9o31u) | 3:13 |
 | 19 | [もういいよ](https://open.spotify.com/track/3uTffiZnTs9Zwfg0uIQ4Zw) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [もういいよ](https://open.spotify.com/album/2O6Ndu8lo4d1Ov7wz7bNGO) | 2:57 |
 | 20 | [Moshi Moshi \(feat\. 百足\)](https://open.spotify.com/track/0FJVGU0hNhCtohkjKB6uKQ) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7) | [Moshi Moshi \(feat\. 百足\)](https://open.spotify.com/album/3yJzboBD9EvdIEnVH9DuMr) | 2:56 |
 | 21 | [名前は片想い](https://open.spotify.com/track/1qwE94iwDll2rydJWHTm3I) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [哀愁演劇](https://open.spotify.com/album/1wB0GF3mOb21xgSTuHBZ80) | 3:36 |
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 32 | [すごい速さ](https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5) | [andymori](https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA) | [andymori](https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z) | 1:26 |
 | 33 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
 | 34 | [パイパイ仮面でどうかしらん？](https://open.spotify.com/track/7iCS0o1iK0gs9PDRqIfVls) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [パイパイ仮面でどうかしらん？](https://open.spotify.com/album/3bo99qytJ9NlbYNxRfVacG) | 4:51 |
-| 35 | [魔性の女A](https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [魔性の女A](https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn) | 3:40 |
-| 36 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 |
-| 37 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
-| 38 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
-| 39 | [おともだち](https://open.spotify.com/track/1nfNIGVbtFTodN5iynMIQj) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [おともだち](https://open.spotify.com/album/38hnmtLRwYhBFtpgaNUAmk) | 3:05 |
-| 40 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
-| 41 | [ラブソング](https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラブソング](https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv) | 4:16 |
-| 42 | [悪い人](https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux) | [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [悪い人](https://open.spotify.com/album/06bDwjXKGt0aath0TxZ8GY) | 3:15 |
+| 35 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 |
+| 36 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
+| 37 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
+| 38 | [おともだち](https://open.spotify.com/track/1nfNIGVbtFTodN5iynMIQj) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [おともだち](https://open.spotify.com/album/38hnmtLRwYhBFtpgaNUAmk) | 3:05 |
+| 39 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
+| 40 | [ラブソング](https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラブソング](https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv) | 4:16 |
+| 41 | [悪い人](https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux) | [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [悪い人](https://open.spotify.com/album/06bDwjXKGt0aath0TxZ8GY) | 3:15 |
+| 42 | [H.S.K.T\. \(feat\. Wonstein\)](https://open.spotify.com/track/39382sUtIOwIXftX0i76do) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:24 |
 | 43 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
 | 44 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 |
 | 45 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 50 | [スーパースター](https://open.spotify.com/track/5qSKmuXffMAJvQOWaLvDy5) | [KEN MIYAKE](https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb) | [スーパースター](https://open.spotify.com/album/3ANCyY8SVt2k97b7A9ZVeU) | 2:32 |
 
-Snapshot ID: `Z2Q1CQAAAAB7JxA6lT+QyL06tTSvb8f9`
+Snapshot ID: `Z21vigAAAACP/3sIDvTcB6nkik79NmFZ`

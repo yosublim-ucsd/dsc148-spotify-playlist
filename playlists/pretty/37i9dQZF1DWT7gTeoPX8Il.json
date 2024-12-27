@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 134522,
+  "num_followers": 134604,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-12-12 17:00:23",
       "album": {
-        "name": "Terlintas",
-        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 235643,
-      "name": "Terlintas",
-      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
-    },
-    {
-      "added_at": "2024-12-12 17:00:23",
-      "album": {
         "name": "Naluri Lelaki (Special Edition)",
         "url": "https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 247000,
       "name": "Kenangan Terindah",
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
+    },
+    {
+      "added_at": "2024-12-12 17:00:23",
+      "album": {
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 235643,
+      "name": "Terlintas",
+      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
     },
     {
       "added_at": "2024-12-12 17:00:23",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-12-12 17:00:23",
       "album": {
-        "name": "Kepala Batu EP",
-        "url": "https://open.spotify.com/album/6U1Imk9cN9VSNQrnHMgGkY"
+        "name": "Sesuatu Yang Tertunda",
+        "url": "https://open.spotify.com/album/6mkU1z9nlxjLcmFHz7TsX1"
       },
       "artists": [
         {
-          "name": "Insomniacks",
-          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+          "name": "Padi",
+          "url": "https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg"
         }
       ],
-      "duration_ms": 265406,
-      "name": "Reminisensi",
-      "url": "https://open.spotify.com/track/0TRKtVvsVmOkXCvnq5AgNE"
+      "duration_ms": 293320,
+      "name": "Kasih Tak Sampai",
+      "url": "https://open.spotify.com/track/1oAWbr6TXkRajJKgSm1vF5"
     }
   ],
   "unique_name": "galau rabak",

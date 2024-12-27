@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,605 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,783 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 37 | [Ride](https://open.spotify.com/track/0oxoJu918tKRk4lVweP4WS) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Dandys Rule OK](https://open.spotify.com/album/5IYhB6cNGiCogm6tcMRhBW) | 4:09 |
 | 38 | [Evergreen](https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Methodrone](https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka) | 3:24 |
 | 39 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |
-| 40 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 |
-| 41 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 |
+| 40 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 |
+| 41 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 |
 | 42 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
 | 43 | [Porcelain](https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 5:07 |
 | 44 | [On My Own \- 2019 remaster](https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Strangely Isolated Place](https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9) | 6:39 |
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 57 | [Dark Star](https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0) | [the sleepover disaster](https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk) | [Hover](https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20) | 4:57 |
 | 58 | [Run Into Flowers](https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP) | 4:09 |
 | 59 | [Guilt](https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:13 |
-| 60 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 |
-| 61 | [She's Unreal](https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 5:18 |
-| 62 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
-| 63 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
-| 64 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
-| 65 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
+| 60 | [She's Unreal](https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 5:18 |
+| 61 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 |
+| 62 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
+| 63 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
+| 64 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
+| 65 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
 | 66 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
 | 67 | [It's Tomorrow Now](https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:43 |
 | 68 | [Surrender](https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH) | [Leave the Planet](https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk) | [Nowhere](https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo) | 3:39 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-205 songs - 10 hr 28 min
+206 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [Water Under the Bridge](https://open.spotify.com/track/1aZTEwlHUCkuJswWgsbIqU) | [Vernon Duke](https://open.spotify.com/artist/66wHlBv24mr1yH7F4aF6yk), [Dawn Upshaw](https://open.spotify.com/artist/1EgV7b93j6hvI1Suiegi74) | [Dawn Upshaw Sings Vernon Duke](https://open.spotify.com/album/3iGXOiy5OSuJAahFNDABoH) | 3:04 | 2024-07-24 |  |
 | [We're in the Same Boat, Brother](https://open.spotify.com/track/0pijKqIXcp92qpGMezrRx6) | [Purabi Mukherjee](https://open.spotify.com/artist/1ZK07plVLCXL2ZhLaQ8Isd) | [Ek Noukar Jatri](https://open.spotify.com/album/08Gn41sNVTKA7oDUXTSJ8n) | 3:54 | 2024-07-24 |  |
 | [Welcome Hinges](https://open.spotify.com/track/5sTSjad3ZN3gOSJJU78sLz) | [Mabel Taliaferro](https://open.spotify.com/artist/6gRyDyEeAhnP9ULECHOsjG), [David Brooks](https://open.spotify.com/artist/2RFwsEgg8cc5h5LygnB4Zs) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 2:44 | 2024-07-24 |  |
-| [What Can You Say in a Love Song](https://open.spotify.com/track/1SMtVcwHYWEvCWsHaFwb2Q) | [Richard Himber and his Orchestra](https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN), [Joey Nash](https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha) | [The Incredible Richard Himber & His Orchestra](https://open.spotify.com/album/7EVN1JHWkDsPzxPkmmsFQm) | 3:14 | 2024-07-24 |  |
+| [What Can You Say in a Love Song](https://open.spotify.com/track/1SMtVcwHYWEvCWsHaFwb2Q) | [Richard Himber and his Orchestra](https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN), [Joey Nash](https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha) | [The Incredible Richard Himber & His Orchestra](https://open.spotify.com/album/7EVN1JHWkDsPzxPkmmsFQm) | 3:14 | 2024-07-24 | 2024-12-27 |
+| [What Can You Say In A Love Song](https://open.spotify.com/track/5CsT1NY94gGCpqfC67P3OG) | [Richard Himber and his Orchestra](https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN), [Joey Nash](https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha) | [It's Psychological](https://open.spotify.com/album/2HkHr535cDoHhH65n1Kj3d) | 3:14 | 2024-12-26 |  |
 | [What Good Does It Do](https://open.spotify.com/track/4WNQLcFZlZsrDx4oYAg9bC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Tony Bennett Sings A String Of Harold Arlen](https://open.spotify.com/album/6MYMgEXvAzClsDSFRaKDNr) | 4:08 | 2024-07-24 |  |
 | [Whatever That May Be](https://open.spotify.com/track/02owUdlPG20wF59xIfDEO4) | [Janice Rule](https://open.spotify.com/artist/0Jj6ZBoSkG9LN6J52d3RaJ), [The Happiest Girl In The World Ensemble](https://open.spotify.com/artist/6p5k1yzxlF3tzhuI949z8j) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 2:07 | 2024-07-24 |  |
 | [When the Idle Poor Become the Idle Rich](https://open.spotify.com/track/4IqJDmH7yZhoCoDCKaL4AR) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Jim Norton](https://open.spotify.com/artist/3vIOYTxzWZMXnPJl0G7O0r), [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 5:34 | 2024-07-24 |  |

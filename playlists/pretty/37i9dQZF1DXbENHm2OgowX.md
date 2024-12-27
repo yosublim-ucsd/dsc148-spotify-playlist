@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,840 likes - 69 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,021 likes - 69 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 45 | [I filled my Lungs with the Necessary Air, and yelled! \- Ben Lukas Boysen Rework](https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Vale Reworked](https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz) | 7:17 |
 | 46 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
 | 47 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
-| 48 | [Locale](https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 2:36 |
-| 49 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
+| 48 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
+| 49 | [Locale](https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 2:36 |
 | 50 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 |
 | 51 | [Bardo Landscape](https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape](https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f) | 3:23 |
 | 52 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 62 | [Dark Spring](https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:28 |
 | 63 | [All That's Left Behind](https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:03 |
 | 64 | [Take My Hand](https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Take My Hand](https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I) | 2:39 |
-| 65 | [Chlorine Gargoyle](https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo) | [thin air](https://open.spotify.com/artist/65OVOH6e3BNhnFJX3qramL) | [Dreams of a Wake](https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi) | 4:43 |
-| 66 | [Animism](https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 4:51 |
-| 67 | [Snowa](https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2) | [Slo Mance](https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs) | [Snowa](https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61) | 4:20 |
-| 68 | [Safn](https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 1:10 |
-| 69 | [Tómið Titrar](https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 6:45 |
+| 65 | [Snowa](https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2) | [Slo Mance](https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs) | [Snowa](https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61) | 4:20 |
+| 66 | [Chlorine Gargoyle](https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo) | [thin air](https://open.spotify.com/artist/65OVOH6e3BNhnFJX3qramL) | [Dreams of a Wake](https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi) | 4:43 |
+| 67 | [Animism](https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 4:51 |
+| 68 | [Tómið Titrar](https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 6:45 |
+| 69 | [Safn](https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 1:10 |
 
 Snapshot ID: `Z1sk2AAAAAAFMNImNVqWWSjHSj7Qsckl`

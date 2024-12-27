@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,031 likes - 88 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,035 likes - 88 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 76 | [Tell Me](https://open.spotify.com/track/2J9Xgx7JglqXO21ACuWVsQ) | [Eloy](https://open.spotify.com/artist/6kJHsntY0ntExby5khqBTV) | [Tell Me](https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3) | 2:49 |
 | 77 | [Players Voicemail](https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Players Voicemail](https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs) | 2:52 |
 | 78 | [Say You Do](https://open.spotify.com/track/2sC5Cdda0VyNHJGhGKey0L) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [EightyThrilla](https://open.spotify.com/artist/11K0tW3obVss3xQmgAxXvF) | [Say You Do](https://open.spotify.com/album/0WDr2AfJ9DWLVXUQmZnui4) | 3:09 |
-| 79 | [Regrets](https://open.spotify.com/track/5lRyRnZUIwVfEgzOyeT7ZV) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [TWENTYFiVE SOUNDSYSTEM](https://open.spotify.com/artist/6TeDTJbTwET9KRACfHnjc7) | [Regrets](https://open.spotify.com/album/19FBgiQpcYHjboNHmQMy5P) | 2:57 |
-| 80 | [So Fresh So Clean](https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [Baby Boy 2](https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7) | 2:15 |
+| 79 | [So Fresh So Clean](https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [Baby Boy 2](https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7) | 2:15 |
+| 80 | [Regrets](https://open.spotify.com/track/5lRyRnZUIwVfEgzOyeT7ZV) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [TWENTYFiVE SOUNDSYSTEM](https://open.spotify.com/artist/6TeDTJbTwET9KRACfHnjc7) | [Regrets](https://open.spotify.com/album/19FBgiQpcYHjboNHmQMy5P) | 2:57 |
 | 81 | [Give It All to Me](https://open.spotify.com/track/4arsEo4x9lpuEb7K6dn62B) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Give It All to Me](https://open.spotify.com/album/1diluC1MnWkOX1JYvH9EG8) | 2:29 |
 | 82 | [Naked](https://open.spotify.com/track/5cyohpUtQViRIwZoodcl2O) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Between Spaces](https://open.spotify.com/album/5xKvJOrOl8uXL3IOmVhqZm) | 2:03 |
 | 83 | [Gone Girl](https://open.spotify.com/track/2l3UrQ9RRUDHH2H6vUV723) | [Maya Mae](https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Gone Girl](https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU) | 3:01 |

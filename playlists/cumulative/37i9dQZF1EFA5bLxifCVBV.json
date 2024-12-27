@@ -3740,10 +3740,32 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 194640,
       "name": "What Can You Say in a Love Song",
       "url": "https://open.spotify.com/track/1SMtVcwHYWEvCWsHaFwb2Q"
+    },
+    {
+      "album": {
+        "name": "It's Psychological",
+        "url": "https://open.spotify.com/album/2HkHr535cDoHhH65n1Kj3d"
+      },
+      "artists": [
+        {
+          "name": "Richard Himber and his Orchestra",
+          "url": "https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN"
+        },
+        {
+          "name": "Joey Nash",
+          "url": "https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "What Can You Say In A Love Song",
+      "url": "https://open.spotify.com/track/5CsT1NY94gGCpqfC67P3OG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,753 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,785 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,20 +25,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 15 | [Old Town](https://open.spotify.com/track/55eVuk5kc61lps9jn7W0JK) | [Phil Lynott](https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7) | [The Philip Lynott Album](https://open.spotify.com/album/2SEI3x5AV3YgBiXjATosdN) | 3:25 |
 | 16 | [Rat Trap](https://open.spotify.com/track/1id02aKCKGGxZnwjwrR5Ij) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [A Tonic For The Troops](https://open.spotify.com/album/2meIZ6h6faEEjkN9vw9HnV) | 5:10 |
 | 17 | [High Hopes](https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:50 |
-| 18 | [Chasing Cars](https://open.spotify.com/track/5GuZz08qie5efPtqsQFsdT) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/5PYva5C1cdwx2PAsOgZBHN) | 4:25 |
-| 19 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
+| 18 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
+| 19 | [Chasing Cars](https://open.spotify.com/track/5GuZz08qie5efPtqsQFsdT) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/5PYva5C1cdwx2PAsOgZBHN) | 4:25 |
 | 20 | [Jackie And Wilson](https://open.spotify.com/track/5xo1Gj4WTssjQgQ0w03cf2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:43 |
-| 21 | [Whiskey In The Jar](https://open.spotify.com/track/2uLx3Gka9TGCz9Zgu7Uwav) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Shades Of A Blue Orphanage \(Deluxe\)](https://open.spotify.com/album/6jXNB46aXlL2oWY03GtFHy) | 5:45 |
-| 22 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 |
+| 21 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 |
+| 22 | [Whiskey In The Jar](https://open.spotify.com/track/2uLx3Gka9TGCz9Zgu7Uwav) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Shades Of A Blue Orphanage \(Deluxe\)](https://open.spotify.com/album/6jXNB46aXlL2oWY03GtFHy) | 5:45 |
 | 23 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/24rv66H94QGVqIXHjA3kn6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 3:48 |
 | 24 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 |
 | 25 | [Comeback Girl](https://open.spotify.com/track/6BikNH6NZ8zYfexFiQGnxA) | [Republic Of Loose](https://open.spotify.com/artist/0t6MU9jroaufCbqZF6UpSU) | [Aaagh!](https://open.spotify.com/album/4ew7a5WNxErs5FDpF4H2eV) | 3:58 |
 | 26 | [N17](https://open.spotify.com/track/6AiLTwftiFAjGsnVDXBPnB) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [If This Is Rock and Roll, I Want My Old Job Back](https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR) | 4:36 |
 | 27 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
-| 28 | [Don't Believe A Word](https://open.spotify.com/track/19Db89BvpKxmuT4S31OkRX) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/4mxKyD8U3gtuLha0YdQbpD) | 2:17 |
+| 28 | [A Rainy Night in Soho](https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 4:43 |
 | 29 | [Galway Girl](https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8) | [Mundy](https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR) | [Live at Oxegen 2008](https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq) | 4:00 |
 | 30 | [Drink Before the War](https://open.spotify.com/track/2fgsTIpGlD5odlua0y7gIQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc) | 5:23 |
-| 31 | [A Rainy Night in Soho](https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 4:43 |
+| 31 | [Don't Believe A Word](https://open.spotify.com/track/19Db89BvpKxmuT4S31OkRX) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/4mxKyD8U3gtuLha0YdQbpD) | 2:17 |
 | 32 | [Crazy World](https://open.spotify.com/track/5akihxQPVtNGkZV2uAImMY) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Goodbye Charlie Moonhead](https://open.spotify.com/album/2fCCCqys40hYZqNktMAq3T) | 4:32 |
 | 33 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 |
 | 34 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |

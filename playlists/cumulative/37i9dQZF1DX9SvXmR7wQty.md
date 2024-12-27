@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: White\-B
 
-3,016 songs - 6 day 16 hr 22 min
+3,017 songs - 6 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1225,7 +1225,7 @@
 | [Je lève mon verre](https://open.spotify.com/track/6o16D1kBaq7QQUSw9QP0fv) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Je lève mon verre](https://open.spotify.com/album/7FBCvIOKM2KydwJzznpBI3) | 3:46 | 2022-04-22 | 2022-05-07 |
 | [Je M'appelle \(feat\. Mig\) \- Remix](https://open.spotify.com/track/1XLYtsmgjWs2VdB6ElW4Cz) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a) | [Je M'appelle \(Remix\)](https://open.spotify.com/album/4T0ll8J58Uk8jH7hk0dkeH) | 2:19 | 2022-07-01 | 2022-07-16 |
 | [Je m'en vais](https://open.spotify.com/track/0pCZfLPMK4nOUix1GHM6X6) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Exode](https://open.spotify.com/album/5zF9PuO6n4vhwvgqhmcA4w) | 2:09 | 2023-03-03 | 2023-03-18 |
-| [Je me demande \(feat\. Louane\)](https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Je me demande \(feat\. Louane\)](https://open.spotify.com/album/0NTdPo37VXl3Tj01PqE1UZ) | 3:15 | 2024-12-06 |  |
+| [Je me demande \(feat\. Louane\)](https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Je me demande \(feat\. Louane\)](https://open.spotify.com/album/0NTdPo37VXl3Tj01PqE1UZ) | 3:15 | 2024-12-06 | 2024-12-27 |
 | [Je me posais cette question](https://open.spotify.com/track/6vkAfdMweeC0KM2Kd4X1zX) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Je me posais cette question](https://open.spotify.com/album/1QfLjjst5n56CmDUuf1YsK) | 3:06 | 2022-06-10 | 2022-06-18 |
 | [Je me posais cette question \(Misstress Barbara remix\) \- edit version](https://open.spotify.com/track/6MxQWyyfiMlxQat5vTBrRV) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3), [misstress barbara](https://open.spotify.com/artist/1Bhw1NGkIlsdVb8NXOymzk) | [Je me posais cette question \(Misstress Barbara remix\)](https://open.spotify.com/album/1fJsXRqGsvQr8OhoazC5WS) | 3:27 | 2022-07-29 | 2022-08-27 |
 | [Je me souviens](https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6) | [Je me souviens](https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso) | 3:09 | 2022-03-11 | 2022-03-26 |
@@ -2914,6 +2914,7 @@
 | [Way Too Long](https://open.spotify.com/track/7Iz74b76qfdNOBOyVegHv2) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Way Too Long](https://open.spotify.com/album/1mby3xq3SFGEeTSojPrsVH) | 3:03 | 2024-05-31 | 2024-06-08 |
 | [we need to leave LA](https://open.spotify.com/track/7HoUYphBTJhZkgS9TYSsqI) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [we need to leave LA](https://open.spotify.com/album/7d6d8J2yGAUplBFcA8ufe0) | 3:10 | 2024-05-03 | 2024-05-11 |
 | [Wendat Rap](https://open.spotify.com/track/0WAyCe91XVpDOuQ2oqtvD3) | [Sandrine Masse](https://open.spotify.com/artist/35fwgEtPJdcASmEbtG4MZh) | [Wendat Rap](https://open.spotify.com/album/3HRmk6CSN7zUyyjHJ7dLIz) | 3:51 | 2022-04-01 | 2022-04-09 |
+| [West Coast](https://open.spotify.com/track/3mFmzE2bIrEiLLyGwjfm11) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [West Coast](https://open.spotify.com/album/323t5RLy984NASLdtjI5yx) | 2:26 | 2024-12-20 |  |
 | [Western](https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL) | [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91) | [Fleur de cactus \(Face A\)](https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R) | 3:33 | 2022-09-30 | 2022-10-15 |
 | [WHAP](https://open.spotify.com/track/7pNJNSyIM9uHW5GeJQha6F) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI) | [WHAP](https://open.spotify.com/album/1HpV0b6wVhRgJ0MLbBoqqE) | 2:42 | 2022-10-28 | 2022-11-12 |
 | [What We Doing!? / Qu'est\-ce qu'on fait!?](https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn) | [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [What We Doing!? / Qu'est\-ce qu'on fait!?](https://open.spotify.com/album/7IWx54OEov6VaGLamUs43C) | 3:03 | 2024-02-23 | 2024-04-19 |

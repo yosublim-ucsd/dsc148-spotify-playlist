@@ -4,7 +4,7 @@
 
 > D vitaminin.
 
-133 songs - 7 hr 9 min
+134 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 | 2023-03-10 |  |
 | [I Found You \(with Calvin Harris\)](https://open.spotify.com/track/5sdb5pMhcK44SSLsj1moUh) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [I Found You \(with Calvin Harris\)](https://open.spotify.com/album/3jfSJj7tHJxk1a4i2KZt9F) | 3:11 | 2023-03-10 |  |
 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 | 2023-03-10 |  |
-| [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2024-03-01 |  |
+| [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2024-03-01 | 2024-12-27 |
 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 | 2024-03-01 |  |
 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 | 2023-03-10 |  |
 | [Instagram](https://open.spotify.com/track/0U6bQIAh6MCGo1xjbIIx2S) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Instagram](https://open.spotify.com/album/7FTzcNdsKhMe53orWXsai8) | 3:04 | 2023-03-10 |  |
@@ -108,6 +108,7 @@
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2023-03-10 |  |
 | [Scarlet Paintings](https://open.spotify.com/track/41UBTzyPAbtkge6aWVr7Uy) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ) | 2:57 | 2024-03-01 |  |
 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 | 2023-03-10 | 2024-04-19 |
+| [SICKO](https://open.spotify.com/track/2vDxrqUKTkgSxn7x3JYms9) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [SICKO](https://open.spotify.com/album/3kolpERtzYSxUzWpyxE7uE) | 2:37 | 2024-07-03 |  |
 | [Sing It With Me](https://open.spotify.com/track/4Q6wZlZhrwVVmGhJtmGUtG) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [She](https://open.spotify.com/album/5f7axBwnXST7xzhpRMb34u) | 3:21 | 2023-03-10 | 2024-04-19 |
 | [Sixteen](https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Sixteen](https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx) | 3:21 | 2023-03-10 |  |
 | [So Close](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [So Close \(feat\. Georgia Ku\)](https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6) | 3:10 | 2023-03-10 |  |

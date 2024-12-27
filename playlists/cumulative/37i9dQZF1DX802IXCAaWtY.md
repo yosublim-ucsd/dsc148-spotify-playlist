@@ -4,7 +4,7 @@
 
 > Who doesn't love the 90s?
 
-113 songs - 7 hr 34 min
+114 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Don't Stop Movin'](https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:19 | 2023-07-14 | 2024-12-25 |
 | [Dooh Dooh](https://open.spotify.com/track/06MaHjSGleJNvfsugH0mFi) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:51 | 2023-07-14 |  |
 | [Dreams \(Will Come Alive\)](https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Dreams](https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG) | 4:24 | 2022-12-28 |  |
-| [Drill Instructor \- Short Mix](https://open.spotify.com/track/4ypMF4LbWGUbnamCqJc5RO) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [The Mission](https://open.spotify.com/album/6Szz8TwnGxRpFwu1s4v5OB) | 4:14 | 2023-07-14 |  |
+| [Drill Instructor \- Short Mix](https://open.spotify.com/track/4ypMF4LbWGUbnamCqJc5RO) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [The Mission](https://open.spotify.com/album/6Szz8TwnGxRpFwu1s4v5OB) | 4:14 | 2023-07-14 | 2024-12-27 |
 | [Ecuador \- Original Radio Edit](https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:32 | 2022-12-28 |  |
+| [Electric](https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:36 | 2024-07-15 |  |
 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 | 2022-12-28 | 2024-04-19 |
 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 | 2022-12-28 |  |
 | [Feel the heat of the night \- Radio Edit](https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc) | [Masterboy](https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E) | [Feel the heat of the night](https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY) | 3:41 | 2022-12-28 | 2024-04-19 |

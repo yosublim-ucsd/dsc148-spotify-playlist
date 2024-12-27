@@ -3099,6 +3099,28 @@
     },
     {
       "album": {
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/6F9syUZJubOERg42FJNHWl"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256449,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/1zbJrdazNgbWR88CrUVDAb"
+    },
+    {
+      "album": {
         "name": "Resaca",
         "url": "https://open.spotify.com/album/0kXhUyBXTjElgrkGStIVMr"
       },

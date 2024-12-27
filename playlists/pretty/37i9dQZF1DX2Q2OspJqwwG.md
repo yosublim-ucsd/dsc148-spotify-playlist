@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,742 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,745 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 19 | [În amintirea noastră](https://open.spotify.com/track/162vJXMiH13lJikd3fnOjj) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Antifragil](https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC) | 2:26 |
 | 20 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 21 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
-| 22 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
-| 23 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
+| 22 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
+| 23 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
 | 24 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 25 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
 | 26 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 66 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
 | 67 | [Mr\. Saxobeat \- Radio Edit](https://open.spotify.com/track/3LWDPEXEaLBRGNLbdcbwBR) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/5K3ZT6CPpaPXanq1lKyRuL) | 3:15 |
 | 68 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 |
-| 69 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
-| 70 | [Drugs You Should Try It](https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:28 |
-| 71 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
+| 69 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
+| 70 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 71 | [Drugs You Should Try It](https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:28 |
 | 72 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 73 | [I'm Gonna Miss You](https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [All Or Nothing](https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4) | 3:58 |
 | 74 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 82 | [ITALODISCO](https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ITALODISCO](https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn) | 3:19 |
 | 83 | [Talking In Your Sleep \(2023 Remaster\)](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat \(2023 Remaster\)](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:56 |
 | 84 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
-| 85 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 |
-| 86 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
+| 85 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
+| 86 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 |
 | 87 | [Makeba](https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka](https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb) | 4:09 |
 | 88 | [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Fire \(Official UEFA EURO 2024 Song\)](https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ) | 2:48 |
 | 89 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 |

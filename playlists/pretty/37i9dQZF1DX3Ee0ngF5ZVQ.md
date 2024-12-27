@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,581 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,586 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 83 | [In Case You Didn’t Know](https://open.spotify.com/track/21u5BXmVmipPoLlBFN11FD) | [Mikele Buck Band](https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN) | [In Case You Didn’t Know](https://open.spotify.com/album/3wojk7NMMnAmedGJG5as0k) | 3:54 |
 | 84 | [Never Again One More Time](https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl), [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv) | [Never Again One More Time](https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR) | 2:58 |
 | 85 | [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/track/0MbTyGD6yYiYL45DhNljoQ) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/album/4Rv54VNYpnod5egRBkP20a) | 3:43 |
-| 86 | [Angels & Heathens](https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Angels & Heathens](https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9) | 3:18 |
-| 87 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 |
+| 86 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 |
+| 87 | [Angels & Heathens](https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Angels & Heathens](https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9) | 3:18 |
 | 88 | [Over](https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [The Droptines](https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl) | 3:02 |
 | 89 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
 | 90 | [God Blessed Texas](https://open.spotify.com/track/0NCSOMwJ2JUNEXmoaZd7Mb) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n) | [God Blessed Texas](https://open.spotify.com/album/23oHCXpMbOCGkvEgvsbSfG) | 3:27 |

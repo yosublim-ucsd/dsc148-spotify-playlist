@@ -2,7 +2,7 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: MARK
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: fromis\_9
 
 1,311 songs - 2 day 22 hr 13 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Malaa",
-  "num_followers": 451608,
+  "num_followers": 451650,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1397,26 +1397,6 @@
       "url": "https://open.spotify.com/track/2o2qzhEatKmbCOZy07nrFh"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Pump (AC Slater Remix)",
@@ -1435,6 +1415,22 @@
       "duration_ms": 257342,
       "name": "Pump (AC Slater Remix)",
       "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1461,40 +1457,24 @@
       "url": "https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj"
       },
       "artists": [
         {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "64 Impala",
-        "url": "https://open.spotify.com/album/1nIIfKcs5sJzuCoOu2zacs"
-      },
-      "artists": [
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         },
         {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
         }
       ],
-      "duration_ms": 131200,
-      "name": "64 Impala",
-      "url": "https://open.spotify.com/track/52w9GCt9IeQU8R7WhHrmXi"
+      "duration_ms": 164324,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1515,6 +1495,26 @@
       "duration_ms": 195357,
       "name": "Ravers Bounce",
       "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "64 Impala",
+        "url": "https://open.spotify.com/album/1nIIfKcs5sJzuCoOu2zacs"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "64 Impala",
+      "url": "https://open.spotify.com/track/52w9GCt9IeQU8R7WhHrmXi"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1625,6 +1625,22 @@
       "url": "https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "RUNWAY",
@@ -1645,20 +1661,20 @@
       "url": "https://open.spotify.com/track/20Q53ZfrEy8udIO2EKJk22"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
       },
       "artists": [
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         }
       ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
+      "duration_ms": 195000,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 139687,
       "name": "Pa Pa Pa (feat. MC Maromba)",
       "url": "https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "CASH",
-        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CASH",
-      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "The Blur",
+        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "The Blur",
+      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Get Hype",
         "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 147692,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "The Blur",
-        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "The Blur",
-      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
     },
     {
       "added_at": "2024-09-30 15:01:28",
@@ -2037,6 +2037,22 @@
       "url": "https://open.spotify.com/track/1geATcpIabznNvS0GSTFEm"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/7CB5j9HbY8awG0PhcjLmAy"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/48TrMJXONxegs0i8wB9zOo"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Mysterious World",
@@ -2059,22 +2075,6 @@
       "duration_ms": 180800,
       "name": "Mysterious World",
       "url": "https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/7CB5j9HbY8awG0PhcjLmAy"
-      },
-      "artists": [
-        {
-          "name": "Ekonovah",
-          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/48TrMJXONxegs0i8wB9zOo"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2329,26 +2329,6 @@
       "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Seduction",
-        "url": "https://open.spotify.com/album/3kDp06NY6s7diMNHMN6mMF"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "JENNY VOSS",
-          "url": "https://open.spotify.com/artist/4Dm0GLofT1SXf6N3g4UAvM"
-        }
-      ],
-      "duration_ms": 251355,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/4cga9ylIVzS6n0Hs1OGv1u"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "SOOTHSAYER (Jon Casey Remix)",
@@ -2367,6 +2347,26 @@
       "duration_ms": 191250,
       "name": "SOOTHSAYER (Jon Casey Remix)",
       "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Seduction",
+        "url": "https://open.spotify.com/album/3kDp06NY6s7diMNHMN6mMF"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "JENNY VOSS",
+          "url": "https://open.spotify.com/artist/4Dm0GLofT1SXf6N3g4UAvM"
+        }
+      ],
+      "duration_ms": 251355,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/4cga9ylIVzS6n0Hs1OGv1u"
     },
     {
       "added_at": "2024-10-25 04:00:00",

@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. غلاف: نوال الكويتية
 
-378 songs - 1 day 2 hr 4 min
+379 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/7m2zZPpGToPPLWv41LTo2U) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ashan Al Eshrah \(6\)](https://open.spotify.com/album/2w79joKuAlb8yptMEMMJNQ) | 4:37 | 2022-09-05 | 2022-09-30 |
 | [Asheqat Alworod](https://open.spotify.com/track/7fzlfxPGNg6TAnsagF3xWA) | [Fares Mahdi](https://open.spotify.com/artist/1YsTqzEdaUDfTm05Rx9bHD) | [Asheqat Alworod](https://open.spotify.com/album/7wLFnsKYJiUTyIsfc3juIR) | 5:59 | 2021-12-23 | 2022-04-06 |
 | [Asher Safha](https://open.spotify.com/track/6LS75pBeHxcJ9rUYecFz33) | [Ibrahim Al Hakmi](https://open.spotify.com/artist/5tW4IIHdo0QDx1KvTu03yc) | [Asher Safha](https://open.spotify.com/album/5jjwXhLhOAbqXFGkibas73) | 4:51 | 2022-06-02 | 2023-01-10 |
-| [Ashoof AL Afyiah](https://open.spotify.com/track/04RQf3c5aAqLmd07WHaCFN) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ashoof AL Afyiah](https://open.spotify.com/album/6zi460Vd6Xflq0YRgxrUpX) | 3:35 | 2024-05-02 |  |
+| [Ashoof AL Afyiah](https://open.spotify.com/track/04RQf3c5aAqLmd07WHaCFN) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ashoof AL Afyiah](https://open.spotify.com/album/6zi460Vd6Xflq0YRgxrUpX) | 3:35 | 2024-05-02 | 2024-12-27 |
 | [Ashya Ma Tngaal](https://open.spotify.com/track/29lT2uvcPdWila0RrgXO8h) | [Hind](https://open.spotify.com/artist/1fkTlg87igh6cosmAa3TYE) | [Hind 2024](https://open.spotify.com/album/3OWdp5V4FDqWQwfl6Z8JGi) | 4:29 | 2024-01-18 | 2024-08-20 |
 | [Baad El Ahyan](https://open.spotify.com/track/236Rsa1TC6X2HDUkCkv3vH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Baad El Ahyan](https://open.spotify.com/album/5YSBcsruTgThOJajX9qsXV) | 4:47 | 2024-10-18 |  |
 | [Baadh Al Ghala](https://open.spotify.com/track/3Sf476zAelNnGLOS9dSUWX) | [Nour Ireksousi](https://open.spotify.com/artist/3ERqXjQ9LH6lItvNMwSftG) | [Baadh Al Ghala](https://open.spotify.com/album/6Nw5PNaAjR8blhDzsmuulu) | 3:49 | 2021-12-23 | 2022-03-12 |
@@ -126,6 +126,7 @@
 | [Fi Dubai \(EXPO 2020\)](https://open.spotify.com/track/5HzNKQdSO2u6TlWe6mI47D) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Fi Dubai \(EXPO 2020\)](https://open.spotify.com/album/34QXb0dzqutjVJl1vZmS7i) | 5:30 | 2021-12-23 | 2022-03-04 |
 | [Galbi Zojaj](https://open.spotify.com/track/5r4EQu8vV34Yk3hwvUWzf2) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [Galbi Zojaj](https://open.spotify.com/album/0Ko6385ojdQjYR0Bs8cMJb) | 4:50 | 2022-08-12 | 2023-02-22 |
 | [Gedart Tnaam](https://open.spotify.com/track/1NpgxL5cAHN0r1qB3XMoko) | [Nawal](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Ana W Ozoof](https://open.spotify.com/album/5AT8gA59kXquMpj87alv8f) | 3:19 | 2024-11-19 |  |
+| [Ghana Wajed](https://open.spotify.com/track/6Wa4s4YU2tvIGZLmIFKovZ) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Hayen](https://open.spotify.com/album/28ms6jlPHDk4zbSLKUqnnO) | 3:50 | 2024-12-26 |  |
 | [Gheyabi](https://open.spotify.com/track/3D930igQ3knkLavFFPyijR) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Maashar Al Oshag](https://open.spotify.com/album/1nPZkWEX3bXgzfAlynB4LQ) | 3:59 | 2022-02-14 | 2022-08-13 |
 | [Gidar Gidar](https://open.spotify.com/track/7pIt7aJzoeD9tkvka30Bh4) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Gidar Gidar](https://open.spotify.com/album/71bAi48fuZr89EYQz2iRiq) | 6:47 | 2022-07-06 | 2023-01-18 |
 | [Habeeb El Roh](https://open.spotify.com/track/21wMSBrttJwKRkNebSUaNq) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Habeeb El Roh](https://open.spotify.com/album/4gzTxAiQTE8eWK41Q3kp62) | 3:00 | 2022-12-16 | 2023-06-30 |

@@ -4,7 +4,7 @@
 
 > This is Twenty One Pilots\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 40 min
+60 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 | 2024-06-01 | 2024-06-02 |
 | [Nico and the Niners](https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:45 | 2024-06-01 |  |
 | [Ode to Sleep](https://open.spotify.com/track/773xZHHSHJvC1z3AAtWgH6) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 5:08 | 2024-06-02 | 2024-07-24 |
-| [Oh Ms Believer](https://open.spotify.com/track/3FvV3j98xtcylQF1drDc9j) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM) | 3:37 | 2024-06-01 |  |
+| [Oh Ms Believer](https://open.spotify.com/track/3FvV3j98xtcylQF1drDc9j) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM) | 3:37 | 2024-06-01 | 2024-12-27 |
+| [Oh Ms Believer](https://open.spotify.com/track/4JdJ95CXOA0loxFxO288iK) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa) | 3:37 | 2024-12-27 |  |
 | [Overcompensate](https://open.spotify.com/track/0wEGo9LsSrSUz9HOtraWAO) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:56 | 2024-06-01 |  |
 | [Polarize](https://open.spotify.com/track/6GmkJJMe9U1tEcrJ3Hq3A1) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:46 | 2024-06-01 | 2024-06-02 |
 | [Redecorate](https://open.spotify.com/track/2XPmTamsj7d9i3gzLCL4JI) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 4:05 | 2024-06-01 |  |

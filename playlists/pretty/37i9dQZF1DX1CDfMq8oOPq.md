@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > big d com a senha da cena, fenomenal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,014 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,066 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 28 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
 | 29 | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
 | 30 | [Piranha](https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Piranha](https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK) | 2:56 |
-| 31 | [Date](https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Date](https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK) | 2:40 |
-| 32 | [Meu Vulgo](https://open.spotify.com/track/1Gua866aqCYEVVRvAfZr3t) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Meu Vulgo](https://open.spotify.com/album/0aYR0L1ixmQ859B28FrECY) | 2:13 |
+| 31 | [Meu Vulgo](https://open.spotify.com/track/1Gua866aqCYEVVRvAfZr3t) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Meu Vulgo](https://open.spotify.com/album/0aYR0L1ixmQ859B28FrECY) | 2:13 |
+| 32 | [Date](https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Date](https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK) | 2:40 |
 | 33 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |
 | 34 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
 | 35 | [Maldita](https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:07 |

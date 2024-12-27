@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 170320,
       "name": "Arre Borriquito",
       "url": "https://open.spotify.com/track/3qqxSpnpYCMkg6opoFRjA3"
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 200658,
       "name": "BLANCA ROSITA Y MARIA",
       "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
@@ -4896,7 +4896,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -7110,7 +7110,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 240654,
       "name": "Extssy Model",
       "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
@@ -7182,7 +7182,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -7204,6 +7204,36 @@
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad HDSPM",
+        "url": "https://open.spotify.com/album/0a0fwKEvDDhvaZU4WxZkH5"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162986,
+      "name": "Feliz Navidad HDSPM",
+      "url": "https://open.spotify.com/track/7f6g6R6wrXFmeYkfdIBPx8"
     },
     {
       "album": {
@@ -7904,7 +7934,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 177580,
       "name": "Giza",
       "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
@@ -8804,6 +8834,24 @@
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
       "album": {
@@ -11438,7 +11486,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 190640,
       "name": "Los Peces En El Rio",
       "url": "https://open.spotify.com/track/1SVFABqrJ87TbFVwQAtrqc"
@@ -12298,7 +12346,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 234077,
       "name": "Mejores Jordans",
       "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
@@ -13260,7 +13308,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 154653,
       "name": "Navidad, Navidad",
       "url": "https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK"
@@ -13278,7 +13326,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 149073,
       "name": "NEL",
       "url": "https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4"
@@ -13624,7 +13672,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 160714,
       "name": "No Son Doritos",
       "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
@@ -13810,7 +13858,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 242133,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
@@ -14768,7 +14816,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 240669,
       "name": "PI\u00c9NSALO",
       "url": "https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr"
@@ -20311,6 +20359,24 @@
     },
     {
       "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -20502,7 +20568,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 239800,
       "name": "Ven A Cantar",
       "url": "https://open.spotify.com/track/0vLLRQTHEvIidczOP4JROU"

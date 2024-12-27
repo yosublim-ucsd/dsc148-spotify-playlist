@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: KHEA & Sebastian Yatra.",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Gordo & Emilia.",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -1124,6 +1124,24 @@
       "duration_ms": 188635,
       "name": "Choca Mi Cintura",
       "url": "https://open.spotify.com/track/6ExLrjegzgNt2X5C3T7snD"
+    },
+    {
+      "album": {
+        "name": "Cicatriz",
+        "url": "https://open.spotify.com/album/2pIpGjq3hC3yCPxVHKmJ2W"
+      },
+      "artists": [
+        {
+          "name": "Franco Masini",
+          "url": "https://open.spotify.com/artist/1HJiJRWmiSoFDZxXv6Evmy"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223458,
+      "name": "Cicatriz",
+      "url": "https://open.spotify.com/track/607ScJybcVBFgZVuMzMX5d"
     },
     {
       "album": {
@@ -3515,6 +3533,24 @@
     },
     {
       "album": {
+        "name": "LA CUEVA",
+        "url": "https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164318,
+      "name": "LA CUEVA",
+      "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
+    },
+    {
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -3592,7 +3628,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 157297,
       "name": "La Polic\u00eda",
       "url": "https://open.spotify.com/track/0ZhdPl4IGi5OhxoCF59CBh"
@@ -5507,6 +5543,28 @@
     },
     {
       "album": {
+        "name": "NO HAY VERANO SIN GORDO",
+        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+    },
+    {
+      "album": {
         "name": "Olvidate",
         "url": "https://open.spotify.com/album/2OVbouaTwqVHertrc15Kgn"
       },
@@ -5632,7 +5690,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 192106,
       "name": "paladar",
       "url": "https://open.spotify.com/track/6u6mp12wioT53HAvOyakcq"
@@ -6884,7 +6942,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 162848,
       "name": "Solo Amigos?",
       "url": "https://open.spotify.com/track/0kFNKs0MEccoSEm2OatvaC"

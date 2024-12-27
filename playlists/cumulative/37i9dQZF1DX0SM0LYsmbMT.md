@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,316 songs - 6 day 20 hr 30 min
+4,317 songs - 6 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Autumn in My Heart](https://open.spotify.com/track/1lLL1Jo67MDc11t7dVfKFM) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Embre](https://open.spotify.com/album/3Nc8lNPdmG5cpcVrxKaYJW) | 2:28 | 2019-05-26\* | 2019-06-15 |
 | [Autumn Leaves](https://open.spotify.com/track/6rzBDEJ3V3VRuc42OeRe9f) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [WOX](https://open.spotify.com/artist/7EyXYGmovTZWucKC0WahJ9) | [Autumn Leaves](https://open.spotify.com/album/5f9eCZ7zM4nymYWZzwH67x) | 2:22 | 2023-06-01 |  |
 | [Autumn Ride](https://open.spotify.com/track/1TOHw1SZwZWX08ktFUei9T) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Autumn Ride](https://open.spotify.com/album/0xFzw2ncYZYsBNd7Jyn33U) | 2:10 | 2022-10-13 | 2024-05-10 |
-| [Autumn Sky](https://open.spotify.com/track/18krMlHUAxBY9bjTdGEeOV) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Autumn Sky](https://open.spotify.com/album/5TdyuDgS4InxKlQb3gDwQs) | 2:32 | 2023-11-16 |  |
+| [Autumn Sky](https://open.spotify.com/track/18krMlHUAxBY9bjTdGEeOV) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Autumn Sky](https://open.spotify.com/album/5TdyuDgS4InxKlQb3gDwQs) | 2:32 | 2023-11-16 | 2024-12-27 |
 | [Autumn Sun](https://open.spotify.com/track/1L0hBjHsPmwT8vCEQYtAzi) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Autumn Sun](https://open.spotify.com/album/5Y9Hpikz6PSimYw57mrOkt) | 2:02 | 2021-10-16 | 2023-03-10 |
 | [Autumn Sunset](https://open.spotify.com/track/5XBtGG0bWou5Bd3WUW1YMv) | [Georgy Whistler](https://open.spotify.com/artist/3OglhORwydCOlEd2vqwoIe) | [EXPEDITion Vol\. 24: Time Flies](https://open.spotify.com/album/35JhNrVbRuERASMqL31UVz) | 1:43 | 2019-10-02 | 2020-03-18 |
 | [Autumnal Longing](https://open.spotify.com/track/03Pmh9aXyfO6TgiLqPZPFc) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Autumnal Longing](https://open.spotify.com/album/3asMClIVmaKkPHk0UHy046) | 1:59 | 2024-06-13 |  |
@@ -2239,6 +2239,7 @@
 | [Mango Tree](https://open.spotify.com/track/4b3k19H2jeOxHvPpSHIX9q) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Still Life](https://open.spotify.com/album/2Soi9dNZuVFigjP19LRZIv) | 2:05 | 2022-07-28 | 2022-11-04 |
 | [Mango Tree](https://open.spotify.com/track/697J2HJPgF7klXERmeLs4f) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Mango Tree](https://open.spotify.com/album/77Rw2U1zpOiRys3V6t5r7h) | 2:05 | 2021-11-12 | 2022-07-29 |
 | [Maple](https://open.spotify.com/track/3dCSED6UnykK6RmbVp5r2N) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Maple](https://open.spotify.com/album/0mn5M0prH1Kc6uOk07uX7S) | 1:36 | 2024-09-16 |  |
+| [maple shade](https://open.spotify.com/track/3bSYCBfYlhQ27VphmXif64) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [maple shade](https://open.spotify.com/album/3vwm5bMYTSbmOXTwWWYXHf) | 2:18 | 2024-12-16 |  |
 | [Maple Tree](https://open.spotify.com/track/7oMBaIaQmrxSe40QouKQGe) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Maple Tree](https://open.spotify.com/album/0AISjVbzcuOeKcmtSjoxns) | 2:04 | 2021-06-12 | 2021-07-16 |
 | [maravi](https://open.spotify.com/track/5GDoCm1iNcRp2BU4nxXpgw) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [maravi](https://open.spotify.com/album/5b5LWcmvDS4cmGnxSlRYUg) | 2:14 | 2019-08-24 | 2020-02-01 |
 | [Marbles](https://open.spotify.com/track/0WZVKvzrIHoQhmY2Nhl7GQ) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Marbles](https://open.spotify.com/album/39xX4oBkTKXzXqWx3qnWgI) | 2:30 | 2023-08-17 | 2024-06-07 |

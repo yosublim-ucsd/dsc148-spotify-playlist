@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 118712,
+  "num_followers": 118773,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Obsesionario En La Mayor (feat. Abel Pintos) [En Vivo En River Plate]",
-        "url": "https://open.spotify.com/album/0Osnyn6jIth0tYOeMCuHoT"
+        "name": "En El Opera",
+        "url": "https://open.spotify.com/album/0bjaDXdUk6kiaYvqtFlX6a"
       },
       "artists": [
         {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 329865,
-      "name": "Obsesionario En La Mayor (feat. Abel Pintos) - En Vivo En River Plate",
-      "url": "https://open.spotify.com/track/2HcOKRBxqtfn4ooy4O7b8i"
+      "duration_ms": 197933,
+      "name": "Costumbres Argentinas - En Vivo",
+      "url": "https://open.spotify.com/track/5kRFlfWSTdQXl6AATz3xn8"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -307,18 +303,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "En El Opera",
-        "url": "https://open.spotify.com/album/0bjaDXdUk6kiaYvqtFlX6a"
+        "name": "Obsesionario En La Mayor (feat. Abel Pintos) [En Vivo En River Plate]",
+        "url": "https://open.spotify.com/album/0Osnyn6jIth0tYOeMCuHoT"
       },
       "artists": [
         {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Costumbres Argentinas - En Vivo",
-      "url": "https://open.spotify.com/track/5kRFlfWSTdQXl6AATz3xn8"
+      "duration_ms": 329865,
+      "name": "Obsesionario En La Mayor (feat. Abel Pintos) - En Vivo En River Plate",
+      "url": "https://open.spotify.com/track/2HcOKRBxqtfn4ooy4O7b8i"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Don Lucero",
-        "url": "https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Fina Ropa Blanca",
-      "url": "https://open.spotify.com/track/46uMIpDYQBG6iSHDl5y2ft"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "El regreso",
         "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 233213,
       "name": "Te quiero igual - En directo 2005",
       "url": "https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Don Lucero",
+        "url": "https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 316040,
+      "name": "Fina Ropa Blanca",
+      "url": "https://open.spotify.com/track/46uMIpDYQBG6iSHDl5y2ft"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "No Era Cierto - En Vivo En Argentina",
+        "url": "https://open.spotify.com/album/6pwut5VJt6jFHkPNhDyVaP"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 258083,
+      "name": "No Era Cierto - En Vivo En Argentina",
+      "url": "https://open.spotify.com/track/6WkbvEq0p1lwLk9HiWET7x"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 226186,
       "name": "Yo Tomo - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Otras Canciones en Vivo en Latinoam\u00e9rica",
-        "url": "https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 284756,
-      "name": "Tan Lejos",
-      "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
-        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 266824,
-      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 301830,
       "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
+        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 266824,
+      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Vivo X la 25",
+        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Solo Voy - En Vivo",
+      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Nada Salvaje (En Vivo Estadio Obras)",
         "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 278984,
       "name": "Nada Salvaje (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Vivo X la 25",
-        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Solo Voy - En Vivo",
-      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Vivo Paranoico",
+        "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
+      },
+      "artists": [
+        {
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Carol - Vivo",
+      "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Ahora Vengo (Vivo Luna Park)",
         "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 171306,
       "name": "Ahora Vengo - Vivo Luna Park",
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Vivo Paranoico",
-        "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
-      },
-      "artists": [
-        {
-          "name": "Ratones Paranoicos",
-          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Carol - Vivo",
-      "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Demonio Paraguayo (En Vivo)",
-        "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
-      },
-      "artists": [
-        {
-          "name": "Los Tabaleros",
-          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 262014,
-      "name": "Demonio Paraguayo - En Vivo",
-      "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
         "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 244360,
       "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
       "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Demonio Paraguayo (En Vivo)",
+        "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
+      },
+      "artists": [
+        {
+          "name": "Los Tabaleros",
+          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 262014,
+      "name": "Demonio Paraguayo - En Vivo",
+      "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
     },
     {
       "added_at": "2024-12-20 03:00:01",

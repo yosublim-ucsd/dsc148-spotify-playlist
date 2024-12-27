@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a la Generación 2024 de RADAR México\. CHOCA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,149 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,167 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 32 | [MONEY](https://open.spotify.com/track/3ttIVj1N3d6hV8t0UL2Mjo) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [ERROR](https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB) | 3:14 |
 | 33 | [Un Tabaco \- En Vivo](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 34 | [El Dos Sierras \( En Vivo\)](https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [En Vivo De Culiacan](https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM) | 2:38 |
-| 35 | [Cuando Alguien Me Amaba](https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cuando Alguien Me Amaba](https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj) | 2:24 |
-| 36 | [Anillos](https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Anillos](https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa) | 3:23 |
+| 35 | [Anillos](https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Anillos](https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa) | 3:23 |
+| 36 | [Cuando Alguien Me Amaba](https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cuando Alguien Me Amaba](https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj) | 2:24 |
 | 37 | [Modo St1ngy](https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Modo St1ngy](https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla) | 2:24 |
 | 38 | [Jordan Fly](https://open.spotify.com/track/46E20RV1VLUJqidEfXP1UM) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Jordan Fly](https://open.spotify.com/album/1p5IcI7XbDFekqlKHGYJlz) | 2:20 |
 | 39 | [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 65 | [Peda Con Cupido](https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Peda Con Cupido](https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc) | 2:30 |
 | 66 | [La Favorita](https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [La Favorita](https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I) | 2:25 |
 | 67 | [Rico Peliculón](https://open.spotify.com/track/43HgiTZnRKaloKXwkvgXkS) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [JHAY B](https://open.spotify.com/artist/2mFpBiAW3xImoMyxP7nZyZ) | [Rico Peliculón](https://open.spotify.com/album/54zzQDboVye1R5ntCQ1bLr) | 2:48 |
-| 68 | [Rosa Pastel](https://open.spotify.com/track/7JBVvPuKETheoyCOqQ2y2P) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Rosa Pastel](https://open.spotify.com/album/1Rv252BlB3FncjXuOv3SEK) | 3:05 |
-| 69 | [Morra](https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Morra](https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg) | 3:37 |
+| 68 | [Morra](https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Morra](https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg) | 3:37 |
+| 69 | [Rosa Pastel](https://open.spotify.com/track/7JBVvPuKETheoyCOqQ2y2P) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Rosa Pastel](https://open.spotify.com/album/1Rv252BlB3FncjXuOv3SEK) | 3:05 |
 | 70 | [Derecho y Chueco](https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Derecho y Chueco](https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm) | 2:37 |
 | 71 | [Don Ismael](https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj) | 2:38 |
 | 72 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 |

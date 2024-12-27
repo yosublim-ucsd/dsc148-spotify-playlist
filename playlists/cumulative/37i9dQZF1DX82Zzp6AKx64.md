@@ -4,7 +4,7 @@
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-217 songs - 17 hr 10 min
+218 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Heaven](https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 3:56 | 2020-04-30 |  |
 | [Heaven Beside You](https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Alice In Chains](https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe) | 5:27 | 2022-01-21 |  |
 | [Heaven in Your Eyes](https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Big Ones](https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV) | 4:03 | 2020-04-30 |  |
-| [Here for You](https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 4:37 | 2022-01-21 |  |
+| [Here for You](https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 4:37 | 2022-01-21 | 2024-12-27 |
 | [Here I Go Again \- 2018 Remaster](https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 4:35 | 2022-01-21 | 2024-04-19 |
 | [Here I Go Again 87 \- 2007 Remastered Version](https://open.spotify.com/track/3rdxvEfBp86WNcRDLaFEk9) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [1987 \(2007 Remaster\)](https://open.spotify.com/album/5YAaEVUeMvXjI9J0ExHPmw) | 4:30 | 2020-04-30 | 2022-07-29 |
 | [High Enough](https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Damn Yankees](https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX) | 4:47 | 2020-04-30 |  |
@@ -201,6 +201,7 @@
 | [We Don't Need Another Hero \(Thunderdome\)](https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 4:15 | 2023-05-24 |  |
 | [What About Love?](https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 3:41 | 2020-04-30 |  |
 | [What It Takes](https://open.spotify.com/track/2rVeiO8AI1ZDSv4wjS46OX) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 6:28 | 2020-04-30 |  |
+| [What Keeps Me Loving You](https://open.spotify.com/track/01w2LL7wrPyb4B3D6KhlIi) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [XYZ](https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65) | 4:42 | 2024-06-26 |  |
 | [What Love Can Be](https://open.spotify.com/track/54ksR9aJry2nrGZqmJN7ji) | [Kingdom Come](https://open.spotify.com/artist/2YFKPea38AMhGqGSqkFF1Q) | [Kingdom Come](https://open.spotify.com/album/4tgiJxO6vfa3pF46IO9w2n) | 5:14 | 2022-01-21 |  |
 | [What You Give](https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Psychotic Supper](https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY) | 7:15 | 2022-01-21 |  |
 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 | 2023-05-24 | 2023-09-30 |

@@ -4,7 +4,7 @@
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-226 songs - 11 hr 30 min
+227 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 | 2023-11-23 |  |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-14 |  |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2023-11-23 | 2024-04-19 |
-| [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-20 |  |
+| [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-20 | 2024-12-27 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2023-11-28 | 2024-09-06 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-12 |  |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-11-23 |  |
@@ -70,6 +70,7 @@
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-05-16 |  |
 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-05-16 |  |
 | [Feels](https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Feels](https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8) | 3:28 | 2023-11-28 | 2023-12-27 |
+| [from](https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from](https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2) | 3:21 | 2024-12-26 |  |
 | [Gachapon \(feat\. GALCHANIE\)](https://open.spotify.com/track/2DiNpDo0VZ6AEhvxQh9Crk) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Is there anything on the Moon?](https://open.spotify.com/album/1xYl1AYBf7ivH0z37MhhUg) | 3:49 | 2024-09-19 | 2024-12-13 |
 | [GENTO](https://open.spotify.com/track/1o6uF8VmXna99ysHTcQRI2) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [GENTO](https://open.spotify.com/album/3cxdpO2eZx2VT2OWyca18o) | 3:52 | 2024-07-02 | 2024-09-20 |
 | [Get Loud](https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:49 | 2024-10-17 |  |
@@ -121,11 +122,11 @@
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-17 |  |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-05-24 | 2024-09-06 |
 | [MEOW](https://open.spotify.com/track/5LlUJ3HHI2dS0xowdMDXC5) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/5TLTBK7AZVvOkv8FvAn7le) | 2:52 | 2024-09-05 | 2024-11-29 |
-| [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-22 | 2024-12-26 |
+| [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-22 |  |
 | [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 | 2024-04-22 | 2024-07-12 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-16 | 2024-09-20 |
 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 | 2023-12-19 | 2024-01-26 |
-| [Moonlight](https://open.spotify.com/track/3BisMbCsnd02eafPrHzQpt) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Moonlight](https://open.spotify.com/album/6QuLzXhhO4kB8ptAvlLu8B) | 3:56 | 2024-12-12 |  |
+| [Moonlight](https://open.spotify.com/track/3BisMbCsnd02eafPrHzQpt) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Moonlight](https://open.spotify.com/album/6QuLzXhhO4kB8ptAvlLu8B) | 3:56 | 2024-12-12 | 2024-12-27 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-03 |  |
 | [Moshi Moshi](https://open.spotify.com/track/1NUIKmqkxfTrAHZaU6uHf2) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR) | [Moshi Moshi](https://open.spotify.com/album/6C3rZZEZcaycHs0yrVrSpf) | 2:56 | 2024-02-16 | 2024-04-19 |
 | [Moshi Moshi](https://open.spotify.com/track/0FJVGU0hNhCtohkjKB6uKQ) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7) | [Moshi Moshi](https://open.spotify.com/album/3yJzboBD9EvdIEnVH9DuMr) | 2:56 | 2024-04-12 | 2024-09-20 |

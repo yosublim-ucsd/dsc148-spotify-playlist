@@ -4,7 +4,7 @@
 
 > Lo que diga el corazón ❤️💔 Cover: Oscar Maydon
 
-104 songs - 5 hr 16 min
+105 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ando Free](https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf) | [Ando Free](https://open.spotify.com/album/0NoQPCukAasKcHUePQhFDv) | 2:04 | 2024-04-12 |  |
 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 | 2024-03-15 |  |
 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 | 2024-03-15 |  |
+| [AURORA \(feat\. Armenta\)](https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:39 | 2024-12-26 |  |
 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 | 2024-03-15 |  |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2024-03-15 |  |
 | [Brillarosa](https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:49 | 2024-03-15 |  |

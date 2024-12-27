@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Maulana Ardiansyah, Alyssa Dezek
 
-212 songs - 16 hr 42 min
+213 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Ikhlas Ngenteni](https://open.spotify.com/track/4zbeozbK1z1OM8p8EzG310) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ikhlas Ngenteni](https://open.spotify.com/album/3S1X1t6OSQB7CAYIIBY3qG) | 4:25 | 2022-10-13 | 2024-02-23 |
 | [Indah Pada Waktunya](https://open.spotify.com/track/2EPSzjMwz0sCVwx0GUYjYa) | [Dewi Perssik](https://open.spotify.com/artist/1mX7WgTa4SubvAy0uxThYp) | [Indah Pada Waktunya](https://open.spotify.com/album/3aVuf3v7nr5qlcrNpFJ6D2) | 4:41 | 2021-08-23 |  |
 | [Insan Biasa](https://open.spotify.com/track/79T9Ab0SwY8h6kxzDoVZdz) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Insan Biasa](https://open.spotify.com/album/2UyX1tZhUrWMt52W3op8ha) | 5:40 | 2023-03-16 |  |
+| [Insan Yang Tersakiti \- Live Ska Reggae](https://open.spotify.com/track/0dV0JWMHsxGwAZyXclrpqy) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Insan Yang Tersakiti \(Live Ska Reggae\)](https://open.spotify.com/album/5MuojpLn88yFc9FFlKItlX) | 4:01 | 2024-12-26 |  |
 | [Jaga Baik Baik Dirimu](https://open.spotify.com/track/20l3dN01poeIczrt01QFTY) | [Syahriyadi](https://open.spotify.com/artist/7ec9HBl5JRTo77gSz4O6gH) | [Jaga Baik Baik Dirimu](https://open.spotify.com/album/16EXJEtvb1H06mhgHx0PEj) | 4:29 | 2023-07-13 | 2023-10-06 |
 | [Jakarta Kalimantan](https://open.spotify.com/track/2xN7UiLrcbu5w5Gn52Kqiy) | [Sinka Sisuka](https://open.spotify.com/artist/4kFQEmcuWSQUX91Q1KQflA) | [Jakarta Kalimantan](https://open.spotify.com/album/2x8MraY8UBPMfTxVDUQ8fq) | 3:50 | 2021-08-23 | 2023-02-17 |
 | [Jangan Tanggung Tanggung \- Live Ska Reggae](https://open.spotify.com/track/0glpTL0L63qt1CrCNuyJRi) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Jangan Tanggung Tanggung \(Live Ska Reggae\)](https://open.spotify.com/album/35Ynip23CA1h0oVV7smcKR) | 6:09 | 2024-11-28 |  |

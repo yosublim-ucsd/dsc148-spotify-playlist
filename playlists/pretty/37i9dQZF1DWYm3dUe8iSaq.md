@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,319 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,330 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 48 | [Prayers](https://open.spotify.com/track/2dHZ2wCSMl6gTb4EcKFWHh) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Prayers](https://open.spotify.com/album/7ymmZFjZQ0It3rTophhwuh) | 3:08 |
 | 49 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 |
 | 50 | [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 |
-| 51 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
+| 51 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
 | 52 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 |
 | 53 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
-| 54 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
+| 54 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
 | 55 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 |
 | 56 | [Porcupine Tattoo](https://open.spotify.com/track/68A5pJVydyEjMXMMxzGsyU) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Porcupine Tattoo](https://open.spotify.com/album/7yHTcBmhMU0hRmoFQIDVOf) | 3:26 |
 | 57 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 |

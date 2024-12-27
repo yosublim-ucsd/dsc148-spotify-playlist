@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: JBEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,128 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,123 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,16 +80,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 70 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
 | 71 | [Day and Night \(Prodbyjak\)](https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night \(Prodbyjak\)](https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap) | 3:12 |
 | 72 | [The Talking Stage Game](https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc) | 3:14 |
-| 73 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
-| 74 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 |
-| 75 | [No Pain](https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [No Pain](https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb) | 2:45 |
-| 76 | [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 |
+| 73 | [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 |
+| 74 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
+| 75 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 |
+| 76 | [No Pain](https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [No Pain](https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb) | 2:45 |
 | 77 | [Love Letter](https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Love Letter](https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3) | 2:32 |
 | 78 | [Dreaming](https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [Dreaming](https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s) | 1:50 |
 | 79 | [Up all night](https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt) | [LBSZN](https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff) | [Up all night](https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871) | 2:41 |
 | 80 | [She Comes & Goes](https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [She Comes & Goes](https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp) | 3:19 |
-| 81 | [Stuck In My Ways](https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Stuck In My Ways](https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp) | 1:51 |
-| 82 | [Deeper Than Drill](https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG) | 2:54 |
+| 81 | [Deeper Than Drill](https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG) | 2:54 |
+| 82 | [Stuck In My Ways](https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Stuck In My Ways](https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp) | 1:51 |
 | 83 | [No Emotions](https://open.spotify.com/track/1qSTiAFlGJY9aJVgreRF8D) | [Ddotz x Dice](https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd) | [No Emotions](https://open.spotify.com/album/4PG8yM5DLnsKQn2YGfc3IJ) | 2:48 |
 | 84 | [My Girl \(Gemini\)](https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb) | [Stan](https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v) | [My Girl \(Gemini\)](https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh) | 2:33 |
 | 85 | [High On Love](https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [High On Love](https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo) | 3:01 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 94 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 | 95 | [Venting](https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:40 |
 | 96 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 |
-| 97 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
-| 98 | [4am](https://open.spotify.com/track/4OSCSOIUKJKvWlHbwXBDah) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [4am](https://open.spotify.com/album/1eQig2V4KTmi0LcUBU1kD9) | 3:13 |
+| 97 | [4am](https://open.spotify.com/track/4OSCSOIUKJKvWlHbwXBDah) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [4am](https://open.spotify.com/album/1eQig2V4KTmi0LcUBU1kD9) | 3:13 |
+| 98 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
 | 99 | [I Thought I'd Die In Your Arms](https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Thought I'd Die In Your Arms](https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA) | 2:56 |
 | 100 | [Derby To Moston](https://open.spotify.com/track/488gyYhx0kuJzJvMEXtouL) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Derby To Moston](https://open.spotify.com/album/5UfYQjp1OF7Ddqt8L3TNJO) | 3:02 |
 

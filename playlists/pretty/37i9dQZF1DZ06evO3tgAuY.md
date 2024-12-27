@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,106 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,105 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 43 | [This Is The End \- En Vivo](https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [This Is The End \(En Vivo\)](https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU) | 3:16 |
 | 44 | [El Maserati \- En Vivo](https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Agrado](https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh) | [El Maserati \(En Vivo\)](https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk) | 2:42 |
 | 45 | [Botecitos Destapando \- En Vivo](https://open.spotify.com/track/7j2U6s8PNveSUBwDJfFz5v) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Meño Leon](https://open.spotify.com/artist/0D6qB7uGf9am07RDPCzeZ8) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:50 |
-| 46 | [Acá Por Tijuana \- En Vivo](https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Acá Por Tijuana \(En Vivo\)](https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl) | 2:14 |
-| 47 | [Mr\. Seal The Deal](https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 4:35 |
-| 48 | [Tiempo Duros](https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:44 |
-| 49 | [Hay Les Encargo \- En Vivo](https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Desde CLN Banda Edition \(En Vivo\)](https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn) | 2:19 |
+| 46 | [Mr\. Seal The Deal](https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 4:35 |
+| 47 | [Acá Por Tijuana \- En Vivo](https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Acá Por Tijuana \(En Vivo\)](https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl) | 2:14 |
+| 48 | [Hay Les Encargo \- En Vivo](https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Desde CLN Banda Edition \(En Vivo\)](https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn) | 2:19 |
+| 49 | [Tiempo Duros](https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:44 |
 | 50 | [Al Modo Freson](https://open.spotify.com/track/6NTdPXhCsgW9KRA8q9zjLm) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Al Modo Freson](https://open.spotify.com/album/0ap31DRjLT0wrlKoNbtTji) | 2:34 |
 
-Snapshot ID: `Z2n5gAAAAAB/hs9+UU9zglLr72rtgd+d`
+Snapshot ID: `Z2tLAAAAAAB8t26CP43D1Hf9TTSzTIUB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,354 likes - 255 songs - 16 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,357 likes - 255 songs - 16 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,14 +83,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 73 | [Camden](https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 4:06 |
 | 74 | [I should hate you](https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
 | 75 | [Cool](https://open.spotify.com/track/256nKlwQdp2GE6DYGvTDoG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 3:49 |
-| 76 | [Runaway](https://open.spotify.com/track/2OxZPn72KnUzSM7jcKJDaC) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 5:33 |
-| 77 | [Salt Water](https://open.spotify.com/track/6UIcjH0BzH2MKvToeEYIOZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:59 |
+| 76 | [Salt Water](https://open.spotify.com/track/6UIcjH0BzH2MKvToeEYIOZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:59 |
+| 77 | [Runaway](https://open.spotify.com/track/2OxZPn72KnUzSM7jcKJDaC) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 5:33 |
 | 78 | [Guilty Party](https://open.spotify.com/track/44K14Xsq0SbmEavHr5H141) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 5:38 |
 | 79 | [Nobody Else Will Be There](https://open.spotify.com/track/442vojce8QY34Fy0OfIDtr) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 4:40 |
 | 80 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 |
 | 81 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
-| 82 | [Gave You I Gave You I](https://open.spotify.com/track/7DgGLlqlkCEBMbu7j0eXyc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 4:29 |
-| 83 | [I Told You Things](https://open.spotify.com/track/4wkhV8JcGfy1z1inN5C61D) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU) | 3:41 |
+| 82 | [I Told You Things](https://open.spotify.com/track/4wkhV8JcGfy1z1inN5C61D) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU) | 3:41 |
+| 83 | [Gave You I Gave You I](https://open.spotify.com/track/7DgGLlqlkCEBMbu7j0eXyc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 4:29 |
 | 84 | [Sea of Love](https://open.spotify.com/track/1nXasqw1Y79vUwGFtrwD6p) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 3:41 |
 | 85 | [Mistaken for Strangers](https://open.spotify.com/track/3ZzqHdvCdoeOhVnhRiUn8f) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:30 |
 | 86 | [Dark Side of the Gym](https://open.spotify.com/track/5nKH6bOVogJdgfH031s1P1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 4:50 |
@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 167 | [Grease In Your Hair](https://open.spotify.com/track/5umWFm8z7wv3tPYc8Vw321) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 3:57 |
 | 168 | [Hymnostic](https://open.spotify.com/track/5IKfKPPzk7AFHTUGVVcD1B) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:02 |
 | 169 | [Space Invader](https://open.spotify.com/track/5ce3o4fcZbZVdGCDkK6KN7) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 6:58 |
-| 170 | [Reese](https://open.spotify.com/track/4BQf6xntGFvZj7lPnJy3iG) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:12 |
-| 171 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 |
+| 170 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 |
+| 171 | [Reese](https://open.spotify.com/track/4BQf6xntGFvZj7lPnJy3iG) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:12 |
 | 172 | [Deep Green](https://open.spotify.com/track/4vvJPjHFnxpNIzWurp4rkW) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:59 |
 | 173 | [Think You Can Wait](https://open.spotify.com/track/0VTTTGSMwk4Q9Dw4L54SqR) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Win Win \(Music from the Motion Picture\)](https://open.spotify.com/album/5HwpeExZ99KUQr3Y69XIuk) | 4:37 |
 | 174 | [It Never Happened](https://open.spotify.com/track/7timozTlGw1k7yyZH4RTP3) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers](https://open.spotify.com/album/2GXoU6gpOlx1oZ0DkNgrUM) | 4:37 |
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 254 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 255 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AblHgAAAAABO7mZHH2LGeGPUhTEyoX83`
+Snapshot ID: `AblNIAAAAAAsV0IgNyQYUwnAuwkKYVNc`

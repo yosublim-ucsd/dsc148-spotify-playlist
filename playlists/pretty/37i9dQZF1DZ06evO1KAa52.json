@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 643676,
+  "num_followers": 643726,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAABeETcTvyTGhkyNAtci72n",
+  "snapshot_id": "Z2tLAAAAAADCtjH+3a39EUhiBfIGQIov",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 326280,
-      "name": "Suit & Tie (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TROLLS Holiday In Harmony",
         "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 176466,
       "name": "Together Now",
       "url": "https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 326280,
+      "name": "Suit & Tie (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 219133,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/72o9sWkvAIJAtOs1WoVhNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICU (with Justin Timberlake) [Remix]",
-        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 218566,
-      "name": "ICU (with Justin Timberlake) - Remix",
-      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 189520,
       "name": "Let's Get Married",
       "url": "https://open.spotify.com/track/7AZiiOuTA8WPWJ7vEdFmue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICU (with Justin Timberlake) [Remix]",
+        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 218566,
+      "name": "ICU (with Justin Timberlake) - Remix",
+      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turtleneck & Chain (Explicit Version)",
-        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
-      },
-      "artists": [
-        {
-          "name": "The Lonely Island",
-          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "Motherlover",
-      "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 217266,
       "name": "Family",
       "url": "https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turtleneck & Chain (Explicit Version)",
+        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "Motherlover",
+      "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
     },
     {
       "added_at": null,
@@ -1103,6 +1103,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Incredibad",
+        "url": "https://open.spotify.com/album/5uWFEnAIeksRbygyWNrmlZ"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "Dick In A Box",
+      "url": "https://open.spotify.com/track/60VtX59NsRINDnObbDtH7G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 61920,
       "name": "Trolls 2 Many Hits Mashup",
       "url": "https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Incredibad",
-        "url": "https://open.spotify.com/album/5uWFEnAIeksRbygyWNrmlZ"
-      },
-      "artists": [
-        {
-          "name": "The Lonely Island",
-          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Dick In A Box",
-      "url": "https://open.spotify.com/track/60VtX59NsRINDnObbDtH7G"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

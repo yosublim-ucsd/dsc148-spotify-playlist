@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,165 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,393 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 | 25 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 |
 | 26 | [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 |
 | 27 | [You For Christmas](https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [You For Christmas](https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q) | 2:54 |
-| 28 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 |
+| 28 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [J\. Fred Coots](https://open.spotify.com/artist/5IBkss8RwasiJY2sj5qEdM), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 |
 | 29 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 |
 | 30 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
 | 31 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/47otoIkhx3fkdivEXL5OB6) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:10 |

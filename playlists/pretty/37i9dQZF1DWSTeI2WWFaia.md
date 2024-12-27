@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Roc Marciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,487 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,509 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 26 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 |
 | 27 | [Stickz N Stonez](https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:20 |
 | 28 | [Brick Fees](https://open.spotify.com/track/375ioxOx42RJEbfE5mo4Dy) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 4:02 |
-| 29 | [Peace](https://open.spotify.com/track/5grAb7wy8xwwKxdGkSclX7) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Punch](https://open.spotify.com/artist/3qpAgvQBkPuFhUtRi1qbd0) | [Soul Burger](https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6) | 5:42 |
-| 30 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 |
+| 29 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 |
+| 30 | [No Face](https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 4:35 |
 | 31 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 |
-| 32 | [No Face](https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 4:35 |
+| 32 | [Peace](https://open.spotify.com/track/5grAb7wy8xwwKxdGkSclX7) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Punch](https://open.spotify.com/artist/3qpAgvQBkPuFhUtRi1qbd0) | [Soul Burger](https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6) | 5:42 |
 | 33 | [3001](https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:37 |
 | 34 | [Define My Name](https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Define My Name](https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu) | 3:10 |
 | 35 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |

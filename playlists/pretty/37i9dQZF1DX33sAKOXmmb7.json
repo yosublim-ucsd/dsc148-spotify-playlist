@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 74831,
+  "num_followers": 74855,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Mi Negrita",
+      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "No Rain, No Rose",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 313078,
       "name": "I Am California",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Mi Negrita",
-      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Free Yourself Up",
-        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "My Dearest Darkest Neighbor",
         "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 207493,
       "name": "Jealous Guy",
       "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Free Yourself Up",
+        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+      "duration_ms": 216252,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 216252,
-      "name": "Top to Toe",
-      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 222293,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "case/lang/veirs",
         "url": "https://open.spotify.com/album/0U5U4AU94YjYY2QoOpmwfN"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 177802,
       "name": "Atomic Number",
       "url": "https://open.spotify.com/track/6dA9wLJzLDS3Vfk7m3qIPI"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Lone Bellow",
-        "url": "https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "Green Eyes and a Heart of Gold",
-      "url": "https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Bashed Out",
         "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 221120,
       "name": "Bashed Out",
       "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Lone Bellow",
+        "url": "https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 252853,
+      "name": "Green Eyes and a Heart of Gold",
+      "url": "https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j"
     },
     {
       "added_at": "2024-08-28 14:05:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,513 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,386 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 30 | [Deck The Hall \- Remastered 1999](https://open.spotify.com/track/5WUx1mTgFVIPSIeWf1NXEl) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song](https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O) | 1:09 |
 | 31 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
 | 32 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 |
-| 33 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 |
+| 33 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Brian Kierulf](https://open.spotify.com/artist/7xPxbgA4TgMgFHWgYORx47), [Josh Schwartz](https://open.spotify.com/artist/1s36VyXzwA4Q6RC36tcO6q), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 |
 | 34 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 | 35 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
 | 36 | [Somewhere Only We Know](https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47) | 3:28 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 54 | [Warm This Winter](https://open.spotify.com/track/3BfYDQC9SKBN1QCWVGb7C4) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [Lessons To Be Learned](https://open.spotify.com/album/24mdmYfLkOYeM65OVV97Iz) | 2:34 |
 | 55 | [Jingle Bell Rock](https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt) | 2:15 |
 | 56 | [Christmas Tree Farm \- Old Timey Version](https://open.spotify.com/track/7r7j12XctfJqZWXsy1Zq9L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm \(Old Timey Version\)](https://open.spotify.com/album/5f4rbgZJhYp4hgswKri00b) | 3:52 |
-| 57 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 |
+| 57 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [J\. Fred Coots](https://open.spotify.com/artist/5IBkss8RwasiJY2sj5qEdM), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 |
 | 58 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
 | 59 | [Feliz Navidad](https://open.spotify.com/track/5rgStA2VSw8K6jragj6yBx) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/7pTRfiMt7jdY0uphSoRbTN) | 3:02 |
 | 60 | [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 |

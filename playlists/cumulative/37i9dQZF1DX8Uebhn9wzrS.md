@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,185 songs - 3 day 11 hr 17 min
+2,186 songs - 3 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1753,6 +1753,7 @@
 | [sonic colors](https://open.spotify.com/track/76kN4WGmfKyPGUcpZLNvx2) | [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [sonic colors](https://open.spotify.com/album/5C1vvF0d0KNOWGhsLtSh41) | 2:00 | 2022-05-27 | 2022-11-19 |
 | [Soon Come](https://open.spotify.com/track/2fR3GNfIFHEQLtjD8h9ECY) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Soon Come](https://open.spotify.com/album/0DGJMlRvpk7IJG8c4zMZD7) | 2:33 | 2022-04-15 | 2022-11-12 |
 | [soothing slow](https://open.spotify.com/track/2I1rQ8ULEI4jbh28pz2C4n) | [lo.a.pauly](https://open.spotify.com/artist/24bLJIthLjTIcLO2iw9saJ) | [soothing slow](https://open.spotify.com/album/0c0MZM1KmS06hbIlKNUGnm) | 2:04 | 2023-06-06 | 2024-05-14 |
+| [sophisticated](https://open.spotify.com/track/3rLukSZ1aOLWPtIxfVQxSR) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [sophisticated](https://open.spotify.com/album/4Low9VPtpvCk28jlftYjjw) | 1:40 | 2024-12-20 |  |
 | [soul pattern](https://open.spotify.com/track/2WjFg4N7R6CcGcZUIF1NYT) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [soul pattern](https://open.spotify.com/album/2aH5Phgsjyudh7Ijs8Lfe5) | 2:16 | 2023-08-17 | 2023-10-27 |
 | [Soul Sister](https://open.spotify.com/track/6e13KTREbbwyAoTJVf8N26) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Maria](https://open.spotify.com/album/5T46u2h98CjDlCwgd3D9oW) | 1:22 | 2022-04-15 | 2022-04-22 |
 | [Soul Survivor](https://open.spotify.com/track/4deblxewzKBoFjpg6g78Bs) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Soul Survivor](https://open.spotify.com/album/4J1q7rtmw06g8MHno5fwi0) | 3:01 | 2022-05-27 | 2022-07-01 |
@@ -2124,7 +2125,7 @@
 | [What Matters](https://open.spotify.com/track/2LjUTOfZNTXuNfFZbhEdoA) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [What Matters](https://open.spotify.com/album/5sCxBnzKBpeh7HuiQgPIKz) | 1:54 | 2022-09-16 | 2024-06-20 |
 | [What up robot?](https://open.spotify.com/track/1KWQNyfQxqB9oNjz8qLVyd) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [What up robot?](https://open.spotify.com/album/5xLM06IL0Hc9O86sN5NXo0) | 2:04 | 2023-01-13 |  |
 | [What When Why](https://open.spotify.com/track/0i0Q5eFr909SFwCzvoKWLY) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [What When Why](https://open.spotify.com/album/6lbNaHUgHOKA7jytgTfIB4) | 2:17 | 2022-04-15 | 2023-03-02 |
-| [What's Up](https://open.spotify.com/track/5G5SdyJn3gZi1nv1xFKlgv) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [What's Up](https://open.spotify.com/album/2vu4V8wFYvlEclre1q0t92) | 2:42 | 2022-10-01 |  |
+| [What's Up](https://open.spotify.com/track/5G5SdyJn3gZi1nv1xFKlgv) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [What's Up](https://open.spotify.com/album/2vu4V8wFYvlEclre1q0t92) | 2:42 | 2022-10-01 | 2024-12-27 |
 | [When I Get A Lil' Older](https://open.spotify.com/track/18vC8S9aI8kUMW49pJHdZR) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [I Recognize](https://open.spotify.com/album/0m84fp41o0EaSIf9SInbIo) | 2:31 | 2023-03-24 |  |
 | [When Our Eyes Meet](https://open.spotify.com/track/4A416X9ErbzPCkyuHl8lVZ) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [When Our Eyes Meet](https://open.spotify.com/album/7l7LGXNNY3M65UX5SgS9PV) | 1:27 | 2023-06-06 | 2023-10-06 |
 | [When We Last Spoke](https://open.spotify.com/track/5wAD3nLgZYfx9rq2nwj7ij) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [When We Last Spoke](https://open.spotify.com/album/729l7CLfvcWNkVX1Cm0ZyK) | 1:51 | 2022-04-22 | 2022-11-12 |

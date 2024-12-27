@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Danzo",
-  "num_followers": 132718,
+  "num_followers": 132700,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-12-13 16:53:56",
       "album": {
-        "name": "Replay - Spotify Singles",
-        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 150093,
-      "name": "Replay - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
-    },
-    {
-      "added_at": "2024-12-13 16:53:56",
-      "album": {
         "name": "Ritmia Do Funk",
         "url": "https://open.spotify.com/album/2jQ136UkTZyOI0TJT9q45E"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 156923,
       "name": "Ritmia Do Funk",
       "url": "https://open.spotify.com/track/4VHy9SlOGYP91atYIidFQl"
+    },
+    {
+      "added_at": "2024-12-13 16:53:56",
+      "album": {
+        "name": "Replay - Spotify Singles",
+        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "Replay - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
     },
     {
       "added_at": "2024-12-13 16:53:56",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-12-13 16:53:56",
       "album": {
-        "name": "Sensa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a"
-      },
-      "artists": [
-        {
-          "name": "Tribo da Periferia",
-          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
-        },
-        {
-          "name": "Duckjay",
-          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Sensa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
-    },
-    {
-      "added_at": "2024-12-13 16:53:56",
-      "album": {
         "name": "Cop\u00e3o",
         "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 157850,
       "name": "Cop\u00e3o",
       "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
+    },
+    {
+      "added_at": "2024-12-13 16:53:56",
+      "album": {
+        "name": "Sensa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Duckjay",
+          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Sensa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
     },
     {
       "added_at": "2024-12-13 16:53:56",
@@ -767,30 +767,6 @@
     {
       "added_at": "2024-12-13 16:53:56",
       "album": {
-        "name": "Nois T\u00e1 Pra Cima",
-        "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
-      },
-      "artists": [
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "Nois T\u00e1 Pra Cima",
-      "url": "https://open.spotify.com/track/0wxq6vOidSNO1GyzGtGwt3"
-    },
-    {
-      "added_at": "2024-12-13 16:53:56",
-      "album": {
         "name": "Pr\u00f3ximo Milion\u00e1rio",
         "url": "https://open.spotify.com/album/53cn7NCICzSr2pyYHRu4Gc"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 192379,
       "name": "Pr\u00f3ximo Milion\u00e1rio",
       "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
+    },
+    {
+      "added_at": "2024-12-13 16:53:56",
+      "album": {
+        "name": "Nois T\u00e1 Pra Cima",
+        "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Nois T\u00e1 Pra Cima",
+      "url": "https://open.spotify.com/track/0wxq6vOidSNO1GyzGtGwt3"
     },
     {
       "added_at": "2024-12-13 16:53:56",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-12-13 16:53:56",
       "album": {
-        "name": "BAGD\u00c1",
-        "url": "https://open.spotify.com/album/5jDZIxMARSU7iVOrzPqUGu"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 108648,
-      "name": "BAGD\u00c1",
-      "url": "https://open.spotify.com/track/73bl3vBYytq1W3vJOT3hk5"
-    },
-    {
-      "added_at": "2024-12-13 16:53:56",
-      "album": {
         "name": "Falc\u00e3o do Morro",
         "url": "https://open.spotify.com/album/7dAgNIIV8VVzZFCDSbpnlG"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 244000,
       "name": "Blogueira",
       "url": "https://open.spotify.com/track/5BuFyXTbnTxhR0WlztMjww"
+    },
+    {
+      "added_at": "2024-12-13 16:53:56",
+      "album": {
+        "name": "BAGD\u00c1",
+        "url": "https://open.spotify.com/album/5jDZIxMARSU7iVOrzPqUGu"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 108648,
+      "name": "BAGD\u00c1",
+      "url": "https://open.spotify.com/track/73bl3vBYytq1W3vJOT3hk5"
     },
     {
       "added_at": "2024-12-13 16:53:56",

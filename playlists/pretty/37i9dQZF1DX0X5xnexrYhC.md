@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,610 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,608 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,21 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 62 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 |
 | 63 | [Pink Convertible](https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:41 |
 | 64 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
-| 65 | [Own Worst Enemy](https://open.spotify.com/track/6hOHtSDgThl9APiEWnaPI6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Own Worst Enemy](https://open.spotify.com/album/10yQR0XNy1taL1jRqoNvfN) | 3:00 |
-| 66 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
+| 65 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
+| 66 | [Own Worst Enemy](https://open.spotify.com/track/6hOHtSDgThl9APiEWnaPI6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Own Worst Enemy](https://open.spotify.com/album/10yQR0XNy1taL1jRqoNvfN) | 3:00 |
 | 67 | [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 |
 | 68 | [Hypocrite](https://open.spotify.com/track/4V1P86yQsSLuixD5K8wCbU) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hypocrite](https://open.spotify.com/album/2pkpcOD7miiipAVKr5OyqP) | 2:43 |
 | 69 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |
 | 70 | [internet baby](https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [internet baby](https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc) | 2:37 |
-| 71 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 |
-| 72 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 |
-| 73 | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/track/7ywySoHRFB5U0FbJXYLdiF) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/album/1cREwIhq0OuhuSY7W7o5Di) | 2:51 |
-| 74 | [SUNSHINE STATE OF MIND](https://open.spotify.com/track/58HfnqKt4J6Xi358dYy09D) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [SUNSHINE STATE OF MIND](https://open.spotify.com/album/18KQkCCOj6mxSWlmgPNerN) | 2:53 |
+| 71 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 |
+| 72 | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/track/7ywySoHRFB5U0FbJXYLdiF) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/album/1cREwIhq0OuhuSY7W7o5Di) | 2:51 |
+| 73 | [SUNSHINE STATE OF MIND](https://open.spotify.com/track/58HfnqKt4J6Xi358dYy09D) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [SUNSHINE STATE OF MIND](https://open.spotify.com/album/18KQkCCOj6mxSWlmgPNerN) | 2:53 |
+| 74 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 |
 | 75 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 |
 | 76 | [People disappear here](https://open.spotify.com/track/76gkzHEZKCrHwXqv4JsE1o) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/1p2rkkve941Ic11dfzfrJD) | 4:07 |
-| 77 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
+| 77 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
 | 78 | [Target Practice](https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Target Practice](https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI) | 2:30 |
-| 79 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 |
-| 80 | [Not ur fkn fan](https://open.spotify.com/track/4rgCx716P6hrEL4w6KWMJe) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Not ur fkn fan](https://open.spotify.com/album/78gtm9P5nt1Nw0kOpEfvZd) | 3:17 |
+| 79 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
+| 80 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 |
 
 Snapshot ID: `ZuwuYAAAAAAJOnHiDQ0FiR5clq+scASy`

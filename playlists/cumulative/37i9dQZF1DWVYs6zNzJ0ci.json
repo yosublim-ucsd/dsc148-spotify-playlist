@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 307720,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
@@ -4312,6 +4312,28 @@
       "duration_ms": 266279,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc"
+    },
+    {
+      "album": {
+        "name": "Lowa",
+        "url": "https://open.spotify.com/album/1e1MUH83nO7vrNRF3ABtx1"
+      },
+      "artists": [
+        {
+          "name": "Astronautiko",
+          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
+        },
+        {
+          "name": "Soulnastyy",
+          "url": "https://open.spotify.com/artist/2lRNQ7PhMBHRu7hzP2YSxz"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159963,
+      "name": "Lowa",
+      "url": "https://open.spotify.com/track/37gGnbqD6q9KXt2xnfbvnI"
     },
     {
       "album": {

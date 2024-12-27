@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,042 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,054 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 4 | [Non sono una signora](https://open.spotify.com/track/1zj7vlb9EFZ8NqbSHofkGT) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Traslocando](https://open.spotify.com/album/3OiG985bPYsI0pWrNenI2Z) | 3:29 |
 | 5 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
 | 6 | [Maracaibo](https://open.spotify.com/track/1AsCxLAvSfilIM9ubCf89B) | [Lu Colombo](https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk) | [Aurora](https://open.spotify.com/album/40dxLKkrj0AqkArRXJQb9J) | 3:53 |
-| 7 | [Voglio Vederti Danzare \- Remastered](https://open.spotify.com/track/0Yncd2CxjjlWLrIukzsk2M) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Arca Di Noè \(2008 Remastered Edition\)](https://open.spotify.com/album/2OulSxrNGCvCvz5rX7lUH5) | 3:44 |
-| 8 | [Marina](https://open.spotify.com/track/3pFT1UfjSdKwjIS0tWg7ka) | [Rocco Granata](https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI) | [20 Hits](https://open.spotify.com/album/1uI6WVN1SGvDR29AIijC8m) | 2:46 |
+| 7 | [Marina](https://open.spotify.com/track/3pFT1UfjSdKwjIS0tWg7ka) | [Rocco Granata](https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI) | [20 Hits](https://open.spotify.com/album/1uI6WVN1SGvDR29AIijC8m) | 2:46 |
+| 8 | [Voglio Vederti Danzare \- Remastered](https://open.spotify.com/track/0Yncd2CxjjlWLrIukzsk2M) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Arca Di Noè \(2008 Remastered Edition\)](https://open.spotify.com/album/2OulSxrNGCvCvz5rX7lUH5) | 3:44 |
 | 9 | [Il mondo](https://open.spotify.com/track/1ZCNdktzp1jXQtuQdS0yek) | [Jimmy Fontana](https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz) | [Jimmy Fontana](https://open.spotify.com/album/4sawYnXim24YO7baFpah4y) | 2:47 |
 | 10 | [Fotoromanza](https://open.spotify.com/track/5aqLXmh8SpcmR21finoww3) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Puzzle](https://open.spotify.com/album/55q2ylJP8PZ9XWiIILMImE) | 4:27 |
 | 11 | [Una rotonda sul mare](https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [Italian Classics: Fred Bongusto, Vol\. 1](https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ) | 2:48 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 21 | [Stasera mi butto](https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 1:53 |
 | 22 | [Lisa dagli occhi blu](https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y) | [Mario Tessuto](https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi) | [Il Meglio](https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU) | 3:17 |
 | 23 | [Tu Vuo Fa 'L'Americano \- From "The American" Soundtrack](https://open.spotify.com/track/41mqT9VZCiE4r9Kpga5Frr) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Renato Carosone: Solo Grandi Successi](https://open.spotify.com/album/0WG3ahQQelMxtsjTAW5psE) | 3:28 |
-| 24 | [Donna Felicita'](https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF) | [I Nuovi Angeli](https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX) | [Donna Felicita'](https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5) | 2:07 |
-| 25 | [Poco Sole](https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Caldo](https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk) | 2:15 |
+| 24 | [Poco Sole](https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Caldo](https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk) | 2:15 |
+| 25 | [Donna Felicita'](https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF) | [I Nuovi Angeli](https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX) | [Donna Felicita'](https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5) | 2:07 |
 | 26 | [Se Puoi Uscire Una Domenica Sola Con Me](https://open.spotify.com/track/0IX18Ln5xLonOn4DKXlcMt) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Ritratto Di Gianni](https://open.spotify.com/album/47klfSZp0cH7rvCj9S0qmo) | 2:16 |
 | 27 | [Stessa spiaggia stesso mare](https://open.spotify.com/track/30FSOhZMMbmbBvWHKO1zRH) | [Piero Focaccia](https://open.spotify.com/artist/0lJodOFdgKJsP8TWJlhVjK) | [Stessa spiaggia stesso mare](https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK) | 3:00 |
 | 28 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/5qL9G387FzVFVgV92WU34K) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [Nico Fidenco](https://open.spotify.com/album/3BodpekIovNHAQdlArIVjA) | 2:40 |

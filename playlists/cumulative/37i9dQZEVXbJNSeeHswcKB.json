@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 153099,
       "name": "A Nonsense Christmas",
       "url": "https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q"
@@ -7554,9 +7554,9 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 68760,
-      "name": "Deck The Halls",
+      "name": "Deck The Hall",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
     },
     {
@@ -10016,7 +10016,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -10034,7 +10034,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -12036,10 +12036,28 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 268960,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
+    },
+    {
+      "album": {
+        "name": "A Pentatonix Christmas",
+        "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
     },
     {
       "album": {
@@ -14678,7 +14696,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -14704,7 +14722,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
@@ -14758,7 +14776,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -14776,7 +14794,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 151933,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
@@ -17384,7 +17402,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 213160,
       "name": "Lonely This Christmas",
       "url": "https://open.spotify.com/track/5DMItYJluCFc7YtFdP4aXo"
@@ -20394,6 +20412,14 @@
       },
       "artists": [
         {
+          "name": "Brian Kierulf",
+          "url": "https://open.spotify.com/artist/7xPxbgA4TgMgFHWgYORx47"
+        },
+        {
+          "name": "Josh Schwartz",
+          "url": "https://open.spotify.com/artist/1s36VyXzwA4Q6RC36tcO6q"
+        },
+        {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
@@ -21308,7 +21334,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 320760,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
@@ -24934,6 +24960,10 @@
       },
       "artists": [
         {
+          "name": "J. Fred Coots",
+          "url": "https://open.spotify.com/artist/5IBkss8RwasiJY2sj5qEdM"
+        },
+        {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
@@ -28412,7 +28442,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - 2011 Remaster",
       "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
@@ -28430,7 +28460,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - Non-Album Single",
       "url": "https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck"
@@ -30326,7 +30356,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -30344,7 +30374,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

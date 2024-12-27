@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto:
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,684 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,656 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 7 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
 | 8 | [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 |
 | 9 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
-| 10 | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9) | 2:19 |
-| 11 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 |
+| 10 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 |
+| 11 | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9) | 2:19 |
 | 12 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 13 | [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 |
 | 14 | [Country Mile](https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Country Mile / Picture Of You \(X+W\)](https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk) | 4:58 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 19 | [Living A Lie](https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Living A Lie](https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg) | 4:33 |
 | 20 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
 | 21 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
-| 22 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 |
-| 23 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
+| 22 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
+| 23 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 |
 | 24 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 |
 | 25 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 |
 | 26 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |

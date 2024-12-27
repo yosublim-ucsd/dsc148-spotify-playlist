@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,034 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,988 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 51 | [Old Town Road \- Diplo Remix](https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Old Town Road \(Diplo Remix\)](https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl) | 3:24 |
 | 52 | [Alane](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Wes](https://open.spotify.com/artist/3tXUeiWOSod3mSQ2lOautf) | [Alane](https://open.spotify.com/album/537cgkkJUqMb46JUSNh0n7) | 2:55 |
 | 53 | [Pretty Girl \- Cheat Codes X CADE Remix](https://open.spotify.com/track/39IsH7B5byx8NRlEKlZVg9) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Pretty Girl \(Cheat Codes X CADE Remix\)](https://open.spotify.com/album/6jO7hs4GsF6924w10xQTyA) | 3:13 |
-| 54 | [Stay \(Don't Go Away\) \[feat\. Raye\]](https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Stay \(Don't Go Away\) \[feat\. Raye\]](https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE) | 3:05 |
-| 55 | [Alien](https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien](https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS) | 2:18 |
+| 54 | [Alien](https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien](https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS) | 2:18 |
+| 55 | [Stay \(Don't Go Away\) \[feat\. Raye\]](https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Stay \(Don't Go Away\) \[feat\. Raye\]](https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE) | 3:05 |
 | 56 | [No Drama \(feat\. Craig David\)](https://open.spotify.com/track/6IIOcnq93QAaKeRX1cs16v) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [No Drama \(feat\. Craig David\)](https://open.spotify.com/album/4V6TDhOqvAQwyLOx3Xun8f) | 2:33 |
 | 57 | [We Got That Cool \(feat\. Afrojack & Icona Pop\)](https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [We Got That Cool \(feat\. Afrojack & Icona Pop\)](https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q) | 3:33 |
 | 58 | [Save Me \(feat\. MKLA\)](https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Adam K](https://open.spotify.com/artist/0A8ej3hXTozbQAMhcU8RNb), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Save Me \(feat\. MKLA\)](https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo) | 3:13 |

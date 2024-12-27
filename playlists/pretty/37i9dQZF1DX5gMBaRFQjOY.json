@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 505680,
+  "num_followers": 505941,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Guitar Town",
-        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Guitar Town",
-      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Memorial Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 176893,
       "name": "Hey, Good Lookin'",
       "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 174666,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
       },
       "artists": [
         {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
         }
       ],
-      "duration_ms": 156293,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc"
+      "duration_ms": 168773,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 185239,
       "name": "Guitars, Cadillacs",
       "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "Moanin' The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Connie Smith",
-        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
+        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
+        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
       },
       "artists": [
         {
-          "name": "Connie Smith",
-          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 140120,
-      "name": "Once a Day",
-      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
+      "duration_ms": 160866,
+      "name": "Galveston",
+      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
-        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
+        "name": "Connie Smith",
+        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
       },
       "artists": [
         {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+          "name": "Connie Smith",
+          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
         }
       ],
-      "duration_ms": 160866,
-      "name": "Galveston",
-      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
+      "duration_ms": 140120,
+      "name": "Once a Day",
+      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Streets of Baltimore",
-        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Streets of Baltimore",
-      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Streets of Baltimore",
+        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Streets of Baltimore",
+      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
     },
     {
       "added_at": "2024-07-05 20:27:10",

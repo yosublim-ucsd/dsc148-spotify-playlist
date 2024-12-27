@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-166 songs - 9 hr 11 min
+167 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 | 2023-12-01 | 2024-06-08 |
 | [Bajo la Lluvia 雨曝](https://open.spotify.com/track/6Dhfh7KXJeFd8CgXRXSxo9) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL), [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [A.B.R.E.](https://open.spotify.com/artist/3the51I9ttPNpimr44pxCv) | [Bajo la Lluvia 雨曝](https://open.spotify.com/album/0Iyw9dVFeyy2BPgRzMpb0P) | 4:07 | 2024-04-12 |  |
 | [Bandido \- En Vivo](https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [En Vivo en el Gran Rex](https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn) | 4:24 | 2023-12-01 |  |
-| [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 | 2024-09-20 |  |
+| [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 | 2024-09-20 | 2024-12-27 |
 | [Canción Para Que Vuelvas](https://open.spotify.com/track/5pv3V5KpSLDcbzP9Q9QvlH) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 3:35 | 2023-12-01 | 2024-04-19 |
 | [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 | 2023-12-01 | 2024-04-19 |
 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 | 2024-06-07 |  |
@@ -145,6 +145,7 @@
 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 | 2023-12-01 | 2024-04-19 |
 | [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 | 2023-12-01 |  |
 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 | 2023-12-01 |  |
+| [Soy un volcán](https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:49 | 2024-09-20 |  |
 | [Supersticiones](https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 3:08 | 2023-12-01 | 2024-04-19 |
 | [SUR](https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [SUR](https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO) | 3:28 | 2023-12-07 |  |
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2023-12-01 |  |

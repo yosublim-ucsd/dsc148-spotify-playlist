@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 61791,
+  "num_followers": 61813,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2Qp1QAAAADKjZa4n7j9TIhktR8VkDuk",
+  "snapshot_id": "Z20GUwAAAADqa+2BXQopJh9NLmoEBcJP",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -101,6 +101,50 @@
       "url": "https://open.spotify.com/track/1atyCS9tVBzQKmzwx5Xf7r"
     },
     {
+      "added_at": "2024-12-26 06:49:37",
+      "album": {
+        "name": "Barroz (Kannada) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/3S3y7Z4VA16txugPofzqVN"
+      },
+      "artists": [
+        {
+          "name": "Lydian Nadhaswaram",
+          "url": "https://open.spotify.com/artist/730O8ypsgRAy0fDcOf5HiI"
+        },
+        {
+          "name": "Spoorthi Rao",
+          "url": "https://open.spotify.com/artist/1IsbnYwJ3Y6hoR2Ct1rqT6"
+        },
+        {
+          "name": "Ajay Murugan",
+          "url": "https://open.spotify.com/artist/2rWVSQK8QLmtTc3FwgFfpB"
+        }
+      ],
+      "duration_ms": 264525,
+      "name": "Manave",
+      "url": "https://open.spotify.com/track/27zhc8XjnO8220qnlaAuzd"
+    },
+    {
+      "added_at": "2024-12-26 07:31:31",
+      "album": {
+        "name": "Marco (Kannada) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/7mUmwB2dkuEq6xQk6jK4Hh"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        }
+      ],
+      "duration_ms": 209767,
+      "name": "Blood - Kannada",
+      "url": "https://open.spotify.com/track/3VrpUwrImzTTXrQXTz47Em"
+    },
+    {
       "added_at": "2024-12-06 13:04:45",
       "album": {
         "name": "Pushpa 2 The Rule [KANNADA]",
@@ -125,6 +169,26 @@
       "url": "https://open.spotify.com/track/7HuAtT2MYFT8WgcHot44x2"
     },
     {
+      "added_at": "2024-12-26 07:31:31",
+      "album": {
+        "name": "Marco (Kannada) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/7mUmwB2dkuEq6xQk6jK4Hh"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Family Man - Kannada",
+      "url": "https://open.spotify.com/track/346xbZLQZt40jhG41yqdLy"
+    },
+    {
       "added_at": "2024-12-19 14:12:37",
       "album": {
         "name": "Ee Bhava Lokada From Daskath",
@@ -143,6 +207,34 @@
       "duration_ms": 237853,
       "name": "Ee Bhava Lokada ( From \"Daskath\")",
       "url": "https://open.spotify.com/track/2fEk33SpIqT3baLJHxDTQP"
+    },
+    {
+      "added_at": "2024-12-26 07:29:54",
+      "album": {
+        "name": "Hot'tu Mamma (From \"Max\") (Kannada)",
+        "url": "https://open.spotify.com/album/7k9Nvpd4REpRzneB063WSC"
+      },
+      "artists": [
+        {
+          "name": "B.Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Anup Bhandari",
+          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
+        }
+      ],
+      "duration_ms": 183010,
+      "name": "Hot'tu Mamma (From \"Max\") (Kannada)",
+      "url": "https://open.spotify.com/track/5NFOr88kY2Ts7cvEYCDdCJ"
     },
     {
       "added_at": "2024-12-19 14:10:11",
@@ -1349,34 +1441,6 @@
       "url": "https://open.spotify.com/track/4eUjuiWAWWOfXgF5bAuLHF"
     },
     {
-      "added_at": "2024-11-12 10:08:46",
-      "album": {
-        "name": "Cinema Maklu (From \"Shivamma\")",
-        "url": "https://open.spotify.com/album/5dilp0mV213c04QEIpzc0h"
-      },
-      "artists": [
-        {
-          "name": "Nachiketa Sharma Miganakallu",
-          "url": "https://open.spotify.com/artist/0YOmPeFkxSLO1Nk25k9N83"
-        },
-        {
-          "name": "Jayalaxmi Patil",
-          "url": "https://open.spotify.com/artist/5Bqvmdf1toH9XTWvSf37m3"
-        },
-        {
-          "name": "Jaishankar Aryar",
-          "url": "https://open.spotify.com/artist/4liUBmdq2pWKVc0dxHmxex"
-        },
-        {
-          "name": "Sangeetha Katti",
-          "url": "https://open.spotify.com/artist/20K7c4KKuOy98zaujRNNTg"
-        }
-      ],
-      "duration_ms": 269250,
-      "name": "Cinema Maklu (From \"Shivamma\")",
-      "url": "https://open.spotify.com/track/1m1vU0OP8NPYDGtm9Sju7v"
-    },
-    {
       "added_at": "2024-11-08 13:16:35",
       "album": {
         "name": "Lay Lay Raja (From \"Matka\")(Kannada)",
@@ -1495,54 +1559,6 @@
       "duration_ms": 229833,
       "name": "Hey Kogile (From \"Amaran\") (Kannada)",
       "url": "https://open.spotify.com/track/3WzVXPoetY8w66xB65TONb"
-    },
-    {
-      "added_at": "2024-11-07 06:06:25",
-      "album": {
-        "name": "Ayyo Vidhiye (From \"Vidyapati\")",
-        "url": "https://open.spotify.com/album/5AKr7PbC8tmDPZa214hCZR"
-      },
-      "artists": [
-        {
-          "name": "Dossmode",
-          "url": "https://open.spotify.com/artist/1A7mR5Rc1i25LIVp8hIz4b"
-        },
-        {
-          "name": "Sujith Venkataramaiah",
-          "url": "https://open.spotify.com/artist/3sij73GdkjT4pjSWZYj1im"
-        },
-        {
-          "name": "Jaggesh",
-          "url": "https://open.spotify.com/artist/2Odsd3tl5yDSnx8OlwuJln"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Ayyo Vidhiye (From \"Vidyapati\")",
-      "url": "https://open.spotify.com/track/1emZxIsnIDAfLzFEZOFE3s"
-    },
-    {
-      "added_at": "2024-11-07 05:55:11",
-      "album": {
-        "name": "Mouna (From \"Murphy\")",
-        "url": "https://open.spotify.com/album/3lkqA1UicYcaIMploPhAJC"
-      },
-      "artists": [
-        {
-          "name": "Sylvester Pradeep",
-          "url": "https://open.spotify.com/artist/63tZCDAGDGWQKfdZ0p3bL1"
-        },
-        {
-          "name": "Rajat Hegde",
-          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
-        },
-        {
-          "name": "Sampath Sirimane",
-          "url": "https://open.spotify.com/artist/3KqlTzfRlVTLdHdmG21OT4"
-        }
-      ],
-      "duration_ms": 200717,
-      "name": "Mouna (From \"Murphy\")",
-      "url": "https://open.spotify.com/track/4e4zz3JuIlZ54kHd2zo6vM"
     },
     {
       "added_at": "2024-11-07 06:05:00",
@@ -1671,30 +1687,6 @@
       "duration_ms": 216576,
       "name": "Naa Ninage Nee Nanage (From \"Maryade Prashne\")",
       "url": "https://open.spotify.com/track/0srfoWA48TRiEriW9aQWDQ"
-    },
-    {
-      "added_at": "2024-11-05 12:48:32",
-      "album": {
-        "name": "Azadi (From \"Amaran\") (Kannada)",
-        "url": "https://open.spotify.com/album/6ystt1HeVJSirgAjg07ked"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Anand Sreeraj",
-          "url": "https://open.spotify.com/artist/76pQbKPAh3W3KuXfBmmgNB"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "Azadi (From \"Amaran\") (Kannada)",
-      "url": "https://open.spotify.com/track/6jQwYTAxQkOmy6U0RtTUSP"
     },
     {
       "added_at": "2024-11-04 11:20:42",

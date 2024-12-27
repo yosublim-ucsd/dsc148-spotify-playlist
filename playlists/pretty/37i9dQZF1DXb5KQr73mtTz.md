@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,022 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,029 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 40 | [Dumb \(Feat\. Kim Seungmin, Chan\)](https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Can I Not ?](https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R) | 3:27 |
 | 41 | [The Walking Dead \(Feat\. Kim Feel\)](https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 |
 | 42 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
-| 43 | [Dimly](https://open.spotify.com/track/1Pnek7frHF95HQewENySXW) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Bloody Heart, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es) | 3:32 |
-| 44 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 |
-| 45 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 |
-| 46 | [True Song](https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [True Song](https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ) | 4:30 |
+| 43 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 |
+| 44 | [Dimly](https://open.spotify.com/track/1Pnek7frHF95HQewENySXW) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Bloody Heart, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es) | 3:32 |
+| 45 | [True Song](https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [True Song](https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ) | 4:30 |
+| 46 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 |
 | 47 | [Letter](https://open.spotify.com/track/1JFymIwM3Hc9cKHxP2BCBl) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Letter](https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb) | 3:33 |
 | 48 | [Judgement](https://open.spotify.com/track/0h2wpEhVr4J2BRHSlwjW9O) | [Young Oh](https://open.spotify.com/artist/0wjTtJZJrYSfvxoRvLN1Q0), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Judgement](https://open.spotify.com/album/4WY3C8BcaHKYV2EkRwtXJn) | 4:21 |
 | 49 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 |

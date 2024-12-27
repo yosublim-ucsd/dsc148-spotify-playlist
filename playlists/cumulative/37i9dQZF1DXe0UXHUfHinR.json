@@ -4722,7 +4722,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 322133,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
@@ -6912,7 +6912,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 401960,
       "name": "James",
       "url": "https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO"
@@ -7176,6 +7176,24 @@
       "duration_ms": 1561600,
       "name": "K\u00f6ln, January 24, 1975, Pt. I - Live",
       "url": "https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae"
+    },
+    {
+      "album": {
+        "name": "The K\u00f6ln Concert",
+        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 894733,
+      "name": "K\u00f6ln, January 24, 1975, Pt. II A - Live",
+      "url": "https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c"
     },
     {
       "album": {
@@ -10044,7 +10062,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 550493,
       "name": "Questar",
       "url": "https://open.spotify.com/track/1ChYuSIoOFDVY6fHSXF6zS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento antigüito de los boleros te envuelva con amor y nostalgia 💖🎵🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,449 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,451 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 17 | [Jacarandá](https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:56 |
 | 18 | [Mi Manera De Amar](https://open.spotify.com/track/7r3CWSubGaeClb29ysf54a) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Selecao De Ouro Vol.2](https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX) | 4:11 |
 | 19 | [Esta Tarde Vi Llover](https://open.spotify.com/track/7K1wswXrFRcR0I7EcpDSsM) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:38 |
-| 20 | [Nostalgia](https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [El Sentimiento del Latino En Nueva York](https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv) | 5:40 |
-| 21 | [Triunfamos](https://open.spotify.com/track/00FbrAzIR77LQOwe0r0uL5) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [La Absoluta Colección](https://open.spotify.com/album/4T8MOQQIuICQ3Q7VF0JFB7) | 2:13 |
+| 20 | [Triunfamos](https://open.spotify.com/track/00FbrAzIR77LQOwe0r0uL5) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [La Absoluta Colección](https://open.spotify.com/album/4T8MOQQIuICQ3Q7VF0JFB7) | 2:13 |
+| 21 | [Nostalgia](https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [El Sentimiento del Latino En Nueva York](https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv) | 5:40 |
 | 22 | [Usted](https://open.spotify.com/track/1Wt3vmlSvvdyjeizfXsyrg) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Usted](https://open.spotify.com/album/7fTMdHlOrYglm01YcdOMig) | 3:16 |
 | 23 | [Cancionero](https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [15 Exitos De Alvaro Carillo Con Sus Mejors](https://open.spotify.com/album/5vJB4gDDskT2hKKfsKbcNr) | 2:06 |
 | 24 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 36 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
 | 37 | [Sombras Nada Más](https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:39 |
 | 38 | [Aunque Me Cueste la Vida](https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Aunque Me Cueste la Vida](https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2) | 2:58 |
-| 39 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 |
-| 40 | [Flores Negras \- Fichas Negras](https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A) | [La Billo](https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR), [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Las 2 Grandes Orquestas de Venezuela](https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0) | 4:07 |
+| 39 | [Flores Negras \- Fichas Negras](https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A) | [La Billo](https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR), [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Las 2 Grandes Orquestas de Venezuela](https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0) | 4:07 |
+| 40 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 |
 | 41 | [Ven aca \(Bolero\)](https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 3:00 |
 | 42 | [En la Palma de la Mano](https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:58 |
 | 43 | [Como un Lunar](https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 3:09 |

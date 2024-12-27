@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,020 likes - 51 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,021 likes - 51 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 37 | [Eu Me Rendo \- Acústico](https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:38 |
 | 38 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
 | 39 | [Tu És Rei](https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu És Rei](https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7) | 7:01 |
-| 40 | [Your Waters](https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Your Waters](https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz) | 5:08 |
+| 40 | [O Meu Pai É Bom \- Ao Vivo](https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O Meu Pai É Bom \(Ao Vivo\)](https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5) | 8:52 |
 | 41 | [Bondade de Deus \(Goodness of God\) \- Acústico](https://open.spotify.com/track/1ajhbZJPOVo337IV5XHRDd) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:03 |
-| 42 | [O Meu Pai É Bom \- Ao Vivo](https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O Meu Pai É Bom \(Ao Vivo\)](https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5) | 8:52 |
+| 42 | [Your Waters](https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Your Waters](https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz) | 5:08 |
 | 43 | [Fome e Sede](https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Fome e Sede](https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq) | 6:01 |
 | 44 | [Sou Humano \(Ao Vivo\)](https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bruna Karla \- Louvorzão 2022 \(Ao Vivo\)](https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S) | 5:30 |
 | 45 | [Essência Da Adoração \- Ao Vivo](https://open.spotify.com/track/5zKbPk3SYmPAGM0yxoIo1C) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Essência Da Adoração \(Ao Vivo\)](https://open.spotify.com/album/4eHRqZGfau4CfUQ7oWF6t3) | 5:17 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 50 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Risen Savior \(Sing My Soul\) \[Live\]](https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf) | 7:29 |
 | 51 | [Lindo Jesus](https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Testemunho](https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz) | 4:41 |
 
-Snapshot ID: `Z2n5gAAAAAAIkq1wy5bfgPxe/oPnMtzg`
+Snapshot ID: `Z2tLAAAAAAApQEO/0nBR4Ufw+Xe3vPHC`

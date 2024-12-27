@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36125,
+  "num_followers": 36128,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAACIrWpq1UXyPuhRklnfibDx",
+  "snapshot_id": "Z2tLAAAAAABIdb481LEqF6MOPqmFH2JT",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 329973,
+      "name": "Ngizilalhlela Kuwe",
+      "url": "https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Too Late For Mama",
+      "url": "https://open.spotify.com/track/5HQ1TGuNCF13mtH2HF39w0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Republik",
         "url": "https://open.spotify.com/album/7Bv6Vg8y1Cwl7b9TV1xSqQ"
       },
@@ -219,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
       },
       "artists": [
         {
@@ -228,9 +260,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Too Late For Mama",
-      "url": "https://open.spotify.com/track/5HQ1TGuNCF13mtH2HF39w0"
+      "duration_ms": 241973,
+      "name": "Hara Lebitla",
+      "url": "https://open.spotify.com/track/1KrgwYPtJTmQX9rxVqJZFa"
     },
     {
       "added_at": null,
@@ -244,25 +276,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 329973,
-      "name": "Ngizilalhlela Kuwe",
-      "url": "https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 210697,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L"
+      "duration_ms": 300013,
+      "name": "Ngwanona",
+      "url": "https://open.spotify.com/track/1FSZuMu3FlBjVqyqtoDA3e"
     },
     {
       "added_at": null,
@@ -299,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 300013,
-      "name": "Ngwanona",
-      "url": "https://open.spotify.com/track/1FSZuMu3FlBjVqyqtoDA3e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malibongwe",
         "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
       },
@@ -324,9 +324,25 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 241973,
-      "name": "Hara Lebitla",
-      "url": "https://open.spotify.com/track/1KrgwYPtJTmQX9rxVqJZFa"
+      "duration_ms": 210697,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 321253,
+      "name": "Ponci Ponci (Pontjie Pontjie)",
+      "url": "https://open.spotify.com/track/49SjeHQevHY5zP1cqqxi9t"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 321253,
-      "name": "Ponci Ponci (Pontjie Pontjie)",
-      "url": "https://open.spotify.com/track/49SjeHQevHY5zP1cqqxi9t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ag Shame Lovey",
         "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "Vuma",
-      "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amadlozi",
         "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 277680,
       "name": "Nakupenda (I Love You)",
       "url": "https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "Vuma",
+      "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 294746,
-      "name": "Monate",
-      "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
+      "duration_ms": 306933,
+      "name": "Mali",
+      "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 306933,
-      "name": "Mali",
-      "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
+      "duration_ms": 294746,
+      "name": "Monate",
+      "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey",
-        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 321960,
-      "name": "Ag Shame Lovey",
-      "url": "https://open.spotify.com/track/0bkWZRgB7snn6T54Y1mexg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 355066,
       "name": "Ntsware - Ndibambe",
       "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ag Shame Lovey",
+        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 321960,
+      "name": "Ag Shame Lovey",
+      "url": "https://open.spotify.com/track/0bkWZRgB7snn6T54Y1mexg"
     },
     {
       "added_at": null,
@@ -743,18 +743,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey",
-        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
+        "name": "Soon And Very Soon",
+        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
       "artists": [
+        {
+          "name": "Children Of God",
+          "url": "https://open.spotify.com/artist/7M649YaEUgAnKaIW48vbcZ"
+        },
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
+        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 348893,
-      "name": "The Lord Is My Shepherd",
-      "url": "https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE"
+      "duration_ms": 236560,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/1uqXE6k9BlpdWHBnnoxiSg"
     },
     {
       "added_at": null,
@@ -811,26 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soon And Very Soon",
-        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
+        "name": "Ag Shame Lovey",
+        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
       },
       "artists": [
-        {
-          "name": "Children Of God",
-          "url": "https://open.spotify.com/artist/7M649YaEUgAnKaIW48vbcZ"
-        },
-        {
-          "name": "Chicco",
-          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
-        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 236560,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/1uqXE6k9BlpdWHBnnoxiSg"
+      "duration_ms": 348893,
+      "name": "The Lord Is My Shepherd",
+      "url": "https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE"
     },
     {
       "added_at": null,

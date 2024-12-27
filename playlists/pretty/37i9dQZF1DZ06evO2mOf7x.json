@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44730,
+  "num_followers": 44733,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAACZj16Ug0U0WqNFzAKDoXaV",
+  "snapshot_id": "Z2tLAAAAAABlEf2CVrNPEHzmP67LVNZ0",
   "tracks": [
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 281440,
+      "name": "Capullo Y Sorullo",
+      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Besos No Se Dan En La Camisa",
         "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 175285,
       "name": "Gente Gacha",
       "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 281440,
-      "name": "Capullo Y Sorullo",
-      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 228436,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vozes",
         "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 213173,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 228436,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
     },
     {
       "added_at": null,

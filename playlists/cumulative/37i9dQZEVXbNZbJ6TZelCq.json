@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 213135,
       "name": "112 Arabii",
       "url": "https://open.spotify.com/track/6ryYkPaIuqPcnlWwJrdMBN"
@@ -1069,6 +1069,40 @@
     },
     {
       "album": {
+        "name": "Accesorii",
+        "url": "https://open.spotify.com/album/51laDnQCav1QIv9tkGdHIo"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        },
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "candyboii",
+          "url": "https://open.spotify.com/artist/3E7XNzGG6qqnjwV9nOCxQM"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Accesorii",
+      "url": "https://open.spotify.com/track/5jQJJ6zqnjlls6jpSZ89S4"
+    },
+    {
+      "album": {
         "name": "NOTSOZEN",
         "url": "https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK"
       },
@@ -1150,7 +1184,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 140160,
       "name": "Afar\u0103 Ninge Lini\u015ftit",
       "url": "https://open.spotify.com/track/1e9213HmxfiBf3ZEmCd1dU"
@@ -1898,7 +1932,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 147477,
       "name": "Amo, Amo",
       "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
@@ -1920,7 +1954,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
@@ -2392,7 +2426,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 144927,
       "name": "Artileria",
       "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
@@ -3932,7 +3966,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 156750,
       "name": "BETO DANCE",
       "url": "https://open.spotify.com/track/3U2UZLISDB6TjZyOQbASIg"
@@ -5994,7 +6028,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -7126,7 +7160,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 189240,
       "name": "Colindam, Colindam",
       "url": "https://open.spotify.com/track/6jinEAvpeFUuXTQLVwb9mN"
@@ -11436,7 +11470,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -11454,7 +11488,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -13194,7 +13228,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -13758,6 +13792,28 @@
       "duration_ms": 141745,
       "name": "Greu de Ucis",
       "url": "https://open.spotify.com/track/0A5Rg866S2d9CIz5s4KzvL"
+    },
+    {
+      "album": {
+        "name": "Grinch",
+        "url": "https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Grinch",
+      "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
     },
     {
       "album": {
@@ -15918,7 +15974,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Ia-ma Du-ma",
       "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
@@ -16734,7 +16790,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -16752,7 +16808,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -16770,7 +16826,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 151933,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
@@ -18460,7 +18516,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 155586,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/0SUKNXEqZnRw7g0NO139FM"
@@ -21298,7 +21354,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
@@ -27830,7 +27886,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 204445,
       "name": "Romeo si Julieta",
       "url": "https://open.spotify.com/track/7MMsotK7YIHmWfgmKdcivz"
@@ -29092,7 +29148,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 290666,
       "name": "Seara Lui Cr\u0103ciun",
       "url": "https://open.spotify.com/track/1R7OXAl0QaUoHiA1gzY81P"
@@ -30696,7 +30752,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 173437,
       "name": "Sper Ca Esti Bine",
       "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
@@ -33322,7 +33378,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -35242,7 +35298,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -35260,7 +35316,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -35860,7 +35916,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 117600,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/6nanWWO9YYAShPnUbC6vQ0"
@@ -37976,7 +38032,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 240387,
       "name": "Ziurel De Ziurel",
       "url": "https://open.spotify.com/track/4EAvT2DHwQacImmPe6gf5R"
@@ -38298,7 +38354,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 150361,
       "name": "\u021aine-te bine",
       "url": "https://open.spotify.com/track/5p93LIjxyKzAvwaPXAb3iI"

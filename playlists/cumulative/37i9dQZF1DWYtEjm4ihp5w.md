@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Pause f l'cover dyal akbar playlist dial rap f l'maghrib.
+> Tagne f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-339 songs - 18 hr 9 min
+341 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Dokhana](https://open.spotify.com/track/5Yd23nlQjtvyceg2u2BnxQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 2:52 | 2024-06-27 | 2024-07-19 |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 | 2023-06-09 |
 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 | 2024-06-03 |  |
+| [Dracula](https://open.spotify.com/track/1AEJ2p9KDQQZE2cJP4HF4N) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:16 | 2024-12-26 |  |
 | [Drari](https://open.spotify.com/track/3E0tyueJ8RwaR9787Iucqc) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Drari](https://open.spotify.com/album/5H2BQ6JJTu07btoGKRiISX) | 3:12 | 2024-06-14 | 2024-09-25 |
 | [Drouba](https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Drouba](https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM) | 2:56 | 2023-07-11 | 2023-11-24 |
 | [El barrio](https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:28 | 2023-01-06 | 2023-06-23 |
@@ -202,6 +203,7 @@
 | [Molotov](https://open.spotify.com/track/6HJPnvA2dmuViqGx0bSxI0) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RECTOVERSO](https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9) | 3:33 | 2024-07-12 | 2024-08-02 |
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-04-29 | 2023-05-13 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-09 | 2023-05-08 |
+| [Moon](https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:00 | 2024-12-26 |  |
 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 | 2022-11-14 | 2023-06-14 |
 | [Moulaga](https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Moulaga](https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt) | 2:52 | 2022-11-14 | 2023-12-08 |
 | [MTV CRIBS](https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [MTV CRIBS](https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi) | 3:44 | 2024-02-16 | 2024-10-23 |

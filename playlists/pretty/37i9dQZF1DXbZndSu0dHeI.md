@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Have the loveliest little day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,918 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,928 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 64 | [Shakes](https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Shakes](https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR) | 3:14 |
 | 65 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
 | 66 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
-| 67 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
-| 68 | [Heart Is A Drum](https://open.spotify.com/track/573nT62vtbezncIwCfxIm7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:31 |
+| 67 | [Heart Is A Drum](https://open.spotify.com/track/573nT62vtbezncIwCfxIm7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:31 |
+| 68 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 69 | [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 |
 | 70 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 |
 | 71 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 78 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
 | 79 | [How Beautiful Life Can Be \- Single Version](https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z) | 2:30 |
 | 80 | [Someday](https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Someday](https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG) | 4:22 |
-| 81 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
-| 82 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
+| 81 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
+| 82 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
 | 83 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 84 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
 | 85 | [Jessie's House](https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Jessie's House](https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH) | 3:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain]
 
 > Big rock tracks from 2018\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,552 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,597 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain]
 | 33 | [Body Talks](https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [YOUNG&DANGEROUS](https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g) | 2:58 |
 | 34 | [Guiding Light](https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 3:37 |
 | 35 | [Are You Ready](https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 4:21 |
-| 36 | [I Hope You're Happy](https://open.spotify.com/track/2YJNoQKf1MPwlInwFPw28P) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [I Hope You're Happy](https://open.spotify.com/album/7J16CoUqYghD05b9cc4kZ9) | 3:52 |
-| 37 | [Despicable](https://open.spotify.com/track/5IPT4Noqvo7bsfbWUOHcG4) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:43 |
+| 36 | [Despicable](https://open.spotify.com/track/5IPT4Noqvo7bsfbWUOHcG4) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:43 |
+| 37 | [I Hope You're Happy](https://open.spotify.com/track/2YJNoQKf1MPwlInwFPw28P) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [I Hope You're Happy](https://open.spotify.com/album/7J16CoUqYghD05b9cc4kZ9) | 3:52 |
 | 38 | [The Hype](https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 4:25 |
 | 39 | [Heat of the Summer](https://open.spotify.com/track/649o53ULWYN1y7V2OI5kgo) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:31 |
 | 40 | [Dangerous Night](https://open.spotify.com/track/7793p4ZXhtbW5RpeRK7rid) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:19 |

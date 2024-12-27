@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1354057,
+  "num_followers": 1354213,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Lazaretto",
+        "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 230373,
+      "name": "High Ball Stepper",
+      "url": "https://open.spotify.com/track/4YmSnlzkU5sF4X7aAiXAuY"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 204121,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Lazaretto",
-        "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 230373,
-      "name": "High Ball Stepper",
-      "url": "https://open.spotify.com/track/4YmSnlzkU5sF4X7aAiXAuY"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "GREAT NIGHT (feat. Shovels & Rope)",
-        "url": "https://open.spotify.com/album/0DzSbOJZt5KxkQnTolpYgA"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "GREAT NIGHT (feat. Shovels & Rope)",
-      "url": "https://open.spotify.com/track/53xIMpFKswj3mqbPuiFJC0"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 273954,
       "name": "High and Lonesome",
       "url": "https://open.spotify.com/track/4zDNTiMEuHCIzodoJQ2Sie"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "GREAT NIGHT (feat. Shovels & Rope)",
+        "url": "https://open.spotify.com/album/0DzSbOJZt5KxkQnTolpYgA"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "GREAT NIGHT (feat. Shovels & Rope)",
+      "url": "https://open.spotify.com/track/53xIMpFKswj3mqbPuiFJC0"
     },
     {
       "added_at": "2024-08-23 15:39:31",

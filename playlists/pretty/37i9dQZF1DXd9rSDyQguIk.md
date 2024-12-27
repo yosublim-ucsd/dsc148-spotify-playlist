@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 
 > Nothing but classic blues\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,965,950 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,966,331 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 13 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
 | 14 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
 | 15 | [Be Careful With a Fool](https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 5:14 |
-| 16 | [Love Struck Baby](https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 2:21 |
-| 17 | [Bring It On Home](https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:36 |
+| 16 | [Bring It On Home](https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:36 |
+| 17 | [Love Struck Baby](https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 2:21 |
 | 18 | [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [Sam Maghett](https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 |
 | 19 | [Have You Ever Loved A Woman?](https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 6:52 |
 | 20 | [Scratch My Back](https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:52 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 40 | [Mojo Hand](https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 2:59 |
 | 41 | [Part Time Love](https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [This Is Clarence Carter](https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx) | 2:41 |
 | 42 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
-| 43 | [I Can't Quit You Baby](https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 6:39 |
-| 44 | [Walking By Myself](https://open.spotify.com/track/36ccrof5DFicLrejE4hEye) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:47 |
+| 43 | [Walking By Myself](https://open.spotify.com/track/36ccrof5DFicLrejE4hEye) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:47 |
+| 44 | [I Can't Quit You Baby](https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 6:39 |
 | 45 | [I'm A Woman](https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [The Earthshaker](https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq) | 4:34 |
 | 46 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 |
 | 47 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Bonus Track Version\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 |

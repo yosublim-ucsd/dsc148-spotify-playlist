@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3067\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Best & new rock anthems for anime fans. Cover: LiSA",
-  "num_followers": 47867,
+  "num_followers": 47876,
   "original_name": "Anime Rocks",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-10-25 19:19:08",
       "album": {
+        "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
+        "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
+      "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "added_at": "2024-10-25 19:19:08",
+      "album": {
         "name": "\u7d46\u30ce\u5947\u8de1",
         "url": "https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 223320,
       "name": "\u7d46\u30ce\u5947\u8de1",
       "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"
-    },
-    {
-      "added_at": "2024-10-25 19:19:08",
-      "album": {
-        "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
-        "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
-      "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
     },
     {
       "added_at": "2024-10-25 19:19:08",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-25 19:19:08",
       "album": {
-        "name": "\u904b\u547d",
-        "url": "https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e"
-      },
-      "artists": [
-        {
-          "name": "sumika",
-          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "\u904b\u547d",
-      "url": "https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq"
-    },
-    {
-      "added_at": "2024-10-25 19:19:08",
-      "album": {
         "name": "THE GREATEST UNKNOWN",
         "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 234733,
       "name": "BOY",
       "url": "https://open.spotify.com/track/4UShpOJdauir54vMuaFLEV"
+    },
+    {
+      "added_at": "2024-10-25 19:19:08",
+      "album": {
+        "name": "\u904b\u547d",
+        "url": "https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e"
+      },
+      "artists": [
+        {
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "\u904b\u547d",
+      "url": "https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq"
     }
   ],
   "unique_name": "Anime Rocks",

@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 4778,
+  "num_followers": 4789,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-12-19 23:59:17",
       "album": {
-        "name": "Jiangalie",
-        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
-      },
-      "artists": [
-        {
-          "name": "Nay Wa Mitego",
-          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 229944,
-      "name": "Jiangalie",
-      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
-    },
-    {
-      "added_at": "2024-12-19 23:59:17",
-      "album": {
         "name": "Sina",
         "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 298358,
       "name": "Sina",
       "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+    },
+    {
+      "added_at": "2024-12-19 23:59:17",
+      "album": {
+        "name": "Jiangalie",
+        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
+      },
+      "artists": [
+        {
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 229944,
+      "name": "Jiangalie",
+      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
     },
     {
       "added_at": "2024-12-19 23:59:17",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-12-19 23:59:17",
       "album": {
-        "name": "Singeli Ya Maajabu",
-        "url": "https://open.spotify.com/album/4J3s9s0ZCieNsS37YPuy8D"
-      },
-      "artists": [
-        {
-          "name": "Sisso",
-          "url": "https://open.spotify.com/artist/6BWyGUePvj6U4znsi9P5Nt"
-        },
-        {
-          "name": "Maiko",
-          "url": "https://open.spotify.com/artist/07VyN42j1CZDe8qkBhEkMT"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "Rusha",
-      "url": "https://open.spotify.com/track/58d1RcAy8PTw4KiI0nejU9"
-    },
-    {
-      "added_at": "2024-12-19 23:59:17",
-      "album": {
         "name": "Maisha Yetu Usela",
         "url": "https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 325666,
       "name": "Maisha Yetu Usela",
       "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
+    },
+    {
+      "added_at": "2024-12-19 23:59:17",
+      "album": {
+        "name": "Singeli Ya Maajabu",
+        "url": "https://open.spotify.com/album/4J3s9s0ZCieNsS37YPuy8D"
+      },
+      "artists": [
+        {
+          "name": "Sisso",
+          "url": "https://open.spotify.com/artist/6BWyGUePvj6U4znsi9P5Nt"
+        },
+        {
+          "name": "Maiko",
+          "url": "https://open.spotify.com/artist/07VyN42j1CZDe8qkBhEkMT"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "Rusha",
+      "url": "https://open.spotify.com/track/58d1RcAy8PTw4KiI0nejU9"
     },
     {
       "added_at": "2024-12-19 23:59:17",
@@ -1083,22 +1083,22 @@
     {
       "added_at": "2024-12-19 23:59:17",
       "album": {
-        "name": "Kwanini",
-        "url": "https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA"
+        "name": "Kua Uone",
+        "url": "https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs"
       },
       "artists": [
         {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
         },
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+          "name": "Easy Man",
+          "url": "https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt"
         }
       ],
-      "duration_ms": 275680,
-      "name": "Kwanini",
-      "url": "https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc"
+      "duration_ms": 291980,
+      "name": "Kua Uone",
+      "url": "https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd"
     },
     {
       "added_at": "2024-12-19 23:59:17",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2024-12-19 23:59:17",
       "album": {
-        "name": "Kua Uone",
-        "url": "https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs"
+        "name": "Kwanini",
+        "url": "https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA"
       },
       "artists": [
         {
-          "name": "Beka Flavour",
-          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
         },
         {
-          "name": "Easy Man",
-          "url": "https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt"
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
         }
       ],
-      "duration_ms": 291980,
-      "name": "Kua Uone",
-      "url": "https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd"
+      "duration_ms": 275680,
+      "name": "Kwanini",
+      "url": "https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc"
     },
     {
       "added_at": "2024-12-19 23:59:17",

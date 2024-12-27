@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20020,
+  "num_followers": 20021,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAAIkq1wy5bfgPxe/oPnMtzg",
+  "snapshot_id": "Z2tLAAAAAAApQEO/0nBR4Ufw+Xe3vPHC",
   "tracks": [
     {
       "added_at": null,
@@ -747,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Waters",
-        "url": "https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz"
+        "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
       },
       "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 308733,
-      "name": "Your Waters",
-      "url": "https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h"
+      "duration_ms": 532577,
+      "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
     },
     {
       "added_at": null,
@@ -783,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
+        "name": "Your Waters",
+        "url": "https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz"
       },
       "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 532577,
-      "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
+      "duration_ms": 308733,
+      "name": "Your Waters",
+      "url": "https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h"
     },
     {
       "added_at": null,

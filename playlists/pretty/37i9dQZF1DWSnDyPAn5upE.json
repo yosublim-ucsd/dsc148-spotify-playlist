@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 67906,
+  "num_followers": 67967,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,26 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
+        "name": "sweet nothings",
+        "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "name": "Miranda Rain",
+          "url": "https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c"
+        }
+      ],
+      "duration_ms": 110608,
+      "name": "hold me",
+      "url": "https://open.spotify.com/track/4b0t7J2Ymjgd8Hkbcl8ebS"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
         "name": "Enchanted Isle",
         "url": "https://open.spotify.com/album/6oXgXpm6UC0kveOf8A8qrL"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 274506,
       "name": "Pyramid Song (Arr. Lawson)",
       "url": "https://open.spotify.com/track/4s0wuHeoQUqseTxG10cukT"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "sweet nothings",
-        "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        },
-        {
-          "name": "Miranda Rain",
-          "url": "https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c"
-        }
-      ],
-      "duration_ms": 110608,
-      "name": "hold me",
-      "url": "https://open.spotify.com/track/4b0t7J2Ymjgd8Hkbcl8ebS"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Faith in Strangers",
-        "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
-      },
-      "artists": [
-        {
-          "name": "Andy Stott",
-          "url": "https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K"
-        }
-      ],
-      "duration_ms": 397826,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/59rWOvuBELmfqvVBI9NiWf"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Point Of Entry",
         "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 132000,
       "name": "Theories",
       "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Faith in Strangers",
+        "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
+      },
+      "artists": [
+        {
+          "name": "Andy Stott",
+          "url": "https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K"
+        }
+      ],
+      "duration_ms": 397826,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/59rWOvuBELmfqvVBI9NiWf"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/41CXQpu3hZG8s5t6UQO1Eg"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Afraid",
-      "url": "https://open.spotify.com/track/0xp3MdGRrVVtBzJ7hgNzC2"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "fall (Hania Rani Rework) (feat. Hania Rani)",
         "url": "https://open.spotify.com/album/0jT8y9vhDBCvtDLRM42Jlk"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "SOUL VOICES",
-        "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/41CXQpu3hZG8s5t6UQO1Eg"
       },
       "artists": [
         {
-          "name": "Jane Winther",
-          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
         }
       ],
-      "duration_ms": 463164,
-      "name": "Soul Voices",
-      "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
+      "duration_ms": 226640,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/0xp3MdGRrVVtBzJ7hgNzC2"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -559,6 +543,22 @@
       "duration_ms": 124500,
       "name": "ahead",
       "url": "https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "SOUL VOICES",
+        "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
+      },
+      "artists": [
+        {
+          "name": "Jane Winther",
+          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
+        }
+      ],
+      "duration_ms": 463164,
+      "name": "Soul Voices",
+      "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 173798,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 173798,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
+      },
+      "artists": [
+        {
+          "name": "Halgrath",
+          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
+        }
+      ],
+      "duration_ms": 338834,
+      "name": "Horoathea Mass of Aegorath",
+      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
         "name": "600 Years of Rest",
         "url": "https://open.spotify.com/album/0PkwMH38KmIGvHUf3fhkmf"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 255656,
       "name": "600 Years of Rest",
       "url": "https://open.spotify.com/track/45S8vmd0j9YLWkvlLlnbMN"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "Out of Time",
-        "url": "https://open.spotify.com/album/2mKIWplmdZT3F4pDhLyitT"
-      },
-      "artists": [
-        {
-          "name": "Halgrath",
-          "url": "https://open.spotify.com/artist/6Pe8wvqAWxK6nFhwHjb0GD"
-        }
-      ],
-      "duration_ms": 338834,
-      "name": "Horoathea Mass of Aegorath",
-      "url": "https://open.spotify.com/track/4wv0tfqEIxeBr3gj340kTC"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -979,42 +979,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
-      },
-      "artists": [
-        {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
-        },
-        {
-          "name": "Celeste Cescutti",
-          "url": "https://open.spotify.com/artist/1q0HTQ16CWeX77NydPBZ7e"
-        }
-      ],
-      "duration_ms": 264369,
-      "name": "Piccolo Corpo",
-      "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "Cliodynamics",
-        "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        }
-      ],
-      "duration_ms": 238145,
-      "name": "Strong, Calm, Slow",
-      "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "A Model of Reality Reworks",
         "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
@@ -1035,6 +999,42 @@
       "duration_ms": 239000,
       "name": "A Model Of Reality - Aonian Remix",
       "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Cliodynamics",
+        "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "duration_ms": 238145,
+      "name": "Strong, Calm, Slow",
+      "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        },
+        {
+          "name": "Celeste Cescutti",
+          "url": "https://open.spotify.com/artist/1q0HTQ16CWeX77NydPBZ7e"
+        }
+      ],
+      "duration_ms": 264369,
+      "name": "Piccolo Corpo",
+      "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "in altar wine",
-        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
-      },
-      "artists": [
-        {
-          "name": "Wickerbird",
-          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
-        }
-      ],
-      "duration_ms": 334038,
-      "name": "in altar wine",
-      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Respite",
         "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
       },
@@ -1271,6 +1255,38 @@
       "duration_ms": 227631,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "in altar wine",
+        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
+      },
+      "artists": [
+        {
+          "name": "Wickerbird",
+          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+        }
+      ],
+      "duration_ms": 334038,
+      "name": "in altar wine",
+      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Japanese Summer Lost",
+        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
+      },
+      "artists": [
+        {
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+        }
+      ],
+      "duration_ms": 211942,
+      "name": "Japanese Summer Lost",
+      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1355,22 +1371,6 @@
       "duration_ms": 326426,
       "name": "All Things Devour - Botany Remix",
       "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "Japanese Summer Lost",
-        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
-      },
-      "artists": [
-        {
-          "name": "Nao'ymt",
-          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
-        }
-      ],
-      "duration_ms": 211942,
-      "name": "Japanese Summer Lost",
-      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+        "name": "a journey\u2026",
+        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
         }
       ],
-      "duration_ms": 256682,
-      "name": "Morning Room I",
-      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+      "duration_ms": 268440,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1499,42 +1495,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK"
-      },
-      "artists": [
-        {
-          "name": "The Bug",
-          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
-        },
-        {
-          "name": "Dis Fig",
-          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
-        }
-      ],
-      "duration_ms": 89661,
-      "name": "Around Me",
-      "url": "https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "a journey\u2026",
-        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Seasons Shifting",
         "url": "https://open.spotify.com/album/7b1cqGqYbklLTaYu2Fw5oV"
       },
@@ -1551,6 +1511,62 @@
       "duration_ms": 260000,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/3EVlY02e5TY6AMeH3NaqYD"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 256682,
+      "name": "Morning Room I",
+      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 1001299,
+      "name": "After its own death: Side A",
+      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+        }
+      ],
+      "duration_ms": 89661,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 1001299,
-      "name": "After its own death: Side A",
-      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
         "name": "Kistvaen",
         "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
       },
@@ -1671,22 +1671,6 @@
       "duration_ms": 295623,
       "name": "Silent Talk",
       "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
-    },
-    {
-      "added_at": "2024-12-12 18:09:39",
-      "album": {
-        "name": "And You Know I Care",
-        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
-      },
-      "artists": [
-        {
-          "name": "Fiona Brice",
-          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1723,22 +1707,18 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Time Is Local",
-        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
+        "name": "And You Know I Care",
+        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
       },
       "artists": [
         {
-          "name": "We like We",
-          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
-        },
-        {
-          "name": "Jacob Kirkegaard",
-          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
+          "name": "Fiona Brice",
+          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
         }
       ],
-      "duration_ms": 96450,
-      "name": "Clotho",
-      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
+      "duration_ms": 289293,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1763,22 +1743,22 @@
     {
       "added_at": "2024-12-12 18:09:39",
       "album": {
-        "name": "Bones Knowing",
-        "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
+        "name": "Time Is Local",
+        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
       },
       "artists": [
         {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+          "name": "We like We",
+          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
         },
         {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+          "name": "Jacob Kirkegaard",
+          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
         }
       ],
-      "duration_ms": 240500,
-      "name": "Bones Knowing",
-      "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
+      "duration_ms": 96450,
+      "name": "Clotho",
+      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
     },
     {
       "added_at": "2024-12-12 18:09:39",
@@ -1799,6 +1779,26 @@
       "duration_ms": 306154,
       "name": "Inori - William Basinski Rework",
       "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
+    },
+    {
+      "added_at": "2024-12-12 18:09:39",
+      "album": {
+        "name": "Bones Knowing",
+        "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        },
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Bones Knowing",
+      "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
     },
     {
       "added_at": "2024-12-12 18:09:39",

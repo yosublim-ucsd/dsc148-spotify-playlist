@@ -3499,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "In Paradise",
+        "url": "https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133560,
+      "name": "Randy",
+      "url": "https://open.spotify.com/track/4SA9V9mLo4atqeNEf3x9f7"
+    },
+    {
+      "album": {
         "name": "Here come... The Cookies!",
         "url": "https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG"
       },
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 133560,
       "name": "Randy",
       "url": "https://open.spotify.com/track/5S8fxFC40TaXOZGnax6Vzg"
@@ -4582,10 +4600,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 174333,
       "name": "They're Jealous of Me",
       "url": "https://open.spotify.com/track/187xOao5osxvhgVktYCEyC"
+    },
+    {
+      "album": {
+        "name": "In Paradise",
+        "url": "https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "They're Jealous Of Me",
+      "url": "https://open.spotify.com/track/2QGrKWSgmY1ENXWdIB0V91"
     },
     {
       "album": {
@@ -5259,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "In Paradise",
+        "url": "https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153623,
+      "name": "Will Power",
+      "url": "https://open.spotify.com/track/1b2HHmaOgkeDAVqH2RjDe5"
+    },
+    {
+      "album": {
         "name": "Here come... The Cookies!",
         "url": "https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG"
       },
@@ -5288,7 +5342,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 155906,
       "name": "WILL POWER",
       "url": "https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4"

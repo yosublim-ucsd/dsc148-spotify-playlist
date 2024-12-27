@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Kappa Jotta, Bispo",
-  "num_followers": 48442,
+  "num_followers": 48441,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -847,18 +847,26 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+        "name": "Ninfoman\u00edaca",
+        "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        },
+        {
+          "name": "Mulatooh",
+          "url": "https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
+      "duration_ms": 171000,
+      "name": "Ninfoman\u00edaca",
+      "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -883,26 +891,18 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Ninfoman\u00edaca",
-        "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
       },
       "artists": [
         {
-          "name": "Paulelson",
-          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        },
-        {
-          "name": "Mulatooh",
-          "url": "https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Ninfoman\u00edaca",
-      "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Melodia",
-        "url": "https://open.spotify.com/album/2RZXeyPA9S4ePRYwDvID1P"
-      },
-      "artists": [
-        {
-          "name": "Vado M\u00e1s Ki \u00c1s",
-          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Melodia",
-      "url": "https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 198409,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
+        "name": "Melodia",
+        "url": "https://open.spotify.com/album/2RZXeyPA9S4ePRYwDvID1P"
+      },
+      "artists": [
+        {
+          "name": "Vado M\u00e1s Ki \u00c1s",
+          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "NADA \u00c9 COMO ANTES",
-        "url": "https://open.spotify.com/album/58z9LFCp2cTPUPuCWcakEv"
-      },
-      "artists": [
-        {
-          "name": "Monsta",
-          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
-        },
-        {
-          "name": "Deezy",
-          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "NADA \u00c9 COMO ANTES",
-      "url": "https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
         "name": "Falei",
         "url": "https://open.spotify.com/album/5YN1UrwqwBwsarG7Y7WUv4"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 177073,
       "name": "Falei",
       "url": "https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
+        "name": "NADA \u00c9 COMO ANTES",
+        "url": "https://open.spotify.com/album/58z9LFCp2cTPUPuCWcakEv"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "NADA \u00c9 COMO ANTES",
+      "url": "https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/6z0rQqq8tF8hrRVDlb02wl"
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS"
       },
       "artists": [
         {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 172453,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/0zew2jGUrcp12u0wmaWtgQ"
+      "duration_ms": 226005,
+      "name": "Trovador",
+      "url": "https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Trovador",
-        "url": "https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/6z0rQqq8tF8hrRVDlb02wl"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
         }
       ],
-      "duration_ms": 226005,
-      "name": "Trovador",
-      "url": "https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU"
+      "duration_ms": 172453,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/0zew2jGUrcp12u0wmaWtgQ"
     },
     {
       "added_at": "2024-12-20 14:04:14",

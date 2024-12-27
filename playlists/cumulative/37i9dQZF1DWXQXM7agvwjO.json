@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sound from Asia. Cover: Milledenials (Indonesia)",
+  "description": "Hottest indie sound from Asia. Cover: Linying (Singapore)",
   "name": ".ORG",
   "tracks": [
     {
@@ -3621,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Bothering / Daiji Rushing",
+        "url": "https://open.spotify.com/album/5fuXOmsZekRlxFa4U0H9ww"
+      },
+      "artists": [
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158731,
+      "name": "Bothering",
+      "url": "https://open.spotify.com/track/5bFUskuPyH20ug2fSYZC8v"
+    },
+    {
+      "album": {
         "name": "Daydreaming In Blue",
         "url": "https://open.spotify.com/album/6Uz82XlSwEfcoorKKPW09c"
       },
@@ -4988,6 +5006,24 @@
       "duration_ms": 166159,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/7HgjuLPrTSunnZIbwwXNHQ"
+    },
+    {
+      "album": {
+        "name": "Cloudless Night",
+        "url": "https://open.spotify.com/album/7y3LS6mOwc3pel814jYUtU"
+      },
+      "artists": [
+        {
+          "name": "ikkubaru",
+          "url": "https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Cloudless Night (Remaster 2024)",
+      "url": "https://open.spotify.com/track/6fu1UbR8W3mmV497JUe6XY"
     },
     {
       "album": {
@@ -8969,6 +9005,24 @@
     },
     {
       "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/4gO6AilDh14wlHvxkL1ljL"
+      },
+      "artists": [
+        {
+          "name": "Yuki Lovey",
+          "url": "https://open.spotify.com/artist/4o8jCavg8iCZ7lXJmJ6wGz"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258629,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2JtJ71l0oaXYpJooGcN9ej"
+    },
+    {
+      "album": {
         "name": "Everything Is Peachy",
         "url": "https://open.spotify.com/album/6wRP6ClrCoOao42t9zYEVy"
       },
@@ -11430,7 +11484,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 236212,
       "name": "hua (0)",
       "url": "https://open.spotify.com/track/5yfF2RZefILlfJ3PqlOnp8"
@@ -15150,7 +15204,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 285000,
       "name": "Love You My Dear",
       "url": "https://open.spotify.com/track/3roc1QO6mSmKJt1rQhtK0c"
@@ -15646,6 +15700,24 @@
       "duration_ms": 233099,
       "name": "Manila Bay",
       "url": "https://open.spotify.com/track/4FnCntyvK3yXlhxRD0Kepc"
+    },
+    {
+      "album": {
+        "name": "manila to LA",
+        "url": "https://open.spotify.com/album/3TEFMkmQlNeJLTdwgLjWNk"
+      },
+      "artists": [
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282739,
+      "name": "manila to LA",
+      "url": "https://open.spotify.com/track/71oRSyIegiwNBxBQNbEMDh"
     },
     {
       "album": {
@@ -17782,7 +17854,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 185555,
       "name": "No More You Under My Xmas Tree",
       "url": "https://open.spotify.com/track/2nPPXOEsb2aH52QsUTETTX"
@@ -18810,7 +18882,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 180674,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo"
@@ -22136,7 +22208,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 216783,
       "name": "Slow Motion Perception",
       "url": "https://open.spotify.com/track/6eLMiSiERRlJkHu20umk5I"
@@ -25027,6 +25099,24 @@
     },
     {
       "album": {
+        "name": "The Key",
+        "url": "https://open.spotify.com/album/4sf5cGJjvxHdZ3AjpGrLgj"
+      },
+      "artists": [
+        {
+          "name": "Linying",
+          "url": "https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160009,
+      "name": "The Key",
+      "url": "https://open.spotify.com/track/6z4Kv7rkkrYA61E7QHANQe"
+    },
+    {
+      "album": {
         "name": "The Man In The Mirror",
         "url": "https://open.spotify.com/album/7IqiUPXlA1shnkGEx6ZZRj"
       },
@@ -26788,6 +26878,28 @@
       "duration_ms": 119699,
       "name": "Vom",
       "url": "https://open.spotify.com/track/6Kq42y6TC92XYhvObBQAO7"
+    },
+    {
+      "album": {
+        "name": "Goodbye 2024",
+        "url": "https://open.spotify.com/album/4hXeerjljJnzHAyekyPAzV"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210824,
+      "name": "Voyage (feat. Sonny Zero)",
+      "url": "https://open.spotify.com/track/1NNYxB4qccFju9XZ8kO43V"
     },
     {
       "album": {
@@ -30402,7 +30514,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 241317,
       "name": "\u4f60\u7684\u6a23\u5b50",
       "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"

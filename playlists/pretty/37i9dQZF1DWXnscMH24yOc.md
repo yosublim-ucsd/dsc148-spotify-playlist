@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,647 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,697 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 35 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 |
 | 36 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
 | 37 | [It Must Have Been Love](https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [It Must Have Been Love](https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB) | 4:07 |
-| 38 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
-| 39 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
-| 40 | [Always Be My Baby](https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:56 |
-| 41 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
+| 38 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
+| 39 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
+| 40 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
+| 41 | [Always Be My Baby](https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:56 |
 | 42 | [Nothing's Gonna Hurt You Baby \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Nothing's Gonna Hurt You Baby \(From "Promising Young Woman" Soundtrack\)](https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY) | 3:17 |
 | 43 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
 | 44 | [Believe](https://open.spotify.com/track/30rvG8w7qtOnsqiUk6JSvE) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Ul0gfTmSuXeNcF3ufnLZQ) | 4:12 |
@@ -80,19 +80,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 70 | [Only You \(1twofeel Reprise\)](https://open.spotify.com/track/4JKq0hEhwUtxKSfK0rU1UH) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Only You \(1twofeel Reprise\)](https://open.spotify.com/album/6Sm1ySYQ4fa7F7nujVvjSO) | 3:38 |
 | 71 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
 | 72 | [Honesty](https://open.spotify.com/track/6TCrhl4UEM2yXZ4uaXa5OY) | [WesternBoy](https://open.spotify.com/artist/2tDK1KYXsOsqTe2ln3We4E) | [Honesty](https://open.spotify.com/album/2otA7Hgaul96xbL6C30GO8) | 3:45 |
-| 73 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 |
-| 74 | [Fade into You](https://open.spotify.com/track/5xkEkPxG9GkoxxcacT2cXW) | [Sara Rachele](https://open.spotify.com/artist/2OkyMqAoaxpBa9QUrJdlOL) | [Listen, Judas / Fade into You](https://open.spotify.com/album/59X6lUes7LbwYH4HbbD9jq) | 5:48 |
+| 73 | [Fade into You](https://open.spotify.com/track/5xkEkPxG9GkoxxcacT2cXW) | [Sara Rachele](https://open.spotify.com/artist/2OkyMqAoaxpBa9QUrJdlOL) | [Listen, Judas / Fade into You](https://open.spotify.com/album/59X6lUes7LbwYH4HbbD9jq) | 5:48 |
+| 74 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 |
 | 75 | [Electric Feel](https://open.spotify.com/track/55KGNC101dEVfdAGAzUIeq) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Electric Feel](https://open.spotify.com/album/4sjxLnUJpmnYlwNm8H6Fv6) | 3:42 |
-| 76 | [Love](https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald) | [Kris Orlowski](https://open.spotify.com/artist/05TVdmW8p3d5yYIyvw6B3w) | [Love](https://open.spotify.com/album/0rHBGPkCOQBu6WyfSDmvjh) | 4:01 |
-| 77 | [Blank Space](https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Blank Space](https://open.spotify.com/album/1HozJh2kGkfP40jiGSNndN) | 4:05 |
+| 76 | [Blank Space](https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Blank Space](https://open.spotify.com/album/1HozJh2kGkfP40jiGSNndN) | 4:05 |
+| 77 | [Love](https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald) | [Kris Orlowski](https://open.spotify.com/artist/05TVdmW8p3d5yYIyvw6B3w) | [Love](https://open.spotify.com/album/0rHBGPkCOQBu6WyfSDmvjh) | 4:01 |
 | 78 | [Delicate](https://open.spotify.com/track/0xU1zG3u6s1UpfkG8XkZ2w) | [Hanne Leland](https://open.spotify.com/artist/0bpp6ZhXQogfVnZHiWYNX0) | [Delicate](https://open.spotify.com/album/0YQHlteoWyLWbbmxwRi4Lk) | 4:35 |
 | 79 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 |
 | 80 | [Last Kiss](https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn) | 3:38 |
 | 81 | [Earned It](https://open.spotify.com/track/2MxrQDEu6efhLEOWM2ckSU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Earned It](https://open.spotify.com/album/5F3EDc5Y9ca36xAwDEfAp8) | 4:07 |
 | 82 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 |
 | 83 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
-| 84 | [Wicked Game](https://open.spotify.com/track/1FfoHjy7kr5IGtOjAKjeiv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Wicked Game](https://open.spotify.com/album/4Up5UVa1Fk36EcO67AuyLh) | 4:55 |
-| 85 | [No Surprises \(feat\. Janelle Monáe\)](https://open.spotify.com/track/4cRPXadQRylHEWmQJ02fIc) | [Roman GianArthur](https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [OK Lady](https://open.spotify.com/album/5cxdHvTNzejoUNA48rbkRm) | 4:04 |
+| 84 | [No Surprises \(feat\. Janelle Monáe\)](https://open.spotify.com/track/4cRPXadQRylHEWmQJ02fIc) | [Roman GianArthur](https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [OK Lady](https://open.spotify.com/album/5cxdHvTNzejoUNA48rbkRm) | 4:04 |
+| 85 | [Wicked Game](https://open.spotify.com/track/1FfoHjy7kr5IGtOjAKjeiv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Wicked Game](https://open.spotify.com/album/4Up5UVa1Fk36EcO67AuyLh) | 4:55 |
 | 86 | [Like Spinning Plates](https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu) | [Bella Ruse](https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd) | [Kuhzoo](https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r) | 2:53 |
 | 87 | [Ultralight Beam](https://open.spotify.com/track/3wAW1vIrWxUmJajU9tl0AP) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 2:55 |
 | 88 | [Higher Love](https://open.spotify.com/track/3NiHRFN1Wvx9c2IYRPD1Zf) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Higher Love](https://open.spotify.com/album/0qpOhvO4u3yCRQbtrGiHMG) | 3:15 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 97 | [High by the Beach](https://open.spotify.com/track/7tY1VsxEz6OGN3FkUMN2MU) | [Modern Space](https://open.spotify.com/artist/6gINjiQZIN2b9G2i6zj13e) | [High By The Beach.](https://open.spotify.com/album/7lRFVGUeOMASGpwQe7sZCk) | 3:37 |
 | 98 | [These Days](https://open.spotify.com/track/2kJYJikUAu0l8DwGMMzS8t) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Laugh Cry Laugh](https://open.spotify.com/artist/5uTkXOALKTyIBOffC3tJIi) | [These Days / Velocity! What About The Inertia!?](https://open.spotify.com/album/4rAM0kgT7oNRzFfnJWd8nE) | 3:33 |
 | 99 | [The Greatest](https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Trauma \- Chansons De La Série Tv](https://open.spotify.com/album/2V0Pn1tlcuIPy3yf2T1MVK) | 3:25 |
-| 100 | [Creep](https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Creep](https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l) | 2:57 |
+| 100 | [Pleasure](https://open.spotify.com/track/0ASjmESaww4tLMSDBzTu3U) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [Pleasure](https://open.spotify.com/album/25tWNWuK5mFsxlpnA7IWxd) | 4:15 |
 
 Snapshot ID: `Zohq1AAAAAA1iDZPyFNxV+6KKHPiUgzz`

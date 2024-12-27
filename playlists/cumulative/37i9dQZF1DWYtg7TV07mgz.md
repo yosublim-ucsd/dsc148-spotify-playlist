@@ -4,7 +4,7 @@
 
 > Floorfillers galore from the 90s and 00s.
 
-146 songs - 10 hr 8 min
+147 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Pianos Of Gold \- Ian Pooley Mix \[Mixed\]](https://open.spotify.com/track/1UQxzKNOsLYp7MVqsnHDLP) | [Jovonn](https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V), [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Defected Radio Episode 127 \(hosted by Monki\)](https://open.spotify.com/album/3KNcAyp0vwc1c7J7HzOdZB) | 3:23 | 2023-12-27 | 2024-01-12 |
 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 | 2022-07-05 |  |
 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 | 2023-12-27 | 2024-01-12 |
-| [Pretty Green Eyes \- Radio Edit](https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [Pretty Green Eyes \(Remixes\)](https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk) | 3:21 | 2024-07-12 |  |
+| [Pretty Green Eyes \- Radio Edit](https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [Pretty Green Eyes \(Remixes\)](https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk) | 3:21 | 2024-07-12 | 2024-12-27 |
 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 | 2022-07-05 |  |
 | [Push The Feeling On \- Mk Dub Revisited Edit](https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Push The Feeling On](https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL) | 4:03 | 2022-07-05 | 2024-04-19 |
 | [Ready For Your Love](https://open.spotify.com/track/1y7agAufBsudgRXuq6Ekqb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens \(Deluxe\)](https://open.spotify.com/album/3u3wA2mFU0UgAtyMJW3xa5) | 3:18 | 2024-03-22 | 2024-07-04 |
@@ -140,6 +140,7 @@
 | [Tell Me Why \- Radio Edit](https://open.spotify.com/track/4yhGkvdYU5bi4950r80FRo) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Tell Me Why](https://open.spotify.com/album/7lmGSzQRrvXvvvghZoYZkn) | 2:53 | 2022-07-05 | 2024-04-19 |
 | [Tell You No Lie](https://open.spotify.com/track/0ud7ma9G6buYyqfaeGRG4Y) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Victorious](https://open.spotify.com/album/4mYnwRs3nCds1vIZn6oMFd) | 8:24 | 2023-12-27 | 2024-01-12 |
 | [The Logical Song](https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Push The Beat For This Jam \(The Second Chapter\)](https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL) | 3:55 | 2022-07-05 | 2024-04-19 |
+| [The Rhythm of the Night](https://open.spotify.com/track/4oUr6mgNSjQjyGs8kbXzU5) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm Of The Night](https://open.spotify.com/album/0SxbyB0c1fqXEDA6jnPXiq) | 4:24 | 2024-07-12 |  |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 4:05 | 2022-07-05 | 2024-04-19 |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat Ultimate](https://open.spotify.com/album/1fAn5gw4Q5HN8Wpx2neYd2) | 4:05 | 2024-03-22 |  |
 | [Toca's Miracle \(Radio Edit\)](https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca \(20th Anniversary Edition\)](https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH) | 3:20 | 2024-03-22 |  |

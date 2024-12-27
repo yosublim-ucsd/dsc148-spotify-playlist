@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 105486,
+  "num_followers": 105529,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-12-20 16:22:03",
       "album": {
+        "name": "Pirata",
+        "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 170192,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
+    },
+    {
+      "added_at": "2024-12-20 16:22:03",
+      "album": {
         "name": "Ay Amor",
         "url": "https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 207700,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
-    },
-    {
-      "added_at": "2024-12-20 16:22:03",
-      "album": {
-        "name": "Pirata",
-        "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Pirata",
-      "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
     },
     {
       "added_at": "2024-12-20 16:22:03",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-12-20 16:22:03",
       "album": {
-        "name": "Sigo Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
       },
       "artists": [
         {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 240015,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn"
+      "duration_ms": 203973,
+      "name": "Lo Que Fui para Ti",
+      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
     },
     {
       "added_at": "2024-12-20 16:22:03",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-12-20 16:22:03",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
+        "name": "Sigo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
         }
       ],
-      "duration_ms": 203973,
-      "name": "Lo Que Fui para Ti",
-      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
+      "duration_ms": 240015,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn"
     }
   ],
   "unique_name": "Cumbieras",

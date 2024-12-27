@@ -4,7 +4,7 @@
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Bad Bunny
 
-706 songs - 1 day 13 hr 51 min
+707 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2022-09-02 | 2023-03-18 |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-07-01 | 2022-07-16 |
 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 | 2023-08-25 | 2023-11-11 |
-| [Ferxxoko](https://open.spotify.com/track/12VjaTNEaCfDlvW1XPZTQ9) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxoko](https://open.spotify.com/album/5uRpRstxMvxTSbAXZmaBnh) | 2:57 | 2024-11-01 |  |
+| [Ferxxoko](https://open.spotify.com/track/12VjaTNEaCfDlvW1XPZTQ9) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxoko](https://open.spotify.com/album/5uRpRstxMvxTSbAXZmaBnh) | 2:57 | 2024-11-01 | 2024-12-27 |
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-01-27 | 2023-02-25 |
 | [FINA](https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:36 | 2023-10-13 | 2024-03-02 |
 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2024-01-26 | 2024-06-21 |
@@ -497,6 +497,7 @@
 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 | 2023-07-14 | 2023-09-09 |
 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-03-01 | 2024-07-13 |
 | [Piscina](https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Piscina](https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0) | 3:45 | 2023-11-10 | 2024-01-27 |
+| [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 | 2024-12-26 |  |
 | [PIÉNSALO](https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:00 | 2024-10-11 |  |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-03-24 | 2022-07-02 |
 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 | 2023-06-23 | 2023-08-19 |

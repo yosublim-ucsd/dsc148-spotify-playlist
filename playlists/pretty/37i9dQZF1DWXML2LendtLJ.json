@@ -1,6 +1,6 @@
 {
   "description": "The breeziest songs to get you through the day.",
-  "num_followers": 519900,
+  "num_followers": 519930,
   "original_name": "Light & Easy",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "Camino Palmero",
-        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
-    },
-    {
-      "added_at": "2023-08-09 10:52:35",
-      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
       "artists": [
         {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
         }
       ],
-      "duration_ms": 209493,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "added_at": "2023-08-09 10:52:35",
@@ -403,6 +387,22 @@
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
+    },
+    {
+      "added_at": "2023-08-09 10:52:35",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
       "added_at": "2023-08-09 10:52:35",

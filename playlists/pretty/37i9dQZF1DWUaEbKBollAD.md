@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,207 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,239 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 49 | [Satori](https://open.spotify.com/track/17SCJbXeu121LBiittnXTI) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:19 |
 | 50 | [You & Me](https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [You & Me](https://open.spotify.com/album/1nbX5SpbInsusz0qYRcrr2) | 2:50 |
 
-Snapshot ID: `Z2VVIQAAAADsreUY1Mtczb/ZyUXZ+7Hg`
+Snapshot ID: `Z23uRQAAAAD4fTip/oHM0d21hNuoBdfq`

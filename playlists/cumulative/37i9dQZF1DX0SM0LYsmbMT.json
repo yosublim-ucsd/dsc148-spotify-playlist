@@ -5230,7 +5230,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 152999,
       "name": "Autumn Sky",
       "url": "https://open.spotify.com/track/18krMlHUAxBY9bjTdGEeOV"
@@ -45052,6 +45052,24 @@
       "duration_ms": 96623,
       "name": "Maple",
       "url": "https://open.spotify.com/track/3dCSED6UnykK6RmbVp5r2N"
+    },
+    {
+      "album": {
+        "name": "maple shade",
+        "url": "https://open.spotify.com/album/3vwm5bMYTSbmOXTwWWYXHf"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138795,
+      "name": "maple shade",
+      "url": "https://open.spotify.com/track/3bSYCBfYlhQ27VphmXif64"
     },
     {
       "album": {

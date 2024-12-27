@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: MyGO!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,361 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,410 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 28 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
 | 29 | [BELIEVE](https://open.spotify.com/track/0aCIecWooLfBx2by8LRx3J) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/799Kmhfy6h7UwCTot4gJ4e) | 3:29 |
 | 30 | [Party!!](https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ) | 4:18 |
-| 31 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
-| 32 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
+| 31 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
+| 32 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
 | 33 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |
 | 34 | [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 |
 | 35 | [サインはB \- アイ Solo Ver.](https://open.spotify.com/track/3xFQL262WHl5XNigU4rgW0) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.1\)](https://open.spotify.com/album/7d64mWymF8BzaGpIrSp0iS) | 3:33 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 44 | [サインはB \- New Arrange Ver.](https://open.spotify.com/track/27qhwBOkY1DGgapjYYyFyh) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.2\)](https://open.spotify.com/album/7k2DaKVQBwobd0rhDZhlpR) | 3:41 |
 | 45 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
 | 46 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
-| 47 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 |
-| 48 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 |
-| 49 | [未完成ランデヴー](https://open.spotify.com/track/1LTR3KSXruE1pQCmMAPPDp) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7) | [未完成ランデヴー](https://open.spotify.com/album/4SQ9TPDLGnUfuATw6HrURi) | 2:56 |
-| 50 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 |
+| 47 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 |
+| 48 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 |
+| 49 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 |
+| 50 | [未完成ランデヴー](https://open.spotify.com/track/1LTR3KSXruE1pQCmMAPPDp) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7) | [未完成ランデヴー](https://open.spotify.com/album/4SQ9TPDLGnUfuATw6HrURi) | 2:56 |
 
 Snapshot ID: `Z2GShAAAAACQnhhPNASsl8kAlFssUpLf`

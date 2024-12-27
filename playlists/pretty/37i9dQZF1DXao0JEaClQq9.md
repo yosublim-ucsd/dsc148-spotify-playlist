@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: ML Buch
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,883 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,639,365 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 46 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 |
 | 47 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 48 | [may you never forget me](https://open.spotify.com/track/2sV11xuq4U8KlGWKCtGNpx) | [Temachii](https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ) | [flora maniia](https://open.spotify.com/album/2VJWNCadN7DfQ3XThbvlUk) | 3:35 |
-| 49 | [She Looked Like Me!](https://open.spotify.com/track/66st0nh6vlK7t2yzWfzmcA) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:13 |
+| 49 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 50 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 |
-| 51 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
+| 51 | [She Looked Like Me!](https://open.spotify.com/track/66st0nh6vlK7t2yzWfzmcA) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:13 |
 | 52 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 |
 | 53 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
 | 54 | [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 67 | [For Sure](https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [For Sure](https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh) | 9:53 |
 | 68 | [Fly To You \(feat\. Grimes and Dido\)](https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:05 |
 | 69 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
-| 70 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 |
-| 71 | [Hold It Together](https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hold It Together](https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb) | 3:42 |
-| 72 | [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 |
-| 73 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 |
+| 70 | [Hold It Together](https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hold It Together](https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb) | 3:42 |
+| 71 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 |
+| 72 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 |
+| 73 | [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 |
 | 74 | [Just A Western \- Boy Harsher Remix](https://open.spotify.com/track/27824hvVGxllQecjb1dqDg) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Just A Western \(Boy Harsher Remix\)](https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e) | 4:01 |
 | 75 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
 

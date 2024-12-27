@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Broken Girl",
+        "url": "https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI"
+      },
+      "artists": [
+        {
+          "name": "Julie Doiron",
+          "url": "https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "August 10",
+      "url": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj"
+    },
+    {
+      "album": {
         "name": "ausm s\u00f6bn hoiz",
         "url": "https://open.spotify.com/album/5lVfKkhMzF0BteDGcMmnT9"
       },
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 144489,
       "name": "Ba Ba Bad",
       "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
@@ -3064,6 +3082,24 @@
       "duration_ms": 343120,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
+    },
+    {
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
       "album": {
@@ -7975,6 +8011,24 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/4OYYkxDqJZCI3Vz80S22dy"
+      },
+      "artists": [
+        {
+          "name": "H\u00e4nsel",
+          "url": "https://open.spotify.com/artist/00Cen9aAFxIUh0h685dp5w"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/55ozEBaWgAg2snBPo1sP8I"
+    },
+    {
+      "album": {
         "name": "Gnuag mit dir",
         "url": "https://open.spotify.com/album/3ULM8tpxDd90ed0fFKSEtU"
       },
@@ -12650,7 +12704,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 223448,
       "name": "Like It",
       "url": "https://open.spotify.com/track/3xPgk9mh2Jth22VTDjYQ95"
@@ -13318,7 +13372,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -13348,7 +13402,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -15600,7 +15654,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
@@ -20336,7 +20390,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 188534,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
@@ -20700,6 +20754,24 @@
       "duration_ms": 175890,
       "name": "Sugar Pie Honey Bunch",
       "url": "https://open.spotify.com/track/2chkrQeCVft2c9Lcz9Vf0T"
+    },
+    {
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/2jKTnXePPWP9Iqa1xXNS4S"
+      },
+      "artists": [
+        {
+          "name": "Derik Fein",
+          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/7Hybzi2nMsBsg2Fs2aKUh7"
     },
     {
       "album": {
@@ -23128,7 +23200,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/1We3jgIztlD2Tkb0yOoX4b"
@@ -23146,7 +23218,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/6SowVm0zmhrJrbRgM4Rutz"

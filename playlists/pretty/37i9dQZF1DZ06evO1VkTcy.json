@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAACsBqzXZB1lBKlKmQRRsI9+",
+  "snapshot_id": "Z2tLAAAAAAA+1+GRphjAsY+e0teW9qbx",
   "tracks": [
     {
       "added_at": null,
@@ -1023,30 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 174797,
-      "name": "F\u00e9 no caminho",
-      "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nosso Relacionamento",
         "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 200769,
       "name": "Nosso Relacionamento",
       "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 174797,
+      "name": "F\u00e9 no caminho",
+      "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
     },
     {
       "added_at": null,
@@ -1155,30 +1155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
-        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
-      },
-      "artists": [
-        {
-          "name": "LOCOS",
-          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 113442,
-      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
-      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1199,6 +1175,30 @@
       "duration_ms": 173553,
       "name": "Tudo Vai Mudar",
       "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
+        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
+      },
+      "artists": [
+        {
+          "name": "LOCOS",
+          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 113442,
+      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
+      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
     },
     {
       "added_at": null,

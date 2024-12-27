@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,733 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,742 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 77 | [the pyre](https://open.spotify.com/track/13Wz1dyxgWPSDXGCm5dHtQ) | [Piezoluminescence](https://open.spotify.com/artist/39yIOX8TUTRhzYq6R7q0df), [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR), [mippopotamus](https://open.spotify.com/artist/0g5R6Ju7ftKle2mliZt6WF) | [the pyre](https://open.spotify.com/album/0Ae1E8Gs5Qtnpi27cwJl4f) | 2:40 |
 | 78 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |
 | 79 | [Recueil de chants, Op\. 65: No\. 6, Barcarolle](https://open.spotify.com/track/3IrTLEtkdt8AOCZkxhXH3Q) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [WAVES: Music by Rameau, Ravel, Alkan](https://open.spotify.com/album/5j5eLlvzM8KBh6vljwgbpz) | 3:36 |
-| 80 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 |
+| 80 | [泡 \(ALBUM ver.\)](https://open.spotify.com/track/1RVHkDoAuGib7L8b9c2tBz) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 4:35 |
 | 81 | [はひふへほ](https://open.spotify.com/track/1Sqhfgp5UXzJYjejD7pWUv) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [はひふへほ](https://open.spotify.com/album/2Ztz1foS02OoeUVM4LTYVu) | 3:12 |
-| 82 | [泡 \(ALBUM ver.\)](https://open.spotify.com/track/1RVHkDoAuGib7L8b9c2tBz) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 4:35 |
+| 82 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 |
 | 83 | [nowhere \- 2023 Remastered](https://open.spotify.com/track/0k23cl8qC2XyZXc1HpSmBS) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Nightfall \(2023 Remastered\)](https://open.spotify.com/album/7Dkecjt0UmfZFFSS6VGr1m) | 4:01 |
 | 84 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 |
 | 85 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 95 | [Solaris](https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Solaris](https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK) | 3:42 |
 | 96 | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi) | 3:16 |
 | 97 | [δ](https://open.spotify.com/track/5H6WX29XQMNE4oZVooEGeH) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 0:36 |
-| 98 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
+| 98 | [The Longest Goodbye](https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lanterns](https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3) | 3:04 |
 | 99 | [drip&trip](https://open.spotify.com/track/4OfEynGcmC1MPHT7XRMfS3) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [drip&trip](https://open.spotify.com/album/3ucbmnrGL2KCldRy3LZaVB) | 2:45 |
-| 100 | [The Longest Goodbye](https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lanterns](https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3) | 3:04 |
+| 100 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
 
 Snapshot ID: `ZliZxwAAAABTpQUwqC5XhXVfV4c6YDtl`

@@ -1,6 +1,6 @@
 {
   "description": "Listen to all the tracks you've been missing. Cover: Lady Gaga",
-  "num_followers": 6140519,
+  "num_followers": 6140453,
   "original_name": "Hit Rewind",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -847,8 +847,8 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 258266,
-      "name": "Hymn for the Weekend",
-      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -979,8 +979,8 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+      "duration_ms": 258266,
+      "name": "Hymn for the Weekend",
+      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
         "name": "Me 4 U",
         "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 180565,
       "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1219,6 +1219,22 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 213520,
       "name": "Can't Feel My Face",
       "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1319,34 +1303,18 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "Selena Gomez & The Scene",
-          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 188453,
-      "name": "Love You Like A Love Song",
-      "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Steal My Girl",
-      "url": "https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG"
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1367,22 +1335,18 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "reputation Stadium Tour Surprise Song Playlist",
-        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Selena Gomez & The Scene",
+          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
         }
       ],
-      "duration_ms": 247160,
-      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
-      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+      "duration_ms": 188453,
+      "name": "Love You Like A Love Song",
+      "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1399,6 +1363,42 @@
       "duration_ms": 202546,
       "name": "Young Dumb & Broke",
       "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Steal My Girl",
+      "url": "https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "reputation Stadium Tour Surprise Song Playlist",
+        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
+      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
+        "name": "What Dreams Are Made Of",
+        "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
+      },
+      "artists": [
+        {
+          "name": "R. City",
+          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Locked Away (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -1547,42 +1567,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "What Dreams Are Made Of",
-        "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
-      },
-      "artists": [
-        {
-          "name": "R. City",
-          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Locked Away (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Look What You Made Me Do",
-      "url": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "The Marshall Mathers LP2",
         "url": "https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 250188,
       "name": "The Monster",
       "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Look What You Made Me Do",
+      "url": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Title (Deluxe)",
-        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Like I'm Gonna Lose You (feat. John Legend)",
-      "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Like I'm Gonna Lose You (feat. John Legend)",
+      "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
     },
     {
       "added_at": "2023-11-07 15:22:31",

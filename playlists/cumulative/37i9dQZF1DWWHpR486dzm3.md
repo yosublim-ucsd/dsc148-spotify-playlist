@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa pehmoaino.
 
-460 songs - 1 day 3 hr 38 min
+461 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Cat State](https://open.spotify.com/track/4Xv6PijYz44ifTtP3jfYCi) | [Mumrunner](https://open.spotify.com/artist/6XAvWDUcwUeNMG1Msc3PEG) | [Cat State](https://open.spotify.com/album/0gTEj8vmSwo85fW9bCbxws) | 4:29 | 2024-10-17 | 2024-10-25 |
 | [Celebrate](https://open.spotify.com/track/236YdxLFULiqj1mq5qKpu6) | [Icons Of Elegance](https://open.spotify.com/artist/4CGwhxlwo7fMWrVxJFHNNn) | [Celebrate](https://open.spotify.com/album/2HP37cfyHxrZgljCpVBStc) | 3:06 | 2024-09-26 | 2024-10-11 |
 | [Chicago](https://open.spotify.com/track/5bRA57IKVOe4lpuNW5E5gj) | [Månskensbonden](https://open.spotify.com/artist/6Ro0ka28xsN0M4qBrTr6Ac) | [Chicago](https://open.spotify.com/album/4Tzl2vz5Ur3GCtrOBG2rAK) | 4:45 | 2024-10-10 | 2024-11-01 |
+| [CHROME](https://open.spotify.com/track/2l2fds3LKVxSxQNEmM4d47) | [HÄN](https://open.spotify.com/artist/3dAR6u0DLAjSCPCk1oeDiK), [YSI](https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj), [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk) | [CHROME](https://open.spotify.com/album/6se6rBdCnWt8kyhqbNfuWZ) | 2:35 | 2024-12-26 |  |
 | [Come On In](https://open.spotify.com/track/6hoeicEiSiNZeiYHlsWtUe) | [Liisa Pentti](https://open.spotify.com/artist/7o3YN0mGGbr0DKjMZBfEta) | [Seems Familiar But So Strange](https://open.spotify.com/album/7e5Tpz7tzdK53RMcorgoTS) | 3:00 | 2024-09-19 | 2024-10-18 |
 | [Cray Cray](https://open.spotify.com/track/21aZ0rxNLbh50x0srJTAx7) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Cray Cray](https://open.spotify.com/album/4t5jMtlXpE1l0dx410QagB) | 4:11 | 2024-08-01 | 2024-09-06 |
 | [Dialogi](https://open.spotify.com/track/5RU8B1BqzuMbGs6hFsuecQ) | [AkDK](https://open.spotify.com/artist/6WGt9hU7LwYQ3wkKxrzPRi) | [Toinen Näytös](https://open.spotify.com/album/6L7JBoeuSEqzXCXk2oLPqH) | 3:34 | 2024-10-03 | 2024-11-22 |

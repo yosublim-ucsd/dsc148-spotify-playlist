@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,130 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,155 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 35 | [Vegetales Con Pescado](https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Máscaras](https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ) | 3:02 |
 | 36 | [Olvidemos el Reloj](https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Olvidemos el Reloj](https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr) | 3:52 |
 | 37 | [Ynlpa](https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ynlpa](https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9) | 3:03 |
-| 38 | [Mañana Vas a Estar Ausente](https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 3:29 |
-| 39 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
-| 40 | [Desde Que Te Bese](https://open.spotify.com/track/79aqsG5pFczwipwIHJIZDI) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [LDCR: Los Del Corazón Roto](https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW) | 3:02 |
+| 38 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
+| 39 | [Desde Que Te Bese](https://open.spotify.com/track/79aqsG5pFczwipwIHJIZDI) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [LDCR: Los Del Corazón Roto](https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW) | 3:02 |
+| 40 | [Mañana Vas a Estar Ausente](https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 3:29 |
 | 41 | [400 Estrellas](https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [400 Estrellas](https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr) | 3:43 |
 | 42 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
 | 43 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 49 | [Saori / “Hematomas”](https://open.spotify.com/track/0mdxg9ZZRQjbIzYV0cl27J) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Saori / “Hematomas”](https://open.spotify.com/album/7wBj5k4VscRKGeHGgmKNSL) | 3:37 |
 | 50 | [Rosario / “Que Bueno Es Tenerte”](https://open.spotify.com/track/1Gqbvr9teof5F8vj7aBft4) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Rosario / “Que Bueno Es Tenerte”](https://open.spotify.com/album/7skavgAUpwqlVd1svrsOZI) | 3:14 |
 
-Snapshot ID: `Z2n5gAAAAABa+sn50BDjdgGePDipqmvA`
+Snapshot ID: `Z2tLAAAAAABiZpOUKMLKYn/EWjFcwjQd`

@@ -1,6 +1,6 @@
 {
   "description": "the sound of a new generation ",
-  "num_followers": 283216,
+  "num_followers": 283448,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Wake The F Up",
-        "url": "https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Wake The F Up",
-      "url": "https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 144081,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Wake The F Up",
+        "url": "https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Wake The F Up",
+      "url": "https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "CWWDBI",
-        "url": "https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI"
-      },
-      "artists": [
-        {
-          "name": "Somewhen",
-          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
-        },
-        {
-          "name": "Haftbefehl",
-          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
-        }
-      ],
-      "duration_ms": 199973,
-      "name": "CWWDBI",
-      "url": "https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
         "name": "Transgender",
         "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
       },
@@ -999,34 +979,22 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Waited All Night (Nia Archives Remix)",
-        "url": "https://open.spotify.com/album/6DhaPcMB6Xl6cEDdzRLhF5"
+        "name": "CWWDBI",
+        "url": "https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Somewhen",
+          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
         },
         {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        },
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
         }
       ],
-      "duration_ms": 189249,
-      "name": "Waited All Night - Nia Archives Remix",
-      "url": "https://open.spotify.com/track/5sTF9aVNyUwum4xHMHnmSX"
+      "duration_ms": 199973,
+      "name": "CWWDBI",
+      "url": "https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -1071,6 +1039,38 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
+        "name": "Waited All Night (Nia Archives Remix)",
+        "url": "https://open.spotify.com/album/6DhaPcMB6Xl6cEDdzRLhF5"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        },
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 189249,
+      "name": "Waited All Night - Nia Archives Remix",
+      "url": "https://open.spotify.com/track/5sTF9aVNyUwum4xHMHnmSX"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
         "name": "I Wanna Go",
         "url": "https://open.spotify.com/album/3YbiInRvYkmmWq6DHrYsn9"
       },
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
+        "name": "Call Me Babe",
+        "url": "https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        }
+      ],
+      "duration_ms": 164121,
+      "name": "Call Me Babe",
+      "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 121800,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
-        "name": "Call Me Babe",
-        "url": "https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM"
-      },
-      "artists": [
-        {
-          "name": "mischluft",
-          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
-        }
-      ],
-      "duration_ms": 164121,
-      "name": "Call Me Babe",
-      "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Entertain Me",
-        "url": "https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy"
-      },
-      "artists": [
-        {
-          "name": "mischluft",
-          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "Entertain Me",
-      "url": "https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j"
       },
@@ -1311,22 +1295,34 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Alone Again",
-        "url": "https://open.spotify.com/album/0YzIkTjBZPqImdQLx3VqTc"
+        "name": "Entertain Me",
+        "url": "https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Entertain Me",
+      "url": "https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "It Ain't Over",
+        "url": "https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya"
       },
       "artists": [
         {
           "name": "DJ HEARTSTRING",
           "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        },
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
         }
       ],
-      "duration_ms": 226958,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/1x9SzB3cLpNsykCO5Y2BfR"
+      "duration_ms": 215096,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG"
     },
     {
       "added_at": "2024-12-19 23:00:37",

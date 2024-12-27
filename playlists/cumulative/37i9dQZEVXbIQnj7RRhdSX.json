@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 213800,
       "name": "Amaro",
       "url": "https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -8202,7 +8202,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
@@ -11112,7 +11112,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 190122,
       "name": "Devastante",
       "url": "https://open.spotify.com/track/1ej2NcW0CHnscPp1RZpr1V"
@@ -13836,6 +13836,28 @@
       "duration_ms": 291175,
       "name": "Fair Trade (with Travis Scott)",
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+    },
+    {
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272466,
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
     },
     {
       "album": {
@@ -17632,6 +17654,24 @@
       "duration_ms": 197893,
       "name": "HENTAI (feat. Ghali & Tony Effe)",
       "url": "https://open.spotify.com/track/0ZA3ynCwEXH9sU5TCFRaTs"
+    },
+    {
+      "album": {
+        "name": "Elvis' Christmas Album",
+        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115826,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/7n7VsX3sv66znBwA8b5uhp"
     },
     {
       "album": {
@@ -27428,7 +27468,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
@@ -27446,7 +27486,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -28503,6 +28543,14 @@
         "url": "https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL"
       },
       "artists": [
+        {
+          "name": "Brian Kierulf",
+          "url": "https://open.spotify.com/artist/7xPxbgA4TgMgFHWgYORx47"
+        },
+        {
+          "name": "Josh Schwartz",
+          "url": "https://open.spotify.com/artist/1s36VyXzwA4Q6RC36tcO6q"
+        },
         {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
@@ -37010,7 +37058,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 206539,
       "name": "Santa's Coming for Us",
       "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
@@ -40227,6 +40275,24 @@
     },
     {
       "album": {
+        "name": "Caribou (Remastered 1995)",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272333,
+      "name": "Step Into Christmas - Remastered 1995",
+      "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
+    },
+    {
+      "album": {
         "name": "Quarto di Bue",
         "url": "https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm"
       },
@@ -42816,7 +42882,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 144210,
       "name": "TT LE GIRLZ (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
@@ -45064,7 +45130,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 205714,
       "name": "VITTIMA",
       "url": "https://open.spotify.com/track/13wkp4Ph4UNAVPwf9B04l8"

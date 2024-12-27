@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Тепла музика в прохолодні дні ☕ ❄️🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,173 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,188 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 31 | [КАЖАНИ](https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [КАЖАНИ](https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG) | 3:05 |
 | 32 | [Місто](https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Місто](https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl) | 2:18 |
 | 33 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
-| 34 | [Гість](https://open.spotify.com/track/4QkqXbUMVAvsuZjTzw3dqr) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:48 |
-| 35 | [Ти сонце я сніг](https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Ти сонце я сніг](https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM) | 3:53 |
+| 34 | [Ти сонце я сніг](https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Ти сонце я сніг](https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM) | 3:53 |
+| 35 | [Гість](https://open.spotify.com/track/4QkqXbUMVAvsuZjTzw3dqr) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:48 |
 | 36 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
 | 37 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 |
 | 38 | [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 42 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
 | 43 | [Сюди](https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Сюди](https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP) | 3:00 |
 | 44 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 |
-| 45 | [Backslide](https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Backslide](https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX) | 3:11 |
-| 46 | [я не знаю що зі мною](https://open.spotify.com/track/1mWzQhtZarlT4yqT6RVNot) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI), [NIKKITA](https://open.spotify.com/artist/6bg58Qmn99pP0ZG8JRR9OU) | [я не знаю що зі мною](https://open.spotify.com/album/3v0WU7u2CLiZYStmmiUQNE) | 3:17 |
+| 45 | [я не знаю що зі мною](https://open.spotify.com/track/1mWzQhtZarlT4yqT6RVNot) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI), [NIKKITA](https://open.spotify.com/artist/6bg58Qmn99pP0ZG8JRR9OU) | [я не знаю що зі мною](https://open.spotify.com/album/3v0WU7u2CLiZYStmmiUQNE) | 3:17 |
+| 46 | [Backslide](https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Backslide](https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX) | 3:11 |
 | 47 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 |
 | 48 | [Забудь мене](https://open.spotify.com/track/38GSd0ICt6kGMJlBaVYdPf) | [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ), [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Забудь мене](https://open.spotify.com/album/7qOH8jaMcqpIFa3ktnEbKw) | 2:33 |
 | 49 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |

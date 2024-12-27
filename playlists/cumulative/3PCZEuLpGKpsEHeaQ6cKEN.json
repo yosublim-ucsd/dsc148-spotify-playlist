@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Brando",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  D.O.D",
   "name": "Armada Today",
   "tracks": [
     {
@@ -5315,6 +5315,28 @@
     },
     {
       "album": {
+        "name": "Don't Tell Me",
+        "url": "https://open.spotify.com/album/0NE883RjfQAzH0O9PLL3ib"
+      },
+      "artists": [
+        {
+          "name": "Sweet Female Attitude",
+          "url": "https://open.spotify.com/artist/1054JdBVMCPm9VpvkUcOYX"
+        },
+        {
+          "name": "The Hackney Soldiers",
+          "url": "https://open.spotify.com/artist/7JJiAWMWbx7uUfZBLEZSYG"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213164,
+      "name": "Don't Tell Me - Hackney Soldiers Vocal Edit",
+      "url": "https://open.spotify.com/track/4ouiQvaW1QfouNq78eCmFg"
+    },
+    {
+      "album": {
         "name": "Don't Turn Your Back (Remixes)",
         "url": "https://open.spotify.com/album/3D9UyuHuO5zB0b0OW1mKOJ"
       },
@@ -5430,6 +5452,32 @@
       "duration_ms": 227006,
       "name": "Don't You Want Me - KI/KI Remix",
       "url": "https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG"
+    },
+    {
+      "album": {
+        "name": "Dooms Night",
+        "url": "https://open.spotify.com/album/74L3pbuqP4OV5qINlZ512S"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Azzido Da Bass",
+          "url": "https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr"
+        },
+        {
+          "name": "Timo Maas",
+          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205722,
+      "name": "Dooms Night",
+      "url": "https://open.spotify.com/track/7BklofNhXzceVvCw9g15tU"
     },
     {
       "album": {

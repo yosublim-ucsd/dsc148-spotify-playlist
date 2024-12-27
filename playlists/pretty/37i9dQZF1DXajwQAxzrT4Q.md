@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,786 likes - 75 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,808 likes - 75 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 72 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
 | 73 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 |
 | 74 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
-| 75 | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 |
+| 75 | [HOW 2 BUILD A BETTER BOY](https://open.spotify.com/track/4y6sSlM6Jm4du7SEGhLFSW) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [HOW 2 BUILD A BETTER BOY](https://open.spotify.com/album/0JmTHqE4g2KcRW3HhPVdOs) | 3:17 |
 
 Snapshot ID: `ZronUAAAAAAyBh9tLpciXX2XNQIPcJSw`

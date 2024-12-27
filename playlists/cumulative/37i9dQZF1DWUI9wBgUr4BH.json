@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Myles Smith\n",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Sabrina Carpenter\n",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 168000,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/2dVDbbS9W6n6YY80R4aJdZ"
@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171869,
+      "name": "Bed Chem",
+      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
+    },
+    {
+      "album": {
         "name": "Believe (Shooting Stars)",
         "url": "https://open.spotify.com/album/79WFgZm35smuyjipo6fouj"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 154285,
       "name": "Believe (Shooting Stars)",
       "url": "https://open.spotify.com/track/7fJdto9euM593wybpCdEPV"
@@ -1783,6 +1801,28 @@
     },
     {
       "album": {
+        "name": "CARR\u00c9 OK",
+        "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160628,
+      "name": "CARR\u00c9 OK",
+      "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
+    },
+    {
+      "album": {
         "name": "Ce soir (feat. Gazo)",
         "url": "https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt"
       },
@@ -2078,7 +2118,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 167273,
       "name": "Comment on s'aime",
       "url": "https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo"
@@ -5585,6 +5625,28 @@
     },
     {
       "album": {
+        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
+        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200683,
+      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "album": {
         "name": "Man I Am (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5ra7esHOt8nyFcIFwGJ7wh"
       },
@@ -5728,6 +5790,32 @@
       "duration_ms": 192133,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
+    },
+    {
+      "album": {
+        "name": "Menina de Vermelho",
+        "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
+      },
+      "artists": [
+        {
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+        },
+        {
+          "name": "RAMONMIX",
+          "url": "https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK"
+        },
+        {
+          "name": "The Ironix",
+          "url": "https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151348,
+      "name": "Menina de Vermelho",
+      "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
     },
     {
       "album": {
@@ -8526,7 +8614,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
@@ -9084,6 +9172,28 @@
       "duration_ms": 200000,
       "name": "TI TI TI",
       "url": "https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "album": {
@@ -10006,7 +10116,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 146523,
       "name": "World Gone Wild (feat. Sam Martin)",
       "url": "https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1"

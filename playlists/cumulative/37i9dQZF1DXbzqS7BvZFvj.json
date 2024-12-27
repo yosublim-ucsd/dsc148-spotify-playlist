@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: JJJ",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Young Thug",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "PICASSO: SLUFFIN SZN X SLUT SZN",
+        "url": "https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175059,
+      "name": "Ballin",
+      "url": "https://open.spotify.com/track/4EyehfnpTIVDavxTccLdET"
+    },
+    {
+      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -2181,6 +2199,28 @@
     },
     {
       "album": {
+        "name": "Slime Season 2",
+        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "Big Racks (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/78yaF5XiIF5TA9klP3YoR0"
+    },
+    {
+      "album": {
         "name": "Afrikan Alien",
         "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
       },
@@ -2196,7 +2236,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 181600,
       "name": "Big Smile (Pose For Me) [feat. ODUMODUBLVCK]",
       "url": "https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6"
@@ -3444,7 +3484,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 119466,
       "name": "Catch Fire",
       "url": "https://open.spotify.com/track/0ZXdhjDOM6LPrmUjUlRYJi"
@@ -6242,7 +6282,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 230645,
       "name": "Friends, Family & God (feat. G-k.i.d & KEIJU)",
       "url": "https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L"
@@ -7296,6 +7336,32 @@
       "duration_ms": 202032,
       "name": "HANDLING BUSINESS (with Tory Lanez)",
       "url": "https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3"
+    },
+    {
+      "album": {
+        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
+        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137952,
+      "name": "Hannah Montana (with NLE Choppa & DaBaby)",
+      "url": "https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7"
     },
     {
       "album": {
@@ -13694,7 +13760,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 145654,
       "name": "One More Chance",
       "url": "https://open.spotify.com/track/21uSNJ4eu3ou54g7D4cGTY"
@@ -13738,7 +13804,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 150857,
       "name": "One Time",
       "url": "https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb"
@@ -16612,6 +16678,32 @@
       "duration_ms": 131489,
       "name": "SHEITE",
       "url": "https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC"
+    },
+    {
+      "album": {
+        "name": "Gift For The Streets",
+        "url": "https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165965,
+      "name": "Shit Show (feat. Veeze & Lil Yachty)",
+      "url": "https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM"
     },
     {
       "album": {
@@ -19833,6 +19925,24 @@
     },
     {
       "album": {
+        "name": "UNTITLED",
+        "url": "https://open.spotify.com/album/0puoxQT409nq9IuV5GT2Va"
+      },
+      "artists": [
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "UNTITLED",
+      "url": "https://open.spotify.com/track/7sPMLw5bY4gqtJgpYYCYx1"
+    },
+    {
+      "album": {
         "name": "Us Vs. Them",
         "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
       },
@@ -20907,6 +21017,32 @@
     },
     {
       "album": {
+        "name": "Woah",
+        "url": "https://open.spotify.com/album/0A2qUNpVdzIc6MckvYwY5W"
+      },
+      "artists": [
+        {
+          "name": "Ghostluvme",
+          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Reverse Pathogen",
+          "url": "https://open.spotify.com/artist/6IAD8C2NCYddGZjBapx9AR"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208831,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/37rxbUlFTtQMX2JxirVGi1"
+    },
+    {
+      "album": {
         "name": "WOKE UP",
         "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
       },
@@ -21344,7 +21480,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 157332,
       "name": "You Don\u2019t Love Me",
       "url": "https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV"

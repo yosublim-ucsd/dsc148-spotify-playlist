@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,788 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,818 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 34 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
 | 35 | [Off the Main Drag](https://open.spotify.com/track/3jdlFiVKRNpLQboArLidxn) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [North Americana](https://open.spotify.com/album/4s9YcRjOOV0m22xeSGIRGl) | 3:44 |
 | 36 | [Farewell Transmission](https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:22 |
-| 37 | [Pale Blue Eyes](https://open.spotify.com/track/3xjaiUvS1ilQFVR5WtzxX5) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground](https://open.spotify.com/album/1aERiG8Qvs5LgxplWi3fkL) | 5:41 |
-| 38 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 |
+| 37 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 |
+| 38 | [Pale Blue Eyes](https://open.spotify.com/track/3xjaiUvS1ilQFVR5WtzxX5) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground](https://open.spotify.com/album/1aERiG8Qvs5LgxplWi3fkL) | 5:41 |
 | 39 | [Orange Sky](https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG) | 6:19 |
 | 40 | [Three Months](https://open.spotify.com/track/7rJBr0zLQQyHws9E9Ck8P8) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:30 |
 | 41 | [Eyes](https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/0ipi3dQXxde567orrSLq50) | 2:28 |
 | 42 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
 | 43 | [Pink Moon](https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg) | 2:03 |
 | 44 | [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 |
-| 45 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 |
-| 46 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |
-| 47 | [Sunday Morning](https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l) | 2:55 |
+| 45 | [Sunday Morning](https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l) | 2:55 |
+| 46 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 |
+| 47 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |
 | 48 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 |
 | 49 | [The Magician](https://open.spotify.com/track/0pNA2zQRy93duN1zqbcL3T) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Magician](https://open.spotify.com/album/3HMfETBoNhyuPPoVEtdmbm) | 3:51 |
 | 50 | [Your Song](https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 4:03 |

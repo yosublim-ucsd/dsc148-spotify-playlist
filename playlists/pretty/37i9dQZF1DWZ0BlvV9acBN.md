@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rodolfo Abrantes
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,703 likes - 70 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,724 likes - 70 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 15 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 |
 | 16 | [Resistência](https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Resistência](https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ) | 4:21 |
 | 17 | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT) | 4:12 |
-| 18 | [O Perfeito Mundo Imperfeito](https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw) | [Catedral](https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX) | [Registrado](https://open.spotify.com/album/1C2WhKKZ2EmTzoSlHw8cAN) | 2:16 |
+| 18 | [DESMANCHOU](https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [DESMANCHOU](https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR) | 4:12 |
 | 19 | [Tudo Fica Bem](https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Tudo Fica Bem](https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE) | 5:04 |
-| 20 | [DESMANCHOU](https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [DESMANCHOU](https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR) | 4:12 |
+| 20 | [O Perfeito Mundo Imperfeito](https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw) | [Catedral](https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX) | [Registrado](https://open.spotify.com/album/1C2WhKKZ2EmTzoSlHw8cAN) | 2:16 |
 | 21 | [O Que Me Espera](https://open.spotify.com/track/7nC1xiw6oZ0dA7hLzvEju3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:41 |
 | 22 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 |
 | 23 | [Dia De Milagres](https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Ramiro Garcia](https://open.spotify.com/artist/5XsYk2KMZlUPlr2GhELgZx), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Dia De Milagres](https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ) | 4:22 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 37 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
 | 38 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 |
 | 39 | [Autor da Vida](https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Autor da Vida](https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn) | 4:28 |
-| 40 | [Na Corte do Egito \- Ao Vivo](https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Na Corte do Egito \(Ao Vivo\)](https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz) | 4:44 |
-| 41 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Band](https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 |
+| 40 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Band](https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 |
+| 41 | [Na Corte do Egito \- Ao Vivo](https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Na Corte do Egito \(Ao Vivo\)](https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz) | 4:44 |
 | 42 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
 | 43 | [Força](https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Força](https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc) | 4:00 |
 | 44 | [Maranata \(Trono\)](https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo) | [Igor Pinheiro de Lima](https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku), [Lari Lindstron](https://open.spotify.com/artist/15JLGAUpRQL7mhsxj2CdDd) | [Maranata \(Trono\)](https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw) | 5:03 |

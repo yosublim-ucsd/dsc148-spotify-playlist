@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 61760,
+  "num_followers": 61765,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAAHDH3MJnOKX/W69DwnjAAt",
+  "snapshot_id": "Z2tLAAAAAACB2voqoPpBYyE05x7kofYi",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jireh",
         "url": "https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 575587,
       "name": "Jireh",
       "url": "https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 388989,
-      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medley Cora\u00e7\u00e3o Igual ao Teu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 437090,
       "name": "Medley Cora\u00e7\u00e3o Igual ao Teu - Ao Vivo",
       "url": "https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 388989,
+      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
     },
     {
       "added_at": null,
@@ -971,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 265586,
+      "name": "Os Que Esperam - Ao Vivo",
+      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
         "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 427917,
       "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
       "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 265586,
-      "name": "Os Que Esperam - Ao Vivo",
-      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
     },
     {
       "added_at": null,
@@ -1039,6 +1039,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 438280,
+      "name": "O Senhor \u00c9 Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fogo e Gl\u00f3ria (Ao Vivo em Curitiba)",
         "url": "https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 897720,
       "name": "Enche Este Lugar - Ao Vivo em Curitiba",
       "url": "https://open.spotify.com/track/4rhzNUHKdJrPztV2edciTB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 438280,
-      "name": "O Senhor \u00c9 Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE"
     }
   ],
   "unique_name": "This Is N\u00edvea Soares",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,233 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,227 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 16 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
 | 17 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 |
 | 18 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
-| 19 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 |
+| 19 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 20 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
 | 21 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:10 |
 | 22 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:51 |
 | 23 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 |
 | 24 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
-| 25 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 2:35 |
+| 25 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:35 |
 | 26 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 27 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
 | 28 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 49 | [Deck The Hall](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 |
 | 50 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 |
 
-Snapshot ID: `Lv9yyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LwDESAAAAAAAAAAAAAAAAAAAAAAAAGVu`

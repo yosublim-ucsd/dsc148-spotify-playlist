@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,406 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,405 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 40 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
 | 41 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 |
 | 42 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 |
-| 43 | [number one lover](https://open.spotify.com/track/4tbNJjyuDVltnO1HbQntoi) | [sim0ne](https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV) | [number one lover](https://open.spotify.com/album/0rUAqxN1cw4cmkbqZXTd4m) | 2:23 |
-| 44 | [I Want What I Don't Need](https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey) | 3:35 |
+| 43 | [I Want What I Don't Need](https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey) | 3:35 |
+| 44 | [number one lover](https://open.spotify.com/track/4tbNJjyuDVltnO1HbQntoi) | [sim0ne](https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV) | [number one lover](https://open.spotify.com/album/0rUAqxN1cw4cmkbqZXTd4m) | 2:23 |
 | 45 | [STRAP!](https://open.spotify.com/track/1ADao6bcWmASlYzOBOb05x) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Gelatinous Man](https://open.spotify.com/album/5tgtsCwTYoffBARqhQtjzy) | 1:59 |
 | 46 | [Bite The Hand](https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Bite The Hand / Kind of Love](https://open.spotify.com/album/4Ehq3wUDJzv6pWVFWW8V6T) | 2:38 |
 | 47 | [I Would Die 4 U](https://open.spotify.com/track/3K1XfGFwe8lGdlr0TRze5N) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL), [Wendy & Lisa](https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:21 |
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 56 | [Control](https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Control](https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn) | 2:15 |
 | 57 | [BUMPED IN THE HEAD](https://open.spotify.com/track/5U4pOZ6k7JG7osMnSs1hxa) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [BUMPED IN THE HEAD](https://open.spotify.com/album/3f9jyruZx5YCvNDa4pEGwz) | 2:36 |
 | 58 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 |
-| 59 | [Trouble](https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:39 |
-| 60 | [Meditations](https://open.spotify.com/track/5WCE4PyJgYWgn1Jq8JHtNs) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5) | [Meditations](https://open.spotify.com/album/3ZeOrfh7qU6PgCIg5FvYd1) | 5:57 |
+| 59 | [Meditations](https://open.spotify.com/track/5WCE4PyJgYWgn1Jq8JHtNs) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5) | [Meditations](https://open.spotify.com/album/3ZeOrfh7qU6PgCIg5FvYd1) | 5:57 |
+| 60 | [Trouble](https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:39 |
 | 61 | [Kerosene Dreams](https://open.spotify.com/track/2tHUKqdFCcrJ0xiC9SNOwb) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [A Guilty Heart Can Never Rest](https://open.spotify.com/album/7kUEQbqX1Kaf6oL2x046d6) | 3:05 |
 | 62 | [Close To You](https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 5:41 |
-| 63 | [Come Undone](https://open.spotify.com/track/2QQP5JWmFGiI6qINAQ2rGC) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [The Warping](https://open.spotify.com/album/4sdNDQaXa1x15gsFUbUMXd) | 3:39 |
-| 64 | [If I Don't Laugh I'll Cry](https://open.spotify.com/track/4K3CoRfaby61VVNoDS6xjJ) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Digital Heartifacts](https://open.spotify.com/album/1DzhKoFw6wH2f0SUQXy4Gz) | 2:52 |
+| 63 | [If I Don't Laugh I'll Cry](https://open.spotify.com/track/4K3CoRfaby61VVNoDS6xjJ) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Digital Heartifacts](https://open.spotify.com/album/1DzhKoFw6wH2f0SUQXy4Gz) | 2:52 |
+| 64 | [Come Undone](https://open.spotify.com/track/2QQP5JWmFGiI6qINAQ2rGC) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [The Warping](https://open.spotify.com/album/4sdNDQaXa1x15gsFUbUMXd) | 3:39 |
 | 65 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 |
-| 66 | [RIDE](https://open.spotify.com/track/12RWoYcPeMb42JOLu7Xzp8) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [RIDE](https://open.spotify.com/album/4kUR2d4Y8Do3wInxBxMFnk) | 2:05 |
-| 67 | [Second Best](https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [The Garden Dream](https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R) | 2:50 |
+| 66 | [Second Best](https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [The Garden Dream](https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R) | 2:50 |
+| 67 | [RIDE](https://open.spotify.com/track/12RWoYcPeMb42JOLu7Xzp8) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [RIDE](https://open.spotify.com/album/4kUR2d4Y8Do3wInxBxMFnk) | 2:05 |
 | 68 | [Paint Me Like A Woman](https://open.spotify.com/track/6uFOrSpwGRFrSCCZIwaVrY) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Paint Me Like A Woman](https://open.spotify.com/album/2wuTuT0PhsusCx1kk8fEMY) | 4:44 |
 | 69 | [we2assume2many2roles](https://open.spotify.com/track/3dr4RVjksmZV0wS28aRGot) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:18 |
 | 70 | [Balcony Floor](https://open.spotify.com/track/5nrEBwM2iNBj62MLnC2HIY) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK) | 3:13 |

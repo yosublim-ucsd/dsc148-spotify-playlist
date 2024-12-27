@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,597 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,637 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 31 | [Bella Notte](https://open.spotify.com/track/5LO9QzNKUOxtLqOfygsOAV) | [Lou Monte](https://open.spotify.com/artist/7dbKeVkihtOifdiu7f3rUg) | [The Best Of RCA Victor Recordings](https://open.spotify.com/album/54vpLuk6RjUQoXUgay9sdk) | 2:43 |
 | 32 | [Parlami d'amore, Mariù](https://open.spotify.com/track/2wjwzY4BFijBxmnV5b2y2x) | [Cesare Andrea Bixio](https://open.spotify.com/artist/4M5Ttp109RCi5lxSFFiprS), [Giuseppe Di Stefano](https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj), [Dino Olivieri](https://open.spotify.com/artist/0SZKROPnqEzefRAqIKmhr5) | [Giuseppe di Stefano: Italy](https://open.spotify.com/album/71l2dJapVmI1TCIv0CABen) | 3:13 |
 | 33 | [E Rrose Parlano](https://open.spotify.com/track/3gv3DtiBiTWsVrorvJjyH5) | [Jimmy Roselli](https://open.spotify.com/artist/7IbQOrbuDPJu0mac9pDwf3) | [Aggio Perduto O Suonno](https://open.spotify.com/album/76U9nf3gDjcAv4ZNbyC4rN) | 4:12 |
-| 34 | [Arrivederci Roma](https://open.spotify.com/track/5hFzGBJ7nhYHg8IZ5oTYdu) | [Sergio Franchi](https://open.spotify.com/artist/3afJ7ksCTA53PwM233jIf8) | [This Is Sergio Franchi](https://open.spotify.com/album/7MAb4ipqNcHCYSZalRCqbY) | 3:23 |
+| 34 | [Arrivederci Roma](https://open.spotify.com/track/5hFzGBJ7nhYHg8IZ5oTYdu) | [Renato Rascel](https://open.spotify.com/artist/1GVIshrqh9tT1excC8sftj), [Pietro Garinei](https://open.spotify.com/artist/0IQQvVcg8yGxrkQsTZjxMO), [Alessandro Giovannini](https://open.spotify.com/artist/0rr9T4u0NYFs1BS28NA5IM), [Sergio Franchi](https://open.spotify.com/artist/3afJ7ksCTA53PwM233jIf8), [Henri Rene](https://open.spotify.com/artist/65dfY9wvk8WRCknx4EQIeT) | [This Is Sergio Franchi](https://open.spotify.com/album/7MAb4ipqNcHCYSZalRCqbY) | 3:23 |
 | 35 | [This Is Heaven](https://open.spotify.com/track/08XE9DL4G4nB21QgHEkeaT) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julius LaRosa](https://open.spotify.com/album/36Amo3vFBVrwGlXq7OUCnT) | 3:08 |
 | 36 | [Città vuota](https://open.spotify.com/track/4LrFMFEu8tc8DKm4VXGnJd) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Studio Uno](https://open.spotify.com/album/4kOeOxOX8Jr1wCgEQr7M3C) | 2:38 |
 | 37 | [It's Not For Me To Say](https://open.spotify.com/track/4lFXv6eBek6kEiGYzh2mH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Johnny's Greatest Hits](https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1) | 3:05 |

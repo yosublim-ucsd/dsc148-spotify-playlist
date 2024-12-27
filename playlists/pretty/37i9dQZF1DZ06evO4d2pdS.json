@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3178,
+  "num_followers": 3179,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAAXLYLtIsQ5MWw9BZUcKiBT",
+  "snapshot_id": "Z2tLAAAAAAAB+ou63MqU+tZgR5qxo6e1",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ETHER",
+        "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 194676,
+      "name": "WATER (with Lakeyah)",
+      "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
         "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 208163,
       "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
       "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ETHER",
-        "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
-      },
-      "artists": [
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 194676,
-      "name": "WATER (with Lakeyah)",
-      "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 137136,
-      "name": "Asked For This",
-      "url": "https://open.spotify.com/track/1k5AGIfp3NcmSN9XqTkxXB"
+      "duration_ms": 158400,
+      "name": "Ooh Ahh",
+      "url": "https://open.spotify.com/track/7iCmwZaQJOAOxTUp1kI2OM"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Time (Gangsta Grillz: Special Edition)",
-        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 163416,
-      "name": "A Letter To You",
-      "url": "https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Not Me It's You (Deluxe)",
         "url": "https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 161684,
       "name": "Rich Bitch (feat. Lakeyah & Coi Leray)",
       "url": "https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 163416,
+      "name": "A Letter To You",
+      "url": "https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 126579,
+      "name": "Pop Dat",
+      "url": "https://open.spotify.com/track/69IaTU22g3APresMDbF4g9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Time (Gangsta Grillz: Special Edition)",
         "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 172714,
       "name": "Check (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure (Pt. 1)",
-        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 126579,
-      "name": "Pop Dat",
-      "url": "https://open.spotify.com/track/69IaTU22g3APresMDbF4g9"
     }
   ],
   "unique_name": "This Is Lakeyah",

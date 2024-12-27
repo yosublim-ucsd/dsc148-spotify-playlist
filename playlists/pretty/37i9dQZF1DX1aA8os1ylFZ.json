@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 244031,
+  "num_followers": 244035,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
+        "name": "Baby Boy 2",
+        "url": "https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7"
+      },
+      "artists": [
+        {
+          "name": "Ruskey",
+          "url": "https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK"
+        }
+      ],
+      "duration_ms": 135211,
+      "name": "So Fresh So Clean",
+      "url": "https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
         "name": "Regrets",
         "url": "https://open.spotify.com/album/19FBgiQpcYHjboNHmQMy5P"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 177902,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/5lRyRnZUIwVfEgzOyeT7ZV"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
-        "name": "Baby Boy 2",
-        "url": "https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7"
-      },
-      "artists": [
-        {
-          "name": "Ruskey",
-          "url": "https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK"
-        }
-      ],
-      "duration_ms": 135211,
-      "name": "So Fresh So Clean",
-      "url": "https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU"
     },
     {
       "added_at": "2024-12-05 10:25:46",

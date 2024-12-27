@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nPhr34bpboP46HkOvWUyP.md) - [plain]
 
 > ⭐ALL OF MY MUSIC: SOLO &amp; FEATURE WORK⭐
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 22 likes - 52 songs - 2 hr 34 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 22 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,18 @@ pretty - [cumulative](/playlists/cumulative/4nPhr34bpboP46HkOvWUyP.md) - [plain]
 | 50 | [BEAR YOUR FANGS](https://open.spotify.com/track/31bqp8q08EOV62NXr7bQSa) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [BEAR YOUR FANGS](https://open.spotify.com/album/0cKHSmukSYFb9O29FHcHDj) | 3:01 |
 | 51 | [TALK SHIT!!](https://open.spotify.com/track/5aYP4yt655ZTqsQ2sAeEk7) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [TALK SHIT!!](https://open.spotify.com/album/5RefZe6Wj5M9KHLZoXZAZB) | 2:46 |
 | 52 | [Memories](https://open.spotify.com/track/7K41fHAcSEqBDBWm1Y8DC1) | [Pötlays](https://open.spotify.com/artist/1WyFANi32GuStt5jPywgRZ), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Never Wanna Know](https://open.spotify.com/album/5XPP7mZITlwBlKm40DS0zG) | 2:29 |
+| 53 | [ON THE RUN](https://open.spotify.com/track/5A62Wt9lUe7cHD5Yt40Vf9) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:07 |
+| 54 | [CRIMINAL](https://open.spotify.com/track/4HpDeO5zCUVXVAhINU4I9u) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:15 |
+| 55 | [BEAR YOUR FANGS](https://open.spotify.com/track/6Rl5PrsLA0Vz9bx3E0QV9G) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:01 |
+| 56 | [KEEP THE LIGHTS ON](https://open.spotify.com/track/4HyXBIiESmnMZhztOmW7IK) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:34 |
+| 57 | [NO MORE PARTIES](https://open.spotify.com/track/2lcSrPHDrG8jnRYcIKodcE) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:12 |
+| 58 | [UNDER THE MOON](https://open.spotify.com/track/4x6N95mRNVrJmzvAwAPIhW) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Luminives](https://open.spotify.com/artist/1ZTi4INXlrjdNBtcZTxh1y), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:09 |
+| 59 | [NOW UNTIL FOREVER](https://open.spotify.com/track/6TKeBsczN0YE8X29XhfAjs) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 1:54 |
+| 60 | [MASCARA](https://open.spotify.com/track/4rLQ3SZZio1TKc9Hod7zMK) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:52 |
+| 61 | [BURN THE HOUSE DOWN](https://open.spotify.com/track/3evbU2MJiwzD9x3iOlDWn0) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:08 |
+| 62 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 |
+| 63 | [BANG BANG \(MY BABY SHOT ME DOWN\)](https://open.spotify.com/track/0uz0qDHL80vqkEAOCs4Wum) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:28 |
+| 64 | [DAMSEL IN DISTRESS](https://open.spotify.com/track/6aypVvoftS3gKkBE5WJE3Y) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [NotSoFinest](https://open.spotify.com/artist/2Uk2YETdcoV8fXzX2DUnwQ) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:01 |
+| 65 | [LAMENT](https://open.spotify.com/track/3Cv0icGRvbEqGW2rjNvx0C) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:52 |
 
-Snapshot ID: `AAABNF6pUWEMSYITopGh46CEXN34TrDT`
+Snapshot ID: `AAABNd5kRtbmsQ0xTKuPLaUw1rA2nI5H`

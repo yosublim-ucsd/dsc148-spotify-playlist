@@ -1663,6 +1663,28 @@
     },
     {
       "album": {
+        "name": "Theosophy",
+        "url": "https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs"
+      },
+      "artists": [
+        {
+          "name": "Pete Molinari",
+          "url": "https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57"
+        },
+        {
+          "name": "Barrie Cadogan",
+          "url": "https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225098,
+      "name": "Hang My Head in Shame",
+      "url": "https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy"
+    },
+    {
+      "album": {
         "name": "Marlon Williams",
         "url": "https://open.spotify.com/album/4YZFCwN1KJOYs6bdm3aKhI"
       },
@@ -2568,7 +2590,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 179506,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/4o0PuOz0SpXuZXQCiwJz2j"

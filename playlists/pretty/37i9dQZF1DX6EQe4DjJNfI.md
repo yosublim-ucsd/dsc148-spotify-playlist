@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Luccas Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,225 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,239 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 54 | [Hortelã](https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Hortelã](https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug) | 2:35 |
 | 55 | [Blusa da High](https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Blusa da High](https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG) | 2:40 |
 | 56 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 |
-| 57 | [risco](https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 3:33 |
-| 58 | [Seu Bem](https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Seu Bem](https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l) | 3:27 |
+| 57 | [Seu Bem](https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Seu Bem](https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l) | 3:27 |
+| 58 | [risco](https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 3:33 |
 | 59 | [Porto Seguro](https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8) | [Caio G](https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5), [Netto Galdino](https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS) | [Porto Seguro](https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ) | 2:48 |
 | 60 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 |
 | 61 | [Hey Girl](https://open.spotify.com/track/5qAfTkA6FxXxi6FnTcqYRH) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [O BGLH É BLACK](https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt) | 2:57 |

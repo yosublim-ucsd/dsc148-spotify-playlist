@@ -4,7 +4,7 @@
 
 > 
 
-1,920 songs - 4 day 6 hr 18 min
+1,921 songs - 4 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1660,6 +1660,7 @@
 | [The Light \- Unresolved Remix](https://open.spotify.com/track/1XdKlzMVVoVoNNOSndxPWz) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [The Light \(Unresolved Remix\)](https://open.spotify.com/album/6053fpbIUiCPKcVhbnG1x4) | 3:07 | 2023-07-08 |  |
 | [The Limelight](https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [The Limelight](https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j) | 4:32 | 2022-09-14 |  |
 | [The Mind](https://open.spotify.com/track/6WW4eJzOLZnlHIqYLKPRKO) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Hardcore Top 100 \- 2022](https://open.spotify.com/album/4Ersy0iDqv2ZCknpTlWaWB) | 2:49 | 2022-08-23 |  |
+| [THE NATION](https://open.spotify.com/track/6vQF0OGHEbFag8svjKRcmp) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06) | [THE NATION](https://open.spotify.com/album/2sTtVPUuqg8T8iWNUxiWXJ) | 2:46 | 2024-12-26 |  |
 | [The Next Level](https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [The Next Level](https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut) | 3:15 | 2022-09-06 |  |
 | [The Night](https://open.spotify.com/track/3jAWf9hMSgXE6t0Zzn6RYd) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [The Night](https://open.spotify.com/album/42KHAOgMB93IRU2bY9GBjz) | 3:03 | 2024-09-11 |  |
 | [The Oni Retribution](https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [The Oni Retribution](https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb) | 4:25 | 2023-10-20 |  |

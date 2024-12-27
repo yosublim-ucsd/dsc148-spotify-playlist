@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Katy Perry.
 
-422 songs - 21 hr 8 min
+424 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-12 | 2024-11-15 |
 | [Jealousy \- From the Vault](https://open.spotify.com/track/44jX2MFYW9vDayWo94q6TA) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds: X](https://open.spotify.com/album/0cOURyRiI1HI6BEyhH9ktH) | 3:44 | 2024-09-26 | 2024-10-11 |
 | [jeesus](https://open.spotify.com/track/5BqTedQR0QEN7UkyvEKNeS) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [thank you for all the support](https://open.spotify.com/album/0Lul2mtI4sUKfAEFXWJMSd) | 2:07 | 2024-10-10 | 2024-10-25 |
+| [Jeesus](https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Jeesus](https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe) | 1:50 | 2024-12-26 |  |
 | [JOHANNES KASTAJA](https://open.spotify.com/track/75iWVzpdkvnR5ADK3EL4gi) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [NOIDANKEHÄ](https://open.spotify.com/album/7wQUA6wEvkiBriwyfmAIJf) | 2:08 | 2024-10-10 | 2024-10-25 |
 | [Joku, jonka luo palata](https://open.spotify.com/track/1XYPk1AGMeJ4wOfkudWsXb) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Joku, jonka luo palata](https://open.spotify.com/album/1kuWX6YfOl9tnpEHMf8i5r) | 3:10 | 2024-10-24 | 2024-12-13 |
 | [Jos tuut vielä vastaan](https://open.spotify.com/track/15O33QdWhnWQIO7M7Vo2Lu) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Jos tuut vielä vastaan](https://open.spotify.com/album/0m14F9RLRrP56ffKJLHfD7) | 2:53 | 2024-09-19 | 2024-10-04 |
@@ -267,6 +268,7 @@
 | [Now Or Never](https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Now Or Never](https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA) | 2:28 | 2024-11-20 |  |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 | 2024-12-06 |
 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 | 2024-08-15 | 2024-09-13 |
+| [Näihin hommiin ei synnytä](https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Näihin hommiin ei synnytä](https://open.spotify.com/album/1fgrqR1FWrPEhiDatGo1gL) | 2:45 | 2024-12-26 |  |
 | [Nössöö elämää](https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Nössöö elämää](https://open.spotify.com/album/7gaDjn3N035NDekrWIV9Cg) | 3:25 | 2024-07-02 | 2024-09-06 |
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-26 | 2024-08-08 |
 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 | 2024-12-19 |  |

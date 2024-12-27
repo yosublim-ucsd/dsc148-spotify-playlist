@@ -3969,6 +3969,28 @@
     },
     {
       "album": {
+        "name": "FUNK INFERNAL (SUPER SLOWED)",
+        "url": "https://open.spotify.com/album/0RCQaTv3lXxpxuARK4VKgO"
+      },
+      "artists": [
+        {
+          "name": "DYGO",
+          "url": "https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7"
+        },
+        {
+          "name": "Mxng0",
+          "url": "https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118181,
+      "name": "FUNK INFERNAL (SUPER SLOWED)",
+      "url": "https://open.spotify.com/track/5qVFC3hDLKdLYRvC2oBGo7"
+    },
+    {
+      "album": {
         "name": "Funk of Gal\u00e1ctico",
         "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
       },
@@ -4142,7 +4164,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 255333,
       "name": "GDE PAPA LONGMIX",
       "url": "https://open.spotify.com/track/7MRLGjlf6qUWBS59FBMhCA"
@@ -4558,7 +4580,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -4576,7 +4598,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 216746,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/3iKpHZWqkPuzYRUAOhz0To"
@@ -5034,6 +5056,32 @@
       "duration_ms": 197538,
       "name": "HIGHLY INSULTED",
       "url": "https://open.spotify.com/track/76wgL5yfNiX3tpwLofH4rt"
+    },
+    {
+      "album": {
+        "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar (Vers\u00e3o BH)",
+        "url": "https://open.spotify.com/album/2unD5lf5RJvjXdKvBOxcuE"
+      },
+      "artists": [
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "DJ DAVY FELIPE",
+          "url": "https://open.spotify.com/artist/3lcoMONMPxWP4WzYYK403m"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88615,
+      "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar - Vers\u00e3o BH",
+      "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
     },
     {
       "album": {
@@ -5610,7 +5658,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
@@ -7260,7 +7308,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 205069,
       "name": "Mimukauwa Nice Try",
       "url": "https://open.spotify.com/track/0kFj7et49LhQG4pQPFwi4q"
@@ -9400,7 +9448,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 122053,
       "name": "Remember Me (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2fQwoYSzWzChmIB2zZwrGL"
@@ -12342,7 +12390,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 161133,
       "name": "Wasteland (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5r9OlaHzqlOKkFAv0q5Gm3"
@@ -16760,7 +16808,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 293035,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/1xLXgTfojHvAqVuevBQ1Gz"
@@ -17324,7 +17372,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 86400,
       "name": "\u041d\u0430 \u0440\u0443\u043a\u0430\u0445",
       "url": "https://open.spotify.com/track/0sxKPcwuIerPCwV8E3Ytww"
@@ -17844,6 +17892,24 @@
       "duration_ms": 221160,
       "name": "\u041d\u043e\u0432\u043e\u0435 \u041f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u0435 - Original soundtrack \"\u041d\u043e\u0432\u043e\u0435 \u041f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u0435\"",
       "url": "https://open.spotify.com/track/0wsJZFyklmgeIbmgUN5oap"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0441\u0442\u043e\u0440\u043e\u0436\u043d\u043e - \u0445\u0440\u0443\u043f\u043a\u043e\u0435",
+        "url": "https://open.spotify.com/album/4iT59muxs9E3gAMWHfYSeo"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0442\u0435\u043a\u043b\u043e\u0432\u0430\u0442\u0430",
+          "url": "https://open.spotify.com/artist/3yhOlOHePMA3oe6rRAvdMz"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241893,
+      "name": "\u041d\u043e\u0432\u044b\u0439 \u0433\u043e\u0434",
+      "url": "https://open.spotify.com/track/5Ne6yWmQZ8qrCnOJ2Fc7Tb"
     },
     {
       "album": {

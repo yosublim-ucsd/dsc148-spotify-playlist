@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw">  كزابيرو </a>
 
-276 songs - 20 hr 7 min
+277 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [احزان](https://open.spotify.com/track/4TM9BFIoAizYGhwxhpqJlD) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/7HmAVQ3sV461mow0iEmVlM) | 23:46 | 2022-07-14 | 2023-05-12 |
 | [احزان](https://open.spotify.com/track/78Qm9FSk3A6MOc3o7RtzIq) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/6vxFPL1a81sNUrcYHaCsvM) | 23:46 | 2021-12-16 | 2022-07-29 |
 | [اسف يا نفسي](https://open.spotify.com/track/0a5RhyjwXaSOsv5KyNzISr) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [اسف يا نفسي](https://open.spotify.com/album/2kIBZ9uvmCaxjCGNT9kVyH) | 4:36 | 2024-02-05 |  |
-| [الباشا](https://open.spotify.com/track/2KkuXDZWQlwFa8QKeATHH2) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [الباشا](https://open.spotify.com/album/31MkClRO6l5z3eSdoxX4nR) | 3:08 | 2024-09-05 |  |
+| [الباشا](https://open.spotify.com/track/2KkuXDZWQlwFa8QKeATHH2) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [الباشا](https://open.spotify.com/album/31MkClRO6l5z3eSdoxX4nR) | 3:08 | 2024-09-05 | 2024-12-27 |
 | [البطه البطه](https://open.spotify.com/track/4w7ZbySCNWOehHZjiT8Uws) | [حمزة الصغير](https://open.spotify.com/artist/20y1jfVrZPTR65Lw8i9MMN) | [الله عليك](https://open.spotify.com/album/6vUCRUmQ7jTzvqDB0KXc0A) | 4:19 | 2021-12-16 | 2023-05-12 |
 | [الثبات الثبات](https://open.spotify.com/track/0RKfjPG1r7ZlPsAJ8MPuVI) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [الثبات الثبات](https://open.spotify.com/album/0S4LwZEuXNAu7e2Sacp6Nv) | 3:30 | 2024-08-08 |  |
 | [الجدع](https://open.spotify.com/track/1byDc7CCRVo5nhD7zk6Vs3) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [الجدع](https://open.spotify.com/album/1SBSlPem3rQ5r97XDh5DQQ) | 3:19 | 2024-01-11 | 2024-02-16 |
@@ -181,6 +181,7 @@
 | [الجدعنة](https://open.spotify.com/track/20Al2SXH2t2M0hfbQelm8H) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [الجدعنة](https://open.spotify.com/album/0mEgEkPb9YX5Sd6buu5omT) | 5:30 | 2021-12-16 | 2022-12-21 |
 | [الجدعنه](https://open.spotify.com/track/45pq6F78VuQ4niCJXRFbHu) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [احمد سعد](https://open.spotify.com/artist/0ONMTwxxQh5MJoIcTN3xld) | [الجدعنه](https://open.spotify.com/album/0kEBjzI9r6jDtMCUd0TgTg) | 5:30 | 2023-11-23 | 2024-03-29 |
 | [الجو ولع](https://open.spotify.com/track/0vzm1POq1H0JVHwSOaufio) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [الجو ولع](https://open.spotify.com/album/4fI2rUMGuMonjwntO2YgUW) | 3:34 | 2023-06-27 | 2024-04-19 |
+| [الحبل ع الجرار \- الشغله شغلانتى](https://open.spotify.com/track/2PxPe2y76wUqYFxsSssq7S) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [الحبل ع الجرار \(الشغله شغلانتى\)](https://open.spotify.com/album/5vfuYqFQSTASttQkAFu2TP) | 4:42 | 2024-12-26 |  |
 | [الحريفة \- متبصليش وامشي يا ليفه](https://open.spotify.com/track/3ZRh88QpuxE7hHigevRl0e) | [Amr Salama](https://open.spotify.com/artist/4GcegYRULZV2bEkSgl01Wk), [عدوية شعبان عبدالرحيم](https://open.spotify.com/artist/3WGUpjRhDaXJpmhCRpIMkX) | [الحريفة \(متبصليش وامشي يا ليفه\)](https://open.spotify.com/album/61N7qhss8Xpqk9jgnvOeqe) | 4:21 | 2024-08-11 |  |
 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 | 2023-05-11 |  |
 | [الدنيا زى المرجيحة](https://open.spotify.com/track/1vRKDZtuIgUQvfq1PvtwBY) | [عمرو السعيد](https://open.spotify.com/artist/50uquiqMmLZCaWwyuO84pg) | [الدنيا زى المرجيحة](https://open.spotify.com/album/1d9t3nnfhkQCy8NOMSeMVF) | 4:56 | 2021-12-16 |  |

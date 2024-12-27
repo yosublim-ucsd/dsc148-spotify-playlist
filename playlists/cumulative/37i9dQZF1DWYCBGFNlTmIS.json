@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "FLANDERS",
+        "url": "https://open.spotify.com/album/7kxIzybDHMVhyvFLTVFqki"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254149,
+      "name": "\u51ac\u5929\u4e00\u500b\u904a",
+      "url": "https://open.spotify.com/track/5fUTAFnlTNXgBQnHiUMWSr"
+    },
+    {
+      "album": {
         "name": "\u52ff\u5ff5",
         "url": "https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH"
       },
@@ -1342,6 +1360,28 @@
       "duration_ms": 114418,
       "name": "\u6211\u5514\u8981\u518d\u89ba\u5f97\u81ea\u5df1\u5ee2(demo)",
       "url": "https://open.spotify.com/track/4hGGvAuQyQJL5l4Xx6PqeM"
+    },
+    {
+      "album": {
+        "name": "\u6211\u611f\u89ba\u5230",
+        "url": "https://open.spotify.com/album/29jfGvVKC2aJFTW01HB6fU"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        },
+        {
+          "name": "Jeffrey \u9b4f\u6d5a\u7b19",
+          "url": "https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273610,
+      "name": "\u6211\u611f\u89ba\u5230",
+      "url": "https://open.spotify.com/track/1oKqn2ZQPjxyO5cHukLyJz"
     },
     {
       "album": {
@@ -2092,6 +2132,24 @@
       "duration_ms": 183798,
       "name": "\u842c\u4e00\u4f60\u662f\u500b\u597d\u4eba",
       "url": "https://open.spotify.com/track/6O4qZI0CvcLQS9utcWNbrL"
+    },
+    {
+      "album": {
+        "name": "U 87",
+        "url": "https://open.spotify.com/album/3Y1KyBOAPB5CpPEWAIxbgB"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277040,
+      "name": "\u8461\u8404\u6210\u719f\u6642",
+      "url": "https://open.spotify.com/track/3ehzxWtA5tXu8o3zFdhNSq"
     },
     {
       "album": {

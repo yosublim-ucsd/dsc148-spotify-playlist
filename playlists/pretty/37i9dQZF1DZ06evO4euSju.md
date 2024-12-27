@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 7 | [Dweeb](https://open.spotify.com/track/2rJs5L8S6ivX0Bhk1snhUm) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 4:23 |
 | 8 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
 | 9 | [Dark Sky](https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Still Love \(Deluxe\)](https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7) | 3:11 |
-| 10 | [Taste Of Gasoline](https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:46 |
+| 10 | [High Again](https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:26 |
 | 11 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 |
 | 12 | [Digital Self](https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:46 |
 | 13 | [Mary](https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 3:46 |
-| 14 | [High Again](https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:26 |
+| 14 | [Taste Of Gasoline](https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:46 |
 | 15 | [Black Flamingo](https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:58 |
 | 16 | [Diorama](https://open.spotify.com/track/2P4WDJAjCHHUULO7wnzzvC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:54 |
 | 17 | [Cold Case \- Kurt Ballou Mix](https://open.spotify.com/track/51DetOrim3PuO2qc8datc2) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love \(Deluxe\)](https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7) | 3:45 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 29 | [Believe In The Wrong Things](https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 3:33 |
 | 30 | [Summer](https://open.spotify.com/track/3YpvQGhkRJ2Nb9rTwknxZw) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8) | 5:01 |
 
-Snapshot ID: `Z2n5gAAAAAD1HC80jFDuA7QCZ7O2v2oP`
+Snapshot ID: `Z2tLAAAAAAD/0EAHStrft+hcadNdwkqO`

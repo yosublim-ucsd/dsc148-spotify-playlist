@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Having a bad day? We know how it feels!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,014,380 likes - 200 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,014,219 likes - 200 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 52 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
 | 53 | [Toxic](https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:48 |
 | 54 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 |
-| 55 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
-| 56 | [Supermarket Flowers](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:41 |
+| 55 | [Supermarket Flowers](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:41 |
+| 56 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
 | 57 | [To Build A Home](https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ) | 6:11 |
 | 58 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
 | 59 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 130 | [I Won't Give Up](https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Won't Give Up](https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P) | 4:00 |
 | 131 | [In My Veins \- Feat\. Erin Mccarley](https://open.spotify.com/track/7LwGBxB0h0CVmkOZxYKn0g) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [In My Veins \(Feat\. Erin Mccarley\)](https://open.spotify.com/album/0Lg8NjaKFHSdsuDM6l58JZ) | 5:18 |
 | 132 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 |
-| 133 | [Lost On You](https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:17 |
-| 134 | [Save Myself](https://open.spotify.com/track/6TIU9Ehmi6dMzZK73Ym4yj) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:07 |
+| 133 | [Save Myself](https://open.spotify.com/track/6TIU9Ehmi6dMzZK73Ym4yj) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:07 |
+| 134 | [Lost On You](https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:17 |
 | 135 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 |
 | 136 | [The One](https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Coming Up for Air \(Expanded Edition\)](https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE) | 3:52 |
 | 137 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 |
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 172 | [It's Gotta Be You](https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Isaiah](https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv) | 3:13 |
 | 173 | [Say Something](https://open.spotify.com/track/78TKtlSLWK8pZAKKW3MyQL) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Say Something](https://open.spotify.com/album/0cHs4eStEKsSiDNxzu9ut5) | 3:49 |
 | 174 | [I'll Be Good](https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Habits of My Heart](https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ) | 4:08 |
-| 175 | [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 |
-| 176 | [Already Gone](https://open.spotify.com/track/7fkXzzIVo98CgjOkpd9H0V) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Already Gone](https://open.spotify.com/album/5uicIhSFTrEr6hXoS2q7V2) | 4:00 |
+| 175 | [Already Gone](https://open.spotify.com/track/7fkXzzIVo98CgjOkpd9H0V) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Already Gone](https://open.spotify.com/album/5uicIhSFTrEr6hXoS2q7V2) | 4:00 |
+| 176 | [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 |
 | 177 | [Everybody Hurts \- MTV Unplugged Live Version](https://open.spotify.com/track/3HHTF12zYLGtLsZbBaLMhk) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [The Corrs Unplugged](https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx) | 5:49 |
 | 178 | [Cursive](https://open.spotify.com/track/5Iy1wdO0tMaHwKnfFYtlel) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [As Long As \- EP](https://open.spotify.com/album/5mw8aBvFbVZsmWmyJmHv9B) | 4:00 |
 | 179 | [Almost Lover](https://open.spotify.com/track/71ehTADpxs85ULrZgSEKCy) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [One Cell In The Sea](https://open.spotify.com/album/0Cf9D8egNPltljtx7wb3Es) | 4:28 |

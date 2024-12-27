@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 31913,
+  "num_followers": 31930,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAD8fbdoXq6N15/41wKMu5Wz",
+  "snapshot_id": "Z2tLAAAAAADMdOC733DVpy3rsF9bfyY1",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 378200,
+      "name": "A God Like You",
+      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
         "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 225893,
       "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
       "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 378200,
-      "name": "A God Like You",
-      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
     },
     {
       "added_at": null,

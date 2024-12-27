@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nuestros amados 90 los recordamos as\u00ed! Caf\u00e9 Tacvba en portada.",
-  "num_followers": 1082656,
+  "num_followers": 1082914,
   "original_name": "Los 90 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Segundo Romance",
         "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 161040,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 281000,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -319,18 +319,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 267826,
-      "name": "Ciega, Sordomuda",
-      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -351,6 +351,22 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 352160,
       "name": "En El Muelle de San Blas",
       "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -463,18 +447,34 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 292760,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
+      "duration_ms": 184080,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -511,18 +511,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 184080,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa"
+      "duration_ms": 292760,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -591,6 +591,22 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 232466,
       "name": "Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
+        "name": "El Sapo",
+        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+      },
+      "artists": [
+        {
+          "name": "Azul Azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        }
+      ],
+      "duration_ms": 123960,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
-        "name": "El Sapo",
-        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
-      },
-      "artists": [
-        {
-          "name": "Azul Azul",
-          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
-        }
-      ],
-      "duration_ms": 123960,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Est\u00e9s Donde Est\u00e9s",
-      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Est\u00e9s Donde Est\u00e9s",
+      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "La Historia De Magneto",
         "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 265466,
       "name": "Vuela, Vuela (Voyage, Voyage)",
       "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
+        "name": "Hits Of The 90s",
+        "url": "https://open.spotify.com/album/5hiQZaZeGH7HWy2VjDwTcZ"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/6mhw2fEPH4fMF0wolNm96e"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
         "name": "Jon Secada",
         "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
-        "name": "Hits Of The 90s",
-        "url": "https://open.spotify.com/album/5hiQZaZeGH7HWy2VjDwTcZ"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/6mhw2fEPH4fMF0wolNm96e"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 197693,
-      "name": "Mala Hierba",
-      "url": "https://open.spotify.com/track/04A2baaw0XUZvMfSq9tHzX"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 308040,
       "name": "El baile y el sal\u00f3n",
       "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 197693,
+      "name": "Mala Hierba",
+      "url": "https://open.spotify.com/track/04A2baaw0XUZvMfSq9tHzX"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Si t\u00fa no estas",
-      "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Monica Naranjo",
         "url": "https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 253266,
       "name": "Solo Se Vive una Vez",
       "url": "https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Si t\u00fa no estas",
+      "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Laura Pausini - Spanish Version",
-        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
+        "name": "NUEVA ERA",
+        "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         }
       ],
-      "duration_ms": 255266,
-      "name": "Amores extra\u00f1os",
-      "url": "https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb"
+      "duration_ms": 279026,
+      "name": "Detr\u00e1s de Mi Ventana",
+      "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "NUEVA ERA",
-        "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
+        "name": "Laura Pausini - Spanish Version",
+        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
       },
       "artists": [
         {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 279026,
-      "name": "Detr\u00e1s de Mi Ventana",
-      "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
+      "duration_ms": 255266,
+      "name": "Amores extra\u00f1os",
+      "url": "https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Muchacha Triste",
-      "url": "https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 220546,
       "name": "A fuego lento",
       "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Muchacha Triste",
+      "url": "https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1464,9 +1464,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
+      "duration_ms": 206306,
+      "name": "Zoom - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1483,6 +1483,22 @@
       "duration_ms": 248226,
       "name": "Amor De Papel",
       "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Laura Pausini - Spanish Version",
-        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "La soledad",
-      "url": "https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Me Siento Tan Sola",
         "url": "https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 241266,
       "name": "Me Siento Tan Sola",
       "url": "https://open.spotify.com/track/50VA65XjCfHjXzJeOMYfaa"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Laura Pausini - Spanish Version",
+        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "La soledad",
+      "url": "https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1608,9 +1608,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Zoom - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo"
+      "duration_ms": 269760,
+      "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
     }
   ],
   "unique_name": "Los 90 M\u00e9xico",

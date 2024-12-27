@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Ziza Fernandes",
-  "num_followers": 340540,
+  "num_followers": 340588,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "O Jardim",
-        "url": "https://open.spotify.com/album/7CvJV7H4wEpexi4WuxieZm"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9bora Pires",
-          "url": "https://open.spotify.com/artist/6dOprDYs0zTGHLRk8Q3yPR"
-        },
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "E Voc\u00ea Vem",
-      "url": "https://open.spotify.com/track/3lWTUXrp5oMAttsBdPnrqO"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Pequeno Rei",
         "url": "https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz"
       },
@@ -943,22 +923,22 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Em Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
+        "name": "O Jardim",
+        "url": "https://open.spotify.com/album/7CvJV7H4wEpexi4WuxieZm"
       },
       "artists": [
         {
-          "name": "Octavia de Assis",
-          "url": "https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km"
+          "name": "D\u00e9bora Pires",
+          "url": "https://open.spotify.com/artist/6dOprDYs0zTGHLRk8Q3yPR"
         },
         {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Em Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
+      "duration_ms": 252500,
+      "name": "E Voc\u00ea Vem",
+      "url": "https://open.spotify.com/track/3lWTUXrp5oMAttsBdPnrqO"
     },
     {
       "added_at": "2024-12-20 03:01:13",
@@ -975,6 +955,26 @@
       "duration_ms": 384059,
       "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Em Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
+      },
+      "artists": [
+        {
+          "name": "Octavia de Assis",
+          "url": "https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Em Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
     },
     {
       "added_at": "2024-12-20 03:01:13",

@@ -4,7 +4,7 @@
 
 > Dale duro con los éxitos perreadores virales del momento.
 
-171 songs - 9 hr 12 min
+172 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 | 2022-01-04 | 2024-05-09 |
 | [Mamase Mamasa Mamasuelta \- Remix](https://open.spotify.com/track/4wY9y7vPhUaP3O8WYX5Ktm) | [Dj Daster](https://open.spotify.com/artist/1ElhgIo4eW9bWHVVDBfYzI), [Eduardo Luzquiños](https://open.spotify.com/artist/1dXyyDButMVteLKOOVqz6Z) | [Viral Hits TikTok \(Remix\)](https://open.spotify.com/album/6bXZpLEw21MO0qF5CQeOi1) | 2:22 | 2023-10-09 | 2023-10-18 |
 | [Mamase Mamasa Mamasuelta \- Remix](https://open.spotify.com/track/1AkRrt5fZ1w2Ljo0nhV14r) | [Eduardo Luzquiños](https://open.spotify.com/artist/1dXyyDButMVteLKOOVqz6Z), [Dj Daster](https://open.spotify.com/artist/1ElhgIo4eW9bWHVVDBfYzI) | [Mamase Mamasa Mamasuelta \(Remix\)](https://open.spotify.com/album/2FLSYdE0aqCvtt8YQ3EWuE) | 2:22 | 2022-01-04 | 2024-04-19 |
+| [Mami Tú](https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Mami Tú](https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa) | 2:43 | 2024-12-26 |  |
 | [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-04-18 |  |
 | [MARTILLAZO](https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [MARTILLAZO](https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo) | 2:38 | 2024-01-16 |  |
 | [Matatan](https://open.spotify.com/track/7m2iTdEKAtiGULWnTIRhX2) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Matatan](https://open.spotify.com/album/07WmJLW2GnlLIlkRZtGVbY) | 2:39 | 2022-01-04 | 2024-05-09 |

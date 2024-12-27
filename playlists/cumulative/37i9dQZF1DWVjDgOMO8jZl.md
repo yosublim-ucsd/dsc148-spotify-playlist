@@ -2,7 +2,7 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno.
+> Gli e le emergenti dell'anno in Italia per Spotify\. Cover: Coca Puma
 
 174 songs - 8 hr 23 min
 

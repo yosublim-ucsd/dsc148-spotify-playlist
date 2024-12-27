@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 53095,
+  "num_followers": 53103,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAACQOo2VWv3HOm7DJ6+yrp9F",
+  "snapshot_id": "Z2tLAAAAAACn25W/Xy17M3WLkGMvy76S",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti Estoy Loco",
-        "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 222843,
-      "name": "Por Ti Estoy Loco",
-      "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti Estoy Loco",
+        "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222843,
+      "name": "Por Ti Estoy Loco",
+      "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirando Al Cielo",
-        "url": "https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Mirando Al Cielo",
-      "url": "https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO LOGR\u00c9 CONQUISTARTE",
         "url": "https://open.spotify.com/album/3YC0oHVHqArWdKTvelM0Uq"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 189750,
       "name": "NO LOGR\u00c9 CONQUISTARTE",
       "url": "https://open.spotify.com/track/2PAjRPUvexWW0Fy3qdIriI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirando Al Cielo",
+        "url": "https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Mirando Al Cielo",
+      "url": "https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN"
     },
     {
       "added_at": null,
@@ -1223,30 +1223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Perd\u00ed",
-        "url": "https://open.spotify.com/album/6S2t4FIFbtG9Lov0u4WqGu"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Jon Jams",
-          "url": "https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Me Perd\u00ed",
-      "url": "https://open.spotify.com/track/1tYBjcreU2WONT4AmhZ7oc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqu\u00ed Estoy Yo",
         "url": "https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW"
       },
@@ -1267,6 +1243,30 @@
       "duration_ms": 247150,
       "name": "Aqu\u00ed Estoy Yo",
       "url": "https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Perd\u00ed",
+        "url": "https://open.spotify.com/album/6S2t4FIFbtG9Lov0u4WqGu"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Jon Jams",
+          "url": "https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Me Perd\u00ed",
+      "url": "https://open.spotify.com/track/1tYBjcreU2WONT4AmhZ7oc"
     },
     {
       "added_at": null,

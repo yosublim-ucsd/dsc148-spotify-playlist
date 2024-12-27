@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1079696,
+  "num_followers": 1079754,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAABd/dg7q2AfYxMOWd2vdfgc",
+  "snapshot_id": "Z2tLAAAAAAD/fkoW2YW1EYE0e03OqnCu",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Let It Die",
-      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
+      "duration_ms": 293453,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
     },
     {
       "added_at": null,
@@ -580,25 +580,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 293453,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonic Highways",
-        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Something from Nothing",
-      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
+      "duration_ms": 244960,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 303813,
       "name": "Walking After You",
       "url": "https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Something from Nothing",
+      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "But Here We Are",
-      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 83800,
       "name": "Doll",
       "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "But Here We Are",
+      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 228773,
-      "name": "Hearing Voices",
-      "url": "https://open.spotify.com/track/4PTowPoeya2AITpeUCJLKN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 268306,
       "name": "Low",
       "url": "https://open.spotify.com/track/3j8ja2Hq824OaRqIENJPTH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 228773,
+      "name": "Hearing Voices",
+      "url": "https://open.spotify.com/track/4PTowPoeya2AITpeUCJLKN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,798 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,842 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 35 | [Krippy Kush](https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [TrapXficante](https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA) | 3:50 |
 | 36 | [Hielo](https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:11 |
 | 37 | [Vengo De Nada](https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Buen Viaje](https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m) | 3:41 |
-| 38 | [Michael Myers](https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Michael Myers](https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ) | 4:11 |
+| 38 | [En Que País](https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [En Que País](https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm) | 3:30 |
 | 39 | [Na' Nuevo](https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:43 |
-| 40 | [En Que País](https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [En Que País](https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm) | 3:30 |
+| 40 | [Michael Myers](https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Michael Myers](https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ) | 4:11 |
 | 41 | [LHNA](https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5) | [RobGz](https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LHNA](https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45) | 3:20 |
 | 42 | [YO LE LLEGO](https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:09 |
 | 43 | [Subiendo De Nivel \- Remix](https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Famouz Reloaded](https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT) | 4:09 |

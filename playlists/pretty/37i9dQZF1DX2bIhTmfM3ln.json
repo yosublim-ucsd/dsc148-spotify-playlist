@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 40880,
+  "num_followers": 40902,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 202958,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 137962,
       "name": "Could This Be Love",
       "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 202958,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "Never Gets Late Here",
-        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 162912,
-      "name": "Work Me Out (with Wizkid)",
-      "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
         "name": "Relationship",
         "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 165517,
       "name": "Relationship",
       "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
+        "name": "Never Gets Late Here",
+        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 162912,
+      "name": "Work Me Out (with Wizkid)",
+      "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -547,18 +547,22 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+        "name": "Compose",
+        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+      "duration_ms": 144000,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -579,26 +583,6 @@
       "duration_ms": 172631,
       "name": "Innocent (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
-        "name": "Compose",
-        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Compose",
-      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -643,6 +627,22 @@
       "duration_ms": 212666,
       "name": "back n forth",
       "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "LOVE OR LAMBA",
-        "url": "https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP"
-      },
-      "artists": [
-        {
-          "name": "Kobi Jonz",
-          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "LOVE OR LAMBA",
-      "url": "https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
         "name": "PON MY MIND",
         "url": "https://open.spotify.com/album/1mMoebjcoBQNUSGkgyo4Kw"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
+        "name": "LOVE OR LAMBA",
+        "url": "https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP"
+      },
+      "artists": [
+        {
+          "name": "Kobi Jonz",
+          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "LOVE OR LAMBA",
+      "url": "https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 196000,
       "name": "Talk",
       "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -1011,6 +995,42 @@
       "duration_ms": 172710,
       "name": "BABY OKU (feat. Fiokee)",
       "url": "https://open.spotify.com/track/08Awv5MoR9qQNdCWrGi7I2"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -1055,26 +1075,6 @@
       "duration_ms": 156831,
       "name": "Iweriwe Love",
       "url": "https://open.spotify.com/track/7dpMNEUoyyJVpI5w5BT53i"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
-        "name": "JABO",
-        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "JABO",
-      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/65DHfL5McChtYoWOGRBB22"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Jeff Akoh",
+          "url": "https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
         }
       ],
-      "duration_ms": 155695,
-      "name": "Lagos Love Story",
-      "url": "https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob"
+      "duration_ms": 161632,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/2XPshMnIue2V8xFxodkP7H"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/65DHfL5McChtYoWOGRBB22"
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
       "artists": [
         {
-          "name": "Jeff Akoh",
-          "url": "https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5"
-        },
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 161632,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/2XPshMnIue2V8xFxodkP7H"
+      "duration_ms": 155695,
+      "name": "Lagos Love Story",
+      "url": "https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
+        "name": "Son of Chike",
+        "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 152315,
+      "name": "Mma (Beauty)",
+      "url": "https://open.spotify.com/track/4rhX39iOvj55GxblY4ZHRQ"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
         "name": "Are You Listening?",
         "url": "https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "Son of Chike",
-        "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 152315,
-      "name": "Mma (Beauty)",
-      "url": "https://open.spotify.com/track/4rhX39iOvj55GxblY4ZHRQ"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b"
       },
@@ -1347,30 +1347,18 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "Finish Me",
-        "url": "https://open.spotify.com/album/3sVIR1mKqq5oSE8UKwFvES"
+        "name": "Bus Stop",
+        "url": "https://open.spotify.com/album/3z9nmiwuNFWn1EvNz1yTtw"
       },
       "artists": [
         {
-          "name": "Chop Daily",
-          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
-        },
-        {
-          "name": "FirstKlaz",
-          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
-        },
-        {
-          "name": "Ransom Beatz",
-          "url": "https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy"
-        },
-        {
-          "name": "Big Tobz",
-          "url": "https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK"
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
         }
       ],
-      "duration_ms": 131368,
-      "name": "Finish Me",
-      "url": "https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h"
+      "duration_ms": 182361,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/4PN0poDUo4kMwpjs903yhA"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -1399,18 +1387,30 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "Bus Stop",
-        "url": "https://open.spotify.com/album/3z9nmiwuNFWn1EvNz1yTtw"
+        "name": "Finish Me",
+        "url": "https://open.spotify.com/album/3sVIR1mKqq5oSE8UKwFvES"
       },
       "artists": [
         {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        },
+        {
+          "name": "Ransom Beatz",
+          "url": "https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy"
+        },
+        {
+          "name": "Big Tobz",
+          "url": "https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK"
         }
       ],
-      "duration_ms": 182361,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/4PN0poDUo4kMwpjs903yhA"
+      "duration_ms": 131368,
+      "name": "Finish Me",
+      "url": "https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h"
     },
     {
       "added_at": "2024-12-21 13:36:53",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-12-21 13:36:53",
       "album": {
-        "name": "ARABAMBI",
-        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "ARABAMBI",
-      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
-    },
-    {
-      "added_at": "2024-12-21 13:36:53",
-      "album": {
         "name": "Fine Girl",
         "url": "https://open.spotify.com/album/5tkw9JK58hhOdBDGrEyzwR"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 166974,
       "name": "Time Traveler",
       "url": "https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk"
+    },
+    {
+      "added_at": "2024-12-21 13:36:53",
+      "album": {
+        "name": "ARABAMBI",
+        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "ARABAMBI",
+      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
     },
     {
       "added_at": "2024-12-21 13:36:53",

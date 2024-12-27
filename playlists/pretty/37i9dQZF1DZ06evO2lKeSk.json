@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 345263,
+  "num_followers": 345312,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAADJSLaFDk6fsebzTR3hgon",
+  "snapshot_id": "Z2tLAAAAAADlYJGHamH+MbWNwqOLMRkK",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huelo a Soledad",
-        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Huelo a Soledad",
-      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Como Soy",
         "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 217600,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/7sqhD28PN9cK1QPzkZf9NF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Huelo a Soledad",
+        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Huelo a Soledad",
+      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Amores, un Amante",
-        "url": "https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R"
+        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
+        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 194853,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/1NGgiQe5fBZH51fHw9GtYl"
+      "duration_ms": 352160,
+      "name": "M\u00e9xico Lindo y Querido / Cielito Lindo - En Vivo",
+      "url": "https://open.spotify.com/track/1CqfnWRVcguK6k8qOORJpu"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
-        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
+        "name": "Dos Amores, un Amante",
+        "url": "https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 352160,
-      "name": "M\u00e9xico Lindo y Querido / Cielito Lindo - En Vivo",
-      "url": "https://open.spotify.com/track/1CqfnWRVcguK6k8qOORJpu"
+      "duration_ms": 194853,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/1NGgiQe5fBZH51fHw9GtYl"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ana Gabriel \"En Vivo\"",
-        "url": "https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet"
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 220733,
-      "name": "Hasta Que Te Conoc\u00ed - En Vivo - Remasterizado",
-      "url": "https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp"
+      "duration_ms": 226000,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/3hNhYIAFtqVrVRhaj6Ppmy"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
       "duration_ms": 251066,
       "name": "Lo S\u00e9",
       "url": "https://open.spotify.com/track/0Hck3EapnJ8Zcot91KM2XH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ana Gabriel \"En Vivo\"",
+        "url": "https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Hasta Que Te Conoc\u00ed - En Vivo - Remasterizado",
+      "url": "https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp"
     },
     {
       "added_at": null,
@@ -871,22 +887,6 @@
       "duration_ms": 226866,
       "name": "Boda Negra (El Enterrador)",
       "url": "https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amores",
-        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/3hNhYIAFtqVrVRhaj6Ppmy"
     },
     {
       "added_at": null,

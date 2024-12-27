@@ -747,6 +747,32 @@
     },
     {
       "album": {
+        "name": "Bojo 2",
+        "url": "https://open.spotify.com/album/6N29382lQlir1YF9UIAS47"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        },
+        {
+          "name": "Agil Tina",
+          "url": "https://open.spotify.com/artist/67Ck7HjvvGLb3LnJORxpnC"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Bojo 2",
+      "url": "https://open.spotify.com/track/3cmdzW5tEQq9lll8qq8Dib"
+    },
+    {
+      "album": {
         "name": "Bojo Setyo",
         "url": "https://open.spotify.com/album/2lD4cA2RppQkk2JR9dO0W2"
       },
@@ -1088,7 +1114,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 493122,
       "name": "Cinta Bojone Uwong",
       "url": "https://open.spotify.com/track/3XoTZdX5g2A1QEcZj25cB6"
@@ -1844,7 +1870,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 184500,
       "name": "Golek Upo Tekan Chino",
       "url": "https://open.spotify.com/track/35db0V5J0lg4WJxn61PGpx"
@@ -1916,7 +1942,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 224761,
       "name": "HTS - Accoustic Version",
       "url": "https://open.spotify.com/track/5bKaP8jqatMSdho2W0H7M2"
@@ -2196,7 +2222,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 269032,
       "name": "Jejantunging Kalbu",
       "url": "https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD"
@@ -3404,7 +3430,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 343680,
       "name": "Lestari",
       "url": "https://open.spotify.com/track/2LgpMo9GCSXo95KtUpMQ7C"
@@ -3524,7 +3550,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 309692,
       "name": "Lilo Tanpo Loro (feat. Sherly Ulvia)",
       "url": "https://open.spotify.com/track/3sOc4vs9rEbOBRPuYykHcR"
@@ -6796,7 +6822,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 214500,
       "name": "Sauro Utangmu - Live Version At The Boston Coffee",
       "url": "https://open.spotify.com/track/3L3cjYYFDoGKUFtgAgOAJW"
@@ -7692,7 +7718,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 298013,
       "name": "Tresna Opo Anane",
       "url": "https://open.spotify.com/track/0DqDOsGc8J7aHZdtGAelTY"
@@ -7918,7 +7944,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 265920,
       "name": "WARADA",
       "url": "https://open.spotify.com/track/35MTI9jWQqKdBUptLh2Roq"

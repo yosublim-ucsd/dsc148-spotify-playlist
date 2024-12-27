@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=QmPt_T5bQJmszHbHxUUtag\">Burna Boy</a> ",
+  "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=QDyYcHxrQ0W9LLTI7OKr1A\">Kabza De Small</a> ",
   "name": "New Music Friday South Africa",
   "tracks": [
     {
@@ -13097,6 +13097,28 @@
     },
     {
       "album": {
+        "name": "Slime Season 2",
+        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "Big Racks (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/78yaF5XiIF5TA9klP3YoR0"
+    },
+    {
+      "album": {
         "name": "Afrikan Alien",
         "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
       },
@@ -15638,6 +15660,24 @@
       "duration_ms": 196363,
       "name": "Bust Down",
       "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+    },
+    {
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/0MiUsLgpGCPv6hmki6JykV"
+      },
+      "artists": [
+        {
+          "name": "Kooldrink",
+          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Busted",
+      "url": "https://open.spotify.com/track/4alvq08rKgSuFiPmkrRNvA"
     },
     {
       "album": {
@@ -24635,6 +24675,24 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178932,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
+    },
+    {
+      "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
       },
@@ -31986,6 +32044,24 @@
       "duration_ms": 121772,
       "name": "Freezer",
       "url": "https://open.spotify.com/track/6AWuGrgnmskx9ikk27Mo0h"
+    },
+    {
+      "album": {
+        "name": "French Love Poem",
+        "url": "https://open.spotify.com/album/5NhSh6tzk9V4Sv6udUMWOZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "French Love Poem",
+      "url": "https://open.spotify.com/track/527QAJEQwKLM4utnk5dwrA"
     },
     {
       "album": {
@@ -40256,6 +40332,24 @@
       "duration_ms": 397627,
       "name": "How ?",
       "url": "https://open.spotify.com/track/3uafTF3JxwQOJVQAg4FJw0"
+    },
+    {
+      "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/2PgmNtdDVsA2TdWXTsoiod"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137058,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/6urfSpWvhR2STAkpzsTEhB"
     },
     {
       "album": {
@@ -52526,6 +52620,28 @@
       "duration_ms": 406486,
       "name": "Kick Drum",
       "url": "https://open.spotify.com/track/50yc3v1g4amV1RS2Gckm2f"
+    },
+    {
+      "album": {
+        "name": "Kick The Nation",
+        "url": "https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Kick The Nation",
+      "url": "https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K"
     },
     {
       "album": {
@@ -69011,6 +69127,40 @@
     },
     {
       "album": {
+        "name": "Nasempini (feat. Ayanda Ntanzi, DJ Maphorisa & Stakev)",
+        "url": "https://open.spotify.com/album/69vu02uo13ZSr7GgeyokCs"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Ayanda Ntanzi",
+          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412035,
+      "name": "Nasempini (feat. Ayanda Ntanzi, DJ Maphorisa & Stakev)",
+      "url": "https://open.spotify.com/track/280F6i6HJwJNPkWQbRVhXu"
+    },
+    {
+      "album": {
         "name": "Nashangaa",
         "url": "https://open.spotify.com/album/5oFYew4HfLVOTXN5vgJ2EY"
       },
@@ -79325,6 +79475,24 @@
     },
     {
       "album": {
+        "name": "PIToRRO DE COCO",
+        "url": "https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206627,
+      "name": "PIToRRO DE COCO",
+      "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
+    },
+    {
+      "album": {
         "name": "Plaas Toe",
         "url": "https://open.spotify.com/album/6zqPSiodiTcqT21EyaHtSa"
       },
@@ -80392,6 +80560,24 @@
       "duration_ms": 446017,
       "name": "Private Graduate",
       "url": "https://open.spotify.com/track/5V5fjzeAZpmSJZV3RKJL3n"
+    },
+    {
+      "album": {
+        "name": "Probation",
+        "url": "https://open.spotify.com/album/6BdlDcxOeVMnmT4UB1QbiE"
+      },
+      "artists": [
+        {
+          "name": "Jolly B",
+          "url": "https://open.spotify.com/artist/2OgOlMcLNRmEAjnBJE9NFG"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158981,
+      "name": "Probation",
+      "url": "https://open.spotify.com/track/5IEynH5fO1m7xSvQO1Ewh9"
     },
     {
       "album": {
@@ -88999,6 +89185,28 @@
     },
     {
       "album": {
+        "name": "Somandla",
+        "url": "https://open.spotify.com/album/1Rl0a84rIquaHQ1AB2PbIS"
+      },
+      "artists": [
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        },
+        {
+          "name": "Bongi Silinda",
+          "url": "https://open.spotify.com/artist/1HS4J0XmZ1djkEOtCkhH6r"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288500,
+      "name": "Somandla",
+      "url": "https://open.spotify.com/track/66PLIZBo1DkExm6OtqxsFv"
+    },
+    {
+      "album": {
         "name": "Some Lovin' 2.0",
         "url": "https://open.spotify.com/album/08fIrFj1s768Xy5Alc3pC6"
       },
@@ -95478,7 +95686,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 187286,
       "name": "The Brink (Single)",
       "url": "https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe"
@@ -96626,6 +96834,24 @@
       "duration_ms": 401000,
       "name": "The Sign - Original Mix",
       "url": "https://open.spotify.com/track/3fgbYKAsTutcBLh8JTAuNW"
+    },
+    {
+      "album": {
+        "name": "The Slow Garden EP",
+        "url": "https://open.spotify.com/album/3jnDNlH3A2EfSdyYYts3BO"
+      },
+      "artists": [
+        {
+          "name": "Nutty Nys",
+          "url": "https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148235,
+      "name": "The Slow Garden",
+      "url": "https://open.spotify.com/track/3nYtY5fLQAqZov7bSpiEAo"
     },
     {
       "album": {

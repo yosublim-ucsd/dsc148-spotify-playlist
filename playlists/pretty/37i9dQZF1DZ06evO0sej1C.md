@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,202 likes - 51 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,203 likes - 51 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 50 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
 | 51 | [Ladrón](https://open.spotify.com/track/275p97u74jV8pl7yODx3z0) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ladrón](https://open.spotify.com/album/5bSdirth1rYHmxVQ1CTEbr) | 3:33 |
 
-Snapshot ID: `Z2n5gAAAAAAlsupQN0hRtHwkIu32Ryvu`
+Snapshot ID: `Z2tLAAAAAACM3E74DOa+vszXcN+k1IFs`

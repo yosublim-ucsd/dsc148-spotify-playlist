@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-116 songs - 5 hr 17 min
+117 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [IF I STOP NOW](https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [IF I STOP NOW](https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8) | 2:57 | 2023-01-28 | 2023-04-11 |
 | [Jeffery's Innocent](https://open.spotify.com/track/2msi6aUT3FldwSxMqj5074) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Pendleton](https://open.spotify.com/album/3WOrW5A7S4dADPx8mSkLMf) | 3:24 | 2023-04-05 | 2023-04-21 |
 | [Keep It Real](https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:47 | 2022-10-28 | 2024-07-23 |
-| [Lamborghini Geeski](https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 2:51 | 2022-10-28 |  |
+| [Lamborghini Geeski](https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 2:51 | 2022-10-28 | 2024-12-27 |
 | [Lick Back](https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 1:33 | 2022-10-28 |  |
 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 | 2022-10-28 |  |
 | [LIE TO ME SOME MORE](https://open.spotify.com/track/3hdWtlY4bawZp7Zf8bz27b) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:46 | 2023-07-26 | 2023-08-22 |
@@ -112,7 +112,8 @@
 | [The King](https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:11 | 2024-03-19 | 2024-12-20 |
 | [THE ONE & ONLY](https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:19 | 2023-03-19 |  |
 | [The Realest \(feat\. Jeezy\)](https://open.spotify.com/track/4NMsGNHtpsNJVmKVCkKrnc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:15 | 2022-10-28 |  |
-| [The Streets](https://open.spotify.com/track/0xPmveE21wGQuSdn37iUEo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/3syLZZbG83gE5Jb8zUycBR) | 3:00 | 2024-11-29 |  |
+| [The Streets](https://open.spotify.com/track/0xPmveE21wGQuSdn37iUEo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/3syLZZbG83gE5Jb8zUycBR) | 3:00 | 2024-11-29 | 2024-12-27 |
+| [The Streets](https://open.spotify.com/track/51d7KKWvsuw44mTsghBCMB) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/58mHMtgKlzQRnpcW3u06Wn) | 3:00 | 2024-12-27 |  |
 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 | 2022-10-28 |  |
 | [TOAST](https://open.spotify.com/track/5PkN8WUr8NIivKX6uNo61r) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 3:30 | 2023-08-25 | 2023-09-19 |
 | [Trust Nun \(feat\. EST Gee\)](https://open.spotify.com/track/0D77ULkdHxpfbu0NsDLeRL) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Gas God](https://open.spotify.com/album/2Bz7FAQGKk464rBl9oxaVj) | 2:22 | 2022-10-28 | 2023-05-28 |

@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -4000,7 +4000,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 130694,
       "name": "Campana Sobre Campana",
       "url": "https://open.spotify.com/track/15f3aIvW7EOzB7YZThAfr6"
@@ -6764,7 +6764,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -7092,6 +7092,24 @@
       "duration_ms": 208615,
       "name": "Dos Mil 16",
       "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
+    },
+    {
+      "album": {
+        "name": "LYKE MIIKE",
+        "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210335,
+      "name": "DOS O TRES",
+      "url": "https://open.spotify.com/track/2erfqlpauqiOsZ3HNIdFVt"
     },
     {
       "album": {
@@ -7450,7 +7468,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 226013,
       "name": "El Burrito Sabanero",
       "url": "https://open.spotify.com/track/3jWGIzAGXwaTEP6fX4fAEd"
@@ -7926,7 +7944,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 181146,
       "name": "El Tamborilero - Remastered",
       "url": "https://open.spotify.com/track/5TF71RZTcvHw2Lb3ZNFuDI"
@@ -13710,7 +13728,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 155586,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/0SUKNXEqZnRw7g0NO139FM"
@@ -14378,7 +14396,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 204666,
       "name": "Los Peces En El R\u00edo",
       "url": "https://open.spotify.com/track/3alWquStznWXKp9m8WJRpj"
@@ -15364,7 +15382,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 164365,
       "name": "Martini",
       "url": "https://open.spotify.com/track/6opCVD6WJNDyBAxvrzKLnH"
@@ -17066,7 +17084,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 154653,
       "name": "Navidad, Navidad",
       "url": "https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK"
@@ -19068,7 +19086,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
@@ -20656,6 +20674,28 @@
       "duration_ms": 230080,
       "name": "Qu\u00e9 Pecao",
       "url": "https://open.spotify.com/track/25CfEf59PmRAhV18oZRMNr"
+    },
+    {
+      "album": {
+        "name": "LYKE MIIKE",
+        "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254517,
+      "name": "QU\u00c9 QUIERES DE MI? (feat. Eladio Carrion)",
+      "url": "https://open.spotify.com/track/6w1eQ7AxYB8Y6YQGJR9jBT"
     },
     {
       "album": {
@@ -23168,7 +23208,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
@@ -25462,7 +25502,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -25480,7 +25520,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -25590,7 +25630,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 140239,
       "name": "Vacile",
       "url": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a"

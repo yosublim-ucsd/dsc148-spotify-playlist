@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 25507,
+  "num_followers": 25514,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
-      },
-      "artists": [
-        {
-          "name": "MIKOLAS",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
-        },
-        {
-          "name": "Mark Neve",
-          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
-        }
-      ],
-      "duration_ms": 141027,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
-    },
-    {
-      "added_at": "2024-12-16 16:32:23",
-      "album": {
         "name": "NINCS HOLNAP",
         "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 150295,
       "name": "CARTIER",
       "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
+    },
+    {
+      "added_at": "2024-12-16 16:32:23",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
+      },
+      "artists": [
+        {
+          "name": "MIKOLAS",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        }
+      ],
+      "duration_ms": 141027,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
     },
     {
       "added_at": "2024-12-16 16:32:23",

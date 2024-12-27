@@ -1,6 +1,6 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 559118,
+  "num_followers": 559232,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-12-09 15:35:53",
       "album": {
-        "name": "ATE",
-        "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 148051,
-      "name": "Chk Chk Boom",
-      "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
-    },
-    {
-      "added_at": "2024-12-09 15:35:53",
-      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+    },
+    {
+      "added_at": "2024-12-09 15:35:53",
+      "album": {
+        "name": "ATE",
+        "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
     },
     {
       "added_at": "2024-12-09 15:35:53",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-12-09 15:35:53",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-12-09 15:35:53",
-      "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2024-12-09 15:35:53",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-12-09 15:35:53",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-12-09 15:35:53",
       "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
-    },
-    {
-      "added_at": "2024-12-09 15:35:53",
-      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/51SEsgwoNiKu8rcZxQTjo4"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 205000,
       "name": "Following the Sun",
       "url": "https://open.spotify.com/track/2sFbdDiEDpyCdP5nUCuGBm"
+    },
+    {
+      "added_at": "2024-12-09 15:35:53",
+      "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2024-12-09 15:35:53",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-12-09 15:35:53",
       "album": {
-        "name": "Miss Me Too",
-        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "Miss Me Too",
-      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
-    },
-    {
-      "added_at": "2024-12-09 15:35:53",
-      "album": {
         "name": "House On Fire",
         "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 140803,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "added_at": "2024-12-09 15:35:53",
+      "album": {
+        "name": "Miss Me Too",
+        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
     },
     {
       "added_at": "2024-12-09 15:35:53",

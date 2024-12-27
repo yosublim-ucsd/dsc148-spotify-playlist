@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6765\u65e5\u5e0c\u671b\uff01\u30e9\u30a4\u30d6\u3067\u89b3\u305f\u3044\u6ce8\u76ee\u306e\u6d77\u5916\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Ruel",
+  "description": "\u6765\u65e5\u5e0c\u671b\uff01\u30e9\u30a4\u30d6\u3067\u89b3\u305f\u3044\u6ce8\u76ee\u306e\u6d77\u5916\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Rex Orange County",
   "name": "The WISHLIST: \u6ce8\u76ee\u306e\u6d0b\u697d\u7279\u96c6",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 228860,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 130265,
       "name": "APEROL SPRITZ",
       "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
@@ -608,6 +608,24 @@
       "duration_ms": 219537,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/4SNHeDCR40LwXL16BfzmpX"
+    },
+    {
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "album": {
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 186359,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 156937,
       "name": "Dancing in love",
       "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
@@ -2225,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183475,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
+    },
+    {
+      "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
@@ -2236,7 +2272,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -2352,6 +2388,24 @@
       "duration_ms": 176805,
       "name": "Down Swinging",
       "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178932,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
     },
     {
       "album": {
@@ -3142,7 +3196,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
@@ -4312,7 +4366,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 188348,
       "name": "In My Bag (feat. GloRilla)",
       "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
@@ -4414,7 +4468,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 269000,
       "name": "Infinite Health - Vocal Edit",
       "url": "https://open.spotify.com/track/6EmCvCVSwUxmar8o061jgU"
@@ -5258,7 +5312,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 184428,
       "name": "Made It Awkward",
       "url": "https://open.spotify.com/track/5sxkUsaMJt4uixloBnMTSM"
@@ -6836,7 +6890,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 277741,
       "name": "Pretty Boy, Pt. 2 (feat. Zino Vinci)",
       "url": "https://open.spotify.com/track/76uL7x7Ar7WurNG7WsuLIG"
@@ -8462,7 +8516,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
@@ -9288,6 +9342,24 @@
       "duration_ms": 190960,
       "name": "Vibrating Walls - Superorganism Remix",
       "url": "https://open.spotify.com/track/1HGrGCX0TvYDmREaOh3CqS"
+    },
+    {
+      "album": {
+        "name": "i just want next year to be better",
+        "url": "https://open.spotify.com/album/0kRjwojrO13TouynamNnac"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195518,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/1hwjsnf6pG8q20oLH5ihSI"
     },
     {
       "album": {

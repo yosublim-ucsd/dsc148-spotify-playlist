@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAABgEPmCvCoA15K2agJUcYOw",
+  "snapshot_id": "Z2tLAAAAAAAM/e2eO8/RFfv7tbeeU4IY",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 30459,
-      "name": "BBS Interlude",
-      "url": "https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purple Files [Screwed Version]",
         "url": "https://open.spotify.com/album/7LSXnSH9Wxob3yvooKRlc7"
       },
@@ -743,6 +727,62 @@
       "duration_ms": 128782,
       "name": "Made a 10 When I Woke Up [screwed version]",
       "url": "https://open.spotify.com/track/6rap5jqI6kXreSfRrRUdT8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 30459,
+      "name": "BBS Interlude",
+      "url": "https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E30",
+        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
+      },
+      "artists": [
+        {
+          "name": "Le$",
+          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 287973,
+      "name": "Big Le$ter",
+      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "duration_ms": 142415,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
     },
     {
       "added_at": null,
@@ -771,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
-        }
-      ],
-      "duration_ms": 142415,
-      "name": "25 Lighters",
-      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuerno De Chivo",
         "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 155376,
       "name": "Cuerno De Chivo",
       "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E30",
-        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
-      },
-      "artists": [
-        {
-          "name": "Le$",
-          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 287973,
-      "name": "Big Le$ter",
-      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
     },
     {
       "added_at": null,

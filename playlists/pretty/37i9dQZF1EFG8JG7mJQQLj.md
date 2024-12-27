@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,939 likes - 446 songs - 1 day 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,944 likes - 446 songs - 1 day 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,9 +179,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 169 | [That Old Truck](https://open.spotify.com/track/0kjnvAqQvdjN69aDTGlceq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:32 |
 | 170 | [Second Guessing \- From Songland](https://open.spotify.com/track/08IV5RiD02METcqtfzDeqj) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:07 |
 | 171 | [Halo / Walking On Sunshine](https://open.spotify.com/track/12yh28UqX6hrOcu8YO0cH6) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee LGBTQIA+ Pride](https://open.spotify.com/album/6ndWxNXkozcZLcsCAVBctE) | 2:05 |
-| 172 | [Life In Color](https://open.spotify.com/track/0lKsG4FoO1mfnkUR3SdKj4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native \(Deluxe\)](https://open.spotify.com/album/7bWzSwx1PRiZjfjhaB8BjZ) | 3:22 |
-| 173 | [Scars](https://open.spotify.com/track/6wZYxok5OMWAZh8r91vFEL) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:18 |
-| 174 | [Dear Santa](https://open.spotify.com/track/5zqzV32ifPJ9XhqfyjYrBy) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dear Santa](https://open.spotify.com/album/2hhMU1z6iEq0UxYMBdp9xp) | 2:49 |
+| 172 | [Dear Santa](https://open.spotify.com/track/5zqzV32ifPJ9XhqfyjYrBy) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dear Santa](https://open.spotify.com/album/2hhMU1z6iEq0UxYMBdp9xp) | 2:49 |
+| 173 | [Life In Color](https://open.spotify.com/track/0lKsG4FoO1mfnkUR3SdKj4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native \(Deluxe\)](https://open.spotify.com/album/7bWzSwx1PRiZjfjhaB8BjZ) | 3:22 |
+| 174 | [Scars](https://open.spotify.com/track/6wZYxok5OMWAZh8r91vFEL) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:18 |
 | 175 | [Greenlight \- From "Songland"](https://open.spotify.com/track/5HgbcQFIHjNcn46w8ORwhu) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greenlight \(From "Songland"\)](https://open.spotify.com/album/3RRyP3NlMJOrPGxjrRfK5l) | 3:00 |
 | 176 | [Music Sounds Better \(feat\. Mann\)](https://open.spotify.com/track/21svHgL8NlWthrlW9Gy0BZ) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd), [Mann](https://open.spotify.com/artist/3sAHunotiQdUXKSsFj5KUg) | [Elevate](https://open.spotify.com/album/2vlQEIT6XEYVKfaKQwADnk) | 3:09 |
 | 177 | [Together \(feat\. Gwen Stefani\)](https://open.spotify.com/track/0otmDG441slQ7QYZUPgBcM) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:38 |
@@ -267,8 +267,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 257 | [Beautiful World](https://open.spotify.com/track/69WehikArL9eByV3BFgC9A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:01 |
 | 258 | [Say It All](https://open.spotify.com/track/57CyqjHnj1E9dNysbxLysv) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:27 |
 | 259 | [\#1Nite \(One Night\)](https://open.spotify.com/track/2iObDtZHIKtZ15kLfhK2yw) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Night Shades](https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i) | 3:39 |
-| 260 | [Take Care Of You](https://open.spotify.com/track/2ExaKO7GhafvrUHOjWxjgC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:48 |
-| 261 | [CUT ME OFF](https://open.spotify.com/track/2Zs1T1OXwcm6XgrIRvAfwH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 2:06 |
+| 260 | [CUT ME OFF](https://open.spotify.com/track/2Zs1T1OXwcm6XgrIRvAfwH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 2:06 |
+| 261 | [Take Care Of You](https://open.spotify.com/track/2ExaKO7GhafvrUHOjWxjgC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:48 |
 | 262 | [Truth To Power](https://open.spotify.com/track/6uaigl9EXMjMP0I3iTb9yO) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Truth To Power](https://open.spotify.com/album/6rPlzNWbkO10UerasRIqCY) | 3:25 |
 | 263 | [I Know Places \- Voice Memo](https://open.spotify.com/track/4FoV729rw7IhoKlMZW5K5V) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:36 |
 | 264 | [Young \- From "Songland"](https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Young \(From "Songland"\)](https://open.spotify.com/album/5gUfxcxbwFbKjXuz0Trknk) | 3:05 |
@@ -334,8 +334,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 324 | [Sleep](https://open.spotify.com/track/69Ju6N9298O1h9YS9eSUp1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud \(Deluxe\)](https://open.spotify.com/album/1J7OJuxxZ0qqLnzAFFregQ) | 5:54 |
 | 325 | [Crowded Places \("From Songland"\)](https://open.spotify.com/track/2Z8LY7VxDOwm3lPvTOE2kR) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Crowded Places \(From "Songland"\)](https://open.spotify.com/album/5DORDernNVnDd9fVVlk7OM) | 2:30 |
 | 326 | [Get Enough](https://open.spotify.com/track/4f8116NfNdOjOLX8yHhpOI) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station \(Explorer's Edition\)](https://open.spotify.com/album/3UdA4CPd2ktoIbzo1UREWc) | 2:56 |
-| 327 | [Painkiller](https://open.spotify.com/track/6AASSUNaGkAhJFfI9qfFsJ) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 3:32 |
-| 328 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
+| 327 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
+| 328 | [Painkiller](https://open.spotify.com/track/6AASSUNaGkAhJFfI9qfFsJ) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 3:32 |
 | 329 | [The Less I Know](https://open.spotify.com/track/0zDu21d7aHrScpTHXRddNr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 3:44 |
 | 330 | [Strawberry Blush \(feat\. Free Nationals\)](https://open.spotify.com/track/7wIZ3CXR08DPLR8G0uk210) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 |
 | 331 | [Journey \(From "Songland"\)](https://open.spotify.com/track/64Olex5ZO20XUe3gB7W8im) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Journey \(From "Songland"\)](https://open.spotify.com/album/30iuIpjKEdOjLT60KmCL78) | 2:25 |
@@ -455,4 +455,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 445 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 446 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AblHgAAAAAAptPYtPEf/wM9Ht2Xd/JVu`
+Snapshot ID: `AblNIAAAAAAE1pgInAewsaxNsQWKuw/1`

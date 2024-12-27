@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  The Weather Station
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,566 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,701 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

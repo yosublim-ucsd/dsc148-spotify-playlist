@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Pedro Guerra y Andrés Calamaro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,953 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,984 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 46 | [Siete Vidas](https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 4:02 |
 | 47 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
 | 48 | [Yo no soy esa](https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 2:32 |
-| 49 | [Toda una Vida](https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 1:55 |
-| 50 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
+| 49 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
+| 50 | [Toda una Vida](https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 1:55 |
 | 51 | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn) | 6:30 |
 | 52 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
 | 53 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 96 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 |
 | 97 | [Soy un Corazón Tendido al Sol](https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazón Tendido Al Sol](https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB) | 4:24 |
 | 98 | [No olvidarme de olvidar \(feat\. Carlos Rivera\)](https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [En la memoria de la piel \(Deluxe Version\)](https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt) | 4:07 |
-| 99 | [A Tu Vida](https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Árbol y el Bosque](https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT) | 3:16 |
+| 99 | [Cançó de Nadal](https://open.spotify.com/track/1XheQm7y912AOlnGEdEZBO) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Cançó de Nadal](https://open.spotify.com/album/0UakZEMLJxs9SZ9HZSE8IJ) | 2:49 |
 | 100 | [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 |
 
 Snapshot ID: `Z2SlogAAAACvVyzVoW1PqiuDfgfZEyJm`

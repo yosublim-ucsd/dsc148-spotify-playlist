@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,914 songs - 4 day 5 hr 57 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,915 songs - 4 day 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1922,5 +1922,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1912 | [Break Down The System](https://open.spotify.com/track/6sSDGIzke3hTajvJ1Mzvdg) | [Alex B](https://open.spotify.com/artist/4yTr18DXWGI4fTv8mTHLV5), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Break Down The System](https://open.spotify.com/album/6iMW8zpRuJkRrAL3udjV58) | 3:47 |
 | 1913 | [Letting Go](https://open.spotify.com/track/0s2qPVlVu6XuhZNpxlEgN0) | [DJ Shimamura](https://open.spotify.com/artist/3w4XD20Uhwh95PA6Hjfd0M) | [Letting Go](https://open.spotify.com/album/7lPJVmdJG0mrAgiqIm6lMh) | 3:48 |
 | 1914 | [Meant To Be](https://open.spotify.com/track/5jQ48vkNkTz1gafzRnoS9j) | [Candy Kid](https://open.spotify.com/artist/6F3zmVi9MNIbt1oZcl2ebw) | [Fresh As Fukk](https://open.spotify.com/album/0dbWCfL214TUX0D8EOUwQi) | 4:09 |
+| 1915 | [THE NATION](https://open.spotify.com/track/6vQF0OGHEbFag8svjKRcmp) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06) | [THE NATION](https://open.spotify.com/album/2sTtVPUuqg8T8iWNUxiWXJ) | 2:46 |
 
-Snapshot ID: `AAAHsYjCu9W9tzhIQN5owJhBLsqfaswZ`
+Snapshot ID: `AAAHssO+po4czJ94p8hp/bqntuyClKJe`

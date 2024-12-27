@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 81668,
+  "num_followers": 81687,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-12-20 05:00:34",
       "album": {
-        "name": "Family Portrait",
-        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 306118,
-      "name": "Thank God I'm A Lizard",
-      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
-    },
-    {
-      "added_at": "2024-12-20 05:00:34",
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 156480,
       "name": "Strut",
       "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
+    },
+    {
+      "added_at": "2024-12-20 05:00:34",
+      "album": {
+        "name": "Family Portrait",
+        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 306118,
+      "name": "Thank God I'm A Lizard",
+      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
     },
     {
       "added_at": "2024-12-20 05:00:34",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-12-20 05:00:34",
       "album": {
-        "name": "Illusion Of Time",
-        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "At First Sight",
-      "url": "https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H"
-    },
-    {
-      "added_at": "2024-12-20 05:00:34",
-      "album": {
         "name": "Animosity (SOPHIE Remix)",
         "url": "https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 486760,
       "name": "Animosity - SOPHIE Remix",
       "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
+    },
+    {
+      "added_at": "2024-12-20 05:00:34",
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "At First Sight",
+      "url": "https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H"
     },
     {
       "added_at": "2024-12-20 05:00:34",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-12-20 05:00:34",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+    },
+    {
+      "added_at": "2024-12-20 05:00:34",
+      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 240191,
       "name": "Back Seat - Tseba Remix",
       "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
-    },
-    {
-      "added_at": "2024-12-20 05:00:34",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
     },
     {
       "added_at": "2024-12-20 05:00:34",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-12-20 05:00:34",
       "album": {
-        "name": "Time Warps",
-        "url": "https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE"
-      },
-      "artists": [
-        {
-          "name": "Richie Hawtin",
-          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
-        }
-      ],
-      "duration_ms": 997568,
-      "name": "Time Stands Still",
-      "url": "https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN"
-    },
-    {
-      "added_at": "2024-12-20 05:00:34",
-      "album": {
         "name": "E",
         "url": "https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 252459,
       "name": "E",
       "url": "https://open.spotify.com/track/21wXCpWHhImzz4KYHxQ71q"
+    },
+    {
+      "added_at": "2024-12-20 05:00:34",
+      "album": {
+        "name": "Time Warps",
+        "url": "https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        }
+      ],
+      "duration_ms": 997568,
+      "name": "Time Stands Still",
+      "url": "https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN"
     },
     {
       "added_at": "2024-12-20 05:00:34",

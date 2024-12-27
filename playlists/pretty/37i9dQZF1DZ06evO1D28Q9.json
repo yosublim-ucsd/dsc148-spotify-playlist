@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAABAOGx6gc6Tu2kaZk4HSdko",
+  "snapshot_id": "Z2tLAAAAAADyNA8YrYGcch4k/iYGbHNL",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 207071,
-      "name": "Na Entrada Do C\u00e9u",
-      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selvagem",
         "url": "https://open.spotify.com/album/4B3wPgCMLWIERh9QfGaYag"
       },
@@ -183,22 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Esfera",
-        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
       "artists": [
         {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         }
       ],
-      "duration_ms": 386440,
-      "name": "Da Lama / Afrontamento",
-      "url": "https://open.spotify.com/track/5uGkKEpWUYcHDhVgoi8JjJ"
+      "duration_ms": 207071,
+      "name": "Na Entrada Do C\u00e9u",
+      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
     },
     {
       "added_at": null,
@@ -235,6 +215,26 @@
       "duration_ms": 382450,
       "name": "N\u00f3s Somos Pesados",
       "url": "https://open.spotify.com/track/3MWnRLlZM2P7YqUF8Xva7q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 386440,
+      "name": "Da Lama / Afrontamento",
+      "url": "https://open.spotify.com/track/5uGkKEpWUYcHDhVgoi8JjJ"
     },
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voando Baixo",
-        "url": "https://open.spotify.com/album/2gzgDBVswfMDfLLAICpRjg"
-      },
-      "artists": [
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Kmila Cdd",
-          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 280037,
-      "name": "Nossa Lei",
-      "url": "https://open.spotify.com/track/5A03XUmhKizJKWRHcN6d1p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coroa de Flores",
         "url": "https://open.spotify.com/album/3dmJmIcejU0YpJrq3EJuIk"
       },
@@ -647,6 +623,30 @@
       "duration_ms": 258656,
       "name": "Coroa de Flores",
       "url": "https://open.spotify.com/track/3p9uy80dCV8Mvwqxk4lnSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voando Baixo",
+        "url": "https://open.spotify.com/album/2gzgDBVswfMDfLLAICpRjg"
+      },
+      "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 280037,
+      "name": "Nossa Lei",
+      "url": "https://open.spotify.com/track/5A03XUmhKizJKWRHcN6d1p"
     },
     {
       "added_at": null,

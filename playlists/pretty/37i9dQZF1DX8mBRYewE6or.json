@@ -1,6 +1,6 @@
 {
   "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
-  "num_followers": 1063688,
+  "num_followers": 1063642,
   "original_name": "Sextou",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 202245,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "added_at": "2024-10-31 00:01:00",
+      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2024-10-31 00:01:00",
-      "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
     },
     {
       "added_at": "2024-10-31 00:01:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "added_at": "2024-10-31 00:01:00",
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
-    },
-    {
-      "added_at": "2024-10-31 00:01:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
     },
     {
       "added_at": "2024-10-31 00:01:00",
@@ -975,18 +975,22 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
     },
     {
       "added_at": "2024-10-31 00:01:00",
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
-        "name": "Sweetest Pie",
-        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 201334,
-      "name": "Sweetest Pie",
-      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2024-10-31 00:01:00",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 147139,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
+    },
+    {
+      "added_at": "2024-10-31 00:01:00",
+      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 150476,
       "name": "In Your Arms (For An Angel)",
       "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
-    },
-    {
-      "added_at": "2024-10-31 00:01:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 147139,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
     },
     {
       "added_at": "2024-10-31 00:01:00",
@@ -2079,18 +2079,26 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Sophia Ardessore",
+          "url": "https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw"
         }
       ],
-      "duration_ms": 145840,
-      "name": "Used to Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+      "duration_ms": 143253,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD"
     }
   ],
   "unique_name": "Sextou",

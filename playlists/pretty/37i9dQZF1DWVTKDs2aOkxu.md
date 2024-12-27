@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 ### [The Indie List](https://open.spotify.com/playlist/37i9dQZF1DWVTKDs2aOkxu)
 
-> The best indie music of the moment\. Merry Christmas, please don't call.
+> The best indie music of the moment\. Fat Dog 🙏
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,770 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,735 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
+| 1 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 |
 | 2 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 | 3 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 |
-| 4 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 |
+| 4 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 |
 | 5 | [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 |
 | 6 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 |
 | 7 | [Champagne](https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Champagne / That's Life](https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q) | 5:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 80 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 |
 
-Snapshot ID: `Z2SznAAAAAByipqSH72cv/b9YufAdBpI`
+Snapshot ID: `Z23dKQAAAAB6U7AXaIuzNFWDx8O7mjOK`

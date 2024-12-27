@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: コレサワ
 
-467 songs - 1 day 2 hr 46 min
+468 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 | 2023-07-05 | 2023-09-02 |
 | [ミックス](https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ミックス](https://open.spotify.com/album/2IrEhqLiVmJZRgSY4W0djK) | 3:29 | 2023-10-02 | 2023-10-13 |
 | [メリールー](https://open.spotify.com/track/1QSqUUws87962Wq65IjDdQ) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [ジュネス](https://open.spotify.com/album/1p5QKngSFa2UzGvNdW3NYC) | 4:45 | 2023-09-01 | 2023-09-16 |
+| [メロイズム](https://open.spotify.com/track/2IHo698jDcqkmpd0d4qHIw) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [メロイズム](https://open.spotify.com/album/49AaMk5LjDEm3wNda9o31u) | 3:13 | 2024-12-26 |  |
 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 | 2023-06-22 | 2023-07-28 |
 | [モエチャッカファイア](https://open.spotify.com/track/43CMcyGeImlZjy1oN0NVNG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [モエチャッカファイア](https://open.spotify.com/album/1AzkXE2hgeuHGPKAqcGgHD) | 2:35 | 2024-09-26 |  |
 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 | 2024-04-25 | 2024-08-01 |
@@ -473,7 +474,7 @@
 | [青梅](https://open.spotify.com/track/0D0RLKxs1x9BfEnaFUfKCl) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [青梅](https://open.spotify.com/album/3iSZuYp6JssxuMOsqte6NO) | 3:11 | 2023-08-17 | 2023-09-22 |
 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 | 2023-11-11 |
 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-18 | 2024-07-01 |
-| [魔性の女A](https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [魔性の女A](https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn) | 3:40 | 2024-05-01 |  |
+| [魔性の女A](https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [魔性の女A](https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn) | 3:40 | 2024-05-01 | 2024-12-27 |
 | [사랑스러워](https://open.spotify.com/track/6XVp0q2S9ORgOeHBeaXlke) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [This is me](https://open.spotify.com/album/0aOZf1FV1MFFhue6oRi3eu) | 4:29 | 2023-11-09 | 2024-03-02 |
 
 \*This playlist was first scraped on 2023-02-01. Prior content cannot be recovered.

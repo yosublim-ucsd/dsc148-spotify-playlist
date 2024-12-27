@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Nichelle Lewis in The Wiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,613 likes - 74 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,636 likes - 74 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 52 | [I Know It's Today](https://open.spotify.com/track/6zEEGZVvTnbyPtaovocFwy) | [Leah Greenhaus](https://open.spotify.com/artist/1A2zTDBNQAtGRaHX9lISZ5), [Marissa O'Donnell](https://open.spotify.com/artist/7uKEMkjW2Y8VCqE8c29ARz), [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Shrek The Musical](https://open.spotify.com/album/5VeD79fcAGrvxWTwiWSVfh) | 5:18 |
 | 53 | [Diva's Lament \(What Ever Happened To My Part?\) \- Original Broadway Cast Recording: "Spamalot"](https://open.spotify.com/track/0PEkZhThiOCTPk1NxnjjJe) | [Sara Ramirez](https://open.spotify.com/artist/369G5DRwe0MjvyOoyyVXGN) | [Monty Python's Spamalot](https://open.spotify.com/album/5To3LrXgZuZEfDTiIjKqFf) | 2:32 |
 | 54 | [Adelaide's Lament](https://open.spotify.com/track/2IvclMRRfknwnR6wgk5uIn) | [Faith Prince](https://open.spotify.com/artist/1lrPNYVtvuiB3lmOjbyJc9) | [Guys and Dolls \(New Broadway Cast Recording \(1992\)\)](https://open.spotify.com/album/7aVLz778h7j4o82KcAD2Ic) | 3:40 |
-| 55 | [There Won't Be Trumpets](https://open.spotify.com/track/1CtGmYxK6fwjKOopL5aTmf) | [Lee Remick](https://open.spotify.com/artist/3i7VCvbORwxiHlZd5qsY53) | [Anyone Can Whistle \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1wgIxOQp2hn7pb0dqE1D9Z) | 2:37 |
+| 55 | [There Won't Be Trumpets](https://open.spotify.com/track/1CtGmYxK6fwjKOopL5aTmf) | [Lee Remick](https://open.spotify.com/artist/3i7VCvbORwxiHlZd5qsY53), [Original Broadway Cast of Anyone Can Whistle](https://open.spotify.com/artist/2MOaqdHa8mKOvXJh69XVYe) | [Anyone Can Whistle \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1wgIxOQp2hn7pb0dqE1D9Z) | 2:37 |
 | 56 | [Someone Like You](https://open.spotify.com/track/2WNPG9HRibvtymAp7f9jIW) | [Lucy](https://open.spotify.com/artist/0sV6QzECLIDKuGvscO13V5) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:46 |
 | 57 | [They Just Keep Moving The Line \(SMASH Cast Version\) \(feat\. Megan Hilty\)](https://open.spotify.com/track/5KPEvZ5K7EfRxDOh1NFiVT) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK), [Megan Hilty](https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk) | [BOMBSHELL](https://open.spotify.com/album/1UQvgTFkxFQUnkZddIg7fR) | 2:56 |
 | 58 | [I Can Do Better Than That](https://open.spotify.com/track/2envD4rHy66e0f0tiboVqA) | [Jason Robert Brown](https://open.spotify.com/artist/5ol7Hq695R9m2bT9T3FiQx) | [The Last Five Years](https://open.spotify.com/album/6xRraUlXlqv1bsWioqYEyQ) | 5:11 |

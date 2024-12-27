@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-501 songs - 1 day 4 hr 51 min
+502 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2024-03-26 |  |
 | [And So I Grow](https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [And So I Grow](https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy) | 3:38 | 2023-12-28 |  |
 | [Another Day](https://open.spotify.com/track/19fXG7QBtxMBEDM4zGfahj) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [For Life](https://open.spotify.com/album/4HeApjft3eRBID1XjF5QSs) | 3:52 | 2023-02-23 | 2023-04-26 |
-| [Another Day](https://open.spotify.com/track/4sClnnhC23yXMFMvE7lhc0) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Another Day](https://open.spotify.com/album/5IdiLQkgPHbTl5ukYAYhXg) | 2:48 | 2024-02-29 | 2024-12-23 |
+| [Another Day](https://open.spotify.com/track/4sClnnhC23yXMFMvE7lhc0) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Another Day](https://open.spotify.com/album/5IdiLQkgPHbTl5ukYAYhXg) | 2:48 | 2024-02-29 |  |
 | [Anxious](https://open.spotify.com/track/0bqwsQAkGaO0jzfzgI5iLV) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Anxious](https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0) | 2:56 | 2024-07-05 | 2024-08-30 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 | 2024-09-27 |  |
 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc) | 3:23 | 2023-02-23 | 2024-04-19 |
@@ -78,7 +78,7 @@
 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 | 2024-12-18 |  |
 | [Chained To The Rhythm](https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:57 | 2024-03-21 | 2024-12-21 |
 | [Change the World](https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe) | 3:54 | 2023-02-23 | 2024-04-19 |
-| [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 | 2024-11-08 |  |
+| [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 | 2024-11-08 | 2024-12-27 |
 | [Changes](https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Changes](https://open.spotify.com/album/5YQ0n6vBeXrc5vbnls88ha) | 3:23 | 2024-03-21 | 2024-04-19 |
 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2023-02-23 | 2023-04-13 |
 | [Choose \(feat\. Hamo Dell\)](https://open.spotify.com/track/1OhrU4btsMvWXcRn5xB70k) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2) | [Choose \(feat\. Hamo Dell\)](https://open.spotify.com/album/4vtMm4TwL0JVCG1DzpWd0b) | 3:49 | 2023-02-23 | 2023-04-26 |
@@ -88,7 +88,7 @@
 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 | 2023-02-23 |  |
 | [Coming Home](https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Coming Home](https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl) | 3:38 | 2024-03-21 |  |
 | [Company](https://open.spotify.com/track/6lf2e8a0NOf8877D78GpaP) | [Lea Rue](https://open.spotify.com/artist/1RPZu5nxPrakSD5NumbgSn) | [Company](https://open.spotify.com/album/0nUk17FZxbfpK1AOQF4cHD) | 3:02 | 2023-02-23 |  |
-| [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 | 2023-04-06 |  |
+| [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 | 2023-04-06 | 2024-12-27 |
 | [COMPLETE MESS](https://open.spotify.com/track/7tqcKt5H9BmBLaT22VHqBX) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:26 | 2023-11-02 | 2024-04-19 |
 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 | 2023-02-23 |  |
 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 | 2024-03-21 |  |
@@ -377,6 +377,7 @@
 | [Slave To The Music](https://open.spotify.com/track/5IZznaqrDUgDWXYcjBxgCV) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [The Awakening](https://open.spotify.com/album/7poZ9Yjx1nBxpTrUAm7feN) | 3:23 | 2023-02-23 |  |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 | 2023-02-23 | 2024-03-27 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-11-04 |  |
+| [SNAP](https://open.spotify.com/track/0yhcyd1iJHUPMBzufc6SiF) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:59 | 2024-12-20 |  |
 | [So Good To Me \- Radio Edit](https://open.spotify.com/track/7u0lV6ZS6IzqpWt7GoJEvg) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me](https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD) | 2:38 | 2023-02-23 |  |
 | [so i let you \(15th of june \- evening\)](https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [so i let you \(15th of june \- evening\)](https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h) | 3:19 | 2024-04-11 |  |
 | [So Maybe](https://open.spotify.com/track/5y7Z9hH4qMis2b0kVp6Ejm) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [So Maybe](https://open.spotify.com/album/7o2mbXQP1P3svFu8wkZf9F) | 2:56 | 2023-02-23 | 2024-08-06 |

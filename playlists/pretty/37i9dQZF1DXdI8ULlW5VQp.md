@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Delilah en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,504 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,518 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 20 | [Te Perdí](https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Te Perdí](https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy) | 3:59 |
 | 21 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 |
 | 22 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 |
-| 23 | [valor de más \- \(extraído de LA NUBE EN EL JARDÍN\)](https://open.spotify.com/track/7JMDN7Uq1RTTWVp6m54zL0) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [valor de más \(extraído de LA NUBE EN EL JARDÍN\)](https://open.spotify.com/album/5nffADsIz5z4BZ5CpuhkeV) | 4:13 |
-| 24 | [Corazón en Coma](https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Corazón en Coma](https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k) | 2:52 |
+| 23 | [Corazón en Coma](https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Corazón en Coma](https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k) | 2:52 |
+| 24 | [valor de más \- \(extraído de LA NUBE EN EL JARDÍN\)](https://open.spotify.com/track/7JMDN7Uq1RTTWVp6m54zL0) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [valor de más \(extraído de LA NUBE EN EL JARDÍN\)](https://open.spotify.com/album/5nffADsIz5z4BZ5CpuhkeV) | 4:13 |
 | 25 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 |
 | 26 | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl) | 3:46 |
 | 27 | [Buenos Tiempos](https://open.spotify.com/track/7pDRRilFOcD5JZUuKWkDzx) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Buenos Tiempos](https://open.spotify.com/album/0JZFAmJrauExEk4sR9YzzV) | 3:48 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 70 | [MUJER MARAVILLA](https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [MUJER MARAVILLA](https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0) | 3:06 |
 | 71 | [La Calle de las Sirenas](https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle de las Sirenas](https://open.spotify.com/album/2GuFTan2nM0JthPoVk7vXi) | 4:34 |
 | 72 | [Puñetas Mentales](https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Puñetas Mentales](https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn) | 2:19 |
-| 73 | [cómo acaba](https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G) | 3:44 |
-| 74 | [Solo Los Amantes Sobreviven](https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Solo Los Amantes Sobreviven](https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx) | 3:16 |
+| 73 | [Solo Los Amantes Sobreviven](https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Solo Los Amantes Sobreviven](https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx) | 3:16 |
+| 74 | [cómo acaba](https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G) | 3:44 |
 | 75 | [Lento](https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Lento](https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI) | 2:54 |
 
 Snapshot ID: `Z2XA2QAAAAChcLXHxr0I5L8rVmQQYiTg`

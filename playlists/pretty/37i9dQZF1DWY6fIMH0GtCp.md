@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 
 > This Hanukkah playlist features all the classics and the funny favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,164 likes - 56 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,473 likes - 57 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,22 +47,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 | 37 | [More Like A Candle](https://open.spotify.com/track/3DAT9OPPBCM1lQSM4a0o4s) | [Eric Hunker](https://open.spotify.com/artist/3IGeNQig19r9fs8OlNX5Dp) | [More Like A Candle](https://open.spotify.com/album/7v9syalQiR9hJh2LtZcXXV) | 3:52 |
 | 38 | [Hanukkah In '96](https://open.spotify.com/track/5vrvN4sHVeI3TyAEq3AqHX) | [Alex Frankel](https://open.spotify.com/artist/7jBVVnSTb10YfTjrw1SjbL) | [Hanukkah+](https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT) | 2:46 |
 | 39 | [Hanukkah Dance](https://open.spotify.com/track/6t32bI9DEmU6IAuIqcdAsX) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Hard Travelin': The Asch Recordings, Vol\. 3](https://open.spotify.com/album/4aJQ9c9XNSJ9eiCrmqH3S3) | 1:25 |
-| 40 | [Eternal Light \(A Chanukah Song\)](https://open.spotify.com/track/4FadnFuu7sUCMztO6fbWed) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Faith \- A Holiday Album](https://open.spotify.com/album/4AokESVAm0tGIAQzDMxzMT) | 2:51 |
-| 41 | [Eight Flames](https://open.spotify.com/track/3QldV7t5xkpd0Yxu2R21jw) | [Nissim Black](https://open.spotify.com/artist/04QgfIIHBRS0b6XiY3kYYy) | [Eight Flames](https://open.spotify.com/album/6ctfNXv6vmsLXPtmxjlkST) | 3:16 |
-| 42 | [Nun Gimmel Heh Shin](https://open.spotify.com/track/1aCZdWhtWaKA14BtliYENL) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 2:51 |
-| 43 | [S'vivon](https://open.spotify.com/track/5g7ALV9G1yzWX2CNM40Lim) | [Meshugga Beach Party](https://open.spotify.com/artist/1G4dtDDEwKibPIsNjw6ob8) | [Let's Go Shleppin'!](https://open.spotify.com/album/6A3gEtpAfSBouXLECTEjLU) | 2:28 |
-| 44 | [Sevivon Sov, Sov, Sov](https://open.spotify.com/track/3XNUKwNEfKwJvLOx8biZId) | [Kenny Ellis](https://open.spotify.com/artist/0iHIDtziSOlFNtGe6Sudlk) | [Hanukkah Swings](https://open.spotify.com/album/7czNEqTxyqreghU8I4VSsb) | 3:19 |
-| 45 | [Spin It Up](https://open.spotify.com/track/3dBdttDJQG6MR1vDyCY8oA) | [Erran Baron Cohen](https://open.spotify.com/artist/1CrSNBDckO546hf8QKPd1g) | [Erran Baron Cohen Presents: Songs In the Key of Hanukkah](https://open.spotify.com/album/1iQWquieh3HJnOGATSJkIo) | 4:26 |
-| 46 | [Feast of Lights](https://open.spotify.com/track/3EsiksrSSBmEuanX0WzD8X) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Holidayland](https://open.spotify.com/album/4bvXrtNvwSeuthHvMqR16Z) | 2:36 |
-| 47 | [Hanukkah Bell](https://open.spotify.com/track/0HPKErO7k6q0rbvWGLq548) | [Fugu Dugu](https://open.spotify.com/artist/0r1ajNiDBhJ62xtqNBGrnU) | [Happier Joyous Hanukkah](https://open.spotify.com/album/6oQvoaOMgNCjNTTO7fzjAj) | 3:15 |
-| 48 | [Give You Everything](https://open.spotify.com/track/19uK50VWCehbByHrpVp3P0) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Hanukkah+](https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT) | 3:42 |
-| 49 | [Goyim Friends](https://open.spotify.com/track/03V1PRieYV3Tpn7GXm3CsO) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 3:16 |
-| 50 | [\(When Is\) Hanukkah This Year?](https://open.spotify.com/track/3VMneQTBcd1eY2vgucn5tQ) | [Mêlée](https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 2:33 |
-| 51 | [Applesauce vs\. Sour Cream](https://open.spotify.com/track/1Pi6Z97md7t8wdCm9ey2NI) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 2:10 |
-| 52 | [Chanukah \(Shake It Off\)](https://open.spotify.com/track/41o6DOxHFQxVJFCo1PvcNy) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb) | 3:37 |
-| 53 | [Hanukkah Lovin'](https://open.spotify.com/track/65PPpqV6zCbyE8hjUjBJwL) | [Michelle Citrin](https://open.spotify.com/artist/2jINb9SCrCBDzo6zRFdXVh) | [Hanukkah Lovin'](https://open.spotify.com/album/4GN4oV8cUqODVVfnGqH9PA) | 3:39 |
-| 54 | [Chanukah in West Virigina](https://open.spotify.com/track/22KVabLdWzcL5rdkxf2oHJ) | [Scott Simons](https://open.spotify.com/artist/4Laf9GjtJqV5YO7lGu8grD) | [Chanukah in West Virigina](https://open.spotify.com/album/3ISZPeKwElfcOk2rUtG57Y) | 3:54 |
-| 55 | [Hanukkah](https://open.spotify.com/track/2kSlZjr1loCtrmOkOnn9Ns) | [The Living Sisters](https://open.spotify.com/artist/53tm77lKt6nFAbGVqEB3Vi) | [Harmony Is Real: Songs For A Happy Holiday](https://open.spotify.com/album/4P187y5vUyKIvc0M3OKTM8) | 4:08 |
-| 56 | [Watch Me \(Spin / Drey Drey\)](https://open.spotify.com/track/7uj6s6UffjBA4FQlOBLboG) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb) | 2:54 |
+| 40 | [8 LIGHTS](https://open.spotify.com/track/4edpCnGBYraq49mjm2JVfF) | [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF), [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9) | [8 LIGHTS](https://open.spotify.com/album/5rLAJNMsE3jeGmYfQQ1puk) | 2:53 |
+| 41 | [Eternal Light \(A Chanukah Song\)](https://open.spotify.com/track/4FadnFuu7sUCMztO6fbWed) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Faith \- A Holiday Album](https://open.spotify.com/album/4AokESVAm0tGIAQzDMxzMT) | 2:51 |
+| 42 | [Eight Flames](https://open.spotify.com/track/3QldV7t5xkpd0Yxu2R21jw) | [Nissim Black](https://open.spotify.com/artist/04QgfIIHBRS0b6XiY3kYYy) | [Eight Flames](https://open.spotify.com/album/6ctfNXv6vmsLXPtmxjlkST) | 3:16 |
+| 43 | [Nun Gimmel Heh Shin](https://open.spotify.com/track/1aCZdWhtWaKA14BtliYENL) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 2:51 |
+| 44 | [S'vivon](https://open.spotify.com/track/5g7ALV9G1yzWX2CNM40Lim) | [Meshugga Beach Party](https://open.spotify.com/artist/1G4dtDDEwKibPIsNjw6ob8) | [Let's Go Shleppin'!](https://open.spotify.com/album/6A3gEtpAfSBouXLECTEjLU) | 2:28 |
+| 45 | [Sevivon Sov, Sov, Sov](https://open.spotify.com/track/3XNUKwNEfKwJvLOx8biZId) | [Kenny Ellis](https://open.spotify.com/artist/0iHIDtziSOlFNtGe6Sudlk) | [Hanukkah Swings](https://open.spotify.com/album/7czNEqTxyqreghU8I4VSsb) | 3:19 |
+| 46 | [Spin It Up](https://open.spotify.com/track/3dBdttDJQG6MR1vDyCY8oA) | [Erran Baron Cohen](https://open.spotify.com/artist/1CrSNBDckO546hf8QKPd1g) | [Erran Baron Cohen Presents: Songs In the Key of Hanukkah](https://open.spotify.com/album/1iQWquieh3HJnOGATSJkIo) | 4:26 |
+| 47 | [Feast of Lights](https://open.spotify.com/track/3EsiksrSSBmEuanX0WzD8X) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Holidayland](https://open.spotify.com/album/4bvXrtNvwSeuthHvMqR16Z) | 2:36 |
+| 48 | [Hanukkah Bell](https://open.spotify.com/track/0HPKErO7k6q0rbvWGLq548) | [Fugu Dugu](https://open.spotify.com/artist/0r1ajNiDBhJ62xtqNBGrnU) | [Happier Joyous Hanukkah](https://open.spotify.com/album/6oQvoaOMgNCjNTTO7fzjAj) | 3:15 |
+| 49 | [Give You Everything](https://open.spotify.com/track/19uK50VWCehbByHrpVp3P0) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Hanukkah+](https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT) | 3:42 |
+| 50 | [Goyim Friends](https://open.spotify.com/track/03V1PRieYV3Tpn7GXm3CsO) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 3:16 |
+| 51 | [\(When Is\) Hanukkah This Year?](https://open.spotify.com/track/3VMneQTBcd1eY2vgucn5tQ) | [Mêlée](https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 2:33 |
+| 52 | [Applesauce vs\. Sour Cream](https://open.spotify.com/track/1Pi6Z97md7t8wdCm9ey2NI) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 2:10 |
+| 53 | [Chanukah \(Shake It Off\)](https://open.spotify.com/track/41o6DOxHFQxVJFCo1PvcNy) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb) | 3:37 |
+| 54 | [Hanukkah Lovin'](https://open.spotify.com/track/65PPpqV6zCbyE8hjUjBJwL) | [Michelle Citrin](https://open.spotify.com/artist/2jINb9SCrCBDzo6zRFdXVh) | [Hanukkah Lovin'](https://open.spotify.com/album/4GN4oV8cUqODVVfnGqH9PA) | 3:39 |
+| 55 | [Chanukah in West Virigina](https://open.spotify.com/track/22KVabLdWzcL5rdkxf2oHJ) | [Scott Simons](https://open.spotify.com/artist/4Laf9GjtJqV5YO7lGu8grD) | [Chanukah in West Virigina](https://open.spotify.com/album/3ISZPeKwElfcOk2rUtG57Y) | 3:54 |
+| 56 | [Hanukkah](https://open.spotify.com/track/2kSlZjr1loCtrmOkOnn9Ns) | [The Living Sisters](https://open.spotify.com/artist/53tm77lKt6nFAbGVqEB3Vi) | [Harmony Is Real: Songs For A Happy Holiday](https://open.spotify.com/album/4P187y5vUyKIvc0M3OKTM8) | 4:08 |
+| 57 | [Watch Me \(Spin / Drey Drey\)](https://open.spotify.com/track/7uj6s6UffjBA4FQlOBLboG) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb) | 2:54 |
 
-Snapshot ID: `Z2oxugAAAABghcz84mfMArL1pDwsxFGE`
+Snapshot ID: `Z211kgAAAAAGvwgdBqvBwcGA8mRkJdri`

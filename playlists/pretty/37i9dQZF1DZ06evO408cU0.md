@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,971 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,985 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 48 | [El Prisionero De La Celda 909](https://open.spotify.com/track/5U8ZVNyGoGD32pBeEJ3Px5) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 3:41 |
 | 49 | [Y Ahora Te Vas](https://open.spotify.com/track/3H7mu3MU4kBuV6JukzL7Vs) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Vamos De Nuevo](https://open.spotify.com/album/3BAwuS5HqCNysuh7qpNreR) | 3:35 |
 | 50 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 |
-| 51 | [La Gran Pachanga](https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El General](https://open.spotify.com/album/5jfEZzk2tqBlPisJv6ov78) | 2:35 |
+| 51 | [Confieso](https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Confieso](https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI) | 4:02 |
 
-Snapshot ID: `Z2n5gAAAAABgSsIYPLvWJzf1KGq2ukrW`
+Snapshot ID: `Z2tLAAAAAAAKIxM+WyslUkVP5Gn8n9Vy`

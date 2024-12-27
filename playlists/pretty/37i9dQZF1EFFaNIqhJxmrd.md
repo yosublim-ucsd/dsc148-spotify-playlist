@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 27 | [APK](https://open.spotify.com/track/0GyDIFvLpmszVijNCSapvH) | [Södra Station](https://open.spotify.com/artist/018YUkd5Ngrv9NtywGnPpr) | [Bastugatan \- EP](https://open.spotify.com/album/7Jpi1asVbLxjqTJesvf2QJ) | 3:17 |
 | 28 | [Betong](https://open.spotify.com/track/1UzeebN7LFsdZnZ6nXrTDR) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Din](https://open.spotify.com/album/4D3Qea7cE19xKZKdXC3QIV) | 2:46 |
 | 29 | [20\-nånting](https://open.spotify.com/track/2xUPpHWbm8dCqhNqZtk7B6) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [20\-nånting](https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL) | 3:19 |
-| 30 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
-| 31 | [Du & jag](https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:31 |
+| 30 | [Du & jag](https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:31 |
+| 31 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 32 | [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/track/5zMt60A1g611s8v2kLSMHh) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Atlas](https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm) | 3:46 |
 | 33 | [Don't Hurt Yourself \- Deepend Remix](https://open.spotify.com/track/0HtHu2T3dJuGtDXqHtXlvU) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Don't Hurt Yourself \(Deepend Remix\)](https://open.spotify.com/album/6eEFqfwgJMkqzaGP8kQTdn) | 2:59 |
 | 34 | [Turn of the Tide](https://open.spotify.com/track/571rp5YwvdDOs2940lYqLg) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:17 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 98 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 99 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AblHngAAAAA78LHLHuwKPTBXL1JMv9F1`
+Snapshot ID: `AblNFgAAAAD/G7Xa5b1KO9V6sLnr8hpN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 
 > The south got something to say\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,387 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,429 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 | 26 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 |
 | 27 | [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 |
 | 28 | [What You Know](https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 4:34 |
-| 29 | [Let's Go \(feat\. Twista & Lil' Jon\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 |
-| 30 | [Still Tippin' \(feat\. Slim Thug and Paul Wall\)](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) | [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Who Is Mike Jones?](https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2) | 4:31 |
+| 29 | [Still Tippin' \(feat\. Slim Thug and Paul Wall\)](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) | [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Who Is Mike Jones?](https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2) | 4:31 |
+| 30 | [Let's Go \(feat\. Twista & Lil' Jon\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 |
 | 31 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
 | 32 | [Slow Motion](https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Soulja Slim](https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd) | [Juve The Great](https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A) | 4:08 |
 | 33 | [Sunshine \(feat\. Lea\)](https://open.spotify.com/track/4s0o8TJHfX9LLHa0umnOzT) | [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS), [Lea](https://open.spotify.com/artist/4tAhhPPEWcszcMjhYROUvx) | [U Gotta Feel Me](https://open.spotify.com/album/548NoYLgqSBDTNIYvlpDu5) | 3:45 |

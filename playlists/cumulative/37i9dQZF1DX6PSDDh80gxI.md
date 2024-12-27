@@ -4,7 +4,7 @@
 
 > Delicatoni in cover della playlist con il meglio dell’indie italiano 🔥
 
-172 songs - 8 hr 53 min
+173 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 | 2024-06-27 | 2024-08-16 |
 | [Sconosciuti](https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:46 | 2024-11-07 |  |
 | [Sembra per Sempre](https://open.spotify.com/track/73LkdQY7M5kMSDWPiWs0Q1) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 4:30 | 2024-12-19 |  |
+| [Senza di me](https://open.spotify.com/track/71ogrXoA23rHJ1LVFoNOk7) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [Senza di me](https://open.spotify.com/album/1M92MZmztvndDnorR9wTsU) | 2:31 | 2024-12-26 |  |
 | [Senza Stelle](https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Senza Stelle](https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC) | 2:52 | 2024-09-19 | 2024-10-18 |
 | [Sesso e architettura](https://open.spotify.com/track/5nzQR6J5MGFe3eabdkZZL5) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Lux Eterna Beach](https://open.spotify.com/album/6z4lt8x3kYu8W3vlOLVrGP) | 3:30 | 2024-06-27 |  |
 | [Sex and cocaine](https://open.spotify.com/track/0m6coZlkyDP9Th9v4q2mnS) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Sex and cocaine](https://open.spotify.com/album/0Y8EIEZB6McMxc7HSADUYD) | 2:47 | 2024-10-03 | 2024-10-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: lostbeans",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Anatomy Rabbit",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e1a\u0e19\u0e42\u0e25\u0e01(U)",
+        "url": "https://open.spotify.com/album/2wmjvtFbwS4sWKuSYqnJqN"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248366,
+      "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e1a\u0e19\u0e42\u0e25\u0e01(U)",
+      "url": "https://open.spotify.com/track/2rcDi4sIkOPg102RWc3dmy"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14 (Cha la la la)",
         "url": "https://open.spotify.com/album/11u1dm8tOrp3BEKj9U32Fh"
       },
@@ -396,7 +414,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 288250,
       "name": "\u0e08\u0e32\u0e01\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48(\u0e40\u0e04\u0e22)\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 [La La Bye]",
       "url": "https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw"

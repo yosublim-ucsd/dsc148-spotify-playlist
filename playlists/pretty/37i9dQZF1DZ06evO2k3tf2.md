@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 
 > This is Twenty One Pilots\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,378,909 likes - 37 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,379,113 likes - 37 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 33 | [Fall Away](https://open.spotify.com/track/77vDHmiANW3JS2gNN5q7pI) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM) | 3:02 |
 | 34 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 |
 | 35 | [Cancer](https://open.spotify.com/track/19W5OTEcQI3ZoRW1HERMyy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Cancer](https://open.spotify.com/album/22uQ3YSLjQJPNPkZQzdX2y) | 3:56 |
-| 36 | [Oh Ms Believer](https://open.spotify.com/track/3FvV3j98xtcylQF1drDc9j) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM) | 3:37 |
+| 36 | [Oh Ms Believer](https://open.spotify.com/track/4JdJ95CXOA0loxFxO288iK) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa) | 3:37 |
 | 37 | [Choker](https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:43 |
 
-Snapshot ID: `Z2n5gAAAAAD8Z7GLdvMTHhrSH+PkImtb`
+Snapshot ID: `Z2tLAAAAAAAQ7IEHQTNYBpkkGt082Tfs`

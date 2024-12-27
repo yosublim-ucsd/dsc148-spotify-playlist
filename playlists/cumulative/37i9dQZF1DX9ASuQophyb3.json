@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "1053 km",
+        "url": "https://open.spotify.com/album/6WDMYycFJoaVx7GwsYMJF6"
+      },
+      "artists": [
+        {
+          "name": "Ece Mumay",
+          "url": "https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe"
+        },
+        {
+          "name": "NASTEISHA",
+          "url": "https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9"
+        },
+        {
+          "name": "INSOMNIA",
+          "url": "https://open.spotify.com/artist/06NXURAd96AYm2mCb3gW3H"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "1053 km",
+      "url": "https://open.spotify.com/track/0s5ldmbye05lSpabpCpfmc"
+    },
+    {
+      "album": {
         "name": "Ac\u0131 Veriyor",
         "url": "https://open.spotify.com/album/0ZanJVLiFEKEHsEzzaxaZE"
       },
@@ -74,6 +100,24 @@
       "duration_ms": 134946,
       "name": "Ama Yine Sen",
       "url": "https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ"
+    },
+    {
+      "album": {
+        "name": "Anlatamam",
+        "url": "https://open.spotify.com/album/3ZRoGUIDt6VfFaplGVXDyw"
+      },
+      "artists": [
+        {
+          "name": "Sinan Ak\u00e7\u0131l",
+          "url": "https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Anlatamam",
+      "url": "https://open.spotify.com/track/6DvmF8iireotLfNH5oouqV"
     },
     {
       "album": {
@@ -572,7 +616,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 185625,
       "name": "Bu Delikanl\u0131y\u0131 Unutamazs\u0131n (feat. Y\u0131ld\u0131z Tilbe)",
       "url": "https://open.spotify.com/track/3X9TAWJhrQtpQHqDoCLv76"
@@ -1336,7 +1380,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 183387,
       "name": "K\u00fcl Kedisi",
       "url": "https://open.spotify.com/track/7pL0k2S0xtCeIK8frnpogr"
@@ -1738,7 +1782,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 279652,
       "name": "Sa\u011f Salim",
       "url": "https://open.spotify.com/track/4luMMabCTC0UJgdH7sQCRK"
@@ -2528,6 +2572,24 @@
       "duration_ms": 241333,
       "name": "\u00dczg\u00fcn\u00fcm",
       "url": "https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV"
+    },
+    {
+      "album": {
+        "name": "\u00dc\u015f\u00fcd\u00fcm",
+        "url": "https://open.spotify.com/album/7ervQSP11Ck2amaPE9ROei"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274922,
+      "name": "\u00dc\u015f\u00fcd\u00fcm",
+      "url": "https://open.spotify.com/track/48y31axyctQLxNHbQP0y7z"
     },
     {
       "album": {

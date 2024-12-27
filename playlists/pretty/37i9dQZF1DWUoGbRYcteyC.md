@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,986,933 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,986,909 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 30 | [Índigo](https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:34 |
 | 31 | [Mi Otra Mitad](https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mi Otra Mitad](https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4) | 3:15 |
 | 32 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
-| 33 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
-| 34 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
+| 33 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
+| 34 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
 | 35 | [Los Besos](https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Besos](https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs) | 3:22 |
 | 36 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
 | 37 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 |
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 44 | [Lejos Conmigo](https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Lejos Conmigo](https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM) | 2:55 |
 | 45 | [Hasta Ese Día](https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Hasta Ese Día](https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw) | 3:23 |
 | 46 | [Cohete](https://open.spotify.com/track/2P58XhyNkacK1LHSCk5O2t) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cohete](https://open.spotify.com/album/34L6DaZIUkzQvZwDd5Cx9a) | 2:52 |
-| 47 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
-| 48 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
+| 47 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
+| 48 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
 | 49 | [PLIS](https://open.spotify.com/track/1regh1ryWna3MRTKu401uD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:42 |
 | 50 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
 | 51 | [Llegaste tú](https://open.spotify.com/track/5gAbyyyD5Pr0WDkX8sNWSO) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Jesse & Joy](https://open.spotify.com/album/09Gz79Vlh6TDdL5qt5PhQR) | 4:05 |
 | 52 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
-| 53 | [Mar Adentro](https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 4:01 |
-| 54 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 |
+| 53 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 |
+| 54 | [Mar Adentro](https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 4:01 |
 | 55 | [Para Siempre](https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Para Siempre](https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP) | 3:51 |
 | 56 | [el afortunado](https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [el afortunado](https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2) | 3:20 |
 | 57 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 62 | [No Tengo Nada](https://open.spotify.com/track/2gXclup5H2J9dInrVLFs3n) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [No Tengo Nada](https://open.spotify.com/album/0sUMIXlf7GdaeiEibYJLml) | 3:45 |
 | 63 | [Por Ti](https://open.spotify.com/track/4tedENnmJQTVp64e8XGUCm) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Silencio](https://open.spotify.com/album/2mYLLf0fI3qMoXu2Ij6A8W) | 3:08 |
 | 64 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
-| 65 | [Ella Es](https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Ella Es](https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio) | 3:15 |
+| 65 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
 
 Snapshot ID: `Zy2a0AAAAAARNDjdlCHroPJdND43c/MB`

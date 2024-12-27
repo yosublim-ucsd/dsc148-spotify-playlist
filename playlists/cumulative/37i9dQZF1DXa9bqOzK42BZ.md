@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=LYcW\_5ZCTGiHVKk\_MsYzMg">Christina Shusho</a>
 
-207 songs - 18 hr 14 min
+208 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [ULINIJUA \- Radio Edit](https://open.spotify.com/track/314xMaImh9biPpmK0pnrs2) | [Saint Carlson](https://open.spotify.com/artist/2syF79LbREdIoJlDpBPdJf) | [ULINIJUA \(Radio Edit\)](https://open.spotify.com/album/6iloq9rUZqq3d7clUjBbXP) | 6:11 | 2023-08-25 | 2024-05-24 |
 | [Umejua Kunifurahisha](https://open.spotify.com/track/2PydoapfePzFzBc6CoVcru) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Chris Shalom](https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU) | [Umejua Kunifurahisha](https://open.spotify.com/album/0457zdsea1nLhcXW45GvLc) | 5:12 | 2022-06-24 | 2024-04-19 |
 | [Umejua Kunifurahisha](https://open.spotify.com/track/1cHVVMDu1J9pCWGHHoMkIA) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Chris Shalom](https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU) | [Umejua Kunifurahisha](https://open.spotify.com/album/5xpGzNwYqlCRs1ViZqZG7w) | 5:12 | 2022-06-24 |  |
+| [Umeniamini](https://open.spotify.com/track/0x9ydAivbmutdfcybRbL6i) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9), [Martha Mwaipaja](https://open.spotify.com/artist/3TWXI8QKcb1lHMbpNB5pZ4) | [Umeniamini](https://open.spotify.com/album/6iZofukmkqv4YUe4ZskYX9) | 5:28 | 2024-12-26 |  |
 | [Umenipea \(feat\. Subiri Jay\)](https://open.spotify.com/track/4LC16THJEl85dmJwYphkxY) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Subiri Jay](https://open.spotify.com/artist/6Rco845nJCRiUlJSed7ofT) | [Umenipea \(feat\. Subiri Jay\)](https://open.spotify.com/album/3T1cVHHZIzCIPUltJEfdHp) | 3:35 | 2024-06-07 |  |
 | [Umenitendea](https://open.spotify.com/track/5WhazdGfAcEAsdkFlPDrDv) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Tangu Mwanzo](https://open.spotify.com/album/70AH9ZkKrDBzoB8lRs6pL9) | 6:17 | 2022-06-24 | 2023-06-09 |
 | [Umezungukwa Na Sifa](https://open.spotify.com/track/6vR5SlKDAVTPGVfgtxR0Qs) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 9:58 | 2022-06-24 | 2024-04-19 |

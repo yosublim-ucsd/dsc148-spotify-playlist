@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 14285,
+  "num_followers": 14303,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAA010lTvnlgJ8wd7+xh4tie",
+  "snapshot_id": "Z2tLAAAAAAAGdwyWFW70P7akL/TrSlQD",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triste Recuerdo",
-        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 208902,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
+      "duration_ms": 192253,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 192253,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
+      "duration_ms": 208902,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Vale",
-        "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Me Vale",
-      "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Vale",
+        "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Me Vale",
+      "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 191280,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/29y7MHn1HK7OymbBJCshTN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1CQ9fJeERTkZsX00Hgv9d7"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Toda La Chapa",
+        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "En Toda La Chapa",
+      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Toda La Chapa",
-        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 177053,
-      "name": "En Toda La Chapa",
-      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
+      "duration_ms": 192560,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1CQ9fJeERTkZsX00Hgv9d7"
     },
     {
       "added_at": null,

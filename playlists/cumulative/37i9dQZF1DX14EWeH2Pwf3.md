@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Marracash in cover della playlist urban più grande in Italia 🔥
+> Tony e Yugi in cover della playlist urban più grande in Italia 🔥
 
 672 songs - 1 day 8 hr 58 min
 

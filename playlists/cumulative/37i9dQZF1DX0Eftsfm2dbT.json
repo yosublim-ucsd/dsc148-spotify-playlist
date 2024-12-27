@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Daichi Yamamoto",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Benjazzy",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -8888,7 +8888,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 117600,
       "name": "Ghetto Saiyan",
       "url": "https://open.spotify.com/track/6s6Z4n8IVBECW4VpqBAmXz"
@@ -12560,7 +12560,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 255986,
       "name": "Last Party Never End (feat. Tiji Jojo, YZERR, Vingo & Yellow Pato)",
       "url": "https://open.spotify.com/track/52buM4EFitLjpgxtN1sxIb"
@@ -19764,7 +19764,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 212197,
       "name": "Ride (feat. Choppa Capone)",
       "url": "https://open.spotify.com/track/0K3CmHr5f4oIecZ0ax3OKJ"
@@ -23391,6 +23391,28 @@
     },
     {
       "album": {
+        "name": "Till I Die",
+        "url": "https://open.spotify.com/album/0JUbgRhX1DFPejUc0xe130"
+      },
+      "artists": [
+        {
+          "name": "nosh",
+          "url": "https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q"
+        },
+        {
+          "name": "C.O.S.A.",
+          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129050,
+      "name": "Till I Die",
+      "url": "https://open.spotify.com/track/2PgVWDAKaw6QGcNtMQYJrK"
+    },
+    {
+      "album": {
         "name": "Endless Rain2",
         "url": "https://open.spotify.com/album/2Q9PWzruiAOcspamsjMalp"
       },
@@ -24258,6 +24280,24 @@
       "duration_ms": 168518,
       "name": "Unlucky",
       "url": "https://open.spotify.com/track/78siaxmGp6yS5un5lJbcs3"
+    },
+    {
+      "album": {
+        "name": "UNTITLED",
+        "url": "https://open.spotify.com/album/0puoxQT409nq9IuV5GT2Va"
+      },
+      "artists": [
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "UNTITLED",
+      "url": "https://open.spotify.com/track/7sPMLw5bY4gqtJgpYYCYx1"
     },
     {
       "album": {
@@ -27922,7 +27962,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 252999,
       "name": "\u5909\u306a\u7a7a\u6c17",
       "url": "https://open.spotify.com/track/1TDAgkwGUOPtlxItj5trZE"

@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 475066,
+  "num_followers": 475124,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Paradise (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
-      },
-      "artists": [
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "Paradise - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Telegrama (Double MZK Remix)",
         "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 159193,
       "name": "Telegrama (Double MZK Remix)",
       "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Paradise (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
+      },
+      "artists": [
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "Paradise - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Dias Melhores - Remix",
         "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 174193,
       "name": "Dias Melhores - Remix",
       "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "Trem das Onze",
+        "url": "https://open.spotify.com/album/30CvDDVvdCJIYQjrKjmkPa"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "duration_ms": 149047,
+      "name": "Trem das Onze",
+      "url": "https://open.spotify.com/track/4TjmNdH82Zn3DGTxuRGFuf"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "Monalisa (KVSH Remix)",
         "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 175844,
       "name": "Monalisa (KVSH Remix)",
       "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Trem das Onze",
-        "url": "https://open.spotify.com/album/30CvDDVvdCJIYQjrKjmkPa"
-      },
-      "artists": [
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        }
-      ],
-      "duration_ms": 149047,
-      "name": "Trem das Onze",
-      "url": "https://open.spotify.com/track/4TjmNdH82Zn3DGTxuRGFuf"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "When In Rome",
-        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
+        "name": "Os Paralamas Do Sucesso - 10 Remixes",
+        "url": "https://open.spotify.com/album/55eL9FgxWbZL93XdlDbwOu"
       },
       "artists": [
         {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
         },
         {
-          "name": "Damon Sharpe",
-          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
         }
       ],
-      "duration_ms": 194767,
-      "name": "When In Rome",
-      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
+      "duration_ms": 156375,
+      "name": "O Beco - (Tropkillaz Remix)",
+      "url": "https://open.spotify.com/track/5RAyUqPa2uEdshUfFGbttA"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1311,22 +1311,22 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Os Paralamas Do Sucesso - 10 Remixes",
-        "url": "https://open.spotify.com/album/55eL9FgxWbZL93XdlDbwOu"
+        "name": "When In Rome",
+        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
       },
       "artists": [
         {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
         },
         {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+          "name": "Damon Sharpe",
+          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
         }
       ],
-      "duration_ms": 156375,
-      "name": "O Beco - (Tropkillaz Remix)",
-      "url": "https://open.spotify.com/track/5RAyUqPa2uEdshUfFGbttA"
+      "duration_ms": 194767,
+      "name": "When In Rome",
+      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
     },
     {
       "added_at": "2024-12-06 13:56:24",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: vangoura.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 202149,
       "name": "1 L\u00cdDER NECESITA 1 L\u00cdDER",
       "url": "https://open.spotify.com/track/00JOjGtanKpK3VBpJ93WVU"
+    },
+    {
+      "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370700,
+      "name": "1960",
+      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
     },
     {
       "album": {
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 184666,
       "name": "Amargura (Cover para Movistar Plus+)",
       "url": "https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8"
@@ -839,6 +857,28 @@
     },
     {
       "album": {
+        "name": "Colmillo",
+        "url": "https://open.spotify.com/album/6vre2iawu3WWpNO14XYk1d"
+      },
+      "artists": [
+        {
+          "name": "\u00cdKARO MADRID",
+          "url": "https://open.spotify.com/artist/4y4oqktafHFSNKGa5NCoPj"
+        },
+        {
+          "name": "Fulston",
+          "url": "https://open.spotify.com/artist/4NAeRqTT8u5AC9WUOMCLeM"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160862,
+      "name": "Colmillo",
+      "url": "https://open.spotify.com/track/1jrKEsPioxqVFhBb7lB3uv"
+    },
+    {
+      "album": {
         "name": "Fruit del Deliri",
         "url": "https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v"
       },
@@ -1198,6 +1238,28 @@
       "duration_ms": 210982,
       "name": "Demasiado Grande",
       "url": "https://open.spotify.com/track/4VApNR3krAS6J2KEvF6f1w"
+    },
+    {
+      "album": {
+        "name": "Demasiado Tarde",
+        "url": "https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z"
+      },
+      "artists": [
+        {
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+        },
+        {
+          "name": "LaPeste",
+          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165959,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
     },
     {
       "album": {
@@ -2139,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Gure Bihotzaren Taupadak",
+        "url": "https://open.spotify.com/album/7goNvCztu5JasYSy6jf8kh"
+      },
+      "artists": [
+        {
+          "name": "BULEGO",
+          "url": "https://open.spotify.com/artist/536zVauyusZp2cjwh4QB5B"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Gure Bihotzaren Taupadak",
+      "url": "https://open.spotify.com/track/7jS2sPNFzZgH4mQ4CRKIc2"
+    },
+    {
+      "album": {
         "name": "HACER TEATRO",
         "url": "https://open.spotify.com/album/4QrD2b9rwY3O8acSduHOan"
       },
@@ -2168,7 +2248,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 189357,
       "name": "Hartu lerak maldan behera",
       "url": "https://open.spotify.com/track/2tUx06uLaG8lPMJ2zGvGLv"
@@ -2795,6 +2875,28 @@
     },
     {
       "album": {
+        "name": "AL\u00b7LARMA",
+        "url": "https://open.spotify.com/album/4v4ax8Xg7RwEmCmbp4IK6R"
+      },
+      "artists": [
+        {
+          "name": "Al\u00b7l\u00e8rgiques al pol\u00b7len",
+          "url": "https://open.spotify.com/artist/0M6k9ahckv10ACmoT6IIbS"
+        },
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139125,
+      "name": "LO LO LO",
+      "url": "https://open.spotify.com/track/3vwf3emNmH1loFdl7lY8o1"
+    },
+    {
+      "album": {
         "name": "Lo mejor",
         "url": "https://open.spotify.com/album/5QF1Z0ciM5WetxxMHNEWCG"
       },
@@ -3052,7 +3154,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 193827,
       "name": "MARICARMEN",
       "url": "https://open.spotify.com/track/43IK9P5MlkuDsnvfCo7IDb"
@@ -3704,7 +3806,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 147789,
       "name": "No Te Voy a Besar",
       "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
@@ -3896,7 +3998,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 162250,
       "name": "Palmas Y Desamores",
       "url": "https://open.spotify.com/track/0Old5HATkhLWjzobyfU0uT"
@@ -5082,7 +5184,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 162077,
       "name": "uwu ^^",
       "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
@@ -5154,7 +5256,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 181002,
       "name": "Vida Quemada",
       "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"

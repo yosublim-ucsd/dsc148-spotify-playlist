@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-10-27",
-  "description": "Perreo del bueno for your holiday party activities! ",
-  "name": "Holiday Perreo Party",
+  "description": "Perreo del bueno to ring in the new year! ",
+  "name": "New Year's Perreo Party",
   "tracks": [
     {
       "album": {
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 168133,
       "name": "CHORRITO PA LAS ANIMAS",
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 190322,
       "name": "EMPELOTICA",
       "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
@@ -4593,6 +4593,32 @@
     },
     {
       "album": {
+        "name": "MIRAME REMIX",
+        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "MIRAME REMIX",
+      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
+    },
+    {
+      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -5790,7 +5816,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 146285,
       "name": "PPCP",
       "url": "https://open.spotify.com/track/2HxZAed6QC9yJZuyaJJSz0"
@@ -6818,7 +6844,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 192928,
       "name": "Sin Panty Maria",
       "url": "https://open.spotify.com/track/2MM8KVLGV6oHwuTmOWQg5Y"
@@ -7942,6 +7968,28 @@
       "duration_ms": 190493,
       "name": "\u00bfpor Que Te Demoras?",
       "url": "https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U"
+    },
+    {
+      "album": {
+        "name": "Papi Arca",
+        "url": "https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209010,
+      "name": "\u00c9xito",
+      "url": "https://open.spotify.com/track/1OJhf9KF9m5YuLTqUvaVs9"
     },
     {
       "album": {

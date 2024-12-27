@@ -98,7 +98,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 298130,
       "name": "+57",
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 169620,
       "name": "7 Trompetas",
       "url": "https://open.spotify.com/track/4ApLAqNEdqMwgF3Y8MRSXj"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 170480,
       "name": "AMARGURA",
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 229613,
       "name": "Cholito Jes\u00fas",
       "url": "https://open.spotify.com/track/07r5uwfOWr7GWsIgg07nfG"
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 184462,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
@@ -4048,7 +4048,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 177600,
       "name": "Despu\u00e9s De La 1",
       "url": "https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra"
@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -5036,7 +5036,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 153609,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
@@ -5572,7 +5572,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -6617,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "Los Toribianitos",
+        "url": "https://open.spotify.com/album/3fc05JQrTbRet1S6MmIhlU"
+      },
+      "artists": [
+        {
+          "name": "Los Toribianitos",
+          "url": "https://open.spotify.com/artist/7rJjGMkG9KsWFpsfVStaAO"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252426,
+      "name": "Huepa Eh, Huepa Eh",
+      "url": "https://open.spotify.com/track/2R0ZMgonAS3WEv4XIR9bcc"
+    },
+    {
+      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -6690,7 +6708,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -6796,6 +6814,24 @@
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
       "album": {
@@ -7552,6 +7588,24 @@
       "duration_ms": 161440,
       "name": "La Muralla Verde",
       "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3sYZU71EoEKdIua5C7XKN0"
+      },
+      "artists": [
+        {
+          "name": "Los Ni\u00f1os Cantores de Huaraz",
+          "url": "https://open.spotify.com/artist/1giTQ9u4r1UbOHoXulcRKg"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229880,
+      "name": "La Navidad",
+      "url": "https://open.spotify.com/track/4Za86oZMYMCUSaWjpTpgc4"
     },
     {
       "album": {
@@ -8326,7 +8380,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 145560,
       "name": "Lleg\u00f3 la Navidad",
       "url": "https://open.spotify.com/track/2xIGnYlcSoZQPkTri3Kxa5"
@@ -9770,7 +9824,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -10468,10 +10522,28 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 223986,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/1TZKisuXU1LjrGcRyqx5QX"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3sYZU71EoEKdIua5C7XKN0"
+      },
+      "artists": [
+        {
+          "name": "Los Ni\u00f1os Cantores de Huaraz",
+          "url": "https://open.spotify.com/artist/1giTQ9u4r1UbOHoXulcRKg"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Navidad de los Pobres",
+      "url": "https://open.spotify.com/track/6wsIlbsEKATB2sb8F4RZeP"
     },
     {
       "album": {
@@ -10882,7 +10954,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
@@ -11058,7 +11130,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
@@ -11300,7 +11372,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
@@ -12462,7 +12534,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 401040,
       "name": "PoutPourri de Navidad",
       "url": "https://open.spotify.com/track/6mlyKORrMhF0O7OYmOUWDS"
@@ -13374,7 +13446,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -13462,6 +13534,42 @@
       "duration_ms": 214039,
       "name": "Ronda de Navidad",
       "url": "https://open.spotify.com/track/4kW2VHXfTXs1NCC5nnBmCB"
+    },
+    {
+      "album": {
+        "name": "Los Toribianitos",
+        "url": "https://open.spotify.com/album/3fc05JQrTbRet1S6MmIhlU"
+      },
+      "artists": [
+        {
+          "name": "Los Toribianitos",
+          "url": "https://open.spotify.com/artist/7rJjGMkG9KsWFpsfVStaAO"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "Ronda de Navidad",
+      "url": "https://open.spotify.com/track/7HwWVIqTEjitnXIRUJ5e0v"
+    },
+    {
+      "album": {
+        "name": "Villancicos",
+        "url": "https://open.spotify.com/album/7oBTqkg4Vy9ein3UFq4uYM"
+      },
+      "artists": [
+        {
+          "name": "Los Ni\u00f1os Cantores de Huaraz",
+          "url": "https://open.spotify.com/artist/1giTQ9u4r1UbOHoXulcRKg"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Ronda de Navidad / Llego la Navidad",
+      "url": "https://open.spotify.com/track/7BTBdBYvJKHotjYWk5qFak"
     },
     {
       "album": {
@@ -13620,7 +13728,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -13902,7 +14010,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 115893,
       "name": "Santa Claus Lleg\u00f3 a La Ciudad",
       "url": "https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb"
@@ -13920,7 +14028,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -14566,7 +14674,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 254500,
       "name": "SI NO ES CONTIGO - REMIX",
       "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
@@ -14918,7 +15026,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
@@ -16739,6 +16847,24 @@
     },
     {
       "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -16896,7 +17022,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 194466,
       "name": "Ven a Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/0hGj6YoJXWKi9VGvmk6Qlc"

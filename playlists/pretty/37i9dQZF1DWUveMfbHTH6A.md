@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,306 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,448 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 38 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 39 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
 | 40 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 |
-| 41 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
-| 42 | [dance of the trees](https://open.spotify.com/track/0xxDlKnKOMjcr1Phz2U1EB) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 2:31 |
+| 41 | [dance of the trees](https://open.spotify.com/track/0xxDlKnKOMjcr1Phz2U1EB) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 2:31 |
+| 42 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
 | 43 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
 | 44 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
 | 45 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 46 | [safe space](https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [safe space](https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z) | 3:10 |
 | 47 | [Lorelei](https://open.spotify.com/track/0saFjmJYZlWjoOpLhlrOgH) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:24 |
-| 48 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 |
-| 49 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
-| 50 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
-| 51 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
+| 48 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
+| 49 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 |
+| 50 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
+| 51 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
 | 52 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 |
 | 53 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
 | 54 | [she ain't texas](https://open.spotify.com/track/1ElaPKXfrZkfhNUoEDGrzI) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [she ain't texas](https://open.spotify.com/album/6wKBrxFqveJQGNtrPbdQZx) | 4:05 |

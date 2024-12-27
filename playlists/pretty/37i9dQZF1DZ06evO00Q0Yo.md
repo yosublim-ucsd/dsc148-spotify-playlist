@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,498 likes - 51 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,503 likes - 51 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 13 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 |
 | 14 | [Mean](https://open.spotify.com/track/3PXi72ZtSqx1PZc40KS0Qj) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Beautiful Havoc](https://open.spotify.com/album/62m2Y4PVeyW4TbmPSBvb0x) | 2:05 |
 | 15 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 |
-| 16 | [Tomioka \(with Flo Milli\) \- Remix](https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Tomioka \(with Flo Milli\) \[Remix\]](https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK) | 2:17 |
-| 17 | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4) | 2:05 |
+| 16 | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4) | 2:05 |
+| 17 | [Tomioka \(with Flo Milli\) \- Remix](https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Tomioka \(with Flo Milli\) \[Remix\]](https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK) | 2:17 |
 | 18 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [gg](https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
 | 19 | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O) | 3:20 |
 | 20 | [Edible \(feat\. Gunna\)](https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:56 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 46 | [BGC](https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [BGC](https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR) | 2:36 |
 | 47 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 |
 | 48 | [swag it! \- Remix](https://open.spotify.com/track/7u8eXlHIWOLGqOjp6XnM3x) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 3:11 |
-| 49 | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB) | 3:15 |
-| 50 | [Einstein](https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Einstein](https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF) | 2:15 |
+| 49 | [Einstein](https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Einstein](https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF) | 2:15 |
+| 50 | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB) | 3:15 |
 | 51 | [No Love Shemix](https://open.spotify.com/track/3aSmunIOrv4HRHXeMYT2Ob) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [J.K\. Mac](https://open.spotify.com/artist/5kztDpSaIqaQ5nHdDoTIlq) | [No Love Shemix](https://open.spotify.com/album/7iRhbI7T7e0YDwd48qF8gi) | 3:17 |
 
-Snapshot ID: `Z2n5gAAAAABDkSOfHqKLAEc3uiPBByHT`
+Snapshot ID: `Z2tLAAAAAADS0RPqFSMRwu28L2/KkuiH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,365 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,445 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 85 | [Far From Any Road](https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Singing Bones](https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj) | 2:46 |
 | 86 | [Red Right Hand](https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 6:10 |
 | 87 | [Too Dry to Cry](https://open.spotify.com/track/2mHzmh7saA4O2ZbHFxFp27) | [Willis Earl Beal](https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC) | [Nobody knows.](https://open.spotify.com/album/0MHRNWUvq6JT8hjoL4ilvi) | 4:39 |
-| 88 | [At Night](https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [At Night](https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg) | 3:19 |
-| 89 | [Raise Hell](https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Raise Hell](https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb) | 3:01 |
-| 90 | [Danger and Dread](https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [The Devil Dancing](https://open.spotify.com/album/674lfymYQKdcMA0kMy2dgO) | 3:46 |
-| 91 | [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 |
-| 92 | [Wrecks](https://open.spotify.com/track/0ONx5LbtCGaVrWMqgFmjQi) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [More Primitive](https://open.spotify.com/album/6sFW1cZGE5B2PeDDb7kuRp) | 4:45 |
-| 93 | [Snake Song](https://open.spotify.com/track/0ki12WtT63xUQCYkVpRZGZ) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/0cSyiBaPRl6MG4lMuKYL97) | 2:48 |
-| 94 | [Will There Be Enough Water?](https://open.spotify.com/track/3Bx2b6DkK0lOLuwnLVaULP) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Horehound](https://open.spotify.com/album/748kQyYY7WAP6fMSBjV7l8) | 6:20 |
-| 95 | [Heart Of My Own](https://open.spotify.com/track/1mqk8DNti1zvdd1GY5quDS) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/00VIGPygVKjYbWXfoOaqHa) | 3:49 |
-| 96 | [Beat The Devil's Tattoo](https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP) | 3:45 |
-| 97 | [Stolen Roses](https://open.spotify.com/track/4HTek0mdGceNdnhw5IXGTV) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [The Ghost Who Walks](https://open.spotify.com/album/5VyPKrrpiLVwcvBAtQnbm2) | 3:07 |
-| 98 | [Priest](https://open.spotify.com/track/7mdGcrjM78iP3XD5iTeRwL) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/4w4P1ihvUwfSdtuwIE0ZHq) | 4:24 |
-| 99 | [Bartholomew](https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults](https://open.spotify.com/album/5pLjM7AFhHUCFvruCXA1u3) | 3:06 |
-| 100 | [The Railroad](https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [A Long Life of Living](https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ) | 4:10 |
+| 88 | [Heart Of My Own](https://open.spotify.com/track/1mqk8DNti1zvdd1GY5quDS) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/00VIGPygVKjYbWXfoOaqHa) | 3:49 |
+| 89 | [At Night](https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [At Night](https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg) | 3:19 |
+| 90 | [Raise Hell](https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Raise Hell](https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb) | 3:01 |
+| 91 | [Danger and Dread](https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [The Devil Dancing](https://open.spotify.com/album/674lfymYQKdcMA0kMy2dgO) | 3:46 |
+| 92 | [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 |
+| 93 | [Barley](https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf) | [Real Midnight](https://open.spotify.com/album/7mFltVGJpL7QSFfPAdWeMZ) | 3:04 |
+| 94 | [Wrecks](https://open.spotify.com/track/0ONx5LbtCGaVrWMqgFmjQi) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [More Primitive](https://open.spotify.com/album/6sFW1cZGE5B2PeDDb7kuRp) | 4:45 |
+| 95 | [Snake Song](https://open.spotify.com/track/0ki12WtT63xUQCYkVpRZGZ) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/0cSyiBaPRl6MG4lMuKYL97) | 2:48 |
+| 96 | [Will There Be Enough Water?](https://open.spotify.com/track/3Bx2b6DkK0lOLuwnLVaULP) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Horehound](https://open.spotify.com/album/748kQyYY7WAP6fMSBjV7l8) | 6:20 |
+| 97 | [Beat The Devil's Tattoo](https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP) | 3:45 |
+| 98 | [Stolen Roses](https://open.spotify.com/track/4HTek0mdGceNdnhw5IXGTV) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [The Ghost Who Walks](https://open.spotify.com/album/5VyPKrrpiLVwcvBAtQnbm2) | 3:07 |
+| 99 | [Priest](https://open.spotify.com/track/7mdGcrjM78iP3XD5iTeRwL) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/4w4P1ihvUwfSdtuwIE0ZHq) | 4:24 |
+| 100 | [Bartholomew](https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults](https://open.spotify.com/album/5pLjM7AFhHUCFvruCXA1u3) | 3:06 |
 
 Snapshot ID: `ZohAYAAAAACymN7Vf+uqFL33SFnd8EaM`

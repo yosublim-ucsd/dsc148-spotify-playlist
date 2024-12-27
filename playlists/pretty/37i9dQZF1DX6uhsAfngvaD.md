@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,437 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,471 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 32 | [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 |
 | 33 | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8) | 3:10 |
 | 34 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
-| 35 | [Cellar](https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cellar](https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8) | 4:05 |
-| 36 | [Come Down and Waste With Me](https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Ways To Get Out \(Deluxe\)](https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY) | 4:07 |
+| 35 | [Come Down and Waste With Me](https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Ways To Get Out \(Deluxe\)](https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY) | 4:07 |
+| 36 | [Cellar](https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cellar](https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8) | 4:05 |
 | 37 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
 | 38 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
 | 39 | [carry you on my broken wings](https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby’s out of luck again](https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX) | 3:05 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 45 | [Wry](https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Wry](https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC) | 3:00 |
 | 46 | [Deceiver](https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw) | 6:29 |
 | 47 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
-| 48 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
+| 48 | [Quite Like You](https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Quite Like You](https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X) | 2:59 |
 | 49 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
-| 50 | [Quite Like You](https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Quite Like You](https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X) | 2:59 |
+| 50 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
 | 51 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |
 | 52 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
 | 53 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 64 | [Nadine](https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Heaven Sent \(Between Heavens B\-Sides\)](https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I) | 3:19 |
 | 65 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 |
 | 66 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
-| 67 | [I Feel It](https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [I Feel It](https://open.spotify.com/album/379yDlK37waTY9OTYkixcR) | 3:05 |
-| 68 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
+| 67 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
+| 68 | [I Feel It](https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [I Feel It](https://open.spotify.com/album/379yDlK37waTY9OTYkixcR) | 3:05 |
 | 69 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 |
 | 70 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 |
 | 71 | [Never Apart](https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Never Apart](https://open.spotify.com/album/1cwSdbCXfll0VQjKEQv3c9) | 4:07 |

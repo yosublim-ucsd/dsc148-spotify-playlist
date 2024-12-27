@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Fat Dog",
-  "num_followers": 114483,
+  "num_followers": 114486,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 194611,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "Right Here, For Now",
         "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 180933,
       "name": "Right Here, for Now",
       "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 194611,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+        "name": "Run Run Run",
+        "url": "https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
         }
       ],
-      "duration_ms": 246426,
-      "name": "MUD",
-      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+      "duration_ms": 173028,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Run Run Run",
-        "url": "https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K"
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
       "artists": [
         {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 173028,
-      "name": "Run Run Run",
-      "url": "https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN"
+      "duration_ms": 246426,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 264986,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "Tropic Morning News",
         "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 309400,
       "name": "Tropic Morning News",
       "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 264986,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
     },
     {
       "added_at": "2024-12-06 01:02:36",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-12-06 01:02:36",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2024-12-06 01:02:36",
-      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
+    },
+    {
+      "added_at": "2024-12-06 01:02:36",
+      "album": {
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
     },
     {
       "added_at": "2024-12-06 01:02:36",

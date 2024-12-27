@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 146866,
+  "num_followers": 146891,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAABsZaUFUcDlGwAf1u5ZjCwr",
+  "snapshot_id": "Z2tLAAAAAAAL96YP2a0DcFCqHjEN02No",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "Legend Or No Legend",
+        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         },
         {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 262973,
-      "name": "Blessed (feat. Damian Marley)",
-      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
+      "duration_ms": 209970,
+      "name": "Ebelebe (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
     },
     {
       "added_at": null,
@@ -287,22 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend Or No Legend",
-        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
-      "duration_ms": 209970,
-      "name": "Ebelebe (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
+      "duration_ms": 262973,
+      "name": "Blessed (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
       "added_at": null,
@@ -442,15 +442,11 @@
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Slow (feat. Ana\u00efs Cardot)",
-      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+      "duration_ms": 153026,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
     },
     {
       "added_at": null,
@@ -519,6 +515,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Slow Down (feat. Wiz Kid)",
+      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -543,42 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "Slow Down (feat. Wiz Kid)",
-      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
@@ -595,6 +591,22 @@
       "duration_ms": 181550,
       "name": "System (feat. WizKid)",
       "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joro",
+        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 262736,
+      "name": "Joro",
+      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
     },
     {
       "added_at": null,
@@ -623,22 +635,6 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joro",
-        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Joro",
-      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
     },
     {
       "added_at": null,
@@ -939,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/5xFQlD4ITOWjZdHXjNghbX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Matter",
         "url": "https://open.spotify.com/album/0yB62AWwScWJq5WhaiWFOR"
       },
@@ -955,22 +967,6 @@
       "duration_ms": 198058,
       "name": "The Matter",
       "url": "https://open.spotify.com/track/0OklQIKrM64KzTD7jGqfYG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/5xFQlD4ITOWjZdHXjNghbX"
     },
     {
       "added_at": null,

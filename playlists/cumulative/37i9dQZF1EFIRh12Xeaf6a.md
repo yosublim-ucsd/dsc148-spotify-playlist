@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-301 songs - 15 hr 36 min
+304 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Porpoise Song](https://open.spotify.com/track/02tiurLpJcKS0aFVsyvKz3) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 2:40 | 2023-12-30 |  |
 | [Quiero Quedarme Aqui](https://open.spotify.com/track/6imwmUReqU5Sl7gZm3fLrO) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mateo](https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0) | [Atrevete A Soñar](https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb) | 2:42 | 2023-12-30 |  |
 | [Rage Of Angels](https://open.spotify.com/track/62D4ilwxJNhjiixorqH567) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Coup De Grace](https://open.spotify.com/album/7nNWD9YdMAIxhGxXuuud4x) | 4:28 | 2023-12-30 |  |
-| [Randy](https://open.spotify.com/track/5S8fxFC40TaXOZGnax6Vzg) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:13 | 2023-12-30 |  |
+| [Randy](https://open.spotify.com/track/4SA9V9mLo4atqeNEf3x9f7) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [In Paradise](https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ) | 2:13 | 2024-12-26 |  |
+| [Randy](https://open.spotify.com/track/5S8fxFC40TaXOZGnax6Vzg) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:13 | 2023-12-30 | 2024-12-27 |
 | [Raspberry Jam](https://open.spotify.com/track/4MeARHhXvNJ2hhbkTSj7O3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:34 | 2023-12-30 |  |
 | [Really Rosie](https://open.spotify.com/track/5VY8GdeUT4ytQkqwD57kIh) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 1:50 | 2023-12-30 |  |
 | [Ride the Music](https://open.spotify.com/track/2ksn4hYRvqgpS0GGr6LZJ8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:11 | 2023-12-30 |  |
@@ -257,7 +258,8 @@
 | [The Slide](https://open.spotify.com/track/67Ae2TYDdJ3uymxLFynJmQ) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Hey Girl](https://open.spotify.com/album/1NfKXGEGEAHmYSyAfVjdK9) | 2:04 | 2023-12-30 |  |
 | [There Is A Tavern In The Town](https://open.spotify.com/track/4DJLYAE0mMknhKTwRdmt1v) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Those Lazy Hazy Crazy Days Of Summer](https://open.spotify.com/album/5jA1HyOHqWy718lEXH2koC) | 1:36 | 2023-12-30 |  |
 | [There's A Space Between Us](https://open.spotify.com/track/6AebtnBPxHNDfsPE21Qhxr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:19 | 2023-12-30 |  |
-| [They're Jealous of Me](https://open.spotify.com/track/187xOao5osxvhgVktYCEyC) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:54 | 2023-12-30 |  |
+| [They're Jealous of Me](https://open.spotify.com/track/187xOao5osxvhgVktYCEyC) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:54 | 2023-12-30 | 2024-12-27 |
+| [They're Jealous Of Me](https://open.spotify.com/track/2QGrKWSgmY1ENXWdIB0V91) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [In Paradise](https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ) | 2:54 | 2024-12-26 |  |
 | [This Little Girl](https://open.spotify.com/track/6VGqU1LCPFjJ7ZwrV5dsHS) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Donna the Prima Donna](https://open.spotify.com/album/5ZQh54BjXCUK15ziGP1zuX) | 2:34 | 2023-12-30 |  |
 | [Ties That Bind](https://open.spotify.com/track/20psXaj97NFE662mSeJUAg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:09 | 2023-12-30 |  |
 | [Time Alone](https://open.spotify.com/track/1NafKB1PnWswTeIDhpBUv6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:37 | 2023-12-30 |  |
@@ -295,8 +297,9 @@
 | [Whiskey](https://open.spotify.com/track/0Z7bBhS39A2459ujdt932i) | [Sally Vaughn](https://open.spotify.com/artist/4tizy2wQXCYajjMBtvCVGw) | [The Way I Am](https://open.spotify.com/album/0EqNztOIi5w91HOUgincFu) | 2:52 | 2023-12-30 |  |
 | [Who Needs It](https://open.spotify.com/track/1UVjTwSQGEYFza3hUIMLnF) | [Peggy Lipton](https://open.spotify.com/artist/5DEuMoHxgFu68qF7qkk8D4) | [Peggy Lipton \(Expanded Edition\)](https://open.spotify.com/album/6xhCppDY9jYAUAKKw6aTFn) | 3:45 | 2023-12-30 |  |
 | [Why Are You Leaving](https://open.spotify.com/track/4P9rAdHYFnYNbrISPudQx3) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 3:38 | 2023-12-30 |  |
+| [Will Power](https://open.spotify.com/track/1b2HHmaOgkeDAVqH2RjDe5) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [In Paradise](https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ) | 2:33 | 2024-12-26 |  |
 | [Will Power](https://open.spotify.com/track/6w1b6BImXLSrtK5ZhytOs2) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:33 | 2023-12-30 | 2024-12-12 |
-| [WILL POWER](https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:35 | 2024-12-11 |  |
+| [WILL POWER](https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:35 | 2024-12-11 | 2024-12-27 |
 | [Wings of Love](https://open.spotify.com/track/6hX7jWtKl6nulPqWjClCFC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:25 | 2023-12-30 |  |
 | [Wrap Around Joy](https://open.spotify.com/track/3L3ZUhdMlW2qWVZEJRW7Ri) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:56 | 2023-12-30 |  |
 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 | 2023-12-30 |  |

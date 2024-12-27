@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 49515,
+  "num_followers": 49523,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAACPikKaSEX+FR+mqj5XUE9a",
+  "snapshot_id": "Z2tLAAAAAAA+TReK8nSeN/XHvKQOS7sr",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 229150,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Real Folk Blues: The Missing Album",
         "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 208800,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Serve You Right To Suffer",
-        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 143693,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+        "name": "It Serve You Right To Suffer",
+        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 229150,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+      "duration_ms": 143693,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
     },
     {
       "added_at": null,
@@ -563,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
       },
       "artists": [
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Baby Lee (feat. Robert Cray)",
-      "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
+      "duration_ms": 319693,
+      "name": "Annie Mae (2007 - Remaster)",
+      "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
     },
     {
       "added_at": null,
@@ -599,18 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
       "artists": [
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
         }
       ],
-      "duration_ms": 319693,
-      "name": "Annie Mae (2007 - Remaster)",
-      "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
+      "duration_ms": 225906,
+      "name": "Baby Lee (feat. Robert Cray)",
+      "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
     },
     {
       "added_at": null,
@@ -627,6 +627,42 @@
       "duration_ms": 158800,
       "name": "Cry Before I Go",
       "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Kiddio (2007 - Remaster)",
+      "url": "https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 296733,
+      "name": "Ali D'Oro",
+      "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
     },
     {
       "added_at": null,
@@ -683,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 296733,
-      "name": "Ali D'Oro",
-      "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
       },
@@ -715,42 +731,6 @@
       "duration_ms": 167335,
       "name": "Drug Store Woman",
       "url": "https://open.spotify.com/track/6S75o3nKlPCfpdAFx0Rseo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Cuttin' Out (feat. Canned Heat)",
-      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Kiddio (2007 - Remaster)",
-      "url": "https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 296986,
       "name": "I Lay Down",
       "url": "https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Cuttin' Out (feat. Canned Heat)",
+      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
     },
     {
       "added_at": null,

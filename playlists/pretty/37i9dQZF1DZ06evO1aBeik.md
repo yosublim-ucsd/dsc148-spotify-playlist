@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 
 > This is Post Malone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,740,614 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,740,893 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 26 | [Take What You Want \(feat\. Ozzy Osbourne & Travis Scott\)](https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:49 |
 | 27 | [Cooped Up / Return Of The Mack](https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Cooped Up / Return Of The Mack](https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF) | 2:07 |
 | 28 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 |
-| 29 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 |
-| 30 | [Wrapped Around Your Finger](https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:13 |
+| 29 | [Wrapped Around Your Finger](https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:13 |
+| 30 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 |
 | 31 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
 | 32 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
 | 33 | [Hey Mercedes](https://open.spotify.com/track/1uukncdtRehiZS3SMHOxYZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 3:22 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 50 | [Too Cool To Die](https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:24 |
 | 51 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 |
 
-Snapshot ID: `Z2n5gAAAAABznrKZlbEI+Td3HOrveSK0`
+Snapshot ID: `Z2tLAAAAAAANC1vE1MDmB0UWG8+A0guR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > canzoni felici emoji del sole eccetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,850 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,858 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 71 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 |
 | 72 | [50 Special](https://open.spotify.com/track/21Ay8mJRYQuOMZp7qyQXl6) | [Lùnapop](https://open.spotify.com/artist/4ZbsxiS90Pj1gLeDv3A9mN) | [...Squérez?](https://open.spotify.com/album/7sXufweikTP0DcDSBGwpoD) | 3:27 |
 | 73 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 |
-| 74 | [Buon Viaggio \(Share The Love\)](https://open.spotify.com/track/7LSBkEm5LQSkhe6yqqqBPs) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Più Che Logico](https://open.spotify.com/album/7rGhalMtF2mZM5bhq88VZ3) | 3:27 |
+| 74 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 |
 | 75 | [Si, ah](https://open.spotify.com/track/4nS6mZBLYgtksYyXsuXgBw) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Regardez moi](https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd) | 2:52 |
-| 76 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 |
+| 76 | [Buon Viaggio \(Share The Love\)](https://open.spotify.com/track/7LSBkEm5LQSkhe6yqqqBPs) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Più Che Logico](https://open.spotify.com/album/7rGhalMtF2mZM5bhq88VZ3) | 3:27 |
 | 77 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 78 | [NUOVO RANGE \(con SFERA EBBASTA\)](https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:56 |
 | 79 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 84 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 |
 | 85 | [Figli Delle Stelle](https://open.spotify.com/track/0C9rBeWAsPhmBeaYKZLN5m) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Figli Delle Stelle \(2005 \- Remaster\)](https://open.spotify.com/album/517MxHAODAKO4wAr4pHVAB) | 4:35 |
 | 86 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
-| 87 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 |
+| 87 | [Bohémien](https://open.spotify.com/track/0IueCAa7AbmICEdmOpByO1) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:13 |
 | 88 | [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 |
-| 89 | [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 |
-| 90 | [Bohémien](https://open.spotify.com/track/0IueCAa7AbmICEdmOpByO1) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:13 |
+| 89 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 |
+| 90 | [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 |
 | 91 | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG) | 3:00 |
 | 92 | [BELLYDANCING](https://open.spotify.com/track/74HBdKMibHlpW312HTFReN) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BELLYDANCING](https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n) | 2:02 |
 | 93 | [Je So' Pazzo \- Remastered 2008](https://open.spotify.com/track/4vFXO237XjPm910TDvvsfg) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Pino Daniele \(2008 \- Remaster\)](https://open.spotify.com/album/1TF4f3ukvC7kdxIfX9eMzr) | 2:59 |

@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10040,
+  "num_followers": 10039,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -995,30 +995,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Inny \u015awiat",
-        "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
-      },
-      "artists": [
-        {
-          "name": "Dobry Dzieciak",
-          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "Wowo",
-          "url": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "Inny \u015awiat",
-      "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "co by si\u0119 nie dzia\u0142o",
         "url": "https://open.spotify.com/album/1KyewsVbz0uYBY4SMEu5Tt"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 199090,
       "name": "co by si\u0119 nie dzia\u0142o",
       "url": "https://open.spotify.com/track/0WTvAeSKmSE7SE73u40OLG"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Inny \u015awiat",
+        "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
+      },
+      "artists": [
+        {
+          "name": "Dobry Dzieciak",
+          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Wowo",
+          "url": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Inny \u015awiat",
+      "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Mi\u0142o\u015b\u0107 zawsze jest",
-        "url": "https://open.spotify.com/album/2KzELKFk8kCzBu8aP10iNi"
-      },
-      "artists": [
-        {
-          "name": "Sok\u00f3\u0142",
-          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
-        },
-        {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
-        }
-      ],
-      "duration_ms": 184260,
-      "name": "Mi\u0142o\u015b\u0107 zawsze jest",
-      "url": "https://open.spotify.com/track/1xDgtJWs37XRF2PWFBcCz0"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "setki dr\u00f3g",
         "url": "https://open.spotify.com/album/7nutsblXadvOlCFRjvibLD"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 185250,
       "name": "setki dr\u00f3g",
       "url": "https://open.spotify.com/track/4K4pptEdHvnQ4JBU8PAYJp"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Mi\u0142o\u015b\u0107 zawsze jest",
+        "url": "https://open.spotify.com/album/2KzELKFk8kCzBu8aP10iNi"
+      },
+      "artists": [
+        {
+          "name": "Sok\u00f3\u0142",
+          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 184260,
+      "name": "Mi\u0142o\u015b\u0107 zawsze jest",
+      "url": "https://open.spotify.com/track/1xDgtJWs37XRF2PWFBcCz0"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "M\u0141ODY PADEREWSKI",
-        "url": "https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "M\u0141ODY PADEREWSKI",
-      "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "NIE WYG\u0141UPIAJ SI\u0118",
         "url": "https://open.spotify.com/album/6Q28puuldqm6UnFDjckA7u"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 191842,
       "name": "NIE WYG\u0141UPIAJ SI\u0118",
       "url": "https://open.spotify.com/track/1xRnMNPXGVMmvUr8flF7LC"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "M\u0141ODY PADEREWSKI",
+        "url": "https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "M\u0141ODY PADEREWSKI",
+      "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
     },
     {
       "added_at": "2024-02-27 08:21:33",

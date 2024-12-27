@@ -1,12 +1,12 @@
 {
   "description": "This Hanukkah playlist features all the classics and the funny favorites.",
-  "num_followers": 34164,
+  "num_followers": 34473,
   "original_name": "Hanukkah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2oxugAAAABghcz84mfMArL1pDwsxFGE",
+  "snapshot_id": "Z211kgAAAAAGvwgdBqvBwcGA8mRkJdri",
   "tracks": [
     {
       "added_at": "2024-12-23 04:45:05",
@@ -655,6 +655,26 @@
       "duration_ms": 85226,
       "name": "Hanukkah Dance",
       "url": "https://open.spotify.com/track/6t32bI9DEmU6IAuIqcdAsX"
+    },
+    {
+      "added_at": "2024-12-26 05:26:22",
+      "album": {
+        "name": "8 LIGHTS",
+        "url": "https://open.spotify.com/album/5rLAJNMsE3jeGmYfQQ1puk"
+      },
+      "artists": [
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        },
+        {
+          "name": "HAPPIE",
+          "url": "https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "8 LIGHTS",
+      "url": "https://open.spotify.com/track/4edpCnGBYraq49mjm2JVfF"
     },
     {
       "added_at": "2024-12-23 04:45:05",

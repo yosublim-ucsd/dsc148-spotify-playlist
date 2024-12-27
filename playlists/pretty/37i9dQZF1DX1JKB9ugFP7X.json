@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del electropop latino. Foto: Javiera Mena",
-  "num_followers": 24333,
+  "num_followers": 24336,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 301120,
+      "name": "La Casa del Amor Nocturno",
+      "url": "https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "ACUARIO",
         "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 272695,
       "name": "ACUARIO",
       "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 301120,
-      "name": "La Casa del Amor Nocturno",
-      "url": "https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
+      },
+      "artists": [
+        {
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+        },
+        {
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "La Mar (Remixes)",
         "url": "https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O"
       },
@@ -839,22 +859,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Todas las Luces (Remix)",
-        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
+        "name": "\u00c1ngel Malo",
+        "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
       },
       "artists": [
         {
-          "name": "Nadar de Noche",
-          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
         },
         {
-          "name": "Disonar",
-          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
+          "name": "Karla Grunewaldt",
+          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Todas las Luces - Remix",
-      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
+      "duration_ms": 214871,
+      "name": "\u00c1ngel Malo",
+      "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -879,26 +899,6 @@
       "duration_ms": 196641,
       "name": "Autosabotear (Uffie & Lokoy Remix)",
       "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "\u00c1ngel Malo",
-        "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        },
-        {
-          "name": "Karla Grunewaldt",
-          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
-        }
-      ],
-      "duration_ms": 214871,
-      "name": "\u00c1ngel Malo",
-      "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD"
-      },
-      "artists": [
-        {
-          "name": "Linxes",
-          "url": "https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx"
-        }
-      ],
-      "duration_ms": 170822,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "El Modo",
         "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 256120,
       "name": "El Modo",
       "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD"
+      },
+      "artists": [
+        {
+          "name": "Linxes",
+          "url": "https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx"
+        }
+      ],
+      "duration_ms": 170822,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C"
     },
     {
       "added_at": "2024-11-15 03:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 177138,
+  "num_followers": 177229,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "To Who Knows Where",
-        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "To Who Knows Where",
-      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Existential Beast",
         "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 367480,
       "name": "Golden Gate",
       "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "To Who Knows Where",
+        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "To Who Knows Where",
+      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Habbie Doobie",
-        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
-      },
-      "artists": [
-        {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
-        }
-      ],
-      "duration_ms": 376618,
-      "name": "Habbie Doobie",
-      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Habbie Doobie",
+        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
+      },
+      "artists": [
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "duration_ms": 376618,
+      "name": "Habbie Doobie",
+      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
     },
     {
       "added_at": "2024-07-05 19:49:15",

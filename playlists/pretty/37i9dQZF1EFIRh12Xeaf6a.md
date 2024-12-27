@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,950 likes - 272 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,949 likes - 272 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 203 | [Ambrosia](https://open.spotify.com/track/5nwvCxZTbwOEjltAewJg0P) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:15 |
 | 204 | [What You Got](https://open.spotify.com/track/5gyLF357QUyVIieHVOUSZZ) | [The Eccentrics](https://open.spotify.com/artist/7F6gDxFKnVK72FHRjrkcDK) | [Underground '60s British Invasion](https://open.spotify.com/album/0ldeG4UddBTw67CvKzJAwb) | 2:56 |
 | 205 | [To Know That I Love You](https://open.spotify.com/track/2lNcjEw3KBhKQbM2RkI9Bj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:31 |
-| 206 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
-| 207 | [We All Have To Be Alone](https://open.spotify.com/track/07cJZxqp8FVk1inmeDvR3r) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:44 |
+| 206 | [We All Have To Be Alone](https://open.spotify.com/track/07cJZxqp8FVk1inmeDvR3r) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:44 |
+| 207 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
 | 208 | [Sweet Adonis](https://open.spotify.com/track/73vUP8IfRHcUjJVrgRHpg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:21 |
 | 209 | [You're the One Who Knows](https://open.spotify.com/track/4MNVESzvFaJLNrFYVm4xRG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 5:06 |
 | 210 | [Passing of the Days](https://open.spotify.com/track/4XQhy7sba25JLSSqp5Eqfg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 2:52 |
@@ -255,17 +255,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 245 | [Who Needs It](https://open.spotify.com/track/1UVjTwSQGEYFza3hUIMLnF) | [Peggy Lipton](https://open.spotify.com/artist/5DEuMoHxgFu68qF7qkk8D4) | [Peggy Lipton \(Expanded Edition\)](https://open.spotify.com/album/6xhCppDY9jYAUAKKw6aTFn) | 3:45 |
 | 246 | [Du host an Freind](https://open.spotify.com/track/0WA3flY3EvqhxIPWrkitkt) | [Seer](https://open.spotify.com/artist/55PFCVxZdhFTclW84nNMIJ) | [Grundlsee](https://open.spotify.com/album/3vmcbqUdRBQszOxR2mFeXF) | 4:44 |
 | 247 | [Blessed Is the Man](https://open.spotify.com/track/60OCAjSXxJCOKVsKhV9naE) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g) | [Rural Free Delivery](https://open.spotify.com/album/5ojLaEQWJ6Vwkw4CDiwmWn) | 3:43 |
-| 248 | [WILL POWER](https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:35 |
+| 248 | [Will Power](https://open.spotify.com/track/1b2HHmaOgkeDAVqH2RjDe5) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [In Paradise](https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ) | 2:33 |
 | 249 | [Echoes](https://open.spotify.com/track/3oKZoKI2ROktaQJBoZ2KGs) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [For All We Know](https://open.spotify.com/album/2UiHZVwRtWVOycWFftoFxf) | 2:48 |
 | 250 | [Stone Cold World](https://open.spotify.com/track/56aAxTCxS2c8ZzKvS1MUKJ) | [A.l.t.](https://open.spotify.com/artist/6vFKxAcVuWQhv5J6CO9dQz) | [Stone Cold World](https://open.spotify.com/album/6TpuGCW86cAyDhCqG6WE89) | 3:33 |
-| 251 | [They're Jealous of Me](https://open.spotify.com/track/187xOao5osxvhgVktYCEyC) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:54 |
+| 251 | [They're Jealous Of Me](https://open.spotify.com/track/2QGrKWSgmY1ENXWdIB0V91) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [In Paradise](https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ) | 2:54 |
 | 252 | [The Reunion \- Instrumental Interlude, Pt\. 1](https://open.spotify.com/track/03ZLYdHAN1IF9cFTwHrtZR) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Rare, Rarer & Rarest](https://open.spotify.com/album/4jCUaQ3CEu82w3w0EYrELn) | 1:56 |
 | 253 | [The Sheik](https://open.spotify.com/track/13RS52E25mjvFudrAA9zKR) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 2:29 |
 | 254 | [The Slide](https://open.spotify.com/track/67Ae2TYDdJ3uymxLFynJmQ) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Hey Girl](https://open.spotify.com/album/1NfKXGEGEAHmYSyAfVjdK9) | 2:04 |
 | 255 | [Lady Pleasure](https://open.spotify.com/track/0KnOxl9AL6EDBwvZK9zKTh) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Anthology: 1965\-1975](https://open.spotify.com/album/3bEbRbS0Rx7j1R96u604la) | 2:55 |
 | 256 | [Happy Being Fat](https://open.spotify.com/track/5pD3ZBr7iPrSxwHyPm9MsP) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:33 |
 | 257 | [Love Eyes \- Remastered](https://open.spotify.com/track/5qJeIzaoIodrrKSOeugESh) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3), [Bertell Dache](https://open.spotify.com/artist/7sB4wR6iuxLodTRyIo7xeD) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/29vKALglR7SVF9gVuF4ktW) | 1:58 |
-| 258 | [Randy](https://open.spotify.com/track/5S8fxFC40TaXOZGnax6Vzg) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:13 |
+| 258 | [Randy](https://open.spotify.com/track/4SA9V9mLo4atqeNEf3x9f7) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [In Paradise](https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ) | 2:13 |
 | 259 | [Walking Proud](https://open.spotify.com/track/24ojoYJmIgv2wun96LhrMM) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p) | [The Original Hits](https://open.spotify.com/album/7bdZkkSOAU2iy9fyzdP0ru) | 2:32 |
 | 260 | [Talkin' About You](https://open.spotify.com/track/4T0UYRBQCSHXcqrJH4wngh) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Bless You](https://open.spotify.com/album/6gy2D5F0e7UtIgPHLh6GtF) | 2:45 |
 | 261 | [I'm Going Back \(Full Vocal Version\) \[In the Style of Dusty Springfield\]](https://open.spotify.com/track/1n6DA9ijTkEsmXDCJyxs4X) | [Goldsound Karaoke](https://open.spotify.com/artist/4A4BDuc54Pgl2n3ZRVMD5n) | [In the Style of Dusty Springfield](https://open.spotify.com/album/6EgnrXP2X45apwa0jYMqFC) | 3:33 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 271 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 272 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AblHqAAAAABFV+cYzmcOj/3x7I8FZlNA`
+Snapshot ID: `AblNDAAAAAAM17BJbI7OxjNQ0UaOL5rp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,282 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,309 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 31 | [Loco](https://open.spotify.com/track/0yWSrApKh3AgJ5rzbIwtRG) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:32 |
 | 32 | [Se Va de Mí](https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:31 |
 | 33 | [Capitán Pelusa](https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:07 |
-| 34 | [Alas Canciones](https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:09 |
-| 35 | [Sólo un Pensamiento \- Versión 25 Años](https://open.spotify.com/track/2gDIa4YN7mAIwFpFNnvCZq) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:31 |
+| 34 | [Sólo un Pensamiento \- Versión 25 Años](https://open.spotify.com/track/2gDIa4YN7mAIwFpFNnvCZq) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:31 |
+| 35 | [Alas Canciones](https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:09 |
 | 36 | [La Flor](https://open.spotify.com/track/0nd81OJKHU8vUIMp27noMA) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:58 |
 | 37 | [Quedándote O Yéndote](https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:25 |
 | 38 | [Dulce Muñequita](https://open.spotify.com/track/4801GXDyQH6oD4RXXgyxmW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Boys Don't Cry](https://open.spotify.com/track/4E2RRctYO1FJwBK3u36xQr) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 2:48 |
 | 50 | [El Romano](https://open.spotify.com/track/4t9t3jfS4WpRh487OxpgwW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Frecuencia Cafre](https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK) | 3:47 |
 
-Snapshot ID: `Z2n5gAAAAAAKZe65tsesuoJrF06c/mo0`
+Snapshot ID: `Z2tLAAAAAAAp2n1UVjP5iQue8AnYrpYG`

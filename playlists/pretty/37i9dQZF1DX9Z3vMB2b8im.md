@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,300,990 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,301,015 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 55 | [What I Was](https://open.spotify.com/track/25PSOWvh84mnzlHJeOhtsj) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Ghost of Our Past](https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT) | 3:16 |
 | 56 | [Nostalgia](https://open.spotify.com/track/3D0IdhT2IFbXNOYaT67Ng5) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Nostalgia](https://open.spotify.com/album/4S4Hg7TfDfGheMAjgOoLJX) | 4:01 |
 | 57 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
-| 58 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
+| 58 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
 | 59 | [Let Your Love Run Cold](https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Let Your Love Run Cold](https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS) | 3:43 |
-| 60 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
-| 61 | [New Song](https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [New Song](https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY) | 4:36 |
+| 60 | [New Song](https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [New Song](https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY) | 4:36 |
+| 61 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
 | 62 | [Future History](https://open.spotify.com/track/2S1K6UlJ0hSOGcG8gCgt9m) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Future History](https://open.spotify.com/album/1fk0AaDbZMUX4z4PQNwkfr) | 4:05 |
 | 63 | [Fair Weather Lover](https://open.spotify.com/track/4KjvtegojYGdeVqCy8rk0Z) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Fair Weather Lover](https://open.spotify.com/album/3CbKO4e8b3iMwAUH1SJVZM) | 4:04 |
 | 64 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 |

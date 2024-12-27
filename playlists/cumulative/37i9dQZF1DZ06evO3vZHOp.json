@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "LYKE MIIKE",
+        "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254517,
+      "name": "QU\u00c9 QUIERES DE MI? (feat. Eladio Carrion)",
+      "url": "https://open.spotify.com/track/6w1eQ7AxYB8Y6YQGJR9jBT"
+    },
+    {
+      "album": {
         "name": "CULTO",
         "url": "https://open.spotify.com/album/1tcNhqApgkYeWauEew4d4Y"
       },
@@ -1746,7 +1768,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 155750,
       "name": "\u00bfQu\u00e9 Carajos Quieres T\u00fa Ahora?",
       "url": "https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,283 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,431 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 14 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y) | 4:12 |
 | 15 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Randy](https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 |
 | 16 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 |
-| 17 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
+| 17 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
 | 18 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 |
-| 19 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
+| 19 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
 | 20 | [Noche De Sexo](https://open.spotify.com/track/4kAtRwNRLMKuoCbxMSxUGI) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 3:25 |
 | 21 | [En La Cama \(feat\. Daddy Yankee\)](https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Exitos](https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB) | 2:37 |
 | 22 | [Solos \(feat\. Plan B\)](https://open.spotify.com/track/2ItA7kOg5NH6AygzU30sEv) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle \(Remastered\)](https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7) | 3:08 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 29 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
 | 30 | [La Pregunta](https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:29 |
 | 31 | [Donde Estan las Gatas](https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 3](https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob) | 2:50 |
-| 32 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 |
-| 33 | [Punto y Aparte](https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Rompe La Discoteca](https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R) | 3:26 |
+| 32 | [Punto y Aparte](https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Rompe La Discoteca](https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R) | 3:26 |
+| 33 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 |
 | 34 | [Bandoleros](https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 5:05 |
 | 35 | [Me Estas Tentando](https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolucion \(Deluxe\)](https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF) | 3:49 |
 | 36 | [6 AM](https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Familia](https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr) | 4:03 |

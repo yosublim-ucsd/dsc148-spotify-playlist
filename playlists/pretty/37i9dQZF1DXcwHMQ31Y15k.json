@@ -1,12 +1,12 @@
 {
   "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Woro Widowati",
-  "num_followers": 204947,
+  "num_followers": 205012,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2RRLQAAAAD7hiUvVjChYgn89KUl4wq+",
+  "snapshot_id": "Z22TSQAAAADc/GnQHlI9tprOcQIRtMps",
   "tracks": [
     {
       "added_at": "2024-12-13 02:20:57",
@@ -23,6 +23,30 @@
       "duration_ms": 347240,
       "name": "Pangarepan",
       "url": "https://open.spotify.com/track/3yto6d6wGziiz1f2GnkeU1"
+    },
+    {
+      "added_at": "2024-12-26 17:32:57",
+      "album": {
+        "name": "Bojo 2",
+        "url": "https://open.spotify.com/album/6N29382lQlir1YF9UIAS47"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        },
+        {
+          "name": "Agil Tina",
+          "url": "https://open.spotify.com/artist/67Ck7HjvvGLb3LnJORxpnC"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Bojo 2",
+      "url": "https://open.spotify.com/track/3cmdzW5tEQq9lll8qq8Dib"
     },
     {
       "added_at": "2024-12-19 17:00:29",
@@ -67,42 +91,6 @@
       "duration_ms": 332253,
       "name": "Ora Ngemis Bali",
       "url": "https://open.spotify.com/track/2COVYtcGF8dXR048GoKmFE"
-    },
-    {
-      "added_at": "2024-12-19 17:00:29",
-      "album": {
-        "name": "Petetan",
-        "url": "https://open.spotify.com/album/3ysJcsuETQVXmKRh4GJcYj"
-      },
-      "artists": [
-        {
-          "name": "Esa Risty",
-          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
-        }
-      ],
-      "duration_ms": 466000,
-      "name": "Petetan",
-      "url": "https://open.spotify.com/track/5dsemZcgf19x7rAX5NNus5"
-    },
-    {
-      "added_at": "2024-12-13 02:20:57",
-      "album": {
-        "name": "Asmaranala",
-        "url": "https://open.spotify.com/album/4DfWwdaCEfhTxwNUsO3jqy"
-      },
-      "artists": [
-        {
-          "name": "Esa Risty",
-          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
-        },
-        {
-          "name": "Wahyu F Giri",
-          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Asmaranala",
-      "url": "https://open.spotify.com/track/6ncWBbSgCbCviODfnyRZC7"
     },
     {
       "added_at": "2024-12-05 17:00:00",
@@ -177,6 +165,26 @@
       "url": "https://open.spotify.com/track/7gkTAMKGIMKWNE8y1He7jU"
     },
     {
+      "added_at": "2024-12-13 02:20:57",
+      "album": {
+        "name": "Asmaranala",
+        "url": "https://open.spotify.com/album/4DfWwdaCEfhTxwNUsO3jqy"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Asmaranala",
+      "url": "https://open.spotify.com/track/6ncWBbSgCbCviODfnyRZC7"
+    },
+    {
       "added_at": "2024-12-05 17:00:00",
       "album": {
         "name": "Kau Yang Memilih Aku",
@@ -215,6 +223,22 @@
       "duration_ms": 294634,
       "name": "Ikhlas Ngenteni",
       "url": "https://open.spotify.com/track/03vCFyLTKlAXkUti7plxtN"
+    },
+    {
+      "added_at": "2024-12-19 17:00:29",
+      "album": {
+        "name": "Petetan",
+        "url": "https://open.spotify.com/album/3ysJcsuETQVXmKRh4GJcYj"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "duration_ms": 466000,
+      "name": "Petetan",
+      "url": "https://open.spotify.com/track/5dsemZcgf19x7rAX5NNus5"
     },
     {
       "added_at": "2024-12-05 17:00:00",
@@ -703,26 +727,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "Golek Upo Tekan Chino",
-        "url": "https://open.spotify.com/album/2XSeWKbDYZibDhqqyr4xyH"
-      },
-      "artists": [
-        {
-          "name": "Sela Good",
-          "url": "https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu"
-        },
-        {
-          "name": "Hendra Kumbara",
-          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Golek Upo Tekan Chino",
-      "url": "https://open.spotify.com/track/35db0V5J0lg4WJxn61PGpx"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "Saktenane 3 (Acoustic Version)",
         "url": "https://open.spotify.com/album/4B484BneJhZhZzSzj6SFSV"
       },
@@ -791,26 +795,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "Lilo Tanpo Loro (feat. Sherly Ulvia)",
-        "url": "https://open.spotify.com/album/71uGxigbBEskmCv5asW5tv"
-      },
-      "artists": [
-        {
-          "name": "Wirit Wijaya",
-          "url": "https://open.spotify.com/artist/6sELd61Heeo22AngWMdtC7"
-        },
-        {
-          "name": "Sherly Ulvia",
-          "url": "https://open.spotify.com/artist/0G9RDvOnKMlEDruXEaGG8V"
-        }
-      ],
-      "duration_ms": 309692,
-      "name": "Lilo Tanpo Loro (feat. Sherly Ulvia)",
-      "url": "https://open.spotify.com/track/3sOc4vs9rEbOBRPuYykHcR"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "PUJANINGSIH",
         "url": "https://open.spotify.com/album/0omqUjODctC7iOr6ykcTLj"
       },
@@ -867,22 +851,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "Tresna Opo Anane",
-        "url": "https://open.spotify.com/album/5HINLRDJDFocRS2UU9HY65"
-      },
-      "artists": [
-        {
-          "name": "Pulung Agustanto",
-          "url": "https://open.spotify.com/artist/69CjecYi7l5Nd1JDFFFcTQ"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "Tresna Opo Anane",
-      "url": "https://open.spotify.com/track/0DqDOsGc8J7aHZdtGAelTY"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "Sugeng Dalu",
         "url": "https://open.spotify.com/album/3mvGvSfDF9Y0agrI2mfCqf"
       },
@@ -895,46 +863,6 @@
       "duration_ms": 542863,
       "name": "Sugeng Dalu",
       "url": "https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
-        "name": "HTS (Accoustic Version)",
-        "url": "https://open.spotify.com/album/7qXDs9zjNnuWRAc3WVHiAm"
-      },
-      "artists": [
-        {
-          "name": "Lavora",
-          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "HTS - Accoustic Version",
-      "url": "https://open.spotify.com/track/5bKaP8jqatMSdho2W0H7M2"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
-        "name": "Sauro Utangmu (Live Version At The Boston Coffee)",
-        "url": "https://open.spotify.com/album/5CKlz2wqgOSDiIAJJM5GHQ"
-      },
-      "artists": [
-        {
-          "name": "Sela Good",
-          "url": "https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu"
-        },
-        {
-          "name": "Hendra Kumbara",
-          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
-        },
-        {
-          "name": "Syalala Orkes Milenial",
-          "url": "https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Sauro Utangmu - Live Version At The Boston Coffee",
-      "url": "https://open.spotify.com/track/3L3cjYYFDoGKUFtgAgOAJW"
     },
     {
       "added_at": "2024-12-05 17:00:00",
@@ -1011,22 +939,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "Jejantunging Kalbu",
-        "url": "https://open.spotify.com/album/2ynImb4jWZArEaeN5MbM1Y"
-      },
-      "artists": [
-        {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
-        }
-      ],
-      "duration_ms": 269032,
-      "name": "Jejantunging Kalbu",
-      "url": "https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "Sigar",
         "url": "https://open.spotify.com/album/6iZIQvcfuZkOMG9Js2mWqM"
       },
@@ -1055,22 +967,6 @@
       "duration_ms": 434174,
       "name": "SIGAR",
       "url": "https://open.spotify.com/track/4YJBdnd2ZF5JeGVNQUnGrO"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
-        "name": "Lestari",
-        "url": "https://open.spotify.com/album/3FMH1kNsf24utY6UIv4KEY"
-      },
-      "artists": [
-        {
-          "name": "Safira Inema",
-          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
-        }
-      ],
-      "duration_ms": 343680,
-      "name": "Lestari",
-      "url": "https://open.spotify.com/track/2LgpMo9GCSXo95KtUpMQ7C"
     },
     {
       "added_at": "2024-12-05 17:00:00",
@@ -1243,26 +1139,6 @@
     {
       "added_at": "2024-12-05 17:00:00",
       "album": {
-        "name": "WARADA",
-        "url": "https://open.spotify.com/album/0HiIrGwtdRKGMCwi9EQgUT"
-      },
-      "artists": [
-        {
-          "name": "Miqbal GA",
-          "url": "https://open.spotify.com/artist/4Fze9hgN2zqkdoLgXYIyCu"
-        },
-        {
-          "name": "Siska Amanda",
-          "url": "https://open.spotify.com/artist/6auqSYHZVUwYATym8jyqeq"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "WARADA",
-      "url": "https://open.spotify.com/track/35MTI9jWQqKdBUptLh2Roq"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
         "name": "Lamunan",
         "url": "https://open.spotify.com/album/0wTA1S91a9PDRMbKC11zch"
       },
@@ -1379,22 +1255,6 @@
       "duration_ms": 292394,
       "name": "LESTARI",
       "url": "https://open.spotify.com/track/64IJVgigFpLz4ofPk8DVc0"
-    },
-    {
-      "added_at": "2024-12-05 17:00:00",
-      "album": {
-        "name": "Cinta Bojone Uwong",
-        "url": "https://open.spotify.com/album/1nhxHDS55gPQzFm2WRAmTS"
-      },
-      "artists": [
-        {
-          "name": "Siska Amanda",
-          "url": "https://open.spotify.com/artist/6auqSYHZVUwYATym8jyqeq"
-        }
-      ],
-      "duration_ms": 493122,
-      "name": "Cinta Bojone Uwong",
-      "url": "https://open.spotify.com/track/3XoTZdX5g2A1QEcZj25cB6"
     },
     {
       "added_at": "2024-12-05 17:00:00",

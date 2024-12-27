@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=OwdlPcQqQ8qmtGr7xTH\_\-Q>Ebuka Songs</a>
 
-127 songs - 14 hr 48 min
+130 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Holy Holy \- Deep Worship Chant](https://open.spotify.com/track/7A5vCT8jIExs23AFUWLv90) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Holy Holy \- Deep Worship Chant](https://open.spotify.com/album/2A863Man9dbk8E8mRerdRY) | 5:43 | 2024-11-29 |  |
 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 |  |
 | [Hungry for You](https://open.spotify.com/track/2NexQa4KeCyXqmNDdVjWA6) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Hungry for You](https://open.spotify.com/album/5b80Kb9atpUSjZwa0crLAy) | 8:03 | 2024-09-20 |  |
+| [I Cant Tell It All](https://open.spotify.com/track/6h8Kqtmm4skWxoXkVhnTMT) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [I Cant Tell It All](https://open.spotify.com/album/3hJEXMrli90vxYUlDubnHd) | 5:03 | 2024-12-27 |  |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2024-05-09 |  |
 | [I Love You Lord](https://open.spotify.com/track/6vppF3PlYeIh2eWxee7Z18) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [I Love You Lord](https://open.spotify.com/album/58qYSDYv7H7xsoT8rAi5F7) | 9:15 | 2024-08-02 |  |
 | [I Overcame](https://open.spotify.com/track/4W3PcOJiacBGCQAhDMLRPP) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/487JaVhiwGAiG1i3aYIS6O) | 5:22 | 2024-05-09 |  |
@@ -73,6 +74,7 @@
 | [Imela](https://open.spotify.com/track/48t4nNLGMs6UQcnn6cSCmK) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Mercy Peter](https://open.spotify.com/artist/6th52hnATS4dveuzJJZr04) | [Imela](https://open.spotify.com/album/1t9RvjiXTXN79Fp1gPHenK) | 5:07 | 2024-06-21 |  |
 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 | 2024-12-20 |  |
 | [In You](https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [In You](https://open.spotify.com/album/4sKh0lvHz8RmO3BOpETpZS) | 2:39 | 2024-05-17 | 2024-06-07 |
+| [Jesu Doh \(Revisitation\)](https://open.spotify.com/track/2ff0oDG7KHh5G6Sn4Tn6KH) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesu Doh \(Revisitation\)](https://open.spotify.com/album/3EuYKNMSaFJjncOA1yZktn) | 5:23 | 2024-12-27 |  |
 | [Jesus](https://open.spotify.com/track/5tsBzcAXwo3UGRSPT4TbXV) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 7:34 | 2024-05-09 | 2024-06-14 |
 | [Jesus Oyoyooh \(You are worthy\)](https://open.spotify.com/track/7bpSRQfKXx2hLP3622Ad3s) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Jesus Oyoyooh \(You are worthy\)](https://open.spotify.com/album/7qswxW7semeVCfFmmy9Y4c) | 12:09 | 2024-11-01 |  |
 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 | 2024-05-09 |  |
@@ -93,6 +95,7 @@
 | [My Helper \(Atekomi\)](https://open.spotify.com/track/45yd0S5IxTZ6zeq6Avq943) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7) | [My Helper \(Atekomi\)](https://open.spotify.com/album/3OT8IZx4WclzxXmarzqnfl) | 4:35 | 2024-06-28 | 2024-11-29 |
 | [Na You Be God](https://open.spotify.com/track/11T51Fe5w9GdtzEyQX5srU) | [Tim Godfrey & Xtreme](https://open.spotify.com/artist/2tJq4S5jM0HIW58ODUmyUe), [IBK](https://open.spotify.com/artist/2ux4hl4BNE4i7mfHek88W3) | [Na You Be God](https://open.spotify.com/album/5TmW7tzyI5cTz85CVJxkw0) | 5:26 | 2024-05-09 |  |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-05-09 |  |
+| [Ndi M'ozi](https://open.spotify.com/track/2IvKkQgWqgfrL77DMgX4Pd) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX) | [Ndi M'ozi](https://open.spotify.com/album/6Gc6oSXPr1LcJ6u6Z2KB3Z) | 11:13 | 2024-12-27 |  |
 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 | 2024-05-09 |  |
 | [Never seen](https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Never seen](https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD) | 5:15 | 2024-05-09 |  |
 | [No Weapon](https://open.spotify.com/track/5THnN0q7w8w34BMp7WGZlA) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All Things New](https://open.spotify.com/album/1S1Zy7QMIHAZAWXY5Uy55n) | 5:14 | 2024-11-15 |  |

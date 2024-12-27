@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3872,
+  "num_followers": 3875,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAAWZukPuMK2GQ9LY6KL/GKY",
+  "snapshot_id": "Z2tLAAAAAAAN/0ihEvCK1vEmdOtiWWV8",
   "tracks": [
     {
       "added_at": null,
@@ -66,11 +66,15 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 183338,
-      "name": "Reminders",
-      "url": "https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0"
+      "duration_ms": 302514,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
     },
     {
       "added_at": null,
@@ -130,15 +134,11 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        },
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 302514,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
+      "duration_ms": 183338,
+      "name": "Reminders",
+      "url": "https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 108280,
-      "name": "The Great Repetition",
-      "url": "https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP"
+      "duration_ms": 152985,
+      "name": "Honest Sleep",
+      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 152985,
-      "name": "Honest Sleep",
-      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
+      "duration_ms": 108280,
+      "name": "The Great Repetition",
+      "url": "https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
       "duration_ms": 137520,
       "name": "Just Exist",
       "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 113040,
-      "name": "Method Act",
-      "url": "https://open.spotify.com/track/4dnRxoWjd0xHcqxpt6UZsL"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 210154,
       "name": "Hard to Explain",
       "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 113040,
+      "name": "Method Act",
+      "url": "https://open.spotify.com/track/4dnRxoWjd0xHcqxpt6UZsL"
     },
     {
       "added_at": null,

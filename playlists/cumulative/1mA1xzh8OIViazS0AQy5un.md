@@ -4,7 +4,7 @@
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-686 songs - 1 day 14 hr 54 min
+687 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Killer](https://open.spotify.com/track/7sL05OTVdmVcwsAG2IBf1G) | [The Hoosiers](https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4) | [The Trick To Life](https://open.spotify.com/album/5QTNCegI3WNlg1D6urDPNp) | 3:48 | 2023-04-23 |  |
 | [Killer In The Mirror](https://open.spotify.com/track/0x2TYePnFyfZ9ajY2WMkby) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Midnight](https://open.spotify.com/album/4lqJlTuRAEZoRUb1BSkfIa) | 3:35 | 2023-05-08 |  |
 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2023-04-19 |  |
+| [Kiss Me Again \- Radio Edit](https://open.spotify.com/track/6wlH6Ebu3Ssa4a04zCxDJB) | [Roy Bee](https://open.spotify.com/artist/7HTzhX7y1EPL4MUPI6kFkh) | [Kiss Me Again](https://open.spotify.com/album/74hcYgwg4PrOulvUWDlVQk) | 2:44 | 2024-12-26 |  |
 | [Kokopelli Face Tattoo](https://open.spotify.com/track/0buoU0wlD10RS9cyCv77WQ) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Christmas Island](https://open.spotify.com/album/6U05Hnv3V8sm93lErI9rNA) | 3:19 | 2024-05-17 |  |
 | [La La Lu](https://open.spotify.com/track/3DGe3ekSVAxV1pmIfFyvze) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Decca Rarities](https://open.spotify.com/album/6BYVeGpUw8VT12GxhRUVBp) | 4:15 | 2023-04-19 |  |
 | [Labyrinth](https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt), [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA), [KAYE](https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 2:32 | 2023-04-20 |  |

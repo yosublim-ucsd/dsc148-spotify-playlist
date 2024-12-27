@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 119001,
+  "num_followers": 119014,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAB+k/iz27UMDxLFb2oYltCH",
+  "snapshot_id": "Z2tLAAAAAAA7qTumAfXTf/w5lNnpulfS",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest Of Times",
-        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+        "name": "The Gang's All Here",
+        "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 219280,
-      "name": "(F)lannigan's Ball",
-      "url": "https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG"
+      "duration_ms": 158600,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gang's All Here",
-        "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 158600,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
+      "duration_ms": 219280,
+      "name": "(F)lannigan's Ball",
+      "url": "https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG"
     },
     {
       "added_at": null,

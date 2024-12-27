@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > The best metal songs of the 90s\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,413 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,201 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 37 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
 | 38 | [Roots Bloody Roots](https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Roots](https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8) | 3:32 |
 | 39 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 |
-| 40 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
+| 40 | [Bored](https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:05 |
 | 41 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 |
-| 42 | [Bored](https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:05 |
+| 42 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
 | 43 | [Engel](https://open.spotify.com/track/0xrkyEMkG4dVa5OMLQZOX8) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:24 |
 | 44 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 |
 | 45 | [Cherry Pie](https://open.spotify.com/track/18ESXa5mEm1V4Pkt5GSXWx) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie \(Expanded Edition\)](https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB) | 3:21 |
@@ -92,17 +92,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 82 | [More Human Than Human](https://open.spotify.com/track/6JgxvNYi44NFHCtQmZncTv) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/4U9gI7vQHDDo651yYJo02O) | 4:28 |
 | 83 | [Demanufacture](https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 4:12 |
 | 84 | [Biggest & the Best](https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Clawfinger](https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf) | 3:51 |
-| 85 | [Save Yourself](https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [The Essential Stabbing Westward](https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7) | 4:13 |
+| 85 | [Suite\-Pee](https://open.spotify.com/track/7bYa4W8I1vbcOiXmLnPlik) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:31 |
 | 86 | [Ten Ton Hammer](https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:14 |
-| 87 | [Suite\-Pee](https://open.spotify.com/track/7bYa4W8I1vbcOiXmLnPlik) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:31 |
+| 87 | [Save Yourself](https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [The Essential Stabbing Westward](https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7) | 4:13 |
 | 88 | [Violent & Funky](https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [GROOVE FAMILY CYCO](https://open.spotify.com/album/55u43mARrmqFDHNb2qQ59M) | 4:16 |
 | 89 | [The Gentle Art of Making Enemies \- 2016 Remaster](https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [King for a Day, Fool for a Lifetime \(2016 Remaster; Deluxe Edition\)](https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW) | 3:28 |
 | 90 | [Descent](https://open.spotify.com/track/32IeMAhxo8nhUTVdFGwh0x) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete](https://open.spotify.com/album/2T2G5q8KHo5wAAitrRzJN0) | 4:36 |
 | 91 | [Monkey Business](https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 4:18 |
 | 92 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 |
 | 93 | [Space Lord](https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 5:55 |
-| 94 | [War?](https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:40 |
-| 95 | [Loco](https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv) | 4:14 |
+| 94 | [Loco](https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv) | 4:14 |
+| 95 | [War?](https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:40 |
 | 96 | [Charlotte](https://open.spotify.com/track/76g4Ybt7SW4PvloFDIzsSX) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu) | 3:59 |
 | 97 | [March Of The Pigs](https://open.spotify.com/track/2Ad7XA54Jw0YyBF5rjiFyl) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq) | 2:58 |
 | 98 | [Got The Time](https://open.spotify.com/track/1bcioXEBfobgGko8dsexRr) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time](https://open.spotify.com/album/5dTWuMi1JUNNAgqdOfBsuQ) | 2:44 |

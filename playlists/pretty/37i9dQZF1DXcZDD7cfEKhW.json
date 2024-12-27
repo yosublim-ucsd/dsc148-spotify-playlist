@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Addison Rae",
-  "num_followers": 4091020,
+  "num_followers": 4090955,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Sinnerman (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 232632,
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 125280,
       "name": "Do It To It - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sinnerman (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 232632,
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -933,50 +933,6 @@
       "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Seven (feat. Latto) (Alesso Remix)",
-        "url": "https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Seven (feat. Latto) (Alesso Remix)",
-      "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "I'm Going Out",
@@ -1007,6 +963,50 @@
       "duration_ms": 149237,
       "name": "I'm Going Out",
       "url": "https://open.spotify.com/track/2FHwme6spTGP80vXHlOSAV"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Seven (feat. Latto) (Alesso Remix)",
+        "url": "https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Seven (feat. Latto) (Alesso Remix)",
+      "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2024-09-13 18:27:00",

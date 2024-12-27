@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,109 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,189 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 20 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
 | 21 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
 | 22 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 |
-| 23 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
-| 24 | [Intimate Friends](https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Slick](https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb) | 5:53 |
+| 23 | [Intimate Friends](https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Slick](https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb) | 5:53 |
+| 24 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
 | 25 | [Where Are We Going?](https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Gold](https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9) | 3:55 |
 | 26 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
 | 27 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 54 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
 | 55 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 |
 | 56 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
-| 57 | [Too Soon You're Old](https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS) | [Penny Goodwin](https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX) | [Too Soon You're Old](https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ) | 4:47 |
-| 58 | [I Tcho Tchass](https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1) | [Akofa Akoussah](https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh) | [Akofa Akoussah](https://open.spotify.com/album/76MYmID5q42L381YAFUaEq) | 3:53 |
+| 57 | [I Tcho Tchass](https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1) | [Akofa Akoussah](https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh) | [Akofa Akoussah](https://open.spotify.com/album/76MYmID5q42L381YAFUaEq) | 3:53 |
+| 58 | [Too Soon You're Old](https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS) | [Penny Goodwin](https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX) | [Too Soon You're Old](https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ) | 4:47 |
 | 59 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
 | 60 | [Bedside](https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Bedside](https://open.spotify.com/album/3c3gdH1fP9xnJKTYIff6U1) | 7:30 |
 | 61 | [I Love You](https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY) | [Karriem](https://open.spotify.com/artist/0NadnuC5kb7WZgpZcqqM2d) | [I Love You](https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN) | 6:55 |

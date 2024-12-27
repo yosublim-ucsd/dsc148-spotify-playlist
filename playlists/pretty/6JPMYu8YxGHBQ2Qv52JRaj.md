@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/6JPMYu8YxGHBQ2Qv52JRaj.md) - [plain]
 | 8 | [DumDum](https://open.spotify.com/track/3h8BW0Ld5mdoch8UZ0muJX) | [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD), [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [DumDum](https://open.spotify.com/album/6wCofN0WEoVcLYOEXH2Dok) | 2:47 |
 | 9 | [Danny Phantom](https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Danny Phantom](https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU) | 3:20 |
 
-Snapshot ID: `AAADYoXl56czOuzC9grt4qYDqBBpcnmo`
+Snapshot ID: `AAADY54i2u0XYLz2Nu2VtVKvivj7YOP5`

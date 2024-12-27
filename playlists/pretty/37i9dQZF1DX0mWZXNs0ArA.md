@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,991,181 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,991,162 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 61 | [Strangers \(feat\. Kenya Grace\) \- Sped Up](https://open.spotify.com/track/2CFl2JZVw74jVO5LTyiim3) | [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel), [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(feat\. Kenya Grace\) \[Sped Up\]](https://open.spotify.com/album/3IJLMzgR1r29ij0cxNs5kV) | 2:35 |
 | 62 | [If We Have Each Other \(Always By Her Side\) \- Sped Up Version](https://open.spotify.com/track/1B2mOfWYc7EatMwnVx1g1x) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [If We Have Each Other \(Always By Her Side\) \[Sped Up Version\]](https://open.spotify.com/album/6THJRzfxXMd5tjtt4uqFGY) | 2:36 |
 | 63 | [Džanum \- Sped Up](https://open.spotify.com/track/0MsTPYCpMwTlhq3XrtRTT1) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Džanum \- Sped up](https://open.spotify.com/album/2vuMXOH1OPzMrMxInxmnaB) | 2:17 |
-| 64 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 |
-| 65 | [Teenage Dream \- Sped Up](https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:23 |
+| 64 | [Teenage Dream \- Sped Up](https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:23 |
+| 65 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 |
 | 66 | [Soweto \- Sped Up \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/3SaF6WLUiyfcOM5sTvUEOb) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \- Sped Up \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/album/1zVOL86YEfEat6U0XYpByc) | 3:03 |
 | 67 | [HYPNOTIC DATA \- Sped Up](https://open.spotify.com/track/3iLEjZtu5Za0ZR35lYIDeu) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS \(ODECORE MIX\)](https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE) | 1:57 |
 | 68 | [Gangsta \(Kehlani\) \- Sped Up Version](https://open.spotify.com/track/4Z7ZOrHtlgn9kXw68c0pMo) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Gangsta \(Kehlani\) \[Sped Up Version\]](https://open.spotify.com/album/1L1jza2QSImCzOkQq7f5mO) | 2:12 |

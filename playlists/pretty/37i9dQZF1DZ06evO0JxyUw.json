@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 269074,
+  "num_followers": 269095,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAC36XkTNs469sWjppNIq61q",
+  "snapshot_id": "Z2tLAAAAAAAgvS/sCcwDa4VdK9Dx4ynm",
   "tracks": [
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
-        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Obvious - Live - Spotify Anniversaries Version",
-      "url": "https://open.spotify.com/track/4lOvTZD9ZgFL5TAgJUQqyu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 257773,
       "name": "Infatuation",
       "url": "https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Obvious - Live - Spotify Anniversaries Version",
+      "url": "https://open.spotify.com/track/4lOvTZD9ZgFL5TAgJUQqyu"
     },
     {
       "added_at": null,

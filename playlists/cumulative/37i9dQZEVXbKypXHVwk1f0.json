@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 253506,
       "name": "Aguinaldo Navide\u00f1o",
       "url": "https://open.spotify.com/track/00hTMcTeaaMtjBCV30yAm9"
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 148937,
       "name": "BESITOS",
       "url": "https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP"
@@ -3406,6 +3406,24 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/4MWKQRfoWI4oWCLy7Av2Gk"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200733,
+      "name": "Bomba De Navidad",
+      "url": "https://open.spotify.com/track/7nakvivmPlDEs8R4PPvcHK"
     },
     {
       "album": {
@@ -4168,6 +4186,32 @@
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "album": {
+        "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269520,
+      "name": "Canto A Bor\u00ednquen",
+      "url": "https://open.spotify.com/track/1uohFd173KrmJiDjiOooLw"
     },
     {
       "album": {
@@ -7358,7 +7402,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -8839,6 +8883,32 @@
     },
     {
       "album": {
+        "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317640,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/101Q3ixoTRBwkQqxISFzr8"
+    },
+    {
+      "album": {
         "name": "Estrella",
         "url": "https://open.spotify.com/album/2hlVRUUVAg7mJVtWyTBx9v"
       },
@@ -8884,7 +8954,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
@@ -11566,7 +11636,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 173529,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24"
@@ -14158,7 +14228,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -14664,7 +14734,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 204000,
       "name": "Loco",
       "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
@@ -15706,7 +15776,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 302120,
       "name": "Mapeye",
       "url": "https://open.spotify.com/track/5dmIEM8DckZdl1T6fTaOTl"
@@ -20248,7 +20318,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
@@ -20908,6 +20978,28 @@
       "duration_ms": 150300,
       "name": "Ponle Play",
       "url": "https://open.spotify.com/track/6EJ5zpbF1P64Ih3foZ7O4I"
+    },
+    {
+      "album": {
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216626,
+      "name": "Popurr\u00ed Navide\u00f1o / Estrella De Oriente (De Tierras Lejanas) / Noche De Paz / La Virgen Mar\u00eda / La Tierra M\u00eda",
+      "url": "https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW"
     },
     {
       "album": {
@@ -22600,7 +22692,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 159493,
       "name": "Reluciente sol",
       "url": "https://open.spotify.com/track/5iVl0gMgKf2EnRGs4QGLRt"
@@ -23527,6 +23619,24 @@
     },
     {
       "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115893,
+      "name": "Santa Claus Lleg\u00f3 a La Ciudad",
+      "url": "https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb"
+    },
+    {
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
@@ -23538,7 +23648,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -23768,7 +23878,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
@@ -24540,7 +24650,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 158770,
       "name": "SI TE PEGO",
       "url": "https://open.spotify.com/track/7FycduWZISpTisQVpAvwwi"
@@ -25088,7 +25198,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
@@ -27088,7 +27198,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
@@ -28714,7 +28824,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 189373,
       "name": "Villaran cuenca - Morire como mojica",
       "url": "https://open.spotify.com/track/5XBQgMcSrMP2Ht927yh1au"

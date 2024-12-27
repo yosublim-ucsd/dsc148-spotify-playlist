@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 246734,
       "name": "A 200",
       "url": "https://open.spotify.com/track/4fk9Ufhqn1jllnTSddki62"
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 169696,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7zPqS10y0V6ph84zCl55tG"
@@ -7318,7 +7318,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 231506,
       "name": "Dejame Volver",
       "url": "https://open.spotify.com/track/01bQ56KQj2A2YCFmMXPxfJ"
@@ -7793,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Destino o casualidad (\"Versi\u00f3n ac\u00fastico\")",
+        "url": "https://open.spotify.com/album/7qkXvXVmoLOm0pSR7J8snm"
+      },
+      "artists": [
+        {
+          "name": "Kleber Zu\u00f1iga",
+          "url": "https://open.spotify.com/artist/6ovTjCPX4vMQgE4hzmS8d9"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238863,
+      "name": "Destino o casualidad - \"Versi\u00f3n ac\u00fastico\"",
+      "url": "https://open.spotify.com/track/1Tcs5eDZ95xae8Pamra7AK"
+    },
+    {
+      "album": {
         "name": "Di Di Di",
         "url": "https://open.spotify.com/album/15uTVBS0whFMY5nRZ3nS5d"
       },
@@ -8204,7 +8222,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -11068,7 +11086,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 193453,
       "name": "Feliz Cumb\u00e9",
       "url": "https://open.spotify.com/track/1CvYdv3AwrsTt90owD32VB"
@@ -13796,7 +13814,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -14222,7 +14240,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -23870,7 +23888,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
@@ -25766,6 +25784,24 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "Solo Modernos, Vol. 1",
+        "url": "https://open.spotify.com/album/6AKge9CDlQ32eTTkv9KWp8"
+      },
+      "artists": [
+        {
+          "name": "Urbanda",
+          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249627,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/4x5cpW3coyQFtbJJ1wMFfo"
     },
     {
       "album": {
@@ -29852,7 +29888,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 146526,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y"
@@ -33708,7 +33744,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
@@ -34270,7 +34306,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 269226,
       "name": "Volvio Juanita",
       "url": "https://open.spotify.com/track/4z3qBULF8yerzY0fcx27j2"
@@ -34686,7 +34722,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

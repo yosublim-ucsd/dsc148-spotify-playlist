@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO2OZck1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2OZck1)
 
-### [This Is 新しい学校のリーダーズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1)
+### [This Is ATARASHII GAKKO!](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1)
 
-> This is 新しい学校のリーダーズ\. The essential tracks, all in one playlist.
+> This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,950 likes - 42 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,963 likes - 42 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 12 | [NAINAINAI](https://open.spotify.com/track/4tkhZR7YJfvpvD5D8o2MUY) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [NAINAINAI](https://open.spotify.com/album/2oPLzwhrlQP7twoamxxlhN) | 3:13 |
 | 13 | [SEISHUN WO KIRISAKU HADO](https://open.spotify.com/track/1dsB6klI4iqwcDcWzaI8zI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:33 |
 | 14 | [Omakase](https://open.spotify.com/track/40FFG6wi7mFGRJ5YR5ZoFJ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:45 |
-| 15 | [Quesera sera](https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Quesera sera](https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd) | 3:33 |
-| 16 | [CANDY](https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:45 |
+| 15 | [CANDY](https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:45 |
+| 16 | [Quesera sera](https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Quesera sera](https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd) | 3:33 |
 | 17 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
 | 18 | [Maji Yoroshiku](https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:13 |
 | 19 | [Pineapple Kryptonite](https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Pineapple Kryptonite](https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF) | 3:15 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 41 | [wakaranai](https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 3:57 |
 | 42 | [toumeigirl\(H ZETT M edit ver.\)](https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:19 |
 
-Snapshot ID: `Z2n5gAAAAADCBDh5kzODmP926sAdXHy4`
+Snapshot ID: `Z2tLAAAAAAD1B0sU2Q9lyb+pmhPgqNAI`

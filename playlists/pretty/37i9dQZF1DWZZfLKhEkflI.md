@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,886 likes - 75 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,916 likes - 75 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 39 | [Decision \- Remastered 1999](https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Rollins](https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO) | 7:58 |
 | 40 | [Blues March](https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Benny Golson And The Philadelphians](https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h) | 4:05 |
 | 41 | [Here I Am \- Rudy Van Gelder Edition/Remastered 2003](https://open.spotify.com/track/7iu2Oae1eI295Ay086GNFt) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd In Hand](https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a) | 8:25 |
-| 42 | [Devilette](https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Clubhouse](https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo) | 7:05 |
-| 43 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
+| 42 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
+| 43 | [Devilette](https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Clubhouse](https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo) | 7:05 |
 | 44 | [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 |
 | 45 | [These Are Soulful Days](https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 9:25 |
 | 46 | [Hush \- Remastered 2006](https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:21 |

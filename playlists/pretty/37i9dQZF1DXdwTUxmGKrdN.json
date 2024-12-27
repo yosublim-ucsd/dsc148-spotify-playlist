@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 439988,
+  "num_followers": 440001,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
+        "name": "Rite of Passage",
+        "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/3ym18a0dExcRA2VNAMAVBm"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 238853,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/61S3v0zujG9J171zdMEap7"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "Rite of Passage",
-        "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -571,6 +571,26 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
+        "name": "SHINE!",
+        "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "SHINE!",
+      "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
         "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
         "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 240172,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "SHINE!",
-        "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "SHINE!",
-      "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "G-Stream",
-        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 260265,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Fluid",
         "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 265875,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "G-Stream",
+        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 260265,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Sean Hector",
-          "url": "https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Spray Bay",
-      "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 299626,
       "name": "The B Spot",
       "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Sean Hector",
+          "url": "https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Spray Bay",
+      "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
+        "name": "Shine!",
+        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
+      },
+      "artists": [
+        {
+          "name": "Ben Tankard",
+          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Soulfood Sunday",
+      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
         "name": "Velvet Groove",
         "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 237029,
       "name": "Velvet Groove",
       "url": "https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "Shine!",
-        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
-      },
-      "artists": [
-        {
-          "name": "Ben Tankard",
-          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Soulfood Sunday",
-      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Stronger Now",
-        "url": "https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC"
-      },
-      "artists": [
-        {
-          "name": "Carol Albert",
-          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
-        },
-        {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
-        }
-      ],
-      "duration_ms": 243366,
-      "name": "Perfect Sunday",
-      "url": "https://open.spotify.com/track/3y9l6PAbOOGYBH1AY4XaTO"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Deep Dive",
         "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 223669,
       "name": "Chill or Be Chilled",
       "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Stronger Now",
+        "url": "https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC"
+      },
+      "artists": [
+        {
+          "name": "Carol Albert",
+          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
+        },
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "duration_ms": 243366,
+      "name": "Perfect Sunday",
+      "url": "https://open.spotify.com/track/3y9l6PAbOOGYBH1AY4XaTO"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "All We Have Are Moments",
-        "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
-      },
-      "artists": [
-        {
-          "name": "Marqueal Jordan",
-          "url": "https://open.spotify.com/artist/67z4QmWjkhUiM9LcGvvr87"
-        }
-      ],
-      "duration_ms": 213536,
-      "name": "What Key?",
-      "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 295156,
       "name": "Stockholm Summer",
       "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "All We Have Are Moments",
+        "url": "https://open.spotify.com/album/0smdqyg37o4BTYbC5coqVx"
+      },
+      "artists": [
+        {
+          "name": "Marqueal Jordan",
+          "url": "https://open.spotify.com/artist/67z4QmWjkhUiM9LcGvvr87"
+        }
+      ],
+      "duration_ms": 213536,
+      "name": "What Key?",
+      "url": "https://open.spotify.com/track/7AeeeNlvjxHKq5ekmdY72B"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1799,38 +1799,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Magic Mirror",
-        "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
-      },
-      "artists": [
-        {
-          "name": "Carol Albert",
-          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
-        }
-      ],
-      "duration_ms": 250790,
-      "name": "Fire & Water",
-      "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "Jazzmasters 6",
-        "url": "https://open.spotify.com/album/5eoo4LO3RcbqnMXEaLvjv6"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 329400,
-      "name": "Cloud Watching",
-      "url": "https://open.spotify.com/track/2gJCkklOvC8v56dmCmqrpn"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y"
       },
@@ -1851,6 +1819,38 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
+        "name": "Jazzmasters 6",
+        "url": "https://open.spotify.com/album/5eoo4LO3RcbqnMXEaLvjv6"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 329400,
+      "name": "Cloud Watching",
+      "url": "https://open.spotify.com/track/2gJCkklOvC8v56dmCmqrpn"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Magic Mirror",
+        "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
+      },
+      "artists": [
+        {
+          "name": "Carol Albert",
+          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
+        }
+      ],
+      "duration_ms": 250790,
+      "name": "Fire & Water",
+      "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
         "name": "Coevolve",
         "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
       },
@@ -1863,6 +1863,22 @@
       "duration_ms": 293595,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 311359,
+      "name": "Everyone but You",
+      "url": "https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1883,22 +1899,6 @@
       "duration_ms": 263106,
       "name": "Afternoon Delight",
       "url": "https://open.spotify.com/track/1TeSdXeVdGb8YbE7YcNTyU"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 311359,
-      "name": "Everyone but You",
-      "url": "https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1951,22 +1951,18 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Supreme",
-        "url": "https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj"
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
       },
       "artists": [
         {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        },
-        {
-          "name": "Donald Hayes",
-          "url": "https://open.spotify.com/artist/6RAJ9Jyvs0fR96ybRd44wk"
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
         }
       ],
-      "duration_ms": 271549,
-      "name": "Black Dynamite",
-      "url": "https://open.spotify.com/track/0Of0fM7dwXt3xQfQ0GKVpu"
+      "duration_ms": 314574,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/1xLU1zCbjo9HAoutmWsHlK"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -2003,18 +1999,22 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
+        "name": "Supreme",
+        "url": "https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj"
       },
       "artists": [
         {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        },
+        {
+          "name": "Donald Hayes",
+          "url": "https://open.spotify.com/artist/6RAJ9Jyvs0fR96ybRd44wk"
         }
       ],
-      "duration_ms": 314574,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/1xLU1zCbjo9HAoutmWsHlK"
+      "duration_ms": 271549,
+      "name": "Black Dynamite",
+      "url": "https://open.spotify.com/track/0Of0fM7dwXt3xQfQ0GKVpu"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO"
+        "name": "I'm All Ears",
+        "url": "https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC"
       },
       "artists": [
         {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
         }
       ],
-      "duration_ms": 224000,
-      "name": "BLUE MOON",
-      "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
+      "duration_ms": 299583,
+      "name": "I'm All Ears",
+      "url": "https://open.spotify.com/track/14CjlC1OvoUWoKgggP5YNd"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "BLUE MOON",
+      "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
         "name": "Bona Fide",
         "url": "https://open.spotify.com/album/2DkaeGeOgxo1LcrT0VIRFE"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 284805,
       "name": "18th & Vine",
       "url": "https://open.spotify.com/track/3Jy2TEyOVfBUwVytWu52NP"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "I'm All Ears",
-        "url": "https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 299583,
-      "name": "I'm All Ears",
-      "url": "https://open.spotify.com/track/14CjlC1OvoUWoKgggP5YNd"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/6zHqMQut7wD5vAnyDf78pt"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 325093,
       "name": "La Dolce Vita",
       "url": "https://open.spotify.com/track/0bSQopcyBmCEcp2nml5lMM"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U"
     },
     {
       "added_at": "2024-07-29 02:46:44",

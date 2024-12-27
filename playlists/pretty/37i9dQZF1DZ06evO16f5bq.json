@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 149016,
+  "num_followers": 149042,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAADPnw2poMotl1qlfOgm0GET",
+  "snapshot_id": "Z2tLAAAAAACP7rOQ4+eLgTLYft7EidY3",
   "tracks": [
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "ci\u00fame bobo - b\u00f4nus track",
-      "url": "https://open.spotify.com/track/5kRHcPpwskPBHsKZUMfLwn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUITA ONDA",
         "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 150508,
       "name": "NA ONDA",
       "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "ci\u00fame bobo - b\u00f4nus track",
+      "url": "https://open.spotify.com/track/5kRHcPpwskPBHsKZUMfLwn"
     },
     {
       "added_at": null,

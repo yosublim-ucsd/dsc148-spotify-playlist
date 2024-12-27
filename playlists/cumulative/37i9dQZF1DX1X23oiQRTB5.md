@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Genezio x Tiakola au top de la première playlist de rap français.
+> Ninho x Niska au top de la première playlist de rap français.
 
 297 songs - 15 hr 19 min
 

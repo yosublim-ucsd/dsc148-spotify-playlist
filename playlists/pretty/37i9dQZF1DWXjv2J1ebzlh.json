@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 117618,
+  "num_followers": 117650,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -123,46 +123,6 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Chico Buarque",
-        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        },
-        {
-          "name": "MPB4",
-          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
-        },
-        {
-          "name": "Quarteto Em Cy",
-          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Apesar De Voc\u00ea",
-      "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
-        "name": "Bloomsday",
-        "url": "https://open.spotify.com/album/2ceQKxT0GhryrHU5di7tmz"
-      },
-      "artists": [
-        {
-          "name": "Esbe",
-          "url": "https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/6ncNLU982iaD9WFb2gTwKd"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -183,6 +143,46 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "Bloomsday",
+        "url": "https://open.spotify.com/album/2ceQKxT0GhryrHU5di7tmz"
+      },
+      "artists": [
+        {
+          "name": "Esbe",
+          "url": "https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/6ncNLU982iaD9WFb2gTwKd"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        },
+        {
+          "name": "Quarteto Em Cy",
+          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Apesar De Voc\u00ea",
+      "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -603,18 +603,22 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Troupeau bleu",
-        "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
       "artists": [
         {
-          "name": "Cortex",
-          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 266040,
-      "name": "Huit octobre 1971",
-      "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
+      "duration_ms": 211400,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -635,22 +639,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+        "name": "Troupeau bleu",
+        "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Cortex",
+          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
-      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+      "duration_ms": 266040,
+      "name": "Huit octobre 1971",
+      "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -867,22 +867,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Dog With a Rope (Quantic Presenta Flowering Inferno)",
-        "url": "https://open.spotify.com/album/0NiH3ROfMf9ZGYj07RP0B0"
+        "name": "Que Gente Averigu\u00e1",
+        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Flowering Inferno",
-          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
         }
       ],
-      "duration_ms": 377293,
-      "name": "Cumbia Sobre el Mar",
-      "url": "https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH"
+      "duration_ms": 177680,
+      "name": "Lluvia con Nieve",
+      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -903,18 +899,22 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Cart\u00e3o Postal",
-        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
+        "name": "Dog With a Rope (Quantic Presenta Flowering Inferno)",
+        "url": "https://open.spotify.com/album/0NiH3ROfMf9ZGYj07RP0B0"
       },
       "artists": [
         {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Flowering Inferno",
+          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
         }
       ],
-      "duration_ms": 128903,
-      "name": "Esperar Pra Ver",
-      "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
+      "duration_ms": 377293,
+      "name": "Cumbia Sobre el Mar",
+      "url": "https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Que Gente Averigu\u00e1",
-        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
+        "name": "Cart\u00e3o Postal",
+        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
       },
       "artists": [
         {
-          "name": "Mon Rivera",
-          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
         }
       ],
-      "duration_ms": 177680,
-      "name": "Lluvia con Nieve",
-      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
+      "duration_ms": 128903,
+      "name": "Esperar Pra Ver",
+      "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -999,22 +999,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "DEIRA",
-        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
         }
       ],
-      "duration_ms": 163183,
-      "name": "Allah Yihmeeki",
-      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
+      "duration_ms": 180490,
+      "name": "Lotus 72 D - Fast Version",
+      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1035,18 +1031,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+        "name": "Intensified",
+        "url": "https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
         }
       ],
-      "duration_ms": 180490,
-      "name": "Lotus 72 D - Fast Version",
-      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
+      "duration_ms": 156786,
+      "name": "(Poor Mi) Israelites",
+      "url": "https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Intensified",
-        "url": "https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa"
+        "name": "DEIRA",
+        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
       },
       "artists": [
         {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 156786,
-      "name": "(Poor Mi) Israelites",
-      "url": "https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0"
+      "duration_ms": 163183,
+      "name": "Allah Yihmeeki",
+      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
+        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
         },
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
-      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+      "duration_ms": 162826,
+      "name": "Los Sabanales",
+      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Tropical Suite",
-        "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
-          "name": "Poni Hoax",
-          "url": "https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 126973,
-      "name": "Tropical Suite: S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
+      "duration_ms": 214933,
+      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
+      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1307,22 +1311,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
-        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
+        "name": "Tropical Suite",
+        "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
       },
       "artists": [
         {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        },
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+          "name": "Poni Hoax",
+          "url": "https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD"
         }
       ],
-      "duration_ms": 162826,
-      "name": "Los Sabanales",
-      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
+      "duration_ms": 126973,
+      "name": "Tropical Suite: S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1479,38 +1479,6 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
-        "name": "Expansions",
-        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
-      },
-      "artists": [
-        {
-          "name": "Bacao Rhythm & Steel Band",
-          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
-        }
-      ],
-      "duration_ms": 242082,
-      "name": "I Need Somebody To Love Tonight",
-      "url": "https://open.spotify.com/track/0wotnD2zTSOUDwVBN863fi"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
       },
@@ -1531,6 +1499,38 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
+        "name": "Expansions",
+        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
+      },
+      "artists": [
+        {
+          "name": "Bacao Rhythm & Steel Band",
+          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
+        }
+      ],
+      "duration_ms": 242082,
+      "name": "I Need Somebody To Love Tonight",
+      "url": "https://open.spotify.com/track/0wotnD2zTSOUDwVBN863fi"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "De Noite Na Cama",
+      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
         "name": "India",
         "url": "https://open.spotify.com/album/7bxZ0kvGIbJRvBGFrKooub"
       },
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Revent\u00f3",
-        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
         }
       ],
-      "duration_ms": 321480,
-      "name": "La Fama",
-      "url": "https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4"
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+        "name": "Revent\u00f3",
+        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
       },
       "artists": [
         {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 197426,
-      "name": "De Noite Na Cama",
-      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
+      "duration_ms": 321480,
+      "name": "La Fama",
+      "url": "https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Zungguzungguguzungguzeng!",
-        "url": "https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N"
+        "name": "\u0130kimiz Bir Fidan\u0131z (45'lik)",
+        "url": "https://open.spotify.com/album/3IkS5E4iTSOdTiufaoNx0Q"
       },
       "artists": [
         {
-          "name": "Yellowman",
-          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
+          "name": "Kamuran Akkor",
+          "url": "https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR"
         }
       ],
-      "duration_ms": 388226,
-      "name": "Zungguzungguguzungguzeng",
-      "url": "https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8"
+      "duration_ms": 210580,
+      "name": "\u0130kimiz Bir Fidan\u0131z",
+      "url": "https://open.spotify.com/track/1rRHrIgrPPHUYD97oYAgli"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "\u0130kimiz Bir Fidan\u0131z (45'lik)",
-        "url": "https://open.spotify.com/album/3IkS5E4iTSOdTiufaoNx0Q"
+        "name": "Zungguzungguguzungguzeng!",
+        "url": "https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N"
       },
       "artists": [
         {
-          "name": "Kamuran Akkor",
-          "url": "https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR"
+          "name": "Yellowman",
+          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
         }
       ],
-      "duration_ms": 210580,
-      "name": "\u0130kimiz Bir Fidan\u0131z",
-      "url": "https://open.spotify.com/track/1rRHrIgrPPHUYD97oYAgli"
+      "duration_ms": 388226,
+      "name": "Zungguzungguguzungguzeng",
+      "url": "https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8"
     }
   ],
   "unique_name": "Bon Voyage",

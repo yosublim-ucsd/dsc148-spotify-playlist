@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 348282,
+  "num_followers": 348257,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "I Could Sing Of Your Love Forever",
+        "url": "https://open.spotify.com/album/622dM9HGzrpibDW8zGAIIh"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "duration_ms": 161101,
+      "name": "I Could Sing Of Your Love Forever",
+      "url": "https://open.spotify.com/track/00I5GhfySvAAkfBf4mcapg"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Hold Me Jesus (The Songs of Rich Mullins)",
         "url": "https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 231946,
       "name": "Hold Me Jesus",
       "url": "https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "I Could Sing Of Your Love Forever",
-        "url": "https://open.spotify.com/album/622dM9HGzrpibDW8zGAIIh"
-      },
-      "artists": [
-        {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
-        }
-      ],
-      "duration_ms": 161101,
-      "name": "I Could Sing Of Your Love Forever",
-      "url": "https://open.spotify.com/track/00I5GhfySvAAkfBf4mcapg"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/1R9aI97imCiB03rhrYCQ09"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 555906,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/2z1LgCApxLsaB5SNgJTGzX"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Steady My Heart",
         "url": "https://open.spotify.com/album/22JhHEYI0GDqojMDo1WEol"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 236832,
       "name": "Steady My Heart",
       "url": "https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Yahweh",
-        "url": "https://open.spotify.com/album/1R9aI97imCiB03rhrYCQ09"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 555906,
-      "name": "Yahweh",
-      "url": "https://open.spotify.com/track/2z1LgCApxLsaB5SNgJTGzX"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Known, Seen, Loved (LIVE from the Quarry)",
         "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 187264,
       "name": "Known, Seen, Loved (LIVE from the Quarry)",
       "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "The Joy of Being Together (Live)",
-        "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Altogether Good - Live",
-      "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Is He Worthy?",
         "url": "https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 282000,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "The Joy of Being Together (Live)",
+        "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Altogether Good - Live",
+      "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1299,26 +1299,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Sing Over Me",
-        "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
+        "name": "LoFi Vineyard: Chill Worship Beats to Focus and Relax",
+        "url": "https://open.spotify.com/album/1d4dzA8G4GrdoTjZMle41D"
       },
       "artists": [
         {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        },
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
         }
       ],
-      "duration_ms": 254007,
-      "name": "Sing Over Me",
-      "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
+      "duration_ms": 169846,
+      "name": "Refiner's Fire",
+      "url": "https://open.spotify.com/track/3rEnwtsctdObHnurVLyCgA"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1347,18 +1339,26 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "LoFi Vineyard: Chill Worship Beats to Focus and Relax",
-        "url": "https://open.spotify.com/album/1d4dzA8G4GrdoTjZMle41D"
+        "name": "Sing Over Me",
+        "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
       },
       "artists": [
         {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        },
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Refiner's Fire",
-      "url": "https://open.spotify.com/track/3rEnwtsctdObHnurVLyCgA"
+      "duration_ms": 254007,
+      "name": "Sing Over Me",
+      "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/2kbI60CAiPN9oFRKqFTaIx"
-      },
-      "artists": [
-        {
-          "name": "Kali Joy",
-          "url": "https://open.spotify.com/artist/2p9Wic9uRDOjLRTzFAXGMe"
-        }
-      ],
-      "duration_ms": 182070,
-      "name": "There Will Be A Light Again",
-      "url": "https://open.spotify.com/track/3hVLhSayyVMhAY5Ren4v1O"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Let It Be So",
         "url": "https://open.spotify.com/album/6iBkN0coZ7G9wILcvWCi0g"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 300861,
       "name": "Let It Be So",
       "url": "https://open.spotify.com/track/4H5YkflQqqE9sUNy2z90n8"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/2kbI60CAiPN9oFRKqFTaIx"
+      },
+      "artists": [
+        {
+          "name": "Kali Joy",
+          "url": "https://open.spotify.com/artist/2p9Wic9uRDOjLRTzFAXGMe"
+        }
+      ],
+      "duration_ms": 182070,
+      "name": "There Will Be A Light Again",
+      "url": "https://open.spotify.com/track/3hVLhSayyVMhAY5Ren4v1O"
     },
     {
       "added_at": "2024-07-26 09:52:44",

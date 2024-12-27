@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,315 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,648 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 38 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
 | 39 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
 | 40 | [All Your Pain](https://open.spotify.com/track/1G3YnLyBs329AAIohKXoLX) | [Nite](https://open.spotify.com/artist/2tXXoTykabsZNETr1Sr1zC) | [Have Mercy](https://open.spotify.com/album/5qt6OZwknTuEmEfLOJpkvL) | 4:00 |
-| 41 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
-| 42 | [Serpentskirt \- Remastered 2006](https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6) | 3:57 |
+| 41 | [Serpentskirt \- Remastered 2006](https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6) | 3:57 |
+| 42 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
 | 43 | [Painted Black](https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [The Eternal Deep](https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs) | 3:31 |
 | 44 | [30 Century Man](https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 1:26 |
-| 45 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 |
-| 46 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
+| 45 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
+| 46 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 |
 | 47 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 |
 | 48 | [Allegedly, Dancefloor Tragedy](https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B) | [Suspiria](https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8) | [The Gothic Sounds Of Nightbreed Volumes One & Two](https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l) | 4:38 |
 | 49 | [Beat And The Pulse](https://open.spotify.com/track/5hyEQ6BNYKYrsRNiUxrXT4) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Feel It Break](https://open.spotify.com/album/7kZDvUzWaeZrvkEc3Jr1e8) | 4:55 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 57 | [Mephisto Waltz](https://open.spotify.com/track/6tK79x1EWm9JjRRfRM2FJz) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [Thalia](https://open.spotify.com/album/7nvZE7znYOXL1DT1NtQ5wJ) | 4:52 |
 | 58 | [Heart and Soul](https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 5:50 |
 | 59 | [Deep Ocean Vast Sea](https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 4:09 |
-| 60 | [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 |
-| 61 | [Valentine's Day](https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF) | [Klaus Nomi](https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw) | [Za Bakdaz: The Unfinished Opera](https://open.spotify.com/album/1BEVLMVUfXD67pbKqh56z5) | 2:49 |
+| 60 | [Valentine's Day](https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF) | [Klaus Nomi](https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw) | [Za Bakdaz: The Unfinished Opera](https://open.spotify.com/album/1BEVLMVUfXD67pbKqh56z5) | 2:49 |
+| 61 | [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 |
 | 62 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 |
 | 63 | [Adrenaline](https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw) | [Rosetta Stone](https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK) | [Adrenaline](https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4) | 3:40 |
 | 64 | [Muscoviet Mosquito](https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 4:03 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 76 | [Shimmering, Warm & Bright](https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 3:17 |
 | 77 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 |
 | 78 | [Bella Donna](https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw) | [The Legendary Pink Dots](https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5) | [Maria Dimension](https://open.spotify.com/album/4JIs8fvvujGkjy5ieyYOYG) | 4:07 |
-| 79 | [Hex](https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV) | [Crone Visions](https://open.spotify.com/artist/12MHSwdVzUugwDgfhf3p0J) | [Hex](https://open.spotify.com/album/36FcnufhmxEwHxSPPZIH9l) | 3:24 |
-| 80 | [Shining Road](https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Loved](https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0) | 3:51 |
+| 79 | [Shining Road](https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Loved](https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0) | 3:51 |
+| 80 | [Hex](https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV) | [Crone Visions](https://open.spotify.com/artist/12MHSwdVzUugwDgfhf3p0J) | [Hex](https://open.spotify.com/album/36FcnufhmxEwHxSPPZIH9l) | 3:24 |
 
 Snapshot ID: `ZzOGsQAAAADd6KLuRfcy4vN2TXNsTmfQ`

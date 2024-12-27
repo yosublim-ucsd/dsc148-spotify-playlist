@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,614 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,620 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 84 | [Twin Flame \(feat\. Goldie Boutilier\)](https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [LONESTAR](https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp) | 3:38 |
 | 85 | [Working On My Tan](https://open.spotify.com/track/1x4SJb7Z9d9SUZokNaCDR2) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Working On My Tan](https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc) | 4:23 |
 | 86 | [Going to Water](https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Thus Spoke the Fool](https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n) | 3:04 |
-| 87 | [What Kind of Song](https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [What Kind of Song](https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4) | 4:03 |
-| 88 | [Tumblin Down](https://open.spotify.com/track/48UCmZuBo7WJLGWAAEYIg2) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Keep Me on Your Mind/See You Free](https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B) | 3:29 |
+| 87 | [Tumblin Down](https://open.spotify.com/track/48UCmZuBo7WJLGWAAEYIg2) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Keep Me on Your Mind/See You Free](https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B) | 3:29 |
+| 88 | [What Kind of Song](https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [What Kind of Song](https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4) | 4:03 |
 | 89 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 |
 | 90 | [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 |
 | 91 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 95 | [Our Time In The Sun](https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn) | 3:00 |
 | 96 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 |
 | 97 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 |
-| 98 | [Against The Grain](https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Adrian Underhill](https://open.spotify.com/artist/4cxNlCYxlWWtkYRkNk04CN) | [Against The Grain](https://open.spotify.com/album/6GVN9nEFPZM6I4gsXr1k0Y) | 3:15 |
-| 99 | [Say When](https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Say When](https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6) | 4:13 |
-| 100 | [Devil's Wine feat\. Joe Newton](https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Joe Newton](https://open.spotify.com/artist/66DRCybnaEyb52neuFgE8Z) | [Devil's Wine](https://open.spotify.com/album/1omFDYbbRyTEz12vG0GEhJ) | 3:16 |
+| 98 | [Say When](https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Say When](https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6) | 4:13 |
+| 99 | [Devil's Wine feat\. Joe Newton](https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Joe Newton](https://open.spotify.com/artist/66DRCybnaEyb52neuFgE8Z) | [Devil's Wine](https://open.spotify.com/album/1omFDYbbRyTEz12vG0GEhJ) | 3:16 |
+| 100 | [Against The Grain](https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Adrian Underhill](https://open.spotify.com/artist/4cxNlCYxlWWtkYRkNk04CN) | [Against The Grain](https://open.spotify.com/album/6GVN9nEFPZM6I4gsXr1k0Y) | 3:15 |
 
 Snapshot ID: `Z1u/ZAAAAABZS3EXrQaU1+wLiDSGM+Ar`

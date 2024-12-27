@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Manu Chao en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,027 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,035 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 25 | [Como Fuego](https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Como Fuego](https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi) | 3:04 |
 | 26 | [Te Quiero Con Bugalú](https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [iLevitable](https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky) | 4:09 |
 | 27 | [Trago Coqueto](https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:02 |
-| 28 | [Nunca Paran](https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Aguas](https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy) | 3:04 |
+| 28 | [quizás en otra vida](https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intentos](https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu) | 2:02 |
 | 29 | [São Paulo Motoboy](https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [São Paulo Motoboy](https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP) | 2:28 |
 | 30 | [Tártaro](https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP II](https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5) | 3:43 |
-| 31 | [quizás en otra vida](https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intentos](https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu) | 2:02 |
+| 31 | [Nunca Paran](https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Aguas](https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy) | 3:04 |
 | 32 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
 | 33 | [traguito](https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 3:56 |
 | 34 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 45 | [Te Olvidaste](https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Te Olvidaste](https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ) | 3:02 |
 | 46 | [Rama](https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [RAMA](https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5) | 5:07 |
 | 47 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 |
-| 48 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
+| 48 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
 | 49 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 |
-| 50 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
+| 50 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
 | 51 | [Donde](https://open.spotify.com/track/6wiwcn6GkkKEXCBwOYldLM) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [Donde](https://open.spotify.com/album/74w3nm7wWosixhYgX3X9iv) | 3:07 |
 | 52 | [Ñe Ñe Ñé](https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:07 |
 | 53 | [En el Temblor \(feat\. Chico Mann\)](https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Taurus](https://open.spotify.com/album/27bZK5n13Hoz2n3OscFxJf) | 3:36 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 66 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 |
 | 67 | [Fly](https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Fly](https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby) | 3:26 |
 | 68 | [Sale el Sol](https://open.spotify.com/track/1QT0nxW1aDj2NBeJ1h69v8) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:33 |
-| 69 | [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 |
+| 69 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 |
 | 70 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 |
-| 71 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 |
+| 71 | [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 |
 | 72 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 |
 | 73 | [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 |
 | 74 | [El arca de Mima](https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El arca de Mima](https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n) | 4:22 |

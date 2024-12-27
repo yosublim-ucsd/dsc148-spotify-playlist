@@ -2631,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Senza di me",
+        "url": "https://open.spotify.com/album/1M92MZmztvndDnorR9wTsU"
+      },
+      "artists": [
+        {
+          "name": "Dente",
+          "url": "https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151493,
+      "name": "Senza di me",
+      "url": "https://open.spotify.com/track/71ogrXoA23rHJ1LVFoNOk7"
+    },
+    {
+      "album": {
         "name": "Senza Stelle",
         "url": "https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC"
       },

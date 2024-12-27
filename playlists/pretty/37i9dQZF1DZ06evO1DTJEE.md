@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,613 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,655 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 23 | [Hard To Leave](https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:35 |
 | 24 | [Atlantic City](https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:15 |
 | 25 | [Bury Me In Dixie](https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Bury Me In Dixie](https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8) | 3:08 |
-| 26 | [Turnin' Dirt](https://open.spotify.com/track/2TlhKS7q0TWyJ3DYOdnQhP) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:02 |
-| 27 | [If It Wasn’t For Trucks](https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp) | 3:17 |
+| 26 | [If It Wasn’t For Trucks](https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp) | 3:17 |
+| 27 | [Turnin' Dirt](https://open.spotify.com/track/2TlhKS7q0TWyJ3DYOdnQhP) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:02 |
 | 28 | [Way Out Here](https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:41 |
 | 29 | [Stick to My Guns \(feat\. Riley Green\)](https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Mid\-Twenties Crisis](https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8) | 3:05 |
-| 30 | [Waitin' All Day](https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:18 |
-| 31 | [Same Old Song](https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:08 |
+| 30 | [Same Old Song](https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:08 |
+| 31 | [Waitin' All Day](https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:18 |
 | 32 | [Good Morning From Mexico](https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:08 |
 | 33 | [Ain’t Like I Can Hide It](https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:00 |
 | 34 | [Jesus And Wranglers](https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 49 | [Runnin' With An Angel](https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Runnin' With An Angel](https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9) | 3:55 |
 | 50 | [I Let A Damn Good Woman Leave](https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:32 |
 
-Snapshot ID: `Z2n5gAAAAAC7wBE7h+13stFahrMOZbJy`
+Snapshot ID: `Z2tLAAAAAABJDTmpcaOSXYoc6+NCt8tV`

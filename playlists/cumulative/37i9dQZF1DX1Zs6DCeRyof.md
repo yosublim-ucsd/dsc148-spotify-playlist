@@ -2,9 +2,9 @@
 
 ### [Éxitos Puerto Rico](https://open.spotify.com/playlist/37i9dQZF1DX1Zs6DCeRyof)
 
-> Aquí viven los hits más grandes en La Isla del Encanto\. Clarent en portada.
+> Aquí viven los hits más grandes en La Isla del Encanto\. Rauw Alejandro en portada.
 
-290 songs - 16 hr 35 min
+291 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [PETITE](https://open.spotify.com/track/1eTmkqk4PHdtMYpjjR1ZWG) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [PETITE](https://open.spotify.com/album/6arDXXLzgsELJIPIuaBplg) | 2:20 | 2024-11-22 |  |
 | [Philly Boy](https://open.spotify.com/track/4Nzzznp5nk5NGcaS89yvbz) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [Philly Boy](https://open.spotify.com/album/4SaVMA7CLozl6fKynfY8PY) | 2:27 | 2024-04-26 | 2024-06-01 |
 | [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 | 2024-12-06 |  |
+| [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 | 2024-12-26 |  |
 | [Podemos Repetirlo](https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Podemos Repetirlo](https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX) | 3:31 | 2023-06-12 | 2023-08-31 |
 | [Podemos Repetirlo \(Remix\)](https://open.spotify.com/track/6AkCPRgpyt2jMF3RGjzJsw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Podemos Repetirlo \(Remix\)](https://open.spotify.com/album/3UmFOFNVmfzGI6NKJkUImG) | 4:40 | 2023-08-30 | 2023-12-22 |
 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 | 2023-06-22 | 2023-08-31 |

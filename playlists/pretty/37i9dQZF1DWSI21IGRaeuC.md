@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,658 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,707 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 59 | [Flawless](https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Flawless](https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R) | 3:20 |
 | 60 | [Fascinator](https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:12 |
 | 61 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 |
-| 62 | [Ghetto](https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Ghetto EP](https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev) | 3:34 |
-| 63 | [Reso Riddim](https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Reso Riddim EP](https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0) | 3:06 |
+| 62 | [Reso Riddim](https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Reso Riddim EP](https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0) | 3:06 |
+| 63 | [Ghetto](https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Ghetto EP](https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev) | 3:34 |
 | 64 | [Dimension](https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dimension](https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg) | 8:01 |
 | 65 | [On Deck](https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [On Deck](https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy) | 3:18 |
 | 66 | [Me, Myself & That Dancefloor](https://open.spotify.com/track/3zGcP713ZPe6OYGlOWYpKu) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Me, Myself & That Dancefloor EP](https://open.spotify.com/album/6hkRPAZb0cjySkQeSPoNPa) | 3:26 |
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 69 | [Handle This](https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Handle This](https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N) | 6:30 |
 | 70 | [Red Alert](https://open.spotify.com/track/7F5cUAijc9EjGxjcgMfXph) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Red Alert](https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN) | 3:23 |
 | 71 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 |
-| 72 | [Bad City](https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Bad City](https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0) | 6:21 |
-| 73 | [Im so Wavy \- Original Mix](https://open.spotify.com/track/72J9PigDQEKIIrnRbj6Dsa) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Im so Wavy](https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18) | 3:28 |
+| 72 | [Im so Wavy \- Original Mix](https://open.spotify.com/track/72J9PigDQEKIIrnRbj6Dsa) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Im so Wavy](https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18) | 3:28 |
+| 73 | [Bad City](https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Bad City](https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0) | 6:21 |
 | 74 | [Nothing Hurts](https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Nothing Hurts](https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH) | 3:09 |
 | 75 | [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 |
 | 76 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
-| 77 | [Bumpin'](https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a) | [DXNBY](https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8) | [ENDZ058](https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi) | 6:14 |
-| 78 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
+| 77 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
+| 78 | [Bumpin'](https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a) | [DXNBY](https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8) | [ENDZ058](https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi) | 6:14 |
 | 79 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
 | 80 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
 | 81 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |

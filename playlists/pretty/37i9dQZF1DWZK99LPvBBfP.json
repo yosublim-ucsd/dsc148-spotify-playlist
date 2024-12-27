@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 298951,
+  "num_followers": 299066,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Poppiholla",
-      "url": "https://open.spotify.com/track/0IMcUszK4FkAp22s6Eiq1V"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Akwaba Beach",
         "url": "https://open.spotify.com/album/7gWws7q8OQDc8t5R4IXIx3"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 238253,
       "name": "Yeke Yeke",
       "url": "https://open.spotify.com/track/7yuF2FK7adgzGiIfEpR7Km"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Poppiholla",
+      "url": "https://open.spotify.com/track/0IMcUszK4FkAp22s6Eiq1V"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Paul Oakenfold - Mount Everest: The Base Camp Mix",
-        "url": "https://open.spotify.com/album/5L6PMFprTx841pBTxV6bqZ"
-      },
-      "artists": [
-        {
-          "name": "Planet Perfecto Knights",
-          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
-        }
-      ],
-      "duration_ms": 691512,
-      "name": "Resurection",
-      "url": "https://open.spotify.com/track/4R2a6E4fYpi1kjp6eQuuKE"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Mixed Up (Remastered 2018 / Deluxe Edition)",
         "url": "https://open.spotify.com/album/3huHRCpnBNMIrU4e10HDtr"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 465053,
       "name": "Lullaby - Extended Mix",
       "url": "https://open.spotify.com/track/3oHh50CILa1PKDBSvfVuDd"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Paul Oakenfold - Mount Everest: The Base Camp Mix",
+        "url": "https://open.spotify.com/album/5L6PMFprTx841pBTxV6bqZ"
+      },
+      "artists": [
+        {
+          "name": "Planet Perfecto Knights",
+          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
+        }
+      ],
+      "duration_ms": 691512,
+      "name": "Resurection",
+      "url": "https://open.spotify.com/track/4R2a6E4fYpi1kjp6eQuuKE"
     },
     {
       "added_at": "2024-03-22 15:59:52",

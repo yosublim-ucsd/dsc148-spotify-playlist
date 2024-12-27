@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 28911,
+  "num_followers": 28910,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAABD9wilZOUCtajn+KRYEBuY",
+  "snapshot_id": "Z2tLAAAAAAAMxL6Kep4MD+pl7lBTy1he",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 156733,
-      "name": "Poor Boy",
-      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
+      "duration_ms": 159400,
+      "name": "Built For Comfort",
+      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Built For Comfort",
-      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
     },
     {
       "added_at": null,

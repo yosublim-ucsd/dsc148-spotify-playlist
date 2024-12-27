@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Fat Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,483 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,486 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 43 | [Just A Western](https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 4:29 |
 | 44 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 |
 | 45 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 |
-| 46 | [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 |
-| 47 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 |
+| 46 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 |
+| 47 | [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 |
 | 48 | [God Of Everything Else](https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Clouds In The Sky They Will Always Be There For Me](https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd) | 3:24 |
 | 49 | [Car Park](https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lifetime of Wanting](https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS) | 3:04 |
 | 50 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
@@ -65,24 +65,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 55 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 |
 | 56 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
 | 57 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
-| 58 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
+| 58 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 |
 | 59 | [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 |
-| 60 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 |
+| 60 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
 | 61 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 62 | [I’m Not Crying, You’re Crying](https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:48 |
 | 63 | [1/500](https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [YOU’LL HAVE TO LOSE SOMETHING](https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM) | 2:42 |
 | 64 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
 | 65 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
-| 66 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 |
-| 67 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
+| 66 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
+| 67 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 |
 | 68 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 |
 | 69 | [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 |
 | 70 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
 | 71 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
 | 72 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
 | 73 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
-| 74 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
-| 75 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
+| 74 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
+| 75 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 | 76 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
 | 77 | [Rain](https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Rain](https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp) | 3:16 |
 | 78 | [Something Blue](https://open.spotify.com/track/1nS8LLMYmVwKggDEviOuM8) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:42 |

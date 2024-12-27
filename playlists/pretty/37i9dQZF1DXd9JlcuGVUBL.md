@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x?si=a6oNennmQailhlnfVmw69A">Minke Brits</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,369 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,411 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 47 | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG) | 3:57 |
 | 48 | [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 |
 | 49 | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38) | 2:44 |
-| 50 | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P) | 3:47 |
+| 50 | [Hart Breek](https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Hart Breek](https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO) | 3:20 |
 
 Snapshot ID: `Z2SXeAAAAAC5yujV8e4vJVx/RqbXzrE6`

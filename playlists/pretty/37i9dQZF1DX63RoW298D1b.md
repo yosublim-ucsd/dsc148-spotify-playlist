@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain]
 
 > Soothing piano for the ultimate wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,689 likes - 133 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,816 likes - 133 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

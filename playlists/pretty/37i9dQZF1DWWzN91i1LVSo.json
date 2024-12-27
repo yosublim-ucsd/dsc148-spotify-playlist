@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 114,
+  "num_followers": 120,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "People Don't Change",
-        "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
-      },
-      "artists": [
-        {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "The Worst Of You",
-      "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 154124,
       "name": "Perfect Stranger",
       "url": "https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "People Don't Change",
+        "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "The Worst Of You",
+      "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "freckles,",
         "url": "https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 230615,
       "name": "freckles,",
       "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Sound Experiment - EP",
-        "url": "https://open.spotify.com/album/2XtAaXbOyK67vRQbfS2bA4"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Only Wanna Be with You - Unplugged",
-      "url": "https://open.spotify.com/track/6ppFSsCpKpOONCuw9hxM3p"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Melchor Lullaby Hotline Vol. 1",
         "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 194266,
       "name": "Moon in the Morning",
       "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "The Sound Experiment - EP",
+        "url": "https://open.spotify.com/album/2XtAaXbOyK67vRQbfS2bA4"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Only Wanna Be with You - Unplugged",
+      "url": "https://open.spotify.com/track/6ppFSsCpKpOONCuw9hxM3p"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "K.",
-        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Pull",
         "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
       },
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Temple (Unplugged)",
-        "url": "https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW"
-      },
-      "artists": [
-        {
-          "name": "Matthew And The Atlas",
-          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
-        }
-      ],
-      "duration_ms": 279680,
-      "name": "Elijah - Acoustic Version",
-      "url": "https://open.spotify.com/track/6FnCRa4EVBmzHaLxKKGsCb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Melchor Lullaby Hotline Vol. 1",
         "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
       },
@@ -1095,6 +1063,38 @@
       "duration_ms": 193972,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "K.",
+        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Temple (Unplugged)",
+        "url": "https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW"
+      },
+      "artists": [
+        {
+          "name": "Matthew And The Atlas",
+          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
+        }
+      ],
+      "duration_ms": 279680,
+      "name": "Elijah - Acoustic Version",
+      "url": "https://open.spotify.com/track/6FnCRa4EVBmzHaLxKKGsCb"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Hating Game (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196606,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Colors (Acoustic)",
         "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 323008,
       "name": "Colors - Acoustic",
       "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "The Hating Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196606,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Regan",
-          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
-        }
-      ],
-      "duration_ms": 194365,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "You Look Like You Can't Swim",
         "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 168086,
       "name": "You Look Like You Can't Swim",
       "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Regan",
+          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+        }
+      ],
+      "duration_ms": 194365,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
     },
     {
       "added_at": "2024-05-24 04:00:00",

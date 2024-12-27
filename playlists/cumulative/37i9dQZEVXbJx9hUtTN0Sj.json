@@ -708,7 +708,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 75697,
       "name": "ACIDO",
       "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
@@ -4046,7 +4046,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 235684,
       "name": "Colourblind (feat. Loyle Carner)",
       "url": "https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM"
@@ -9951,6 +9951,24 @@
     },
     {
       "album": {
+        "name": "Indecisive (Is It A Crime)",
+        "url": "https://open.spotify.com/album/2F20qsTyxv3SqUsRghi2Bk"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "Indecisive - Is It A Crime",
+      "url": "https://open.spotify.com/track/1f4NJhdLUzvAo13K7XTsh6"
+    },
+    {
+      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7"
       },
@@ -11516,11 +11534,15 @@
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sami Brielle",
+          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
         }
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 159577,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
@@ -11694,7 +11716,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 167636,
       "name": "Like A Boss",
       "url": "https://open.spotify.com/track/11S4IH19vfC8TRKBWo9CVW"
@@ -13161,6 +13183,24 @@
     },
     {
       "album": {
+        "name": "Miaw Miaw Miaw Miaw",
+        "url": "https://open.spotify.com/album/02goVb75f4uUCNdNH8jXOp"
+      },
+      "artists": [
+        {
+          "name": "Meow",
+          "url": "https://open.spotify.com/artist/7B87rnpUtmyhtMTBAdZqhE"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146677,
+      "name": "Miaw Miaw Miaw Miaw",
+      "url": "https://open.spotify.com/track/6ocVJtHRpJwt1vZcM40TMz"
+    },
+    {
+      "album": {
         "name": "Middelvinger",
         "url": "https://open.spotify.com/album/7HaemgeoWlIyMK26Feapko"
       },
@@ -14080,6 +14120,32 @@
       "duration_ms": 60046,
       "name": "Nemzz x Did It First",
       "url": "https://open.spotify.com/track/5sTd70J79fmWZ8QhC5QWBH"
+    },
+    {
+      "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217298,
+      "name": "Nena Moxita",
+      "url": "https://open.spotify.com/track/7gG2xMiojQrsTUGa7qeQoo"
     },
     {
       "album": {
@@ -18076,7 +18142,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 185532,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2usgKLp2V6HTqOXh9rlETr"

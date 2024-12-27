@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG?si=ruGXGJTQTHeaKrS\-Bo0HjQ">Vancoet</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,382 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,407 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
-| 2 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
+| 2 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
 | 3 | [Wonder](https://open.spotify.com/track/18bCdBZVIjfYwVtd8FUqyN) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Eindbestemming](https://open.spotify.com/album/2rTAdgIxkg52eAzq3Ev6I7) | 2:45 |
-| 4 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
+| 4 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
 | 5 | [Die Stryd](https://open.spotify.com/track/6WBOpGhSpsZgNhjENuaeMV) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Die Stryd](https://open.spotify.com/album/0EGGgOzLhMdK9zw88wLQfD) | 3:07 |
 | 6 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 7 | [Bakers Mini Krieket](https://open.spotify.com/track/1ebkVIKuzovrwE0DhS9iGZ) | [Dawid de Koning en die Kommuniste](https://open.spotify.com/artist/3e1L6NN9GvUjXIoG50dsN2) | [Aangenaam](https://open.spotify.com/album/7fcYzRPTd0fOGxPwbuzBB5) | 3:57 |
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 24 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
 | 25 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 26 | [Even If](https://open.spotify.com/track/3hafu7svrimt7vpensLKie) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Even If](https://open.spotify.com/album/1aEDybLnWMu8VrRIr8op62) | 2:18 |
-| 27 | [Falling](https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Falling](https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn) | 2:36 |
-| 28 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
-| 29 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
-| 30 | [Kyk Op](https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Op](https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT) | 3:26 |
+| 27 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
+| 28 | [Falling](https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Falling](https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn) | 2:36 |
+| 29 | [Kyk Op](https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Op](https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT) | 3:26 |
+| 30 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 31 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
 | 32 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 33 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 42 | [Kondisie](https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Kondisie](https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq) | 3:26 |
 | 43 | [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 |
 | 44 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 |
-| 45 | [Got You Callin'](https://open.spotify.com/track/4NXHnLoAnA0ebrwYXDkawN) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Got You Callin'](https://open.spotify.com/album/1hh15SUh0g5G4rvsOVarYS) | 2:35 |
-| 46 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
+| 45 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
+| 46 | [Got You Callin'](https://open.spotify.com/track/4NXHnLoAnA0ebrwYXDkawN) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Got You Callin'](https://open.spotify.com/album/1hh15SUh0g5G4rvsOVarYS) | 2:35 |
 | 47 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 |
 | 48 | [Twisted](https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Long Live Tonight](https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo) | 4:04 |
 | 49 | [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 |

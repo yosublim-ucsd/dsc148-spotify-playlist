@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,073 likes - 465 songs - 1 day 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,079 likes - 465 songs - 1 day 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 31 | [Hot N Cold](https://open.spotify.com/track/1ulXmqjktxSdrdT1bzc69H) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/1vFFZPioAu0vrJRcGoyGX8) | 3:40 |
 | 32 | [break up with your girlfriend, i'm bored](https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:10 |
 | 33 | [Love Me Harder](https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:56 |
-| 34 | [How Do You Sleep?](https://open.spotify.com/track/34pRqzRiFcIuyRMuuEayzY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:22 |
-| 35 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |
+| 34 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |
+| 35 | [How Do You Sleep?](https://open.spotify.com/track/34pRqzRiFcIuyRMuuEayzY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:22 |
 | 36 | [One More Night](https://open.spotify.com/track/6cpk00i5TxCqSeqNi2HuIe) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:39 |
 | 37 | [I Kissed A Girl](https://open.spotify.com/track/25ZttbpeUKDOm3aghD2oBJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/1vFFZPioAu0vrJRcGoyGX8) | 2:59 |
 | 38 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 |
@@ -474,4 +474,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 464 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 465 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `AblHbAAAAACXD59koc/DYIK+F1krLGma`
+Snapshot ID: `AblNDAAAAACljuUP8QWFSAkX7bseckqy`

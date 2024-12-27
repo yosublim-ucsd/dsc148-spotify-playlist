@@ -4,7 +4,7 @@
 
 > Los hits de ahora en la playlist más grande de México\. Peso Pluma en portada.
 
-708 songs - 1 day 14 hr 15 min
+709 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 | 2022-02-03 | 2022-03-05 |
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-02-24 | 2022-05-13 |
 | [141 \- Versión Banda](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141 \(Versión Banda\)](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-10-27 | 2022-11-25 |
-| [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 | 2024-11-29 |  |
+| [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 | 2024-11-29 | 2024-12-27 |
 | [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-04-14 | 2023-05-05 |
 | [23 \(With Ape Drums\)](https://open.spotify.com/track/1G7vCwBCxeTe8fB0EGMDdq) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Romances](https://open.spotify.com/album/3jnnIq9TS7hOasZlEJsaFB) | 2:47 | 2021-12-09 | 2022-01-14 |
 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 | 2024-04-26 | 2024-08-23 |
@@ -483,6 +483,7 @@
 | [Pienso En Ella](https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pienso En Ella](https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC) | 2:39 | 2024-09-06 | 2024-10-04 |
 | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/album/4JWW3H1HSUA5beQdZ8oj8K) | 2:38 | 2022-04-07 | 2022-04-19 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-22 | 2022-09-09 |
+| [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 | 2024-12-26 |  |
 | [Pixelados](https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:55 | 2024-01-12 | 2024-02-24 |
 | [PIÉNSALO](https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:00 | 2024-08-23 |  |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-03-25 | 2022-05-20 |

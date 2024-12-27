@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 21325,
+  "num_followers": 21332,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAADVfCnY6Q6z6OG027RWwoRp",
+  "snapshot_id": "Z2tLAAAAAAAaGesLEHH3WAszlXySFBEQ",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 225946,
-      "name": "Hot For Preacher",
-      "url": "https://open.spotify.com/track/1UcN0LPyGfmprtp5PlivjG"
+      "duration_ms": 180573,
+      "name": "Blood, Hair, And Eyeballs",
+      "url": "https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 180573,
-      "name": "Blood, Hair, And Eyeballs",
-      "url": "https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns"
+      "duration_ms": 225946,
+      "name": "Hot For Preacher",
+      "url": "https://open.spotify.com/track/1UcN0LPyGfmprtp5PlivjG"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 136160,
-      "name": "Fatally Yours",
-      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
+      "duration_ms": 207973,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 207973,
-      "name": "Continental",
-      "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
+      "duration_ms": 136160,
+      "name": "Fatally Yours",
+      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alkaline Trio",
-        "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 170360,
-      "name": "Goodbye Forever",
-      "url": "https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu"
+      "duration_ms": 237813,
+      "name": "Queen Of Pain",
+      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
+        "name": "The Alkaline Trio",
+        "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 237813,
-      "name": "Queen Of Pain",
-      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
+      "duration_ms": 170360,
+      "name": "Goodbye Forever",
+      "url": "https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,420 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,456 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 58 | [Kids](https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:58 |
 | 59 | [Silenced By The Night](https://open.spotify.com/track/0BhGZmaQ1SET53qGkGvwxD) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Strangeland](https://open.spotify.com/album/6JWc4iAiJ9FjyK0B59ABb4) | 3:16 |
 | 60 | [HOLD ME TIGHT OR DON’T](https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:30 |
-| 61 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
-| 62 | [Whataya Want from Me](https://open.spotify.com/track/0zv9bOC2NSMd3Fw2HgM5Xn) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO) | 3:47 |
+| 61 | [Whataya Want from Me](https://open.spotify.com/track/0zv9bOC2NSMd3Fw2HgM5Xn) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO) | 3:47 |
+| 62 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 63 | [The Last Time](https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Sunsets & Full Moons](https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM) | 3:16 |
 | 64 | [Miracle](https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:26 |
 | 65 | [Carry On](https://open.spotify.com/track/5xZjfKSfTooDP2rcAgjxlH) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:38 |

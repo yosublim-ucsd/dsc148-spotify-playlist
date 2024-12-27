@@ -1,6 +1,6 @@
 {
   "description": "Press play, press start.",
-  "num_followers": 6791478,
+  "num_followers": 6791463,
   "original_name": "Top Gaming Tracks",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-20 17:32:57",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "I Can Do It With a Broken Heart",
-      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
-    },
-    {
-      "added_at": "2024-08-20 17:32:57",
-      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/2u4Yp2ADTKYPwFSBFL4ffa"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 214289,
       "name": "Happier",
       "url": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"
+    },
+    {
+      "added_at": "2024-08-20 17:32:57",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
     },
     {
       "added_at": "2024-08-20 17:32:57",
@@ -783,42 +783,6 @@
     {
       "added_at": "2024-08-20 17:32:57",
       "album": {
-        "name": "Miles On It",
-        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 168355,
-      "name": "Miles On It",
-      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
-    },
-    {
-      "added_at": "2024-08-20 17:32:57",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
-    },
-    {
-      "added_at": "2024-08-20 17:32:57",
-      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
@@ -851,6 +815,42 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "added_at": "2024-08-20 17:32:57",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
+    },
+    {
+      "added_at": "2024-08-20 17:32:57",
+      "album": {
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
       "added_at": "2024-08-20 17:32:57",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-08-20 17:32:57",
       "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "added_at": "2024-08-20 17:32:57",
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
-    },
-    {
-      "added_at": "2024-08-20 17:32:57",
-      "album": {
-        "name": "Whatever She Wants",
-        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "Whatever She Wants",
-      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
       "added_at": "2024-08-20 17:32:57",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-08-20 17:32:57",
       "album": {
-        "name": "euphoria",
-        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 383639,
-      "name": "euphoria",
-      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
-    },
-    {
-      "added_at": "2024-08-20 17:32:57",
-      "album": {
         "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
+    },
+    {
+      "added_at": "2024-08-20 17:32:57",
+      "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
       "added_at": "2024-08-20 17:32:57",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2024-08-20 17:32:57",
       "album": {
+        "name": "FUNKED UP",
+        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        },
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "duration_ms": 115348,
+      "name": "FUNKED UP - SLOWED",
+      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
+      "added_at": "2024-08-20 17:32:57",
+      "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
@@ -1287,22 +1307,6 @@
       "duration_ms": 139300,
       "name": "Push Up - Main Edit",
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
-    },
-    {
-      "added_at": "2024-08-20 17:32:57",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
       "added_at": "2024-08-20 17:32:57",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2024-08-20 17:32:57",
       "album": {
-        "name": "FUNKED UP",
-        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
       },
       "artists": [
         {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 115348,
-      "name": "FUNKED UP - SLOWED",
-      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
       "added_at": "2024-08-20 17:32:57",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-08-20 17:32:57",
       "album": {
+        "name": "Montagem Mysterious Game",
+        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "duration_ms": 103495,
+      "name": "Montagem Mysterious Game",
+      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
+    },
+    {
+      "added_at": "2024-08-20 17:32:57",
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
-    },
-    {
-      "added_at": "2024-08-20 17:32:57",
-      "album": {
-        "name": "Montagem Mysterious Game",
-        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        }
-      ],
-      "duration_ms": 103495,
-      "name": "Montagem Mysterious Game",
-      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
       "added_at": "2024-08-20 17:32:57",

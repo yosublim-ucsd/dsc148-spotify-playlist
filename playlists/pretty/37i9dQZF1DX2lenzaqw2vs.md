@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Arca & Tokischa
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,982 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,986 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 50 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
 | 51 | [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 |
 | 52 | [Pa Tanto](https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Pa Tanto](https://open.spotify.com/album/20ULysRftwowCX4GCySy6f) | 2:49 |
-| 53 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 |
+| 53 | [La Custodia](https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [La Custodia](https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb) | 3:47 |
 | 54 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 |
-| 55 | [La Custodia](https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [La Custodia](https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb) | 3:47 |
+| 55 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 |
 | 56 | [Crimen](https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Crimen](https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo) | 3:07 |
 | 57 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 |
 | 58 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 |

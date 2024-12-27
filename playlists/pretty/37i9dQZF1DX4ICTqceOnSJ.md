@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,103 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,132 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 29 | [Viento de Cara](https://open.spotify.com/track/5sKdpvvNyRJifUmYLNiYys) | [Supersubmarina](https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K) | [Viento de Cara](https://open.spotify.com/album/1H12cM0oy1TMb5snNa040x) | 4:17 |
 | 30 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
 | 31 | [La Noche Eterna](https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:27 |
-| 32 | [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 |
-| 33 | [Inteligencia Dormida](https://open.spotify.com/track/1mMIvrn5k8K6hsjbFgH6fM) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Pedropiedra \(Reedición\)](https://open.spotify.com/album/40Bnb22mry8e8MklWefAFN) | 3:51 |
+| 32 | [Inteligencia Dormida](https://open.spotify.com/track/1mMIvrn5k8K6hsjbFgH6fM) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Pedropiedra \(Reedición\)](https://open.spotify.com/album/40Bnb22mry8e8MklWefAFN) | 3:51 |
+| 33 | [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 |
 | 34 | [To My Love](https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 3:59 |
 | 35 | [Selva Negra](https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Rosa](https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH) | 3:01 |
 | 36 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 78 | [Azúcar del Estero](https://open.spotify.com/track/7Ku6mTfNvQYzDyFt4LBpVC) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Las Crónicas del Viento](https://open.spotify.com/album/3mx0knIvUHGl7OwaCcFb3T) | 3:36 |
 | 79 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
 | 80 | [Vacaciones en el Más Allá](https://open.spotify.com/track/6UbAzavTNvySHWrETLFryF) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Cripta y Vida](https://open.spotify.com/album/2NPjtiiEGnw8KLA9potJqH) | 3:52 |
-| 81 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 |
-| 82 | [La Pibita](https://open.spotify.com/track/5y1fGA0357uOjtoN3iPsnF) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Guandanara](https://open.spotify.com/album/48mgLSOZ2CI3E6FdHg1vWQ) | 4:22 |
+| 81 | [La Pibita](https://open.spotify.com/track/5y1fGA0357uOjtoN3iPsnF) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Guandanara](https://open.spotify.com/album/48mgLSOZ2CI3E6FdHg1vWQ) | 4:22 |
+| 82 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 |
 | 83 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
 | 84 | [Amor Sin Fin](https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Amador](https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0) | 3:13 |
 | 85 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 |

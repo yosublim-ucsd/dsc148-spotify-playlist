@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Sliki.
 
-760 songs - 1 day 12 hr 9 min
+761 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Itsekäs](https://open.spotify.com/track/41G0umo1TZp59OU12kd7W7) | [Rono](https://open.spotify.com/artist/11IszKPzyr7Zbv3XNwfOc4) | [Itsekäs](https://open.spotify.com/album/12IOfaVovRQUQbss3vGWBp) | 1:49 | 2024-03-07 | 2024-03-22 |
 | [Itä\-Helsinki 2](https://open.spotify.com/track/7bqPWQMz4ZdpIuw93Duen8) | [Nupe](https://open.spotify.com/artist/5u0QamnXCuX8MNukIIkkee), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Itä\-Helsinki 2](https://open.spotify.com/album/6nF1jYPvRytpxVdsJRq5Pb) | 3:27 | 2024-02-29 | 2024-03-15 |
 | [jeesus](https://open.spotify.com/track/5BqTedQR0QEN7UkyvEKNeS) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [thank you for all the support](https://open.spotify.com/album/0Lul2mtI4sUKfAEFXWJMSd) | 2:07 | 2024-09-12 |  |
+| [Jeesus](https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Jeesus](https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe) | 1:50 | 2024-12-26 |  |
 | [JOHANNES KASTAJA](https://open.spotify.com/track/75iWVzpdkvnR5ADK3EL4gi) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [NOIDANKEHÄ](https://open.spotify.com/album/7wQUA6wEvkiBriwyfmAIJf) | 2:08 | 2024-10-10 | 2024-12-13 |
 | [Joka puolella](https://open.spotify.com/track/7ML3SbztRWgCWrTnouitHj) | [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z) | [Kaiken Teoria](https://open.spotify.com/album/45zZcxEvcjIBXPmphAEkQf) | 3:23 | 2023-10-12 | 2023-10-27 |
 | [Joku jonka tunsin](https://open.spotify.com/track/1241eeAveOKQYMW94FMNrx) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [\#ULTRA](https://open.spotify.com/album/1A588xJ5eLYTYa1emn00iG) | 2:59 | 2024-06-06 | 2024-08-16 |
@@ -432,7 +433,7 @@
 | [Morsian joka sormelle](https://open.spotify.com/track/0BLCPDBXURc7Ce5epoBOzO) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Morsian joka sormelle](https://open.spotify.com/album/1GDqDbL7oj8xDETYtTu9QC) | 2:33 | 2024-04-25 | 2024-05-10 |
 | [Mowgli](https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Mowgli](https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO) | 2:16 | 2024-07-25 | 2024-08-30 |
 | [Muija on ku kone](https://open.spotify.com/track/4H3tZOuDW6SQsexjO45nYe) | [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Muija on ku kone](https://open.spotify.com/album/18aAtK2ZIO8KXjf1COHs2S) | 2:35 | 2023-11-02 | 2023-12-01 |
-| [Mulle riittää yks](https://open.spotify.com/track/1uo81rXi7lKlT9dI7ZeSyz) | [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D) | [Mulle riittää yks](https://open.spotify.com/album/3b3VdVgdMxspknuFuXJLR3) | 3:31 | 2024-12-12 |  |
+| [Mulle riittää yks](https://open.spotify.com/track/1uo81rXi7lKlT9dI7ZeSyz) | [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D) | [Mulle riittää yks](https://open.spotify.com/album/3b3VdVgdMxspknuFuXJLR3) | 3:31 | 2024-12-12 | 2024-12-27 |
 | [Mun Kengis](https://open.spotify.com/track/7JJxs4WEki6FXWUqgTkPHL) | [Brakston](https://open.spotify.com/artist/77ZjNgQTMhh1PbwnmFzIp9) | [Mun Kengis](https://open.spotify.com/album/5H2uAXqwlbB9Xm5JpDaNKo) | 2:35 | 2023-12-21 | 2024-01-05 |
 | [MURDV](https://open.spotify.com/track/1AWpTnYMAIyuENulfwT0j4) | [MJ](https://open.spotify.com/artist/6DuYuCr5tT6QMfDVjjivcj) | [MURDV](https://open.spotify.com/album/4Ht1Eiy3hAjV1RJ53486Sq) | 2:01 | 2024-03-07 | 2024-04-12 |
 | [Mussukka \- Hugo Soniver Remix](https://open.spotify.com/track/3OEkXzTX8CzrqSKV8QzVCH) | [Hugo Soniver](https://open.spotify.com/artist/3xyLz8SaiijXKUqqS7y7TP), [Vesa Heimo](https://open.spotify.com/artist/0RyalZn9vXsKHJ4qlpX53I) | [Mussukka \(Hugo Soniver Remix\)](https://open.spotify.com/album/4ybjSeqG4816QOGrNjmuIk) | 2:42 | 2023-12-08 | 2023-12-22 |

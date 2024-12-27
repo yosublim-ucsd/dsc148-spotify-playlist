@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,645 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,662 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 13 | [Party of One \(feat\. Sam Smith\)](https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Party of One \(feat\. Sam Smith\)](https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47) | 4:19 |
 | 14 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
 | 15 | [Take Me Home, Country Roads](https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Take Me Home, Country Roads](https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo) | 3:05 |
-| 16 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 |
-| 17 | [Closer To Fine \(From Barbie The Album\)](https://open.spotify.com/track/1v9iJFBaJCxBCdBNdvXeMd) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Catherine Carlile](https://open.spotify.com/artist/6AYTFdGwtMZiuHhmTMO4Ig) | [Closer To Fine \(From Barbie The Album\)](https://open.spotify.com/album/0xmn6GY7CCPi7qYV0sZJ7p) | 5:52 |
+| 16 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 |
+| 17 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 |
 | 18 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
-| 19 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 |
-| 20 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
-| 21 | [Turpentine](https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 2:58 |
+| 19 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
+| 20 | [Turpentine](https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 2:58 |
+| 21 | [Closer To Fine \(From Barbie The Album\)](https://open.spotify.com/track/1v9iJFBaJCxBCdBNdvXeMd) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Catherine Carlile](https://open.spotify.com/artist/6AYTFdGwtMZiuHhmTMO4Ig) | [Closer To Fine \(From Barbie The Album\)](https://open.spotify.com/album/0xmn6GY7CCPi7qYV0sZJ7p) | 5:52 |
 | 22 | [Carried Me With You](https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 3:33 |
 | 23 | [The Eye](https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:31 |
 | 24 | [Mama Werewolf](https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Dear Insecurity \(feat\. Brandi Carlile\)](https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 4:36 |
 | 50 | [The Things I Regret](https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:26 |
 
-Snapshot ID: `Z2n5gAAAAAB7/NV7yLSCVW1p82wAYAkK`
+Snapshot ID: `Z2tLAAAAAACtRFrJ9pzZbM5WtFjnpGmM`

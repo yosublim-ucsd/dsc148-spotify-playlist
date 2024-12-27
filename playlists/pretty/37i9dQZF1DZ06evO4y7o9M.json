@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 821870,
+  "num_followers": 822195,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAC7Yud4jNmTXIhnM095Fiz2",
+  "snapshot_id": "Z2tLAAAAAACfXo2zcd7u69BlzUE2w17q",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 163551,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 166570,
       "name": "EN ALTAVOZ",
       "url": "https://open.spotify.com/track/1EKZmfqveHKe78Isfk07w4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 163551,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
     },
     {
       "added_at": null,
@@ -480,13 +480,13 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 262883,
-      "name": "LA DURANGO",
-      "url": "https://open.spotify.com/track/5jVExEArvISIYu8mamVgfV"
+      "duration_ms": 165634,
+      "name": "ROMPE LA DOMPE",
+      "url": "https://open.spotify.com/track/1uF2sVVCJNWBGSQ2foMWkU"
     },
     {
       "added_at": null,
@@ -560,29 +560,13 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 165634,
-      "name": "ROMPE LA DOMPE",
-      "url": "https://open.spotify.com/track/1uF2sVVCJNWBGSQ2foMWkU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUSICA <3",
-        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 253605,
-      "name": "Psicodelica",
-      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
+      "duration_ms": 262883,
+      "name": "LA DURANGO",
+      "url": "https://open.spotify.com/track/5jVExEArvISIYu8mamVgfV"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
       "duration_ms": 194518,
       "name": "El Tsurito",
       "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSICA <3",
+        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 253605,
+      "name": "Psicodelica",
+      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
     },
     {
       "added_at": null,
@@ -663,22 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONTINGENTE",
-        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 230488,
-      "name": "VETE YA",
-      "url": "https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it"
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "added_at": null,
@@ -699,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
           "name": "Junior H",
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 160897,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+      "duration_ms": 230488,
+      "name": "VETE YA",
+      "url": "https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon Tumbado",
-        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 116455,
-      "name": "Seca Tus Lagrimas",
-      "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Tumbados",
         "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 187352,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corazon Tumbado",
+        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 116455,
+      "name": "Seca Tus Lagrimas",
+      "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 261068,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB"
     }
   ],
   "unique_name": "This Is Junior H",

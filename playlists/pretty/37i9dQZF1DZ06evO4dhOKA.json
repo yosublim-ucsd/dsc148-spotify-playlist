@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 61728,
+  "num_followers": 61749,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAD8oc33hWjuHQNR7jc7KTvf",
+  "snapshot_id": "Z2tLAAAAAABC29Va0eC/2vL1K+lfoi8g",
   "tracks": [
     {
       "added_at": null,
@@ -476,25 +476,9 @@
           "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 234827,
-      "name": "El Rey De Mil Coronas (EN VIVO DESDE EL DOMO CARE)",
-      "url": "https://open.spotify.com/track/2VdAtyS9bdUUfZYV0rePEw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Ojitos a Mi Gusto",
-      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
+      "duration_ms": 201909,
+      "name": "Avi\u00e9ntame (EN VIVO DESDE EL DOMO CARE)",
+      "url": "https://open.spotify.com/track/4kk1USe5mVA2RlGCHY6Iv7"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
       "duration_ms": 232080,
       "name": "Me Refiero A Ti - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
       "url": "https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Ojitos a Mi Gusto",
+      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 201909,
-      "name": "Avi\u00e9ntame (EN VIVO DESDE EL DOMO CARE)",
-      "url": "https://open.spotify.com/track/4kk1USe5mVA2RlGCHY6Iv7"
+      "duration_ms": 234827,
+      "name": "El Rey De Mil Coronas (EN VIVO DESDE EL DOMO CARE)",
+      "url": "https://open.spotify.com/track/2VdAtyS9bdUUfZYV0rePEw"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
+      },
+      "artists": [
+        {
+          "name": "Carlo Mora",
+          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo (En Vivo - M\u00e9xico / 2005)",
         "url": "https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 168880,
       "name": "Que Dios Me Perdone",
       "url": "https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
-      },
-      "artists": [
-        {
-          "name": "Carlo Mora",
-          "url": "https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
     },
     {
       "added_at": null,

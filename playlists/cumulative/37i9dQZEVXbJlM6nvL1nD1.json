@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 170480,
       "name": "AMARGURA",
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
@@ -4076,7 +4076,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 154900,
       "name": "Dan\u00e7alao",
       "url": "https://open.spotify.com/track/4otzdtF1gOT3a9AUIpM7RM"
@@ -4262,7 +4262,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 218701,
       "name": "DEPORTIVO",
       "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
@@ -6138,7 +6138,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 192053,
       "name": "Es Un Secreto",
       "url": "https://open.spotify.com/track/1AddbBdKFz8wdqatGVSsYS"
@@ -6156,7 +6156,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -6400,7 +6400,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -6418,7 +6418,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -7805,6 +7805,24 @@
     },
     {
       "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121526,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
+    },
+    {
+      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -7966,7 +7984,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -8072,7 +8090,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 162000,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
@@ -8112,6 +8130,32 @@
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    {
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "The Fontane Sisters",
+          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+      "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
     },
     {
       "album": {
@@ -9678,7 +9722,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -10166,7 +10210,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
@@ -11486,7 +11530,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 159404,
       "name": "Mi Refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
@@ -11646,7 +11690,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 238666,
       "name": "MIRAME REMIX",
       "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
@@ -12660,7 +12704,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
@@ -14922,7 +14966,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 150927,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/0zNMdrDEs5N0JPQ7RYQZln"
@@ -15216,7 +15260,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
@@ -15605,6 +15649,24 @@
     },
     {
       "album": {
+        "name": "Rodolfo El Reno Y Canciones De Navidad",
+        "url": "https://open.spotify.com/album/1RbeixDQXwUpBtNSmeAS93"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo el Reno Y Musica Navide\u00f1a",
+          "url": "https://open.spotify.com/artist/7dalawerQXU02a0ncSjX7A"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Rodolfo El Reno",
+      "url": "https://open.spotify.com/track/1KS83z2CHzFpbJsnMiOMw9"
+    },
+    {
+      "album": {
         "name": "Rolls-Royce",
         "url": "https://open.spotify.com/album/4oqhWvUVK4EunS0ALx8svu"
       },
@@ -15794,6 +15856,24 @@
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+    },
+    {
+      "album": {
+        "name": "Run Rudolph Run - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155846,
+      "name": "Run Rudolph Run - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
     },
     {
       "album": {
@@ -16096,10 +16176,32 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
+    },
+    {
+      "album": {
+        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
+      },
+      "artists": [
+        {
+          "name": "J. Fred Coots",
+          "url": "https://open.spotify.com/artist/5IBkss8RwasiJY2sj5qEdM"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267600,
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
     },
     {
       "album": {
@@ -16114,7 +16216,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 115893,
       "name": "Santa Claus Lleg\u00f3 a La Ciudad",
       "url": "https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb"
@@ -16890,7 +16992,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -16970,7 +17072,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -19450,7 +19552,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
@@ -19847,6 +19949,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "album": {
         "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
       },
@@ -20098,7 +20218,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 144846,
       "name": "Ya Viene el Ni\u00f1ito",
       "url": "https://open.spotify.com/track/5T4fi19dKCugJ2aq1Z9sp0"

@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293280,
+  "num_followers": 293284,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/6a7qx2yATYvt8hhkGLFPtY"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        },
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        }
+      ],
+      "duration_ms": 202343,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/1R4c8rWEBECx89CoafK6B9"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 190769,
       "name": "P\u00farpura",
       "url": "https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/6a7qx2yATYvt8hhkGLFPtY"
-      },
-      "artists": [
-        {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
-        },
-        {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
-        }
-      ],
-      "duration_ms": 202343,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/1R4c8rWEBECx89CoafK6B9"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -879,30 +879,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Pensando Em N\u00f3s",
-        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Pensando Em N\u00f3s",
-      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Sempre Que Me V\u00ea",
         "url": "https://open.spotify.com/album/0gjyJm3JIFWXueTBg318dI"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 211764,
       "name": "Sempre Que Me V\u00ea",
       "url": "https://open.spotify.com/track/486dXyOiD0WKfEtSzUEWuj"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Pensando Em N\u00f3s",
+        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Pensando Em N\u00f3s",
+      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Sabores",
+        "url": "https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm"
+      },
+      "artists": [
+        {
+          "name": "N\u00fabia",
+          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Sabores",
+      "url": "https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "eu n\u00e3o queria mais nada",
         "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Sabores",
-        "url": "https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm"
-      },
-      "artists": [
-        {
-          "name": "N\u00fabia",
-          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Sabores",
-      "url": "https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Jeito Doce",
-        "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Jeito Doce",
-      "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Naquele Pique",
         "url": "https://open.spotify.com/album/5SWzPdChH478hSmhsKbISn"
       },
@@ -1651,6 +1627,30 @@
       "duration_ms": 190735,
       "name": "Naquele Pique",
       "url": "https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Jeito Doce",
+        "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Jeito Doce",
+      "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Acordo Cedo",
         "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
       },
@@ -1755,22 +1739,18 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "AINDA T\u00d4 NO PROCESSO",
-        "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
       },
       "artists": [
         {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        },
-        {
-          "name": "SEST",
-          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 211647,
-      "name": "AINDA T\u00d4 NO PROCESSO",
-      "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1791,6 +1771,26 @@
       "duration_ms": 115763,
       "name": "Naturalmente",
       "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "AINDA T\u00d4 NO PROCESSO",
+        "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        },
+        {
+          "name": "SEST",
+          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
+        }
+      ],
+      "duration_ms": 211647,
+      "name": "AINDA T\u00d4 NO PROCESSO",
+      "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
     },
     {
       "added_at": "2024-12-20 03:25:46",

@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 666863,
+  "num_followers": 667035,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAADvTWk1C5iiHaN0mCfo7zeL",
+  "snapshot_id": "Z2tLAAAAAADzRjTvF5kVDbo77DJcPeiD",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 251776,
-      "name": "Neon Moon (with Morgan Wallen)",
-      "url": "https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPEAK NOW",
         "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 161052,
       "name": "WHISKEY WHISKEY (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 251776,
+      "name": "Neon Moon (with Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The Weeknd celebrates 25 Billion Club songs!",
+  "description": "All the songs with over a Billions streams on Spotify! Cover: Shaboozey",
   "name": "BILLIONS CLUB",
   "tracks": [
     {
@@ -194,6 +194,24 @@
       "duration_ms": 237300,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
+    },
+    {
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "album": {
@@ -962,6 +980,24 @@
       "duration_ms": 260773,
       "name": "Bad Liar",
       "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
+    },
+    {
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     },
     {
       "album": {
@@ -7214,6 +7250,24 @@
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
+    },
+    {
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
       "album": {

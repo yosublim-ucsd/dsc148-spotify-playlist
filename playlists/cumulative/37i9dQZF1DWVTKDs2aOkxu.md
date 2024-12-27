@@ -2,9 +2,9 @@
 
 ### [The Indie List](https://open.spotify.com/playlist/37i9dQZF1DWVTKDs2aOkxu)
 
-> The best indie music of the moment\. Merry Christmas, please don't call.
+> The best indie music of the moment\. Fat Dog 🙏
 
-294 songs - 17 hr 0 min
+295 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Don't Delete My Number](https://open.spotify.com/track/3e2MjASA9WQrL1pVLLbSwj) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Don't Delete My Number](https://open.spotify.com/album/4YKm31taPYgs8DNJrqJXK7) | 2:55 | 2024-08-29 | 2024-11-01 |
 | [Double](https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Double](https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA) | 3:02 | 2024-06-27 | 2024-09-21 |
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-06-27 | 2024-07-05 |
+| [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2024-12-26 |  |
 | [Driver](https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Driver](https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg) | 4:12 | 2024-09-12 | 2024-11-01 |
 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 | 2024-11-01 |  |
 | [ellipsis](https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [ellipsis](https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ) | 4:03 | 2024-11-08 |  |
@@ -166,7 +167,7 @@
 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 | 2024-08-22 | 2024-11-01 |
 | [Marks To Prove It](https://open.spotify.com/track/5VR7bYgk4TaJ1ZyNScT1sm) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Marks To Prove It](https://open.spotify.com/album/7oHYVWE7EH2WFdZ36N2rEU) | 4:14 | 2024-11-01 | 2024-11-15 |
 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-07-25 | 2024-10-04 |
-| [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 | 2024-12-20 |  |
+| [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 | 2024-12-20 | 2024-12-27 |
 | [Metalhead](https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Big Smile, Black Mire](https://open.spotify.com/album/6DPefrgbEGENBJsewlf58u) | 3:47 | 2024-11-15 |  |
 | [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-27 | 2024-08-16 |
 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 | 2024-06-27 | 2024-07-27 |

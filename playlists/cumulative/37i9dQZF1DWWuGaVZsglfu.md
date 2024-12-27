@@ -4,12 +4,13 @@
 
 > The best tracks from the world of music\. Cover: The Lantis
 
-207 songs - 11 hr 43 min
+209 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-24 | 2024-08-29 |
 | [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 | 2024-06-26 | 2024-08-08 |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-26 |  |
 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-07-31 | 2024-09-05 |
 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 | 2024-06-26 | 2024-07-18 |
 | [Abadi](https://open.spotify.com/track/6iXTMSSD6diBMzSS8JnVbm) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Abadi](https://open.spotify.com/album/3kxlPmmRHWpYYH2xZRoRuX) | 3:52 | 2024-09-25 | 2024-10-17 |
@@ -62,7 +63,7 @@
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-09-25 | 2024-11-07 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 | 2024-11-28 |
 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2024-12-25 |  |
-| [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-06 |  |
+| [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-06 | 2024-12-27 |
 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2024-06-26 |  |
 | [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-24 | 2024-08-15 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-26 | 2024-10-24 |
@@ -101,6 +102,7 @@
 | [Kejutkan Aku](https://open.spotify.com/track/7o5JPZnCRZnEozCrjCQxBk) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Kejutkan Aku](https://open.spotify.com/album/7dT5I0dgGYVA3znPhDO451) | 3:02 | 2024-06-26 | 2024-07-04 |
 | [Kenapa Kembali](https://open.spotify.com/track/47mBOcgbPcABWlskgMbvhn) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [Kenapa Kembali](https://open.spotify.com/album/2hXGoUmZKcnbqSUH5z2GOc) | 3:34 | 2024-08-14 | 2024-09-12 |
 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 | 2024-06-26 | 2024-08-22 |
+| [Kudeta \(From Astro Shaw's "Kahar Kapla High Council"\)](https://open.spotify.com/track/6umkauU8LpyxSBZnfsupA4) | [Eleven Tonight](https://open.spotify.com/artist/2V37vdVydcJ12vTjsTQVZe), [Amir Ahnaf](https://open.spotify.com/artist/2iJlLP7E7S7ueRA0VzgrQF), [Riko Agus](https://open.spotify.com/artist/5nj6Zfl38Dg82VdFTtoK0X) | [Kudeta \(From Astro Shaw's "Kahar Kapla High Council"\)](https://open.spotify.com/album/2TsH6MxGuBg20GOE6JXGTX) | 3:41 | 2024-12-26 |  |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-06-26 |  |
 | [Lemah](https://open.spotify.com/track/6BKEupNTtgSalOJ8g81N9r) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV) | [Lemah](https://open.spotify.com/album/2CqFFabg6MrgFbbRfcBCbW) | 4:04 | 2024-10-23 | 2024-11-21 |
 | [LIKE THAT](https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:48 | 2024-06-26 | 2024-07-11 |
@@ -191,7 +193,7 @@
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-02 | 2024-11-13 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2024-06-26 | 2024-07-11 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-06-26 | 2024-10-10 |
-| [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-14 |  |
+| [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-14 | 2024-12-27 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 |  |
 | [Untuk Semua Jiwa \- From "Soloz Game Of Life"](https://open.spotify.com/track/4LYQCHV8eg8AGhk5Ocpp44) | [Hun Haqeem](https://open.spotify.com/artist/74IOwiLT4aMH8ct28JgaL4), [Noki](https://open.spotify.com/artist/3O7w6MOsgE4B0oAUcE9RlE) | [Untuk Semua Jiwa \(From "Soloz Game Of Life"\)](https://open.spotify.com/album/2dHAGpXIRCZa5DaNeURBmW) | 3:23 | 2024-12-18 |  |
 | [Untungnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:02 | 2024-09-04 |  |

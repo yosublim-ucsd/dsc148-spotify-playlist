@@ -1,6 +1,6 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1405667,
+  "num_followers": 1406189,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Mrs Magic",
         "url": "https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 208500,
       "name": "Mrs Magic",
       "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 345186,
       "name": "Veridis Quo",
       "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Superclean, Vol. I",
         "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 170893,
       "name": "Only in My Dreams",
       "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
     },
     {
-      "added_at": "2024-05-31 05:00:00",
-      "album": {
-        "name": "360",
-        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
-    },
-    {
       "added_at": "2024-05-22 11:00:00",
       "album": {
         "name": "The Last Goodbye",
@@ -1635,6 +1619,22 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2024-05-31 05:00:00",
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
       "added_at": "2024-05-22 11:00:00",

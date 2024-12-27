@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=iMXNw6ajR7CLOUWYr1j2YQ>Malcolm Rue</a>",
-  "num_followers": 11878,
+  "num_followers": 11887,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzwwAAAAD7KkDfHuf6T4mK3BdEthpc",
+  "snapshot_id": "Z23uRwAAAADlO9WU5dppTApE6mFRTVZU",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -409,6 +409,26 @@
       "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
     },
     {
+      "added_at": "2024-08-30 00:01:00",
+      "album": {
+        "name": "Yes Sir",
+        "url": "https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
+    },
+    {
       "added_at": "2024-09-06 00:01:00",
       "album": {
         "name": "YHWH (Yahweh)",
@@ -433,26 +453,6 @@
       "url": "https://open.spotify.com/track/5Qak7TNrNrytzk2cRmRv89"
     },
     {
-      "added_at": "2024-08-30 00:01:00",
-      "album": {
-        "name": "Yes Sir",
-        "url": "https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Yes Sir",
-      "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
-    },
-    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Na God I Dey Praise (Craze)",
@@ -467,26 +467,6 @@
       "duration_ms": 218644,
       "name": "Na God I Dey Praise (Craze)",
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Heart of a Human",
-        "url": "https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 149566,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -511,6 +491,26 @@
       "duration_ms": 160500,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Heart of a Human",
+        "url": "https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 149566,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -589,6 +589,26 @@
       "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
     },
     {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Good God II",
+        "url": "https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 181710,
+      "name": "Good God II",
+      "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
+    },
+    {
       "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "I'm Ready",
@@ -625,22 +645,6 @@
       "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
     },
     {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "El-Roi",
-        "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 224070,
-      "name": "El-Roi",
-      "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
-    },
-    {
       "added_at": "2024-10-25 00:01:00",
       "album": {
         "name": "Prayer",
@@ -657,6 +661,42 @@
       "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
     },
     {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "El-Roi",
+        "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 224070,
+      "name": "El-Roi",
+      "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 170118,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Anointing",
@@ -671,26 +711,6 @@
       "duration_ms": 153103,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Good God II",
-        "url": "https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 181710,
-      "name": "Good God II",
-      "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -713,22 +733,6 @@
       "url": "https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw"
     },
     {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
-        "name": "after all these years",
-        "url": "https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 268365,
-      "name": "After All These Years",
-      "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
-    },
-    {
       "added_at": "2024-06-14 00:01:00",
       "album": {
         "name": "Retro Worship",
@@ -743,6 +747,22 @@
       "duration_ms": 172821,
       "name": "Wonderful Merciful Saviour",
       "url": "https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "after all these years",
+        "url": "https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 268365,
+      "name": "After All These Years",
+      "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -801,6 +821,22 @@
       "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
     },
     {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+    },
+    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "Higher",
@@ -819,58 +855,6 @@
       "duration_ms": 162223,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 170118,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -913,20 +897,20 @@
       "url": "https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ"
+        "name": "iZono Zami",
+        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
       },
       "artists": [
         {
-          "name": "K-Medley",
-          "url": "https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6"
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
         }
       ],
-      "duration_ms": 679436,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf"
+      "duration_ms": 319334,
+      "name": "iZono Zami",
+      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
     },
     {
       "added_at": "2024-10-04 00:01:00",
@@ -969,40 +953,52 @@
       "url": "https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
+      "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "iZono Zami",
-        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
       },
       "artists": [
         {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 319334,
-      "name": "iZono Zami",
-      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
-      "added_at": "2024-05-24 00:01:00",
+      "added_at": "2024-11-08 00:01:00",
       "album": {
-        "name": "Agb\u00e1ra \u1eccl\u1ecd\u0301run P\u1ecd\u0300 (Live)",
-        "url": "https://open.spotify.com/album/0E0Nu2k6iUQhAQXYxDXs2B"
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ"
       },
       "artists": [
         {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Yetunde Are",
-          "url": "https://open.spotify.com/artist/4MSflz0Vh6ezIXyfnwwnEh"
+          "name": "K-Medley",
+          "url": "https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6"
         }
       ],
-      "duration_ms": 376048,
-      "name": "Agb\u00e1ra \u1eccl\u1ecd\u0301run P\u1ecd\u0300 (Live)",
-      "url": "https://open.spotify.com/track/6RatjnXFpxZJUIm4GJh124"
+      "duration_ms": 679436,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf"
+    },
+    {
+      "added_at": "2024-09-06 00:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "duration_ms": 165510,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7"
     }
   ],
   "unique_name": "Redeemed",

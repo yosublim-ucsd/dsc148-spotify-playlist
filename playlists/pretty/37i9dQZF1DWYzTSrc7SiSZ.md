@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,429 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,415 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,16 +96,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 86 | [5 letras, 2 palabras](https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Lo que escribí mientras no estabas :\)](https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc) | 2:32 |
 | 87 | [Déjame Decir Te Quiero](https://open.spotify.com/track/3ZUtWP2fCW6WptxdsbaOTi) | [David Velasco](https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Déjame Decir Te Quiero](https://open.spotify.com/album/3BxYz7JYPTS8LIIWkTvdhF) | 3:05 |
 | 88 | [WADGYMAR](https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX) | [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [WADGYMAR](https://open.spotify.com/album/5DT4QkZPyAjo5s2f1Rtz4p) | 2:19 |
-| 89 | [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 |
-| 90 | [Escápate](https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4) | [Malxs](https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY) | [Escápate](https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ) | 2:52 |
+| 89 | [Escápate](https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4) | [Malxs](https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY) | [Escápate](https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ) | 2:52 |
+| 90 | [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 |
 | 91 | [superman](https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 1:33 |
 | 92 | [No Eres Tú, Soy Yo](https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Confíen En Mí](https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy) | 1:48 |
 | 93 | [Respirar](https://open.spotify.com/track/3zqFGAAZScGyrsiMuYtMOi) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Respirar](https://open.spotify.com/album/1Fyv3RDkDtxR7UrF7zXQIw) | 2:47 |
 | 94 | [Puente](https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:00 |
 | 95 | [Knock Out](https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Escorpio](https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO) | 2:58 |
 | 96 | [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 |
-| 97 | [no estás](https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [no estás](https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc) | 2:44 |
-| 98 | [Justrylove \(Chill&Go Remix\)](https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Justrylove \(Chill&Go Remix\)](https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD) | 3:12 |
+| 97 | [Justrylove \(Chill&Go Remix\)](https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Justrylove \(Chill&Go Remix\)](https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD) | 3:12 |
+| 98 | [no estás](https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [no estás](https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc) | 2:44 |
 | 99 | [robusta](https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe) | [iced latte](https://open.spotify.com/artist/5WT2j29ajCAxsK10dqksg2) | [robusta](https://open.spotify.com/album/04UNh2Lb7c5RYDcQMEe7dP) | 2:18 |
 | 100 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 2:45 |
 

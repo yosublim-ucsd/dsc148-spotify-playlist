@@ -1,63 +1,31 @@
 {
-  "description": "Pogo Car Crash Control au top des meilleurs morceaux rock du moment.",
-  "num_followers": 420378,
+  "description": "Last Train au top des meilleurs morceaux rock du moment.",
+  "num_followers": 420390,
   "original_name": "Top of the Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SllAAAAABATZvXbv4bfjLI+iKtpti5",
+  "snapshot_id": "Z23gCQAAAABQ6UEnQEUr2Wg7oCUdwaWT",
   "tracks": [
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
-        "name": "Don't Get Sore",
-        "url": "https://open.spotify.com/album/2le9pHuJRyM8ThCXq8zvHj"
+        "name": "The Plan",
+        "url": "https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb"
       },
       "artists": [
         {
-          "name": "Pogo Car Crash Control",
-          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Don't Get Sore",
-      "url": "https://open.spotify.com/track/0CGj7mSX61vfaU3kTAhmAi"
+      "duration_ms": 173866,
+      "name": "The Plan",
+      "url": "https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Hell You Call A Dream",
-      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224310,
-      "name": "Bobby Sox",
-      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
@@ -73,7 +41,55 @@
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Hell You Call A Dream",
+      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Drummer",
+        "url": "https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp"
+      },
+      "artists": [
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        }
+      ],
+      "duration_ms": 212536,
+      "name": "Drummer",
+      "url": "https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224310,
+      "name": "Bobby Sox",
+      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Starburster",
         "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
@@ -89,23 +105,55 @@
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
-        "name": "Resign (2024)",
-        "url": "https://open.spotify.com/album/6iTaNALXTi4xAtVPw2mOjS"
+        "name": "Don't Get Sore",
+        "url": "https://open.spotify.com/album/2le9pHuJRyM8ThCXq8zvHj"
       },
       "artists": [
         {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+          "name": "Pogo Car Crash Control",
+          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Resign - 2024",
-      "url": "https://open.spotify.com/track/5cEs1Gf7xQaV6IzPbLhMaz"
+      "duration_ms": 182000,
+      "name": "Don't Get Sore",
+      "url": "https://open.spotify.com/track/0CGj7mSX61vfaU3kTAhmAi"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Ok, But This Is The Last Time",
+      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Meltdown",
         "url": "https://open.spotify.com/album/74U9neD1UIy0rz9SzZ4nLh"
@@ -121,7 +169,103 @@
       "url": "https://open.spotify.com/track/73t2JzLWQd8NREbzYRLjvd"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Long Gone / Numb To What Is Real",
+        "url": "https://open.spotify.com/album/0g2f9LqOKNbRB0vDcHf6P9"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "Numb To What Is Real",
+      "url": "https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 242662,
+      "name": "YOUtopia",
+      "url": "https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 207236,
+      "name": "M Television",
+      "url": "https://open.spotify.com/track/0F2d4rttCd24RQ0CA5enHl"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "I Loved Everyone",
+        "url": "https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "duration_ms": 320016,
+      "name": "I Loved Everyone",
+      "url": "https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Who Goes There",
+        "url": "https://open.spotify.com/album/3nF1aawj6u5mpFRe1qc4jA"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 208623,
+      "name": "Who Goes There",
+      "url": "https://open.spotify.com/track/6jUjGdh2prOWyI0RlU5Z9B"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/2ReyuI7yGDSP85dziq5UMM"
+      },
+      "artists": [
+        {
+          "name": "OVERSIZE",
+          "url": "https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Vital Signs",
+      "url": "https://open.spotify.com/track/1cIZ4cjqppvYgedZQEZQgP"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Thanks for the Noise",
         "url": "https://open.spotify.com/album/5ypPwi6yhfMZ6wEhgX5aV3"
@@ -137,55 +281,7 @@
       "url": "https://open.spotify.com/track/5wzOg8ba8q6g167QNepcZX"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 203264,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Le chant des cygnes",
-        "url": "https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Le chant des cygnes - Single Version",
-      "url": "https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/4BMbtwN0UPewlUuw8Qyr8y"
-      },
-      "artists": [
-        {
-          "name": "Tip Stevens",
-          "url": "https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd"
-        }
-      ],
-      "duration_ms": 326926,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/46zbqzxMb3dzh4f0JZ3T26"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "ONE MORE TIME... PART-2",
         "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
@@ -201,7 +297,71 @@
       "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Resign (2024)",
+        "url": "https://open.spotify.com/album/6iTaNALXTi4xAtVPw2mOjS"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Resign - 2024",
+      "url": "https://open.spotify.com/track/5cEs1Gf7xQaV6IzPbLhMaz"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 203264,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Le chant des cygnes",
+        "url": "https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Le chant des cygnes - Single Version",
+      "url": "https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/4BMbtwN0UPewlUuw8Qyr8y"
+      },
+      "artists": [
+        {
+          "name": "Tip Stevens",
+          "url": "https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd"
+        }
+      ],
+      "duration_ms": 326926,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/46zbqzxMb3dzh4f0JZ3T26"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Plasticine",
         "url": "https://open.spotify.com/album/7eE7nV62AkWNOtWBHnxeCM"
@@ -217,7 +377,7 @@
       "url": "https://open.spotify.com/track/6OKWc4dJQ4qBNSdMf0Yzbm"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
@@ -233,7 +393,7 @@
       "url": "https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Where Does The Light Get In?",
         "url": "https://open.spotify.com/album/5iN0xqyvImRpLehFSWZhbx"
@@ -249,7 +409,7 @@
       "url": "https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "La fiesta",
         "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
@@ -265,7 +425,7 @@
       "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
@@ -285,7 +445,7 @@
       "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ"
@@ -301,7 +461,7 @@
       "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "HURT (feat. The Warning)",
         "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
@@ -321,23 +481,7 @@
       "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 186831,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "NOSE BLEED",
         "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
@@ -357,7 +501,7 @@
       "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Searching for Tomorrow",
         "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
@@ -373,7 +517,7 @@
       "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "I Don't Believe You",
         "url": "https://open.spotify.com/album/1PA7AiY07STmsCGVKCIutl"
@@ -389,7 +533,7 @@
       "url": "https://open.spotify.com/track/2UE7icsfsSdhqI5IEugp6y"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Danse Animale",
         "url": "https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH"
@@ -405,7 +549,7 @@
       "url": "https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "NO",
         "url": "https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc"
@@ -421,23 +565,7 @@
       "url": "https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Ok, But This Is The Last Time",
-      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Come On Outside",
         "url": "https://open.spotify.com/album/7nUn7PGh1RKgBbE59TGrT1"
@@ -453,39 +581,7 @@
       "url": "https://open.spotify.com/track/6My4sJdcXQoTY4ThZdDLZh"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "The Plan",
-        "url": "https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb"
-      },
-      "artists": [
-        {
-          "name": "Last Train",
-          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "The Plan",
-      "url": "https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Long Gone / Numb To What Is Real",
-        "url": "https://open.spotify.com/album/0g2f9LqOKNbRB0vDcHf6P9"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "Numb To What Is Real",
-      "url": "https://open.spotify.com/track/6PDygXdsETLyRlyVAp656O"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ"
@@ -501,7 +597,7 @@
       "url": "https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
@@ -517,7 +613,7 @@
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Your House",
         "url": "https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami"
@@ -533,7 +629,7 @@
       "url": "https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "STRIPED",
         "url": "https://open.spotify.com/album/5A9fAtiSAGSBhceqyPsMgS"
@@ -549,7 +645,7 @@
       "url": "https://open.spotify.com/track/2ng6wM23CTcfDygZjKqJ1T"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Vices",
         "url": "https://open.spotify.com/album/721xgb2DpiQbycWZsicBLL"
@@ -565,7 +661,7 @@
       "url": "https://open.spotify.com/track/0nH27MHmWfVe3RFI9ADq9k"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Rock N Roller",
         "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
@@ -581,7 +677,7 @@
       "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "One Last Dance (From \"Venom: The Last Dance\")",
         "url": "https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz"
@@ -605,7 +701,7 @@
       "url": "https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "20/20 Vision",
         "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
@@ -621,39 +717,7 @@
       "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Drummer",
-        "url": "https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp"
-      },
-      "artists": [
-        {
-          "name": "Storm Orchestra",
-          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
-        }
-      ],
-      "duration_ms": 212536,
-      "name": "Drummer",
-      "url": "https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 242662,
-      "name": "YOUtopia",
-      "url": "https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Kill Box",
         "url": "https://open.spotify.com/album/3gIbGJG1DgL319wNk1ZTpL"
@@ -669,119 +733,7 @@
       "url": "https://open.spotify.com/track/4PnC5Xl61850mV54pTG2hH"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Can We Please Have Fun",
-        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 207236,
-      "name": "M Television",
-      "url": "https://open.spotify.com/track/0F2d4rttCd24RQ0CA5enHl"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "I Loved Everyone",
-        "url": "https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85"
-      },
-      "artists": [
-        {
-          "name": "Superbloom",
-          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
-        }
-      ],
-      "duration_ms": 320016,
-      "name": "I Loved Everyone",
-      "url": "https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Who Goes There",
-        "url": "https://open.spotify.com/album/3nF1aawj6u5mpFRe1qc4jA"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 208623,
-      "name": "Who Goes There",
-      "url": "https://open.spotify.com/track/6jUjGdh2prOWyI0RlU5Z9B"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Stone Spit",
-        "url": "https://open.spotify.com/album/7uuV5NX1TRaPUBjERZbkho"
-      },
-      "artists": [
-        {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
-        }
-      ],
-      "duration_ms": 191594,
-      "name": "Stone Spit",
-      "url": "https://open.spotify.com/track/4Fug50saRo6YNr2AGT14k1"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/2ReyuI7yGDSP85dziq5UMM"
-      },
-      "artists": [
-        {
-          "name": "OVERSIZE",
-          "url": "https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Vital Signs",
-      "url": "https://open.spotify.com/track/1cIZ4cjqppvYgedZQEZQgP"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Saccharine Scream",
-        "url": "https://open.spotify.com/album/6qpGTCVquQEwmI5ewmwmZ7"
-      },
-      "artists": [
-        {
-          "name": "Fake Eyes",
-          "url": "https://open.spotify.com/artist/59Ui4tw8UnaMQ5XEBHIbSk"
-        }
-      ],
-      "duration_ms": 299946,
-      "name": "Saccharine Scream",
-      "url": "https://open.spotify.com/track/0T8jNlfiPkPhIoJXlUAdy3"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Cartoon Darkness",
         "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
@@ -797,7 +749,23 @@
       "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA"
+      },
+      "artists": [
+        {
+          "name": "Flycatcher",
+          "url": "https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn"
+        }
+      ],
+      "duration_ms": 176981,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
       "album": {
         "name": "Over The Fence",
         "url": "https://open.spotify.com/album/6H0jdjpgWJT8exAQXOBqOv"
@@ -813,20 +781,52 @@
       "url": "https://open.spotify.com/track/71s7H5ny1NXXsOhpfRNhpI"
     },
     {
-      "added_at": "2024-12-19 23:00:36",
+      "added_at": "2024-12-26 23:00:25",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA"
+        "name": "Saccharine Scream",
+        "url": "https://open.spotify.com/album/6qpGTCVquQEwmI5ewmwmZ7"
       },
       "artists": [
         {
-          "name": "Flycatcher",
-          "url": "https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn"
+          "name": "Fake Eyes",
+          "url": "https://open.spotify.com/artist/59Ui4tw8UnaMQ5XEBHIbSk"
         }
       ],
-      "duration_ms": 176981,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
+      "duration_ms": 299946,
+      "name": "Saccharine Scream",
+      "url": "https://open.spotify.com/track/0T8jNlfiPkPhIoJXlUAdy3"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD"
+    },
+    {
+      "added_at": "2024-12-26 23:00:25",
+      "album": {
+        "name": "Stone Spit",
+        "url": "https://open.spotify.com/album/7uuV5NX1TRaPUBjERZbkho"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "duration_ms": 191594,
+      "name": "Stone Spit",
+      "url": "https://open.spotify.com/track/4Fug50saRo6YNr2AGT14k1"
     }
   ],
   "unique_name": "Top of the Rock",

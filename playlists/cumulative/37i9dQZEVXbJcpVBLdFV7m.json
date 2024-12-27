@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -7554,7 +7554,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 181346,
       "name": "Italy Forma",
       "url": "https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY"
@@ -9130,7 +9130,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -9160,7 +9160,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -15126,7 +15126,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
@@ -20215,6 +20215,36 @@
     },
     {
       "album": {
+        "name": "\u041d\u044f'\u0430 \u043f\u0440\u043e\u0431\u043b\u0435\u043c",
+        "url": "https://open.spotify.com/album/6bovJPMa0uJJy3RMZN8ZKg"
+      },
+      "artists": [
+        {
+          "name": "Tedi Aleksandrova",
+          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
+        },
+        {
+          "name": "\u0414\u0436\u043e\u0440\u0434\u0430\u043d",
+          "url": "https://open.spotify.com/artist/0U7NrIK90OOUHPFdUbCNyN"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/3zwtzjFSBvjdmuk2D0bEza"
+        },
+        {
+          "name": "\u0421\u0438\u043b\u0432\u044a\u0440",
+          "url": "https://open.spotify.com/artist/3BmitniBPpQIVFPPzU2lwB"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "\u041a\u043e\u043b\u0435\u0434\u043d\u0438 \u0436\u0435\u043b\u0430\u043d\u0438\u044f",
+      "url": "https://open.spotify.com/track/10nwfhOd7RxY1S2P805yaN"
+    },
+    {
+      "album": {
         "name": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u0435",
         "url": "https://open.spotify.com/album/4o3sYDXhSvHcXvpEyF4FJp"
       },
@@ -20801,6 +20831,32 @@
     },
     {
       "album": {
+        "name": "\u041e \u043c\u043e\u0435\u0439 \u043b\u044e\u0431\u0432\u0438",
+        "url": "https://open.spotify.com/album/2ozK2VQLvCKTEh4OEU3oXQ"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u043e\u0442 \u0411\u0430\u043b\u0443",
+          "url": "https://open.spotify.com/artist/3BRq3Gn5NQ08FKcQUilil9"
+        },
+        {
+          "name": "Santiz",
+          "url": "https://open.spotify.com/artist/2lWtzXiv5ho1HaBfZiNWQV"
+        },
+        {
+          "name": "QB",
+          "url": "https://open.spotify.com/artist/782x6ow7cusrnvfBSvfgfb"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195505,
+      "name": "\u041e \u043c\u043e\u0435\u0439 \u043b\u044e\u0431\u0432\u0438",
+      "url": "https://open.spotify.com/track/5AeVHI8Ch7irMbODMiObp2"
+    },
+    {
+      "album": {
         "name": "\u041e\u0431\u043d\u0438\u043c\u0430\u044e - \u0442\u0430\u044e",
         "url": "https://open.spotify.com/album/79r9RJad3dJxRaRAhxpZ5B"
       },
@@ -20816,7 +20872,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 165903,
       "name": "\u041e\u0431\u043d\u0438\u043c\u0430\u044e - \u0442\u0430\u044e",
       "url": "https://open.spotify.com/track/0T6gHBm5WfSm0YwvzsXWrm"

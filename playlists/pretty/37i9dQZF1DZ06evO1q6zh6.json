@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 171823,
+  "num_followers": 171855,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAACSTAfw+0POG9z6e0K4PxCC",
+  "snapshot_id": "Z2tLAAAAAABKeG0VDFZaFE+VqdX47scm",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 381067,
+      "name": "Invincible Shield",
+      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Grinder",
-      "url": "https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Machine",
         "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 160866,
       "name": "Hell Bent for Leather",
       "url": "https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Grinder",
+      "url": "https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf"
     },
     {
       "added_at": null,
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 381067,
-      "name": "Invincible Shield",
-      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
+      "duration_ms": 286507,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/4dRPv5zarv9iZ3exYT739x"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
       "duration_ms": 203533,
       "name": "Diamonds and Rust",
       "url": "https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 286507,
-      "name": "Devil in Disguise",
-      "url": "https://open.spotify.com/track/4dRPv5zarv9iZ3exYT739x"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 264360,
-      "name": "Freewheel Burning",
-      "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
+      "duration_ms": 287733,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 287733,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
+      "duration_ms": 264360,
+      "name": "Freewheel Burning",
+      "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
     },
     {
       "added_at": null,

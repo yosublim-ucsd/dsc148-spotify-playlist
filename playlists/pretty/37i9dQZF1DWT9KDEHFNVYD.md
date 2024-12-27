@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,173 likes - 100 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,177 likes - 100 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 66 | [Pass The Hatchet, I Think I'm Goodkind](https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Am Not Afraid Of You And I Will Beat Your Ass](https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL) | 10:46 |
 | 67 | [Cassettesingle](https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 6:31 |
 | 68 | [Mother Sky \(from Deep End\)](https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Anthology \(Remastered Version\)](https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH) | 6:36 |
-| 69 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
-| 70 | [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 |
+| 69 | [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 |
+| 70 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
 | 71 | [Ecdysis!](https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Ecdysis!](https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly) | 6:29 |
 | 72 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
 | 73 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |

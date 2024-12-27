@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 
 > This is Jão\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,774 likes - 37 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,789 likes - 37 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mal](https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Mal](https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7) | 2:46 |
-| 2 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 |
+| 1 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 |
+| 2 | [Mal](https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Mal](https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7) | 2:46 |
 | 3 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 |
 | 4 | [O Triste É Que Eu Te Amo](https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:32 |
 | 5 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 |
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 15 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Coisas da Geração](https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k) | 3:00 |
 | 16 | [Acidente](https://open.spotify.com/track/0soeEPl0HwEmuC0LNQ1dSp) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:06 |
 | 17 | [Julho](https://open.spotify.com/track/6vOdrnuWDwm6lKtuienvzt) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:07 |
-| 18 | [Doce](https://open.spotify.com/track/0U2PbvCX6MHp72tqiaCPSS) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:15 |
+| 18 | [Coringa](https://open.spotify.com/track/5j3p2WnU8ha4K4ybaTZ4Hx) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:07 |
 | 19 | [AMOR PIRATA](https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [AMOR PIRATA](https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm) | 2:52 |
 | 20 | [Supernova](https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:01 |
 | 21 | [Lábia](https://open.spotify.com/track/015fd1R17Z7S1FeU5H2V3I) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:51 |
-| 22 | [Coringa](https://open.spotify.com/track/5j3p2WnU8ha4K4ybaTZ4Hx) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:07 |
+| 22 | [Doce](https://open.spotify.com/track/0U2PbvCX6MHp72tqiaCPSS) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:15 |
 | 23 | [A Rua](https://open.spotify.com/track/2OKEIwfQhf2a6lJuR3aMXJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:36 |
 | 24 | [Locadora \(Versão Estendida\)](https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 4:38 |
 | 25 | [A Última Noite](https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 4:15 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 36 | [Eu Quero Ser Como Você](https://open.spotify.com/track/3XbqMexOs4oiE9n6ATZ35K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:09 |
 | 37 | [Triste Pra Sempre](https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 2:59 |
 
-Snapshot ID: `Z2n5gAAAAAB+JFTsBXWttdnsSfTZnSZS`
+Snapshot ID: `Z2tLAAAAAAAIwziuOJmNtzpDxsAG2hHh`

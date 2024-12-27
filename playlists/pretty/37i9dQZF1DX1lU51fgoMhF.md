@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: KISS OF LIFE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,833 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,894 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 94 | [Dynamite](https://open.spotify.com/track/5aHwYjiSGgJAxy10mBMlDT) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/1aAjA5rYVUh1JhVIafOmbQ) | 3:19 |
 | 95 | [Baby](https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Baby](https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO) | 3:09 |
 | 96 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 |
-| 97 | [Neverland](https://open.spotify.com/track/4bUOvMzcR9G6qE3qqIMgmd) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Romance in the House \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4JmbCcuAGJm10DtWJRUMrY) | 2:55 |
-| 98 | [Why Don’t You Know](https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:18 |
+| 97 | [Why Don’t You Know](https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:18 |
+| 98 | [Neverland](https://open.spotify.com/track/4bUOvMzcR9G6qE3qqIMgmd) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Romance in the House \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4JmbCcuAGJm10DtWJRUMrY) | 2:55 |
 | 99 | [MAMMA MIA](https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 4th Mini Album \[ MAMMA MIA! \]](https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV) | 3:24 |
 | 100 | [After LIKE](https://open.spotify.com/track/6CV6j2xz54thzlrWML3kAW) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb) | 2:56 |
 

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Tony Boy in cover della più grande playlist in Italia! 🏆
+> Marracash in cover della più grande playlist in Italia! 🏆
 
 129 songs - 6 hr 34 min
 

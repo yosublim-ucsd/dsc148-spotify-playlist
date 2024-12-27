@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 253301,
       "name": "anteeksi demo - s\u00e4tkynukkekoti (live)",
       "url": "https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL"
@@ -1632,6 +1632,32 @@
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6se6rBdCnWt8kyhqbNfuWZ"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4N",
+          "url": "https://open.spotify.com/artist/3dAR6u0DLAjSCPCk1oeDiK"
+        },
+        {
+          "name": "YSI",
+          "url": "https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj"
+        },
+        {
+          "name": "1017 ALYX 9SM",
+          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/2l2fds3LKVxSxQNEmM4d47"
     },
     {
       "album": {
@@ -2952,7 +2978,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 165079,
       "name": "Eurostar",
       "url": "https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve"
@@ -5217,6 +5243,32 @@
     },
     {
       "album": {
+        "name": "Jeesus",
+        "url": "https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe"
+      },
+      "artists": [
+        {
+          "name": "koira",
+          "url": "https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        },
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110810,
+      "name": "Jeesus",
+      "url": "https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R"
+    },
+    {
+      "album": {
         "name": "Jocelyn",
         "url": "https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT"
       },
@@ -7010,7 +7062,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 202560,
       "name": "Mee jo",
       "url": "https://open.spotify.com/track/4YkYQAFfd46Xti7X6o5HXj"
@@ -8222,6 +8274,46 @@
       "duration_ms": 172459,
       "name": "Nyt tai ei koskaan",
       "url": "https://open.spotify.com/track/78VmGhwDuQ3QVa2egBjmvB"
+    },
+    {
+      "album": {
+        "name": "N\u00e4ihin hommiin ei synnyt\u00e4",
+        "url": "https://open.spotify.com/album/1fgrqR1FWrPEhiDatGo1gL"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "N\u00e4ihin hommiin ei synnyt\u00e4",
+      "url": "https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR"
+    },
+    {
+      "album": {
+        "name": "Odota Remix",
+        "url": "https://open.spotify.com/album/5ozoM9n1NSTZk6IPHwtnYe"
+      },
+      "artists": [
+        {
+          "name": "Aikakone",
+          "url": "https://open.spotify.com/artist/0NAdOnNnbIceBrlIVgNSxv"
+        },
+        {
+          "name": "niinja",
+          "url": "https://open.spotify.com/artist/1WU701LQ9Ox2byHTHa1aM7"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181308,
+      "name": "Odota Remix",
+      "url": "https://open.spotify.com/track/2aWWSkiJxApWZoQolFb9kq"
     },
     {
       "album": {
@@ -12726,7 +12818,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 171731,
       "name": "Weekend Boy",
       "url": "https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA"

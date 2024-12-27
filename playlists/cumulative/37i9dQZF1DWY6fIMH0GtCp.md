@@ -4,13 +4,14 @@
 
 > This Hanukkah playlist features all the classics and the funny favorites.
 
-71 songs - 3 hr 49 min
+72 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(When Is\) Hanukkah This Year?](https://open.spotify.com/track/3VMneQTBcd1eY2vgucn5tQ) | [Mêlée](https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 2:33 | 2023-12-07 |  |
 | [8 Days \(Of Hannukah\)](https://open.spotify.com/track/4062PAj5KS0FpoCyx6tFPC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T) | 3:42 | 2023-12-07 | 2024-04-19 |
 | [8 Days of Hannukah](https://open.spotify.com/track/5mEZnn9CgZifo7kL4Gpzxu) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/1wvM0On3hTkvoQVVdodNzk) | 3:42 | 2023-12-07 |  |
+| [8 LIGHTS](https://open.spotify.com/track/4edpCnGBYraq49mjm2JVfF) | [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF), [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9) | [8 LIGHTS](https://open.spotify.com/album/5rLAJNMsE3jeGmYfQQ1puk) | 2:53 | 2024-12-26 |  |
 | [A Wicked Chanukah](https://open.spotify.com/track/0tBg0f183GHl1BecYqfk1D) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [A Wicked Chanukah](https://open.spotify.com/album/5zSYE8VuuxuFBvfvpi31hB) | 4:32 | 2024-12-23 |  |
 | [Adir Adirim \(Featuring Victoria Hanna\)](https://open.spotify.com/track/3qWfZvVV4ScYAkNmjiXBxY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Victoria Hanna](https://open.spotify.com/artist/5nVeL2VpRWBOmH5oN8nuqv) | [Hip Hop Hanukkah: The Best of Jewish Rap](https://open.spotify.com/album/4lxyqzQC1HdYjf8nGagnyG) | 5:19 | 2023-12-07 |  |
 | [Applesauce vs\. Sour Cream](https://open.spotify.com/track/60qRopPYpvlT60VyvZ73OQ) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl) | 2:10 | 2023-12-07 | 2024-04-19 |

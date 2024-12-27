@@ -4,7 +4,7 @@
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 9 min
+79 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Promesa](https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Gárgolas Forever](https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO) | 3:26 | 2024-01-19 |  |
 | [Que Cojones](https://open.spotify.com/track/22TyikLrwsaXhsL31mewls) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Que Cojones](https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh) | 2:41 | 2024-01-19 | 2024-05-04 |
 | [Quizás, Tal Vez](https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:27 | 2024-01-19 |  |
+| [QUÉ QUIERES DE MI? \(feat\. Eladio Carrion\)](https://open.spotify.com/track/6w1eQ7AxYB8Y6YQGJR9jBT) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 4:14 | 2024-12-27 |  |
 | [R.I.C.O](https://open.spotify.com/track/5zMwqE48oeMWUOzdmSd6Od) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CULTO](https://open.spotify.com/album/1tcNhqApgkYeWauEew4d4Y) | 3:05 | 2024-12-03 |  |
 | [RKO](https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 1:46 | 2024-01-21 |  |
 | [Salgo a Buscarte](https://open.spotify.com/track/3FKkbn11xHnb2XOsqsX3Sa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Salgo a Buscarte](https://open.spotify.com/album/5mHoWx0yEHgj4Gm5jAzdHV) | 3:21 | 2024-01-19 | 2024-11-23 |
@@ -85,6 +86,6 @@
 | [Tranquila Baby](https://open.spotify.com/track/794Avy9oTKvi8SGWSO1tXQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:08 | 2024-01-21 | 2024-01-24 |
 | [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 | 2024-01-19 |  |
 | [Tu Ritmo](https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:38 | 2024-01-20 |  |
-| [¿Qué Carajos Quieres Tú Ahora?](https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:35 | 2024-01-19 |  |
+| [¿Qué Carajos Quieres Tú Ahora?](https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:35 | 2024-01-19 | 2024-12-27 |
 
 \*This playlist was first scraped on 2024-01-20. Prior content cannot be recovered.

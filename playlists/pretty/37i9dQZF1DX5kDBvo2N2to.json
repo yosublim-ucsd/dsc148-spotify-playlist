@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59145,
+  "num_followers": 59142,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
-        "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
-      "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
         "url": "https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 180133,
       "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
       "url": "https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
+        "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
+      "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "S\u00e4kra kort",
-        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 203195,
-      "name": "S\u00e4kra kort",
-      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Fakta: Fucked Up",
         "url": "https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 207160,
       "name": "Stj\u00e4rnorna inatt",
       "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "S\u00e4kra kort",
+        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 203195,
+      "name": "S\u00e4kra kort",
+      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Samma Sak",
-        "url": "https://open.spotify.com/album/7d3OXIO5dQABLh3r0UAudW"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Hultgren",
-          "url": "https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW"
-        },
-        {
-          "name": "Albin Johns\u00e9n",
-          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Samma Sak",
-      "url": "https://open.spotify.com/track/0HVjpl9YfZd5z0KoqJAo6C"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "KALLAX CARGO",
         "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 223853,
       "name": "99 fel",
       "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Samma Sak",
+        "url": "https://open.spotify.com/album/7d3OXIO5dQABLh3r0UAudW"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Hultgren",
+          "url": "https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW"
+        },
+        {
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Samma Sak",
+      "url": "https://open.spotify.com/track/0HVjpl9YfZd5z0KoqJAo6C"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Goat",
-        "url": "https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 328582,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/68FnxCqRL1YJ2SrJ1qSsl7"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Can't Forget",
         "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 152470,
       "name": "Can't Forget",
       "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Goat",
+        "url": "https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 328582,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/68FnxCqRL1YJ2SrJ1qSsl7"
     },
     {
       "added_at": "2024-11-08 09:13:14",

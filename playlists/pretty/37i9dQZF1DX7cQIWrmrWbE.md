@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 
 > Las canciones que suenan en todas partes están aquí 🔥  🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,356 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,380 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 | 25 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 |
 | 26 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 27 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
-| 28 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
-| 29 | [Parte & Choke](https://open.spotify.com/track/69vi5SUSJJF0CQJCZngFFS) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Parte & Choke](https://open.spotify.com/album/0JjFiOt1Ws7Fy5itavO13r) | 3:25 |
+| 28 | [Parte & Choke](https://open.spotify.com/track/69vi5SUSJJF0CQJCZngFFS) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Parte & Choke](https://open.spotify.com/album/0JjFiOt1Ws7Fy5itavO13r) | 3:25 |
+| 29 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
 | 30 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 31 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
-| 32 | [Mi Kryptonita](https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento de Vida](https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH) | 3:08 |
-| 33 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 |
+| 32 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 |
+| 33 | [Mi Kryptonita](https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento de Vida](https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH) | 3:08 |
 | 34 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 |
 | 35 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 |
 | 36 | [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 |

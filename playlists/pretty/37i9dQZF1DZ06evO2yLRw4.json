@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 36808,
+  "num_followers": 36807,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAABLI8gmTAJNonsyhds2u5Dd",
+  "snapshot_id": "Z2tLAAAAAAAKzPrymdDjETx/8QfLPEr8",
   "tracks": [
     {
       "added_at": null,
@@ -535,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
         }
       ],
-      "duration_ms": 248413,
-      "name": "Jump on My Shoulders",
-      "url": "https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa"
+      "duration_ms": 249240,
+      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
     },
     {
       "added_at": null,
@@ -567,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
         }
       ],
-      "duration_ms": 249240,
-      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
+      "duration_ms": 248413,
+      "name": "Jump on My Shoulders",
+      "url": "https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Eye In The Sky (feat. Beck)",
-      "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radical",
         "url": "https://open.spotify.com/album/4dmNxI5y02V5SPiZVz7orw"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 215000,
       "name": "Radical",
       "url": "https://open.spotify.com/track/6BkIqU10KlYpllNSP7VjST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Eye In The Sky (feat. Beck)",
+      "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 199307,
+      "name": "Here Come the Runts",
+      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 241609,
       "name": "Maniac (feat. Conor Mason of Nothing But Thieves)",
       "url": "https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 203835,
-      "name": "Miracle Man",
-      "url": "https://open.spotify.com/track/6yE6AL3D5lq25jtTAESkVu"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 203835,
+      "name": "Miracle Man",
+      "url": "https://open.spotify.com/track/6yE6AL3D5lq25jtTAESkVu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 211445,
       "name": "Alone Again (Naturally)[feat. Midland]",
       "url": "https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "Here Come the Runts",
-      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
     },
     {
       "added_at": null,

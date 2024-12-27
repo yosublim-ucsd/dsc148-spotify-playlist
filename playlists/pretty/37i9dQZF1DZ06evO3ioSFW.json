@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 475184,
+  "num_followers": 475291,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAAL8MCc/mDevy1TJO2l0Ir1",
+  "snapshot_id": "Z2tLAAAAAADSA6duZg85vPulNhgiHAwT",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Eterno Amor Secreto",
+        "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 232321,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Acompa\u00f1ado",
         "url": "https://open.spotify.com/album/0rU8BvCez2ostHJ1KY8gVX"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 232906,
       "name": "\u00bfQu\u00e9 Nos Pas\u00f3? (with Yuridia)",
       "url": "https://open.spotify.com/track/4eE8rU7ymogVA74C8j2b2f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Eterno Amor Secreto",
-        "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 232321,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
     },
     {
       "added_at": null,

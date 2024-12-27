@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 
 > No quieren compromiso, solo quieren bellaquera\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,841 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,907 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 | 37 | [La Romana](https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 5:00 |
 | 38 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 |
 | 39 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 |
-| 40 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 |
-| 41 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 |
+| 40 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 |
+| 41 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 |
 | 42 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 |
 | 43 | [34 Amor y Mafia](https://open.spotify.com/track/6doVTElb0aU40nVrQ8Supq) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Los Green Lanters](https://open.spotify.com/album/5fu0DvDw45SEtOfwDF0m69) | 3:26 |
 | 44 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 |

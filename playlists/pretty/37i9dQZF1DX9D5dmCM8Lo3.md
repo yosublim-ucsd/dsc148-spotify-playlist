@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,246 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,357 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 23 | [Midnight](https://open.spotify.com/track/4vfs5DGaVSnMxbtnzkRL6y) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH) | [Umbrae](https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM) | 2:06 |
 | 24 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 |
 | 25 | [Missed Kiss](https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr) | [Digigurl](https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z) | [Missed Kiss](https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8) | 3:22 |
-| 26 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ㅇ△₊⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ¨.·\*:･✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 |
-| 27 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 |
+| 26 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 |
+| 27 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ㅇ△₊⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ¨.·\*:･✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 |
 | 28 | [icosa](https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [THIRTY三十](https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4) | 2:43 |
 | 29 | [Eternal.Temp](https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:36 |
 | 30 | [Blackbird](https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c) | [Zock](https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP) | [Blackbird](https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc) | 1:36 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 43 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
 | 44 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
 | 45 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
-| 46 | [Counting All The Starfish](https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb) | [kitty ray](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Rose Gold \(Deluxe\)](https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr) | 3:00 |
-| 47 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
+| 46 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
+| 47 | [Counting All The Starfish](https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb) | [kitty ray](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Rose Gold \(Deluxe\)](https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr) | 3:00 |
 | 48 | [Spirit Gun](https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8) | [Golden Boy](https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq) | [Prince of the Cyber Rave](https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV) | 3:10 |
 | 49 | [dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [dreamcore](https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE) | 1:40 |
 | 50 | [An Obsession With Kit](https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 3:07 |

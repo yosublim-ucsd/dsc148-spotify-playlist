@@ -2,12 +2,13 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Jasmine Kelly
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Yuki Lovey
 
-1,279 songs - 3 day 0 hr 13 min
+1,284 songs - 3 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(this year\) november is still very hot](https://open.spotify.com/track/341z7uCOO89yihzdmWm8OL) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [\(this year\) november is still very hot](https://open.spotify.com/album/32CbRChHsKNXNIjtmNIX5i) | 3:12 | 2024-12-26 |  |
 | [\*醉曖♥suck眠xD](https://open.spotify.com/track/6x0tJyZTvgJWltU5IVjwLX) | [Tynull](https://open.spotify.com/artist/0Xda6eqKjS4xRDAVFXoYNH) | [\*醉曖♥suck眠xD](https://open.spotify.com/album/3kyqAEJGtbMnxHzGyypdH5) | 4:39 | 2022-05-26 | 2022-07-29 |
 | [1 puff 2 puff](https://open.spotify.com/track/43mJLfoJdfYR9y4kNlIOCe) | [李三鳩](https://open.spotify.com/artist/10AU7r92ACndtTFKsDJTVm) | [1 puff 2 puff](https://open.spotify.com/album/0OYN6aHLM2cpoyo5yNO7Q6) | 3:50 | 2022-07-28 | 2022-09-09 |
 | [1 step at a time](https://open.spotify.com/track/5OWPByz3yIouPj6rmFBZIE) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [1 step at a time](https://open.spotify.com/album/636IBCgeztGgfsNQRGJyUk) | 3:07 | 2023-03-16 | 2023-07-14 |
@@ -97,6 +98,7 @@
 | [Blue Moon Day \(feat\. Ashi\)](https://open.spotify.com/track/1rYE5DmMBfJd3TfXJw0cOI) | [Charming Way](https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb), [Ashi](https://open.spotify.com/artist/78J4tTMn2yVUt7k9jwMzCz) | [Blue Moon Day \(feat\. Ashi\)](https://open.spotify.com/album/75lZIFMke0aE5SWjYOtziA) | 3:57 | 2022-05-26 | 2022-06-10 |
 | [Blue Skies Dreamin'](https://open.spotify.com/track/68DNB2bxp7niPYQCzfBj7n) | [SpotlessMind](https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf) | [Blue Skies Dreamin'](https://open.spotify.com/album/04q79P8PiYlMsE3wYfASJt) | 3:02 | 2023-07-27 | 2023-09-15 |
 | [Blue Whale](https://open.spotify.com/track/2Fh3qfHQJu8gv95RtDkNML) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Goodbye Tragic Manga](https://open.spotify.com/album/1Mp4lHLibyhbI7ylUdCS8b) | 3:28 | 2022-05-26 | 2022-07-29 |
+| [BOUNCE \- Holiday Remix](https://open.spotify.com/track/0eT7jD9YnwaqbJ0ogWqHY5) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd) | [BOUNCE \(Holiday Remix\)](https://open.spotify.com/album/4yMZt2P7BIxOz7ejJf3G4J) | 2:08 | 2024-12-26 |  |
 | [Brand New Day](https://open.spotify.com/track/6LtjXfYayNDDnd6zhlEISW) | [The Paisley Daze](https://open.spotify.com/artist/4uo2Q2JUeasRjRlxxQGu3h) | [Brand New Day](https://open.spotify.com/album/79csmwQT0BCKmSI2p8LQgw) | 4:22 | 2024-03-07 | 2024-06-07 |
 | [Breakfast in the Evening](https://open.spotify.com/track/5wi64FikIsy2AEYxPi1iVG) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt) | [Turquoise Sound](https://open.spotify.com/album/3aLgh9usUu2tV6u23uNTrb) | 3:42 | 2024-10-24 |  |
 | [breathe](https://open.spotify.com/track/27zQHWADjPPzRwJLBaSmyQ) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [could you call me tonight?](https://open.spotify.com/album/0E4ALjSiina3AimCCQr9tg) | 3:24 | 2023-05-11 | 2023-09-01 |
@@ -185,6 +187,7 @@
 | [DO I KNOW](https://open.spotify.com/track/5x1Fb3fvsnWtDZktnWjuF5) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd) | [SKETCHTAPE VOL.1](https://open.spotify.com/album/2zGzxtcjTe8WaOgA6ky2vN) | 2:35 | 2023-06-01 | 2023-11-03 |
 | [Do You Feel Me](https://open.spotify.com/track/63twHBNu0zvlkjYD78klDW) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9), [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [Do You Feel Me](https://open.spotify.com/album/7oibqj4uYmpER0rnSgUYnm) | 2:59 | 2023-06-08 | 2023-09-01 |
 | [Do You Love Me?](https://open.spotify.com/track/0j2Cs6iTuMwEEWBSyhs0VX) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [Do You Love Me?](https://open.spotify.com/album/2YGYz3m7VLq82zVQ9NND7o) | 3:17 | 2024-10-31 |  |
+| [Do You Love Me? \- sped up version](https://open.spotify.com/track/3XhvBRy31eLzI7Iutjfdjn) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [Do You Love Me? \(sped up version\)](https://open.spotify.com/album/5SuCPOpSAO5C6pKCkHlSwr) | 2:25 | 2024-12-26 |  |
 | [Do You Mind](https://open.spotify.com/track/3ly7ZxC7CVXdpTyTRP4ucN) | [MATCH](https://open.spotify.com/artist/3Chg16F5OR4qSf1zE4vywa) | [Do You Mind](https://open.spotify.com/album/3gY2rJElU0MNkHXI4ncish) | 4:04 | 2024-02-29 | 2024-06-07 |
 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 | 2022-11-24 | 2023-03-18 |
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-01-05 | 2024-05-10 |
@@ -245,6 +248,7 @@
 | [First Priority](https://open.spotify.com/track/5OMLvu7m5bRyTr5payjcUe) | [Thewzy](https://open.spotify.com/artist/4RU4k4WMO5OtU6zsHHM7Co) | [First Priority](https://open.spotify.com/album/079KSpwAXiuEg99M8BAStP) | 2:52 | 2022-06-09 | 2022-09-09 |
 | [Five Minutes To Six](https://open.spotify.com/track/1o2CXNU2jbeTcUYpaO2C4l) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [Five Minutes To Six](https://open.spotify.com/album/2dsXUqnxE68A0cbVotQcF9) | 5:35 | 2023-12-28 | 2024-05-10 |
 | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/track/3xk02Q61AHrcptZEAnKBAc) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/album/0kzjxi4mX2pWh5WOJU29M7) | 3:40 | 2023-06-08 | 2023-10-20 |
+| [Fly Away](https://open.spotify.com/track/2JtJ71l0oaXYpJooGcN9ej) | [Yuki Lovey](https://open.spotify.com/artist/4o8jCavg8iCZ7lXJmJ6wGz) | [Fly Away](https://open.spotify.com/album/4gO6AilDh14wlHvxkL1ljL) | 4:18 | 2024-12-26 |  |
 | [FLY4U 別問](https://open.spotify.com/track/4vcIZoTNQ87c2OzxooTeGA) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [mikeygoincrazy](https://open.spotify.com/artist/2ekMYIs7rn2li4SP5ZmGmn) | [LIKE JADE](https://open.spotify.com/album/2UueyvCFBKX2qLSDaH2WYh) | 2:06 | 2024-05-23 | 2024-11-15 |
 | [flyfly](https://open.spotify.com/track/2xtgPG6wQ1XOGP0K27my9j) | [Kong Mok 江莫](https://open.spotify.com/artist/5LVmSkJ9l43bHRkhpkSzXa) | [flyfly](https://open.spotify.com/album/1o5csqyXfGLno979j1BaxX) | 4:38 | 2024-01-02 | 2024-05-10 |
 | [Follow my groove](https://open.spotify.com/track/2XoJ9e2g11qEoyySsVfzOY) | [RAM](https://open.spotify.com/artist/7fWhLaIjVsyC94OC87ZCJT) | [GAWDAYM](https://open.spotify.com/album/4TCzdssZPnbfFvgXW5UmZL) | 4:39 | 2024-03-14 | 2024-11-15 |
@@ -1107,6 +1111,7 @@
 | [望咩望 \(俾車撞\) Look Both Ways](https://open.spotify.com/track/0gaQMMJGAMulQdtiKFMehq) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [人生贏家3: 酒火入魔 Life Winners 3: Highway to Hell](https://open.spotify.com/album/27I1EgdNUg5eMD6pXASUec) | 2:54 | 2024-07-11 | 2024-11-15 |
 | [望月\(2024\)](https://open.spotify.com/track/0uhSlVCO4nTz9EWL3aYrZB) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [The Bosin](https://open.spotify.com/artist/2EKEnoO0vNDO69tyT7PDEo) | [望月\(2024\)](https://open.spotify.com/album/4KDIyGFLzwN6zComZpZNOS) | 3:32 | 2024-08-29 | 2024-12-13 |
 | [木偶再遇記](https://open.spotify.com/track/7ED1a0zf2a1qshHn6sUGvW) | [MIS](https://open.spotify.com/artist/0eYC5f1PXWISc5RQMd91jf) | [木偶再遇記](https://open.spotify.com/album/0l1hJrhEy9ek0MIdFedOUy) | 3:09 | 2024-10-10 |  |
+| [木耀日](https://open.spotify.com/track/6E7f6japbmb4yzNvVWonqL) | [Adrian Tang](https://open.spotify.com/artist/3gziJaXwlIRMUGGoVTURTt) | [木耀日](https://open.spotify.com/album/5DZ6jhpEpspmAh1pNkOpoG) | 3:05 | 2024-12-26 |  |
 | [木馬 Mukma](https://open.spotify.com/track/1jTtxuW6sDdTu6WmHj8Ve8) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [木馬 Mukma](https://open.spotify.com/album/1BDtDJ7u6mxBwJNESPB8a0) | 6:42 | 2024-03-14 | 2024-11-15 |
 | [末世情書](https://open.spotify.com/track/5aEzkY4D0HdU0CyUoJWnmm) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [末世情書](https://open.spotify.com/album/0TMwkt9ibpPMNW3EWWhV6j) | 4:40 | 2022-10-13 | 2023-03-18 |
 | [末世智慧 Apocalypse](https://open.spotify.com/track/6KmbJH5XuXhL3w6OAmyR2A) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [末世智慧 Apocalypse](https://open.spotify.com/album/1AhIKPjhIYzQwbafMB8OqD) | 4:44 | 2023-10-05 | 2023-12-01 |

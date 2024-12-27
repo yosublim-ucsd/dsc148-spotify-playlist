@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 
 > Love whoever you want to love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,942 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,021 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 47 | [American Dream](https://open.spotify.com/track/73BpWEFfUfgQINo81JJCDo) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 4:19 |
 | 48 | [She Like \(feat\. Blanco\)](https://open.spotify.com/track/1oCbDWh54GvaE2lRlmJZcK) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [She Like \(feat\. Blanco\)](https://open.spotify.com/album/3tBzwRA9tDK27VQR9jkNIQ) | 2:54 |
 | 49 | [L.O.V.E\. Me](https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 2:39 |
-| 50 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 |
+| 50 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
 
 Snapshot ID: `ZlorbQAAAABlOPjKeMU1GlrGb/QY8M6c`

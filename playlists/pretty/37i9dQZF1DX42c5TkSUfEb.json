@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 780964,
+  "num_followers": 781061,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-12-19 20:03:16",
       "album": {
-        "name": "Please Slow Down (Rubber Bridge Version)",
-        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 163324,
-      "name": "Please Slow Down - Rubber Bridge Version",
-      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
-    },
-    {
-      "added_at": "2024-12-19 20:03:16",
-      "album": {
         "name": "Gee Whiz But This Is a Lonesome Town",
         "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 264826,
       "name": "Jimmy",
       "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
+    },
+    {
+      "added_at": "2024-12-19 20:03:16",
+      "album": {
+        "name": "Please Slow Down (Rubber Bridge Version)",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Please Slow Down - Rubber Bridge Version",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
     },
     {
       "added_at": "2024-12-19 20:03:16",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-12-19 20:03:16",
       "album": {
-        "name": "Do You Haunt Me",
-        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 193155,
-      "name": "Do You Haunt Me",
-      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
-    },
-    {
-      "added_at": "2024-12-19 20:03:16",
-      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 157491,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
+    },
+    {
+      "added_at": "2024-12-19 20:03:16",
+      "album": {
+        "name": "Do You Haunt Me",
+        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 193155,
+      "name": "Do You Haunt Me",
+      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
     },
     {
       "added_at": "2024-12-19 20:03:16",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-12-19 20:03:16",
       "album": {
-        "name": "Yael Na\u00efm",
-        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
-      },
-      "artists": [
-        {
-          "name": "Yael Naim",
-          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "New Soul",
-      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
-    },
-    {
-      "added_at": "2024-12-19 20:03:16",
-      "album": {
         "name": "Mama's Boy",
         "url": "https://open.spotify.com/album/3NVUYm7edVbzZoDGsusFg9"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 260120,
       "name": "Soon We'll Be Found",
       "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
+    },
+    {
+      "added_at": "2024-12-19 20:03:16",
+      "album": {
+        "name": "Yael Na\u00efm",
+        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
+      },
+      "artists": [
+        {
+          "name": "Yael Naim",
+          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "New Soul",
+      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
     },
     {
       "added_at": "2024-12-19 20:03:16",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-12-19 20:03:16",
       "album": {
-        "name": "Only Revolutions",
-        "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "God & Satan",
-      "url": "https://open.spotify.com/track/6nDHogPDqb1SMphYCQQs7w"
-    },
-    {
-      "added_at": "2024-12-19 20:03:16",
-      "album": {
         "name": "Les bruits de la ville",
         "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 264880,
       "name": "Il neige",
       "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
+    },
+    {
+      "added_at": "2024-12-19 20:03:16",
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "God & Satan",
+      "url": "https://open.spotify.com/track/6nDHogPDqb1SMphYCQQs7w"
     },
     {
       "added_at": "2024-12-19 20:03:16",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-12-19 20:03:16",
       "album": {
-        "name": "Future Ghosts",
-        "url": "https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 208010,
-      "name": "Future Ghosts",
-      "url": "https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY"
-    },
-    {
-      "added_at": "2024-12-19 20:03:16",
-      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 204013,
       "name": "\u00c0 quoi pensait-elle",
       "url": "https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH"
+    },
+    {
+      "added_at": "2024-12-19 20:03:16",
+      "album": {
+        "name": "Future Ghosts",
+        "url": "https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 208010,
+      "name": "Future Ghosts",
+      "url": "https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY"
     },
     {
       "added_at": "2024-12-19 20:03:16",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-12-19 20:03:16",
       "album": {
-        "name": "Wishes",
-        "url": "https://open.spotify.com/album/29JFdF5PDfyTtfRZe1SaXC"
-      },
-      "artists": [
-        {
-          "name": "RHODES",
-          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
-        }
-      ],
-      "duration_ms": 245053,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/6FyuXQr3BDEKnD3hTxypEI"
-    },
-    {
-      "added_at": "2024-12-19 20:03:16",
-      "album": {
         "name": "Horizons Into Battlegrounds",
         "url": "https://open.spotify.com/album/72f1jbx4WSwyGxM9o5b28w"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 221826,
       "name": "Horizons Into Battlegrounds",
       "url": "https://open.spotify.com/track/1SSoLdnoptUGfs5kwgVQms"
+    },
+    {
+      "added_at": "2024-12-19 20:03:16",
+      "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/29JFdF5PDfyTtfRZe1SaXC"
+      },
+      "artists": [
+        {
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+        }
+      ],
+      "duration_ms": 245053,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/6FyuXQr3BDEKnD3hTxypEI"
     },
     {
       "added_at": "2024-12-19 20:03:16",

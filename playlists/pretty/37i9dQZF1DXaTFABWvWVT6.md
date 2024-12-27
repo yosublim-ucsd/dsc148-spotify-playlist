@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,323 likes - 44 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,328 likes - 44 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 31 | [In The Streets](https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [In The Streets](https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE) | 2:07 |
 | 32 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
 | 33 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |
-| 34 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 |
-| 35 | [SECRETS](https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [FORWARDS](https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4) | 4:13 |
+| 34 | [SECRETS](https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [FORWARDS](https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4) | 4:13 |
+| 35 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 |
 | 36 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
 | 37 | [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 |
 | 38 | [shine](https://open.spotify.com/track/002mQ6kXOWDP2i5IZcwDVc) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [shine](https://open.spotify.com/album/1oblVh0UrovPi0BT5Mje3E) | 2:24 |

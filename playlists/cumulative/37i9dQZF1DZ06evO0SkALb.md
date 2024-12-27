@@ -4,7 +4,7 @@
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-114 songs - 7 hr 13 min
+115 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Lover's Question](https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Phoebe Snow](https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt) | [Portrait Of The Blues](https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE) | 3:04 | 2022-10-12 |  |
 | [A Natural Man](https://open.spotify.com/track/1UhY3dJlChFoC9dOkD4ZzO) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Natural Man / Classic Lou](https://open.spotify.com/album/2AuskfemNIIJnipCT670GV) | 3:41 | 2022-05-25 |  |
 | [After The Lights Go Down Low](https://open.spotify.com/track/0wUvmSed5xOamtUlTvdIHC) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 2:35 | 2023-07-15 | 2024-09-02 |
+| [Ain't Nobody's Business If I Do](https://open.spotify.com/track/0dhTYJPWUESbOjJEUJ9G7n) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Essential Classics, Vol\. 390: Lou Rawls](https://open.spotify.com/album/5ZjNV9jKqej9uDsLm8lEbu) | 2:44 | 2024-12-27 |  |
 | [Ain't That Loving You \(For More Reasons Than One\)](https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:38 | 2022-05-25 |  |
 | [All Around The World](https://open.spotify.com/track/77Ia9N4Gsw38dvqlbFBs7f) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 3:21 | 2022-05-25 | 2023-09-06 |
 | [All The Way](https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 2:43 | 2022-05-25 |  |
@@ -112,7 +113,7 @@
 | [Vacushna](https://open.spotify.com/track/2mE3taX82LfRsRM7QOAu6s) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Masters of Jazz Presents Les McCann \(1960 \- 1962 Essential Works\)](https://open.spotify.com/album/120sYlBGcZVSLhThyHlEZs) | 3:11 | 2022-10-24 | 2023-02-15 |
 | [We Understand Each Other](https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 4:16 | 2022-05-28 | 2024-07-24 |
 | [What's the Matter with the World](https://open.spotify.com/track/6Vr7UhEQ5K4xJyLkoWEHlr) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Let Me Be Good to You](https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY) | 5:54 | 2022-06-09 | 2022-07-22 |
-| [Willow Weep For Me](https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 5:57 | 2022-06-20 |  |
+| [Willow Weep For Me](https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 5:57 | 2022-06-20 | 2024-12-27 |
 | [Wind Beneath My Wings \- Single Version](https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Lou Rawls \- The Very Best Of](https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN) | 3:52 | 2022-05-25 |  |
 | [You Are](https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:51 | 2022-05-31 | 2024-09-17 |
 | [You Can't Go Home](https://open.spotify.com/track/4PtxNIk3QS8ACAO9m9sn4R) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 5:33 | 2022-05-26 | 2024-07-21 |

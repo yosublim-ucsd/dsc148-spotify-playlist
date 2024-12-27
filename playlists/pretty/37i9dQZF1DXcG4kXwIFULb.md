@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,632 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,687 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 42 | [Magic Love \- Radio Edit](https://open.spotify.com/track/01K42inuuCqOB731ugiQAd) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Magic Love \(Remixes\)](https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq) | 3:22 |
 | 43 | [Bittersweet Faith](https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG) | [Bitter:Sweet](https://open.spotify.com/artist/28bLlI81wfpcHUSUPgktlx) | [The Mating Game](https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy) | 4:19 |
 | 44 | [Cold Water Music](https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp) | [Cold Water Music](https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R) | 5:44 |
-| 45 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
-| 46 | [Don't Look Back](https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Angel Milk](https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E) | 3:50 |
+| 45 | [Don't Look Back](https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Angel Milk](https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E) | 3:50 |
+| 46 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
 | 47 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
 | 48 | [Nothing Can Stop Us](https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:21 |
 | 49 | [Purrfect](https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Love Pussycats & Carwrecks](https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9) | 4:50 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 81 | [Lonely Soul](https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 8:53 |
 | 82 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
 | 83 | [Lebanese Blonde](https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Mirror Conspiracy](https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn) | 4:50 |
-| 84 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
-| 85 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX) | 4:12 |
+| 84 | [Riders On the Storm](https://open.spotify.com/track/3tYOKwQBtYebD0XPbY2vQ6) | [Yonderboi](https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7) | [Shallow and Profound](https://open.spotify.com/album/0gvbUOhSJofzDL1DE9uWZq) | 4:19 |
+| 85 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
 | 86 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 |
-| 87 | [Riders On the Storm](https://open.spotify.com/track/3tYOKwQBtYebD0XPbY2vQ6) | [Yonderboi](https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7) | [Shallow and Profound](https://open.spotify.com/album/0gvbUOhSJofzDL1DE9uWZq) | 4:19 |
+| 87 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX) | 4:12 |
 | 88 | [Just Chillin'](https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB1](https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh) | 2:14 |
 | 89 | [Simple Science \- 12" Version](https://open.spotify.com/track/1OQ3DVHPX1cXU4uUOvrKPH) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Danny Pratt](https://open.spotify.com/artist/4UpaWG799gLccPzyPozzpo) | [Simple Science EP](https://open.spotify.com/album/5DEFRRPdUj1kwNAq9RERHi) | 7:43 |
 | 90 | [Sweet Tides](https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) | 4:48 |

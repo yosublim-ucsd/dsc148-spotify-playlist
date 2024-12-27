@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 127118,
       "name": "End a War Before It Begins",
       "url": "https://open.spotify.com/track/5dC6E3UVa4NZK6UahpXtdc"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 137259,
       "name": "Origami Boats",
       "url": "https://open.spotify.com/track/35ukZe17MXIfNOu0ap8vMK"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 202389,
       "name": "Remembering Those Who Came Before",
       "url": "https://open.spotify.com/track/1QDrtD1BVsiNKRKz82Yj2W"
@@ -1306,6 +1306,24 @@
       "duration_ms": 163733,
       "name": "Winterfell",
       "url": "https://open.spotify.com/track/0y1Bay4UAdzWvpDJinzGz1"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269200,
+      "name": "You Are No Son of Mine",
+      "url": "https://open.spotify.com/track/2YOy1e7sBLXi5DL2klc9Nv"
     },
     {
       "album": {

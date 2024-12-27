@@ -2789,6 +2789,28 @@
     },
     {
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7hpdUZbpSVZee8iufCWeXF"
+      },
+      "artists": [
+        {
+          "name": "C-Dove",
+          "url": "https://open.spotify.com/artist/0mSTAf4akbwKQEoJFOuIUm"
+        },
+        {
+          "name": "Mike Saiz",
+          "url": "https://open.spotify.com/artist/7d0UxJrcf4p0f7DwBVl4HV"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303240,
+      "name": "Trill",
+      "url": "https://open.spotify.com/track/6b0wv9CNnM6vDHGyTmm7tr"
+    },
+    {
+      "album": {
         "name": "If You Sleep Its Too Late",
         "url": "https://open.spotify.com/album/1VkzxTEd5O6Ky4MbYmpx8a"
       },
@@ -2800,7 +2822,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 163684,
       "name": "Trill",
       "url": "https://open.spotify.com/track/6PExAd6Tb6JXMsV9C67QTW"

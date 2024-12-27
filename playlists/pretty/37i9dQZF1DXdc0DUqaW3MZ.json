@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 357138,
+  "num_followers": 357205,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Shaken To My Soul (feat. Ruti)",
-        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
-        }
-      ],
-      "duration_ms": 211208,
-      "name": "Shaken To My Soul (feat. Ruti)",
-      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Click Bait",
         "url": "https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Shaken To My Soul (feat. Ruti)",
+        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "duration_ms": 211208,
+      "name": "Shaken To My Soul (feat. Ruti)",
+      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Daydreaming (Sgt Slick Remix)",
-        "url": "https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        },
-        {
-          "name": "Sgt Slick",
-          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
-        }
-      ],
-      "duration_ms": 184497,
-      "name": "Daydreaming - Sgt Slick Remix",
-      "url": "https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "We Aight (feat. Mayer Hawthorne)",
         "url": "https://open.spotify.com/album/7fRxTkxPZZh0j3O7ZXMGPs"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 222786,
       "name": "We Aight (feat. Mayer Hawthorne)",
       "url": "https://open.spotify.com/track/2RlfQoH0bzkRvsHwytsLiW"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Daydreaming (Sgt Slick Remix)",
+        "url": "https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        },
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        }
+      ],
+      "duration_ms": 184497,
+      "name": "Daydreaming - Sgt Slick Remix",
+      "url": "https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk"
     },
     {
       "added_at": "2024-10-25 15:55:35",

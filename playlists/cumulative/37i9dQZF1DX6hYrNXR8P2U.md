@@ -4,7 +4,7 @@
 
 > Más música, menos etiquetas\.  <br/>📷 un muerto mas & Clara Cava
 
-386 songs - 20 hr 31 min
+387 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [AMAME](https://open.spotify.com/track/3ynkDyWXMgspdVxrp022vu) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 3:39 | 2024-03-22 | 2024-03-30 |
 | [AMANECER](https://open.spotify.com/track/1DDqxK4J41BGZXavc4cSuh) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [AMANECER](https://open.spotify.com/album/1inF5EvaN9ugCIyw33Q1F5) | 3:01 | 2024-01-19 | 2024-07-19 |
 | [AMIGOS NUEVOS](https://open.spotify.com/track/2IEO7E3Qh7nYgKjdVagZKq) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:19 | 2023-10-13 | 2023-12-16 |
+| [AMNESIA](https://open.spotify.com/track/3xWhaR53xysDSPketnnZjI) | [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [AMNESIA](https://open.spotify.com/album/2H2O7XZjkAuEwORRzMIhAR) | 3:19 | 2024-12-26 |  |
 | [Amor de Madrugada](https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Amor de Madrugada](https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW) | 2:11 | 2024-11-08 |  |
 | [Amor de Película](https://open.spotify.com/track/62LEhl8r8arwSDuHF0u0Ze) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Amor de Película](https://open.spotify.com/album/06UAzAedzCDQT7jYWSWeEY) | 2:52 | 2023-11-10 | 2024-06-15 |
 | [Amor Roto](https://open.spotify.com/track/08blsoYLX7Kx9MwwiFDkNe) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [QSTLB](https://open.spotify.com/album/1T8zyPUsGrAIu1bqkfUQ7n) | 2:02 | 2024-12-06 |  |
@@ -378,7 +379,7 @@
 | [Visa Gold Miami](https://open.spotify.com/track/0Pd4u4TF4v3xsUK6ziOamg) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Visa Gold Miami](https://open.spotify.com/album/4RP1zedrA6lKoiOku9W7mw) | 3:01 | 2023-12-08 | 2024-03-09 |
 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 | 2024-08-16 | 2024-09-14 |
 | [Voy a Olvidarme de Mí \(feat\. Bomba Estéreo\)](https://open.spotify.com/track/7zc23D6yOAEHhqGRMC8AbB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Voy a Olvidarme de Mí \(feat\. Bomba Estéreo\)](https://open.spotify.com/album/4vpyXFQH3BXFyrOJsSBln2) | 2:52 | 2024-10-25 |  |
-| [Vulnerable](https://open.spotify.com/track/4Smf2SlfBKvBztC7WLRIn3) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Vulnerable](https://open.spotify.com/album/1fLDwkdNXMFKjEdvI1rAap) | 3:58 | 2024-06-14 |  |
+| [Vulnerable](https://open.spotify.com/track/4Smf2SlfBKvBztC7WLRIn3) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Vulnerable](https://open.spotify.com/album/1fLDwkdNXMFKjEdvI1rAap) | 3:58 | 2024-06-14 | 2024-12-27 |
 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-10-13 | 2023-11-25 |
 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-10-13 | 2024-07-27 |
 | [Xtasis](https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Xtasis](https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe) | 3:23 | 2023-10-13 | 2024-02-17 |

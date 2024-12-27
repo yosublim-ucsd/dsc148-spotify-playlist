@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,249 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,251 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 10 | [Lost Angeles](https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 1:54 |
 | 11 | [Who \(Acoustic Remix\)](https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 3:04 |
 | 12 | [Madam](https://open.spotify.com/track/1OKZvb7BUCqHaFBr7j05dj) | [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [Madam](https://open.spotify.com/album/6KMJA6jl70X6ROJCJ5IzRc) | 2:22 |
-| 13 | [Walkin On Water](https://open.spotify.com/track/4YPF8kjq2Q9hVzOwBjM2vg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:28 |
+| 13 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 |
 | 14 | [Адская колыбельная](https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Адская колыбельная](https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS) | 2:58 |
 | 15 | [Страшный сон 2](https://open.spotify.com/track/1GaJ8rxMQPzCfdZeMGH82G) | [Раковая Выхухоль](https://open.spotify.com/artist/7y6TkCfv1kEBd6YmloUGLK) | [Страшный сон 2](https://open.spotify.com/album/74R9c208EJ1YRoutQjUynU) | 1:50 |
 | 16 | [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 |
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 20 | [На руках](https://open.spotify.com/track/0sxKPcwuIerPCwV8E3Ytww) | [БРЕДИШЬ](https://open.spotify.com/artist/0P9E2MHee0cXNpIeAvFAt1) | [Амальгама](https://open.spotify.com/album/4zuYs8vCPbEYt2YmxDPQmw) | 1:26 |
 | 21 | [Pose](https://open.spotify.com/track/0xS08Lk8uNc84YCx1cJtHV) | [Полка](https://open.spotify.com/artist/5VxeSwDCDsUT35ggejgYo2) | [Pose](https://open.spotify.com/album/3UNyYrqPOB7yERngVwXpMh) | 1:30 |
 | 22 | [Supersonic](https://open.spotify.com/track/5gSzWAAZIZBhSDSufE7nHv) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/786SDwa0FZXk7Wzeq6pqhQ) | 2:44 |
-| 23 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 |
+| 23 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
 | 24 | [DUBTSOVA](https://open.spotify.com/track/260wUp5DqP8RtsUVFK5EJn) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [Меньше чем три](https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k) | 2:42 |
 | 25 | [ЛАБИРИНТ](https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [12](https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg) | 2:49 |
 | 26 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 |
 | 27 | [Контракт](https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Контракт](https://open.spotify.com/album/3OzWTanaiFd8jyfF6E9PRq) | 3:24 |
 | 28 | [\(не\) уходи](https://open.spotify.com/track/1jvbTfTwq3BCz0MPJA0eCo) | [fallen777angel](https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [\(не\) уходи](https://open.spotify.com/album/04tJjsJlFlNz9jvga2UcWS) | 1:57 |
-| 29 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 |
+| 29 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
 | 30 | [Обломки чувств](https://open.spotify.com/track/6zmh6mi9cLuioTTRprsh8j) | [TERESHINA](https://open.spotify.com/artist/50MEp7tOD86rZ3KPUsqHCR) | [Открой мне сердце](https://open.spotify.com/album/4oH7acbEcuIOAr0H85yTlw) | 2:48 |
 | 31 | [Suka](https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M) | [KRISTIEE](https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [Suka from Arizona](https://open.spotify.com/album/5WAnfvzPNerWLrWtO8f1J8) | 1:24 |
 | 32 | [Ameli](https://open.spotify.com/track/17nSd6VAbcvsFxzRGTMpWn) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [PEEKABOO](https://open.spotify.com/album/786SDwa0FZXk7Wzeq6pqhQ) | 2:59 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 38 | [ГИМН КАЧКОВ](https://open.spotify.com/track/1pUYhVL4Z3VRWaV7U9OLRG) | [maxxytren](https://open.spotify.com/artist/7nZhWq0IoxyGPJIOIzpP7N), [bulk\_machine](https://open.spotify.com/artist/0iR5vvocFzEMrTEV95Aya4) | [ГИМН КАЧКОВ](https://open.spotify.com/album/0JbjYh0Yy5QalryiiYNCQa) | 2:21 |
 | 39 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
 | 40 | [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 |
-| 41 | [Railway \(Bang Chan\)](https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:53 |
+| 41 | [Railway \(Bang Chan\)](https://open.spotify.com/track/4vNhzQfgfWIzOxbB8HfIHa) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:53 |
 | 42 | [Her loss](https://open.spotify.com/track/785GgCAABPnVr3qaGTbhFU) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Royal Bastards](https://open.spotify.com/album/2PuUE6oBxsZFMtojQkWFPs) | 1:26 |
 | 43 | [ЧСВ](https://open.spotify.com/track/76CHKMe1uNd7IgZeCZufhs) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/2ovhIwGFtFVmw50hOT10N8) | 3:20 |
 | 44 | [Belt Double G](https://open.spotify.com/track/1FgvQSfXdzqlY3S24fNVX5) | [YungMeechy](https://open.spotify.com/artist/0oSMgGNMeXe3HJAXEJrqL8) | [Belt Double G](https://open.spotify.com/album/4O9hQ56U0twwZUlkyx0LW2) | 1:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Батареи](https://open.spotify.com/track/0Oj8rpo6eiGvJmnLs4ZrkH) | [Нервы](https://open.spotify.com/artist/10oSboDn5ncLNjjFIgJXm6) | [Всё Что Вокруг](https://open.spotify.com/album/28pieKTvyLISIQ4IZBuFXH) | 3:13 |
 | 50 | [Это любовь](https://open.spotify.com/track/1P9oRiZJWnxe2pZmYUZ5eC) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Дом с нормальными явлениями](https://open.spotify.com/album/7j7tgADtrPaN7Rrfb8qIcI) | 4:39 |
 
-Snapshot ID: `Lv9yyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LwDESAAAAAAAAAAAAAAAAAAAAAAAAGVu`

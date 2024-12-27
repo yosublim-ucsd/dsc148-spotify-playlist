@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,967 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,981 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 40 | [Smthng](https://open.spotify.com/track/6MOO3hJJFrNV9ST0hmKX8X) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 4:19 |
 | 41 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 |
 | 42 | [DISCO CLOSURE](https://open.spotify.com/track/2tWHLAOwWIalkFEUIYP2fU) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [DISCO CLOSURE](https://open.spotify.com/album/1SHQB1Xh5XJmUWkqpoM2Z3) | 3:23 |
-| 43 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 |
-| 44 | [Daydreaming](https://open.spotify.com/track/2wPc15A83OnyE9QarVRpqA) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Daydreaming](https://open.spotify.com/album/4RBAFTTsu4cWZYkc3HXvvJ) | 3:27 |
+| 43 | [Daydreaming](https://open.spotify.com/track/2wPc15A83OnyE9QarVRpqA) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Daydreaming](https://open.spotify.com/album/4RBAFTTsu4cWZYkc3HXvvJ) | 3:27 |
+| 44 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 |
 | 45 | [All I Want](https://open.spotify.com/track/47cmM6ptQ3dH7iQlcWg9ac) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 4:00 |
 | 46 | [Don't Be Scared \(feat\. Takura\)](https://open.spotify.com/track/530JUX50nrszQU6q5RiWSw) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:58 |
 | 47 | [Firepit](https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Firepit](https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9) | 4:03 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 53 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 |
 | 54 | [Season](https://open.spotify.com/track/6nM0Mxdc0VUTzqbBY0wk4H) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Full Court Press](https://open.spotify.com/album/4MLxuO3jk1GYUfJIMYMZCS) | 3:07 |
 | 55 | [Payback \(feat\. Knucks\)](https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Payback \(feat\. Knucks\)](https://open.spotify.com/album/7FQ4z8g9MPaIKsTdMXo0zA) | 2:44 |
-| 56 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
-| 57 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 |
+| 56 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 |
+| 57 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
 | 58 | [i'm not okay](https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:35 |
 | 59 | [Dreamer](https://open.spotify.com/track/0IPYNDq06pcjd2lybZKNPo) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Dreamer](https://open.spotify.com/album/04ib8lMhGT6avUwxcT2CDE) | 2:52 |
 | 60 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 |

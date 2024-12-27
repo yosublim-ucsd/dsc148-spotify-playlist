@@ -8788,7 +8788,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -9162,6 +9162,24 @@
       "duration_ms": 165666,
       "name": "Do You Hear What I Hear? - Remastered 2006",
       "url": "https://open.spotify.com/track/2Uiv8YvD3q63FGTUjkYvxT"
+    },
+    {
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Do You Hear What I Hear? - Remastered 2006",
+      "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
     },
     {
       "album": {
@@ -11938,7 +11956,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -11956,7 +11974,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -14648,7 +14666,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 268960,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
@@ -14666,7 +14684,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 268960,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
@@ -15440,7 +15458,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 150266,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
       "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
@@ -18822,7 +18840,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -18848,7 +18866,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
@@ -24262,7 +24280,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
@@ -24280,7 +24298,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -32136,6 +32154,10 @@
       },
       "artists": [
         {
+          "name": "J. Fred Coots",
+          "url": "https://open.spotify.com/artist/5IBkss8RwasiJY2sj5qEdM"
+        },
+        {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
@@ -37422,7 +37444,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"

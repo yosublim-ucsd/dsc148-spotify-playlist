@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Shabir Sulthan",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: Linying",
   "name": "Rising 65",
   "tracks": [
     {
@@ -752,6 +752,24 @@
       "duration_ms": 197142,
       "name": "BooLala",
       "url": "https://open.spotify.com/track/58lbCaCQlQ6NUiiE7bV7ZB"
+    },
+    {
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/6ou0dWDy4HpWN2C8mtLxg9"
+      },
+      "artists": [
+        {
+          "name": "Baby Combat",
+          "url": "https://open.spotify.com/artist/0gtkGD5EAl3bRjhQJ83bsT"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138828,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/3hbs3UB1pmMqo61xZ0RDk3"
     },
     {
       "album": {
@@ -4653,6 +4671,24 @@
     },
     {
       "album": {
+        "name": "Picture Of You",
+        "url": "https://open.spotify.com/album/4sX6E5JPrGRfrUqJ3JvSZI"
+      },
+      "artists": [
+        {
+          "name": "Bloom.",
+          "url": "https://open.spotify.com/artist/5PfDMyKI9IR4m6RaBVvirV"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165234,
+      "name": "Picture Of You",
+      "url": "https://open.spotify.com/track/0sZHyciRsjFXqxEhBO8Cbj"
+    },
+    {
+      "album": {
         "name": "coming home",
         "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
       },
@@ -6121,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "The Key",
+        "url": "https://open.spotify.com/album/6N5WhWGEWi2LMv5fmjBpTp"
+      },
+      "artists": [
+        {
+          "name": "Linying",
+          "url": "https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160009,
+      "name": "The Key",
+      "url": "https://open.spotify.com/track/31zhJnJpDIA5jutqQ1pN72"
+    },
+    {
+      "album": {
         "name": "The Name Is (Bro Unga Peru)",
         "url": "https://open.spotify.com/album/0UC4hzPPAkN8TCvri3Xs7q"
       },
@@ -7353,6 +7407,24 @@
     },
     {
       "album": {
+        "name": "\u5149\u9670\u526f\u672c",
+        "url": "https://open.spotify.com/album/1mr50iAkmOj4P6BfLHwD9q"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252626,
+      "name": "\u5149\u9670\u526f\u672c",
+      "url": "https://open.spotify.com/track/7KJ5U4QwsM1FHvSE3M7nLM"
+    },
+    {
+      "album": {
         "name": "\u52a0\u6210\u4e00\u4e2a\u5bb6 (\u65b0\u4f20\u5a92\u620f\u5267\u300a\u5f02\u5bb6\u4eba\u300b\u4e3b\u9898\u66f2)",
         "url": "https://open.spotify.com/album/6t0yilLdxUSSknywQCh0oi"
       },
@@ -7386,6 +7458,36 @@
       "duration_ms": 217078,
       "name": "\u52c7\u5f80\u76f4\u524d - \u5973\u58f0\u7248 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u6d74\u6c34\u91cd\u751f\u300b\u4e3b\u9898\u66f2)",
       "url": "https://open.spotify.com/track/2yUSjrUOBtGD6k8zMLyFxu"
+    },
+    {
+      "album": {
+        "name": "\u5343\u91d1\u96e3\u8cb7 (X 963)",
+        "url": "https://open.spotify.com/album/2GngUiYfPTOPRThZpuGwrz"
+      },
+      "artists": [
+        {
+          "name": "Lim Tay Peng",
+          "url": "https://open.spotify.com/artist/2C5tlCZvcXkn3kGZAyCXtB"
+        },
+        {
+          "name": "\u83c1\u4e91",
+          "url": "https://open.spotify.com/artist/7lL0kqit7sTCLBu7jY43CZ"
+        },
+        {
+          "name": "\u601d\u8fdc",
+          "url": "https://open.spotify.com/artist/74rnrAVvLSw6rgr9HcddBl"
+        },
+        {
+          "name": "\u7693\u7693",
+          "url": "https://open.spotify.com/artist/1NXVqgz7B6SaVcYjKARnJ9"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257474,
+      "name": "\u5343\u91d1\u96e3\u8cb7 - X 963",
+      "url": "https://open.spotify.com/track/3RbTYsv8caEVgwm1Rcl5E4"
     },
     {
       "album": {
@@ -7466,6 +7568,24 @@
       "duration_ms": 227872,
       "name": "\u5404\u81ea\u5b89\u597d",
       "url": "https://open.spotify.com/track/6rauywWxeziJyCMApoAQga"
+    },
+    {
+      "album": {
+        "name": "\u54ce\u54df\u5927\u8fc7\u5e74\u7684\u4f60 \u4e0d\u8981\u90a3\u4e48Lazy",
+        "url": "https://open.spotify.com/album/6RH0myJRKcixDYDIwls2gK"
+      },
+      "artists": [
+        {
+          "name": "Hazelle Teo",
+          "url": "https://open.spotify.com/artist/2shQPKXnXcGMlyi48AuCQT"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "\u54ce\u54df\u5927\u8fc7\u5e74\u7684\u4f60 \u4e0d\u8981\u90a3\u4e48Lazy",
+      "url": "https://open.spotify.com/track/50OQ2FRGxMGUDS0z3tEhUb"
     },
     {
       "album": {
@@ -8037,6 +8157,24 @@
     },
     {
       "album": {
+        "name": "\u7b11\u5bb9",
+        "url": "https://open.spotify.com/album/2lHxs87cyWwosaUE4j4pkJ"
+      },
+      "artists": [
+        {
+          "name": "Kit Chan",
+          "url": "https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156821,
+      "name": "\u7b11\u5bb9",
+      "url": "https://open.spotify.com/track/7nXhTn5HOSUZhB8PPYdo5t"
+    },
+    {
+      "album": {
         "name": "\u7b2c\u4e00\u6b65\u9a5f",
         "url": "https://open.spotify.com/album/2Sehxr5otEJcl1ciqsVHgk"
       },
@@ -8233,6 +8371,42 @@
     },
     {
       "album": {
+        "name": "\u86c7\u4e48\u90fd HENG ONG HUAT",
+        "url": "https://open.spotify.com/album/11Tyt6yyUWjwQJmqPGpyOB"
+      },
+      "artists": [
+        {
+          "name": "UFM100.3",
+          "url": "https://open.spotify.com/artist/1WDVTaiME5sHRf6OVNNkua"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175419,
+      "name": "\u86c7\u4e48\u90fd HENG ONG HUAT",
+      "url": "https://open.spotify.com/track/6seKPosFUFP9ZA3WoJgKJM"
+    },
+    {
+      "album": {
+        "name": "\u86c7\u4e48\u90fd\u597d",
+        "url": "https://open.spotify.com/album/7G4CYlKKF7aoA3Uq7VydyT"
+      },
+      "artists": [
+        {
+          "name": "96.3HAOFM",
+          "url": "https://open.spotify.com/artist/5wyGFYVvhdNvRjjqLrglkX"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231562,
+      "name": "\u86c7\u4e48\u90fd\u597d",
+      "url": "https://open.spotify.com/track/0aoWrbNwptNzizDwWNqmxy"
+    },
+    {
+      "album": {
         "name": "\u8fd9\u5c31\u662f\u6211\u4eec\u7684\u7231",
         "url": "https://open.spotify.com/album/1jpObXBTlfr5vuTTm39iVy"
       },
@@ -8266,6 +8440,24 @@
       "duration_ms": 245624,
       "name": "\u90a3\u4e9b\u5e74\u7684\u5c0f\u5e78\u8fd0",
       "url": "https://open.spotify.com/track/4LaGsVSasJrPQNLI3KNwBM"
+    },
+    {
+      "album": {
+        "name": "\u9523\u9f13\u55a7\u5929\u5e86\u56e2\u5706",
+        "url": "https://open.spotify.com/album/59UTVvhlxw9iAnGw0Oipyv"
+      },
+      "artists": [
+        {
+          "name": "\u5408\u60a6\u5531\u56e2",
+          "url": "https://open.spotify.com/artist/07YYeBvKW2efzuJhJjHNvq"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201812,
+      "name": "\u9523\u9f13\u55a7\u5929\u5e86\u56e2\u5706",
+      "url": "https://open.spotify.com/track/2i9vVlL2rF0IhBZXlpwQXs"
     },
     {
       "album": {

@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Hayen",
+        "url": "https://open.spotify.com/album/28ms6jlPHDk4zbSLKUqnnO"
+      },
+      "artists": [
+        {
+          "name": "Sultan Khalifa",
+          "url": "https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211445,
+      "name": "Adeel El Rooh",
+      "url": "https://open.spotify.com/track/1BVO4w4limnbFYynPV1sOG"
+    },
+    {
+      "album": {
         "name": "Admentik",
         "url": "https://open.spotify.com/album/0paz1ms5cAX0ZqOim3tJKi"
       },
@@ -590,7 +608,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 276010,
       "name": "Bdet Ateeb",
       "url": "https://open.spotify.com/track/5XtURwv3QcCqXKBmMZi95H"
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 236652,
       "name": "Khali Al Mahabba",
       "url": "https://open.spotify.com/track/07aCucAZu8oV1JpoA4bjTv"
@@ -2174,6 +2192,24 @@
       "duration_ms": 366058,
       "name": "Shahr 7",
       "url": "https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5"
+    },
+    {
+      "album": {
+        "name": "Shati Bahar",
+        "url": "https://open.spotify.com/album/5SyZsUvPV7UkemRukXMgKr"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242436,
+      "name": "Shati Bahar",
+      "url": "https://open.spotify.com/track/5IDpDJChAB4il5XpPX9xUb"
     },
     {
       "album": {

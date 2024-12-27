@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,383 likes - 350 songs - 12 hr 17 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,374 likes - 350 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 349 | [Peach](https://open.spotify.com/track/3GkSDGupydidufnOGZn2FE) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Peach](https://open.spotify.com/album/4RXwLRCGekAGFem4o3EuYS) | 2:16 |
 | 350 | [Letter for Rod](https://open.spotify.com/track/2hOiKEe46CiFlHaSPRro0K) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [Summer](https://open.spotify.com/album/6ydRwauwNu1Rp3csgxskeb) | 1:44 |
 
-Snapshot ID: `AAAIADrHLLtpqDFcuVH0aXa62+Ek+hqF`
+Snapshot ID: `AAAIAXBM5h1XYSeYZfeGqgpk2Wy03A5R`

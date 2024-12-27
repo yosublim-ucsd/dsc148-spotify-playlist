@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Only Monday
+> ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: GEMINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,673 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,727 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 |
-| 2 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
-| 3 | [ท้ายปี](https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ท้ายปี \- Single](https://open.spotify.com/album/6GRgfeM13bUQOSCTssD4fG) | 4:45 |
-| 4 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 |
-| 5 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
-| 6 | [วิงวอน \(ex\-change\)](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
-| 7 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
-| 8 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 9 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
-| 10 | [น้ำหอม](https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [น้ำหอม \- Single](https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka) | 3:27 |
-| 11 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
-| 12 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
-| 13 | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 |
-| 14 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
-| 15 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 |
-| 16 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
-| 17 | [ค้าง \(STILL\)](https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ค้าง \(STILL\) \- Single](https://open.spotify.com/album/7IX2i9DpXH6GO3VcD9PFTC) | 4:09 |
+| 1 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
+| 2 | [ท้ายปี](https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ท้ายปี \- Single](https://open.spotify.com/album/6GRgfeM13bUQOSCTssD4fG) | 4:45 |
+| 3 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 |
+| 4 | [ค้าง \(STILL\)](https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ค้าง \(STILL\) \- Single](https://open.spotify.com/album/7IX2i9DpXH6GO3VcD9PFTC) | 4:09 |
+| 5 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 |
+| 6 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
+| 7 | [วิงวอน \(ex\-change\)](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
+| 8 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
+| 9 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
+| 10 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
+| 11 | [น้ำหอม](https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [น้ำหอม \- Single](https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka) | 3:27 |
+| 12 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
+| 13 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
+| 14 | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 |
+| 15 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
+| 16 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 |
+| 17 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 18 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
 | 19 | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D) | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/album/3CDUojnPiIiyslUq2WuTWb) | 3:53 |
 | 20 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
 | 50 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 
-Snapshot ID: `Z2RoOgAAAACnK7wiSQ1pD1/RlwROoIkk`
+Snapshot ID: `Z22EcQAAAABmWyg3d0GXAVmLu01snyP/`

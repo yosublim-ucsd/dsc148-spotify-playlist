@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,092 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,091 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 6 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 |
 | 7 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
 | 8 | [Desire paths](https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Desire paths](https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV) | 2:43 |
-| 9 | [Notturno](https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Notturno](https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc) | 3:11 |
-| 10 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 |
+| 9 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 |
+| 10 | [Notturno](https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Notturno](https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc) | 3:11 |
 | 11 | [Muse Of History](https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Muse Of History](https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi) | 2:21 |
 | 12 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
 | 13 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 41 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 |
 | 42 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 |
 | 43 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
-| 44 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 |
-| 45 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 |
-| 46 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
+| 44 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
+| 45 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 |
+| 46 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 |
 | 47 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
 | 48 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 |
 | 49 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |

@@ -1009,6 +1009,32 @@
     },
     {
       "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6se6rBdCnWt8kyhqbNfuWZ"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4N",
+          "url": "https://open.spotify.com/artist/3dAR6u0DLAjSCPCk1oeDiK"
+        },
+        {
+          "name": "YSI",
+          "url": "https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj"
+        },
+        {
+          "name": "1017 ALYX 9SM",
+          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/2l2fds3LKVxSxQNEmM4d47"
+    },
+    {
+      "album": {
         "name": "Seems Familiar But So Strange",
         "url": "https://open.spotify.com/album/7e5Tpz7tzdK53RMcorgoTS"
       },

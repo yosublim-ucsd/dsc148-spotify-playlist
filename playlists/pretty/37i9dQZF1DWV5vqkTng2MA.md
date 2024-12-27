@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,919 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,959 likes - 90 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 38 | [Funky Ghost](https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 4:08 |
 | 39 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
 | 40 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 |
-| 41 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
-| 42 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
-| 43 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 |
-| 44 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 |
-| 45 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 |
+| 41 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
+| 42 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
+| 43 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 |
+| 44 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 |
+| 45 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 |
 | 46 | [Every Night](https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo) | [Walker Lukens](https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4) | [Every Night](https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS) | 2:54 |
 | 47 | [Hey Mama](https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5) | [Great Caesar](https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1) | [Hey Mama](https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma) | 3:13 |
 | 48 | [Will I Ever Know](https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Cosmos](https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS) | 3:39 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 51 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 |
 | 52 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 53 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 |
-| 54 | [For Your Consideration](https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Have a Seat](https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ) | 3:51 |
-| 55 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
+| 54 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
+| 55 | [For Your Consideration](https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Have a Seat](https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ) | 3:51 |
 | 56 | [Stomp and Holler](https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Hard Working Americans](https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN) | 4:48 |
 | 57 | [When We Were On Fire](https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Dark Of The Morning EP](https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy) | 3:59 |
 | 58 | [Cold Times](https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Cold Times](https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7) | 3:33 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 66 | [What You Don't Do](https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [What You Don't Do](https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF) | 3:40 |
 | 67 | [King of Bohemia](https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy) | [Betty & Oswald](https://open.spotify.com/artist/3Z8uzX8UEtNGYskkZJ9Acp) | [King of Bohemia](https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0) | 3:38 |
 | 68 | [Washashore Cowgirl](https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK) | [Monica Rizzio](https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3) | [Washashore Cowgirl](https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP) | 3:05 |
-| 69 | [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:12 |
-| 70 | [It Must Change](https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [It Must Change](https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk) | 4:55 |
+| 69 | [It Must Change](https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [It Must Change](https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk) | 4:55 |
+| 70 | [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:12 |
 | 71 | [Cheap Champagne](https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Cheap Champagne](https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05) | 3:53 |
 | 72 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 |
 | 73 | [Sister Andre](https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Sister Andre](https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp) | 3:05 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 80 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
 | 81 | [Under The Sun](https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0) | 3:49 |
 | 82 | [Lost on the Young](https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:13 |
-| 83 | [Sideman](https://open.spotify.com/track/2f1SbP60TOdOSugoPWLJgS) | [Freddy & Francine](https://open.spotify.com/artist/3wA2OWembkibX1Og8rZ0gp) | [Gung Ho](https://open.spotify.com/album/5jBhs0DnTMJcge55rzftFA) | 2:48 |
-| 84 | [Rolling Over Me](https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Rolling Over Me](https://open.spotify.com/album/63oxuPBkp987wX1y353urb) | 4:49 |
+| 83 | [Rolling Over Me](https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Rolling Over Me](https://open.spotify.com/album/63oxuPBkp987wX1y353urb) | 4:49 |
+| 84 | [Sideman](https://open.spotify.com/track/2f1SbP60TOdOSugoPWLJgS) | [Freddy & Francine](https://open.spotify.com/artist/3wA2OWembkibX1Og8rZ0gp) | [Gung Ho](https://open.spotify.com/album/5jBhs0DnTMJcge55rzftFA) | 2:48 |
 | 85 | [Blind Ambition](https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx) | [Sophia Bastian](https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND) | [Blind Ambition](https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5) | 3:51 |
 | 86 | [What Does It Mean to Be](https://open.spotify.com/track/2KBUrHOzhyEA6bnhCyB563) | [American Babies](https://open.spotify.com/artist/5VCANg5vJdUmB2GyD6A7iF) | [An Epic Battle Between Light and Dark](https://open.spotify.com/album/2oU1UJK8nE7HmL5EooMy1q) | 3:21 |
 | 87 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 |
 | 88 | [Candid](https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3) | [MICKY](https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH) | [Candid](https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav) | 3:29 |
 | 89 | [Better Broken](https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:29 |
-| 90 | [Living Water](https://open.spotify.com/track/4o0PuOz0SpXuZXQCiwJz2j) | [Liz Brasher](https://open.spotify.com/artist/4IkjxZEL41t30RVaxrnoab) | [Painted Image](https://open.spotify.com/album/7hpHTYklBroOzIjIwXs4CI) | 2:59 |
+| 90 | [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 |
 
 Snapshot ID: `Ztp+QAAAAAAJrWwUJVq2G5+5z9wBLhJb`

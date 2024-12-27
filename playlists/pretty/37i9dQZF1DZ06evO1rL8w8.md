@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,377 likes - 52 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,432 likes - 52 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 49 | [La Chapiza \- En Vivo](https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [La Chapiza \(En Vivo\)](https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6) | 2:05 |
 | 50 | [El Golden Boy](https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Golden Boy](https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS) | 2:40 |
 | 51 | [El Empresario](https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Empresario](https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11) | 2:34 |
-| 52 | [El Spider](https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Spider](https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr) | 3:00 |
+| 52 | [El Ejecutor \(Bonus Track\)](https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:28 |
 
-Snapshot ID: `Z2n5gAAAAAC5QW15nfgyIoN55boNu7Jo`
+Snapshot ID: `Z2tLAAAAAADS3SYQu/D0+6I5PhSY5eDU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,299 likes - 125 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,330 likes - 125 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 62 | [Love Farewell](https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Good and Green Again](https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM) | 3:58 |
 | 63 | [wasting your love](https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [wasting your love](https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF) | 2:43 |
 | 64 | [World on a String](https://open.spotify.com/track/06uOV6fQr0khY0LzYcy4w0) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:09 |
-| 65 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
-| 66 | [Dear Mexico \(Thank You for Joyce\)](https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 4:05 |
+| 65 | [Dear Mexico \(Thank You for Joyce\)](https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 4:05 |
+| 66 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
 | 67 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 |
 | 68 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 |
-| 69 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
-| 70 | [Early to the Party](https://open.spotify.com/track/7bHW6RpriqTGOla0Zdt3TZ) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 4:05 |
+| 69 | [Early to the Party](https://open.spotify.com/track/7bHW6RpriqTGOla0Zdt3TZ) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 4:05 |
+| 70 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
 | 71 | [Planet Song](https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA) | [Margot Liotta](https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM) | [Planet Song](https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK) | 3:30 |
 | 72 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 |
 | 73 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 81 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 82 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |
 | 83 | [my house is warm](https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [my house is warm](https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp) | 3:35 |
-| 84 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
-| 85 | [Like a Brother](https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Like a Brother](https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM) | 3:32 |
-| 86 | [Either Way](https://open.spotify.com/track/1B6EfeMzx4lgAFHSdlg3qf) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Either Way](https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly) | 4:12 |
+| 84 | [Either Way](https://open.spotify.com/track/1B6EfeMzx4lgAFHSdlg3qf) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Either Way](https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly) | 4:12 |
+| 85 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
+| 86 | [Like a Brother](https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Like a Brother](https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM) | 3:32 |
 | 87 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 88 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
 | 89 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 99 | [Looking At People](https://open.spotify.com/track/6eH80huR96DL1awXtHKqf6) | [Julien Chang](https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS) | [Home For The Moment](https://open.spotify.com/album/6pUVU5RbGyFOJYPmUNKCOD) | 3:54 |
 | 100 | [Ribcage](https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Ribcage](https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34) | 2:57 |
 | 101 | [A Little Older](https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [A Little Older](https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR) | 3:02 |
-| 102 | [Backyard Lover](https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Backyard Lover](https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg) | 5:28 |
-| 103 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 |
+| 102 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 |
+| 103 | [Backyard Lover](https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Backyard Lover](https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg) | 5:28 |
 | 104 | [Sink;Swim](https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 2:57 |
 | 105 | [Blue Moon \(with paris jackson\)](https://open.spotify.com/track/4u49em2HjO33qX3CkGCzNZ) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Blue Moon \(with paris jackson\)](https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU) | 2:29 |
 | 106 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 109 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 |
 | 110 | [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 |
 | 111 | [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 |
-| 112 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
-| 113 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
+| 112 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
+| 113 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
 | 114 | [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 |
 | 115 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 |
 | 116 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 119 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 | 120 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
 | 121 | [Witch Hazel](https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e) | [Karen Took The Kids](https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE) | [Witch Hazel](https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn) | 4:22 |
-| 122 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 |
-| 123 | [All Weekend](https://open.spotify.com/track/7DEmnCv6ppnG23avTU1ekM) | [Cindy](https://open.spotify.com/artist/5C8xxfvMhwwxeSz4LZm41N) | [All Weekend](https://open.spotify.com/album/3JmH9vxIZzdeX5uQtQI3oW) | 3:42 |
+| 122 | [All Weekend](https://open.spotify.com/track/7DEmnCv6ppnG23avTU1ekM) | [Cindy](https://open.spotify.com/artist/5C8xxfvMhwwxeSz4LZm41N) | [All Weekend](https://open.spotify.com/album/3JmH9vxIZzdeX5uQtQI3oW) | 3:42 |
+| 123 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 |
 | 124 | [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 |
 | 125 | [silver girl](https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [dope girl chronicles](https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH) | 3:25 |
 

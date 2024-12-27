@@ -2,9 +2,9 @@
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap og den vibe ❄️ <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> & <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah</a> ❄️
+> det madnessss 🫣 <a href="spotify:artist:1YwMnnHvnG64fJxYSVwmN6">Branco</a> & <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">Artigeardit</a>
 
-263 songs - 11 hr 19 min
+266 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2 Kanoner](https://open.spotify.com/track/0cqiuOOf7cZvp3dTq1AQmA) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/3OJwewaRbFMwueVlJpfssy) | 2:40 | 2024-04-18 | 2024-05-03 |
 | [2 Kanoner](https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p) | 2:40 | 2023-09-21 | 2024-04-19 |
 | [2 Sider](https://open.spotify.com/track/0H0YR67BTGnCM45tmqvt2Z) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [2 Sider](https://open.spotify.com/album/6ZDIPlUNce9ZHxIzT0b4ka) | 2:16 | 2024-10-24 | 2024-11-08 |
+| [2 Stepper Freestyle](https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [2 Stepper Freestyle](https://open.spotify.com/album/3R1WXSHdUszaP4eL8yQrQy) | 3:20 | 2024-12-26 |  |
 | [33](https://open.spotify.com/track/5pRUX652p9FfIQVmJNtz9d) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS), [Vince Keys](https://open.spotify.com/artist/4udv1bgrUxxKrVg566urM6) | [33](https://open.spotify.com/album/5Ytdk3d0W8f27FngQnDFqC) | 2:30 | 2024-10-03 |  |
 | [4 LIFE](https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [4 LIFE](https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL) | 2:46 | 2024-09-05 | 2024-11-08 |
 | [4 LIFE](https://open.spotify.com/track/3oR0iJiqjO5onYOs8ThQa1) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [4 LIFE](https://open.spotify.com/album/2ZSarbwHOnvmj19c4jiVey) | 2:28 | 2023-09-21 | 2024-05-14 |
@@ -162,10 +163,12 @@
 | [Lean Back](https://open.spotify.com/track/3C5GTbN0DjMWqoW8MrfsaS) | [LEE](https://open.spotify.com/artist/0tQ5b76y1jrXNQ63299Sgv) | [Lean Back](https://open.spotify.com/album/2X19I3nqDmmzm0bhxS4ww0) | 1:55 | 2023-11-10 | 2023-12-14 |
 | [LEV I NUET](https://open.spotify.com/track/5fHydJvKwLenrvyczUqXBq) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [LEV I NUET](https://open.spotify.com/album/217rsfZFitLn1ris3ZjEEJ) | 2:16 | 2024-01-11 | 2024-09-13 |
 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 | 2024-05-14 |
+| [LIBIDO \(feat\. Klamfyr\)](https://open.spotify.com/track/0vgUUxwkExFRwBF4cRGkGw) | [Carl Knast](https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug), [Klamfyr](https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS) | [LIBIDO \(feat\. Klamfyr\)](https://open.spotify.com/album/1BdZ4GEduxlWS687hqZixY) | 4:10 | 2024-12-26 |  |
 | [Lidt Længere \(feat\. Emil Kruse\)](https://open.spotify.com/track/1i4vUaRYZn43PjXSzwDFJY) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [OG SÅ VIDERE](https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3) | 3:02 | 2024-03-07 | 2024-04-05 |
 | [LIGE HER \(feat\. Merro8\)](https://open.spotify.com/track/2XxScNmAUrcOcl2BSwmI8U) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [LIGE HER \(feat\. Merro8\)](https://open.spotify.com/album/3gf6BCBVuV6u14xoG6xGIJ) | 2:13 | 2024-06-06 |  |
 | [Livet Er Kort](https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:20 | 2024-02-22 | 2024-05-14 |
 | [M.I.A.](https://open.spotify.com/track/2DuNtzbWVQW07iQB4SM5G4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [M.I.A.](https://open.spotify.com/album/7x7gT4ktG3CfZelluqSQSx) | 2:36 | 2024-06-27 | 2024-09-13 |
+| [MADNESS \(feat\. Artigeardit\)](https://open.spotify.com/track/2WuXxMvcuRqrfXAMXtXM9s) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [BABA BUSINESS 3 \(DELUXE\)](https://open.spotify.com/album/4JITSDwkgMxh2VK5ScfMEl) | 2:18 | 2024-12-26 |  |
 | [MAGIC AIRLINES \(feat\. Blæst\)](https://open.spotify.com/track/2BwK0nlKXl065pfHhbEoCy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:43 | 2024-05-23 | 2024-09-13 |
 | [MASKINEN](https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/2UOXeTje2by7s3e8nLdc5q) | 2:13 | 2023-11-16 | 2024-09-13 |
 | [MASKINEN](https://open.spotify.com/track/2dgFFuTVQgX482FK3qA3fW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/7aDIiIQVIGVi5b0gYVHMhk) | 2:13 | 2024-02-22 | 2024-04-19 |

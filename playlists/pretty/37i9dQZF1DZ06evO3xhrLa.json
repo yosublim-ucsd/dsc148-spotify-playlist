@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 238159,
+  "num_followers": 238187,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAAq3pgg73PIjuUEIGB8B+7z",
+  "snapshot_id": "Z2tLAAAAAABw0zOwafH1lGNQ/WYHjVUH",
   "tracks": [
     {
       "added_at": null,
@@ -112,9 +112,9 @@
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 152400,
-      "name": "2 seconds - Bonus",
-      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
+      "duration_ms": 241773,
+      "name": "my mine",
+      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
     },
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 241773,
-      "name": "my mine",
-      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
+      "duration_ms": 152400,
+      "name": "2 seconds - Bonus",
+      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 321826,
-      "name": "Comfort Inn Ending (Freestyle)",
-      "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First Fuck",
         "url": "https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 205489,
       "name": "First Fuck",
       "url": "https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 321826,
+      "name": "Comfort Inn Ending (Freestyle)",
+      "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
     },
     {
       "added_at": null,

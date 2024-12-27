@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 
 > Os maiores hits do pop dos últimos tempos estão reunidos nesta playlist! Foto: Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,860 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,066 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 85 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 86 | [Electricity](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Electricity](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 |
 | 87 | [Firework](https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
-| 88 | [Misery](https://open.spotify.com/track/0RZyUsKfiC7MtiGKatCtGc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Revised International Standard version\)](https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn) | 3:36 |
-| 89 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 |
+| 88 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 |
+| 89 | [Misery](https://open.spotify.com/track/0RZyUsKfiC7MtiGKatCtGc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Revised International Standard version\)](https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn) | 3:36 |
 | 90 | [Bad Blood](https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Bad Blood](https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE) | 3:20 |
 | 91 | [Irreplaceable](https://open.spotify.com/track/1G7DcLzPnopdZjLkev0K4e) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO) | 3:47 |
 | 92 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY) | 3:00 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 94 | [What a Girl Wants \- ft\. Sabrina Carpenter \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:55 |
 | 95 | [Bang](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bang](https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK) | 3:10 |
 | 96 | [Whenever, Wherever](https://open.spotify.com/track/0RJWhctsc1G1Hg3Ov2th7x) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Servicio De Lavandería](https://open.spotify.com/album/62F8unRY46ZDR2EE5ag5Z5) | 3:17 |
-| 97 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
-| 98 | [When You Look Me In The Eyes](https://open.spotify.com/track/4kf33kU0KAlkNBK9pNbYNU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 4:09 |
+| 97 | [When You Look Me In The Eyes](https://open.spotify.com/track/4kf33kU0KAlkNBK9pNbYNU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 4:09 |
+| 98 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
 | 99 | [Ragatanga \(Asereje\) \- Versão Editada](https://open.spotify.com/track/7aSwDCjueXPEIf3OeZiRFR) | [Rouge](https://open.spotify.com/artist/7oCPozHYsiILeiQlma8EEj) | [Rouge](https://open.spotify.com/album/1rYxygMuPRcU7rRUu3Zp3k) | 3:31 |
 | 100 | [A Lenda](https://open.spotify.com/track/1mBaOJ4OPDqJBMp0luG7Ej) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [As Quatro Estações \(Ao Vivo\)](https://open.spotify.com/album/6TtQt38vkUQkbIljv80oB2) | 4:31 |
 

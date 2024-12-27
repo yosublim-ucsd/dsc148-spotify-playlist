@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,276 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,290 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 49 | [Style Rare \(with Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(with Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 |
 | 50 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 |
 | 51 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 |
-| 52 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
-| 53 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
+| 52 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
+| 53 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
 | 54 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 |
 | 55 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 |
 | 56 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |

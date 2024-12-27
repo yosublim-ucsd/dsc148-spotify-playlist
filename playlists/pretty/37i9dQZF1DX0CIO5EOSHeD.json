@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 501934,
+  "num_followers": 501958,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Fuzzy",
+        "url": "https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW"
+      },
+      "artists": [
+        {
+          "name": "Freeds",
+          "url": "https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi"
+        }
+      ],
+      "duration_ms": 176872,
+      "name": "Fuzzy",
+      "url": "https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 219205,
       "name": "Reality",
       "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "Fuzzy",
-        "url": "https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW"
-      },
-      "artists": [
-        {
-          "name": "Freeds",
-          "url": "https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi"
-        }
-      ],
-      "duration_ms": 176872,
-      "name": "Fuzzy",
-      "url": "https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
+        "name": "at least, I tried",
+        "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
       },
       "artists": [
         {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
         }
       ],
-      "duration_ms": 220377,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
+      "duration_ms": 194060,
+      "name": "at least, I tried",
+      "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "at least, I tried",
-        "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
       },
       "artists": [
         {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 194060,
-      "name": "at least, I tried",
-      "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
+      "duration_ms": 220377,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
     },
     {
       "added_at": "2024-07-09 21:52:54",

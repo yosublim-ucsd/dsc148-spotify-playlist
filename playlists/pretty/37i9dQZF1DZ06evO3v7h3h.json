@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46198,
+  "num_followers": 46200,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAABkYUOcnBJHCmtX1CbK6UNe",
+  "snapshot_id": "Z2tLAAAAAAC6PQABOOynxxS8FlS6ORP9",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dr. Drill",
+        "url": "https://open.spotify.com/album/0uc0wcg2BWv4J8NtrzPRK0"
+      },
+      "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Insane Tracks",
+          "url": "https://open.spotify.com/artist/1eEi4Stf9m65EW0JwWodYZ"
+        }
+      ],
+      "duration_ms": 251418,
+      "name": "Aulas e Palestras",
+      "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00fasicas pra Sair na M\u00e3o, Vol. 1",
         "url": "https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby"
       },
@@ -555,34 +583,6 @@
       "duration_ms": 291063,
       "name": "Quebrada UFC",
       "url": "https://open.spotify.com/track/2nB4nMit4x0LK6rQMHIUia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dr. Drill",
-        "url": "https://open.spotify.com/album/0uc0wcg2BWv4J8NtrzPRK0"
-      },
-      "artists": [
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Insane Tracks",
-          "url": "https://open.spotify.com/artist/1eEi4Stf9m65EW0JwWodYZ"
-        }
-      ],
-      "duration_ms": 251418,
-      "name": "Aulas e Palestras",
-      "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Non Ducor Duco",
         "url": "https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 243400,
       "name": "Porque Eu Rimo",
       "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
     },
     {
       "added_at": null,
@@ -1083,6 +1083,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 265896,
+      "name": "Tudo Ou Nada",
+      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bem Longe do Fim",
         "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 165818,
       "name": "Mais que Refr\u00e3o",
       "url": "https://open.spotify.com/track/0sn1LzuoN2frfvwNMsKtAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 265896,
-      "name": "Tudo Ou Nada",
-      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
     },
     {
       "added_at": null,

@@ -4410,7 +4410,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 409000,
       "name": "S.Y.P.T. (Show Your PentaTonic)",
       "url": "https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4"
@@ -6323,20 +6323,24 @@
     },
     {
       "album": {
-        "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fb",
+        "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fbfeat.\u6728\u6751\u30a4\u30aa\u30ea",
         "url": "https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2"
       },
       "artists": [
         {
           "name": "Udagawa Bekkan Band",
           "url": "https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh"
+        },
+        {
+          "name": "Iori Kimura",
+          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
         }
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 310264,
-      "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fb",
+      "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fbfeat.\u6728\u6751\u30a4\u30aa\u30ea",
       "url": "https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey"
     },
     {

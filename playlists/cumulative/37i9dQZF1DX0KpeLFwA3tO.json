@@ -3317,6 +3317,24 @@
     },
     {
       "album": {
+        "name": "Extremely Fragile Human Being",
+        "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
+      },
+      "artists": [
+        {
+          "name": "Good Hangs",
+          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190673,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
+    },
+    {
+      "album": {
         "name": "Beautiful Out",
         "url": "https://open.spotify.com/album/0MLwq2J3bl3yWfT554oNum"
       },

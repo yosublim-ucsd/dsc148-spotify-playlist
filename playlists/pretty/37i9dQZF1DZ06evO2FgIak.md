@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,140 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,147 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 11 | [I Feel So Good](https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:54 |
 | 12 | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/track/3R8jEWbqIexfbDteE3jlOz) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 2:59 |
 | 13 | [Forty Days And Forty Nights](https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:54 |
-| 14 | [I Can't Be Satisfied](https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
+| 14 | [I'm Ready](https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:04 |
 | 15 | [Champagne & Reefer](https://open.spotify.com/track/7kqGCWwUTnwisFFz5d37gE) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 4:35 |
 | 16 | [The Same Thing](https://open.spotify.com/track/5tDx3DmAvMfB5dPHiTbtse) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 2:45 |
 | 17 | [Honey Bee](https://open.spotify.com/track/2XwAWk73TyUGjXkYFBz8Ys) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [More Real Folk Blues](https://open.spotify.com/album/2ehO3e7Bp6PnyqTWCqErMs) | 3:20 |
-| 18 | [I'm Ready](https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:04 |
+| 18 | [I Can't Be Satisfied](https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
 | 19 | [Goin' Down Slow](https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 4:49 |
 | 20 | [You Gonna Need My Help](https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:13 |
 | 21 | [The Blues Had a Baby and They Named It Rock and Roll](https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:34 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 44 | [Worried Life Blues \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/56itvurydIT3dgXua4a3zr) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 4:44 |
 | 45 | [You Can't Judge A Book By Its Cover](https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:29 |
 | 46 | [Ooh, Baby / Wrecking My Love Life \- Medley](https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 6:34 |
-| 47 | [Black Cat Bone / Dust My Broom \- Live](https://open.spotify.com/track/2BOmAaz4fIMMFTGwT05NvS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Breakin' It Up, Breakin' It Down](https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl) | 5:53 |
-| 48 | [Screamin' and Cryin'](https://open.spotify.com/track/0T8mys4YwJPSRDRAw4Co1g) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [I'm Ready](https://open.spotify.com/album/4mh3XUBkBiIpCCriJ4mYNP) | 5:04 |
+| 47 | [Screamin' and Cryin'](https://open.spotify.com/track/0T8mys4YwJPSRDRAw4Co1g) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [I'm Ready](https://open.spotify.com/album/4mh3XUBkBiIpCCriJ4mYNP) | 5:04 |
+| 48 | [Black Cat Bone / Dust My Broom \- Live](https://open.spotify.com/track/2BOmAaz4fIMMFTGwT05NvS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Breakin' It Up, Breakin' It Down](https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl) | 5:53 |
 | 49 | [Walkin' Blues](https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:58 |
 | 50 | [Key To The Highway](https://open.spotify.com/track/4GtWHmkHwW32qmmhmhCKwn) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The London Muddy Waters Sessions](https://open.spotify.com/album/3TkwYJJO9Q6aE4pNcEF1NC) | 2:27 |
 
-Snapshot ID: `Z2n5gAAAAADCTx4wqX0sO6kKVB0+7apJ`
+Snapshot ID: `Z2tLAAAAAABcOSfSArOZgI5hyP27I2MU`

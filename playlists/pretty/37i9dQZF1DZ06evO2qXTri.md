@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,913 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,930 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 22 | [OK](https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 3:56 |
 | 23 | [Could've Been \(with J Moss & Tye Tribbett\)](https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:47 |
 | 24 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
-| 25 | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 |
-| 26 | [A God Like You](https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 6:18 |
+| 25 | [A God Like You](https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 6:18 |
+| 26 | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 |
 | 27 | [Millionaire \(Good Like That\)](https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 2:55 |
 | 28 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM) | 7:03 |
 | 29 | [Never Alone](https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Thank God](https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI) | [Thank God](https://open.spotify.com/album/3SVVpAm8enSoy5Ab4NUQAR) | 4:14 |
 | 50 | [Father Knows Best](https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 6:31 |
 
-Snapshot ID: `Z2n5gAAAAAD8fbdoXq6N15/41wKMu5Wz`
+Snapshot ID: `Z2tLAAAAAADMdOC733DVpy3rsF9bfyY1`

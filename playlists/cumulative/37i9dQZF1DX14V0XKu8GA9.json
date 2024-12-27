@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: Alexcis & Rowdy Racks",
+  "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: Lefty Gunplay",
   "name": "Our Wave, Nuestro Hip-Hop",
   "tracks": [
     {
@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 177097,
       "name": "Ask For More",
       "url": "https://open.spotify.com/track/6Oh43MvcSyaaISNavkrWRY"
@@ -1394,6 +1394,24 @@
       "duration_ms": 180000,
       "name": "Born With It",
       "url": "https://open.spotify.com/track/1dxSihlLO2uSolxuiMI94i"
+    },
+    {
+      "album": {
+        "name": "Borrowed time",
+        "url": "https://open.spotify.com/album/59wph5q8DoP9zhNJQjnidZ"
+      },
+      "artists": [
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214488,
+      "name": "Borrowed time",
+      "url": "https://open.spotify.com/track/6ZOPO20Ai4WnXC5Efnf6D9"
     },
     {
       "album": {
@@ -3021,6 +3039,28 @@
     },
     {
       "album": {
+        "name": "Most Valuable Gangbanger",
+        "url": "https://open.spotify.com/album/6gDp92lZ4xSQou6vUnt5ax"
+      },
+      "artists": [
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        },
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142586,
+      "name": "Gang Shit",
+      "url": "https://open.spotify.com/track/3sJgnvaZwgEezB6rzjsapm"
+    },
+    {
+      "album": {
         "name": "Gangsta",
         "url": "https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27"
       },
@@ -4501,6 +4541,28 @@
     },
     {
       "album": {
+        "name": "Look at me now",
+        "url": "https://open.spotify.com/album/2A97hWGmvLwYs0PnrJX434"
+      },
+      "artists": [
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
+        },
+        {
+          "name": "Drex The Joint",
+          "url": "https://open.spotify.com/artist/3JlALbNDsfWgjB6jUnTYjU"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140247,
+      "name": "Look at me now",
+      "url": "https://open.spotify.com/track/22LdxijpcYaGtmbq76rAcm"
+    },
+    {
+      "album": {
         "name": "Rookie of the Year",
         "url": "https://open.spotify.com/album/0YMSaf780lJceuMCohn7Xy"
       },
@@ -5319,6 +5381,32 @@
     },
     {
       "album": {
+        "name": "Never Switch",
+        "url": "https://open.spotify.com/album/7xvmAKqRJIyJr5G7MeAfJ7"
+      },
+      "artists": [
+        {
+          "name": "Khaos $upreme",
+          "url": "https://open.spotify.com/artist/71HPYEkTZJ8VJPGAk1v6gG"
+        },
+        {
+          "name": "Street Active",
+          "url": "https://open.spotify.com/artist/5C6FNIcIxaMn3s9HERVnl9"
+        },
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144222,
+      "name": "Never Switch",
+      "url": "https://open.spotify.com/track/61xKjcHW1wqVcbyWXU9Tg4"
+    },
+    {
+      "album": {
         "name": "New Era Cypher (feat. Rowdy Racks)",
         "url": "https://open.spotify.com/album/3pGIy4ZUXcTPAV85Dfvdor"
       },
@@ -5480,6 +5568,24 @@
       "duration_ms": 185514,
       "name": "No Saint",
       "url": "https://open.spotify.com/track/6f5F1SoRor9yHMLty9cfmd"
+    },
+    {
+      "album": {
+        "name": "Peysoh Did It",
+        "url": "https://open.spotify.com/album/0vrkhx5cRnzXHWEaLkrwOp"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Not Me",
+      "url": "https://open.spotify.com/track/0Zdmd3wlVvDbVAj1dfqxbT"
     },
     {
       "album": {
@@ -7526,7 +7632,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 271505,
       "name": "Sub Zero",
       "url": "https://open.spotify.com/track/33FHjPth36LYUN84v1qEg0"
@@ -7968,6 +8074,24 @@
       "duration_ms": 179340,
       "name": "Thinking Hurts",
       "url": "https://open.spotify.com/track/4g4cBK9ONBO2SCK9LYuTfI"
+    },
+    {
+      "album": {
+        "name": "This Aint What You Want",
+        "url": "https://open.spotify.com/album/4eDwVKJ5KMewChQ48GoscC"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211179,
+      "name": "This Aint What You Want",
+      "url": "https://open.spotify.com/track/2lVktfUWhP52DIOsItzaCN"
     },
     {
       "album": {
@@ -8742,6 +8866,32 @@
       "duration_ms": 163605,
       "name": "What You Say (Aye, Aye, Aye)",
       "url": "https://open.spotify.com/track/3poEVYB66Q2x8y2ADvkZlN"
+    },
+    {
+      "album": {
+        "name": "Whateva",
+        "url": "https://open.spotify.com/album/7dMSoPakzeMIVyYFFlO99x"
+      },
+      "artists": [
+        {
+          "name": "Serious Gambino",
+          "url": "https://open.spotify.com/artist/4Q3g7zqS8thBSsdpaVReLM"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        },
+        {
+          "name": "Gold Ru$h",
+          "url": "https://open.spotify.com/artist/3sVYPRJMeQlb0T1wmWSDrg"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196780,
+      "name": "Whateva",
+      "url": "https://open.spotify.com/track/5sMHV1NB4ndHut9IgRWy31"
     },
     {
       "album": {

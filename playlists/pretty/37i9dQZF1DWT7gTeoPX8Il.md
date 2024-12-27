@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,522 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,604 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 28 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
 | 29 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 |
 | 30 | [Mengenangmu](https://open.spotify.com/track/6l9L0ssWzD5XI1aJgVFpaS) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Kenyataan Perasaan](https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00) | 4:37 |
-| 31 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 |
-| 32 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 |
+| 31 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 |
+| 32 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 |
 | 33 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 |
 | 34 | [Pelangi](https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:37 |
 | 35 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 47 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 |
 | 48 | [Bila Rasaku Ini Rasamu](https://open.spotify.com/track/5v3yHNK2lYzS3gMPlsugoP) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:32 |
 | 49 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 |
-| 50 | [Reminisensi](https://open.spotify.com/track/0TRKtVvsVmOkXCvnq5AgNE) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Kepala Batu EP](https://open.spotify.com/album/6U1Imk9cN9VSNQrnHMgGkY) | 4:25 |
+| 50 | [Kasih Tak Sampai](https://open.spotify.com/track/1oAWbr6TXkRajJKgSm1vF5) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg) | [Sesuatu Yang Tertunda](https://open.spotify.com/album/6mkU1z9nlxjLcmFHz7TsX1) | 4:53 |
 
 Snapshot ID: `Z1sWpwAAAAC69ozHSKaAkcI3+ckfqX0Y`

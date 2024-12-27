@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 196595,
       "name": "2 Days",
       "url": "https://open.spotify.com/track/1XNKXmkefgu40Np0EwJ82V"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 266250,
       "name": "Anjaane",
       "url": "https://open.spotify.com/track/7mU4PgUQpshQMDpKXLHhtV"
@@ -1324,6 +1324,28 @@
       "duration_ms": 149245,
       "name": "Baari Barsi",
       "url": "https://open.spotify.com/track/2HGJVQdduQ756MmKArW0Vj"
+    },
+    {
+      "album": {
+        "name": "Baatcheet",
+        "url": "https://open.spotify.com/album/4p84keCZQqsCx3wFG1tic9"
+      },
+      "artists": [
+        {
+          "name": "Turban Beats",
+          "url": "https://open.spotify.com/artist/6Ddk8RlrCsHSGe2e4qafZE"
+        },
+        {
+          "name": "Raghu Bro",
+          "url": "https://open.spotify.com/artist/0lK7gviSz1bI4onUqCVgP3"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199964,
+      "name": "Baatcheet",
+      "url": "https://open.spotify.com/track/0atsnUg3QDvJ3c7VuEtNuy"
     },
     {
       "album": {
@@ -3672,6 +3694,36 @@
       "duration_ms": 265327,
       "name": "Dev Nagri",
       "url": "https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv"
+    },
+    {
+      "album": {
+        "name": "Dhak Dhak",
+        "url": "https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Dhak Dhak",
+      "url": "https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N"
     },
     {
       "album": {
@@ -6768,7 +6820,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 154197,
       "name": "Jawani",
       "url": "https://open.spotify.com/track/2Ymc0aIHa3ifiHlXHvrQhI"
@@ -11496,6 +11548,24 @@
       "duration_ms": 115636,
       "name": "Sanak",
       "url": "https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP"
+    },
+    {
+      "album": {
+        "name": "Santa Claws",
+        "url": "https://open.spotify.com/album/57wRsBWhc28pMp72Dew1dt"
+      },
+      "artists": [
+        {
+          "name": "Agsy",
+          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150681,
+      "name": "Santa Claws",
+      "url": "https://open.spotify.com/track/0TY80GStM6cxDDyLSYswni"
     },
     {
       "album": {

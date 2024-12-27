@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ปก: James ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,233 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,303 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

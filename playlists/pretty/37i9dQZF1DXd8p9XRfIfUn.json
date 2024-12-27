@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 77700,
+  "num_followers": 77719,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Wasa Wasa",
-        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Wasa Wasa",
-      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "Wasa Wasa",
+        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Wasa Wasa",
+      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -787,30 +787,18 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Como \u00d1engo (feat. Jota Rosa)",
-        "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
+        "name": "La del Tik Tok",
+        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
       },
       "artists": [
         {
-          "name": "Club16",
-          "url": "https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF"
-        },
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Jota Rosa",
-          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
         }
       ],
-      "duration_ms": 204136,
-      "name": "Como \u00d1engo (feat. Jota Rosa)",
-      "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
+      "duration_ms": 257592,
+      "name": "La del Tik Tok",
+      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -835,22 +823,6 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "La del Tik Tok",
-        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 257592,
-      "name": "La del Tik Tok",
-      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
         "name": "Dimelo Ma",
         "url": "https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh"
       },
@@ -867,6 +839,34 @@
       "duration_ms": 173187,
       "name": "Dimelo Ma",
       "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "Como \u00d1engo (feat. Jota Rosa)",
+        "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
+      },
+      "artists": [
+        {
+          "name": "Club16",
+          "url": "https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Jota Rosa",
+          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
+        }
+      ],
+      "duration_ms": 204136,
+      "name": "Como \u00d1engo (feat. Jota Rosa)",
+      "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Chakalicious",
-        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Chakalicious",
-      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
         "name": "Mi Primer Amor",
         "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 181413,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "Chakalicious",
+        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Chakalicious",
+      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
     },
     {
       "added_at": "2024-12-17 19:27:27",

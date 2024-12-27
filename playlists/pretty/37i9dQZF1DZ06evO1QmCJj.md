@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,059 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,073 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 50 | [Nada A Nadie](https://open.spotify.com/track/1Izr80WaWR61ja0mdXTRVQ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:02 |
 | 51 | [Fuerte](https://open.spotify.com/track/3uXGLqSmVher9OpP23ao0G) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:03 |
 
-Snapshot ID: `Z2n5gAAAAABHHPr2UDC9JYxm2V6hI5Og`
+Snapshot ID: `Z2tLAAAAAADKYM1iSbjW04U2l3mLjuL8`

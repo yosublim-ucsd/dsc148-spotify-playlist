@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,273 likes - 66 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,290 likes - 66 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 16 | [If I Hadn't Been High](https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 4:06 |
 | 17 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
 | 18 | [Ain't Times Hard](https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu) | [Nick Moss & The Flip Tops](https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk), [Barrelhouse Chuck](https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO), [Kate Moss](https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269) | [Count Your Blessings](https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl) | 4:01 |
-| 19 | [Papa's on the House Top](https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3) | [Leroy Carr](https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR) | [The Essential Leroy Carr](https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT) | 2:55 |
-| 20 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
+| 19 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
+| 20 | [Papa's on the House Top](https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3) | [Leroy Carr](https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR) | [The Essential Leroy Carr](https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT) | 2:55 |
 | 21 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
 | 22 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
 | 23 | [Ooh La La](https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [La cave saravah, vol.1](https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa) | 6:09 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 31 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |
 | 32 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
 | 33 | [Roll 'Em, Pete \(12\-30\-38\)](https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc) | [Pete Johnson](https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ) | [Complete Jazz Series 1938 \- 1939](https://open.spotify.com/album/49qNKP9EtVam3jzG7eci5T) | 2:51 |
-| 34 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
-| 35 | [I Don't Know](https://open.spotify.com/track/1MNnR6qxBeh4AJVTwa8Q6y) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [The Seventh Son](https://open.spotify.com/album/1foLQZbtfVc6dbNA7uwFBN) | 3:10 |
+| 34 | [I Don't Know](https://open.spotify.com/track/1MNnR6qxBeh4AJVTwa8Q6y) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [The Seventh Son](https://open.spotify.com/album/1foLQZbtfVc6dbNA7uwFBN) | 3:10 |
+| 35 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
 | 36 | [Empty Arms](https://open.spotify.com/track/1Zi46GcDlazYsBPjeNW97E) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blue Horizon Story 1965 \- 1970 Vol.1](https://open.spotify.com/album/3GQzONst8rESPmcCXTn5jp) | 2:50 |
 | 37 | [New York City Blues](https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Afterglow](https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ) | 4:00 |
 | 38 | [Honky Tonk](https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV) | [Tuts Washington](https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI) | [New Orleans Piano Professor](https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy) | 3:22 |

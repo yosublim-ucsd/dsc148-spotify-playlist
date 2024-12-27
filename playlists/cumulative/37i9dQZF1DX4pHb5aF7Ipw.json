@@ -3410,7 +3410,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 154285,
       "name": "Killin og",
       "url": "https://open.spotify.com/track/6Xm1o9U9YKereLcrvAp8bH"
@@ -5944,6 +5944,28 @@
       "duration_ms": 176000,
       "name": "Three Years",
       "url": "https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5N9L6tYacD0NXNZZbbDWde"
+      },
+      "artists": [
+        {
+          "name": "Lafz",
+          "url": "https://open.spotify.com/artist/3AFsfA31wg6nLvZwSKFszq"
+        },
+        {
+          "name": "Still",
+          "url": "https://open.spotify.com/artist/0eFqC7KVSJ760f3YOgrleN"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6kprKPgyWUBzNyXLze0Otd"
     },
     {
       "album": {

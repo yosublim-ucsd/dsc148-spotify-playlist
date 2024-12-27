@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Uche Agu
 
-154 songs - 20 hr 19 min
+156 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Ngeke Ng'suke Kuwe \(Reprise\)](https://open.spotify.com/track/745RBWUsOh6awyKAehigkT) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Be Still \(He is God\)](https://open.spotify.com/album/0cSgKbP6SYCKNzxuPIQ60g) | 1:51 | 2024-02-23 |  |
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2024-02-23 | 2024-11-22 |
 | [Nita Amini \- Live](https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Nita Amini \(Live\)](https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9) | 12:59 | 2024-03-01 |  |
+| [No Name \- Live](https://open.spotify.com/track/2XezacK0BDNXfBtZfpWYad) | [WISDOM K](https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd) | [I Do Worship \(Live\)](https://open.spotify.com/album/6zEW3FcmWLMTpoGZdKzgxC) | 10:38 | 2024-12-27 |  |
 | [No Weapon](https://open.spotify.com/track/5THnN0q7w8w34BMp7WGZlA) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All Things New](https://open.spotify.com/album/1S1Zy7QMIHAZAWXY5Uy55n) | 5:14 | 2024-11-15 |  |
 | [No Weapon \- Live](https://open.spotify.com/track/0zjH1ORxrD8ix0JmwzdScZ) | [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [No Weapon \(Live\)](https://open.spotify.com/album/3WZc9y8iZRqWOzhxTO0WQu) | 11:46 | 2024-10-04 | 2024-10-11 |
 | [None As Great \(feat\. IBKSings\)](https://open.spotify.com/track/04uOK00GAvZa8UCf3bX5Hd) | [Abby Godwin](https://open.spotify.com/artist/2vKfioYB4bNu6OIXMkwC6I), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [None As Great \(feat\. IBKSings\)](https://open.spotify.com/album/0Tnya0sXXeYwRgsrFAowtD) | 7:04 | 2024-10-05 | 2024-12-20 |
@@ -133,6 +134,7 @@
 | [The Promise \- Live](https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Promise \(Live\)](https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz) | 10:50 | 2024-02-23 | 2024-11-22 |
 | [The River of God \(Spontaneous Worship\)](https://open.spotify.com/track/6Su3RQXSE6EM0Y7yjP2ZdB) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d), [Favour oke](https://open.spotify.com/artist/0qf4ZwhKZa94xhVHi1n1RJ), [Divine Dambo](https://open.spotify.com/artist/1O08svmPNmRwqRTwD6SBD1) | [The River of God \(Spontaneous Worship\)](https://open.spotify.com/album/5zIhyUluaJE2VEOTW95ofy) | 4:14 | 2024-08-23 | 2024-11-22 |
 | [The Whole Earth Will See \(A.K.A\. America Will See\) \- Live](https://open.spotify.com/track/5K5MC4N7ssLISfrZxsR77c) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [The Whole Earth Will See \(A.K.A\. America Will See\) \[Live\]](https://open.spotify.com/album/5KQVYUBgdMMJHinwxwN9h2) | 5:48 | 2024-07-26 | 2024-11-15 |
+| [There Is No One Like You \- Live](https://open.spotify.com/track/7F8lQye04abqZZGij3meR6) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [There Is No One Like You \(Live\)](https://open.spotify.com/album/6AyUiJe2Lac5IV8Q9hpanp) | 9:07 | 2024-12-27 |  |
 | [This I Know \(Live\)](https://open.spotify.com/track/7BOWDxh0VtkGANSS1kJuSU) | [Rivers Worship](https://open.spotify.com/artist/57XcYA50Fcakr6lTthQkaQ) | [This I Know \(Live\)](https://open.spotify.com/album/1HhiEyC98ZrJ1B7w3nDoUD) | 6:54 | 2024-10-25 |  |
 | [This Kind God Alujo \- Live](https://open.spotify.com/track/02dKUrS82pTtmcPaASGngT) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [David Kida](https://open.spotify.com/artist/50cYD84szsuxLcCjTfTDZ7), [Ola Samuel](https://open.spotify.com/artist/0SrrbuWNAn0xj5SIk8TwTm) | [This Kind God Alujo \(Live\)](https://open.spotify.com/album/5Al2abdve5LM6NGstofKB1) | 4:04 | 2024-04-26 |  |
 | [Tobechukwu \- Live](https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:08 | 2024-02-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Yan Block, Fuerza Regida & Grupo Frontera, Neton Vega, Arcángel and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,002 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,030 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

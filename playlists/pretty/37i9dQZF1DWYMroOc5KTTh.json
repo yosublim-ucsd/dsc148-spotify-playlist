@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 573934,
+  "num_followers": 574009,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-11-07 16:40:28",
       "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+    },
+    {
+      "added_at": "2024-11-07 16:40:28",
+      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 211191,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2024-11-07 16:40:28",
-      "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2024-11-07 16:40:28",

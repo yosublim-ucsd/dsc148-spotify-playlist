@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,416 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,567 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 33 | [Breathe in, Breathe Out](https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Bon Voyage](https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr) | 2:50 |
 | 34 | [Wanderlust](https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:58 |
 | 35 | [Everlastingly Yours](https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 4:29 |
-| 36 | [Sunbathing](https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4) | 3:11 |
-| 37 | [Swallow \(EP Version\)](https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 4:53 |
+| 36 | [Swallow \(EP Version\)](https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 4:53 |
+| 37 | [Sunbathing](https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4) | 3:11 |
 | 38 | [Pearl \- Edit](https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:50 |
 | 39 | [Die Geschichte Einer Mutter](https://open.spotify.com/track/7KPPysjHZEvFDJSPTd1MKs) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 6:53 |
 | 40 | [Into The Ether](https://open.spotify.com/track/0MllKGT9TEHf7AH0BJhEVj) | [Secret Shine](https://open.spotify.com/artist/7ebUhQ5S6ELUODQpOX7GcV) | [Untouched](https://open.spotify.com/album/6rHa81gotpmu3XYL3aY50H) | 4:42 |

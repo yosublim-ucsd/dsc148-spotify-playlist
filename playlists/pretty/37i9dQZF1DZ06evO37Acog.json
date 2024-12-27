@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 77651,
+  "num_followers": 77663,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAACnVZmKob/clV7/GwWWFIo0",
+  "snapshot_id": "Z2tLAAAAAAAwxWQ+TTyu5XphFpmmji6e",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Vengas A Rogarme",
+        "url": "https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Hay Unos Ojos",
+      "url": "https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PURA MUSICA DE CANTINA",
         "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Vengas A Rogarme",
-        "url": "https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Hay Unos Ojos",
-      "url": "https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pu\u00f1o De Tierra",
         "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "No Porque Seas T\u00fa",
-      "url": "https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Recuerdo (Aferrado Por Ti)",
         "url": "https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 185266,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 186640,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/6mUBSPJ6SORgOLz1uaMYTc"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Vaquero",
+        "url": "https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -340,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 186640,
-      "name": "Mi Tesoro",
-      "url": "https://open.spotify.com/track/6mUBSPJ6SORgOLz1uaMYTc"
+      "duration_ms": 142640,
+      "name": "No Porque Seas T\u00fa",
+      "url": "https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5"
     },
     {
       "added_at": null,
@@ -359,22 +375,6 @@
       "duration_ms": 203689,
       "name": "Recu\u00e9rdame Y Ven A M\u00ed",
       "url": "https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Vaquero",
-        "url": "https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Rama De Mezquite",
-        "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "Cuando Yo Era Un Jovencito",
-      "url": "https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Besos Y Caricias",
         "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 149586,
       "name": "Besos Y Caricias",
       "url": "https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Rama De Mezquite",
+        "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "Cuando Yo Era Un Jovencito",
+      "url": "https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera Tener Alas",
-        "url": "https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "Quisiera Tener Alas",
-      "url": "https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Casualidad",
         "url": "https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 183626,
       "name": "Qu\u00e9 Casualidad",
       "url": "https://open.spotify.com/track/7lgsl2ESXS9D5rvpl2bBsc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera Tener Alas",
+        "url": "https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "Quisiera Tener Alas",
+      "url": "https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
-        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 189853,
-      "name": "Chaparra De Mi Amor",
-      "url": "https://open.spotify.com/track/6O520IZgFxvuPnBms0But5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Autenticos",
         "url": "https://open.spotify.com/album/58oq7ubxQKCUxOVvha9mZL"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 199826,
       "name": "La Venganza del Tah\u00far",
       "url": "https://open.spotify.com/track/5yb5ILBgqJLPaESPA5llsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 189853,
+      "name": "Chaparra De Mi Amor",
+      "url": "https://open.spotify.com/track/6O520IZgFxvuPnBms0But5"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Baraja De Oro",
-      "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 209893,
       "name": "Dos Monedas",
       "url": "https://open.spotify.com/track/4epespdttWqUpIk35qEoMY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Baraja De Oro",
+      "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
-        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
-      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagrimas",
         "url": "https://open.spotify.com/album/0JN8mZ3miJNMroapco383C"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 138226,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
+        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
+      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
     },
     {
       "added_at": null,

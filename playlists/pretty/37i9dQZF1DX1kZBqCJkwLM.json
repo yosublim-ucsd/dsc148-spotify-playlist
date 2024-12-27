@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: ROS\u00c9",
-  "num_followers": 85397,
+  "num_followers": 85403,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Hot One",
-        "url": "https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9"
-      },
-      "artists": [
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        }
-      ],
-      "duration_ms": 176445,
-      "name": "Hot One",
-      "url": "https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "CATWALK (feat. Rico Nasty) (prod. GOLDBUUDA)",
         "url": "https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq"
       },
@@ -1227,6 +1203,30 @@
       "duration_ms": 139407,
       "name": "CATWALK (feat. Rico Nasty) (prod. GOLDBUUDA)",
       "url": "https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Hot One",
+        "url": "https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9"
+      },
+      "artists": [
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "duration_ms": 176445,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
       "artists": [
         {
@@ -1308,13 +1308,13 @@
           "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
         },
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 207013,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
+      "duration_ms": 167661,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1467,8 +1467,8 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
       "artists": [
         {
@@ -1476,13 +1476,13 @@
           "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
         },
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 167661,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
+      "duration_ms": 207013,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
     },
     {
       "added_at": "2024-11-22 05:00:00",

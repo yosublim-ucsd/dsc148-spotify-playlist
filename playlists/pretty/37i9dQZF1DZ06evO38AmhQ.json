@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21203,
+  "num_followers": 21207,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAC5NXHnkLONSdhmyNlfiIDj",
+  "snapshot_id": "Z2tLAAAAAACopu+QXeFSmT98lI7fPoU+",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Road Thru The Heart",
-        "url": "https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "The Shed",
-      "url": "https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J.W.'s Family Album",
         "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 210253,
       "name": "Goodbye Blinky Bill",
       "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Road Thru The Heart",
+        "url": "https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "The Shed",
+      "url": "https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems - A Celebration of Australia",
-        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 211200,
-      "name": "This Is Australia Calling",
-      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
+      "duration_ms": 212680,
+      "name": "I Can't Feel Those Chains Any Longer - Live",
+      "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hell of a Career",
-        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "I Can't Feel Those Chains Any Longer - Live",
-      "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 192240,
       "name": "Amazing Day",
       "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "This Is Australia Calling",
+      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Man Emu",
-        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Diggers of the Anzac (This Is Gallipoli)",
-      "url": "https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 202560,
       "name": "Dingo",
       "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Man Emu",
+        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Diggers of the Anzac (This Is Gallipoli)",
+      "url": "https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV"
     },
     {
       "added_at": null,

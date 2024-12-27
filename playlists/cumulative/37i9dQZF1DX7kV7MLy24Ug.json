@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-04",
-  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Duki",
+  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: LA NUEVA ESCUELA",
   "name": "\u00c9xitos Uruguay",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 153564,
       "name": "AGORA",
       "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
@@ -290,6 +290,28 @@
       "duration_ms": 141501,
       "name": "Amigo Remix",
       "url": "https://open.spotify.com/track/3J3yRkO999AgZT4LMum1Yc"
+    },
+    {
+      "album": {
+        "name": "Amor de Vago",
+        "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188423,
+      "name": "Amor de Vago",
+      "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
     },
     {
       "album": {
@@ -1258,7 +1280,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 163666,
       "name": "El Traje del PSG",
       "url": "https://open.spotify.com/track/0aKBAAr9c9blu9ArZ3TGiT"
@@ -2575,6 +2597,28 @@
     },
     {
       "album": {
+        "name": "Olvidarte (feat. Emilia)",
+        "url": "https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
+    },
+    {
+      "album": {
         "name": "pa",
         "url": "https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op"
       },
@@ -3096,7 +3140,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 155291,
       "name": "ROZE | DJ TAO Turreo Sessions #22",
       "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
@@ -3162,7 +3206,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"

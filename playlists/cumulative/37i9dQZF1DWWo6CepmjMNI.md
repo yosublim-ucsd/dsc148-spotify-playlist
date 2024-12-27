@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: KEEPBOYS
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: HAPPILY
 
-140 songs - 10 hr 0 min
+143 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 | 2024-06-21 | 2024-12-14 |
 | [Where Would You Be \(TH.ver\)](https://open.spotify.com/track/4HNfqqTssC8rqEai8m1z5n) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Where Would You Be \(TH.ver\)](https://open.spotify.com/album/6R4fVzbF11BWvBjLkk6gmu) | 4:54 | 2024-07-12 | 2024-07-20 |
 | [กลับคืนสู่ดาว](https://open.spotify.com/track/0SxPaNX1mNDFeEln7bqXFP) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [กลับคืนสู่ดาว](https://open.spotify.com/album/2kRy63omANUfg60l5WiHJl) | 3:37 | 2024-11-01 | 2024-11-09 |
+| [กลัวลืม](https://open.spotify.com/track/4HQ16IdY2XwCYPVmcSg6zG) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [กลัวลืม](https://open.spotify.com/album/05oGOoivSkPUADBnsEbP2c) | 3:44 | 2024-12-26 |  |
 | [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 | 2024-12-20 |  |
 | [กาลครั้งหนึ่ง](https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj) | [Serotonin](https://open.spotify.com/artist/1jv5r0hKtAnEhmeCAkAIFy) | [กาลครั้งหนึ่ง](https://open.spotify.com/album/4xS2yzQCTlQb6dSitNnV0t) | 4:38 | 2024-06-21 | 2024-08-03 |
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 |  |
@@ -49,7 +50,7 @@
 | [จากวันที่เธอลา \(YT\-1300\)](https://open.spotify.com/track/0MQpFb7vmL6pweZ0cfJzXp) | [MAN IN PHARMACY](https://open.spotify.com/artist/1AGzRS5zJLTwySvklwcgxU) | [จากวันที่เธอลา \(YT\-1300\)](https://open.spotify.com/album/4KxG5Miv9zHKxEPGBg12Uq) | 4:03 | 2024-12-13 |  |
 | [จากเมื่อวาน \(present\)](https://open.spotify.com/track/22NejFlrIPRARMMKZRke5A) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [จากเมื่อวาน \(present\)](https://open.spotify.com/album/6mjFCfCHUe17B3opy0FulL) | 4:27 | 2024-07-05 |  |
 | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/track/1Q74VWWMSq4CU30yUQdFdd) | [A Irynn](https://open.spotify.com/artist/1Eyb60kL2vSZ7OAxygY9Xt) | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/album/49s5RFPDHJLLfMeCyFXs0w) | 5:08 | 2024-06-21 |  |
-| [ซีเอฟ](https://open.spotify.com/track/7dD8rm1LPBoOiZQNhIvJXW) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ซีเอฟ](https://open.spotify.com/album/3xxQkoGktZRmwdbozuV77G) | 3:12 | 2024-12-13 |  |
+| [ซีเอฟ](https://open.spotify.com/track/7dD8rm1LPBoOiZQNhIvJXW) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ซีเอฟ](https://open.spotify.com/album/3xxQkoGktZRmwdbozuV77G) | 3:12 | 2024-12-13 | 2024-12-27 |
 | [ดอกไม้ของเรา](https://open.spotify.com/track/0ayDqcjc5Sif6k0BozklKN) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ดอกไม้ของเรา](https://open.spotify.com/album/2qRRzS3sK16Ab7FFtvVXqC) | 4:42 | 2024-06-21 |  |
 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 | 2024-11-01 |  |
 | [ดีแล้ว](https://open.spotify.com/track/08xrZIS2GjbsKWaceAbKRf) | [Methane](https://open.spotify.com/artist/6kNXwB8eVNq6jPJGTi0Vk7) | [ดีแล้ว](https://open.spotify.com/album/63IW4wzMkru6GvdLwCa8In) | 4:16 | 2024-07-19 | 2024-08-10 |
@@ -64,8 +65,9 @@
 | [ทุกครั้งที่สบตา](https://open.spotify.com/track/1gihnuYvGbRVgxrRmwgAey) | [BitterSweet](https://open.spotify.com/artist/01rltm3r7dWeRlV79wmaWG) | [ทุกครั้งที่สบตา](https://open.spotify.com/album/2yhWcMFw7i2KlVNVQu25ua) | 4:04 | 2024-06-21 | 2024-09-14 |
 | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/track/1IF3bh0aBRWlDnmRl5j0QQ) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/album/0HVjrqXzvmAziz7OCo5HlZ) | 3:35 | 2024-06-21 |  |
 | [นายโอเคมั๊ย?](https://open.spotify.com/track/3axsUzgguRlowEKveAOskq) | [NINEOKMAI](https://open.spotify.com/artist/7GfWZzQStdnFvdbRqdsKYe) | [นายโอเคมั๊ย?](https://open.spotify.com/album/2AsXWp3dfEK7DnSHJRcaGr) | 3:53 | 2024-11-22 |  |
-| [นิทรา](https://open.spotify.com/track/20NQZ3GkiwP5XFPT0GTU10) | [Chameen](https://open.spotify.com/artist/3ADNeGjopyldLHgA7D2zRv) | [นิทรา](https://open.spotify.com/album/4Red8Au1DIlsnLt3Y40dee) | 3:47 | 2024-11-28 |  |
+| [นิทรา](https://open.spotify.com/track/20NQZ3GkiwP5XFPT0GTU10) | [Chameen](https://open.spotify.com/artist/3ADNeGjopyldLHgA7D2zRv) | [นิทรา](https://open.spotify.com/album/4Red8Au1DIlsnLt3Y40dee) | 3:47 | 2024-11-28 | 2024-12-27 |
 | [น้อยใจ](https://open.spotify.com/track/7nfMUT7vKPE6DeQZAU91Pk) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [น้อยใจ](https://open.spotify.com/album/1boJRDPJYl5rBJLN4UbEvC) | 4:31 | 2024-11-28 | 2024-12-14 |
+| [บอกรักกี่ครั้งสุดท้ายก็ต้องบอกลา \(Say goodbye\)](https://open.spotify.com/track/0VanMdIM2kM9ihw1EscYXp) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [UN HAPPY](https://open.spotify.com/album/19Xfe7q8Ax6JE8EfWIBx1A) | 5:18 | 2024-12-26 |  |
 | [บอกลา \(So Long\)](https://open.spotify.com/track/7lD3wBoLA1tyMUNIlBfR8G) | [The River&Bridge](https://open.spotify.com/artist/5URHv3dJzBJdnGjkodcaR3) | [บอกลา \(So Long\)](https://open.spotify.com/album/4AH4Rrsv3XofQrdjzoD7Lk) | 3:49 | 2024-10-11 | 2024-11-02 |
 | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/track/4jYiT4XFeQVeiiIsiAHPVj) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT) | 4:38 | 2024-08-09 | 2024-12-14 |
 | [ปล่อยใจ](https://open.spotify.com/track/6YEXIvR9f3S1Ca9E6Dn5uM) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ปล่อยใจ](https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf) | 4:00 | 2024-07-05 | 2024-08-17 |
@@ -80,7 +82,7 @@
 | [ภาพแทนใจ](https://open.spotify.com/track/5GU4qd4u4JisdNvm91z4ID) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [ภาพแทนใจ](https://open.spotify.com/album/2gxVX0out0vHNbQmrjwy2w) | 4:31 | 2024-06-21 | 2024-08-10 |
 | [มอบดอกไม้ \(one date\)](https://open.spotify.com/track/1J4aLl39aBpfsR8M7p0VFx) | [PAKBUNG](https://open.spotify.com/artist/5GREsJHsL3GncdQgtfHLJq) | [มอบดอกไม้ \(one date\)](https://open.spotify.com/album/5B0qar4CUdf5ASjXlYDgjP) | 3:16 | 2024-07-19 | 2024-08-03 |
 | [มายา \(Maya\)](https://open.spotify.com/track/1Cem1uvGhTYu3JB9uaaFi2) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [มายา \(Maya\)](https://open.spotify.com/album/4hfbSH6ZwMdvx6ZmGcj8ZV) | 3:27 | 2024-09-06 | 2024-09-21 |
-| [มีตลอด](https://open.spotify.com/track/34DTcqp51oF4ERR5yFT01S) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [มีตลอด](https://open.spotify.com/album/3EMih7yPAeSQXJWmXzaCBN) | 3:53 | 2024-12-13 |  |
+| [มีตลอด](https://open.spotify.com/track/34DTcqp51oF4ERR5yFT01S) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [มีตลอด](https://open.spotify.com/album/3EMih7yPAeSQXJWmXzaCBN) | 3:53 | 2024-12-13 | 2024-12-27 |
 | [ยอมเธอ\(ahhh\)](https://open.spotify.com/track/7pMs1Te4Z2KwJbqx1j7nyl) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [ยอมเธอ\(ahhh\)](https://open.spotify.com/album/3HuQtv6FggFCkTnNav87wh) | 3:44 | 2024-11-22 | 2024-12-14 |
 | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/track/1J3iDnjS2TFCfWYVSh7F18) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/album/68HaaheRhVVNkDilm5qE7A) | 4:56 | 2024-06-21 | 2024-10-19 |
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-06-28 | 2024-07-06 |
@@ -110,6 +112,7 @@
 | [อยู่เป็นเพื่อนเธอ](https://open.spotify.com/track/42XqliIA3xVAcXEt3tVI3t) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [5050](https://open.spotify.com/album/67r5Gqjsvn5kcRr9eZdsWm) | 4:13 | 2024-11-28 | 2024-12-14 |
 | [อัลไซเมอร์](https://open.spotify.com/track/4t0sPKSccteTN07TJ6X8X9) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [อัลไซเมอร์](https://open.spotify.com/album/2V06K7AqhOftvipGFg0KHF) | 4:39 | 2024-06-21 | 2024-08-03 |
 | [เคย](https://open.spotify.com/track/0bI1FqL6jfmnPSX2wvyeET) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [เคย](https://open.spotify.com/album/1tNCbUIKysKQPVtbcAJ9is) | 4:18 | 2024-07-19 | 2024-08-10 |
+| [เคียงข้างเธอ](https://open.spotify.com/track/1fMuv5QWejzNhXVfmOWgXj) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เคียงข้างเธอ](https://open.spotify.com/album/1YSKzm0KUwsarP24mPSAHp) | 4:39 | 2024-12-26 |  |
 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 | 2024-06-21 |  |
 | [เจ็บเจียนตาย](https://open.spotify.com/track/6zohPB1L4PuKKa6R12KzXs) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l) | [เจ็บเจียนตาย](https://open.spotify.com/album/5bMYyPH1NNjjIndYf1xL7r) | 4:10 | 2024-10-18 |  |
 | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/track/1XTnPEPekA4VvA0uMtpgC8) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/album/5Hc4DEVAgvwGFkTVUK4LGO) | 5:45 | 2024-06-28 | 2024-08-03 |

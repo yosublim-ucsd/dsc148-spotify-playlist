@@ -4,7 +4,7 @@
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Katy Perry\)
 
-342 songs - 18 hr 44 min
+345 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [1900's](https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 2:29 | 2024-10-03 | 2024-12-06 |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-14 |  |
 | [2008](https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [2008](https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4) | 2:33 | 2024-09-05 | 2024-11-15 |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-26 |  |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-06-28 | 2024-07-19 |
 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 | 2024-10-17 | 2024-12-06 |
 | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [A Complete Unknown \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t) | 3:04 | 2024-12-19 |  |
@@ -80,6 +81,7 @@
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2024-08-12 | 2024-11-01 |
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2024-10-10 |  |
 | [Down Bad](https://open.spotify.com/track/75ie0jesCvvQWknAp2kGTj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:21 | 2024-06-28 | 2024-07-12 |
+| [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2024-12-26 |  |
 | [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-08 | 2024-10-18 |
 | [Dried Flower](https://open.spotify.com/track/1YQ6EL4sCdTrlUiBbCSwne) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Dried Flower](https://open.spotify.com/album/11P1D8fWEK5MRmnHEFY34g) | 3:05 | 2024-10-10 | 2024-12-06 |
 | [Dystopia](https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ) | 3:09 | 2024-10-25 | 2024-12-20 |
@@ -121,6 +123,7 @@
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-18 | 2024-09-06 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-25 | 2024-10-11 |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-06-28 | 2024-07-12 |
+| [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 | 2024-12-26 |  |
 | [HAPPY DAY](https://open.spotify.com/track/3gtCLTVYbsvSj8I2kBZHty) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [OUCH](https://open.spotify.com/album/0RE42aBn4kBL7E020tvhQl) | 3:54 | 2024-09-05 | 2024-11-15 |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-26 | 2024-12-06 |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-06-28 | 2024-07-27 |

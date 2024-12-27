@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-308 songs - 14 hr 23 min
+309 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Kath](https://open.spotify.com/track/0sW6N9BeP1aTnNghX1XOKG) | [Deep Bassian](https://open.spotify.com/artist/6syjrBtPChrzG1ipMkmbQ9), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Kath](https://open.spotify.com/album/00uVb7Vm1lYz1fBThl1FpD) | 1:50 | 2024-11-27 |  |
 | [Kikli](https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN) | 2:53 | 2023-03-18 | 2024-08-28 |
 | [Kikli](https://open.spotify.com/track/752ZVuWP4QcOQNgxWaV4b4) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/4WCsDUqNWHK33Y6A9MvGUK) | 2:53 | 2024-01-24 | 2024-04-19 |
-| [Killin og](https://open.spotify.com/track/6Xm1o9U9YKereLcrvAp8bH) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Killin og](https://open.spotify.com/album/4YBgiDclonJSJOdZVKjR3R) | 2:34 | 2024-10-16 |  |
+| [Killin og](https://open.spotify.com/track/6Xm1o9U9YKereLcrvAp8bH) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Killin og](https://open.spotify.com/album/4YBgiDclonJSJOdZVKjR3R) | 2:34 | 2024-10-16 | 2024-12-27 |
 | [King](https://open.spotify.com/track/3o2GS3lgHVk0F4RYC0bIA0) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp) | [King](https://open.spotify.com/album/3RMcMUuJ0YiDz6zDeRnrCO) | 3:02 | 2024-12-16 |  |
 | [Kingpin](https://open.spotify.com/track/43qJF4pC5rbLDUgmqWYOKu) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Kingpin](https://open.spotify.com/album/7a2Izhm8WcSsUJwwJ5hpEg) | 2:55 | 2023-03-18 | 2024-09-10 |
 | [Lalkaare](https://open.spotify.com/track/2aQn2FJ0MbhIp8OYcNWYEi) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [The Longia Groove](https://open.spotify.com/album/5MYLKbBe1LEGGXuKfBgvEb) | 2:14 | 2024-11-11 |  |
@@ -283,6 +283,7 @@
 | [They Don't Know](https://open.spotify.com/track/3rQmvM91VG7Yq3gqQXq6nu) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:42 | 2024-09-05 | 2024-10-01 |
 | [Threat Call](https://open.spotify.com/track/1iLwI5W2dGRnnTf9g6qlsj) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [LOCKED IN](https://open.spotify.com/album/5OcVtSXrIo6XSew4OUdWfa) | 2:20 | 2024-09-16 | 2024-11-08 |
 | [Three Years](https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Three Years](https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL) | 2:56 | 2024-09-20 | 2024-11-12 |
+| [Time](https://open.spotify.com/track/6kprKPgyWUBzNyXLze0Otd) | [Lafz](https://open.spotify.com/artist/3AFsfA31wg6nLvZwSKFszq), [Still](https://open.spotify.com/artist/0eFqC7KVSJ760f3YOgrleN) | [Time](https://open.spotify.com/album/5N9L6tYacD0NXNZZbbDWde) | 2:08 | 2024-12-26 |  |
 | [Times Up](https://open.spotify.com/track/7dALPPcnW38HrSBBJ2sBey) | [Rav](https://open.spotify.com/artist/02YDIjAHza3dLqcFv3ivki) | [Hood N Her](https://open.spotify.com/album/7JpJSLgRCT3OOFvrMuXwOU) | 2:15 | 2024-11-06 | 2024-12-17 |
 | [To The Warrior](https://open.spotify.com/track/1PKw4Fu5uMCPg16fELm9Iw) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Jxgga](https://open.spotify.com/artist/5veJyCRf8zRVcbfctEBoNA) | [To The Warrior](https://open.spotify.com/album/3reOnoEISEFMSSkMBfvWFR) | 3:02 | 2023-03-18 | 2023-04-27 |
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2023-03-18 | 2024-09-06 |

@@ -4057,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "No Era Cierto - En Vivo En Argentina",
+        "url": "https://open.spotify.com/album/6pwut5VJt6jFHkPNhDyVaP"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258083,
+      "name": "No Era Cierto - En Vivo En Argentina",
+      "url": "https://open.spotify.com/track/6WkbvEq0p1lwLk9HiWET7x"
+    },
+    {
+      "album": {
         "name": "En Las Ventas 7 septiembre 1993 (En directo)",
         "url": "https://open.spotify.com/album/30GKlcBPFyyhVjAxH6TC5Q"
       },
@@ -5660,7 +5678,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 284756,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"

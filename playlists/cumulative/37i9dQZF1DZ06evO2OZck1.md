@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2OZck1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2OZck1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2OZck1)
 
-### [This Is 新しい学校のリーダーズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1)
+### [This Is ATARASHII GAKKO!](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1)
 
-> This is 新しい学校のリーダーズ\. The essential tracks, all in one playlist.
+> This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
 
 60 songs - 3 hr 19 min
 

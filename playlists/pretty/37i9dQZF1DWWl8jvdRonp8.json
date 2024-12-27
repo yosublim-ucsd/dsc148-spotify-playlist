@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 244222,
+  "num_followers": 244421,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "Las Romanticas Favoritas de Fuerza Regida",
         "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Hombre Talentoso",
-        "url": "https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af"
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
       "artists": [
         {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 213648,
-      "name": "Tu Ingratitud",
-      "url": "https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn"
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -879,6 +863,22 @@
       "duration_ms": 209493,
       "name": "Como Me Haces Falta - En Vivo",
       "url": "https://open.spotify.com/track/6OdM2SY00jlo37aRvw29h4"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Hombre Talentoso",
+        "url": "https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 213648,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "C\u00f3mo Me Duele Irte Perdiendo",
-      "url": "https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 257413,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "C\u00f3mo Me Duele Irte Perdiendo",
+      "url": "https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Si No Te Hubieras Ido",
-        "url": "https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 292236,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "Despu\u00e9s De Hoy",
         "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 189280,
       "name": "Mi Najayita",
       "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 292236,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Despu\u00e9s De Hoy",
-        "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
-      },
-      "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Poquito A Poco",
-      "url": "https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "Como fui a enamorarme de ti",
         "url": "https://open.spotify.com/album/5gTPhW1jEwW02Ngtc0yhLx"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 234021,
       "name": "Como fui a enamorarme de ti",
       "url": "https://open.spotify.com/track/6ZtlLTjNCmFK8rO14BL1vh"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "La Colecci\u00f3n de Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 228056,
+      "name": "C\u00f3mo Me Haces Falta",
+      "url": "https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "La Colecci\u00f3n de Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ"
+        "name": "Despu\u00e9s De Hoy",
+        "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         }
       ],
-      "duration_ms": 228056,
-      "name": "C\u00f3mo Me Haces Falta",
-      "url": "https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx"
+      "duration_ms": 174533,
+      "name": "Poquito A Poco",
+      "url": "https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi"
     },
     {
       "added_at": "2024-08-23 06:00:00",

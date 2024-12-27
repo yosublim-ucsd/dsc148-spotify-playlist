@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: lostbeans
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Anatomy Rabbit
 
-82 songs - 5 hr 41 min
+83 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,10 +25,11 @@
 | [ขอบคุณที่เราเคยบอกรักและบอกลา](https://open.spotify.com/track/0vVgJd9x0lBhfF0ku9FPmd) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ขอบคุณที่เราเคยบอกรักและบอกลา \- Single](https://open.spotify.com/album/5i3HN2uud8KJakTV1MDG4x) | 3:24 | 2024-07-26 | 2024-11-23 |
 | [ขอให้เธอใจดี](https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ขอให้เธอใจดี](https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb) | 4:55 | 2024-06-27 | 2024-11-29 |
 | [คนเดียวกัน \(You?\)](https://open.spotify.com/track/2Cm88ZmLpkDQaYHZEjPWv0) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [คนเดียวกัน \(You?\)](https://open.spotify.com/album/2hlF4yvrAXDUGPaL1P2qFa) | 4:01 | 2024-06-27 |  |
+| [คนเดียวบนโลก\(U\)](https://open.spotify.com/track/2rcDi4sIkOPg102RWc3dmy) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [คนเดียวบนโลก\(U\)](https://open.spotify.com/album/2wmjvtFbwS4sWKuSYqnJqN) | 4:08 | 2024-12-26 |  |
 | [คนโปรด \(Cha la la la\)](https://open.spotify.com/track/2IHYFH8cdLd96scFirx74H) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [คนโปรด \(Cha la la la\)](https://open.spotify.com/album/11u1dm8tOrp3BEKj9U32Fh) | 4:58 | 2024-09-27 | 2024-11-02 |
 | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/album/2vB5FWxZARoIV2eNOiIggD) | 4:06 | 2024-06-27 | 2024-11-29 |
 | [คุณค่าที่เธอคู่ควร](https://open.spotify.com/track/3ey4oaB0Dx9N6d4qWcORFx) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [คุณค่าที่เธอคู่ควร](https://open.spotify.com/album/3ij1193Ulks1bLmlMvc73W) | 3:58 | 2024-06-27 |  |
-| [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2024-06-27 |  |
+| [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2024-06-27 | 2024-12-27 |
 | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2024-06-27 | 2024-10-05 |
 | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/track/0KXS1sXRLxw3upSC4mBOMH) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [BAY6IX](https://open.spotify.com/artist/3IQnUNxVytImduQRIg84qJ), [LALA](https://open.spotify.com/artist/031xscLHmwMfKVrhUCdGoq) | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/album/13ENp47hLKvUPDaJLbNxWA) | 4:56 | 2024-06-27 | 2024-08-17 |
 | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/track/6BKMVMcZF0vB9LEria3th7) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/album/4UYFjP7uXK2MnYY4zTSTIp) | 3:34 | 2024-06-27 | 2024-08-17 |

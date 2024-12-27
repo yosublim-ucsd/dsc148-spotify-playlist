@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,507 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,514 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 63 | [MEGGYFÁN](https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:26 |
 | 64 | [Strawberry](https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Strawberry](https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU) | 2:42 |
 | 65 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 |
-| 66 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
-| 67 | [CARTIER](https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:30 |
+| 66 | [CARTIER](https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:30 |
+| 67 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
 | 68 | [lost tiki](https://open.spotify.com/track/1VPU7SKdABCb3gNCNjMFIZ) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 2:51 |
 | 69 | [Valencia](https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb) | [Tomi](https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Valencia](https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9) | 2:55 |
 | 70 | [Kettesben](https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [Kettesben](https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM) | 2:39 |

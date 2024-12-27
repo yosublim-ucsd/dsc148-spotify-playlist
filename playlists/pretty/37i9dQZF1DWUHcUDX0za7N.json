@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Antiworld Gangsters ",
-  "num_followers": 58002,
+  "num_followers": 58034,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95"
+      },
+      "artists": [
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "AMERICA",
+      "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
+    },
+    {
+      "added_at": "2024-12-19 21:32:13",
+      "album": {
         "name": "WELCOME TO WONDAH:LAND",
         "url": "https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 138461,
       "name": "Bomaye",
       "url": "https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1"
-    },
-    {
-      "added_at": "2024-12-19 21:32:13",
-      "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95"
-      },
-      "artists": [
-        {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "AMERICA",
-      "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
     },
     {
       "added_at": "2024-12-19 21:32:13",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh"
+      },
+      "artists": [
+        {
+          "name": "Shoody B",
+          "url": "https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 183248,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn"
+    },
+    {
+      "added_at": "2024-12-19 21:32:13",
+      "album": {
         "name": "BETELGEUSE",
         "url": "https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 208432,
       "name": "BETELGEUSE",
       "url": "https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd"
-    },
-    {
-      "added_at": "2024-12-19 21:32:13",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh"
-      },
-      "artists": [
-        {
-          "name": "Shoody B",
-          "url": "https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 183248,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn"
     },
     {
       "added_at": "2024-12-19 21:32:13",

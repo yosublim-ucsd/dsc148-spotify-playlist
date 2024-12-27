@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,229 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,248 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 29 | [En El Balcon Aquel](https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:17 |
 | 30 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
 | 31 | [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña "La Negra"](https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 |
-| 32 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
+| 32 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
 | 33 | [Escándalo / Luz y Sombra](https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Mucho Corazón](https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU) | 3:11 |
-| 34 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
+| 34 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
 | 35 | [Diablo](https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd) | [Tito Cortes](https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa) | [Romántica](https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp) | 2:48 |
 | 36 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
 | 37 | [Ese Bolero Es Mío](https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:53 |
 | 38 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |
-| 39 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
-| 40 | [Tu Me Acostumbraste \- 2001 Digital Remaster](https://open.spotify.com/track/4BxqpVTYLzdLBTY3Y4DmMf) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [50 Canciones Inmortales](https://open.spotify.com/album/0AsotWNMYZ9CjhK7Y57AXy) | 3:43 |
+| 39 | [Tu Me Acostumbraste \- 2001 Digital Remaster](https://open.spotify.com/track/4BxqpVTYLzdLBTY3Y4DmMf) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [50 Canciones Inmortales](https://open.spotify.com/album/0AsotWNMYZ9CjhK7Y57AXy) | 3:43 |
+| 40 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
 | 41 | [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 |
 | 42 | [Desvelo de Amor](https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:54 |
 | 43 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |

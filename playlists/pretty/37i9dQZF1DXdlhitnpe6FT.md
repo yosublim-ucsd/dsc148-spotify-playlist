@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,091 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,218 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 30 | [Amore Grande Amore Libero](https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz) | [Orquesta Romanticos de La Habana](https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi) | [Temas Prohibidos del Cine](https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt) | 3:36 |
 | 31 | [La Playa](https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3) | [Francis Goya](https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak) | [The Gold Series \- Latin Romance](https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya) | 3:54 |
 | 32 | [Love In Every Room](https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:25 |
-| 33 | [The Girl from Ipanema](https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:33 |
-| 34 | [Caballo Negro](https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Manolo Sanlucar](https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn) | 3:25 |
+| 33 | [Caballo Negro](https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Manolo Sanlucar](https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn) | 3:25 |
+| 34 | [The Girl from Ipanema](https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:33 |
 | 35 | [Lily Was Here \(feat\. Candy Dulfer\)](https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 4:20 |
 | 36 | [Midnight Cowboy](https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:47 |
 | 37 | [Limelight](https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT) | [Charlie Chaplin](https://open.spotify.com/artist/1qqZKSFPWKwT4Rtcu5zc8h), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 2:46 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 65 | [Ebb Tide](https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Santo & Johnny](https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68) | 2:15 |
 | 66 | [Aria on Air](https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [16 Joyas Del New Age](https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto) | 3:48 |
 | 67 | [Wheels](https://open.spotify.com/track/7GKP7S8RolxzYC7qmvWn4k) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Smooth Jazz](https://open.spotify.com/album/3YsZrPFpoRt9Q58FEpFkxo) | 2:04 |
-| 68 | [Africa \(L'été Indien\)](https://open.spotify.com/track/7qMoMK7EbYCoS8VgxWXvKA) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 Años Volumen 1](https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY) | 3:03 |
-| 69 | [Ave Maria No Morro](https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Wenn Der Weiße Flieder Wieder Blüht](https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH) | 2:46 |
+| 68 | [Ave Maria No Morro](https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Wenn Der Weiße Flieder Wieder Blüht](https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH) | 2:46 |
+| 69 | [Africa \(L'été Indien\)](https://open.spotify.com/track/7qMoMK7EbYCoS8VgxWXvKA) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 Años Volumen 1](https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY) | 3:03 |
 | 70 | [Promise Of A Fisherman \(Promessa De Pescador\)](https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op) | [Sergio Mendes & Brasil '77](https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk) | [Celebration: A Musical Journey](https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO) | 3:33 |
 | 71 | [Kiss of Fire](https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:39 |
 | 72 | [Gefangenenchor aus "Nabucco"](https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6) | [Edward Simoni](https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT) | [Die Zauberwelt der Panflöte](https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU) | 2:54 |

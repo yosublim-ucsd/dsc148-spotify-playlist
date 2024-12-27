@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1028070,
+  "num_followers": 1028067,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-12-19 10:03:02",
       "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "added_at": "2024-12-19 10:03:02",
+      "album": {
         "name": "Espectacular",
         "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 185739,
       "name": "Espectacular",
       "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
-    },
-    {
-      "added_at": "2024-12-19 10:03:02",
-      "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2024-12-19 10:03:02",
@@ -863,26 +863,6 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
-    },
-    {
-      "added_at": "2024-12-19 10:03:02",
-      "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2024-12-19 10:03:02",
@@ -963,6 +943,26 @@
     {
       "added_at": "2024-12-19 10:03:02",
       "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2024-12-19 10:03:02",
+      "album": {
         "name": "CARACAS EN EL 2000",
         "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 176575,
       "name": "KESI - Remix",
       "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
-    },
-    {
-      "added_at": "2024-12-19 10:03:02",
-      "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2024-12-19 10:03:02",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-12-19 10:03:02",
       "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+    },
+    {
+      "added_at": "2024-12-19 10:03:02",
+      "album": {
         "name": "cuatro",
         "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
       },
@@ -1095,30 +1095,6 @@
       "duration_ms": 249884,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
-    },
-    {
-      "added_at": "2024-12-19 10:03:02",
-      "album": {
-        "name": "Mi Amor (with JVKE & Anitta)",
-        "url": "https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Mi Amor (with JVKE & Anitta)",
-      "url": "https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy"
     },
     {
       "added_at": "2024-12-19 10:03:02",
@@ -1151,18 +1127,42 @@
     {
       "added_at": "2024-12-19 10:03:02",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+        "name": "Mi Amor (with JVKE & Anitta)",
+        "url": "https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+      "duration_ms": 139428,
+      "name": "Mi Amor (with JVKE & Anitta)",
+      "url": "https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy"
+    },
+    {
+      "added_at": "2024-12-19 10:03:02",
+      "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2024-12-19 10:03:02",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-12-19 10:03:02",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2024-12-19 10:03:02",
-      "album": {
         "name": "Fantasi",
         "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 158080,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
+    },
+    {
+      "added_at": "2024-12-19 10:03:02",
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-12-19 10:03:02",
@@ -1687,30 +1687,6 @@
     {
       "added_at": "2024-12-19 10:03:02",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
-      },
-      "artists": [
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
-    },
-    {
-      "added_at": "2024-12-19 10:03:02",
-      "album": {
         "name": "REFLEXA",
         "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
@@ -1739,6 +1715,30 @@
       "duration_ms": 158815,
       "name": "Te Imaginaba",
       "url": "https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo"
+    },
+    {
+      "added_at": "2024-12-19 10:03:02",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
     },
     {
       "added_at": "2024-12-19 10:03:02",

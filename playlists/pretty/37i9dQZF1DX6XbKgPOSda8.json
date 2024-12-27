@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 221517,
+  "num_followers": 221613,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Na Na Na (Dulce Ni\u00f1a)",
-      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Na Na Na (Dulce Ni\u00f1a)",
+      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+        "name": "Qu\u00e9 Cante El Amor",
+        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
       },
       "artists": [
         {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
+      "duration_ms": 202613,
+      "name": "Al Despertar",
+      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -383,6 +383,22 @@
       "duration_ms": 176560,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -415,22 +431,6 @@
       "duration_ms": 188440,
       "name": "Amor De Tres",
       "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Qu\u00e9 Cante El Amor",
-        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Al Despertar",
-      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
         "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
@@ -743,70 +727,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
       "artists": [
         {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
         }
       ],
-      "duration_ms": 252679,
-      "name": "Cumbia Del Chinito",
-      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Cumbia de Marisol",
-        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
-      },
-      "artists": [
-        {
-          "name": "Supergrupo Son Tepito",
-          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Cumbia de Marisol",
-      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Coraz\u00f3n Enamorado",
-        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        },
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
-        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -831,34 +763,70 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Los Del Garrote",
-        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
       },
       "artists": [
         {
-          "name": "Los Del Garrote",
-          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
         }
       ],
-      "duration_ms": 197786,
-      "name": "La Cumbia Del Garrote",
-      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
       "artists": [
         {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+      "duration_ms": 252679,
+      "name": "Cumbia Del Chinito",
+      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
+        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Coraz\u00f3n Enamorado",
+        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -887,18 +855,34 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Recuerdos Andinos",
-        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 236813,
-      "name": "Cumbia Azteca",
-      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Los Del Garrote",
+        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
+      },
+      "artists": [
+        {
+          "name": "Los Del Garrote",
+          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "La Cumbia Del Garrote",
+      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -923,18 +907,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+        "name": "Recuerdos Andinos",
+        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
       },
       "artists": [
         {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 248857,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
+      "duration_ms": 236813,
+      "name": "Cumbia Azteca",
+      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -967,6 +951,22 @@
       "duration_ms": 300906,
       "name": "Soy Maraquero",
       "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 248857,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Juntos Por La Sonora",
         "url": "https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 278120,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1191,6 +1191,22 @@
       "duration_ms": 283678,
       "name": "La Triste Despedida",
       "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "M\u00fasica Tropical de Colombia (Vol. 11)",
+        "url": "https://open.spotify.com/album/2cLqohSX24vIgyyOmyWijh"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 244963,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/2YM0K9Xgqyy8hNcj5cPmTE"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "M\u00fasica Tropical de Colombia (Vol. 11)",
-        "url": "https://open.spotify.com/album/2cLqohSX24vIgyyOmyWijh"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 244963,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/2YM0K9Xgqyy8hNcj5cPmTE"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Sue\u00f1o Contigo",
         "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 366503,
       "name": "Pa' La Paloma",
       "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "La Velludita",
-      "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "La Velludita",
+      "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
         "name": "Con Nuestros Amigos",
         "url": "https://open.spotify.com/album/2E1bI25YNoU7UaD2PDyGOK"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Qu\u00e9 Locura Enamorarme De Ti",
-        "url": "https://open.spotify.com/album/5ijwnQqyOmHfz6H4KLd0Ua"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Qu\u00e9 Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/4yPxW8J2cW4JS1pcHvZzp6"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "20 Exitos: Lo Mejor de la Cumbia",
-        "url": "https://open.spotify.com/album/6J9GMOkFYIg8wPPmsiirSt"
+        "name": "Qu\u00e9 Locura Enamorarme De Ti",
+        "url": "https://open.spotify.com/album/5ijwnQqyOmHfz6H4KLd0Ua"
       },
       "artists": [
         {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/3ZPxSh4Tif71ilz50LOrAT"
+      "duration_ms": 238266,
+      "name": "Qu\u00e9 Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/4yPxW8J2cW4JS1pcHvZzp6"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1539,6 +1523,38 @@
       "duration_ms": 203133,
       "name": "Rosas Para Ti",
       "url": "https://open.spotify.com/track/2WjJZOWT3BdKhB2dizZNra"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "20 Exitos: Lo Mejor de la Cumbia",
+        "url": "https://open.spotify.com/album/6J9GMOkFYIg8wPPmsiirSt"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/3ZPxSh4Tif71ilz50LOrAT"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+        "name": "Dese\u00e1ndote",
+        "url": "https://open.spotify.com/album/2EhMDRr1ozY1KpYmPRJ5Lx"
       },
       "artists": [
         {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+      "duration_ms": 208560,
+      "name": "Dese\u00e1ndote",
+      "url": "https://open.spotify.com/track/6wciX1W2HHnpGO1dhqY0A5"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Dese\u00e1ndote",
-        "url": "https://open.spotify.com/album/2EhMDRr1ozY1KpYmPRJ5Lx"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Dese\u00e1ndote",
-      "url": "https://open.spotify.com/track/6wciX1W2HHnpGO1dhqY0A5"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
       },
@@ -1643,6 +1643,38 @@
       "duration_ms": 243457,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/6nPG2HfxfgQpQzeMLUAKyX"
+      },
+      "artists": [
+        {
+          "name": "Efr\u00e9n David",
+          "url": "https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g"
+        }
+      ],
+      "duration_ms": 271786,
+      "name": "Abandonado",
+      "url": "https://open.spotify.com/track/7beUIItCNM3LL6OmQJAgxh"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1695,18 +1727,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 237960,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+      "duration_ms": 232493,
+      "name": "Amor Sin Primavera",
+      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1727,18 +1759,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
       "artists": [
         {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Amor Sin Primavera",
-      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1775,50 +1807,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/6nPG2HfxfgQpQzeMLUAKyX"
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/7Ibdi3zT6t4mmzCGsjxwN3"
       },
       "artists": [
         {
-          "name": "Efr\u00e9n David",
-          "url": "https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g"
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
         }
       ],
-      "duration_ms": 271786,
-      "name": "Abandonado",
-      "url": "https://open.spotify.com/track/7beUIItCNM3LL6OmQJAgxh"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Mama Cumbia",
-      "url": "https://open.spotify.com/track/108YjsKsz4buKAkCUYc0XQ"
+      "duration_ms": 220533,
+      "name": "Cumbia Francesa",
+      "url": "https://open.spotify.com/track/74VcBE1CXvIIOMGqHJn74z"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/7Ibdi3zT6t4mmzCGsjxwN3"
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
       },
       "artists": [
         {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Cumbia Francesa",
-      "url": "https://open.spotify.com/track/74VcBE1CXvIIOMGqHJn74z"
+      "duration_ms": 201333,
+      "name": "Mama Cumbia",
+      "url": "https://open.spotify.com/track/108YjsKsz4buKAkCUYc0XQ"
     },
     {
       "added_at": "2024-07-10 22:10:17",

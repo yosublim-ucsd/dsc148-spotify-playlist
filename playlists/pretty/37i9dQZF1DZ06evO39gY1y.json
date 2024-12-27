@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 235130,
+  "num_followers": 235155,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAABa+sn50BDjdgGePDipqmvA",
+  "snapshot_id": "Z2tLAAAAAABiZpOUKMLKYn/EWjFcwjQd",
   "tracks": [
     {
       "added_at": null,
@@ -819,30 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d3rbitas",
-        "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 209737,
-      "name": "Ma\u00f1ana Vas a Estar Ausente",
-      "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ataraxia: A Plena Luz del Dia",
         "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 182127,
       "name": "Desde Que Te Bese",
       "url": "https://open.spotify.com/track/79aqsG5pFczwipwIHJIZDI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00d3rbitas",
+        "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 209737,
+      "name": "Ma\u00f1ana Vas a Estar Ausente",
+      "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
     },
     {
       "added_at": null,

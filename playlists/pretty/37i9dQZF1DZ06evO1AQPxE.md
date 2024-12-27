@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,085 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,113 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 7 | [Tyler Herro](https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:36 |
 | 8 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 |
 | 9 | [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 |
-| 10 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
+| 10 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
 | 11 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 |
 | 12 | [Denver](https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:38 |
 | 13 | [I WANNA SEE SOME ASS \(feat\. jetsonmade\)](https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:05 |
-| 14 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
+| 14 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 15 | [Killer \(feat\. Jack Harlow & Cordae\) \- Remix](https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Killer \(feat\. Jack Harlow & Cordae\) \[Remix\]](https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar) | 3:56 |
 | 16 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
 | 17 | [Way Out \(feat\. Big Sean\)](https://open.spotify.com/track/57VeLYXrvNxe8Vs18K2M9W) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [DRIP DROP \(feat\. Cyhi The Prynce\)](https://open.spotify.com/track/19wtw9FEDtbf5z9p5KDCy9) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 3:23 |
 | 50 | [White Lies](https://open.spotify.com/track/608NQtdZfObC1BGy067JG7) | [The Homies](https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Honest Living](https://open.spotify.com/album/1gNtAquFhKwk3qlsYLPpDT) | 2:31 |
 
-Snapshot ID: `Z2n5gAAAAADK0A0+9R/Jl19gtjK1THOr`
+Snapshot ID: `Z2tLAAAAAAB9ZIt6V3/bPAm5y12ckA3Z`

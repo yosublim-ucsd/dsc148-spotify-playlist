@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,485 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,456 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 56 | [Sugar](https://open.spotify.com/track/71H2SB2sNLUuGvZ8iV02cT) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Sugar](https://open.spotify.com/album/5C7ycA5j67dfbzOGcIWXWl) | 3:29 |
 | 57 | [Echoes](https://open.spotify.com/track/56JR97o31WY8Z985KZpqvJ) | [Sundazer](https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ) | [Echoes](https://open.spotify.com/album/1enn06oSOlRXnLCXeOIkSi) | 3:41 |
 | 58 | [Get out of My Head](https://open.spotify.com/track/3RZXQB6zCmH4isPCM5nY4n) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain](https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1) | 3:10 |
-| 59 | [Bulletproof](https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [Echoes](https://open.spotify.com/album/5KRTSW8M5GxnznK3fr781W) | 3:04 |
-| 60 | [HEADSPACE FT\. POORSTACY](https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [HEADSPACE FT\. POORSTACY](https://open.spotify.com/album/2EewozkWB7xAUMFCRgwgyd) | 3:11 |
+| 59 | [HEADSPACE FT\. POORSTACY](https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [HEADSPACE FT\. POORSTACY](https://open.spotify.com/album/2EewozkWB7xAUMFCRgwgyd) | 3:11 |
+| 60 | [Bulletproof](https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [Echoes](https://open.spotify.com/album/5KRTSW8M5GxnznK3fr781W) | 3:04 |
 
 Snapshot ID: `Z0YKyAAAAAD1FbcenKYTV7HrAKOYGX/h`

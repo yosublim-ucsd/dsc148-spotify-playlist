@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,008 likes - 52 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,109 likes - 52 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 51 | [Truffle Butter](https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Pinkprint \(Deluxe Edition\)](https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC) | 3:40 |
 | 52 | [Did It On’em](https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 |
 
-Snapshot ID: `Z2n5gAAAAACAz6jPTJKH5Y3/ofkZVihL`
+Snapshot ID: `Z2tLAAAAAADvz2tItfoye52JCC2U8t1D`

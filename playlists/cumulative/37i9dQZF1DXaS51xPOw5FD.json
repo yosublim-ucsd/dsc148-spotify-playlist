@@ -2513,6 +2513,28 @@
     },
     {
       "album": {
+        "name": "Entanglements",
+        "url": "https://open.spotify.com/album/5DDF9i5Wnd8x8CspPjHmCl"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271724,
+      "name": "Kauri",
+      "url": "https://open.spotify.com/track/6nYI0KGwrGFMSuZQr6q4mL"
+    },
+    {
+      "album": {
         "name": "Kites",
         "url": "https://open.spotify.com/album/6tQleNjbmmM1GxJB9Rka2S"
       },
@@ -2638,7 +2660,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 160498,
       "name": "Let U Know (feat. Charlotte Plank)",
       "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"

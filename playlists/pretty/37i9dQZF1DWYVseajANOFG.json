@@ -1,18 +1,18 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech",
-  "num_followers": 123774,
+  "num_followers": 123814,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/dAAAAAAVPNyCW0pBxvyTQQ6b7MIO",
+  "snapshot_id": "Z22WCgAAAAC1jYu3wi0HWqrDrN+DLdMY",
   "tracks": [
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Tranki, Todo Pasa",
-        "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/2yLveC65KjddM0Cv3g5gqp"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 185700,
-      "name": "Picasso",
-      "url": "https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx"
+      "duration_ms": 120326,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/5g9MCDXqfBPdA2j0PCT9Pp"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Tranki, Todo Pasa",
+        "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 185700,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Tus Labios (Remix)",
@@ -279,34 +295,6 @@
       "duration_ms": 187402,
       "name": "TITI",
       "url": "https://open.spotify.com/track/4dmK0F5E0jVMUPgY5tMkI3"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Te lo Menti",
-        "url": "https://open.spotify.com/album/5INsWiDlUNro0Mn5n90Zyq"
-      },
-      "artists": [
-        {
-          "name": "Cale musik",
-          "url": "https://open.spotify.com/artist/05DT52mpMXunirP7ekViCs"
-        },
-        {
-          "name": "Mr. Fox",
-          "url": "https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw"
-        },
-        {
-          "name": "Sir Andy Vaney",
-          "url": "https://open.spotify.com/artist/3aHhhry4dWLCoLHAj42sJw"
-        },
-        {
-          "name": "El Yeyo PP",
-          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Te lo Menti",
-      "url": "https://open.spotify.com/track/7oDB9DnJZYwGFA61RHj97X"
     },
     {
       "added_at": "2024-12-13 05:00:36",
@@ -381,24 +369,32 @@
       "url": "https://open.spotify.com/track/1qE6wkqpuD1UClL9HvOEDd"
     },
     {
-      "added_at": "2024-12-13 05:00:36",
+      "added_at": "2024-12-26 17:44:42",
       "album": {
-        "name": "Polvo Permanente",
-        "url": "https://open.spotify.com/album/6uACmXxaVldEul1N5OFI6H"
+        "name": "Cascabel",
+        "url": "https://open.spotify.com/album/3lFfQO58pwTkgPrQU6WbkF"
       },
       "artists": [
         {
-          "name": "Josuan",
-          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
         },
         {
-          "name": "Anyuri",
-          "url": "https://open.spotify.com/artist/3CC7UwBlcBeQtj20V9xjiE"
+          "name": "Five 7",
+          "url": "https://open.spotify.com/artist/2RbGiXlGj5aEoHQrlhancv"
+        },
+        {
+          "name": "Bonuchi",
+          "url": "https://open.spotify.com/artist/1pAYrPvR70ppu02F0DMt5W"
+        },
+        {
+          "name": "Bvlgarich",
+          "url": "https://open.spotify.com/artist/72QhPechMGu0gtwqNBMZ0R"
         }
       ],
-      "duration_ms": 204943,
-      "name": "Polvo Permanente",
-      "url": "https://open.spotify.com/track/4EiIY5OHJt8DLQJ4VGO46w"
+      "duration_ms": 294739,
+      "name": "Cascabel",
+      "url": "https://open.spotify.com/track/1j31fQXSH94rHZvQrS71Yn"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -459,26 +455,6 @@
       "duration_ms": 202546,
       "name": "S\u00edgueme - Remix",
       "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
-    },
-    {
-      "added_at": "2024-12-13 05:00:36",
-      "album": {
-        "name": "Ready To Die",
-        "url": "https://open.spotify.com/album/2W6V1wMXJ7pojmSZprZvzv"
-      },
-      "artists": [
-        {
-          "name": "Elty",
-          "url": "https://open.spotify.com/artist/4dlXeMiq59ilk4DUppR5rf"
-        },
-        {
-          "name": "Junior On The Track",
-          "url": "https://open.spotify.com/artist/7JUAOIb51tNXDRSNFHAGzz"
-        }
-      ],
-      "duration_ms": 165312,
-      "name": "Ready To Die",
-      "url": "https://open.spotify.com/track/10x4pK4DVtCsgvSLfmKUKl"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -575,6 +551,30 @@
       "duration_ms": 178515,
       "name": "Leyenda",
       "url": "https://open.spotify.com/track/62WkFthjfMwM9JYtLeNvK8"
+    },
+    {
+      "added_at": "2024-12-26 17:44:42",
+      "album": {
+        "name": "Los Kilos",
+        "url": "https://open.spotify.com/album/3ZKL1ttSqSkf7ZdMI1fz64"
+      },
+      "artists": [
+        {
+          "name": "ShortBossPa",
+          "url": "https://open.spotify.com/artist/0vlGYc4woWNuL6sOZ87ssR"
+        },
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Los Kilos",
+      "url": "https://open.spotify.com/track/4kYAd6IoZCMu0e1Go2gUxU"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -791,6 +791,26 @@
       "duration_ms": 198139,
       "name": "La Maco",
       "url": "https://open.spotify.com/track/6vIAesoAJNm0g3mPN8EXpB"
+    },
+    {
+      "added_at": "2024-12-26 17:44:42",
+      "album": {
+        "name": "No me arrepiento",
+        "url": "https://open.spotify.com/album/3X1pFUyUTBCgsIWnxiT8Y2"
+      },
+      "artists": [
+        {
+          "name": "Pash",
+          "url": "https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s"
+        },
+        {
+          "name": "Squiz Nine",
+          "url": "https://open.spotify.com/artist/79MQXIRLbX25QY6iAxlITO"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "No me arrepiento",
+      "url": "https://open.spotify.com/track/13YjA2XZJETiPiajZ5SPAW"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1031,22 +1051,6 @@
       "duration_ms": 340480,
       "name": "Dragona Rmix",
       "url": "https://open.spotify.com/track/1nuf47FxdQrxekJJ8fVndJ"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/2yLveC65KjddM0Cv3g5gqp"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 120326,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/5g9MCDXqfBPdA2j0PCT9Pp"
     },
     {
       "added_at": "2024-02-02 05:00:00",

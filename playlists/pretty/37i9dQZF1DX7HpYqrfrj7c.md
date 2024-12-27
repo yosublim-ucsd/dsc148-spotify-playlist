@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,360 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,445 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

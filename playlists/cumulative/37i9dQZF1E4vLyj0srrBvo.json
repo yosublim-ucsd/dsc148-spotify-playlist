@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 218560,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E"
@@ -3962,7 +3962,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 227160,
       "name": "Black Out Days",
       "url": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I"
@@ -8472,7 +8472,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 275226,
       "name": "Don't Delete The Kisses",
       "url": "https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22"
@@ -8754,6 +8754,24 @@
       "duration_ms": 207391,
       "name": "Dreamcatching",
       "url": "https://open.spotify.com/track/07ZJYwSX32GOYOk3tybj2T"
+    },
+    {
+      "album": {
+        "name": "Dreamcore",
+        "url": "https://open.spotify.com/album/4CY1U196lzQmwy5AeMooMl"
+      },
+      "artists": [
+        {
+          "name": "Pathetic",
+          "url": "https://open.spotify.com/artist/1wUtnIM66rOLpg70aCDY7f"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Dreamcore",
+      "url": "https://open.spotify.com/track/2cfFwuqPLUre5laXoyiRme"
     },
     {
       "album": {
@@ -11674,7 +11692,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 133200,
       "name": "girlfriend",
       "url": "https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA"
@@ -12924,6 +12942,24 @@
       "duration_ms": 304460,
       "name": "Headache",
       "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
+    },
+    {
+      "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
     },
     {
       "album": {
@@ -14594,7 +14630,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
@@ -14992,7 +15028,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 215454,
       "name": "Image - Grimes Special",
       "url": "https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT"
@@ -16186,7 +16222,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 236363,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm"
@@ -19250,7 +19286,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 233639,
       "name": "Money",
       "url": "https://open.spotify.com/track/3VIJBrMpvimHEw5wtPh2wB"
@@ -20594,7 +20630,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 193429,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
@@ -20710,7 +20746,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 167864,
       "name": "Not Allowed",
       "url": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB"
@@ -25224,7 +25260,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 277866,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4"
@@ -26070,7 +26106,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Skeleton",
       "url": "https://open.spotify.com/track/659mtBqBiCt0Ohz7FI5cZ7"

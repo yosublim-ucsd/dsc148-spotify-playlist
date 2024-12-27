@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Radical Redemption, Dimitri K & Nolz
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,528 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,604 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

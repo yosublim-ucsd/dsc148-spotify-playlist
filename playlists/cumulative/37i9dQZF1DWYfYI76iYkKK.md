@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-474 songs - 1 day 7 hr 8 min
+476 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [可惜不愛了](https://open.spotify.com/track/1KmlwGRzoI8OhzBUTIvJtX) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [來者何人n!](https://open.spotify.com/album/6PzBtNMygnrKVLoQGxLgsj) | 3:54 | 2022-06-10 | 2022-07-09 |
 | [可能是比較內向而已](https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [可能是比較內向而已](https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN) | 3:51 | 2022-10-06 | 2024-06-06 |
 | [吞逝](https://open.spotify.com/track/7DMgn9G9e4fLTURRItApyv) | [曾嘉偉](https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7) | [吞逝](https://open.spotify.com/album/5mEZDN63B0NiQk2ye6moY9) | 4:29 | 2023-09-14 | 2023-09-29 |
-| [告訴自己 \- 《滾石摘星號》選手創作單曲](https://open.spotify.com/track/2tNWBKcFnck6pouSTu2cHt) | [鄺澤東](https://open.spotify.com/artist/6j3P7Wl2ApIvTqYk6plJmD) | [告訴自己](https://open.spotify.com/album/7aaC8XxZ1jpT402jgZGxpQ) | 4:21 | 2024-02-01 |  |
+| [告訴自己 \- 《滾石摘星號》選手創作單曲](https://open.spotify.com/track/2tNWBKcFnck6pouSTu2cHt) | [鄺澤東](https://open.spotify.com/artist/6j3P7Wl2ApIvTqYk6plJmD) | [告訴自己](https://open.spotify.com/album/7aaC8XxZ1jpT402jgZGxpQ) | 4:21 | 2024-02-01 | 2024-12-27 |
 | [和淚做朋友](https://open.spotify.com/track/24XKowTHmxYfZ5QEJDUfyV) | [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB) | [I ,](https://open.spotify.com/album/075wWBWMjyyeCUcWpzfXa6) | 4:38 | 2023-07-10 | 2023-07-21 |
 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 | 2022-06-02 |  |
 | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/album/1RRhiFuUxwxYhOHKbOzHIi) | 3:55 | 2024-04-04 | 2024-04-12 |
@@ -285,7 +285,7 @@
 | [我的城](https://open.spotify.com/track/2UL2RZ4JjPkNjXZOeOtJWg) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [我的城](https://open.spotify.com/album/19oGn0WbrIu7ehMgGa7LSy) | 3:31 | 2022-06-02 | 2022-07-29 |
 | [我的愛 \- Diva Classics \- Part 4](https://open.spotify.com/track/0uahazD3DNQw2XgLtWEoPC) | [Rose Liu](https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn) | [我的愛 \(Diva Classics \- Part 4\)](https://open.spotify.com/album/5T601zJp4XTdgoyKucd9hE) | 4:01 | 2022-06-02 | 2023-02-24 |
 | [我真的受傷了](https://open.spotify.com/track/4k3EkMBKfXOZSlYIySVibW) | [Kingbeck 陳家勁](https://open.spotify.com/artist/2vX2yggUl8tIwN24kkP5iH) | [我真的受傷了](https://open.spotify.com/album/7z3OdGZp7rjablZTuYfCCA) | 3:45 | 2024-05-30 | 2024-06-14 |
-| [我這個人 \- 《我沒有談的那場戀愛》電影宣傳主題曲](https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我這個人 \(《我沒有談的那場戀愛》電影宣傳主題曲\)](https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep) | 4:50 | 2022-06-02 |  |
+| [我這個人 \- 《我沒有談的那場戀愛》電影宣傳主題曲](https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我這個人 \(《我沒有談的那場戀愛》電影宣傳主題曲\)](https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep) | 4:50 | 2022-06-02 | 2024-12-27 |
 | [我連快樂都不敢了](https://open.spotify.com/track/66x69ddxo6rH3KZoa5yNfO) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [游牧](https://open.spotify.com/album/5TcwXy3ycGrJVAIyLHwCVf) | 3:51 | 2022-06-27 | 2022-07-27 |
 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 | 2022-06-02 |  |
 | [我還要走多遠](https://open.spotify.com/track/1cXM5i4zuIANClYgVL1AIM) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [我還要走多遠](https://open.spotify.com/album/54aCj8Q29YcZCmMsXcLCWY) | 2:36 | 2023-10-12 | 2023-11-17 |
@@ -388,6 +388,7 @@
 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 | 2024-03-28 |  |
 | [算了不追](https://open.spotify.com/track/04jfV5sjEeI0OLiHiogy7o) | [Yinson Lee](https://open.spotify.com/artist/2JPCNCkjhkJzy4Dm2yR2L5) | [算了不追](https://open.spotify.com/album/4svajXCISRKKrndwSLJ2eQ) | 3:57 | 2023-12-21 | 2023-12-31 |
 | [細水長流 \(電影《流浪地球2》陪伴主題曲\)](https://open.spotify.com/track/2ymrqq4PYyQPHpX7qULm6V) | [Andy Lau](https://open.spotify.com/artist/2n3uDrupL8UtFSeZhY38MS), [吳京](https://open.spotify.com/artist/6jq5mIyUPPLQ5kYeXOs4d6) | [細水長流 \(電影《流浪地球2》陪伴主題曲\)](https://open.spotify.com/album/7DS7s6jzklLBuUWIAfBQbq) | 4:26 | 2023-01-19 | 2023-02-16 |
+| [給你](https://open.spotify.com/track/3IN7EP6jgxkjzhhmqb2CRn) | [Nemo Lin](https://open.spotify.com/artist/74DXVAxpII7okrU2rb8tRT) | [倫敦的諮商室](https://open.spotify.com/album/0RdXYnORTLpP5BkYEU2FMR) | 4:11 | 2024-12-26 |  |
 | [給你](https://open.spotify.com/track/2gwGgOlK7dL6hqdiuLSmlN) | [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [給你](https://open.spotify.com/album/0yyB18wWXl38r15hfxcJfG) | 4:04 | 2023-06-22 | 2023-07-11 |
 | [給妳們](https://open.spotify.com/track/5Yy7ly2otpGZmEDNKgMFpK) | [Wanfang](https://open.spotify.com/artist/468BFRg8N0wGREo2L4TXZp) | [給妳們](https://open.spotify.com/album/1oPz4gbvtkJDVLU8gnY5n9) | 3:55 | 2022-06-30 | 2022-07-08 |
 | [緣分](https://open.spotify.com/track/3ARRyMQ4T4vcyL0TJV4rvM) | [伍芝儀](https://open.spotify.com/artist/1ZV7P5KZmCoG98IXa5pNk9), [詹欣萱](https://open.spotify.com/artist/5z8FTEiZni8bGrPjRqDf72) | [味盡緣 \(原創影集原聲帶\)](https://open.spotify.com/album/6SSpKuuNKz3qw3u3CvCwZB) | 3:08 | 2024-03-28 | 2024-04-05 |
@@ -406,6 +407,7 @@
 | [船到橋頭自然直](https://open.spotify.com/track/4Sfk5EfGrDR3b3QLCWU7CU) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [船到橋頭自然直](https://open.spotify.com/album/5gMcbYIRxCGPUAAIQ4v2XZ) | 3:51 | 2023-09-14 | 2023-09-29 |
 | [芬蘭距離](https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 5:49 | 2024-04-11 |  |
 | [英雄 \(Heroes\) \- 動畫電影《諸葛四郎\-英雄的英雄》主題曲 Acoustic Ver.](https://open.spotify.com/track/6k9i8zbLhbGRmlK5hqfkjy) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [英雄 \(Heroes\)](https://open.spotify.com/album/6Qd5JEwZU3m5STH0ovsLiz) | 3:16 | 2022-06-02 | 2022-07-29 |
+| [茧Jian](https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX) | [王OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [茧Jian](https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313) | 3:19 | 2024-12-26 |  |
 | [荒島](https://open.spotify.com/track/4KYWEzS8298WL2vzEaGUzy) | [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [二十歲](https://open.spotify.com/album/101LuRO1uDAjMMWI5c2Sd6) | 3:27 | 2023-11-09 | 2023-11-24 |
 | [莫忘初衷](https://open.spotify.com/track/0jZse1d0sIzWEDQI74f9KB) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [莫忘初衷](https://open.spotify.com/album/0YpUrt8Wo9SHdy3hF9BClV) | 3:57 | 2023-10-05 | 2023-10-20 |
 | [蒸發](https://open.spotify.com/track/0doFLlLPoWhtuoQnLnKe0s) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [在遊蕩的路上學會寬容](https://open.spotify.com/album/4vmXlNwuxCsEZFFrq1V1A3) | 5:49 | 2022-11-10 | 2022-11-18 |

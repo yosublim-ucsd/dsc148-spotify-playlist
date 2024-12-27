@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,960 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,968 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 8 | [A Single Second](https://open.spotify.com/track/3kAxXpkSl233HRCa5V8OGr) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 2:12 |
 | 9 | [Love Like Winter](https://open.spotify.com/track/3cDE9Yn4GrsxSrlMCLdmTT) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 2:45 |
 | 10 | [The Leaving Song Pt\. II](https://open.spotify.com/track/7rFhh71IiBfOCM4EhMwuEb) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:31 |
-| 11 | [The Lost Souls](https://open.spotify.com/track/2yQkmsZyxw99iNzgbbkuOn) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 2:42 |
-| 12 | [Medicate](https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 4:20 |
+| 11 | [Medicate](https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 4:20 |
+| 12 | [The Lost Souls](https://open.spotify.com/track/2yQkmsZyxw99iNzgbbkuOn) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 2:42 |
 | 13 | [Summer Shudder](https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:06 |
 | 14 | [Dancing Through Sunday](https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 2:26 |
 | 15 | [He Who Laughs Last...](https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
 | 50 | [Third Season](https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 2:49 |
 
-Snapshot ID: `Z2n5gAAAAABa4cKx7tjI4vg+QMOQsyMN`
+Snapshot ID: `Z2tLAAAAAAB3yiaxxDF6ZHqYq/CU0RY8`

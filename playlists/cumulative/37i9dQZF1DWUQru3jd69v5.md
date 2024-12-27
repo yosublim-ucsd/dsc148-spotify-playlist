@@ -4,7 +4,7 @@
 
 > Melons in cover della playlist con la nuova generazione del rap italiano.
 
-1,489 songs - 2 day 15 hr 52 min
+1,490 songs - 2 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1180,7 +1180,7 @@
 | [SAILOR MOON \(feat\. Sacky\)](https://open.spotify.com/track/3iLsttjW4zAVo4NfJJ5MHK) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [SAILOR MOON \(feat\. Sacky\)](https://open.spotify.com/album/1PrCHFsXWJyCOc38AfACyC) | 2:27 | 2024-06-20 | 2024-09-20 |
 | [Salam](https://open.spotify.com/track/1ksB7v1NvtYH9q9R23OuMv) | [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Salam](https://open.spotify.com/album/6aIN0Sf1sYGrPvXq2daMrr) | 2:53 | 2024-01-25 | 2024-02-02 |
 | [Salam Alaykum](https://open.spotify.com/track/6LI8B0UaQ70WdO2vlmKQK5) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Salam Alaykum](https://open.spotify.com/album/3ZeuySAYlaZN1QFlWPHIBS) | 3:12 | 2023-10-05 | 2023-12-15 |
-| [SALENTINI STEPPAS](https://open.spotify.com/track/5nAZ4l2afk6ABcaKDLrjVW) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Dave Flux](https://open.spotify.com/artist/0OwKa3p0LQGgoh1KFlSgkN) | [SALENTINI STEPPAS](https://open.spotify.com/album/2TT9PEEPd5QoMtto11mekN) | 2:35 | 2024-12-12 |  |
+| [SALENTINI STEPPAS](https://open.spotify.com/track/5nAZ4l2afk6ABcaKDLrjVW) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Dave Flux](https://open.spotify.com/artist/0OwKa3p0LQGgoh1KFlSgkN) | [SALENTINI STEPPAS](https://open.spotify.com/album/2TT9PEEPd5QoMtto11mekN) | 2:35 | 2024-12-12 | 2024-12-27 |
 | [Salmo \(sono il diavolo\)](https://open.spotify.com/track/0EDJG68dKUTD1Xr3R0MLiy) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Salmo \(sono il diavolo\)](https://open.spotify.com/album/3uqlIzPXhOur8F0eXJMQex) | 2:41 | 2023-08-31 | 2023-09-08 |
 | [Salto nel vuoto](https://open.spotify.com/track/6XTkT4PPwwbg8sWWWSH8Lu) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Salto nel vuoto](https://open.spotify.com/album/4fUTP5dYBbYd0lraO7wwjv) | 3:11 | 2022-05-10 | 2022-06-10 |
 | [San Fierro](https://open.spotify.com/track/1az4U3g3f7GoxmFThCGCap) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Cultura Italiana Pt.2](https://open.spotify.com/album/4vedQ4gGP1TfVzdwyXlxHE) | 2:20 | 2024-11-28 |  |
@@ -1274,6 +1274,7 @@
 | [STAI ZITTA](https://open.spotify.com/track/1zpQEwAJOAx6FP6UGDiyhh) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [STAI ZITTA](https://open.spotify.com/album/2tW6wrlWpbdfhdS9gN1Nw6) | 3:22 | 2024-03-07 | 2024-03-22 |
 | [Stare Bene](https://open.spotify.com/track/3E0fcsRyaqOZ4ofJQOvjsF) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Stare Bene](https://open.spotify.com/album/1kB3TZNbFocua5HZMjBxSs) | 2:14 | 2024-05-16 | 2024-06-07 |
 | [Stare Bene](https://open.spotify.com/track/0QtNthW54zTSiUdYxrGSDy) | [hmizo](https://open.spotify.com/artist/364qkrUT2TKnSW6YmIfeai), [Phob14](https://open.spotify.com/artist/3aUrp2rou7epulQOmuAi4h) | [Stare Bene](https://open.spotify.com/album/1v3m5NFhNeKjhvC6P6iPx8) | 2:47 | 2024-12-19 |  |
+| [Stare Senza \(feat\. Fashion Forty\)](https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 | 2024-12-26 |  |
 | [STATES](https://open.spotify.com/track/3zJKhswWqb3ZhCBwPObHG8) | [Lopez](https://open.spotify.com/artist/4dTHNdDdZxrkrGKYa7wzvm), [PassiønFruït](https://open.spotify.com/artist/4sQK404BlTYFhOHqidRb8t), [Moon](https://open.spotify.com/artist/6lBRFShYoK35Ya2HqrJOdU) | [STATES](https://open.spotify.com/album/3nY5b9w8aESg23Sz7rV1hR) | 2:38 | 2024-09-26 | 2024-10-11 |
 | [STATIC](https://open.spotify.com/track/7yTbKTjjiFRgnWNOaqhRvn) | [RLZ](https://open.spotify.com/artist/5fgkdcD8niDUUjiNK2GOtz) | [STATIC](https://open.spotify.com/album/6OQH7NPjO9jY6yKcw8TYkz) | 2:16 | 2024-05-09 | 2024-06-01 |
 | [Statt ferm](https://open.spotify.com/track/6yPNbFCaMfEhoCYGgOrg5x) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [NENNO](https://open.spotify.com/artist/7IADlwb8drI8AC1fpbvbla), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [Statt ferm](https://open.spotify.com/album/68nhHDerY9JEnrIk2j5NoG) | 2:14 | 2024-02-15 | 2024-03-29 |

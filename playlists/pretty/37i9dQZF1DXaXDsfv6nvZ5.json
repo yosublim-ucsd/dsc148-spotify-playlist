@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 766662,
+  "num_followers": 766747,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "That's What I Love",
@@ -1087,6 +1071,22 @@
       "duration_ms": 226440,
       "name": "That's What I Love",
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1161,6 +1161,22 @@
       "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 155813,
+      "name": "Colour Blind",
+      "url": "https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx"
+    },
+    {
       "added_at": "2024-11-22 19:03:40",
       "album": {
         "name": "WHY (A COLORS SHOW)",
@@ -1181,20 +1197,20 @@
       "url": "https://open.spotify.com/track/5x3gFHgM66ZB8nNPzGNIFt"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Untitled (God)",
-        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+        "name": "Simply Beautiful",
+        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 155813,
-      "name": "Colour Blind",
-      "url": "https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx"
+      "duration_ms": 258000,
+      "name": "Simply Beautiful",
+      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
     },
     {
       "added_at": "2024-10-04 06:56:53",
@@ -1211,22 +1227,6 @@
       "duration_ms": 231920,
       "name": "Simplify",
       "url": "https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Simply Beautiful",
-        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Simply Beautiful",
-      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
     },
     {
       "added_at": "2024-02-16 05:22:30",
@@ -1345,20 +1345,20 @@
       "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
     },
     {
-      "added_at": "2024-10-18 16:11:48",
+      "added_at": "2024-06-07 12:35:37",
       "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf"
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 183193,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM"
+      "duration_ms": 268946,
+      "name": "You in My Face",
+      "url": "https://open.spotify.com/track/7I8tpyYYwPvSdGL3lu1VAv"
     },
     {
       "added_at": "2024-06-21 06:30:29",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
     },
     {
-      "added_at": "2024-06-07 12:35:37",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 268946,
-      "name": "You in My Face",
-      "url": "https://open.spotify.com/track/7I8tpyYYwPvSdGL3lu1VAv"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Back to your Place",
@@ -1407,6 +1391,22 @@
       "duration_ms": 202826,
       "name": "Back to your Place",
       "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
+    },
+    {
+      "added_at": "2024-10-18 16:11:48",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 183193,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM"
     },
     {
       "added_at": "2023-05-20 16:10:43",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "Looking for God",
@@ -1525,20 +1509,20 @@
       "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 216436,
-      "name": "How Does It Make You Feel",
-      "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2024-12-13 02:03:47",
@@ -1555,6 +1539,22 @@
       "duration_ms": 130671,
       "name": "Give It To You",
       "url": "https://open.spotify.com/track/5z132ZK3Vwn6oV2ZQMkwPb"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 216436,
+      "name": "How Does It Make You Feel",
+      "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
     },
     {
       "added_at": "2024-08-23 06:02:29",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Waterfall (I Adore You)",
-        "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 292940,
-      "name": "Waterfall (I Adore You)",
-      "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
-    },
-    {
       "added_at": "2024-11-08 14:48:31",
       "album": {
         "name": "cloudy",
@@ -1619,6 +1603,22 @@
       "duration_ms": 266704,
       "name": "somebody new",
       "url": "https://open.spotify.com/track/5hiKumtJTCHaaWwgxdpnoD"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Waterfall (I Adore You)",
+        "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 292940,
+      "name": "Waterfall (I Adore You)",
+      "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1909,22 +1909,6 @@
       "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
     },
     {
-      "added_at": "2024-11-22 19:03:40",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/6SvW6Kh0xDNgcsrkFxPprt"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 196834,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0PFptuWqSctnyhq2VXxxrD"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "CLOSER",
@@ -1951,6 +1935,22 @@
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
+    },
+    {
+      "added_at": "2024-11-22 19:03:40",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/6SvW6Kh0xDNgcsrkFxPprt"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 196834,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0PFptuWqSctnyhq2VXxxrD"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1993,6 +1993,22 @@
       "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 331177,
+      "name": "My Light",
+      "url": "https://open.spotify.com/track/6F4MydgbaNkseNu5quueaF"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Sorrow",
@@ -2023,22 +2039,6 @@
       "duration_ms": 146250,
       "name": "LOW TIDE",
       "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Untitled (God)",
-        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 331177,
-      "name": "My Light",
-      "url": "https://open.spotify.com/track/6F4MydgbaNkseNu5quueaF"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2081,6 +2081,26 @@
       "url": "https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe"
     },
     {
+      "added_at": "2024-08-23 06:02:29",
+      "album": {
+        "name": "High Rise",
+        "url": "https://open.spotify.com/album/5J2djyGoOepXkcypspoQDx"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "High Rise",
+      "url": "https://open.spotify.com/track/4WCPv7SsDa2OCgFvHZQVgx"
+    },
+    {
       "added_at": "2024-10-13 00:13:24",
       "album": {
         "name": "Stuck In My Ways",
@@ -2115,26 +2135,6 @@
       "duration_ms": 158000,
       "name": "KOKO",
       "url": "https://open.spotify.com/track/0WHJJNkkCYGbDNDYUW8RA3"
-    },
-    {
-      "added_at": "2024-08-23 06:02:29",
-      "album": {
-        "name": "High Rise",
-        "url": "https://open.spotify.com/album/5J2djyGoOepXkcypspoQDx"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "High Rise",
-      "url": "https://open.spotify.com/track/4WCPv7SsDa2OCgFvHZQVgx"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2201,22 +2201,6 @@
       "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
     },
     {
-      "added_at": "2024-06-21 06:30:29",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
-    },
-    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "HEAVY",
@@ -2231,6 +2215,22 @@
       "duration_ms": 225829,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
+    },
+    {
+      "added_at": "2024-06-21 06:30:29",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "added_at": "2023-09-08 06:01:16",
@@ -2297,22 +2297,6 @@
       "url": "https://open.spotify.com/track/628pBCeScgjBqkyvgr5Ffy"
     },
     {
-      "added_at": "2024-10-18 16:11:48",
-      "album": {
-        "name": "Outside The Gate",
-        "url": "https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 206739,
-      "name": "Outside The Gate",
-      "url": "https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww"
-    },
-    {
       "added_at": "2024-10-25 07:15:59",
       "album": {
         "name": "Say Yes",
@@ -2343,6 +2327,22 @@
       "duration_ms": 236904,
       "name": "GPS",
       "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
+    },
+    {
+      "added_at": "2024-10-18 16:11:48",
+      "album": {
+        "name": "Outside The Gate",
+        "url": "https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 206739,
+      "name": "Outside The Gate",
+      "url": "https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww"
     },
     {
       "added_at": "2024-12-06 06:47:09",
@@ -2429,22 +2429,6 @@
       "url": "https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ"
     },
     {
-      "added_at": "2024-10-04 06:56:53",
-      "album": {
-        "name": "Hopes and Dreams (Abbey Road After Hours Session)",
-        "url": "https://open.spotify.com/album/1HTDlnGtmEPI6CDTZWhkR3"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 306325,
-      "name": "Hopes and Dreams - Abbey Road After Hours Sessions",
-      "url": "https://open.spotify.com/track/2GI2CqfgtVHUH2DFEUWW9B"
-    },
-    {
       "added_at": "2024-11-15 07:05:31",
       "album": {
         "name": "HIATUS",
@@ -2477,6 +2461,22 @@
       "url": "https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy"
     },
     {
+      "added_at": "2024-10-04 06:56:53",
+      "album": {
+        "name": "Hopes and Dreams (Abbey Road After Hours Session)",
+        "url": "https://open.spotify.com/album/1HTDlnGtmEPI6CDTZWhkR3"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 306325,
+      "name": "Hopes and Dreams - Abbey Road After Hours Sessions",
+      "url": "https://open.spotify.com/track/2GI2CqfgtVHUH2DFEUWW9B"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Colors",
@@ -2491,6 +2491,22 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "added_at": "2024-10-18 16:11:48",
+      "album": {
+        "name": "A Lover Was Born",
+        "url": "https://open.spotify.com/album/7jgxifgu2gP2BKSEKXkdjV"
+      },
+      "artists": [
+        {
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2539,22 +2555,6 @@
       "duration_ms": 282315,
       "name": "Mary",
       "url": "https://open.spotify.com/track/1Ox21gx050alMVNZL3XCMJ"
-    },
-    {
-      "added_at": "2024-10-18 16:11:48",
-      "album": {
-        "name": "A Lover Was Born",
-        "url": "https://open.spotify.com/album/7jgxifgu2gP2BKSEKXkdjV"
-      },
-      "artists": [
-        {
-          "name": "Kelly Finnigan",
-          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Count Me Out",
-      "url": "https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2613,20 +2613,20 @@
       "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
     },
     {
-      "added_at": "2024-09-13 09:22:53",
+      "added_at": "2024-12-13 02:03:47",
       "album": {
-        "name": "The Love Is Gone",
-        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+        "name": "OMW",
+        "url": "https://open.spotify.com/album/0b0yogQmgrzABvqAthno2s"
       },
       "artists": [
         {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
         }
       ],
-      "duration_ms": 199732,
-      "name": "The Love Is Gone",
-      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+      "duration_ms": 102143,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/5FydZF3ULRdyut9dORC6ab"
     }
   ],
   "unique_name": "Soul Coffee",

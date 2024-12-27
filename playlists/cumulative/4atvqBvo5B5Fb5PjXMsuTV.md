@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 25 Dec 19:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 27 Dec 23:02 UTC.
 
-3,860 songs - 8 day 22 hr 18 min
+3,861 songs - 8 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1422,7 +1422,7 @@
 | [Hanging from the Ceiling](https://open.spotify.com/track/66DDx6xdVC0SqHFCardl5a) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [irichan!](https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6) | [Hanging from the Ceiling](https://open.spotify.com/album/7f8TqbOhjME7h1EZtjxSc9) | 2:22 | 2024-07-29 | 2024-08-01 |
 | [Happier Than Ever](https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Happier Than Ever](https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2) | 4:22 | 2024-09-17 | 2024-09-20 |
 | [Happiness](https://open.spotify.com/track/335hUB7Xnb6bTl9ODlGq9b) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Happiness](https://open.spotify.com/album/5AqOksgvvZTnsVGumH5glK) | 3:37 | 2024-09-09 | 2024-09-12 |
-| [Happy](https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Happy](https://open.spotify.com/album/0hxoOa10f0i3uTgFd8Sp0G) | 4:05 | 2024-12-20 |  |
+| [Happy](https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Happy](https://open.spotify.com/album/0hxoOa10f0i3uTgFd8Sp0G) | 4:05 | 2024-12-20 | 2024-12-27 |
 | [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 | 2024-07-26 | 2024-07-29 |
 | [Happy Birthday To Me!](https://open.spotify.com/track/01aWaUusWGKcwLyap339mA) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Happy Birthday To Me!](https://open.spotify.com/album/4pzRMtLdIbbjFM7wT04cSi) | 2:44 | 2024-12-16 | 2024-12-21 |
 | [Happy End](https://open.spotify.com/track/17uySRQWwAywJUkolHcfmB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Happy End](https://open.spotify.com/album/1eoT7Sxn9TWjCNOOja8dss) | 3:52 | 2024-06-24 | 2024-06-26 |
@@ -2531,6 +2531,7 @@
 | [PISSED OFF](https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e) | 2:41 | 2024-09-27 | 2024-10-01 |
 | [Pistazieneis](https://open.spotify.com/track/0O1LqLDF2mQmWVlSrC4Mwn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Pistazieneis](https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB) | 2:17 | 2024-07-06 | 2024-07-10 |
 | [Pitch Black](https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Pitch Black](https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS) | 4:25 | 2024-11-06 | 2024-11-09 |
+| [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 | 2024-12-26 |  |
 | [Pizza Rolls Royce](https://open.spotify.com/track/1b7FZh4KJdEKCG9bg9UIYn) | [Gezebelle Gaburgably](https://open.spotify.com/artist/2dAr2VXRbboq3vymg20Jtw) | [Pizza Rolls Royce](https://open.spotify.com/album/1IOz8nqyViuhar7KPUglEi) | 4:15 | 2024-08-31 | 2024-09-06 |
 | [Placebo](https://open.spotify.com/track/22oTsXAlJgRkxE4IYf0YOh) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Placebo](https://open.spotify.com/album/25sy5aAwbpZ3hBPU0aw6VF) | 2:28 | 2024-05-11 | 2024-05-15 |
 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 | 2024-05-31 | 2024-06-02 |

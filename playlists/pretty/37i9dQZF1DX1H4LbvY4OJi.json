@@ -1,6 +1,6 @@
 {
   "description": "Embrace those happy vibes with these feel-good hits!",
-  "num_followers": 394902,
+  "num_followers": 394920,
   "original_name": "Happy Pop",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-12-03 03:00:00",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2024-12-03 03:00:00",
-      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 231333,
       "name": "Wake Me Up Before You Go-Go",
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "added_at": "2024-12-03 03:00:00",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2024-12-03 03:00:00",
@@ -363,26 +363,6 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2024-12-03 03:00:00",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "added_at": "2024-12-03 03:00:00",
@@ -439,6 +419,26 @@
     {
       "added_at": "2024-12-03 03:00:00",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+    },
+    {
+      "added_at": "2024-12-03 03:00:00",
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-12-03 03:00:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
-    },
-    {
-      "added_at": "2024-12-03 03:00:00",
-      "album": {
         "name": "1989 (Deluxe)",
         "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
+    },
+    {
+      "added_at": "2024-12-03 03:00:00",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2024-12-03 03:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-12-03 03:00:00",
       "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2024-12-03 03:00:00",
+      "album": {
         "name": "Who You Are (Platinum Edition)",
         "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2024-12-03 03:00:00",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+        "name": "Stronger (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+      "duration_ms": 221946,
+      "name": "Stronger (What Doesn't Kill You)",
+      "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
     },
     {
       "added_at": "2024-12-03 03:00:00",
@@ -903,22 +919,6 @@
       "duration_ms": 208906,
       "name": "Golden",
       "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
-    },
-    {
-      "added_at": "2024-12-03 03:00:00",
-      "album": {
-        "name": "Stronger (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Stronger (What Doesn't Kill You)",
-      "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
     },
     {
       "added_at": "2024-12-03 03:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-12-03 03:00:00",
       "album": {
-        "name": "Crimes Of Passion",
-        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Hit Me With Your Best Shot",
-      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
-    },
-    {
-      "added_at": "2024-12-03 03:00:00",
-      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "added_at": "2024-12-03 03:00:00",
+      "album": {
+        "name": "Crimes Of Passion",
+        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Hit Me With Your Best Shot",
+      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
     },
     {
       "added_at": "2024-12-03 03:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-12-03 03:00:00",
       "album": {
+        "name": "Greatest Vol.1 - Belinda Carlisle",
+        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 246520,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
+    },
+    {
+      "added_at": "2024-12-03 03:00:00",
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
-    },
-    {
-      "added_at": "2024-12-03 03:00:00",
-      "album": {
-        "name": "Greatest Vol.1 - Belinda Carlisle",
-        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 246520,
-      "name": "Heaven Is A Place On Earth",
-      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
     },
     {
       "added_at": "2024-12-03 03:00:00",

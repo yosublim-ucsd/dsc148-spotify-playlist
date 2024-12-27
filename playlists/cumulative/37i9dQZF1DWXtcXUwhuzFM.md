@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa emma & matilda.
 
-3,801 songs - 8 day 7 hr 47 min
+3,802 songs - 8 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2497,6 +2497,7 @@
 | [Pelaa Possum](https://open.spotify.com/track/3eCpYLXmH4jZbmwhJ9CQrL) | [FORRESTER](https://open.spotify.com/artist/4A3v0ZA50EKyGNBtEJLZA8), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Vinttikoira](https://open.spotify.com/artist/5BYjPxHBd5aCz5Pt8igAXl) | [Pelaa Possum](https://open.spotify.com/album/1li2eZ9aWthIKgP73d2SWr) | 3:24 | 2024-12-05 | 2024-12-13 |
 | [Pelaa sua](https://open.spotify.com/track/54CjiaDkN4OiaL3GvnptBv) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Pelaa sua](https://open.spotify.com/album/0NfVaftmXDcUEd15CVfifg) | 2:28 | 2024-07-04 | 2024-07-12 |
 | [pelastusrengas](https://open.spotify.com/track/0esqGt2VYn9TD4BkPxwP1E) | [Samuel Shipway](https://open.spotify.com/artist/2dgvSwqsBBsIGxZjR3Qnn3) | [HENGITÄ!](https://open.spotify.com/album/6JiST3fhjvoHwMvS9H2mXU) | 2:56 | 2024-05-24 | 2024-06-01 |
+| [People Are Strange](https://open.spotify.com/track/71IXymKfRMk8Jpo6NrukhT) | [The Confusions](https://open.spotify.com/artist/4sdIrh3T6OIgerxqonYuvM) | [Songs for Movies](https://open.spotify.com/album/4XzRucinrhyfgHstVgZoJR) | 4:23 | 2024-12-19 |  |
 | [People Still Show Up](https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [People Still Show Up](https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4) | 2:52 | 2024-10-24 | 2024-11-01 |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-11-14 | 2024-11-22 |
 | [People’s Champion](https://open.spotify.com/track/6kfiwoVUG8uMQoM3TjL0A9) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 3:08 | 2024-10-31 | 2024-11-08 |

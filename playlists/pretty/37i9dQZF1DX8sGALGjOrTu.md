@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,523 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,588 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 81 | [In the Belly of a Shark](https://open.spotify.com/track/0khj70h8pejNRukEhOn86O) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves \(new version\)](https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx) | 2:41 |
 | 82 | [Dream to Make Believe](https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Dream to Make Believe](https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk) | 3:01 |
 | 83 | [Ink](https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:35 |
-| 84 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 |
-| 85 | [Smile In Your Sleep](https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba) | 3:14 |
+| 84 | [Smile In Your Sleep](https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba) | 3:14 |
+| 85 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 |
 | 86 | [Let The Evil Go East](https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg) | [Greeley Estates](https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag) | [Go West Young Man, Let The Evil Go East](https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ) | 3:20 |
 | 87 | [Medicating](https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw) | [Boys Night Out](https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ) | [Trainwreck](https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P) | 4:00 |
 | 88 | [Hang 'Em High](https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [A Static Lullaby](https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ) | 3:59 |

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Japan: 洋楽&邦楽ヒッツ](https://open.spotify.com/playlist/37i9dQZF1DXayDMsJG9ZBv)
 
-> 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: TWICE + Megan Thee Stallion
+> 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: SZA
 
-580 songs - 1 day 9 hr 52 min
+582 songs - 1 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\):阿修羅:\(](https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:31 | 2023-12-04 | 2023-12-26 |
 | [+Matter](https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [+Matter](https://open.spotify.com/album/4nLDWr5orZvPtYwF0yrstO) | 3:52 | 2024-12-12 |  |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-12-05 |  |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-26 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-10-02 | 2023-11-08 |
 | [50%](https://open.spotify.com/track/4ghCcQcictNxObRdRmmk6S) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [50%](https://open.spotify.com/album/03VDTiSvAajPkP9NuMg2Nx) | 5:03 | 2024-12-19 |  |
 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 | 2023-12-12 | 2024-01-11 |
@@ -234,7 +235,7 @@
 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-10-02 | 2023-12-02 |
 | [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 | 2023-11-28 | 2023-12-13 |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-07 | 2023-11-21 |
-| [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-24 |  |
+| [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-24 | 2024-12-27 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-28 | 2024-03-15 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-16 | 2024-07-12 |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-28 |  |
@@ -396,6 +397,7 @@
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/6xrTHtSg2SDBLilLxhbhof) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/album/0BL4n7JwPd0Ml4nhpjRCFv) | 2:34 | 2024-10-17 | 2024-12-06 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-07 |  |
 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2024-10-10 |  |
+| [Take Me to the Beach \(feat\. Ado\)](https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Take Me to the Beach \(feat\. Ado\)](https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ) | 2:47 | 2024-12-26 |  |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-12 | 2023-08-08 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-29 |  |
 | [Tattoo](https://open.spotify.com/track/6wffxmLgeZTbvS1hYvLkht) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Tattoo](https://open.spotify.com/album/07hAM6iu7A39wR2zwfaoCL) | 4:48 | 2023-04-24 | 2023-08-15 |
@@ -488,7 +490,7 @@
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 | 2023-10-16 | 2023-11-30 |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 | 2023-10-14 | 2023-10-19 |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-10-02 | 2023-10-16 |
-| [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 | 2024-12-19 |  |
+| [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 | 2024-12-19 | 2024-12-27 |
 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2023-12-04 | 2023-12-26 |
 | [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 | 2023-05-01 | 2023-06-20 |
 | [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 | 2023-09-25 | 2023-10-10 |

@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: The Velveteers
 
-2,202 songs - 4 day 13 hr 58 min
+2,203 songs - 4 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Bazooka](https://open.spotify.com/track/01VdiTMVpkFzzegz9VpDIh) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [Bazooka](https://open.spotify.com/album/6CYsi2RE2ThxH068VqqeYg) | 2:49 | 2024-08-01 | 2024-09-21 |
 | [Be Better](https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Be Better](https://open.spotify.com/album/06DjLKHL3vU2hmwkgQavK2) | 2:24 | 2024-02-23 | 2024-04-05 |
 | [Be Ok \- RMX](https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf) | [Petti Hendrix](https://open.spotify.com/artist/5UH0futyctGehzyRRBWukQ), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Be Ok \(RMX\)](https://open.spotify.com/album/3iHvJy9uyIj79BLz6g9efV) | 3:32 | 2024-04-25 | 2024-06-21 |
+| [Be Someone](https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Extremely Fragile Human Being](https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw) | 3:10 | 2024-12-23 |  |
 | [Beautiful Out](https://open.spotify.com/track/3w3QOkPyhaGPaechBsxTE0) | [Worst Party Ever](https://open.spotify.com/artist/2bLENLdxlsq2xbvzMa1SUG) | [Beautiful Out](https://open.spotify.com/album/0MLwq2J3bl3yWfT554oNum) | 2:19 | 2021-12-17 | 2022-02-25 |
 | [Beauty and Grace](https://open.spotify.com/track/3EpMDkSTWJaP7QCoqkKbSn) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:09 | 2022-11-25 | 2023-01-13 |
 | [Beauty and Grace](https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Beauty and Grace](https://open.spotify.com/album/7IsKOyk8quTcg8bpRptkgw) | 2:09 | 2022-10-13 | 2022-12-04 |

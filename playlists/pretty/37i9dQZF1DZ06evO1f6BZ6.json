@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 118117,
+  "num_followers": 118135,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAApLbfgdNg4m9C+g3JDAiPO",
+  "snapshot_id": "Z2tLAAAAAADqHtqnxwnt/Yih5bEAdpUm",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 197293,
-      "name": "Rum Is the Reason",
-      "url": "https://open.spotify.com/track/2Y9o2plHDMxKzbPTEah8Cu"
+      "duration_ms": 257120,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 257120,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
+      "duration_ms": 197293,
+      "name": "Rum Is the Reason",
+      "url": "https://open.spotify.com/track/2Y9o2plHDMxKzbPTEah8Cu"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+        "name": "Dream Walkin'",
+        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 214920,
-      "name": "Honkytonk U",
-      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
+      "duration_ms": 260933,
+      "name": "We Were In Love",
+      "url": "https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Walkin'",
-        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 260933,
-      "name": "We Were In Love",
-      "url": "https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs"
+      "duration_ms": 214920,
+      "name": "Honkytonk U",
+      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
     },
     {
       "added_at": null,

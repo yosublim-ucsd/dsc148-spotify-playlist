@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa BEHM ja Ege Zulu.
 
-370 songs - 18 hr 33 min
+373 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Isäni ääni \- Vain elämää kausi 15](https://open.spotify.com/track/6P9KWnCxmxipKNhXrdKcRn) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Isäni ääni \(Vain elämää kausi 15\)](https://open.spotify.com/album/634wQ7nbd9qeYmlBgjkTQr) | 3:01 | 2024-11-14 | 2024-11-22 |
 | [It's About Time \(Vain elämää kausi 15\)](https://open.spotify.com/track/6Vk0TCNfXU9WhFvboX2Jb6) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [It's About Time \(Vain elämää kausi 15\)](https://open.spotify.com/album/2DBlENWqa5h0LKhzzxUDl1) | 2:44 | 2024-11-28 | 2024-12-06 |
 | [Italia](https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944) | [Italia](https://open.spotify.com/album/7FmnNsINdI92aApGrd4vcT) | 3:13 | 2024-07-02 | 2024-08-23 |
+| [Jeesus](https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Jeesus](https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe) | 1:50 | 2024-12-26 |  |
 | [Joku jonka tunsin](https://open.spotify.com/track/1241eeAveOKQYMW94FMNrx) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [\#ULTRA](https://open.spotify.com/album/1A588xJ5eLYTYa1emn00iG) | 2:59 | 2024-07-02 | 2024-07-12 |
 | [Joku, jonka luo palata](https://open.spotify.com/track/1XYPk1AGMeJ4wOfkudWsXb) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Joku, jonka luo palata](https://open.spotify.com/album/1kuWX6YfOl9tnpEHMf8i5r) | 3:10 | 2024-10-24 |  |
 | [JORMA](https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [JORMA](https://open.spotify.com/album/4c0HtgvUZ3Agx3AoLDP5bx) | 2:33 | 2024-09-05 | 2024-09-20 |
@@ -215,7 +216,9 @@
 | [Nouse kyytiin](https://open.spotify.com/track/0zeycjLOtQNcinmx7uH5jg) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Nouse kyytiin](https://open.spotify.com/album/1tTRRFjAtEcpPM0ngmn1JW) | 3:57 | 2024-08-22 | 2024-09-06 |
 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 | 2024-08-15 | 2024-09-06 |
 | [Nuori & Tyhmä](https://open.spotify.com/track/5syJf0eS8aOziKeSFe4APG) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [SELVIYTYJÄ](https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ) | 2:32 | 2024-10-17 | 2024-11-29 |
+| [Näihin hommiin ei synnytä](https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Näihin hommiin ei synnytä](https://open.spotify.com/album/1fgrqR1FWrPEhiDatGo1gL) | 2:45 | 2024-12-26 |  |
 | [Nössöö elämää](https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Nössöö elämää](https://open.spotify.com/album/7gaDjn3N035NDekrWIV9Cg) | 3:25 | 2024-07-02 | 2024-09-06 |
+| [Odota Remix](https://open.spotify.com/track/2aWWSkiJxApWZoQolFb9kq) | [Aikakone](https://open.spotify.com/artist/0NAdOnNnbIceBrlIVgNSxv), [niinja](https://open.spotify.com/artist/1WU701LQ9Ox2byHTHa1aM7) | [Odota Remix](https://open.spotify.com/album/5ozoM9n1NSTZk6IPHwtnYe) | 3:01 | 2024-12-26 |  |
 | [Olga](https://open.spotify.com/track/5Zm7wFXMkdPS7NQoGxmzWS) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Olga](https://open.spotify.com/album/3Z7O7ZGG62ZIHSxqt6MHv0) | 2:42 | 2024-07-25 | 2024-08-16 |
 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 | 2024-08-29 | 2024-09-13 |
 | [Ota musta kii \(feat\. Asla Jo\)](https://open.spotify.com/track/7b2EXARgqqX9xq3SdwKp9W) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Ilmaista terapiaa](https://open.spotify.com/album/0MqERRYaS1FXXPhoDrZUJj) | 3:00 | 2024-10-24 | 2024-11-08 |

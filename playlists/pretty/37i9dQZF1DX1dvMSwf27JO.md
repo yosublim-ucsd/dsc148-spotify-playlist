@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,872 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,900 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 33 | [Biking \(Solo\)](https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Biking \(Solo\)](https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr) | 3:32 |
 | 34 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 |
 | 35 | [oh my love](https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:45 |
-| 36 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
+| 36 | [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 |
 | 37 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 |
-| 38 | [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 |
+| 38 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 39 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 |
 | 40 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
 | 41 | [Bunny Is A Rider](https://open.spotify.com/track/40tRJ8bMkIkXh8vhHKQsoX) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:13 |

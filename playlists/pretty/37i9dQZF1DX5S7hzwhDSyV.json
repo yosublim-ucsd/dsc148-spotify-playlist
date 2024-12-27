@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 123431,
+  "num_followers": 123497,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 824133,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/3ZikLQCnH3SIswlGENBcKe"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 474626,
       "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 824133,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/3ZikLQCnH3SIswlGENBcKe"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 393000,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Moanin' (Expanded Edition)",
         "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 345173,
       "name": "Come Rain Or Come Shine",
       "url": "https://open.spotify.com/track/4nrQ0ohqu5sXqMg2p4YzkE"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 393000,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -895,18 +895,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
+        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
+        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
       },
       "artists": [
         {
           "name": "Clifford Brown",
           "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 224053,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
+      "duration_ms": 181666,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -959,6 +963,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 457560,
+      "name": "Love For Sale - Rudy Van Gelder Edition / Remastered 1999",
+      "url": "https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "A Garland Of Red",
         "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
       },
@@ -991,22 +1011,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 457560,
-      "name": "Love For Sale - Rudy Van Gelder Edition / Remastered 1999",
-      "url": "https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "In a Sentimental Mood",
         "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
       },
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
-        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
       },
       "artists": [
         {
           "name": "Clifford Brown",
           "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
+      "duration_ms": 224053,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 322960,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Coltrane Jazz",
         "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 515039,
       "name": "Alice In Wonderland - Live At The Village Vanguard, 1961 / Take 2",
       "url": "https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 322960,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Eddie Higgins",
-        "url": "https://open.spotify.com/album/1HT2Mu1wi8V28XDnth70LL"
-      },
-      "artists": [
-        {
-          "name": "Eddie Higgins",
-          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "Falling In Love With Love",
-      "url": "https://open.spotify.com/track/2AXpGYWWR7ebNYEGX7pBSg"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Criss-Cross (Expanded Edition)",
         "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 424933,
       "name": "Don't Blame Me (Retake 1)",
       "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Eddie Higgins",
+        "url": "https://open.spotify.com/album/1HT2Mu1wi8V28XDnth70LL"
+      },
+      "artists": [
+        {
+          "name": "Eddie Higgins",
+          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "Falling In Love With Love",
+      "url": "https://open.spotify.com/track/2AXpGYWWR7ebNYEGX7pBSg"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Our Man In Jazz",
-        "url": "https://open.spotify.com/album/0RlZm6d9pRFza05C7pY28T"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "I Could Write a Book - Remastered 1999",
-      "url": "https://open.spotify.com/track/2DipFLAFM3N2rJClqb2fhf"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Young Chet",
         "url": "https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+        "name": "Our Man In Jazz",
+        "url": "https://open.spotify.com/album/0RlZm6d9pRFza05C7pY28T"
       },
       "artists": [
         {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 267560,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+      "duration_ms": 195133,
+      "name": "I Could Write a Book - Remastered 1999",
+      "url": "https://open.spotify.com/track/2DipFLAFM3N2rJClqb2fhf"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1591,6 +1575,22 @@
       "duration_ms": 168040,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+      },
+      "artists": [
+        {
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Hollywood Stampede",
-        "url": "https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/7ln3tLGBE1knxxUnkt7IXE"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Our Man In Paris (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 339160,
       "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
       "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Hollywood Stampede",
+        "url": "https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7ln3tLGBE1knxxUnkt7IXE"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 386773,
-      "name": "But Beautiful - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Chet Baker Sextet",
         "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 235560,
       "name": "Stella By Starlight - Remaster/2004",
       "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 386773,
+      "name": "But Beautiful - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "A Night At The Village Vanguard (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3n8HGJWCilq2qvLOPEzFoK"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 501906,
-      "name": "Old Devil Moon - Live At The Village Vanguard/1957 / Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1EY9DXkRZg8ChCYhpVi6Yg"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 255226,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/0PrGgNDwfJPNXADJYROvBw"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "A Night At The Village Vanguard (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3n8HGJWCilq2qvLOPEzFoK"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 501906,
+      "name": "Old Devil Moon - Live At The Village Vanguard/1957 / Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0"
     },
     {
       "added_at": "2024-07-08 06:51:47",

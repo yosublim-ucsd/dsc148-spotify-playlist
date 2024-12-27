@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2WmQyjr536wiWWOGs53ljC.md) - [plain]
 
 > REINVENTED IN 2024\. FEATURING: Joshua Lanuarii, Kittydog, Squiblers, MouSa, nbmusic &amp; Vincent &amp; The Black Rabbit.
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 30 likes - 104 songs - 5 hr 51 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 30 likes - 117 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,18 @@ pretty - [cumulative](/playlists/cumulative/2WmQyjr536wiWWOGs53ljC.md) - [plain]
 | 102 | [Memories](https://open.spotify.com/track/7K41fHAcSEqBDBWm1Y8DC1) | [Pötlays](https://open.spotify.com/artist/1WyFANi32GuStt5jPywgRZ), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Never Wanna Know](https://open.spotify.com/album/5XPP7mZITlwBlKm40DS0zG) | 2:29 |
 | 103 | [Black Mass](https://open.spotify.com/track/1O047NE68YUR6j26zBPz2O) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Black Mass](https://open.spotify.com/album/23aOWuA3ezrcNekrUG9miW) | 6:50 |
 | 104 | [Moonrocks \(Offering for Stolas\)](https://open.spotify.com/track/2dBV1RnDWmwnWMvSxSN2wJ) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Moonrocks \(Offering for Stolas\)](https://open.spotify.com/album/2UMjkN7VWK0MZTnDmAx2O6) | 8:33 |
+| 105 | [ON THE RUN](https://open.spotify.com/track/5A62Wt9lUe7cHD5Yt40Vf9) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:07 |
+| 106 | [CRIMINAL](https://open.spotify.com/track/4HpDeO5zCUVXVAhINU4I9u) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:15 |
+| 107 | [BEAR YOUR FANGS](https://open.spotify.com/track/6Rl5PrsLA0Vz9bx3E0QV9G) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:01 |
+| 108 | [KEEP THE LIGHTS ON](https://open.spotify.com/track/4HyXBIiESmnMZhztOmW7IK) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:34 |
+| 109 | [NO MORE PARTIES](https://open.spotify.com/track/2lcSrPHDrG8jnRYcIKodcE) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:12 |
+| 110 | [UNDER THE MOON](https://open.spotify.com/track/4x6N95mRNVrJmzvAwAPIhW) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Luminives](https://open.spotify.com/artist/1ZTi4INXlrjdNBtcZTxh1y), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:09 |
+| 111 | [NOW UNTIL FOREVER](https://open.spotify.com/track/6TKeBsczN0YE8X29XhfAjs) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 1:54 |
+| 112 | [MASCARA](https://open.spotify.com/track/4rLQ3SZZio1TKc9Hod7zMK) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:52 |
+| 113 | [BURN THE HOUSE DOWN](https://open.spotify.com/track/3evbU2MJiwzD9x3iOlDWn0) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 4:08 |
+| 114 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 |
+| 115 | [BANG BANG \(MY BABY SHOT ME DOWN\)](https://open.spotify.com/track/0uz0qDHL80vqkEAOCs4Wum) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:28 |
+| 116 | [DAMSEL IN DISTRESS](https://open.spotify.com/track/6aypVvoftS3gKkBE5WJE3Y) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [NotSoFinest](https://open.spotify.com/artist/2Uk2YETdcoV8fXzX2DUnwQ) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:01 |
+| 117 | [LAMENT](https://open.spotify.com/track/3Cv0icGRvbEqGW2rjNvx0C) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:52 |
 
-Snapshot ID: `AAACbYMH7JJ/CGuICSob35C4eaRcxkB6`
+Snapshot ID: `AAACbsQfamrCJYSF4QybKh0Y+19CCA7L`

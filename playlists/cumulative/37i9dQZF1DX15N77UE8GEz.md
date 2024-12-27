@@ -2,9 +2,9 @@
 
 ### [Éxitos Paraguay](https://open.spotify.com/playlist/37i9dQZF1DX15N77UE8GEz)
 
-> ¡Escucha los éxitos de hoy!<br/>Foto: Myke Towers & benny blanco
+> ¡Escucha los éxitos de hoy!<br/>Foto: Rauw Alejandro
 
-131 songs - 7 hr 7 min
+132 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [ANDO](https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:52 | 2024-03-07 | 2024-07-19 |
 | [APAGA EL CEL](https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [APAGA EL CEL](https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF) | 3:04 | 2024-07-18 | 2024-09-19 |
 | [Bad Boy](https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD), [CamiMusic](https://open.spotify.com/artist/21E0RTFtdVsObx00mUO98s) | [Bad Boy](https://open.spotify.com/album/5WN8wOXN4VxKVTxXlYfjXh) | 2:39 | 2023-11-09 | 2024-09-07 |
-| [BBY BOO \- REMIX](https://open.spotify.com/track/43PiEypaceH339CSNiggyj) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [BBY BOO \(REMIX\)](https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9) | 4:35 | 2024-04-11 |  |
+| [BBY BOO \- REMIX](https://open.spotify.com/track/43PiEypaceH339CSNiggyj) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [BBY BOO \(REMIX\)](https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9) | 4:35 | 2024-04-11 | 2024-12-27 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-21 | 2024-05-24 |
 | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \- Remix](https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \[Remix\]](https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq) | 4:44 | 2024-04-18 | 2024-06-28 |
 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 | 2024-07-18 |  |
@@ -115,6 +115,7 @@
 | [SI NO ES CONTIGO](https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL) | 2:36 | 2024-06-06 |  |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-05 | 2024-02-02 |
 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 | 2023-09-21 | 2024-01-12 |
+| [Siempre Me Buscabas](https://open.spotify.com/track/4AdkryAxDTbgwQdqtFH8qx) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Super Cumbias \(Remastered\)](https://open.spotify.com/album/1XeQOKWV65fT6734OdV6qd) | 3:38 | 2024-12-26 |  |
 | [Sin Ti No Sé Vivir](https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:44 | 2024-05-16 |  |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-10-10 |  |
 | [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 | 2024-06-13 | 2024-10-11 |

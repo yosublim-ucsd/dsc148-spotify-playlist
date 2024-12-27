@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 180026,
       "name": "all i can do is miss you",
       "url": "https://open.spotify.com/track/7j6B7MBoV6JOcWFL0VYNFT"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 164630,
       "name": "Be Good (feat. Tom Rosenthal)",
       "url": "https://open.spotify.com/track/7ksUuRAALPLYjhlpwTcDCH"
@@ -642,6 +642,24 @@
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
+    },
+    {
+      "album": {
+        "name": "Born To Make It",
+        "url": "https://open.spotify.com/album/6HlysPNeaDNbptK2EGKBiU"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130789,
+      "name": "Born To Make It",
+      "url": "https://open.spotify.com/track/6kTN5hzVv7v7OBWkadx3IP"
     },
     {
       "album": {
@@ -1058,6 +1076,24 @@
       "duration_ms": 209813,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1Sqj67OzLpwDRX7nzV9kS1"
+    },
+    {
+      "album": {
+        "name": "Falling (Piece Of Me)",
+        "url": "https://open.spotify.com/album/0iRONB7bulwsfUjG9ytR6j"
+      },
+      "artists": [
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Falling (Piece Of Me)",
+      "url": "https://open.spotify.com/track/6DSMipCcpahSwU0mXwlHF4"
     },
     {
       "album": {
@@ -2802,7 +2838,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-27",
       "duration_ms": 243000,
       "name": "Ponytail",
       "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
@@ -3614,6 +3650,24 @@
       "duration_ms": 228162,
       "name": "Truth",
       "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
+    },
+    {
+      "album": {
+        "name": "Veridis Quo (Edit)",
+        "url": "https://open.spotify.com/album/1CeIjHjsxOIo1jQkPduUfx"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164381,
+      "name": "Veridis Quo - Edit",
+      "url": "https://open.spotify.com/track/39piMAGrzEeTV0yAxHRyoA"
     },
     {
       "album": {

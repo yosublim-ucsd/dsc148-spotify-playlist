@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,680,763 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,680,920 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 21 | [all of me](https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:18 |
 | 22 | [A N X I E T Y \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 |
 | 23 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 |
-| 24 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
-| 25 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 |
+| 24 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 |
+| 25 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
 | 26 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
 | 27 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
 | 28 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 48 | [bigger thën everything](https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [bigger thën everything](https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9) | 3:38 |
 | 49 | [whatsapp \(wassam\)](https://open.spotify.com/track/6LAicOLiCrHw0bmaLBDbC8) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:28 |
 | 50 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 |
-| 51 | [02.02.99](https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [02.02.99](https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9) | 2:42 |
-| 52 | [Shampoo](https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shampoo](https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7) | 2:11 |
-| 53 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 |
+| 51 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 |
+| 52 | [02.02.99](https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [02.02.99](https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9) | 2:42 |
+| 53 | [Shampoo](https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shampoo](https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7) | 2:11 |
 | 54 | [rock your hips](https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [rock your hips](https://open.spotify.com/album/1AX6HDF2vw86lWVq2yObhz) | 2:58 |
 | 55 | [PAIDNFULL](https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced](https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M) | 1:59 |
 | 56 | [GET OFF ME \(with Travis Scott\)](https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:35 |

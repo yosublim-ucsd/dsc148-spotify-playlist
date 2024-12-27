@@ -1,6 +1,6 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 193128,
+  "num_followers": 193153,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
-        "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
-      "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
         "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 226557,
       "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
+        "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
+        "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
+      "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+        "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
+        "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
         }
       ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+      "duration_ms": 259933,
+      "name": "\u30c1\u30a7\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
-        "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
       "artists": [
         {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 259933,
-      "name": "\u30c1\u30a7\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "\u4e00\u9014",
-        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 190606,
-      "name": "\u4e00\u9014",
-      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
         "name": "\u3072\u307f\u3064\u30b9\u30bf\u30b8\u30aa",
         "url": "https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 211920,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
+        "name": "INDEPENDENT",
+        "url": "https://open.spotify.com/album/4RTzwKeZd6nL1JQxRG6CFU"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "duration_ms": 255760,
+      "name": "\u30cf\u30d4\u30cd\u30b9",
+      "url": "https://open.spotify.com/track/4Ls20opS0EzPb7NuA6F8VI"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
         "name": "\u6700\u9ad8\u5230\u9054\u70b9",
         "url": "https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 227469,
       "name": "\u6700\u9ad8\u5230\u9054\u70b9",
       "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
-        "name": "Pink Venom",
-        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "added_at": "2024-12-03 15:00:00",

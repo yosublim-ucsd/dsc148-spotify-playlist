@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 558536,
+  "num_followers": 558564,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAAClFb243aGt/RwtRk0pVV66",
+  "snapshot_id": "Z2tLAAAAAAA3r8A8IaGi4bi/WfS+/VRP",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Mi Decepci\u00f3n",
-      "url": "https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Mexico Song",
         "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
       },
@@ -547,22 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vicio y la Fama",
-        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         },
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 229610,
-      "name": "El Catr\u00edn",
-      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
+      "duration_ms": 292000,
+      "name": "Mi Decepci\u00f3n",
+      "url": "https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp"
     },
     {
       "added_at": null,
@@ -599,6 +579,26 @@
       "duration_ms": 255712,
       "name": "No Llegar\u00e9 (Remix)",
       "url": "https://open.spotify.com/track/5Fhf4Iwal5MMHXH4TiOiEQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vicio y la Fama",
+        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 229610,
+      "name": "El Catr\u00edn",
+      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar y Tierra",
-        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 185870,
-      "name": "Mar y Tierra",
-      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liga Malandra 2",
         "url": "https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 240000,
       "name": "Liga Malandra 2",
       "url": "https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar y Tierra",
+        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 185870,
+      "name": "Mar y Tierra",
+      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Est\u00e1 Caliente",
-      "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 213773,
       "name": "Camina Sola",
       "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Est\u00e1 Caliente",
+      "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
     },
     {
       "added_at": null,
@@ -1059,6 +1059,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nunca Imagin\u00e9",
+        "url": "https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Nunca Imagin\u00e9",
+      "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estilo Fino",
         "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
       },
@@ -1099,26 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Imagin\u00e9",
-        "url": "https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Nunca Imagin\u00e9",
-      "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silencio En El Callejon",
         "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
       },
@@ -1147,26 +1147,6 @@
       "duration_ms": 203835,
       "name": "GTO",
       "url": "https://open.spotify.com/track/4McrsoOEGPk3pt7YsmXeJY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Soy Mercenario",
-      "url": "https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr"
     },
     {
       "added_at": null,
@@ -1207,6 +1187,26 @@
       "duration_ms": 228500,
       "name": "Si Preguntan por M\u00ed",
       "url": "https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Soy Mercenario",
+      "url": "https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr"
     },
     {
       "added_at": null,

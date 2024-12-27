@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 38722,
+  "num_followers": 38725,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2n5gAAAAADqxcq4v+rhJajTRwZ7gea+",
+  "snapshot_id": "Z2tLAAAAAADnJEGDSwVelC9/sQej8zoc",
   "tracks": [
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 211573,
-      "name": "Best Places To Be A Mom",
-      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
+      "duration_ms": 243506,
+      "name": "This Is All Now",
+      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 243506,
-      "name": "This Is All Now",
-      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
+      "duration_ms": 211573,
+      "name": "Best Places To Be A Mom",
+      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Call Come Running",
-      "url": "https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Us Two",
         "url": "https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 228638,
       "name": "Just Us Two",
       "url": "https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Call Come Running",
+      "url": "https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN"
     },
     {
       "added_at": null,

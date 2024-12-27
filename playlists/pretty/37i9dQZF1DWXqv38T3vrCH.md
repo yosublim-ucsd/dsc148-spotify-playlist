@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,181 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,140 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 76 | [Hellraiser](https://open.spotify.com/track/2N7LcpJoYo7WWTueTW9KyX) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best Of](https://open.spotify.com/album/0v6vbvtlFL78oEd3KrT0jp) | 4:34 |
 | 77 | [I Love the Dead](https://open.spotify.com/track/1nwkxjOS104dWwNgrhYkEo) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 5:07 |
 | 78 | [Am I Evil?](https://open.spotify.com/track/1bqxO1wuMODj6x7fiCCovB) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Am I Evil?](https://open.spotify.com/album/3Kq7zsHEu1aueV2ukmjwKA) | 8:25 |
-| 79 | [Every Day Is Halloween](https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Every Day Is Halloween](https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE) | 6:24 |
-| 80 | [Zombie](https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 5:06 |
+| 79 | [Zombie](https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 5:06 |
+| 80 | [Every Day Is Halloween](https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Every Day Is Halloween](https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE) | 6:24 |
 
 Snapshot ID: `Zw1QywAAAAAFKGyWjE7Q8TBH5lTZ/82H`

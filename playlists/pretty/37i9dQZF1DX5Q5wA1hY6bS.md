@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,437,246 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437,244 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 63 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 |
 | 64 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
 | 65 | [Banshee Moan](https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Black Irish](https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl) | 4:01 |
-| 66 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
-| 67 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
+| 66 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
+| 67 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 68 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 |
 | 69 | [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 |
 | 70 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 82 | [Born at the Right Time](https://open.spotify.com/track/5YT483i1cyJMnGtsYFzeSW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Born at the Right Time](https://open.spotify.com/album/1lgKcUycLcKvcH1PtUHN3x) | 3:44 |
 | 83 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
 | 84 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
-| 85 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
-| 86 | [If Something Breaks](https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 4:56 |
+| 85 | [If Something Breaks](https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 4:56 |
+| 86 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
 | 87 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 |
 | 88 | [Hellfire](https://open.spotify.com/track/2m557twwp7RuyMQxYT55I1) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v) | 4:02 |
 | 89 | [Gimme the Beat Back](https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Gimme the Beat Back](https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY) | 2:45 |

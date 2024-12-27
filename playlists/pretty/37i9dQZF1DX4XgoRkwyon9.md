@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 
 > Las rolitas más virales del 2024\. En portada: Pedro El Mapache
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,840 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,947 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 | 36 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 37 | [I'm Gonna Miss You](https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [All Or Nothing](https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4) | 3:58 |
 | 38 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
-| 39 | [La Vida Sin Ti](https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:44 |
-| 40 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/1qAFyf50bDGt1PNyVBBgC4) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/5uHec78hB0kCFthoQL8ZnO) | 2:13 |
+| 39 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/1qAFyf50bDGt1PNyVBBgC4) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/5uHec78hB0kCFthoQL8ZnO) | 2:13 |
+| 40 | [La Vida Sin Ti](https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:44 |
 | 41 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
 | 42 | [Don Dimadon](https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Don Dimadon](https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA) | 3:04 |
 | 43 | [Bugambilia](https://open.spotify.com/track/5o6o8WV3wHcGQXuAndVb54) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [FLORA](https://open.spotify.com/album/7hc3laAnfwA9wkRA6tPZNx) | 3:09 |

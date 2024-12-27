@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,306 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,302 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 9 | [It's Snowing](https://open.spotify.com/track/3K3GKqRPMWEZw9VDp6xh6e) | [Lucy Kalantari & the Jazz Cats](https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8) | [It's the Holidays!](https://open.spotify.com/album/1LmaYUsLeq86ssX6fk3q5A) | 2:33 |
 | 10 | [Feliz Navidad](https://open.spotify.com/track/60z4MLJK9cNDCmnflocfHp) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Winter Wonderland](https://open.spotify.com/album/3pOKjUVSRq2zb5ofNthawz) | 3:03 |
 | 11 | [The Travel Song](https://open.spotify.com/track/4GLZXHtpZay4BviqxzRlPO) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Christmas Songs](https://open.spotify.com/album/0Exwt5eovws06FnDZQnKNO) | 2:47 |
-| 12 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/59FXFRUEBhVZ988UnM7cVC) | [Jolly Jingles](https://open.spotify.com/artist/1ejtPqQq1vEP8xnyzQg4Mt) | [Kids Christmas Hits \(Vol\. 1\)](https://open.spotify.com/album/4tJrxwYiuDl2EKvYWp2tuX) | 1:46 |
-| 13 | [Deck the Halls](https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Holiday Classics](https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk) | 1:24 |
-| 14 | [Walking in the Air](https://open.spotify.com/track/6WIPdAfs8ZIBMIE3XYIijs) | [Peter Auty](https://open.spotify.com/artist/3CECMsOPoB4JSPZYFrtVaZ) | [The Snowman](https://open.spotify.com/album/6EIjBXAl4Xv7Z353KnjSXD) | 3:29 |
+| 12 | [Deck the Halls](https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Holiday Classics](https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk) | 1:24 |
+| 13 | [Walking in the Air](https://open.spotify.com/track/6WIPdAfs8ZIBMIE3XYIijs) | [Peter Auty](https://open.spotify.com/artist/3CECMsOPoB4JSPZYFrtVaZ) | [The Snowman](https://open.spotify.com/album/6EIjBXAl4Xv7Z353KnjSXD) | 3:29 |
+| 14 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/59FXFRUEBhVZ988UnM7cVC) | [Jolly Jingles](https://open.spotify.com/artist/1ejtPqQq1vEP8xnyzQg4Mt) | [Kids Christmas Hits \(Vol\. 1\)](https://open.spotify.com/album/4tJrxwYiuDl2EKvYWp2tuX) | 1:46 |
 | 15 | [Go Santa Go](https://open.spotify.com/track/56tZSMuheDHQkAQkyhq3Lz) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggly, Wiggly Christmas!](https://open.spotify.com/album/5u5GMLpF7NfyumXHiNFL2Z) | 2:08 |
 | 16 | [Jingle Bells](https://open.spotify.com/track/3GbvyzhCVaQq0grfcD9Y7O) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Jingle Bells](https://open.spotify.com/album/24QblNX1JE7KUBFrVhVvIQ) | 2:26 |
 | 17 | [Christmas All Over Again](https://open.spotify.com/track/7gFWrOdP9CK2Y2kI85Ptdv) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Mickey and the Very Many Christmases \(Original Soundtrack\)](https://open.spotify.com/album/3sfCAbyjR2RN1LxXMaWp0L) | 1:51 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 53 | [For Goodness' Sake](https://open.spotify.com/track/1ffWyeC32jceZHUIuTb209) | [The Elf on the Shelf](https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq) | [For Goodness' Sake](https://open.spotify.com/album/2xEeJ62d2QOHtQzkcKi2Wx) | 2:17 |
 | 54 | [Joy to the World](https://open.spotify.com/track/4SiNPQdSlRqjT0bEy0cpFA) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Fall and Winter Holiday Songs for Kids](https://open.spotify.com/album/0pUwuW2CPzA7AmMcFwGOPU) | 2:32 |
 | 55 | [We Wish You a Merry Christmas](https://open.spotify.com/track/7Ctxl1dKrbv8GAuFxzJ8pR) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Merry Christmas! Vol\. 2](https://open.spotify.com/album/4dXjs365PDPBoQmxyPreef) | 2:14 |
-| 56 | [Santa's Sleigh Ride](https://open.spotify.com/track/5b6ptNl6YEzoXmyP6iIup5) | [Lalay Kids TV](https://open.spotify.com/artist/5qDABs4BS5VQ5iZd37a0x3) | [Santa's Sleigh Ride](https://open.spotify.com/album/4Rvmgzr1xHGwCDonEnGsLE) | 2:23 |
-| 57 | [Wish Upon a Christmas](https://open.spotify.com/track/121fVyrxUotXXDNmoUJSAC) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Wish Upon a Christmas](https://open.spotify.com/album/5yhVdVdyZKjPE59rxqCyVx) | 2:01 |
+| 56 | [Wish Upon a Christmas](https://open.spotify.com/track/121fVyrxUotXXDNmoUJSAC) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Wish Upon a Christmas](https://open.spotify.com/album/5yhVdVdyZKjPE59rxqCyVx) | 2:01 |
+| 57 | [Santa's Sleigh Ride](https://open.spotify.com/track/5b6ptNl6YEzoXmyP6iIup5) | [Lalay Kids TV](https://open.spotify.com/artist/5qDABs4BS5VQ5iZd37a0x3) | [Santa's Sleigh Ride](https://open.spotify.com/album/4Rvmgzr1xHGwCDonEnGsLE) | 2:23 |
 | 58 | [Santa Shark](https://open.spotify.com/track/3XMykL6vRYieUA0u3a2kkN) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Cool Christmas Jams](https://open.spotify.com/album/7gjsSVAOCPS8QQn4CiedmL) | 2:06 |
 | 59 | [Christmas Magic Is Real](https://open.spotify.com/track/2FjDZXnhsnKnFgY1Juwdmw) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Christmas Magic Is Real](https://open.spotify.com/album/3wRPH0AezxzaVgQiUHJB4R) | 3:09 |
 | 60 | [Run Rudolph Run](https://open.spotify.com/track/5dz0znJokWnGpYiAXMi2NJ) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Run Rudolph Run](https://open.spotify.com/album/4SXUAm1Xiw1HHsEwq99WBR) | 2:42 |

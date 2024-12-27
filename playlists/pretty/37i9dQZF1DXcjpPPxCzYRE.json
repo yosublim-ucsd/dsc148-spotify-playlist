@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 414621,
+  "num_followers": 414665,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 146471,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Older Chests",
-      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 170773,
       "name": "Suspicious Minds",
       "url": "https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Older Chests",
+      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
-      },
-      "artists": [
-        {
-          "name": "Treadlights",
-          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
-        }
-      ],
-      "duration_ms": 151119,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Es el Momento",
         "url": "https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
       },
       "artists": [
         {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
         }
       ],
-      "duration_ms": 98210,
-      "name": "Me Fui",
-      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1275,6 +1259,22 @@
       "duration_ms": 240622,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 98210,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Todo Lo Que No Est\u00e1",
-        "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sobral",
-          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
-        }
-      ],
-      "duration_ms": 216661,
-      "name": "Todo Lo Que No Est\u00e1",
-      "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "La ventanita",
         "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 255168,
       "name": "La ventanita",
       "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Todo Lo Que No Est\u00e1",
+        "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sobral",
+          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
+        },
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+        }
+      ],
+      "duration_ms": 216661,
+      "name": "Todo Lo Que No Est\u00e1",
+      "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
-      },
-      "artists": [
-        {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Cruzando el Charco",
         "url": "https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N"
       },
@@ -1535,6 +1519,42 @@
       "duration_ms": 190502,
       "name": "Cruzando el Charco",
       "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "El Noi de la Mare",
+        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+        }
+      ],
+      "duration_ms": 243020,
+      "name": "El Noi de la Mare",
+      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+      },
+      "artists": [
+        {
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1603,26 +1623,6 @@
       "duration_ms": 202886,
       "name": "Ojos de Miel",
       "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "El Noi de la Mare",
-        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        },
-        {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
-        }
-      ],
-      "duration_ms": 243020,
-      "name": "El Noi de la Mare",
-      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
     },
     {
       "added_at": "2024-12-23 11:06:32",

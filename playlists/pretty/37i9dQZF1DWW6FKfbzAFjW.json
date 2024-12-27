@@ -383,22 +383,6 @@
     {
       "added_at": "2024-05-03 19:55:27",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "La ingrata",
-      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
-    },
-    {
-      "added_at": "2024-05-03 19:55:27",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 283240,
       "name": "Rumba Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    {
+      "added_at": "2024-05-03 19:55:27",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "La ingrata",
+      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
     },
     {
       "added_at": "2024-05-03 19:55:27",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-05-03 19:55:27",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
-    },
-    {
-      "added_at": "2024-05-03 19:55:27",
-      "album": {
         "name": "Para Tucancillos y Tucancillas",
         "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 199080,
       "name": "La Chona",
       "url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy"
+    },
+    {
+      "added_at": "2024-05-03 19:55:27",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
     },
     {
       "added_at": "2024-05-03 19:55:27",

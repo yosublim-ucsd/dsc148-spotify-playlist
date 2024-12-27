@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > We're celebrating 25 years of Faith Hill's timeless album "Breathe" on 90s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,952,611 likes - 150 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,952,766 likes - 150 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 63 | [Gone Country](https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 4:20 |
 | 64 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:19 |
 | 65 | [Don't Let Our Love Start Slippin' Away](https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:44 |
-| 66 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
-| 67 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 |
+| 66 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 |
+| 67 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 68 | [Ready to Run](https://open.spotify.com/track/7yNTZj1ugKCeRJdSP1meOk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 3:51 |
 | 69 | [What's It to You](https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Clay Walker](https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt) | 2:46 |
 | 70 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 72 | [Party Crowd](https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:18 |
 | 73 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 |
 | 74 | [She's Got It All](https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [I Will Stand](https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO) | 3:25 |
-| 75 | [Chasin' That Neon Rainbow](https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Here In The Real World](https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e) | 3:05 |
-| 76 | [John Deere Green](https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Honky Tonk Attitude](https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi) | 4:32 |
+| 75 | [John Deere Green](https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Honky Tonk Attitude](https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi) | 4:32 |
+| 76 | [Chasin' That Neon Rainbow](https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Here In The Real World](https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e) | 3:05 |
 | 77 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
 | 78 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/1ak2K9SpHCjnDbxmNFxr6P) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Just The Same](https://open.spotify.com/album/2zUyHKwlBjczKdmYTykB8a) | 3:10 |
 | 79 | [T\-R\-O\-U\-B\-L\-E](https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [T\-R\-O\-U\-B\-L\-E](https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D) | 3:00 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 85 | [Livin' On Love](https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 3:49 |
 | 86 | [Life's a Dance](https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 3:08 |
 | 87 | [Wink](https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [No Doubt About It](https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON) | 2:42 |
-| 88 | [Daddy's Money](https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Ricochet](https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8) | 3:03 |
-| 89 | [Go Rest High On That Mountain](https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 5:15 |
+| 88 | [Go Rest High On That Mountain](https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 5:15 |
+| 89 | [Daddy's Money](https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Ricochet](https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8) | 3:03 |
 | 90 | [I'm in a Hurry \(And Don't Know Why\)](https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [American Pride](https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce) | 2:48 |
 | 91 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
 | 92 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |

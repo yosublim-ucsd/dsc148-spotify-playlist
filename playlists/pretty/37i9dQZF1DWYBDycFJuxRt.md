@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Yo\-Sea \*👉 <a href="https://spice.eplus.jp/articles/334362">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,236 likes - 72 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,231 likes - 72 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

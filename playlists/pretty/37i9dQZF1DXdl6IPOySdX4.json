@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 1951531,
+  "num_followers": 1952039,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Hyperion",
-        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
       "artists": [
         {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 202093,
-      "name": "Lost in the Fire (feat. The Weeknd)",
-      "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
+      "duration_ms": 174512,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -543,18 +539,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+        "name": "Hyperion",
+        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 174512,
-      "name": "Superpowers",
-      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
+      "duration_ms": 202093,
+      "name": "Lost in the Fire (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 91869,
-      "name": "Formula",
-      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "older",
         "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 137778,
       "name": "older",
       "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 91869,
+      "name": "Formula",
+      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "BABYDOLL",
-        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "BABYDOLL",
-      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Soaked",
         "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "BABYDOLL",
+        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "BABYDOLL",
+      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 153294,
-      "name": "Still Don't Know My Name",
-      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Get You The Moon (feat. Sn\u00f8w)",
         "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 179080,
       "name": "Get You The Moon (feat. Sn\u00f8w)",
       "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153294,
+      "name": "Still Don't Know My Name",
+      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
     },
     {
       "added_at": "2024-08-02 04:00:00",

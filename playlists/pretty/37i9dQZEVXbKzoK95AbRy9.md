@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,930 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,996 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Mc Brinquedo](https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI) | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy) | 4:26 |
 | 50 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA) | 2:51 |
 
-Snapshot ID: `Lv9yyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LwDESAAAAAAAAAAAAAAAAAAAAAAAAGVu`

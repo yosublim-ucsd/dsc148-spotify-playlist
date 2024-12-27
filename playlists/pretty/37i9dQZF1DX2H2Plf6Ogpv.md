@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,363 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,487 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 55 | [Bardo](https://open.spotify.com/track/5bpNUso3XpgZ0jsFMBoYMV) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Chameleon](https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn) | 3:24 |
 | 56 | [Adoringly Drunk](https://open.spotify.com/track/14cTaKkjwvw9nZFk7DC1UX) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Adoringly Drunk](https://open.spotify.com/album/32xqQUt1BvPqxRjjdjts7C) | 3:05 |
 | 57 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 |
-| 58 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 |
-| 59 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 |
+| 58 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 |
+| 59 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 |
 | 60 | [Dull \(feat\. Softcult\)](https://open.spotify.com/track/62zUR9KtxLb9h0ytBPjZWG) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [I Love You Too](https://open.spotify.com/album/2A4bSdjuUF7qQ8hjtqQ8YF) | 3:15 |
 | 61 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 |
 | 62 | [I Loved Everyone](https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [I Loved Everyone](https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85) | 5:20 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 69 | [Unbelonging](https://open.spotify.com/track/39Lwc0RPO0H9Mx5gAQAsD3) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Unbelonging](https://open.spotify.com/album/2BFkJStiIJzPeDGLpQ5CYU) | 3:30 |
 | 70 | [Jacked](https://open.spotify.com/track/7KciyHD7RzGnihFZVwHjmc) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Jacked](https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn) | 4:27 |
 | 71 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
-| 72 | [Power Trip](https://open.spotify.com/track/4YKtcfUPgEU7TEIA9HqrCo) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Power Trip](https://open.spotify.com/album/37OnzPfxo28Jfcgd9hVdan) | 3:15 |
-| 73 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
-| 74 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
+| 72 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
+| 73 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
+| 74 | [Power Trip](https://open.spotify.com/track/4YKtcfUPgEU7TEIA9HqrCo) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Power Trip](https://open.spotify.com/album/37OnzPfxo28Jfcgd9hVdan) | 3:15 |
 | 75 | [Sprinter Brain](https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Dulling The Horns](https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW) | 3:43 |
 
 Snapshot ID: `Z1BgSwAAAAA7ztjqpuY6W3vrJE4D6zg9`

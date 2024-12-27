@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hodari",
-  "num_followers": 372615,
+  "num_followers": 372620,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Curva da Ladeira",
-        "url": "https://open.spotify.com/album/64Y6u9TmfUEhsBzWI2p6TP"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Curva da Ladeira",
-      "url": "https://open.spotify.com/track/3b105vnZSjoCfyTgkWam4Z"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 165111,
       "name": "DA BRABA",
       "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Curva da Ladeira",
+        "url": "https://open.spotify.com/album/64Y6u9TmfUEhsBzWI2p6TP"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Curva da Ladeira",
+      "url": "https://open.spotify.com/track/3b105vnZSjoCfyTgkWam4Z"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
+        "name": "Used To Feel",
+        "url": "https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 193630,
+      "name": "Are You Listening",
+      "url": "https://open.spotify.com/track/5ziTNrncDLiz67ZHmAV8Qr"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
         "name": "Vinho",
         "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 183211,
       "name": "\u00faltimo rom\u00e2ntico",
       "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
-        "name": "Used To Feel",
-        "url": "https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 193630,
-      "name": "Are You Listening",
-      "url": "https://open.spotify.com/track/5ziTNrncDLiz67ZHmAV8Qr"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Aham",
-        "url": "https://open.spotify.com/album/1yz37aXW8GpmztVKkbNiRM"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Konai",
-          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Aham",
-      "url": "https://open.spotify.com/track/2jTD8Kp0tk4Gt3JeL91BWC"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "Senhorita XX",
         "url": "https://open.spotify.com/album/68RUm7lcMQmMXgC7jQbLr6"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 238656,
       "name": "Senhorita XX",
       "url": "https://open.spotify.com/track/6vQJTFZI2ZEuWxfkY1f9aH"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Aham",
+        "url": "https://open.spotify.com/album/1yz37aXW8GpmztVKkbNiRM"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Aham",
+      "url": "https://open.spotify.com/track/2jTD8Kp0tk4Gt3JeL91BWC"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1291,18 +1291,26 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Entrando na Dan\u00e7a",
-        "url": "https://open.spotify.com/album/7ouAOi6aYU1DjXnpvDjnyw"
+        "name": "Aditivada",
+        "url": "https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "J\u00falia Rezende",
+          "url": "https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE"
+        },
+        {
+          "name": "Dragon Boys",
+          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 131052,
-      "name": "Entrando na Dan\u00e7a",
-      "url": "https://open.spotify.com/track/4sEQDt2e4NLsHkXYUdK9XZ"
+      "duration_ms": 149385,
+      "name": "Aditivada",
+      "url": "https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1327,26 +1335,18 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Aditivada",
-        "url": "https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU"
+        "name": "Entrando na Dan\u00e7a",
+        "url": "https://open.spotify.com/album/7ouAOi6aYU1DjXnpvDjnyw"
       },
       "artists": [
         {
-          "name": "J\u00falia Rezende",
-          "url": "https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE"
-        },
-        {
-          "name": "Dragon Boys",
-          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 149385,
-      "name": "Aditivada",
-      "url": "https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT"
+      "duration_ms": 131052,
+      "name": "Entrando na Dan\u00e7a",
+      "url": "https://open.spotify.com/track/4sEQDt2e4NLsHkXYUdK9XZ"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
+        "name": "Sussurro",
+        "url": "https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95"
+      },
+      "artists": [
+        {
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Sussurro",
+      "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
         "name": "Nem Me Convidou",
         "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 127433,
       "name": "Nem Me Convidou",
       "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
-        "name": "Sussurro",
-        "url": "https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95"
-      },
-      "artists": [
-        {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Sussurro",
-      "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/6NtscXdBrsjGKMFdWUKGwr"
-      },
-      "artists": [
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
-        }
-      ],
-      "duration_ms": 148873,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/1JoEPseer8Fu2rLaul3ptb"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/3jrQ89guzyabS1ms7U8xXy"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 148037,
       "name": "Mensagem",
       "url": "https://open.spotify.com/track/3pIuEFpcEFLXjFU2PXZVab"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/6NtscXdBrsjGKMFdWUKGwr"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        }
+      ],
+      "duration_ms": 148873,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/1JoEPseer8Fu2rLaul3ptb"
     },
     {
       "added_at": "2024-12-23 19:38:15",

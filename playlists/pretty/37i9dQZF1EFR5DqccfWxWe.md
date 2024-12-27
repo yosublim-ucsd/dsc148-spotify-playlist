@@ -10,8 +10,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Dance Again](https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Dance Again...The Hits](https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh) | 3:57 |
 | 2 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 5:11 |
-| 3 | [Cambio de Piel](https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:39 |
-| 4 | [Ahora Que Te Vas](https://open.spotify.com/track/2JudZIMCL679okVHGfsnr2) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [Renacer](https://open.spotify.com/album/3EC4TPSoGMNy78U7re5qlF) | 3:48 |
+| 3 | [Ahora Que Te Vas](https://open.spotify.com/track/2JudZIMCL679okVHGfsnr2) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [Renacer](https://open.spotify.com/album/3EC4TPSoGMNy78U7re5qlF) | 3:48 |
+| 4 | [Cambio de Piel](https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:39 |
 | 5 | [Lento](https://open.spotify.com/track/31dIPeytivJSNsEqeyVyfW) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:36 |
 | 6 | [Si hubieras querido](https://open.spotify.com/track/3SnQbMhX8Now5s5F2ul9oC) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:41 |
 | 7 | [A Quién Quiero Mentirle](https://open.spotify.com/track/6ngLct6z0pCqJcevM11HDH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:13 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 139 | [Amnesia De Ti](https://open.spotify.com/track/1GqZoVVd9U4GrCWNn5Py2T) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Amnesia De Ti / Loop](https://open.spotify.com/album/6MnPvjVB1B6Ga0p4tKqGM7) | 4:16 |
 | 140 | [Gypsysoul](https://open.spotify.com/track/0YMi1kByvBk8r2ex5BE1Dc) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6) | 2:56 |
 | 141 | [Rhumboso](https://open.spotify.com/track/6u2ojrUkmkC7pEqhuKXePj) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Dances, Prayers, & Meditations For Peace](https://open.spotify.com/album/1r2pRDvGEXjXZhon1DnStO) | 4:54 |
-| 142 | [Somos Lo Mismo](https://open.spotify.com/track/1XMJai6NzJYUrVTGoWR1bH) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:11 |
-| 143 | [Soulmate](https://open.spotify.com/track/5uEDLPPuiMgpHX8M5ZW2mw) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6) | 3:50 |
+| 142 | [Soulmate](https://open.spotify.com/track/5uEDLPPuiMgpHX8M5ZW2mw) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6) | 3:50 |
+| 143 | [Somos Lo Mismo](https://open.spotify.com/track/1XMJai6NzJYUrVTGoWR1bH) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:11 |
 | 144 | [A Widow's Meditation \(Lamentoso\)](https://open.spotify.com/track/2lW7yHSQ2eZU7FOc4mKBzZ) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Dances, Prayers, & Meditations For Peace](https://open.spotify.com/album/1r2pRDvGEXjXZhon1DnStO) | 3:45 |
 | 145 | [So Alike](https://open.spotify.com/track/0v7REH3YeQmRrWRJ04HdwZ) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:11 |
 | 146 | [Natural](https://open.spotify.com/track/2da74VF7pHVcMk5PYGrOAD) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Nostalgia](https://open.spotify.com/album/5UEKgslA1ivLpx323B4w5d) | 3:25 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 152 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 | 153 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 
-Snapshot ID: `AblHgAAAAADOduoPL0bpQx4jYkOI5wC9`
+Snapshot ID: `AblNIAAAAACHhU4kNOhBsHaon0srcbqS`

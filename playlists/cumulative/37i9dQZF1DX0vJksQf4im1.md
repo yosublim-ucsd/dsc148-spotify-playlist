@@ -2,15 +2,16 @@
 
 ### [Big In Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX0vJksQf4im1)
 
-> Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Ruel
+> Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: SZA
 
-166 songs - 8 hr 59 min
+168 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Wish](https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [1 Wish](https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt) | 2:47 | 2024-10-31 |  |
 | [1685 \(feat\. Muse\)](https://open.spotify.com/track/0ZVjdWHetSBLb4udxSyofy) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [1685 \(feat\. Muse\)](https://open.spotify.com/album/2AxRNzVhdHgJwtCwbr405e) | 3:56 | 2024-10-04 |  |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-14 |  |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-26 |  |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-06-21 |  |
 | [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 | 2024-11-21 |  |
 | [Adore U](https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Adore U](https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg) | 2:44 | 2024-06-21 |  |
@@ -42,6 +43,7 @@
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 |  |
 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 | 2024-06-21 | 2024-09-13 |
 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 | 2024-06-21 |  |
+| [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2024-12-26 |  |
 | [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-09 |  |
 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 | 2024-06-21 | 2024-09-13 |
 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 | 2024-06-21 | 2024-09-13 |

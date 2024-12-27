@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best of Black music in 2024\. Cover: <a href="spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,529 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,648 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

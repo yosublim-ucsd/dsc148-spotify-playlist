@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 552600,
+  "num_followers": 552671,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "greedy (remixes)",
         "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 142363,
       "name": "greedy acoustic",
       "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Us (Acoustic)",
-        "url": "https://open.spotify.com/album/6HLfpr2l9bN38FkeeQAoCo"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 181708,
-      "name": "Us - Acoustic",
-      "url": "https://open.spotify.com/track/0GTPn99cNZRVl2Kv0bcwNI"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Castle on the Hill (Acoustic)",
         "url": "https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 226226,
       "name": "Castle on the Hill - Acoustic",
       "url": "https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Us (Acoustic)",
+        "url": "https://open.spotify.com/album/6HLfpr2l9bN38FkeeQAoCo"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 181708,
+      "name": "Us - Acoustic",
+      "url": "https://open.spotify.com/track/0GTPn99cNZRVl2Kv0bcwNI"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "Forgive Me Friend (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Forgive Me Friend - Acoustic Version",
+      "url": "https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "Live from Spotify Studios",
         "url": "https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Forgive Me Friend (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl"
+        "name": "SUGAR EP.",
+        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 228160,
-      "name": "Forgive Me Friend - Acoustic Version",
-      "url": "https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C"
+      "duration_ms": 369105,
+      "name": "Dove",
+      "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1027,22 +1043,6 @@
       "duration_ms": 223030,
       "name": "I'll Scream (All The Words) (feat. Jessie Reyez)",
       "url": "https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
-        "name": "SUGAR EP.",
-        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 369105,
-      "name": "Dove",
-      "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Hotel Walls (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6a7fNHZ8qbkAvmoOEhpIuC"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 207524,
-      "name": "Hotel Walls - Acoustic Version",
-      "url": "https://open.spotify.com/track/5pW8171RuTAYU9hAN54QpM"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 142177,
       "name": "Only Want You - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Hotel Walls (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6a7fNHZ8qbkAvmoOEhpIuC"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 207524,
+      "name": "Hotel Walls - Acoustic Version",
+      "url": "https://open.spotify.com/track/5pW8171RuTAYU9hAN54QpM"
     },
     {
       "added_at": "2024-07-01 15:02:12",

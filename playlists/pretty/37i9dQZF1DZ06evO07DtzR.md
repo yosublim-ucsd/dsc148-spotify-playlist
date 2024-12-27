@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,380 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,386 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 40 | [prelude](https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 0:36 |
 | 41 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
 | 42 | [Fallen\-TV edit\-](https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen\-TV edit\-](https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y) | 1:29 |
-| 43 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC) | 7:55 |
-| 44 | [Departures 〜あなたにおくるアイの歌〜 \-Instrumental\-](https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 4:14 |
-| 45 | [All Alone With You \-Instrumental\-](https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 5:50 |
+| 43 | [Departures 〜あなたにおくるアイの歌〜 \-Instrumental\-](https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 4:14 |
+| 44 | [All Alone With You \-Instrumental\-](https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 5:50 |
+| 45 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC) | 7:55 |
 | 46 | [名前のない怪物 \-Instrumental\-](https://open.spotify.com/track/1pNSSNluazasQujT6XiCip) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
 | 47 | [永遠 \-Instrumental\-](https://open.spotify.com/track/0Sv4oWlbeLpEy0aU11gOkx) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄　運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:16 |
-| 48 | [Departures 〜あなたにおくるアイの歌〜 \-BOOM BOOM SATELLITES Remix\-](https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 7:11 |
-| 49 | [All Alone With You \(TV Edit\) \-Instrumental\-](https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 1:31 |
+| 48 | [All Alone With You \(TV Edit\) \-Instrumental\-](https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 1:31 |
+| 49 | [Departures 〜あなたにおくるアイの歌〜 \-BOOM BOOM SATELLITES Remix\-](https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 7:11 |
 | 50 | [名前のない怪物 \(TV Edit 92s ver\) \-Instrumental\-](https://open.spotify.com/track/01hMjltcNqB9NweZlSxWvE) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 1:40 |
 
-Snapshot ID: `Z2n5gAAAAACOXk/j1HV4n5ba67k4iXXv`
+Snapshot ID: `Z2tLAAAAAABEBp5GchjaXGisAxbOt1wC`

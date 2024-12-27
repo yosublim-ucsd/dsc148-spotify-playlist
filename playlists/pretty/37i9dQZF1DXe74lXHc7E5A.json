@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Skepta",
-  "num_followers": 31276,
+  "num_followers": 31290,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-12-16 09:36:16",
       "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161699,
+      "name": "Konongo Zongo",
+      "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
+    },
+    {
+      "added_at": "2024-12-16 09:36:16",
+      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
-    },
-    {
-      "added_at": "2024-12-16 09:36:16",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161699,
-      "name": "Konongo Zongo",
-      "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
     },
     {
       "added_at": "2024-12-16 09:36:16",
