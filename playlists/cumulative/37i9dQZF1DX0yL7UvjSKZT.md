@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-486 songs - 1 day 6 hr 7 min
+487 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Faded Star](https://open.spotify.com/track/4WidGItghW8sCcIQj93Xod) | [The Deadly Gentlemen](https://open.spotify.com/artist/4dtiIYPHTDAkzOECVtalw5) | [Roll Me, Tumble Me](https://open.spotify.com/album/1vFtsKWIMFAf2QhWcxEiD4) | 4:24 | 2021-10-01 | 2022-07-16 |
 | [A Ghost Whispers](https://open.spotify.com/track/0UZ1zFXfrsRIVVoz1AvNWJ) | [Red Tail Ring](https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3) | [Fall Away Blues](https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr) | 3:13 | 2021-10-01 | 2022-10-08 |
 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 | 2022-05-13 | 2023-10-17 |
+| [Adelaide](https://open.spotify.com/track/5c6PDFgP3O7vBrmCvXKJjC) | [Brenna MacMillan](https://open.spotify.com/artist/4AFECWlZxQj0hZXvKdOi3x) | [Dear Life](https://open.spotify.com/album/03vcGUsrnngDA1CgTlM62G) | 3:03 | 2024-12-27 |  |
 | [Afterlifer](https://open.spotify.com/track/5HW5jLtQTiwCIP7szHFogB) | [JD Pinkus](https://open.spotify.com/artist/3kjDglROBT39WUVvPtDSEX), [Tall Tall Trees](https://open.spotify.com/artist/7E4RVv4JRB5EkgWFBmlcKx) | [Afterlifer](https://open.spotify.com/album/17YbIbl57XahxyBP9pTcn7) | 5:01 | 2023-06-09 | 2024-03-09 |
 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 | 2021-10-01 | 2023-05-16 |
 | [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 | 2023-08-18 |  |
@@ -207,7 +208,7 @@
 | [In the Garden](https://open.spotify.com/track/2hMPlCT4F3nCyzuyo9rbjQ) | [Ike Kanakanui](https://open.spotify.com/artist/79gvzSsg8MyKN1uYGS0PtX) | [In the Garden](https://open.spotify.com/album/2IBgRUNWmDr2a7iY39BI2B) | 3:37 | 2024-07-13 |  |
 | [In the Kitchen](https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/7ypdPobffspADW87626GOy) | 4:11 | 2024-05-29 |  |
 | [Intentions](https://open.spotify.com/track/2D7OJKIDb9orPkcgZd5OAp) | [Sean Waters](https://open.spotify.com/artist/7xAiCdg8rJmhZtvpYnpbGD) | [Intentions](https://open.spotify.com/album/4RFlBj7vLZ72jtihEXY0Ib) | 3:32 | 2022-02-25 | 2023-07-01 |
-| [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2023-01-13 |  |
+| [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2023-01-13 | 2024-12-28 |
 | [Iron & Ore](https://open.spotify.com/track/0V5HKIZzUKlZ8He2Zfp4Eh) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/3myX8j297y7X7rdSE3LVg2) | 3:54 | 2021-10-01 | 2022-07-29 |
 | [Iron & Ore](https://open.spotify.com/track/47vKr9ZnQj3wSyDQE0kEOL) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/385iuK4kIgS4QobktCgoGB) | 3:54 | 2022-07-22 | 2023-07-22 |
 | [Jailbird](https://open.spotify.com/track/6cZAzIMPnUT14I7jrECZWD) | [Canon Tyler](https://open.spotify.com/artist/6wsR0uKp3q7fwLIqxBHU16) | [Thickets & Brambles](https://open.spotify.com/album/2kYJzRU0AhsCtxRYj7QUwP) | 4:20 | 2024-02-09 |  |

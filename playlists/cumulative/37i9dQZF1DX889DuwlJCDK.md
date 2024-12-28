@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Are Square
 
-884 songs - 2 day 5 hr 49 min
+885 songs - 2 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Stay with Me](https://open.spotify.com/track/7Ab6QRXgef3wL10LVmMeHs) | [Hello Hello](https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og) | [blooms](https://open.spotify.com/album/3ibPv1bPe9srLxQU2lNeJA) | 3:40 | 2024-01-09 | 2024-01-17 |
 | [stay with me](https://open.spotify.com/track/5nRzUGPTcYvNMXCZrgbPQd) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [最高更新](https://open.spotify.com/album/71tOgLFSKG2aMMmsUxMmxV) | 4:01 | 2024-04-30 | 2024-06-01 |
 | [Stop!Drop!Roll!!](https://open.spotify.com/track/2gFhyoeWqnzOIUDXNuAzKo) | [三四少女](https://open.spotify.com/artist/5vvyC8VELrIam8i6hKfyBS) | [Stop!Drop!Roll!!](https://open.spotify.com/album/0MTiKg9CFo4dFnTL2hKezB) | 4:05 | 2024-11-05 | 2024-11-13 |
-| [STOP!家族!2](https://open.spotify.com/track/7zMdOT9MBxS34iplzgRe1A) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [STOP!家族!2](https://open.spotify.com/album/3bDy3QDeyHjHwB1m6EblvS) | 2:31 | 2024-12-17 |  |
+| [STOP!家族!2](https://open.spotify.com/track/7zMdOT9MBxS34iplzgRe1A) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [STOP!家族!2](https://open.spotify.com/album/3bDy3QDeyHjHwB1m6EblvS) | 2:31 | 2024-12-17 | 2024-12-28 |
 | [STRAIGHT FLUSH](https://open.spotify.com/track/6VvoU86iSxFn5KOjVQ0vrL) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Serotonin](https://open.spotify.com/album/45nJ0JBc90HlH7GIum2Gfr) | 3:41 | 2024-07-30 | 2024-12-18 |
 | [Strawberry](https://open.spotify.com/track/27ieHhhs1OwALnEOWCW0cg) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [Strawberry](https://open.spotify.com/album/50aR49caPYVguYU5UjpaqY) | 3:42 | 2024-11-26 |  |
 | [sugar suicide](https://open.spotify.com/track/6MPHTXp5kSS2TfSRLr1APu) | [sunsoogirl](https://open.spotify.com/artist/3UD1gueCSnICZOuDj6ZRwl) | [sugar suicide](https://open.spotify.com/album/1joiVGTQpTkrF6xRQSAEV0) | 3:44 | 2023-08-08 | 2023-08-23 |
@@ -720,6 +720,7 @@
 | [季節すら追い抜いて](https://open.spotify.com/track/4P0Gq52E5FmBp4IAcJa2eh) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [季節すら追い抜いて](https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f) | 3:13 | 2023-07-27 | 2023-09-06 |
 | [寵愛族](https://open.spotify.com/track/6OZ8w9AASDDRdLVJwqSEId) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [寵愛族](https://open.spotify.com/album/2HeAgHWH154wSvhlWhlQYa) | 3:18 | 2024-12-17 |  |
 | [少年讃歌](https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [少年讃歌](https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne) | 3:42 | 2023-08-17 | 2023-10-13 |
+| [岡崎京子のあの娘になりたかった](https://open.spotify.com/track/0wykwC7fLm3kn6cw5DfAr5) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [岡崎京子のあの娘になりたかった](https://open.spotify.com/album/60Y0XZI1pKhS7ZDd2YczWC) | 2:51 | 2024-12-24 |  |
 | [幻陽](https://open.spotify.com/track/7DSNoKeR28MdcU1kSGwjz1) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [幻陽](https://open.spotify.com/album/4iTDgRLajqImZ6lnImUaD3) | 3:57 | 2023-08-08 | 2023-08-10 |
 | [彗星](https://open.spotify.com/track/6DMRyyJQev1wsAPPWN1IpY) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [彗星](https://open.spotify.com/album/4D2ad9KMisLaxdsU4b5sF6) | 3:25 | 2024-07-02 | 2024-09-04 |
 | [往日](https://open.spotify.com/track/2r73737Z4jWYKizwA2px9u) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [君にみた季節](https://open.spotify.com/album/7h4kEEvu4nS8U4Ooahptko) | 3:42 | 2024-02-13 | 2024-02-15 |

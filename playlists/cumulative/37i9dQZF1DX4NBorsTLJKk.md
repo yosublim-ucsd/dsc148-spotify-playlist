@@ -83,7 +83,7 @@
 | [愛在雨季](https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU) | [吳映香](https://open.spotify.com/artist/0eUn7kfD3cW5SQ4f3eJXXW) | [愛在雨季](https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL) | 2:46 | 2023-09-20 |  |
 | [整座城市都在下雨](https://open.spotify.com/track/2tC9417EOGfxP1mYHXn9rl) | [Teresa Tseng](https://open.spotify.com/artist/4bliFwoYKuaWBNHMOOu72z) | [想遇見](https://open.spotify.com/album/4Q44cNWQXpBdBzUUDgQIMK) | 5:09 | 2022-09-05 | 2022-10-07 |
 | [整座城市都在下雨](https://open.spotify.com/track/4E8wNU9geZMNFW8K1au54s) | [Teresa Tseng](https://open.spotify.com/artist/4bliFwoYKuaWBNHMOOu72z) | [想遇見](https://open.spotify.com/album/0dH2XqKTKGgcMvTDURokVY) | 5:09 | 2021-11-22 | 2022-07-21 |
-| [昏沉下雨天 \(Dizzy Drizzle\)](https://open.spotify.com/track/4fuGw9or2VN06oRYvXv2Vj) | [Bad Sweetheart](https://open.spotify.com/artist/1y793kDfhxKcz1gX3E22bN) | [昏沉下雨天 \(Dizzy Drizzle\)](https://open.spotify.com/album/0397QMgg9TnjdhsRrBKbCv) | 4:55 | 2024-10-24 |  |
+| [昏沉下雨天 \(Dizzy Drizzle\)](https://open.spotify.com/track/4fuGw9or2VN06oRYvXv2Vj) | [Bad Sweetheart](https://open.spotify.com/artist/1y793kDfhxKcz1gX3E22bN) | [昏沉下雨天 \(Dizzy Drizzle\)](https://open.spotify.com/album/0397QMgg9TnjdhsRrBKbCv) | 4:55 | 2024-10-24 | 2024-12-28 |
 | [晴天雨天](https://open.spotify.com/track/1AzQjh998Ha3YKhVsUMnd5) | [唐貓 SUGARCAT](https://open.spotify.com/artist/4aWERTpHN8Z4OEtq9hcLR9) | [晴天雨天](https://open.spotify.com/album/5df0AO6gNJBe5KvX4C3tKw) | 3:47 | 2021-11-22 | 2024-04-19 |
 | [晴天雨天](https://open.spotify.com/track/2F8QsevMUFYe3qmx8LDi1t) | [唐貓 SUGARCAT](https://open.spotify.com/artist/4aWERTpHN8Z4OEtq9hcLR9) | [晴天雨天](https://open.spotify.com/album/3izWVVjrgTVTLC5dyYtKcl) | 3:47 | 2021-11-22 | 2022-07-29 |
 | [最愛雨天](https://open.spotify.com/track/0VeqU67IWMth9LiVqrmzTq) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [都是你](https://open.spotify.com/album/5QvOcQXGOQOtftNeU3niz5) | 4:10 | 2021-11-22 | 2022-07-15 |
@@ -173,7 +173,7 @@
 | [雨與你](https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO) | [陳建年](https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi) | [海洋音樂創作專輯](https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE) | 6:09 | 2021-11-22 |  |
 | [雨还是不停地落下](https://open.spotify.com/track/4dk1UbPeJZEYEqZzKqy98O) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [克卜勒](https://open.spotify.com/album/3P400E8OP7u4dWMyCSosUn) | 4:49 | 2021-11-22 |  |
 | [風和日麗 下雨了](https://open.spotify.com/track/1HANH1bn2UhBnwllaPzJ2O) | [自然捲](https://open.spotify.com/artist/0Rsu8bbOYUkrZQAd1c2KSr) | [風和日麗影音概念書](https://open.spotify.com/album/2PTLuD7VN7ozWNqVD9iOjk) | 4:29 | 2021-11-22 |  |
-| [風雨](https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [盧廣仲 Good Morning & Good Evening 小巨蛋演唱會](https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi) | 4:16 | 2021-11-22 | 2024-10-05 |
+| [風雨](https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [盧廣仲 Good Morning & Good Evening 小巨蛋演唱會](https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi) | 4:16 | 2021-11-22 |  |
 | [黑風暴雨](https://open.spotify.com/track/4aERDhzOp02MSlYVzUh2I5) | [Ronald Cheng](https://open.spotify.com/artist/66FF9LF0uO3W1zxEN0m8uN) | [怪胎](https://open.spotify.com/album/5EtVeNXucxhZvlz7v8wf7r) | 4:23 | 2021-11-22 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

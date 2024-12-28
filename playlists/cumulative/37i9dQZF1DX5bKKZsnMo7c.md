@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Debbii Dawson
 
-414 songs - 22 hr 20 min
+416 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Butch 4 Butch](https://open.spotify.com/track/1ztwML7G0PytrYEUE0XTa1) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/66kse7y7d7ycufUwpUr184) | 2:58 | 2022-06-07 | 2023-06-03 |
 | [Butch 4 Butch](https://open.spotify.com/track/59eUvoOBAOGHJsXnaNuVZK) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/71s8Wq2B3M7aIB5loki5XC) | 2:58 | 2022-05-17 | 2022-07-29 |
 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2022-05-17 | 2023-06-21 |
-| [Cabinet Man](https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:22 | 2022-05-17 |  |
+| [Cabinet Man](https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:22 | 2022-05-17 | 2024-12-28 |
 | [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 | 2024-01-05 | 2024-02-08 |
 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 | 2022-05-17 | 2022-11-26 |
 | [Can I Have a Ride Home? I'm at a Party and I Don't Know Any1](https://open.spotify.com/track/2ymdaqbPPMSpp6FMT7Tf0T) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Nightmare on Weed Street](https://open.spotify.com/album/5plRKyeSZpNohzLCguUWbG) | 1:51 | 2022-05-17 | 2022-06-25 |
@@ -93,6 +93,7 @@
 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-15 |  |
 | [Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 2:15 | 2024-03-19 | 2024-04-19 |
 | [Cicada Days](https://open.spotify.com/track/2s3SwhbFhymLPDm4GGhDKl) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Cicada Days](https://open.spotify.com/album/7rN0PYbcQ7quewRhtqvLGK) | 4:10 | 2022-06-03 | 2022-10-12 |
+| [Class Crush](https://open.spotify.com/track/6rf9sZa4T8NYuL7Uqx8y2d) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Class Crush](https://open.spotify.com/album/48ge6RxK7xHUdiYyezk37s) | 3:40 | 2024-12-27 |  |
 | [Coffee](https://open.spotify.com/track/2zmo93xTzKTP0lztR9iy9H) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Shop: A Pop Opera](https://open.spotify.com/album/1PzQlma9FcRRGwMDmJIUyX) | 0:58 | 2023-01-18 | 2024-02-24 |
 | [cold weather](https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 2:18 | 2022-07-07 | 2023-01-14 |
 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 | 2023-01-13 | 2023-04-18 |
@@ -283,7 +284,7 @@
 | [Oxygen](https://open.spotify.com/track/0xDR3F8eOQirXPWE5npmaO) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Oxygen](https://open.spotify.com/album/7q9RtrpQMUr7NclRPMcTfI) | 3:39 | 2023-04-12 | 2023-06-03 |
 | [Pacific](https://open.spotify.com/track/6sRfy2yk9S1lANwfahVDJx) | [Chase Petra](https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3) | [Pacific](https://open.spotify.com/album/4m6flSORd5ArtoR4HDEae5) | 3:16 | 2022-05-17 | 2022-12-10 |
 | [paris](https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [paris](https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak) | 2:29 | 2024-06-28 |  |
-| [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC) | [Kaden MacKay](https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x) | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/album/6mTcEL6EVR3bN1WO6obNz2) | 3:13 | 2022-05-17 |  |
+| [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC) | [Kaden MacKay](https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x) | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/album/6mTcEL6EVR3bN1WO6obNz2) | 3:13 | 2022-05-17 | 2024-12-28 |
 | [pawnshop president](https://open.spotify.com/track/23HC5E4g1GVQkMCzZeXWX2) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [pawnshop president](https://open.spotify.com/album/6As4dStIzxShVklG5ZsHE0) | 2:26 | 2024-08-23 | 2024-10-08 |
 | [Paycheck](https://open.spotify.com/track/4X6IYXcZzSRdsMYiv0K30k) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Paycheck](https://open.spotify.com/album/0IL0oxZMy5U8E2cZfLmRn0) | 2:28 | 2023-06-15 | 2023-09-16 |
 | [People Eater](https://open.spotify.com/track/1Sv71cSqfQLuzdPZlzb6QH) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [People Eater](https://open.spotify.com/album/54dJtwRtbMWK0poaUXYgIi) | 1:36 | 2022-05-17 | 2022-06-02 |
@@ -357,6 +358,7 @@
 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 | 2023-11-21 | 2024-09-21 |
 | [The Bird Song](https://open.spotify.com/track/5DEpOV9no5cf22c5Lj198g) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [The Bird Song](https://open.spotify.com/album/7oxKk85crBUxMYZM19LeRN) | 3:53 | 2024-09-06 | 2024-12-14 |
 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 | 2024-12-13 |  |
+| [The Challenge](https://open.spotify.com/track/2MfEPa673rIPzBUdwfqd0P) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:21 | 2024-12-27 |  |
 | [The DJ Is Crying For Help](https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The DJ Is Crying For Help](https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB) | 3:40 | 2022-11-18 | 2023-01-28 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-28 | 2023-05-23 |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-17 | 2022-07-25 |

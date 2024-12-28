@@ -1,12 +1,12 @@
 {
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
-  "num_followers": 1371061,
+  "num_followers": 1371177,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAAD38xLuDwJ4YAFQHBHw4cah",
+  "snapshot_id": "Z2ycgAAAAAALlZz8v7fC9ywlfe/3li7N",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 321686,
-      "name": "Zeit",
-      "url": "https://open.spotify.com/track/2KsHzM4L7ThhNJB6MHXkPx"
+      "duration_ms": 244365,
+      "name": "Zick Zack",
+      "url": "https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 244365,
-      "name": "Zick Zack",
-      "url": "https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N"
+      "duration_ms": 321686,
+      "name": "Zeit",
+      "url": "https://open.spotify.com/track/2KsHzM4L7ThhNJB6MHXkPx"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Grooveria Gospel](https://open.spotify.com/playlist/37i9dQZF1DWYZ7fMlF5ORU)
 
-> A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
+> A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-126 songs - 8 hr 40 min
+127 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Voz do Senhor](https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Em Tua Presença](https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi) | 4:04 | 2023-04-15 |  |
 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 | 2023-04-15 |  |
 | [Alegria](https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Alegria](https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho) | 4:13 | 2024-08-16 |  |
-| [Alegria do Céu \(feat\. Banda Salluz\)](https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Banda Salluz](https://open.spotify.com/artist/0Zcf5Cna6WNWjtoCX0RCu9) | [Diferente](https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL) | 3:42 | 2023-04-15 |  |
+| [Alegria do Céu \(feat\. Banda Salluz\)](https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Banda Salluz](https://open.spotify.com/artist/0Zcf5Cna6WNWjtoCX0RCu9) | [Diferente](https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL) | 3:42 | 2023-04-15 | 2024-12-28 |
 | [Aleluia](https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Aleluia](https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI) | 2:51 | 2023-04-15 |  |
 | [Antes & Depois](https://open.spotify.com/track/1ifn917xmYnwlXsgcs5tMS) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Tome a Decisão](https://open.spotify.com/album/5mE14i5eods7RRbp1tkNza) | 5:10 | 2023-04-15 | 2024-04-19 |
 | [Antes & Depois](https://open.spotify.com/track/4XqS5NqhbjLWR0shzrB2la) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Tome a Decisão](https://open.spotify.com/album/0l6x075Ird90ooE1sKdnhR) | 5:10 | 2023-12-22 |  |
@@ -64,6 +64,7 @@
 | [Instrumento Teu](https://open.spotify.com/track/1VakySJFPUTEd5UFp5omL5) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Aléxia França](https://open.spotify.com/artist/4Mf8eq3vKfsKTNANngaZIT), [Carlos Eduardo](https://open.spotify.com/artist/7KuXPiV6eFvXjyseedTPxp) | [Espetáculo Música Legionária: Os Mortos Não Morrem!](https://open.spotify.com/album/1LzN90fTqsivC9jEZlXPde) | 4:38 | 2023-12-22 |  |
 | [Instrumento Teu](https://open.spotify.com/track/6dABpJNsCkaR0ivYFuf7OL) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Carlos Eduardo](https://open.spotify.com/artist/7KuXPiV6eFvXjyseedTPxp), [Aléxia França](https://open.spotify.com/artist/4Mf8eq3vKfsKTNANngaZIT) | [Espetáculo Música Legionária: Os Mortos Não Morrem!](https://open.spotify.com/album/3tc1IR9Rvhe6JEPMkBBwfh) | 4:38 | 2023-04-15 | 2024-04-19 |
 | [Jeova é o Teu Cavaleiro](https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 3:23 | 2023-04-15 | 2024-12-14 |
+| [Jeová é o teu Cavaleiro \(Ao Vivo\)](https://open.spotify.com/track/2xtcFBJmzJcnhW7D4dqNqb) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas 30 anos \- Ao vivo no Teatro Rival](https://open.spotify.com/album/3eDeYVVTHzx7Yjc2KYblFq) | 4:26 | 2024-12-27 |  |
 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo) | [Pablo Simplicio](https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5) | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4) | 2:49 | 2023-04-15 |  |
 | [Livre Sou](https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Haja Luz](https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2) | 3:29 | 2023-04-15 |  |
 | [Louvarei](https://open.spotify.com/track/0vUHDItGEgGhRsVFn0ad7j) | [Vinicius Motta](https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y) | [Te Adorar](https://open.spotify.com/album/53rDqvzsW2NeuMVmnV8vvD) | 3:54 | 2023-12-22 |  |

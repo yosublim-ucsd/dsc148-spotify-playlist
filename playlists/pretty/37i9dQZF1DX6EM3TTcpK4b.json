@@ -1,6 +1,6 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Lola Beltr\u00e1n",
-  "num_followers": 357129,
+  "num_followers": 357313,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/34riZ1re1oumqDvLs7z1Fg"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Camino de Guanajuato",
+      "url": "https://open.spotify.com/track/2tPWzcW3et2X8QN53ZiMmR"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "Colecci\u00e0n De Oro Vol.5 - Joan Sebastian",
         "url": "https://open.spotify.com/album/3eBs0wd6Dq7JO59RK0PLW2"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 211371,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/1aGYzAXdp9Cqd7Nv6WrSGZ"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/1qNvE50pMBAB11VtaGGkFD"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/34riZ1re1oumqDvLs7z1Fg"
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 184586,
-      "name": "Camino de Guanajuato",
-      "url": "https://open.spotify.com/track/2tPWzcW3et2X8QN53ZiMmR"
+      "duration_ms": 177194,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/1qNvE50pMBAB11VtaGGkFD"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Amanecida Con Todo Y Con Todos",
-        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/15vyZX2dCWO1alNLe8YjZs"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Rancheras Inmortales",
         "url": "https://open.spotify.com/album/0iUJCHEI8fSd8jk08nmqFo"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 146626,
       "name": "Animas Que No Amanezca",
       "url": "https://open.spotify.com/track/1p4GW96SNwjd2F3fDmrLgu"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Amanecida Con Todo Y Con Todos",
+        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/15vyZX2dCWO1alNLe8YjZs"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Desvelada Con Banda Y Mariachi \"En Vivo\"",
-        "url": "https://open.spotify.com/album/5ONCHLXRv0vNIWHlv7T8NW"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 147514,
-      "name": "El Rey De Mil Coronas",
-      "url": "https://open.spotify.com/track/0O98RZVXFehnS7bwICxk18"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Antologia el Poeta del Pueblo Con Mariachi",
         "url": "https://open.spotify.com/album/72zXuJGYw1YGmc7Ue0996l"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 188360,
       "name": "Como Tu Decidas",
       "url": "https://open.spotify.com/track/6VtPNnCf12fB1iXHRT21IG"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Desvelada Con Banda Y Mariachi \"En Vivo\"",
+        "url": "https://open.spotify.com/album/5ONCHLXRv0vNIWHlv7T8NW"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 147514,
+      "name": "El Rey De Mil Coronas",
+      "url": "https://open.spotify.com/track/0O98RZVXFehnS7bwICxk18"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "Brillantes - Jose Alfredo Jimenez",
+        "url": "https://open.spotify.com/album/6l0g4dldlzFpDthm87Ddql"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 158773,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/2E7m3h55nR9BZFkxSHh0Bx"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "35 Anniversary Re-mastered Series, Vol. 7",
         "url": "https://open.spotify.com/album/0faSI8clCnZRnLXAb0NFcE"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 226080,
       "name": "Fallaste corazon",
       "url": "https://open.spotify.com/track/7mYRqhp7hhew3UlSvEkJN5"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "Brillantes - Jose Alfredo Jimenez",
-        "url": "https://open.spotify.com/album/6l0g4dldlzFpDthm87Ddql"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 158773,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/2E7m3h55nR9BZFkxSHh0Bx"
     },
     {
       "added_at": "2024-07-03 18:18:42",

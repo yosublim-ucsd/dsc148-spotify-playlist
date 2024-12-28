@@ -2,7 +2,7 @@
 
 ### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 
-> Who's now and next in pop\. Cover: Artemas
+> Who's now and next in pop\. Cover: SIENNA SPIRO
 
 2,383 songs - 5 day 3 hr 6 min
 

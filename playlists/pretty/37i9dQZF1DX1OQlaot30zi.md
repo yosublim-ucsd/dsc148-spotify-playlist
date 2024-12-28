@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Night Skinny, Shiva, Promessa \(in cover\), Drefgold e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,900 likes - 110 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,913 likes - 110 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

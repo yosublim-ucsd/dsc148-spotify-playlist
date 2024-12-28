@@ -2,7 +2,7 @@
 
 ### [Sofia Kourtesis track IDs](https://open.spotify.com/playlist/37i9dQZF1DWVFhnU8yozBd)
 
-> <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
+> <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>' favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
 185 songs - 16 hr 44 min
 

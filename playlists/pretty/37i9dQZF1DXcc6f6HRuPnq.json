@@ -1,6 +1,6 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 177353,
+  "num_followers": 177441,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-05-28 18:36:09",
       "album": {
-        "name": "King Of The Blues",
-        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Help Me Through The Day",
-      "url": "https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb"
-    },
-    {
-      "added_at": "2024-05-28 18:36:09",
-      "album": {
         "name": "My Blues Pathway",
         "url": "https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 313253,
       "name": "Struggle for Grace",
       "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
+    },
+    {
+      "added_at": "2024-05-28 18:36:09",
+      "album": {
+        "name": "King Of The Blues",
+        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Help Me Through The Day",
+      "url": "https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb"
     },
     {
       "added_at": "2024-05-28 18:36:09",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-05-28 18:36:09",
       "album": {
+        "name": "Sings... Me And The Blues",
+        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "Me And The Blues",
+      "url": "https://open.spotify.com/track/0xxbcXo99r5cJItylWkKNh"
+    },
+    {
+      "added_at": "2024-05-28 18:36:09",
+      "album": {
         "name": "Connor Selby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 361970,
       "name": "Lord I Just Can't Keep from Crying",
       "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
-    },
-    {
-      "added_at": "2024-05-28 18:36:09",
-      "album": {
-        "name": "Sings... Me And The Blues",
-        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
-      },
-      "artists": [
-        {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
-        }
-      ],
-      "duration_ms": 189640,
-      "name": "Me And The Blues",
-      "url": "https://open.spotify.com/track/0xxbcXo99r5cJItylWkKNh"
     },
     {
       "added_at": "2024-05-28 18:36:09",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-05-28 18:36:09",
       "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown Blues Band",
-          "url": "https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "Black Night",
-      "url": "https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF"
-    },
-    {
-      "added_at": "2024-05-28 18:36:09",
-      "album": {
         "name": "Ain't Giving Up",
         "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 420181,
       "name": "Weak Days",
       "url": "https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw"
+    },
+    {
+      "added_at": "2024-05-28 18:36:09",
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown Blues Band",
+          "url": "https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF"
     },
     {
       "added_at": "2024-05-28 18:36:09",

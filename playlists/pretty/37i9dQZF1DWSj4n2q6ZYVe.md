@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 
 > The biggest dance floor bangers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,957 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,325 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 57 | [Technologic](https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu) | 4:44 |
 | 58 | [Ghosts 'n' Stuff](https://open.spotify.com/track/4ua0IepBEISCWwF8dTJvcU) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack Of A Better Name](https://open.spotify.com/album/6WJvrBlL3zgu4mVoKyvMkl) | 5:28 |
 | 59 | [Invaders Must Die](https://open.spotify.com/track/1j6lrR4BzRGKwvAPfrIcbf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Invaders Must Die](https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM) | 4:55 |
-| 60 | [Wearing My Rolex \- Radio Edit](https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [See Clear Now](https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR) | 2:50 |
-| 61 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 |
+| 60 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 |
+| 61 | [Wearing My Rolex \- Radio Edit](https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [See Clear Now](https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR) | 2:50 |
 | 62 | [Hypnotized](https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Fran](https://open.spotify.com/artist/2gct3VkeQT2IuGNFNJVj1J) | [Großstadtmärchen](https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo) | 5:40 |
 | 63 | [Romeo](https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 3:37 |
 | 64 | [Flashback](https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:47 |

@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 199171,
+  "num_followers": 199243,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Fi 7eta Tanya",
-        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
-      },
-      "artists": [
-        {
-          "name": "Hana Yousry",
-          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Fi 7eta Tanya",
-      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 241506,
       "name": "Lamma Bada Yatathana",
       "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Fi 7eta Tanya",
+        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
+      },
+      "artists": [
+        {
+          "name": "Hana Yousry",
+          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Fi 7eta Tanya",
+      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Fairouz World, Pt. 2",
-        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 337371,
-      "name": "Habbaitak Tanseet El Noum",
-      "url": "https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Lazim Ahkeelak",
         "url": "https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 198827,
       "name": "Lazim Ahkeelak",
       "url": "https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Fairouz World, Pt. 2",
+        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 337371,
+      "name": "Habbaitak Tanseet El Noum",
+      "url": "https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Shou Byeb'a",
-        "url": "https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB"
-      },
-      "artists": [
-        {
-          "name": "Carla Chamoun",
-          "url": "https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG"
-        }
-      ],
-      "duration_ms": 223014,
-      "name": "Shou Byeb'a",
-      "url": "https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "R.I.M.I.X",
         "url": "https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc"
       },
@@ -939,22 +923,34 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Ya Zalamez",
-        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
+        "name": "Shou Byeb'a",
+        "url": "https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB"
+      },
+      "artists": [
+        {
+          "name": "Carla Chamoun",
+          "url": "https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG"
+        }
+      ],
+      "duration_ms": 223014,
+      "name": "Shou Byeb'a",
+      "url": "https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
       "artists": [
         {
           "name": "Apo & the Apostles",
           "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        },
-        {
-          "name": "Norah Shaqur",
-          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
         }
       ],
-      "duration_ms": 233215,
-      "name": "Albi",
-      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+        "name": "Ya Zalamez",
+        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
       },
       "artists": [
         {
           "name": "Apo & the Apostles",
           "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        },
+        {
+          "name": "Norah Shaqur",
+          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
         }
       ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+      "duration_ms": 233215,
+      "name": "Albi",
+      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Bahlam Maak",
-        "url": "https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS"
-      },
-      "artists": [
-        {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Bahlam Maak",
-      "url": "https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Badi Nsafer",
         "url": "https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 224506,
       "name": "Badi Nsafer",
       "url": "https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Bahlam Maak",
+        "url": "https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Bahlam Maak",
+      "url": "https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Yasmeen",
-        "url": "https://open.spotify.com/album/7bgr16tTsIUTVtDkJ3Fegz"
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
       },
       "artists": [
         {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+          "name": "Harget Kart",
+          "url": "https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm"
         }
       ],
-      "duration_ms": 56896,
-      "name": "Yasmeen",
-      "url": "https://open.spotify.com/track/4QCThVhmyL6KvZW1gGNIRI"
+      "duration_ms": 232489,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
+        "name": "Yasmeen",
+        "url": "https://open.spotify.com/album/7bgr16tTsIUTVtDkJ3Fegz"
       },
       "artists": [
         {
-          "name": "Harget Kart",
-          "url": "https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm"
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
         }
       ],
-      "duration_ms": 232489,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
+      "duration_ms": 56896,
+      "name": "Yasmeen",
+      "url": "https://open.spotify.com/track/4QCThVhmyL6KvZW1gGNIRI"
     },
     {
       "added_at": "2024-07-04 23:55:52",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-04 23:55:52",
       "album": {
-        "name": "Brya",
-        "url": "https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci"
-      },
-      "artists": [
-        {
-          "name": "Babylone",
-          "url": "https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i"
-        }
-      ],
-      "duration_ms": 237217,
-      "name": "Zina",
-      "url": "https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF"
-    },
-    {
-      "added_at": "2024-07-04 23:55:52",
-      "album": {
         "name": "Leila",
         "url": "https://open.spotify.com/album/2iw5NCNPUG8Wv0kg2ujCcc"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 152816,
       "name": "Leila",
       "url": "https://open.spotify.com/track/2jkrGagEAt8WrQ6NyF8Lsy"
+    },
+    {
+      "added_at": "2024-07-04 23:55:52",
+      "album": {
+        "name": "Brya",
+        "url": "https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci"
+      },
+      "artists": [
+        {
+          "name": "Babylone",
+          "url": "https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i"
+        }
+      ],
+      "duration_ms": 237217,
+      "name": "Zina",
+      "url": "https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF"
     },
     {
       "added_at": "2024-07-04 23:55:52",

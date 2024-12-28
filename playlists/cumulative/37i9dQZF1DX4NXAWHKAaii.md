@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4NXAWHKAaii.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4NXAWHKAaii) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4NXAWHKAaii)
 
-### [PAUZA's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX4NXAWHKAaii)
+### [PAUZA track IDs](https://open.spotify.com/playlist/37i9dQZF1DX4NXAWHKAaii)
 
 > <a href="spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N">PAUZA</a>'s favorite tracks\. Updated regularly\. Curated by PAUZA\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 

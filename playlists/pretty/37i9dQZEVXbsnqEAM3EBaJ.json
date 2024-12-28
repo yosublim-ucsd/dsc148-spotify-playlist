@@ -6,10 +6,62 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACcuRp/bEd6nhPIWgWNvB3Q",
+  "snapshot_id": "AAAAAAAAAADzw/IGwrEKXMu/z9RPHr2i",
   "tracks": [
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Black Dress",
+        "url": "https://open.spotify.com/album/2aUjq0qPnlQz9J9INQg7Jv"
+      },
+      "artists": [
+        {
+          "name": "Nemesea",
+          "url": "https://open.spotify.com/artist/0KV2B2b0q24rEawMkFmQvD"
+        }
+      ],
+      "duration_ms": 233787,
+      "name": "Black Dress",
+      "url": "https://open.spotify.com/track/3yMxNa2Kawz9k4cMpxvWT4"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Mhluri",
+        "url": "https://open.spotify.com/album/7daGWTS6FiUDc5FgtOEPQx"
+      },
+      "artists": [
+        {
+          "name": "Curry De Cruzz",
+          "url": "https://open.spotify.com/artist/582hgW466MpGfbIK1LZOBT"
+        },
+        {
+          "name": "Vader",
+          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
+        }
+      ],
+      "duration_ms": 362129,
+      "name": "Impilo",
+      "url": "https://open.spotify.com/track/37mMPeEPBUPc4R7OjTFmPl"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "A Broken Man",
+        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 509840,
+      "name": "A Broken Man",
+      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Spider Lilly",
         "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
@@ -25,7 +77,55 @@
       "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Blood Dynasty",
+      "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Mentalidad Televisiva (Versi\u00f3n 1984)",
+        "url": "https://open.spotify.com/album/5LrwnGdu7Q23LqLjkQIY6u"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 269701,
+      "name": "Mentalidad Televisiva - Versi\u00f3n 1984",
+      "url": "https://open.spotify.com/track/3TyjcfHmZpZgjaOwm6hONT"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Creepshow",
+        "url": "https://open.spotify.com/album/6Gf5k8HG0ccFNibSJiXnbh"
+      },
+      "artists": [
+        {
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        }
+      ],
+      "duration_ms": 187512,
+      "name": "Creepshow",
+      "url": "https://open.spotify.com/track/3KsjjnHF7vwp4RLz4eAy98"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Du bist alles was ich will",
         "url": "https://open.spotify.com/album/6oKTf4HIhkzvPN0ftQO1xe"
@@ -41,7 +141,95 @@
       "url": "https://open.spotify.com/track/2NPeM9G213JoNkna1TdtpE"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Premonition",
+        "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 312546,
+      "name": "Premonition",
+      "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "copy/paste, vol. 1 (abridged)",
+        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 281212,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "In The Grey",
+        "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
+      },
+      "artists": [
+        {
+          "name": "Shadows Fall",
+          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "In The Grey",
+      "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Riders on the Storm",
+        "url": "https://open.spotify.com/album/3CsxPkQH1eOpeNShl2O3KW"
+      },
+      "artists": [
+        {
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Sirenia",
+          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+        },
+        {
+          "name": "Emma Zoldan",
+          "url": "https://open.spotify.com/artist/79yrZEESXPuwCp3BCclTF0"
+        }
+      ],
+      "duration_ms": 237647,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/7kxKxF9WUqhN9wF288xje4"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2zcIdCEi2NW3TSjp1VcPz4"
+      },
+      "artists": [
+        {
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Los Bunkers (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
@@ -61,7 +249,95 @@
       "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Some Dreams",
+        "url": "https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "duration_ms": 288005,
+      "name": "Some Dreams",
+      "url": "https://open.spotify.com/track/49iWkFT4uK14pzDS6uAR7z"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Your Name In Lights",
+        "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Your Name In Lights",
+      "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "White Bikes",
+        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 265570,
+      "name": "White Bikes",
+      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "One Last Breath (Jojo Lorenzo Remix)",
+        "url": "https://open.spotify.com/album/6PHhYiChCjFHT8MmzuTfc4"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        },
+        {
+          "name": "Jojo Lorenzo",
+          "url": "https://open.spotify.com/artist/6UgM4bgF7TuDaHF0VOF3JW"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "One Last Breath - Jojo Lorenzo Remix",
+      "url": "https://open.spotify.com/track/0oSjvM4Q8kxRvixGI0vGxL"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/1ojGoRkMpKvKdo33luyyL8"
@@ -77,7 +353,27 @@
       "url": "https://open.spotify.com/track/7uUvceLJvMhhoXiCm9PSOC"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Everything (Jaxx Club Vocal Mix)",
+        "url": "https://open.spotify.com/album/7dPLMtTuhbKFisRsg6IIzv"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 399546,
+      "name": "Everything - Jaxx Club Vocal",
+      "url": "https://open.spotify.com/track/5Ty2YC3d5UofL63SylhkRq"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Sail with the Dead (Orchestral Version)",
         "url": "https://open.spotify.com/album/7JvvaFsJjCnmEr4OdjEd5v"
@@ -93,7 +389,7 @@
       "url": "https://open.spotify.com/track/5XVxbwNbYzDU4hhmQm7LJC"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Santa Claus Is Coming To Town",
         "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
@@ -109,7 +405,63 @@
       "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Sky Restaurant",
+        "url": "https://open.spotify.com/album/19YoMXm7ZgGWv02k3VedU1"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "Sky Restaurant",
+      "url": "https://open.spotify.com/track/2pUGlOapqG010nqQoH0p8C"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Downfall (Dialective, Protoss & Short Circuit Remix)",
+        "url": "https://open.spotify.com/album/2XbitQOjmcsWqiWZo4hqDZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Killer",
+          "url": "https://open.spotify.com/artist/3inayuwqelcAnYCacc19zX"
+        },
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        },
+        {
+          "name": "Short Circuit",
+          "url": "https://open.spotify.com/artist/7t7yU2xOoYhHj8ZIX1SLoa"
+        }
+      ],
+      "duration_ms": 312237,
+      "name": "Downfall (Short Circuit Remix)",
+      "url": "https://open.spotify.com/track/3eQNql669vVuDGXRwILxX2"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 174288,
+      "name": "Ra\u00edces",
+      "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "\u8ee2\u304c\u308b\u5ca9\u3001\u541b\u306b\u671d\u304c\u964d\u308b - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/7yCKZEfFik3HVtIIpqfno2"
@@ -125,7 +477,23 @@
       "url": "https://open.spotify.com/track/335mREcIWAsekmrCZuuIJQ"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
+        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Ring Out Solstice Bells - 2024 Remix",
+      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "OMEGA",
         "url": "https://open.spotify.com/album/2zPlqEQvLTqacCTohwO7l8"
@@ -153,383 +521,7 @@
       "url": "https://open.spotify.com/track/3J2f43S2gOqEOgz0Hi5tkQ"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Saskimood",
-        "url": "https://open.spotify.com/album/7e4zVsqu6RtoTGhBob9hD0"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Saski",
-          "url": "https://open.spotify.com/artist/5j1KobiQU5nFxg2oU94psG"
-        },
-        {
-          "name": "Nosecuenta",
-          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
-        }
-      ],
-      "duration_ms": 182954,
-      "name": "Astronom\u00eda",
-      "url": "https://open.spotify.com/track/2vKPkKlZ7pbaF0PJUAYuIF"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Run Rudolph Run",
-        "url": "https://open.spotify.com/album/5CTYJVLTBiLDmK9JY9W3uk"
-      },
-      "artists": [
-        {
-          "name": "The Philly Specials",
-          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
-        },
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 236213,
-      "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/6h3ss6XbugN9NoaJsBTy9n"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "A Broken Man",
-        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 509840,
-      "name": "A Broken Man",
-      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 231186,
-      "name": "Blood Dynasty",
-      "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Mentalidad Televisiva (Versi\u00f3n 1984)",
-        "url": "https://open.spotify.com/album/5LrwnGdu7Q23LqLjkQIY6u"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 269701,
-      "name": "Mentalidad Televisiva - Versi\u00f3n 1984",
-      "url": "https://open.spotify.com/track/3TyjcfHmZpZgjaOwm6hONT"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Creepshow",
-        "url": "https://open.spotify.com/album/6Gf5k8HG0ccFNibSJiXnbh"
-      },
-      "artists": [
-        {
-          "name": "Avantasia",
-          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
-        }
-      ],
-      "duration_ms": 187512,
-      "name": "Creepshow",
-      "url": "https://open.spotify.com/track/3KsjjnHF7vwp4RLz4eAy98"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Premonition",
-        "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 312546,
-      "name": "Premonition",
-      "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "In The Grey",
-        "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
-      },
-      "artists": [
-        {
-          "name": "Shadows Fall",
-          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "In The Grey",
-      "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "copy/paste, vol. 1 (abridged)",
-        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 281212,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Riders on the Storm",
-        "url": "https://open.spotify.com/album/3CsxPkQH1eOpeNShl2O3KW"
-      },
-      "artists": [
-        {
-          "name": "Mortemia",
-          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
-        },
-        {
-          "name": "Sirenia",
-          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
-        },
-        {
-          "name": "Emma Zoldan",
-          "url": "https://open.spotify.com/artist/79yrZEESXPuwCp3BCclTF0"
-        }
-      ],
-      "duration_ms": 237647,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/7kxKxF9WUqhN9wF288xje4"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/2zcIdCEi2NW3TSjp1VcPz4"
-      },
-      "artists": [
-        {
-          "name": "Pentagram",
-          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Your Name In Lights",
-        "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Your Name In Lights",
-      "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Some Dreams",
-        "url": "https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 288005,
-      "name": "Some Dreams",
-      "url": "https://open.spotify.com/track/49iWkFT4uK14pzDS6uAR7z"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "White Bikes",
-        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "White Bikes",
-      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "One Last Breath (Jojo Lorenzo Remix)",
-        "url": "https://open.spotify.com/album/6PHhYiChCjFHT8MmzuTfc4"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        },
-        {
-          "name": "Jojo Lorenzo",
-          "url": "https://open.spotify.com/artist/6UgM4bgF7TuDaHF0VOF3JW"
-        }
-      ],
-      "duration_ms": 333750,
-      "name": "One Last Breath - Jojo Lorenzo Remix",
-      "url": "https://open.spotify.com/track/0oSjvM4Q8kxRvixGI0vGxL"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 156287,
-      "name": "Best Friend (with Fall Out Boy)",
-      "url": "https://open.spotify.com/track/1zKuSINcb2QSE7m6mk6J36"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Everything (Jaxx Club Vocal Mix)",
-        "url": "https://open.spotify.com/album/7dPLMtTuhbKFisRsg6IIzv"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        },
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 399546,
-      "name": "Everything - Jaxx Club Vocal",
-      "url": "https://open.spotify.com/track/5Ty2YC3d5UofL63SylhkRq"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Downfall (Dialective, Protoss & Short Circuit Remix)",
-        "url": "https://open.spotify.com/album/2XbitQOjmcsWqiWZo4hqDZ"
-      },
-      "artists": [
-        {
-          "name": "Silent Killer",
-          "url": "https://open.spotify.com/artist/3inayuwqelcAnYCacc19zX"
-        },
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        },
-        {
-          "name": "Short Circuit",
-          "url": "https://open.spotify.com/artist/7t7yU2xOoYhHj8ZIX1SLoa"
-        }
-      ],
-      "duration_ms": 312237,
-      "name": "Downfall (Short Circuit Remix)",
-      "url": "https://open.spotify.com/track/3eQNql669vVuDGXRwILxX2"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Sky Restaurant",
-        "url": "https://open.spotify.com/album/19YoMXm7ZgGWv02k3VedU1"
-      },
-      "artists": [
-        {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "Sky Restaurant",
-      "url": "https://open.spotify.com/track/2pUGlOapqG010nqQoH0p8C"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 174288,
-      "name": "Ra\u00edces",
-      "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Vida (Remixes)",
         "url": "https://open.spotify.com/album/6Ct1mQa8DwYATBFDQuJYUG"
@@ -549,23 +541,111 @@
       "url": "https://open.spotify.com/track/6J9EqqULWhgtV8B9CzodIh"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
-        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
+        "name": "Saskimood",
+        "url": "https://open.spotify.com/album/7e4zVsqu6RtoTGhBob9hD0"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "Mat\u00edas Saski",
+          "url": "https://open.spotify.com/artist/5j1KobiQU5nFxg2oU94psG"
+        },
+        {
+          "name": "Nosecuenta",
+          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
         }
       ],
-      "duration_ms": 245373,
-      "name": "Ring Out Solstice Bells - 2024 Remix",
-      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
+      "duration_ms": 182954,
+      "name": "Astronom\u00eda",
+      "url": "https://open.spotify.com/track/2vKPkKlZ7pbaF0PJUAYuIF"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3ENnlgcMHOzyNrwBY8uqS4"
+      },
+      "artists": [
+        {
+          "name": "Rene Puente",
+          "url": "https://open.spotify.com/artist/6IxRJcjeiHKi4d4m9klWAA"
+        },
+        {
+          "name": "Don Mauri",
+          "url": "https://open.spotify.com/artist/7rirqjuOu3gNatUfJBNOMk"
+        },
+        {
+          "name": "Huevito Rey",
+          "url": "https://open.spotify.com/artist/1iWvFn2wP4gAwZEZyvtusU"
+        },
+        {
+          "name": "Albert Andr\u00e9s",
+          "url": "https://open.spotify.com/artist/4On5KWzUkafTns5R7PVVEn"
+        },
+        {
+          "name": "Angel Parra",
+          "url": "https://open.spotify.com/artist/4zVtp9LhWzT5n1w27c0f6l"
+        },
+        {
+          "name": "Artistas Telet\u00f3n",
+          "url": "https://open.spotify.com/artist/2nt1mTWr5GbX9IeepwGaYd"
+        },
+        {
+          "name": "Arqui",
+          "url": "https://open.spotify.com/artist/5PKJBLTDwkesQ8fRxV0gyM"
+        },
+        {
+          "name": "Corxea",
+          "url": "https://open.spotify.com/artist/0O3pssdiXuyXjb18NcMc0S"
+        },
+        {
+          "name": "Daniel Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/2R0KuBcEcUp6thf2HHLElR"
+        },
+        {
+          "name": "Dj Kuri",
+          "url": "https://open.spotify.com/artist/21DWCfZWbG67Ycuh3efqN6"
+        },
+        {
+          "name": "Edwin minder",
+          "url": "https://open.spotify.com/artist/2jc5ZnunsHg6OXzGMRn7R0"
+        },
+        {
+          "name": "Grupo Karicia",
+          "url": "https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og"
+        },
+        {
+          "name": "Los Picantes",
+          "url": "https://open.spotify.com/artist/2yvZnt3TKXoYhdcbQi6vpO"
+        },
+        {
+          "name": "Ze Carre\u00f1o Kogal Dize",
+          "url": "https://open.spotify.com/artist/5yiA8oigrK0NPdxax8t5cB"
+        },
+        {
+          "name": "Luis Dimas",
+          "url": "https://open.spotify.com/artist/6GiuMj37ySz4NQxtKOTE19"
+        },
+        {
+          "name": "Buddy Richard",
+          "url": "https://open.spotify.com/artist/6qSkZrS7Xdje9DVRXlNmpE"
+        },
+        {
+          "name": "ColoColo",
+          "url": "https://open.spotify.com/artist/5S6vzc5aVKUqHhIe9yHbJw"
+        },
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        }
+      ],
+      "duration_ms": 190747,
+      "name": "Feliz Navidad (Me Imagino Tu Cuchu)",
+      "url": "https://open.spotify.com/track/6DE1LqLfUovcJiArC9wrRo"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Sin T\u00e1lamo",
         "url": "https://open.spotify.com/album/0ONZFIEDIQ6KHcGiZUaLPS"
@@ -589,27 +669,7 @@
       "url": "https://open.spotify.com/track/0g5oUUZpgPE1zMznLdgdf8"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Breathless (Warren Remix)",
-        "url": "https://open.spotify.com/album/5p432Akx3FOjYQSY39A21E"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        },
-        {
-          "name": "Warren",
-          "url": "https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY"
-        }
-      ],
-      "duration_ms": 189418,
-      "name": "Breathless - Warren Remix",
-      "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Universo De Ley",
         "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
@@ -629,7 +689,27 @@
       "url": "https://open.spotify.com/track/0nzNlCjPhTMWBABJVljRc5"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Breathless (Warren Remix)",
+        "url": "https://open.spotify.com/album/5p432Akx3FOjYQSY39A21E"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        },
+        {
+          "name": "Warren",
+          "url": "https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Breathless - Warren Remix",
+      "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "El Chucu Chucu",
         "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
@@ -653,7 +733,7 @@
       "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Swan Lake (Drill Version)",
         "url": "https://open.spotify.com/album/3WB9nEETWciPiejMAZzLtE"
@@ -673,7 +753,7 @@
       "url": "https://open.spotify.com/track/2sDzWQYfkXblH5YBOaDodt"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Navidad De Locos",
         "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
@@ -689,7 +769,27 @@
       "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Run Rudolph Run",
+        "url": "https://open.spotify.com/album/5CTYJVLTBiLDmK9JY9W3uk"
+      },
+      "artists": [
+        {
+          "name": "The Philly Specials",
+          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
+        },
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/6h3ss6XbugN9NoaJsBTy9n"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "PROFE",
         "url": "https://open.spotify.com/album/1meRwsCIUwhOUI1RrYdymw"
@@ -713,7 +813,7 @@
       "url": "https://open.spotify.com/track/7nmTxkvOlpU537aJoLAJex"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Angels In The Snow (Discotastique! Mix)",
         "url": "https://open.spotify.com/album/0cOvFW5oKEicU2q1Cd02ma"
@@ -729,7 +829,7 @@
       "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
     },
     {
-      "added_at": "2024-12-20 03:00:00",
+      "added_at": "2024-12-27 03:00:00",
       "album": {
         "name": "Jamnapaari (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7baTlfJtlvZGlpNq4IjXmZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,456 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,457 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 26 | [Home](https://open.spotify.com/track/4qNMY30sIrprrG2YZPXVRi) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Home](https://open.spotify.com/album/7gyxNfZNPV5W0gYRoj87GJ) | 2:36 |
 | 27 | [Shin](https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Shin](https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf) | 3:45 |
 | 28 | [Walk \(Interlude\)](https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:47 |
-| 29 | [Ghost Town \- Side\-B](https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS) | [Nozomi Nobody](https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL) | [Dawn \(Side\-B\)](https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV) | 3:16 |
-| 30 | [24/7\(inst\)](https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8) | [shai](https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP) | [24/7\(inst\)](https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9) | 2:21 |
+| 29 | [24/7\(inst\)](https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8) | [shai](https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP) | [24/7\(inst\)](https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9) | 2:21 |
+| 30 | [Ghost Town \- Side\-B](https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS) | [Nozomi Nobody](https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL) | [Dawn \(Side\-B\)](https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV) | 3:16 |
 | 31 | [School](https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu) | [BLYNE](https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD), [B O K E H](https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO) | [This is Our First EP](https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9) | 3:32 |
 | 32 | [yomichi](https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj) | 2:00 |
 | 33 | [Ripple](https://open.spotify.com/track/1YalCeuariNJ4hlEjq6o3S) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Seaglow](https://open.spotify.com/album/2nvtaBqF1x83BMsdpEC5ZD) | 2:12 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 49 | [Cristo Redentor](https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chips & Chill](https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE) | 2:34 |
 | 50 | [Pockets](https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Pockets](https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl) | 3:20 |
 | 51 | [Day Trip](https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Day Trip](https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W) | 2:17 |
-| 52 | [Touch the Sky](https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Gyrefunk](https://open.spotify.com/artist/7eQEQLV4hM1kD1K0tKjI9u) | [Touch the Sky](https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD) | 3:42 |
+| 52 | [Breezy](https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:42 |
 | 53 | [Blue Moon](https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Dreamwave](https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb) | 2:25 |
-| 54 | [Breezy](https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:42 |
+| 54 | [Touch the Sky](https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Gyrefunk](https://open.spotify.com/artist/7eQEQLV4hM1kD1K0tKjI9u) | [Touch the Sky](https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD) | 3:42 |
 | 55 | [Thank You \(feat\. Jozzy\)](https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Abbot Kinney](https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F) | 3:11 |
 | 56 | [Elevate](https://open.spotify.com/track/2EBcFkIyG1gnCnlKqHaeYl) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Tel Père Tel Fils](https://open.spotify.com/album/7obwq0u0uJtALHkkC5gjaa) | 2:19 |
 | 57 | [The Next vacation](https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [wave wave wave](https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP) | 4:54 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 67 | [fresh](https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [fresh](https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6) | 4:23 |
 | 68 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 |
 | 69 | [see](https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr) | [sorami](https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98) | [see](https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ) | 3:27 |
-| 70 | [おはなしのはじまり](https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [UP AND DOWN Original Soundtrack](https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6) | 3:09 |
-| 71 | [Sushi In Tokyo](https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP) | [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [Sushi In Tokyo](https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx) | 3:31 |
+| 70 | [Sushi In Tokyo](https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP) | [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [Sushi In Tokyo](https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx) | 3:31 |
+| 71 | [おはなしのはじまり](https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [UP AND DOWN Original Soundtrack](https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6) | 3:09 |
 | 72 | [City Light](https://open.spotify.com/track/0iyTHcQ6DHU59aJd7z0lru) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3XB4Ss6DwQVCoybkKE2RDW) | 3:03 |
 | 73 | [Dragon Collection](https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt) | [Four Face](https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko) | [Dragon Collection](https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh) | 3:42 |
 | 74 | [Snow Magic](https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [GOODSHIT](https://open.spotify.com/artist/1IMKwKbUaQp1JbSXwWDr4v) | [Snow Magic](https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "description": "Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland. Cover: SOPHIE",
-  "num_followers": 32405,
+  "num_followers": 32406,
   "original_name": "Best of GLOW UK & Ireland 2024",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Matriarchy",
+        "url": "https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "Matriarchy",
+      "url": "https://open.spotify.com/track/4Jj9LnTBWvY9v7wbj3c6iJ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 327133,
       "name": "You Make Me Feel (Mighty Real)",
       "url": "https://open.spotify.com/track/1sLhKR0VdZ0tgo3stHNEEH"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Matriarchy",
-        "url": "https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK"
-      },
-      "artists": [
-        {
-          "name": "girli",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "Matriarchy",
-      "url": "https://open.spotify.com/track/4Jj9LnTBWvY9v7wbj3c6iJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 253114,
       "name": "Get Me Away From Here, I'm Dying",
       "url": "https://open.spotify.com/track/4ksAJMoTryW6BTsZpKdoMk"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "GROWING UP ON THE INTERNET",
-      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "That Golden Time",
-        "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 294851,
-      "name": "You Lucky One",
-      "url": "https://open.spotify.com/track/5sTcB227je1ByKWTEBj2me"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Healing Out of Spite",
         "url": "https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 228857,
       "name": "Healing Out of Spite",
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "That Golden Time",
+        "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 294851,
+      "name": "You Lucky One",
+      "url": "https://open.spotify.com/track/5sTcB227je1ByKWTEBj2me"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -743,22 +743,6 @@
       "duration_ms": 234231,
       "name": "Air Tight",
       "url": "https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "That Golden Time",
-        "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 215631,
-      "name": "I Want What I Don't Need",
-      "url": "https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -827,6 +811,22 @@
       "duration_ms": 201732,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/3K1XfGFwe8lGdlr0TRze5N"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "That Golden Time",
+        "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 215631,
+      "name": "I Want What I Don't Need",
+      "url": "https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI"
     },
     {
       "added_at": "2024-12-04 12:15:00",

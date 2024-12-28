@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Chucho Vald\u00e9s",
-  "num_followers": 519496,
+  "num_followers": 519506,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -726,11 +726,15 @@
         {
           "name": "Pedrito Martinez",
           "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
         }
       ],
-      "duration_ms": 364237,
-      "name": "Yo S\u00ed Quiero",
-      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
+      "duration_ms": 271013,
+      "name": "Ciudadano",
+      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -830,15 +834,11 @@
         {
           "name": "Pedrito Martinez",
           "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
         }
       ],
-      "duration_ms": 271013,
-      "name": "Ciudadano",
-      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
+      "duration_ms": 364237,
+      "name": "Yo S\u00ed Quiero",
+      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 220198,
-      "name": "Dig My Feeling",
-      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 412133,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 220198,
+      "name": "Dig My Feeling",
+      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "In Flight",
-      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
         "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 289306,
       "name": "Catin Latin",
       "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 341560,
+      "name": "In Flight",
+      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
       },
       "artists": [
         {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 344606,
-      "name": "Guarajazz",
-      "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
+      "duration_ms": 293020,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1731,34 +1731,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
       "artists": [
         {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
         }
       ],
-      "duration_ms": 293020,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Indigenous",
-        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
-      },
-      "artists": [
-        {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
-        }
-      ],
-      "duration_ms": 243944,
-      "name": "Sombras Del Pasado",
-      "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
+      "duration_ms": 344606,
+      "name": "Guarajazz",
+      "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1775,6 +1759,22 @@
       "duration_ms": 245866,
       "name": "Martinez",
       "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Indigenous",
+        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
+      },
+      "artists": [
+        {
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+        }
+      ],
+      "duration_ms": 243944,
+      "name": "Sombras Del Pasado",
+      "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1839,22 +1839,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Te Escucho",
-        "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
+        "name": "Big Band Urban Folktales",
+        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
       },
       "artists": [
         {
-          "name": "Sofia Ribeiro",
-          "url": "https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven"
-        },
-        {
-          "name": "ELENI",
-          "url": "https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh"
+          "name": "Bobby Sanabria",
+          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
         }
       ],
-      "duration_ms": 230550,
-      "name": "Te Escucho",
-      "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
+      "duration_ms": 440600,
+      "name": "El Lider",
+      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
     }
   ],
   "unique_name": "Latin Jazz",

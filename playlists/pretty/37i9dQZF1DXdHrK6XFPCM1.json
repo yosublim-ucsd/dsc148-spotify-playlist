@@ -1,6 +1,6 @@
 {
   "description": "Waktu Indonesia bagian mager dan dengar lagu-lagu enak.",
-  "num_followers": 359030,
+  "num_followers": 359028,
   "original_name": "Mager Parah",
   "owner": {
     "name": "Spotify",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-12-16 04:06:58",
       "album": {
-        "name": "Only Human (Deluxe)",
-        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
+        "name": "Kembali Pulang",
+        "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        },
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
         }
       ],
-      "duration_ms": 260285,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
+      "duration_ms": 207898,
+      "name": "Kembali Pulang",
+      "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
     }
   ],
   "unique_name": "Mager Parah",

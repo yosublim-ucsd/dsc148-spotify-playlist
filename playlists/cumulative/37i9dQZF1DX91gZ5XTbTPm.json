@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 243253,
       "name": "Ballout Baby - feat. Chief Keef",
       "url": "https://open.spotify.com/track/2MvfuroFAhfYhmGJauh3Bl"
@@ -5806,7 +5806,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 366863,
       "name": "Flint Stones",
       "url": "https://open.spotify.com/track/2fp5q1VBg9SqVCwVLCFTDa"
@@ -6074,7 +6074,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 109564,
       "name": "Free Ghost",
       "url": "https://open.spotify.com/track/49DMfWkszWcEiJxsqc9Xjh"
@@ -11165,6 +11165,24 @@
     },
     {
       "album": {
+        "name": "DoonieVerse",
+        "url": "https://open.spotify.com/album/7vpSZirYCsgTAJ3IXCxAxE"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133015,
+      "name": "Make Up (Dont Look The Same)",
+      "url": "https://open.spotify.com/track/4a0yVAkHM9HnIYIOJLalzp"
+    },
+    {
+      "album": {
         "name": "MAMA",
         "url": "https://open.spotify.com/album/3PwfftIkI32GXLQNNIJbzK"
       },
@@ -13684,6 +13702,28 @@
       "duration_ms": 258220,
       "name": "Perc & Sex",
       "url": "https://open.spotify.com/track/7wbNu1P1ZokAM4gTJSImzu"
+    },
+    {
+      "album": {
+        "name": "Perc & Sex 2",
+        "url": "https://open.spotify.com/album/6S82A1LqlQ7Ue4gapN6LQ5"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "Perc & Sex 2",
+      "url": "https://open.spotify.com/track/0Qchbh2Aacdxoj06AXycaY"
     },
     {
       "album": {
@@ -18410,6 +18450,28 @@
       "duration_ms": 126614,
       "name": "THE FALL OFF",
       "url": "https://open.spotify.com/track/4Aop9fiCaYFPhnlg3dxD2s"
+    },
+    {
+      "album": {
+        "name": "THE HARDY BOYZ",
+        "url": "https://open.spotify.com/album/3jRuiaGevkRLogSlkg6HS9"
+      },
+      "artists": [
+        {
+          "name": "Baby Smoove",
+          "url": "https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy"
+        },
+        {
+          "name": "Rocaine",
+          "url": "https://open.spotify.com/artist/6OOETqt3Jh8y39gYtof7tN"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141983,
+      "name": "THE HARDY BOYZ",
+      "url": "https://open.spotify.com/track/3HWKpE3lPRWCMSzLGUgGKI"
     },
     {
       "album": {

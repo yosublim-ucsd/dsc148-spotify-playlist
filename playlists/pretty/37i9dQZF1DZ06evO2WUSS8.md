@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,436 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,438 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 30 | [Wombo Lombo](https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 4:15 |
 | 31 | [Djin Djin](https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:18 |
 | 32 | [Africa Nangadef](https://open.spotify.com/track/1bcdYsNISTkYpnbuAXp9Le) | [Faada Freddy](https://open.spotify.com/artist/7EBwTCv2UZ1vm4WmfNCiEK), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Golden Cages](https://open.spotify.com/album/0nISni6H22mYUDNtmlrH2J) | 3:41 |
-| 33 | [Batonga](https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:36 |
-| 34 | [Ami Oh! \(feat\. Angélique Kidjo & Papa Wemba\)](https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:38 |
+| 33 | [Ami Oh! \(feat\. Angélique Kidjo & Papa Wemba\)](https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:38 |
+| 34 | [Batonga](https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:36 |
 | 35 | [Easy As Life](https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aida](https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp) | 5:12 |
 | 36 | [Samba Pa Ti](https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [OYO \(Deluxe Edition\)](https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3) | 3:37 |
 | 37 | [Keep Rising \- The Woman King](https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I) | [Jessy Wilson](https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Keep Rising \(The Woman King\)](https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ) | 3:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 46 | [Lonlon Ravel's Bolero \- Live](https://open.spotify.com/track/6rFMgbTxcAGRowwfZfzmfB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH) | [Spirit Rising \(Live\)](https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038) | 4:14 |
 | 47 | [Best We Can](https://open.spotify.com/track/7JkARLzgPhReJbeuKyRZyz) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Wolves of Africa \(Part 2/2\)](https://open.spotify.com/album/7e871voxvSH8SDLENDzgQA) | 3:38 |
 | 48 | [Iwoya \(feat\. Dave Matthews\)](https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:46 |
-| 49 | [Alphaman Redemption](https://open.spotify.com/track/32hFFOkBaxdtXUbUpkocUO) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Human Race](https://open.spotify.com/album/35qoT4g2wmXFzvKRrvhJ1Y) | 5:05 |
-| 50 | [Flying High](https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:53 |
+| 49 | [Flying High](https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:53 |
+| 50 | [Alphaman Redemption](https://open.spotify.com/track/32hFFOkBaxdtXUbUpkocUO) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Human Race](https://open.spotify.com/album/35qoT4g2wmXFzvKRrvhJ1Y) | 5:05 |
 
-Snapshot ID: `Z2tLAAAAAACkwH3IZIaq0cX5z3xqeQMw`
+Snapshot ID: `Z2ycgAAAAAAAKgxKTEQmeOjSq0jN5A74`

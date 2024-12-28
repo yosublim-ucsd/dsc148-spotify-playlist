@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,402 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,417 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 8 | [Duelo](https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Duelo](https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy) | 2:52 |
 | 9 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 |
 | 10 | [Un Blues](https://open.spotify.com/track/5QrWetGJiShrW7dJXVNN0r) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Aviso De Despido](https://open.spotify.com/album/6rs6EKlQu5tYC1vtrqVjOq) | 2:58 |
-| 11 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 |
-| 12 | [La Policía](https://open.spotify.com/track/0ZhdPl4IGi5OhxoCF59CBh) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Policía](https://open.spotify.com/album/4AKbSeK2V2dS3pPf3inLog) | 2:37 |
-| 13 | [Niño Yo Te Amé](https://open.spotify.com/track/2WqlC0I8UXKGDqO5IBvrgc) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Niño Yo Te Amé](https://open.spotify.com/album/3G5Cifil07gObHvzhJtCe8) | 3:07 |
-| 14 | [Otro Final](https://open.spotify.com/track/3wEVOk8qt7BawAes7YoMgI) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Otro Final](https://open.spotify.com/album/051Hs4BptjBO9GoPoQvLAs) | 3:46 |
+| 11 | [BESITOS DULCES](https://open.spotify.com/track/44xqs8Z1S0YSkJSDZ59KMM) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [ANDY ALASKA](https://open.spotify.com/artist/4Khd0aexSTIiryfokru56l) | [BESITOS DULCES](https://open.spotify.com/album/6tpnJnYTgfnQse2nUdneeo) | 2:22 |
+| 12 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 |
+| 13 | [La Policía](https://open.spotify.com/track/0ZhdPl4IGi5OhxoCF59CBh) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Policía](https://open.spotify.com/album/4AKbSeK2V2dS3pPf3inLog) | 2:37 |
+| 14 | [Niño Yo Te Amé](https://open.spotify.com/track/2WqlC0I8UXKGDqO5IBvrgc) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Niño Yo Te Amé](https://open.spotify.com/album/3G5Cifil07gObHvzhJtCe8) | 3:07 |
 | 15 | [Para El Tiempo](https://open.spotify.com/track/2ltvvftNngVjO6xhqVQd9M) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Para El Tiempo](https://open.spotify.com/album/4MLpfnee5aR9WCsOQbUyiL) | 3:17 |
 | 16 | [2AM](https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [2AM](https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB) | 3:16 |
 | 17 | [aeropuerto](https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [aeropuerto](https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 74 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 |
 | 75 | [Home Alone](https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Home Alone](https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4) | 2:26 |
 
-Snapshot ID: `Z1u/MQAAAACalmn4VtiRsHdUJzRZh1fC`
+Snapshot ID: `Z240LgAAAABWGtftmZC7J1Lfqk9QOjZa`

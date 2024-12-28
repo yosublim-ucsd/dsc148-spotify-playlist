@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 222106,
       "name": "Happy Darling",
       "url": "https://open.spotify.com/track/2XtJmTYix03kYitaCa4DCZ"
@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 253426,
       "name": "Like twinkling STARS",
       "url": "https://open.spotify.com/track/2ylS7t615hfPwlUuv94nOu"
@@ -3140,6 +3140,28 @@
       "duration_ms": 246840,
       "name": "Marionette\u306f\u7720\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/17ZVx1jFauGaIbhiFzKZTl"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 04",
+        "url": "https://open.spotify.com/album/6Mb1y1zYO6iaCNDe9TxAPg"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        },
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325546,
+      "name": "Melody in scape",
+      "url": "https://open.spotify.com/track/0c7XLmZm4rd9umh7GPsIZ5"
     },
     {
       "album": {
@@ -4534,7 +4556,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 251880,
       "name": "Super Lover",
       "url": "https://open.spotify.com/track/5CKZKAat1cJhMTRtSx2KJA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,180 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,191 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 99 | [Derrwut](https://open.spotify.com/track/4vAgnOJWXHwdgazdc0nKWi) | [Rogelio the IIIrd](https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve) | [Derritientes](https://open.spotify.com/album/4vA2p1432MoICzevvsHfUT) | 2:41 |
 | 100 | [Say What You Will](https://open.spotify.com/track/62sXIT6kAdOgcWqnhEZaRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 4:40 |
 
-Snapshot ID: `Z0Sl1AAAAABqjqv1fxpawv54HgUuLwGu`
+Snapshot ID: `Z240dwAAAAAOTR+zHnPEJLD4ibrsGkXi`

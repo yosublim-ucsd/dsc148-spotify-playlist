@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah, Alyssa Dezek
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,640 likes - 90 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,669 likes - 90 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HALU \- Acoustic Version](https://open.spotify.com/track/2HcOARrTPO9CyAXjfjAXMk) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Alyssa Dezek](https://open.spotify.com/artist/7riu7Nfn7JdCh57ib3lQM3) | [HALU \(Acoustic Version\)](https://open.spotify.com/album/2px1E2J7qVXumyHUT1duQ1) | 3:05 |
-| 2 | [Satu Satunya Permaisurimu](https://open.spotify.com/track/5NgfhMk8ToGK7lHYdZtQI9) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Satu Satunya Permaisurimu](https://open.spotify.com/album/6pJq4Rti7RbDvFiZzq4ISx) | 6:11 |
-| 3 | [Cinta Palsu](https://open.spotify.com/track/7BrsMnzb83KxyC8lvEzXqg) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky) | [IsDa](https://open.spotify.com/album/0ricRhNidM6AMUXeF0DATq) | 3:37 |
-| 4 | [Insan Yang Tersakiti \- Live Ska Reggae](https://open.spotify.com/track/0dV0JWMHsxGwAZyXclrpqy) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Insan Yang Tersakiti \(Live Ska Reggae\)](https://open.spotify.com/album/5MuojpLn88yFc9FFlKItlX) | 4:01 |
+| 1 | [Insan Yang Tersakiti \- Live Ska Reggae](https://open.spotify.com/track/0dV0JWMHsxGwAZyXclrpqy) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Insan Yang Tersakiti \(Live Ska Reggae\)](https://open.spotify.com/album/5MuojpLn88yFc9FFlKItlX) | 4:01 |
+| 2 | [HALU \- Acoustic Version](https://open.spotify.com/track/2HcOARrTPO9CyAXjfjAXMk) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Alyssa Dezek](https://open.spotify.com/artist/7riu7Nfn7JdCh57ib3lQM3) | [HALU \(Acoustic Version\)](https://open.spotify.com/album/2px1E2J7qVXumyHUT1duQ1) | 3:05 |
+| 3 | [Satu Satunya Permaisurimu](https://open.spotify.com/track/5NgfhMk8ToGK7lHYdZtQI9) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Satu Satunya Permaisurimu](https://open.spotify.com/album/6pJq4Rti7RbDvFiZzq4ISx) | 6:11 |
+| 4 | [Cinta Palsu](https://open.spotify.com/track/7BrsMnzb83KxyC8lvEzXqg) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky) | [IsDa](https://open.spotify.com/album/0ricRhNidM6AMUXeF0DATq) | 3:37 |
 | 5 | [Rela Demi Cinta](https://open.spotify.com/track/1mlJzleUYpAdtSRfXFliE9) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz) | [Rela Demi Cinta](https://open.spotify.com/album/2x19JpufFs12UgYHcC74z3) | 5:20 |
 | 6 | [Jangan Tanggung Tanggung \- Live Ska Reggae](https://open.spotify.com/track/0glpTL0L63qt1CrCNuyJRi) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Jangan Tanggung Tanggung \(Live Ska Reggae\)](https://open.spotify.com/album/35Ynip23CA1h0oVV7smcKR) | 6:09 |
 | 7 | [Tanda Bahaya Cinta](https://open.spotify.com/track/6TfkcpYnZ8ZG8wMvW5rU4k) | [Jirayut](https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd) | [Tanda Bahaya Cinta](https://open.spotify.com/album/44lB9hri6xlXug8Pt2TyW7) | 3:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 89 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 |
 | 90 | [Cuma Kamu](https://open.spotify.com/track/2QnaLtjWrC4UMMVU6IspOo) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu](https://open.spotify.com/album/7mrO78qasVB2HQ17sywB3u) | 4:04 |
 
-Snapshot ID: `Z22OBQAAAACLWKZ0YJqNxmHRQaht6f5P`
+Snapshot ID: `Z241BQAAAAAuytDn/rrYAw1o/fKEGmmJ`

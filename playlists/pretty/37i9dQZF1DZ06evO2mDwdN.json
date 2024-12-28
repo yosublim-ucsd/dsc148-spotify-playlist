@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 13146,
+  "num_followers": 13152,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAAC5Tl6mc7aqoWSdBhBaBsnu",
+  "snapshot_id": "Z2ycgAAAAAByiHAHZx6sk1mBiOIbbrfC",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 285666,
-      "name": "After You Love Me, Why Do You Leave Me",
-      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
+      "duration_ms": 221506,
+      "name": "Keep On Loving You",
+      "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 221506,
-      "name": "Keep On Loving You",
-      "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
+      "duration_ms": 285666,
+      "name": "After You Love Me, Why Do You Leave Me",
+      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 326333,
+      "name": "Introduction / The Love I Lost - Live",
+      "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -687,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
+        "url": "https://open.spotify.com/album/4vkZVNXRRoJeOtpePA1Bep"
       },
       "artists": [
         {
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 326333,
-      "name": "Introduction / The Love I Lost - Live",
-      "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
+      "duration_ms": 225666,
+      "name": "Ain't No Stoppin' Us Now - Rerecorded",
+      "url": "https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
-        "url": "https://open.spotify.com/album/4vkZVNXRRoJeOtpePA1Bep"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Ain't No Stoppin' Us Now - Rerecorded",
-      "url": "https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Album",
-        "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 361093,
-      "name": "Prayin'",
-      "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 498064,
       "name": "A House Is Not A Home - Live",
       "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue Album",
+        "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 361093,
+      "name": "Prayin'",
+      "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
     },
     {
       "added_at": null,
@@ -863,6 +863,62 @@
       "duration_ms": 182693,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 89091,
+      "name": "The Intruders Medley Introduction - Live",
+      "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Hot to Handle",
+        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "Hey Doc",
+      "url": "https://open.spotify.com/track/1SmaTS6pNebJa3Tf6e3gM9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 352786,
+      "name": "Your Love Is Taking Me On A Journey",
+      "url": "https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY"
     },
     {
       "added_at": null,
@@ -904,57 +960,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 89091,
-      "name": "The Intruders Medley Introduction - Live",
-      "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 352786,
-      "name": "Your Love Is Taking Me On A Journey",
-      "url": "https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Hot to Handle",
-        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 144586,
-      "name": "Hey Doc",
-      "url": "https://open.spotify.com/track/1SmaTS6pNebJa3Tf6e3gM9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Back With Love",
-        "url": "https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "Get Ready",
-      "url": "https://open.spotify.com/track/2NTixSlpJYRvcIngMbI6jm"
+      "duration_ms": 340859,
+      "name": "I Wanna Know Your Name - Live",
+      "url": "https://open.spotify.com/track/0vhOnAYQ0fLXqKpCtDFDDo"
     }
   ],
   "unique_name": "This Is Harold Melvin & The Blue Notes",

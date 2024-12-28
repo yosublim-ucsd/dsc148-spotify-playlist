@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e7\u05d5\u05ea\u05d9\u05de\u05d0\u05df ,\u05ea\u05d5\u05de\u05e8 \u05d9\u05d5\u05e1\u05e3 ",
-  "num_followers": 31077,
+  "num_followers": 31083,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-12-19 22:00:26",
       "album": {
-        "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
-        "url": "https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e"
-      },
-      "artists": [
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        },
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
-      "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
         "name": "\u05e9\u05de\u05e9 \u05d5\u05e2\u05e0\u05df",
         "url": "https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 187860,
       "name": "\u05e1\u05d1\u05ea\u05d0 \u05d7\u05e0\u05d4",
       "url": "https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
+        "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
+        "url": "https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e"
+      },
+      "artists": [
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        },
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
+      "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
     },
     {
       "added_at": "2024-12-19 22:00:26",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-12-19 22:00:26",
       "album": {
+        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
         "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
         "url": "https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 209651,
       "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
       "url": "https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
-        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        }
-      ],
-      "duration_ms": 362108,
-      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
     },
     {
       "added_at": "2024-12-19 22:00:26",
@@ -879,6 +879,26 @@
     {
       "added_at": "2024-12-19 22:00:26",
       "album": {
+        "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
+        "url": "https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        },
+        {
+          "name": "\u05e8\u05e2\u05e9 \u05dc\u05d1\u05df",
+          "url": "https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
+      "url": "https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
         "name": "\u05d0\u05d7\u05e8\u05d9 \u05d4\u05de\u05dc\u05d7\u05de\u05d4",
         "url": "https://open.spotify.com/album/3hnxWK87HgE49BoXrPhnZK"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 246093,
       "name": "\u05dc\u05d0 \u05de\u05d5\u05e6\u05d0 \u05e1\u05d9\u05d1\u05d5\u05ea",
       "url": "https://open.spotify.com/track/6Ngr0fyxWWQMGiQwF4ELs9"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
-        "name": "Bitter Moon - \u05d9\u200b\u05e8\u200b\u05d7 \u05de\u05e8",
-        "url": "https://open.spotify.com/album/14cViBa8h1qQTXKPwuUoiS"
-      },
-      "artists": [
-        {
-          "name": "Sababa 5",
-          "url": "https://open.spotify.com/artist/4MAzZqdLNuFniumG9Sbjiu"
-        },
-        {
-          "name": "Inbal Nur Dekel",
-          "url": "https://open.spotify.com/artist/4wvCC23R66HD61NZn2ogG0"
-        }
-      ],
-      "duration_ms": 256812,
-      "name": "Bitter Moon - \u05d9\u05e8\u05d7 \u05de\u05e8",
-      "url": "https://open.spotify.com/track/3FSLyEUXnmUKPJU93ACRdD"
     },
     {
       "added_at": "2024-12-19 22:00:26",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-12-19 22:00:26",
       "album": {
-        "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
-        "url": "https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        },
-        {
-          "name": "\u05e8\u05e2\u05e9 \u05dc\u05d1\u05df",
-          "url": "https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
-      "url": "https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
         "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
         "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 235000,
       "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
       "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
+        "name": "Bitter Moon - \u05d9\u200b\u05e8\u200b\u05d7 \u05de\u05e8",
+        "url": "https://open.spotify.com/album/14cViBa8h1qQTXKPwuUoiS"
+      },
+      "artists": [
+        {
+          "name": "Sababa 5",
+          "url": "https://open.spotify.com/artist/4MAzZqdLNuFniumG9Sbjiu"
+        },
+        {
+          "name": "Inbal Nur Dekel",
+          "url": "https://open.spotify.com/artist/4wvCC23R66HD61NZn2ogG0"
+        }
+      ],
+      "duration_ms": 256812,
+      "name": "Bitter Moon - \u05d9\u05e8\u05d7 \u05de\u05e8",
+      "url": "https://open.spotify.com/track/3FSLyEUXnmUKPJU93ACRdD"
     },
     {
       "added_at": "2024-12-19 22:00:26",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-12-19 22:00:26",
       "album": {
-        "name": "\u05dc\u05d9\u05df",
-        "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
+        "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO"
       },
       "artists": [
         {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
         }
       ],
-      "duration_ms": 195000,
-      "name": "\u05dc\u05d9\u05df",
-      "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
+      "duration_ms": 188987,
+      "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf"
     },
     {
       "added_at": "2024-12-19 22:00:26",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-12-19 22:00:26",
       "album": {
-        "name": "\u05d9\u05e0\u05d9\u05d1",
-        "url": "https://open.spotify.com/album/0ARNB2ea95YtPyljVOzh7Y"
+        "name": "\u05dc\u05d9\u05df",
+        "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
       },
       "artists": [
         {
-          "name": "Tomer Yeshayahu",
-          "url": "https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q"
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
         }
       ],
-      "duration_ms": 238867,
-      "name": "\u05d9\u05e0\u05d9\u05d1",
-      "url": "https://open.spotify.com/track/17x2UNi0ffC16WCvfw6Ysc"
+      "duration_ms": 195000,
+      "name": "\u05dc\u05d9\u05df",
+      "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

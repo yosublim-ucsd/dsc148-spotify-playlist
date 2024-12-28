@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158844,
+  "num_followers": 158835,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "De Peito Aberto",
-        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        }
-      ],
-      "duration_ms": 121429,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Me Acostumei - Dread Session, Vol. 1",
         "url": "https://open.spotify.com/album/1PcgusYCw8Sck5wPzL9vSP"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 186301,
       "name": "Me Acostumei - Dread Session, Vol. 1",
       "url": "https://open.spotify.com/track/573JkvQ34ID2a2u0oPxQs7"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "De Peito Aberto",
+        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "duration_ms": 121429,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Mapa Astral",
-        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
-      },
-      "artists": [
-        {
-          "name": "DoisZ",
-          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 193620,
-      "name": "Mapa Astral",
-      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 197067,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Mapa Astral",
+        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
+      },
+      "artists": [
+        {
+          "name": "DoisZ",
+          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "duration_ms": 193620,
+      "name": "Mapa Astral",
+      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/6rXsW9OocwyJBVdbZwwZQD"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Mais uma Chance",
         "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 183700,
       "name": "Mais uma Chance",
       "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -1043,6 +1027,22 @@
       "duration_ms": 228191,
       "name": "Bem Vindx \u00e0 Lyra",
       "url": "https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Mar Azul",
         "url": "https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 105600,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2024-12-13 16:52:22",

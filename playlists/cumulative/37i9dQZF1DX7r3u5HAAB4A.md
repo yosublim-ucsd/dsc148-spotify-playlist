@@ -4,11 +4,12 @@
 
 > A melting pot of Caribbean culture\. Cover: <a href="spotify:artist:62DmErcU7dqZbJaDqwsqzR">Popcaan</a>
 
-119 songs - 5 hr 56 min
+120 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 | 2024-10-25 |  |
+| [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-12-27 |  |
 | [Agua \(with Naïka\)](https://open.spotify.com/track/1lJsmnUnoQ7ylhWrr8HjQb) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Agua \(with Naïka\)](https://open.spotify.com/album/7fDmXJb3LpyezysooxEbpS) | 2:40 | 2024-08-29 |  |
 | [All Dem Try](https://open.spotify.com/track/7zoSUomkN4Xqgs4XP8JqZD) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [All Dem Try](https://open.spotify.com/album/0II4oqp5kJKf7Cs9UjR7DZ) | 3:32 | 2024-11-08 |  |
 | [ARCH](https://open.spotify.com/track/3bEhYkwhzikzwnTKLqOudB) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [ARCH](https://open.spotify.com/album/0i2e6LS9xQwQ2oSvQfOHUl) | 2:34 | 2024-08-29 |  |
@@ -17,7 +18,7 @@
 | [Big Breeze](https://open.spotify.com/track/47vPEw8FnntQ087qLi2Js9) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Big Breeze](https://open.spotify.com/album/627rVdmoUwqOiVwfuvN4md) | 3:03 | 2024-08-29 |  |
 | [Big Stage](https://open.spotify.com/track/0oWwOA1NLjpJ1AZRmU9S9o) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Big Stage](https://open.spotify.com/album/3EeiCbgd5kVTvSBXNRDEf2) | 2:51 | 2024-08-29 | 2024-09-14 |
 | [Blanco](https://open.spotify.com/track/2NE0I2CXMjtpdkYcKBApkw) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Blanco](https://open.spotify.com/album/5wipl5SX7zjoFaPsGSsYUX) | 2:53 | 2024-12-06 |  |
-| [Blind](https://open.spotify.com/track/7IKh3TGYjnFbatKxvsq5lB) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Saga Boy](https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM) | 3:16 | 2024-08-29 |  |
+| [Blind](https://open.spotify.com/track/7IKh3TGYjnFbatKxvsq5lB) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Saga Boy](https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM) | 3:16 | 2024-08-29 | 2024-12-28 |
 | [Boom \(feat\. Tokischa\)](https://open.spotify.com/track/0OCdChh8IoBCIm3kVGY3GN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Boom \(feat\. Tokischa\)](https://open.spotify.com/album/4Liw2H1qC6Nq3ojx8wQBOB) | 2:12 | 2024-08-29 |  |
 | [Brain Freeze](https://open.spotify.com/track/5h7UTFQiHqJxK7lLzMnS6S) | [Leadpipe](https://open.spotify.com/artist/1AkeQ2eSrkcRQmaGGa5EAY), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V) | [Brain Freeze](https://open.spotify.com/album/7Aej7C4X2G1TcuIdCe6i9j) | 3:28 | 2024-08-29 |  |
 | [Bring It](https://open.spotify.com/track/16ibXHvBc5Ahikg0qhcuVi) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Bring It](https://open.spotify.com/album/48WRCIKE9nz0txvGdVOnGE) | 2:50 | 2024-09-17 |  |

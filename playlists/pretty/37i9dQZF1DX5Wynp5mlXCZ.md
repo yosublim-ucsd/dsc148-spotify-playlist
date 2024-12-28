@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Jerry Heil
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,614 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,657 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 21 | [mafia](https://open.spotify.com/track/0OJRzFVYPpLJ5hsTfhloBQ) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [mafia](https://open.spotify.com/album/2S7KugySi40sSRnGGjWgX4) | 2:45 |
 | 22 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
 | 23 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
-| 24 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
+| 24 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
 | 25 | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC) | 3:02 |
-| 26 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
+| 26 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 27 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 28 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 29 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 43 | [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 |
 | 44 | [Мистецтво](https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Мистецтво](https://open.spotify.com/album/0GmCo64twAspf4ebGkYygD) | 2:22 |
 | 45 | [Білі ночі](https://open.spotify.com/track/2A24AcV0HFyZXLvjkRaGJs) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Білі ночі](https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas) | 2:50 |
-| 46 | [ГУБИ У ГУБАХ](https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ГУБИ У ГУБАХ](https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ) | 2:39 |
-| 47 | [Нижча зростом](https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Під гітару](https://open.spotify.com/album/1GHEI18cT74G1gtwvEkI8J) | 2:59 |
+| 46 | [Нижча зростом](https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Під гітару](https://open.spotify.com/album/1GHEI18cT74G1gtwvEkI8J) | 2:59 |
+| 47 | [ГУБИ У ГУБАХ](https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ГУБИ У ГУБАХ](https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ) | 2:39 |
 | 48 | [А я все плакала](https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [LEBIGA](https://open.spotify.com/artist/5QFYXpPnIZPu2OSD9n8BVN) | [А я все плакала](https://open.spotify.com/album/5SBkXFqymV5QTNBWbozv0z) | 2:30 |
 | 49 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
 | 50 | [Ліфт](https://open.spotify.com/track/7yk4zXXeXGtRrZKvWSOWhT) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg), [Нікіта Кісельов](https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp) | [Ліфт](https://open.spotify.com/album/3VlwiDK6GKqvukwECg6qoG) | 3:34 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 67 | [Що ти наробила](https://open.spotify.com/track/09wwxRJurrzTPZDoomn6bB) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Лірика](https://open.spotify.com/album/3HuR9wpNnz0Xu17RXm5OuD) | 2:50 |
 | 68 | [Каланхое](https://open.spotify.com/track/4YgV3rfa56cZaxJm3zsyB2) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [Pozdniakov](https://open.spotify.com/artist/69c9d1s70PiMSiJPMrLxpa) | [Каланхое](https://open.spotify.com/album/1nq5GccsxAwC7OB3dEHgxx) | 3:06 |
 | 69 | [Лілії](https://open.spotify.com/track/7u7rNKlamHbQtheoIWHaHx) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Лілії](https://open.spotify.com/album/7iPyDgnEhfCliTHyIsaOwW) | 2:41 |
-| 70 | [На самоті](https://open.spotify.com/track/63tLykrWEz9LzOCBeYKFhS) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [На самоті](https://open.spotify.com/album/5Uy1181hlFhtb2NRAiF3Ge) | 2:11 |
+| 70 | [Сутінки](https://open.spotify.com/track/7v8DeFAYHbfdRZjnlZEv3n) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Сонь, ти спиш?](https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d) | 3:36 |
 
 Snapshot ID: `Z2SXeQAAAABDs58JzKxw5X9j9NHtt/v9`

@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 258202,
+  "num_followers": 258300,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -971,18 +971,22 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Adivinha A\u00ed",
-        "url": "https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj"
+        "name": "Vazou um \u00c1udio (Ao Vivo No Casa Filtr)",
+        "url": "https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         }
       ],
-      "duration_ms": 156315,
-      "name": "Adivinha A\u00ed",
-      "url": "https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY"
+      "duration_ms": 151805,
+      "name": "Vazou um \u00c1udio - Ao Vivo No Casa Filtr",
+      "url": "https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1007,22 +1011,18 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Vazou um \u00c1udio (Ao Vivo No Casa Filtr)",
-        "url": "https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP"
+        "name": "Adivinha A\u00ed",
+        "url": "https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj"
       },
       "artists": [
         {
-          "name": "Avine Vinny",
-          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
         }
       ],
-      "duration_ms": 151805,
-      "name": "Vazou um \u00c1udio - Ao Vivo No Casa Filtr",
-      "url": "https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI"
+      "duration_ms": 156315,
+      "name": "Adivinha A\u00ed",
+      "url": "https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Solinho Descarado",
-        "url": "https://open.spotify.com/album/5GC3ChRFuMkVaxAsXS1QeE"
-      },
-      "artists": [
-        {
-          "name": "Pedrinho Pega\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/1gIUJHUm50CJDBoM6IEDWc"
-        }
-      ],
-      "duration_ms": 114562,
-      "name": "Solinho Descarado",
-      "url": "https://open.spotify.com/track/1HrO8PCLTC6YWnSvePsKit"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
         "name": "Rol\u00ea De Milh\u00f5es",
         "url": "https://open.spotify.com/album/3g6g4ypWPpVqSzkmrth4E0"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 166875,
       "name": "Me Apaixonei Me Apeguei - Ao Vivo",
       "url": "https://open.spotify.com/track/4sCVm7tnUCYmuYaKZLxLVB"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Solinho Descarado",
+        "url": "https://open.spotify.com/album/5GC3ChRFuMkVaxAsXS1QeE"
+      },
+      "artists": [
+        {
+          "name": "Pedrinho Pega\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/1gIUJHUm50CJDBoM6IEDWc"
+        }
+      ],
+      "duration_ms": 114562,
+      "name": "Solinho Descarado",
+      "url": "https://open.spotify.com/track/1HrO8PCLTC6YWnSvePsKit"
     },
     {
       "added_at": "2024-07-08 18:11:31",

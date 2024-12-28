@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > Songs from an iconic era of Black film and TV soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086,576 likes - 55 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,086,611 likes - 55 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 54 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 |
 | 55 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 |
 
-Snapshot ID: `ZoLUewAAAAB+EDF9rwkMF080xk6gsycZ`
+Snapshot ID: `Z27zMwAAAADjbJElga1p0CmqLJJy72HL`

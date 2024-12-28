@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 ### [New Music Friday Canada](https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F)
 
-> New music from Burna Boy, SZA, ThxSoMuch, d4vd, TOBi and more.
+> We'll be back in 2025..\. Happy New Year!
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,226 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,374 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 49 | [Shine \(The Clerical Debut of a Vile Hero\)](https://open.spotify.com/track/5Vefo9bb3SfMyMdVXYjm9V) | [J\. Hutton](https://open.spotify.com/artist/5vh43dR2cVUqLp61pzFcNm) | [Paradise](https://open.spotify.com/album/5yF29fs7f9jE26D3RBm7qa) | 2:28 |
 | 50 | [Tokyo](https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [DEEPER](https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL) | 4:18 |
 
-Snapshot ID: `Z2XMzAAAAAAPEjSfTtrgBdUMBsBkjOMH`
+Snapshot ID: `Z240fgAAAAA1gFY6kxrPMgD7B45X5o/2`

@@ -4,7 +4,7 @@
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-74 songs - 6 hr 1 min
+75 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [My Favorite Person](https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:15 | 2022-05-25 |  |
 | [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:41 | 2022-05-25 |  |
 | [One In A Million \(Girl\)](https://open.spotify.com/track/6VDu4P6HcEhOw91rSVxixk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 3:53 | 2022-05-25 | 2022-10-13 |
-| [One Night Affair](https://open.spotify.com/track/50KfjOUY5oRlFpWRzhtIKY) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:18 | 2022-10-12 |  |
+| [One Night Affair](https://open.spotify.com/track/50KfjOUY5oRlFpWRzhtIKY) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:18 | 2022-10-12 | 2024-12-28 |
 | [People Keep Tellin' Me](https://open.spotify.com/track/23zcctQcy5iglNa4W93ChD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 3:58 | 2022-05-27 | 2024-06-01 |
 | [Put Our Heads Together](https://open.spotify.com/track/0pukPFDJHfirD3pebGYL1a) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [When Will I See You Again](https://open.spotify.com/album/1oOMRwM09IKQwzydqUm4x1) | 5:40 | 2022-05-25 |  |
 | [Put Your Hands Together](https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:07 | 2022-05-25 |  |
@@ -61,6 +61,7 @@
 | [Shiftless, Shady, Jealous Kind of People](https://open.spotify.com/track/03oob3RtQLmaAoCWFH0Zj2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:35 | 2022-07-09 | 2022-07-11 |
 | [Ship Ahoy](https://open.spotify.com/track/5GTd3l7ShrGaziT7kvnNnj) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 9:37 | 2022-05-25 |  |
 | [Sing A Happy Song](https://open.spotify.com/track/3HsBtrErYQjxf4Pv2p05Oy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 4:59 | 2022-05-25 |  |
+| [Sing My Heart Out](https://open.spotify.com/track/6M5m3FQlVVhblfSUUv4UbN) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:24 | 2024-12-28 |  |
 | [Stairway to Heaven](https://open.spotify.com/track/0lsEQBuB5lkHZAQ1Pu7K7t) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:16 | 2022-05-25 |  |
 | [Start Stoppin'](https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Last Word](https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt) | 4:09 | 2023-12-13 |  |
 | [Start Stoppin'](https://open.spotify.com/track/49x3dOAz0FTHm4zWr9c3NW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Start Stoppin'](https://open.spotify.com/album/5guZFRRaJI4Na5vSvMB2nE) | 4:09 | 2022-05-25 | 2023-12-14 |

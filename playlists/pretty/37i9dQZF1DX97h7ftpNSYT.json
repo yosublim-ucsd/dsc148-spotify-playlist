@@ -1,32 +1,40 @@
 {
   "description": "Taking it back to the 2010s. Cover: Chief Keef",
-  "num_followers": 341896,
+  "num_followers": 341935,
   "original_name": "2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxqJYwAAAADXaSCvNc7KDU29ZyF5IMf8",
+  "snapshot_id": "Z29HPwAAAACOVl2wW9oY3JbI/aVc/37P",
   "tracks": [
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 386906,
-      "name": "Money Trees",
-      "url": "https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o"
+      "duration_ms": 329320,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -43,22 +51,6 @@
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Back from the Dead 2",
-        "url": "https://open.spotify.com/album/4ofXNc9mk1eIeXSqHoYd1h"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 206654,
-      "name": "Faneto",
-      "url": "https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -103,30 +95,54 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv"
+        "name": "Back from the Dead 2",
+        "url": "https://open.spotify.com/album/4ofXNc9mk1eIeXSqHoYd1h"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         }
       ],
-      "duration_ms": 329320,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2"
+      "duration_ms": 206654,
+      "name": "Faneto",
+      "url": "https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h"
+    },
+    {
+      "added_at": "2024-12-28 00:33:02",
+      "album": {
+        "name": "U Guessed It - Single",
+        "url": "https://open.spotify.com/album/6l64G9syOrb21VIigX06oQ"
+      },
+      "artists": [
+        {
+          "name": "OG Maco",
+          "url": "https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu"
+        }
+      ],
+      "duration_ms": 146064,
+      "name": "U Guessed It",
+      "url": "https://open.spotify.com/track/4UUFTQKwwId0n1P9t4ZQhx"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -155,22 +171,6 @@
       "duration_ms": 298866,
       "name": "I'm On One",
       "url": "https://open.spotify.com/track/1shcX6tiTCzNcJ3dfuf3kM"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 346906,
-      "name": "Codeine Crazy",
-      "url": "https://open.spotify.com/track/0joQFwiBKmi6X1Iq5R1ubH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 189322,
       "name": "Bandit (with YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/1oWM79mUVdZGCGYjSirHZR"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Cilvia Demo",
-        "url": "https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 167276,
-      "name": "West Savannah (feat. SZA)",
-      "url": "https://open.spotify.com/track/0Gt4nGWoATcQFL38a1NRao"
+      "duration_ms": 346906,
+      "name": "Codeine Crazy",
+      "url": "https://open.spotify.com/track/0joQFwiBKmi6X1Iq5R1ubH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1339,18 +1335,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Slime Season 3",
-        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
+        "name": "Cilvia Demo",
+        "url": "https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 176386,
-      "name": "Digits",
-      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
+      "duration_ms": 167276,
+      "name": "West Savannah (feat. SZA)",
+      "url": "https://open.spotify.com/track/0Gt4nGWoATcQFL38a1NRao"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1371,6 +1371,22 @@
       "duration_ms": 276147,
       "name": "Walk It Talk It",
       "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Slime Season 3",
+        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Digits",
+      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Ladders",
-      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -1647,6 +1647,22 @@
       "duration_ms": 203093,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Ladders",
+      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 313786,
-      "name": "Swimming Pools (Drank) - Extended Version",
-      "url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Oxymoron (Deluxe)",
         "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
@@ -1851,22 +1851,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 193026,
-      "name": "Hot (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
+      "duration_ms": 313786,
+      "name": "Swimming Pools (Drank) - Extended Version",
+      "url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
     }
   ],
   "unique_name": "2010s Hip-Hop",

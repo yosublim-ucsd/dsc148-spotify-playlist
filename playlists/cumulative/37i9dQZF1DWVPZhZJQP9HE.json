@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 186352,
       "name": "Aasa Malli",
       "url": "https://open.spotify.com/track/1RYMjs2HX9rVIcM5AjueRt"
@@ -2410,7 +2410,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 204000,
       "name": "En Rant Ah Konjam Kelu - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/6OzhuQavVFIz1sZEpQWCw1"
@@ -6552,7 +6552,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 221714,
       "name": "Mayilu",
       "url": "https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB"
@@ -10668,6 +10668,28 @@
       "duration_ms": 202285,
       "name": "Serithaana",
       "url": "https://open.spotify.com/track/5cdUR8s0paGuX4G2qANUeu"
+    },
+    {
+      "album": {
+        "name": "Sevaazhai Singaari",
+        "url": "https://open.spotify.com/album/2x6Ve5oNsgdpqdt81o7Wnn"
+      },
+      "artists": [
+        {
+          "name": "Kumarameera",
+          "url": "https://open.spotify.com/artist/64QydSrDobJkooxMbtHpK9"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334440,
+      "name": "Sevaazhai Singaari",
+      "url": "https://open.spotify.com/track/35AnE0YHGAqpDk5HGaXj72"
     },
     {
       "album": {

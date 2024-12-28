@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 338 likes - 242 songs - 14 hr 10 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 338 likes - 243 songs - 14 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,5 +250,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 240 | [Iced Hearts](https://open.spotify.com/track/1OQmASmbZktMZIwC5poBVF) | [Petsmpi](https://open.spotify.com/artist/3jJsiA3cTxnvjE0G7ihxLc), [KVSTET](https://open.spotify.com/artist/606IuW05n19DWODtW9jbWo) | [Iced Hearts](https://open.spotify.com/album/4G7z4z4xE1L1vog3tkm5XN) | 2:29 |
 | 241 | [Hotline Miami](https://open.spotify.com/track/7rVsTCiWipGrihR04yNb07) | [LORDEHILL](https://open.spotify.com/artist/5yISVi5vctUp9kcCSsvccs) | [Redemption](https://open.spotify.com/album/0zqQKRQIVWsPqCF4C3s5aZ) | 3:12 |
 | 242 | [strange places](https://open.spotify.com/track/3tNoN9RQFDgspAgREXVXeF) | [EMGX](https://open.spotify.com/artist/0fZsTsrLwONPhMzjwCwS8W) | [strange places](https://open.spotify.com/album/6eqNJI63t741nhPVoXHapf) | 2:16 |
+| 243 | [Six Speed](https://open.spotify.com/track/2OwTE82zjaKvfof9MCMj1S) | [MIRAJ](https://open.spotify.com/artist/46vHnBJYdPDQDkSjegluG4) | [Six Speed](https://open.spotify.com/album/6oKGc5saiJohI9J4v8HfK0) | 2:12 |
 
-Snapshot ID: `AAABAn8MGGkcroYIJSam4DnDuCWBalt7`
+Snapshot ID: `AAABAzUlze7DyZ9UfcFWY7Ss9tPKbno7`

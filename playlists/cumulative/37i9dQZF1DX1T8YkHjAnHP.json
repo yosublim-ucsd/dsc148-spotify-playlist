@@ -699,6 +699,28 @@
     },
     {
       "album": {
+        "name": "Tied Up",
+        "url": "https://open.spotify.com/album/4DYw4a7yGdjrIIj9YhQRVG"
+      },
+      "artists": [
+        {
+          "name": "Leo Bakiri",
+          "url": "https://open.spotify.com/artist/2blW6dT2ezbxq0ovxGQ53z"
+        },
+        {
+          "name": "Tim Parelias",
+          "url": "https://open.spotify.com/artist/0j31sw62LHN8ii4kb7loRc"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386000,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/5dQCmQQd5TPSUeFqELhSgF"
+    },
+    {
+      "album": {
         "name": "Inconformisme EP",
         "url": "https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy"
       },
@@ -3946,6 +3968,24 @@
       "duration_ms": 395680,
       "name": "They Frontin' - 2023 Remastered Version",
       "url": "https://open.spotify.com/track/3VfIHtCtTWJq1pgd4pQrmT"
+    },
+    {
+      "album": {
+        "name": "Tied Up",
+        "url": "https://open.spotify.com/album/4DYw4a7yGdjrIIj9YhQRVG"
+      },
+      "artists": [
+        {
+          "name": "Tim Parelias",
+          "url": "https://open.spotify.com/artist/0j31sw62LHN8ii4kb7loRc"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388000,
+      "name": "Tied Up",
+      "url": "https://open.spotify.com/track/19vXShWU8JExw8Q9EUU1nX"
     },
     {
       "album": {

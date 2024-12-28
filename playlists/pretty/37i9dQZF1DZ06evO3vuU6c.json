@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1415022,
+  "num_followers": 1415157,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAADEMBvuD9JuT1Vj8XzmKsUz",
+  "snapshot_id": "Z2ycgAAAAABR/3qDzdVmeEHPzs33LZCA",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mon coeur avait raison",
+        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Je te pardonne (feat. Sia) - Pilule bleue",
+      "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's Life (feat. Mac Miller & Sia)",
         "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
@@ -651,42 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon coeur avait raison",
-        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Je te pardonne (feat. Sia) - Pilule bleue",
-      "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "San Andreas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2dI9CqM7hsrg2g8HbrnAES"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/1QzIPFcpaapCryW5wRsgU4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Andreas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2dI9CqM7hsrg2g8HbrnAES"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/1QzIPFcpaapCryW5wRsgU4"
     },
     {
       "added_at": null,

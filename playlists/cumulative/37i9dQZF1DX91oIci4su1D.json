@@ -18187,6 +18187,24 @@
     },
     {
       "album": {
+        "name": "Sugarphoria",
+        "url": "https://open.spotify.com/album/7k4moiK12J18IGGYUVKy26"
+      },
+      "artists": [
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233043,
+      "name": "Sugarphoria",
+      "url": "https://open.spotify.com/track/7hT5j60wxz2u9INdnY5FOM"
+    },
+    {
+      "album": {
         "name": "Believe In Magic",
         "url": "https://open.spotify.com/album/0JcJNBvig3TgsUNJsM3YIY"
       },

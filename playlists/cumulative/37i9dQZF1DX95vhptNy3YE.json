@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Mericia e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
+  "description": "Turma do Pagode e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
   "tracks": [
     {
@@ -5961,6 +5961,24 @@
     },
     {
       "album": {
+        "name": "Mixturadin 3 - Vol. 2",
+        "url": "https://open.spotify.com/album/32fYls29AbB59cgAopGyIW"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182924,
+      "name": "Hoje \u00e9 Dia - Ao Vivo",
+      "url": "https://open.spotify.com/track/0d6x5YscwaTvZ11cwMt7e5"
+    },
+    {
+      "album": {
         "name": "Homenagem aos Reliquias 5.0",
         "url": "https://open.spotify.com/album/3Eyjgtt5cxuUnpaH4Z7lSY"
       },
@@ -9396,7 +9414,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 93377,
       "name": "Nuvem de Testemunhas - Spotify Singles",
       "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"

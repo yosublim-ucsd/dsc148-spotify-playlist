@@ -1,6 +1,6 @@
 {
   "description": "\u808c\u5bd2\u3044\u65e5\u3005\u3092\u5c11\u3057\u3060\u3051\u6696\u3081\u308b\u3088\u3046\u306a\u51ac\u306e\u540d\u66f2\u305f\u3061\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\n",
-  "num_followers": 23021,
+  "num_followers": 23066,
   "original_name": "Winter is Here #\u771f\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-12-25 07:46:24",
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 222934,
-      "name": "My Red Little Fox",
-      "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
-    },
-    {
-      "added_at": "2024-12-25 07:46:24",
-      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 216706,
       "name": "escape",
       "url": "https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW"
+    },
+    {
+      "added_at": "2024-12-25 07:46:24",
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 222934,
+      "name": "My Red Little Fox",
+      "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
     },
     {
       "added_at": "2024-12-25 07:46:24",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-12-25 07:46:24",
       "album": {
+        "name": "\u305d\u3046\u304b\u306a",
+        "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
+      },
+      "artists": [
+        {
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "\u307e\u3063\u767d",
+      "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
+    },
+    {
+      "added_at": "2024-12-25 07:46:24",
+      "album": {
         "name": "Kiss Me, Winter",
         "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 178700,
       "name": "Present",
       "url": "https://open.spotify.com/track/6haW837EW4wauotPmhUVAM"
-    },
-    {
-      "added_at": "2024-12-25 07:46:24",
-      "album": {
-        "name": "\u305d\u3046\u304b\u306a",
-        "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
-      },
-      "artists": [
-        {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "\u307e\u3063\u767d",
-      "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
     },
     {
       "added_at": "2024-12-25 07:46:24",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-12-25 07:46:24",
       "album": {
-        "name": "\u00datdautt lag",
-        "url": "https://open.spotify.com/album/0oR164CmvsVSVENz3p5GK5"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 220403,
-      "name": "\u00datdautt lag",
-      "url": "https://open.spotify.com/track/4c2ZfeVn6yfmRGG0Iox06s"
-    },
-    {
-      "added_at": "2024-12-25 07:46:24",
-      "album": {
         "name": "\u3007",
         "url": "https://open.spotify.com/album/0SUDbLjaTOjHJFgzovopXr"
       },
@@ -1111,22 +1095,18 @@
     {
       "added_at": "2024-12-25 07:46:24",
       "album": {
-        "name": "Bubble (feat. Aile The Shota)",
-        "url": "https://open.spotify.com/album/0L0DZdZY2GP059hnQBQtAq"
+        "name": "\u00datdautt lag",
+        "url": "https://open.spotify.com/album/0oR164CmvsVSVENz3p5GK5"
       },
       "artists": [
         {
-          "name": "Snowk",
-          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
-        },
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
         }
       ],
-      "duration_ms": 214367,
-      "name": "Bubble (feat. Aile The Shota)",
-      "url": "https://open.spotify.com/track/2pS0uXME0iY4gMDf1WULpQ"
+      "duration_ms": 220403,
+      "name": "\u00datdautt lag",
+      "url": "https://open.spotify.com/track/4c2ZfeVn6yfmRGG0Iox06s"
     },
     {
       "added_at": "2024-12-25 07:46:24",
@@ -1147,6 +1127,26 @@
       "duration_ms": 161979,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/5nQ6kRjN3AwFL1DYrqHQQ5"
+    },
+    {
+      "added_at": "2024-12-25 07:46:24",
+      "album": {
+        "name": "Bubble (feat. Aile The Shota)",
+        "url": "https://open.spotify.com/album/0L0DZdZY2GP059hnQBQtAq"
+      },
+      "artists": [
+        {
+          "name": "Snowk",
+          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "duration_ms": 214367,
+      "name": "Bubble (feat. Aile The Shota)",
+      "url": "https://open.spotify.com/track/2pS0uXME0iY4gMDf1WULpQ"
     },
     {
       "added_at": "2024-12-25 07:46:24",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-12-25 07:46:24",
       "album": {
-        "name": "winter again",
-        "url": "https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa"
-      },
-      "artists": [
-        {
-          "name": "4s4ki",
-          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
-        }
-      ],
-      "duration_ms": 274017,
-      "name": "winter again",
-      "url": "https://open.spotify.com/track/6UUkpz0afWxT3G4jJQU6cZ"
-    },
-    {
-      "added_at": "2024-12-25 07:46:24",
-      "album": {
         "name": "HOME EP",
         "url": "https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF"
       },
@@ -1247,22 +1231,6 @@
     {
       "added_at": "2024-12-25 07:46:24",
       "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/7xva8uQYcEF2ASVNdqtcha"
-      },
-      "artists": [
-        {
-          "name": "ISSA",
-          "url": "https://open.spotify.com/artist/7Lv8GRenhn7wtrjQurHznx"
-        }
-      ],
-      "duration_ms": 327735,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/7tljcwqdMTAHDVZ86vLE2m"
-    },
-    {
-      "added_at": "2024-12-25 07:46:24",
-      "album": {
         "name": "Winter Love...",
         "url": "https://open.spotify.com/album/2UqirrlCBYWpEhsiv2P0p5"
       },
@@ -1275,6 +1243,38 @@
       "duration_ms": 217750,
       "name": "Winter Love...",
       "url": "https://open.spotify.com/track/1lkVi97uiZjUi04HPqu3Wc"
+    },
+    {
+      "added_at": "2024-12-25 07:46:24",
+      "album": {
+        "name": "winter again",
+        "url": "https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "duration_ms": 274017,
+      "name": "winter again",
+      "url": "https://open.spotify.com/track/6UUkpz0afWxT3G4jJQU6cZ"
+    },
+    {
+      "added_at": "2024-12-25 07:46:24",
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/7xva8uQYcEF2ASVNdqtcha"
+      },
+      "artists": [
+        {
+          "name": "ISSA",
+          "url": "https://open.spotify.com/artist/7Lv8GRenhn7wtrjQurHznx"
+        }
+      ],
+      "duration_ms": 327735,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/7tljcwqdMTAHDVZ86vLE2m"
     },
     {
       "added_at": "2024-12-25 07:46:24",

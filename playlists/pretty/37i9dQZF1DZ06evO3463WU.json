@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 149773,
+  "num_followers": 149813,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAACox3iidj0bYdH2OmDus8pX",
+  "snapshot_id": "Z2ycgAAAAACXXqsbiJjQSaC56Sp1OG0P",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luchar\u00e9 Por Ti",
-        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Luchar\u00e9 Por Ti",
-      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 234093,
       "name": "Mi Enemigo El Amor - En Vivo",
       "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luchar\u00e9 Por Ti",
+        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Luchar\u00e9 Por Ti",
+      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 185736,
-      "name": "De Frente Al Mar",
-      "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
+      "duration_ms": 213774,
+      "name": "Por Amor Y Fe",
+      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 213774,
-      "name": "Por Amor Y Fe",
-      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
+      "duration_ms": 185736,
+      "name": "De Frente Al Mar",
+      "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
     },
     {
       "added_at": null,

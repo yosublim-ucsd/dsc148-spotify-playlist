@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2588586,
+  "num_followers": 2588550,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "GO OFF!",
-        "url": "https://open.spotify.com/album/7y9Mkw8lpYZ6NolcbEL1oI"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Harvey",
-          "url": "https://open.spotify.com/artist/137IOw31ZNn88coEW3Ypt5"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "GO OFF!",
-      "url": "https://open.spotify.com/track/7vSqoQEAHPeRESwGgaZwGO"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Brain Busta",
         "url": "https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 139805,
       "name": "Old School",
       "url": "https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "GO OFF!",
+        "url": "https://open.spotify.com/album/7y9Mkw8lpYZ6NolcbEL1oI"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Harvey",
+          "url": "https://open.spotify.com/artist/137IOw31ZNn88coEW3Ypt5"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "GO OFF!",
+      "url": "https://open.spotify.com/track/7vSqoQEAHPeRESwGgaZwGO"
     },
     {
       "added_at": "2024-12-13 05:00:32",

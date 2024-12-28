@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. OPYI en portada.
 
-331 songs - 15 hr 38 min
+333 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,9 @@
 | [Fake Love](https://open.spotify.com/track/26sLvDjUnS66EPOAV8pErE) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf) | [Fake Love](https://open.spotify.com/album/2cwWveZjROmcFs7gtB9qvn) | 2:54 | 2024-07-26 |  |
 | [Fashion Luv](https://open.spotify.com/track/1bYGyj9s8QPkWXDyFb8Wrt) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Kidd Manny](https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8), [Lee Kartiér](https://open.spotify.com/artist/6ulmJpFaIN3hwRf925AnXi) | [Fashion Luv](https://open.spotify.com/album/02n7xATM34AtXmD43Rq9z6) | 3:21 | 2024-02-09 |  |
 | [FEELS](https://open.spotify.com/track/6RGdDpSNjWq4DbOJnGJeEW) | [Lil Ziphe](https://open.spotify.com/artist/5gKNOrBwEkdK7jhGqnSYWW) | [FEELS](https://open.spotify.com/album/17ux7m5smmNvDfwhPKmHWl) | 2:11 | 2023-12-01 | 2024-05-18 |
+| [Ferragamo](https://open.spotify.com/track/5ihdLIpOc4zgTRTVar1xN4) | [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Ferragamo](https://open.spotify.com/album/0jLU2VTNMurRMFhvmZZf25) | 2:31 | 2024-12-27 |  |
 | [Ferragamo](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ferragamo](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 | 2023-06-09 |  |
+| [FIDG](https://open.spotify.com/track/5Hc8HfWXbBv6XLKxK0XQVd) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Shroom](https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG) | [Trufas \(Deluxe Version\)](https://open.spotify.com/album/3QceyMAL3KlXG5mCCiRFgJ) | 2:48 | 2024-12-27 |  |
 | [Flight 0006](https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0006](https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb) | 3:17 | 2023-06-09 | 2023-07-01 |
 | [Flight 0009](https://open.spotify.com/track/0T60QrLjC67kLuSqUIwllu) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Flight 0009](https://open.spotify.com/album/25Hj5JbCzBpUWqPJwOUQ2S) | 2:46 | 2023-06-30 |  |
 | [Flight 0012](https://open.spotify.com/track/1BSCXxXQNrneoZmlUwkcmb) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf) | [Flight 0012](https://open.spotify.com/album/6NxCjpdKyFvlx62W04vpEI) | 2:15 | 2023-12-01 | 2024-05-28 |

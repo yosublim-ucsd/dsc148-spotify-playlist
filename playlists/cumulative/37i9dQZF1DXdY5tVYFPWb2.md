@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-869 songs - 2 day 9 hr 16 min
+870 songs - 2 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/track/40DhQ5cNina0ZMeS8GMC8O) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/album/1eyxkpJPEvXdJ3puCYac8u) | 3:44 | 2024-08-21 |  |
 | [Lively Christmas](https://open.spotify.com/track/53DGlr6zHEfNFQV4719Wsd) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/4XRSy18v6qt4iAzmqc9rXi) | 3:18 | 2023-11-21 | 2023-12-14 |
 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 | 2023-03-30 | 2023-04-05 |
+| [Lonely One](https://open.spotify.com/track/5F5P9HHegA1dSyoRaZvYaf) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [分離派の夏](https://open.spotify.com/album/2VoiEyYHs8DJvDZFa5IPi2) | 4:39 | 2024-09-25 |  |
 | [long island iced tea](https://open.spotify.com/track/65odcT5IsIASZI5sRmXlhQ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [long island iced tea](https://open.spotify.com/album/6PmL0VtPsbrOg5w4U6J8VJ) | 3:18 | 2023-08-29 | 2023-11-11 |
 | [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 | 2024-04-16 |  |
 | [LOOP](https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 5:05 | 2023-11-10 | 2024-04-19 |
@@ -625,7 +626,7 @@
 | [つむぐように \(Twiny\)](https://open.spotify.com/track/39leepccRwzzJZi76sK3GS) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [つむぐように \(Twiny\)](https://open.spotify.com/album/0XlGIOzcJRlQxvksyHic0o) | 3:54 | 2022-10-04 | 2022-10-12 |
 | [どうして髭を？](https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [どうして髭を？](https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2) | 3:18 | 2024-02-27 | 2024-04-05 |
 | [どうしようもないな](https://open.spotify.com/track/1x5oci0p8t6ZLm5TRZgKHo) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [Beats In The Morning](https://open.spotify.com/album/6HJLe4bBHR4BHPnVBSMmcA) | 4:35 | 2022-06-30 | 2022-07-27 |
-| [ねぐせ](https://open.spotify.com/track/2ZWvzYy2iWIpCDlYHuJKih) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw), [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [ねぐせ](https://open.spotify.com/album/1tXsfWmwLT0UpUtD1lf09K) | 3:38 | 2024-09-25 |  |
+| [ねぐせ](https://open.spotify.com/track/2ZWvzYy2iWIpCDlYHuJKih) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw), [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [ねぐせ](https://open.spotify.com/album/1tXsfWmwLT0UpUtD1lf09K) | 3:38 | 2024-09-25 | 2024-12-28 |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-10 |  |
 | [ひかりをためる](https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ひかりをためる](https://open.spotify.com/album/29eOgjIEgs8jsZ9h8m8TJm) | 2:29 | 2023-11-10 | 2023-12-19 |
 | [ふたりのBGM feat\. 土岐麻子](https://open.spotify.com/track/2wh07cGkfGVLWxCpSJtafV) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [ふたりのBGM feat\. 土岐麻子](https://open.spotify.com/album/7jRh5otey2SbFJ6Pzu8SUo) | 3:54 | 2024-07-17 | 2024-09-29 |

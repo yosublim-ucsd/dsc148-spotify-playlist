@@ -82,10 +82,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 453068,
       "name": "303 State",
       "url": "https://open.spotify.com/track/3Wf6hVbr3YWCWt9py5OzDy"
+    },
+    {
+      "album": {
+        "name": "slash 010 - 5 Mins Of Acid",
+        "url": "https://open.spotify.com/album/6pRDiTc1Sc31lLpITNIh0j"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "5 Mins Of Acid",
+      "url": "https://open.spotify.com/track/6NLvW45mqeoctfNA2YmPMr"
     },
     {
       "album": {
@@ -162,7 +180,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 390902,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/6lzfUGV1owlw0hp5JvhpOL"
@@ -296,7 +314,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 480000,
       "name": "Ancient Aum",
       "url": "https://open.spotify.com/track/5CiBbrUKWr6em5GiY0YCiM"
@@ -411,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Balance (Original Mix)",
+        "url": "https://open.spotify.com/album/0sES82CUT3lQC0g0RZshYH"
+      },
+      "artists": [
+        {
+          "name": "AREA \u00d8NE",
+          "url": "https://open.spotify.com/artist/4cPhyd2BTkwlq4fyXo4riK"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341240,
+      "name": "Balance - Original Mix",
+      "url": "https://open.spotify.com/track/6FEuMcPjQqOYWfSR5Onma7"
+    },
+    {
+      "album": {
         "name": "Abyss of Hell",
         "url": "https://open.spotify.com/album/6mlH1YFr7UF4C8G1Z7tlkE"
       },
@@ -520,10 +556,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 139000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41"
+    },
+    {
+      "album": {
+        "name": "Walking Alone In The Dark",
+        "url": "https://open.spotify.com/album/55QHJxqz6cW0GVLBPfackX"
+      },
+      "artists": [
+        {
+          "name": "TASSERY",
+          "url": "https://open.spotify.com/artist/4ezVmV5ppzmFl5ypOJiCCY"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390400,
+      "name": "Catch The Light",
+      "url": "https://open.spotify.com/track/205tYWo8M6qvK3Sop2a1LY"
     },
     {
       "album": {
@@ -560,6 +614,32 @@
       "duration_ms": 354540,
       "name": "Clausura",
       "url": "https://open.spotify.com/track/6PqKie1yofhfbNKjqknrjg"
+    },
+    {
+      "album": {
+        "name": "Club Riot",
+        "url": "https://open.spotify.com/album/1phWVWb7LxEBcnoV5pqCOa"
+      },
+      "artists": [
+        {
+          "name": "David L\u00f6hlein",
+          "url": "https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C"
+        },
+        {
+          "name": "Rove Ranger",
+          "url": "https://open.spotify.com/artist/2tcPPLnCV4T3tevcfw1Iss"
+        },
+        {
+          "name": "SESH",
+          "url": "https://open.spotify.com/artist/5PJunO0egNrIx5RY2z7J8a"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237736,
+      "name": "Club Riot",
+      "url": "https://open.spotify.com/track/4qNeGdcVP05QuoMEwzJLrI"
     },
     {
       "album": {
@@ -675,6 +755,24 @@
     },
     {
       "album": {
+        "name": "44008",
+        "url": "https://open.spotify.com/album/2JmaBBmwpEzPYBHc3uv4Uz"
+      },
+      "artists": [
+        {
+          "name": "Ueberrest",
+          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325159,
+      "name": "Cryptic",
+      "url": "https://open.spotify.com/track/1ublBbVajjdQnETd2Roelm"
+    },
+    {
+      "album": {
         "name": "COLOR VA03",
         "url": "https://open.spotify.com/album/7hKxU851bFxIWHD8NH3XgR"
       },
@@ -686,7 +784,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 403973,
       "name": "Cut It - Original Mix",
       "url": "https://open.spotify.com/track/6kTT8AcENWGhgbEwVeMMty"
@@ -830,7 +928,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 353032,
       "name": "Don't Get Lost In Heaven",
       "url": "https://open.spotify.com/track/1sfvv0RshRNNatJ73hVO2n"
@@ -956,7 +1054,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 328695,
       "name": "Elements Of Joy",
       "url": "https://open.spotify.com/track/5T2ryB743k3qH7CzfkcB6W"
@@ -1214,7 +1312,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 303564,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/3aUMxRxGSDBYN1no8c3AkA"
@@ -1232,7 +1330,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 339095,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/75qMKD5oPS7fJUne9J3GYC"
@@ -1308,10 +1406,28 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 298039,
       "name": "Get Real Low",
       "url": "https://open.spotify.com/track/2BkUyMpQtvrRtD2rzqLDwl"
+    },
+    {
+      "album": {
+        "name": "Ghost Kiss",
+        "url": "https://open.spotify.com/album/5hkkowvZvsjSG6KAEgDeiW"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233430,
+      "name": "Ghost Kiss",
+      "url": "https://open.spotify.com/track/25czN86DWwXmhOS0BmkwRR"
     },
     {
       "album": {
@@ -1720,7 +1836,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 336514,
       "name": "Ivresse",
       "url": "https://open.spotify.com/track/0ycPUdXsGL4qagDVI6DeaM"
@@ -2138,7 +2254,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
@@ -2456,7 +2572,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 276601,
       "name": "Phonk Off Tekno",
       "url": "https://open.spotify.com/track/5ntLjWuK6EisY6HHJpN30Z"
@@ -2576,6 +2692,24 @@
       "duration_ms": 476800,
       "name": "Race Against the Time - MRD Remix",
       "url": "https://open.spotify.com/track/6GLMz67ulk9MjJRBLUxyMU"
+    },
+    {
+      "album": {
+        "name": "Techno Germany - Rising Artists",
+        "url": "https://open.spotify.com/album/3yZW3nHy04UoVIY8RSHoKG"
+      },
+      "artists": [
+        {
+          "name": "VAENT",
+          "url": "https://open.spotify.com/artist/088MxveyshWnSvKlSxvcGC"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364000,
+      "name": "Racid",
+      "url": "https://open.spotify.com/track/2cKZmx2WGlck9hIF0oFJDr"
     },
     {
       "album": {
@@ -2768,7 +2902,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 382400,
       "name": "Ring the Hell",
       "url": "https://open.spotify.com/track/5T3c8xfJNQwbfi3DB1lF7D"
@@ -2858,7 +2992,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 349082,
       "name": "Secret Weapon - Original Mix",
       "url": "https://open.spotify.com/track/4Mt3RT79yjr79rBznZJnfq"
@@ -3282,7 +3416,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 192000,
       "name": "The Captain",
       "url": "https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus"
@@ -3318,7 +3452,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 369473,
       "name": "The Dominator - Original Mix",
       "url": "https://open.spotify.com/track/62UvH7eDBYrD24iOGLbNGa"
@@ -3372,7 +3506,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 337978,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/1NzBj0x3sMG6qhYbNhpqJL"
@@ -3792,7 +3926,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 298181,
       "name": "Zulu",
       "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"

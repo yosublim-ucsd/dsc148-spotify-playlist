@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 396144,
+  "num_followers": 396189,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Tigerblind",
-          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
-        }
-      ],
-      "duration_ms": 258644,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+        }
+      ],
+      "duration_ms": 258644,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "some kind of peace",
-        "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Loom (feat. Bonobo)",
-      "url": "https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx"
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+        "name": "some kind of peace",
+        "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
+      "duration_ms": 226866,
+      "name": "Loom (feat. Bonobo)",
+      "url": "https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx"
     },
     {
       "added_at": "2024-12-16 03:00:17",

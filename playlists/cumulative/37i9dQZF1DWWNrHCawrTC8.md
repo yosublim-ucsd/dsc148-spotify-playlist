@@ -2,9 +2,9 @@
 
 ### [bLog rAp](https://open.spotify.com/playlist/37i9dQZF1DWWNrHCawrTC8)
 
-> revisit one of hip\-hop's most of exciting eras
+> revisit one of hip\-hop's most of exciting eras \| RIP OG Maco
 
-78 songs - 5 hr 1 min
+79 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Peso](https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 2:49 | 2024-08-23 |  |
 | [Purple Swag](https://open.spotify.com/track/2mv7mXr45Mq9aOczaGCAbG) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 1:58 | 2024-08-23 |  |
 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 4:55 | 2024-08-23 |  |
-| [Recoup](https://open.spotify.com/track/2s3UWNC28a7WhjCObW4Xm0) | [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP), [Jace](https://open.spotify.com/artist/0vaKiuLwFJLVU664A8GTjE) | [Fathers Are the Curse](https://open.spotify.com/album/545NfhUMBC7eaQ4BMHyUjA) | 2:54 | 2024-08-23 |  |
+| [Recoup](https://open.spotify.com/track/2s3UWNC28a7WhjCObW4Xm0) | [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP), [Jace](https://open.spotify.com/artist/0vaKiuLwFJLVU664A8GTjE) | [Fathers Are the Curse](https://open.spotify.com/album/545NfhUMBC7eaQ4BMHyUjA) | 2:54 | 2024-08-23 | 2024-12-28 |
 | [Rigamortus](https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 2:48 | 2024-08-23 |  |
 | [Scottie 2 Hottie](https://open.spotify.com/track/2B0IKinesIlC2t7R0YnOo8) | [Curtis Williams](https://open.spotify.com/artist/1ArHGXX1xQLdigiM7hlS5S), [Two\-9](https://open.spotify.com/artist/40mkfSMWyLgLvXbcdtDOCJ), [Key!](https://open.spotify.com/artist/7pryhXG2bSwqXdfBOOszDd) | [Two\-9 Forever](https://open.spotify.com/album/2MH3vbNhJxas3GSco0JUQO) | 2:36 | 2024-08-23 |  |
 | [She](https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:13 | 2024-08-23 |  |
@@ -78,6 +78,7 @@
 | [The Spins](https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R) | 3:15 | 2024-08-23 |  |
 | [The Vent](https://open.spotify.com/track/2VsSyWxURAA0FBokllz4gF) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [R4 The Prequel](https://open.spotify.com/album/3HYmuGem6DB2z6jGMUrbEO) | 5:20 | 2024-08-23 |  |
 | [Top Down \(feat\. Casey Veggies & Skeme\)](https://open.spotify.com/track/7o071OVnp48OGfBmiWX6ns) | [Pac Div](https://open.spotify.com/artist/5504Qqp7s40bqBqzWMEByl), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Skeme](https://open.spotify.com/artist/6TlLdicGl92pqnySP64n2g) | [The Div \(Deluxe Version\)](https://open.spotify.com/album/6KDQywf3IPZq1kxRSREJIX) | 4:20 | 2024-08-23 |  |
+| [U Guessed It](https://open.spotify.com/track/4UUFTQKwwId0n1P9t4ZQhx) | [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [U Guessed It \- Single](https://open.spotify.com/album/6l64G9syOrb21VIigX06oQ) | 2:26 | 2024-12-27 |  |
 | [Uptown \(feat\. Bun B & Lil Wayne\)](https://open.spotify.com/track/0q7LGcVSpsIoSbjChtZ8lI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 6:22 | 2024-08-23 |  |
 | [Werkin' Girls](https://open.spotify.com/track/69jqKUauM2XyKBQ6eOZzB6) | [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [New York EP](https://open.spotify.com/album/5VVKnaWH77i0K2Obf4OsOE) | 3:09 | 2024-08-23 |  |
 | [What U Doin?](https://open.spotify.com/track/7hvHtzmKMkh4N6Kl7WHTVJ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [What U Doin?](https://open.spotify.com/album/155RNFTj8IkWRiZ6K6hZHV) | 2:36 | 2024-08-23 |  |

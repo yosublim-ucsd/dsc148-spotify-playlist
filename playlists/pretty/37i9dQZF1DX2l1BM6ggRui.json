@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6707,
+  "num_followers": 6710,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "NEXT EPISODE",
-        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 225295,
-      "name": "BENCH (with Zion.T)",
-      "url": "https://open.spotify.com/track/52nOiyRgQ7B7N7FjXhCCgz"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 209813,
       "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 225295,
+      "name": "BENCH (with Zion.T)",
+      "url": "https://open.spotify.com/track/52nOiyRgQ7B7N7FjXhCCgz"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 195786,
-      "name": "Long Chat (#\u2665)",
-      "url": "https://open.spotify.com/track/1l4aQeJKuPVUVtMVZw1fTf"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/2dnjFIjZWbpZKs5JYCBsnh"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 229320,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 195786,
+      "name": "Long Chat (#\u2665)",
+      "url": "https://open.spotify.com/track/1l4aQeJKuPVUVtMVZw1fTf"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -879,6 +879,26 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "For you, my sunshine",
+        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "For you, my sunshine",
+      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "Once In a Summer",
         "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
       },
@@ -903,22 +923,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "For you, my sunshine",
-        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
+        "name": "KHAMAI",
+        "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
       },
       "artists": [
         {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+          "name": "HUNJIYA",
+          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
         },
         {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 226346,
-      "name": "For you, my sunshine",
-      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
+      "duration_ms": 205856,
+      "name": "TALK2ME! (feat. pH-1)",
+      "url": "https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -939,26 +959,6 @@
       "duration_ms": 179200,
       "name": "AI (Feat. Loco)",
       "url": "https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "KHAMAI",
-        "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
-      },
-      "artists": [
-        {
-          "name": "HUNJIYA",
-          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 205856,
-      "name": "TALK2ME! (feat. pH-1)",
-      "url": "https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR"
     },
     {
       "added_at": "2024-11-06 07:05:36",

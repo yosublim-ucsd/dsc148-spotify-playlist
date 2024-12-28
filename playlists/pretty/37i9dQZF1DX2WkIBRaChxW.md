@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in r&b, right now – featuring Roy Woods.
+> What's happening in r&b, right now – featuring SZA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,338 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,348 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [Uuugly](https://open.spotify.com/track/0T0S3Ue6h1ozJRSu4A4uKs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 1:55 |
 | 75 | [Bum Bum](https://open.spotify.com/track/0EmgkOtLsGV0jXsnBZ66R3) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Bum Bum](https://open.spotify.com/album/4S8m4NHgZkQQJPywHFnLbC) | 3:16 |
 
-Snapshot ID: `Z2XMzAAAAACJgmxX3GLdNwfdUVu0Ux1Y`
+Snapshot ID: `Z240fAAAAADs+2oXnHub2bsJP86z9ybI`

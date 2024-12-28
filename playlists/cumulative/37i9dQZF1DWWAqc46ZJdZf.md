@@ -4,7 +4,7 @@
 
 > New era songs of empowerment and pride.
 
-153 songs - 10 hr 31 min
+154 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Otherside of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 | 2021-04-29 |  |
 | [Real Black \(feat\. Voices for Change\)](https://open.spotify.com/track/25qbZLtqkvcbIjK7ekXong) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69), [Voices for Change](https://open.spotify.com/artist/4DTRY3LBAV2LvLVrmdmR6s) | [Real Black \(feat\. Voices for Change\)](https://open.spotify.com/album/0GBiap7rSvgKzqlCCzt8Ad) | 3:53 | 2021-04-29 | 2022-07-29 |
 | [Redemption Song](https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:53 | 2022-02-14 | 2024-02-01 |
+| [reincarnated](https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:35 | 2024-12-27 |  |
 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 | 2021-04-29 | 2024-02-01 |
 | [RUN \(feat\. Young Thug\)](https://open.spotify.com/track/4EPfeopXB7rDQGR4ae0Xmt) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:45 | 2024-01-31 |  |
 | [S.O.T.L\. \(Silence of the Lambs\) \[feat\. Lil Wayne\]](https://open.spotify.com/track/1tXCF7TwDnuHRgwQ63FeM5) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [S.O.T.L\. \(Silence of the Lambs\) \[feat\. Lil Wayne\]](https://open.spotify.com/album/6xBCjXyKJPnuCXt7xb7MpL) | 3:11 | 2021-04-29 | 2024-02-01 |
@@ -142,7 +143,7 @@
 | [The Bigger Picture](https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75) | 4:12 | 2021-04-29 |  |
 | [The Blacker The Berry](https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:28 | 2024-01-31 |  |
 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 | 2021-04-29 | 2024-02-01 |
-| [The Heart Part 5](https://open.spotify.com/track/5qbhVL3vB7HwWvb0042B7y) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:32 | 2024-01-31 |  |
+| [The Heart Part 5](https://open.spotify.com/track/5qbhVL3vB7HwWvb0042B7y) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:32 | 2024-01-31 | 2024-12-28 |
 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:07 | 2022-02-14 | 2024-02-01 |
 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/2BEuUkh9r8NCYiVvSKZIol) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [The Revolution Begins: The Flying Dutchman Masters](https://open.spotify.com/album/6iTXdGkpPqaNkeaFUGQSCW) | 3:07 | 2022-02-14 | 2022-04-26 |
 | [The Story of O.J.](https://open.spotify.com/track/6JpN5w95em8SODPiM7W2PH) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 3:51 | 2024-01-31 |  |

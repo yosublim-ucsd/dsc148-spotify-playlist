@@ -928,7 +928,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -6414,7 +6414,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -8562,7 +8562,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -11278,7 +11278,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -11598,7 +11598,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -13002,7 +13002,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 239835,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
@@ -14804,7 +14804,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -17150,7 +17150,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -17418,7 +17418,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 131240,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
@@ -21898,7 +21898,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -21916,7 +21916,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -22558,7 +22558,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -25115,6 +25115,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u063a\u0627\u0646\u064a \u062a\u064a\u0643 \u062a\u0648\u0643 \u0645\u0637\u0644\u0648\u0628\u0629 - \u0645\u062c\u0646\u0648\u0646 \u0641\u064a\u0643 \u064a\u0627 \u0639\u0645\u0631\u064a \u060c \u064a\u0627\u062d\u0628\u064a \u0627\u0634\u062a\u0648\u0645 \u0627\u0634\u062a\u0648\u0645",
+        "url": "https://open.spotify.com/album/0R0CC2N5SYtqntvJa95VFk"
+      },
+      "artists": [
+        {
+          "name": "\u0633\u0643\u0648\u0644 \u0627\u0644\u062f\u0648\u0633\u0631\u064a - SKOL KSA",
+          "url": "https://open.spotify.com/artist/4RJGgGF2nFEeBIm1kUIY6t"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219962,
+      "name": "\u0627\u063a\u0627\u0646\u064a \u062a\u064a\u0643 \u062a\u0648\u0643 \u0645\u0637\u0644\u0648\u0628\u0629 - \u0645\u062c\u0646\u0648\u0646 \u0641\u064a\u0643 \u064a\u0627 \u0639\u0645\u0631\u064a \u060c \u064a\u0627\u062d\u0628\u064a \u0627\u0634\u062a\u0648\u0645 \u0627\u0634\u062a\u0648\u0645",
+      "url": "https://open.spotify.com/track/6NmD1hzysD8rcLnkvD7MAQ"
+    },
+    {
+      "album": {
         "name": "\u0627\u063a\u0627\u0646\u064a \u0639\u0631\u0627\u0642\u064a \u062d\u0632\u064a\u0646 | \u0627\u0644\u0644\u0647 \u0648\u064a\u0627\u0647 \u0631\u0627\u062d \u0627\u0646\u0633\u0627\u0647 - \u062a\u0631\u0643 \u0627\u0644\u0631\u0648\u062d \u0628\u0627\u0644\u0645 \u062e\u0644\u0627\u0647\u0627 - \u0628\u0637\u064a\u0626",
         "url": "https://open.spotify.com/album/0xCr0yZd6oyWMkfQELMFCa"
       },
@@ -26682,7 +26700,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 258622,
       "name": "\u0631\u0627\u0647 \u0642\u0644\u0628\u064a \u064a\u0628\u0643\u064a \u0648 \u064a\u0646\u0648\u062d \u0645\u063a\u0631\u0628\u064a - \u062e\u0648\u064a\u0644\u062f \u0645\u0627\u0631\u0643\u0648\u0633",
       "url": "https://open.spotify.com/track/6p2lwRjcT6e89fu401Ol2f"
@@ -26960,6 +26978,24 @@
       "duration_ms": 209467,
       "name": "\u0637\u0627\u0644 \u0627\u0644\u062c\u0641\u0649",
       "url": "https://open.spotify.com/track/7MHeXnWHXYBkK0npLECaP8"
+    },
+    {
+      "album": {
+        "name": "\u0637\u0631\u0628\u064a\u0627\u062a \u062a\u0631\u0643\u064a\u0647 , \u0645\u062c\u0646\u0648\u0646 \u0628\u064a\u0643 \u064a\u0627\u0639\u0645\u0631\u064a , \u064a\u0627\u062d\u0628\u064a \u0627\u0634\u0643\u0645 \u0627\u0634\u0643\u0645 .",
+        "url": "https://open.spotify.com/album/7qXZTdHZLIJuSGPfPOGZQ1"
+      },
+      "artists": [
+        {
+          "name": "\u0641\u064a\u0644\u06af\u0633 fM .",
+          "url": "https://open.spotify.com/artist/59wAzPOBSl4uTsyJrwdROS"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222622,
+      "name": "\u0637\u0631\u0628\u064a\u0627\u062a \u062a\u0631\u0643\u064a\u0647 , \u0645\u062c\u0646\u0648\u0646 \u0628\u064a\u0643 \u064a\u0627\u0639\u0645\u0631\u064a , \u064a\u0627\u062d\u0628\u064a \u0627\u0634\u0643\u0645 \u0627\u0634\u0643\u0645 .",
+      "url": "https://open.spotify.com/track/1L7yofHfIa5UczlW0pF52d"
     },
     {
       "album": {
@@ -27814,7 +27850,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 246021,
       "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/3MyX3ndru7RTKvLkMZJJeJ"
@@ -28258,7 +28294,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 380255,
       "name": "\u0648\u064a\u0644\u064a",
       "url": "https://open.spotify.com/track/3h4kEr2cagLR0HlqMyMS2H"
@@ -28280,6 +28316,24 @@
       "duration_ms": 348003,
       "name": "\u0648\u064a\u0646 \u0635\u0631\u062a\u064a",
       "url": "https://open.spotify.com/track/0ywKzyhWxFQWGiQyjDBQFw"
+    },
+    {
+      "album": {
+        "name": "\u0648\u064a\u0646\u0643 \u0648\u064a\u0646\u0643 \u063a\u0627\u064a\u0628 \u0639\u0644\u064a\u0627 \u0648\u064a\u0646 - \u0633\u0643\u0648\u0644 \u0627\u0644\u062f\u0648\u0633\u0631\u064a",
+        "url": "https://open.spotify.com/album/2Da3ETpbvWljTeKI6xwDeo"
+      },
+      "artists": [
+        {
+          "name": "\u0633\u0643\u0648\u0644 \u0627\u0644\u062f\u0648\u0633\u0631\u064a - SKOL KSA",
+          "url": "https://open.spotify.com/artist/4RJGgGF2nFEeBIm1kUIY6t"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281402,
+      "name": "\u0648\u064a\u0646\u0643 \u0648\u064a\u0646\u0643 \u063a\u0627\u064a\u0628 \u0639\u0644\u064a\u0627 \u0648\u064a\u0646 - \u0633\u0643\u0648\u0644 \u0627\u0644\u062f\u0648\u0633\u0631\u064a",
+      "url": "https://open.spotify.com/track/1EvT055LsQlAxPsB5cz1PO"
     },
     {
       "album": {

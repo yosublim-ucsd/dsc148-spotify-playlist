@@ -17134,6 +17134,32 @@
     {
       "album": {
         "name": "Evil Jordan",
+        "url": "https://open.spotify.com/album/33j5cxdZ9rv8zsfHCHOnAr"
+      },
+      "artists": [
+        {
+          "name": "fedo DJ",
+          "url": "https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3"
+        },
+        {
+          "name": "ciaffa",
+          "url": "https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x"
+        },
+        {
+          "name": "vampvampvamp",
+          "url": "https://open.spotify.com/artist/5T9Qk7MADn1JHGrd2QdCAG"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134733,
+      "name": "Evil Jordan",
+      "url": "https://open.spotify.com/track/3vtJp67yAeJ0kr9GvnbImd"
+    },
+    {
+      "album": {
+        "name": "Evil Jordan",
         "url": "https://open.spotify.com/album/6evzK5Q7k6SPMkPlaZT1e5"
       },
       "artists": [
@@ -17144,7 +17170,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 134317,
       "name": "Evil Jordan",
       "url": "https://open.spotify.com/track/3RmxEgy4MZ5nYAwf0VQSGf"
@@ -25478,7 +25504,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 267306,
       "name": "How to Make Gravy",
       "url": "https://open.spotify.com/track/6rEOqC9CQW7kzelaDivh65"
@@ -25500,6 +25526,24 @@
       "duration_ms": 268911,
       "name": "How To Make Gravy",
       "url": "https://open.spotify.com/track/72tIvJRS5lTCjWQRjwjBQC"
+    },
+    {
+      "album": {
+        "name": "Songs from the South. Greatest Hits (1985-2019)",
+        "url": "https://open.spotify.com/album/24gsq6af3OCjDRy6W4RWrD"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268911,
+      "name": "How to Make Gravy",
+      "url": "https://open.spotify.com/track/76wswZbVlavetSoQhvlxYj"
     },
     {
       "album": {
@@ -47761,6 +47805,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245040,
+      "name": "River",
+      "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
+    },
+    {
+      "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
       },
@@ -48538,7 +48600,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -49976,6 +50038,24 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg"
+      },
+      "artists": [
+        {
+          "name": "Derik Fein",
+          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201510,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/28DPhVcDjE7MoBAfECyyUI"
     },
     {
       "album": {
@@ -54058,7 +54138,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 176360,
       "name": "Stop The Cavalry",
       "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"

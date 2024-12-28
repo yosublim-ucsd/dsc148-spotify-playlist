@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ROcoR0cTZM.md) - [plain]
 
 > Are you 'Happy' with Jin? 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,814 likes - 27 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,308 likes - 27 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

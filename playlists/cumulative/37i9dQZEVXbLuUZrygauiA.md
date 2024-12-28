@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,520 songs - 5 day 16 hr 18 min
+2,521 songs - 5 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,6 +645,7 @@
 | [Duro 2 Horas](https://open.spotify.com/track/1tXPHKD791iwGJxvSKo8oc) | [Faraón Love Shady](https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn) | [Duro 2 Horas](https://open.spotify.com/album/1Gtu3w8lsEZfkxPmu1Y1uF) | 2:20 | 2022-03-20 | 2022-05-28 |
 | [Duro De Verdad pt.2](https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Duro De Verdad pt.2](https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA) | 3:24 | 2024-10-07 | 2024-10-16 |
 | [Déjame Entrar](https://open.spotify.com/track/5tZgkV8FTe3rtl8OcSeQAb) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:14 | 2024-11-19 | 2024-11-24 |
+| [Déjame Volver Contigo](https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 4:23 | 2024-12-27 |  |
 | [Déjenla Que Sea Feliz](https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH) | [Chacho Y Su Vagancia](https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6) | [Déjenla Que Sea Feliz](https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3) | 2:55 | 2023-08-15 | 2023-08-30 |
 | [Día de Mayo](https://open.spotify.com/track/2g1d6hZ6pBloIZGZD3d66O) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Día de Mayo](https://open.spotify.com/album/5fKj3CZGaVuKPRplmsJD9O) | 3:50 | 2024-03-19 | 2024-03-28 |
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-06-10 | 2022-06-22 |
@@ -1694,7 +1695,7 @@
 | [PERO NO TE ENAMORES](https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 3:03 | 2024-08-20 | 2024-09-11 |
 | [PERREANDO MACHÍN](https://open.spotify.com/track/71derIcIhs0JN5sDtRGTJj) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [PERREANDO MACHÍN](https://open.spotify.com/album/7bbXrhDhcw1lFAzrciXk6M) | 2:30 | 2024-03-19 | 2024-03-24 |
 | [PERRO NEGRO](https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:42 | 2023-10-31 | 2023-11-21 |
-| [Persona Favorita](https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [HENRY](https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb) | 3:27 | 2024-12-10 |  |
+| [Persona Favorita](https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [HENRY](https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb) | 3:27 | 2024-12-10 | 2024-12-28 |
 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 | 2023-06-27 | 2023-07-05 |
 | [PHONKGASKAR](https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2) | [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti), [Jolixwery](https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0) | [PHONKGASKAR](https://open.spotify.com/album/2B6eFuLza7i5gwzzWgASFI) | 1:22 | 2023-05-14 | 2023-06-14 |
 | [Phonky Tribu](https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK) | 4:46 | 2022-09-19 | 2022-10-12 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Adriana R\u00edos. The essential tracks, all in one playlist.",
-  "num_followers": 364,
+  "num_followers": 367,
   "original_name": "This Is Adriana R\u00edos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAACP3554PtNSKf8DW1DidhI+",
+  "snapshot_id": "Z2ycgAAAAADZgrclPMPHvyVKNVGxmAwi",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 137120,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sentimientos de Cart\u00f3n",
         "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 192818,
       "name": "Sentimientos de Cart\u00f3n",
       "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ah\u00ed Va la Loca",
-        "url": "https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "Ah\u00ed Va la Loca",
-      "url": "https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 137120,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asi Suena con Tequila",
         "url": "https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 164272,
       "name": "El que Quiero que Me Quiera",
       "url": "https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ah\u00ed Va la Loca",
+        "url": "https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Ah\u00ed Va la Loca",
+      "url": "https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 191985,
-      "name": "Ojal\u00e1 que Quererte Bastara",
-      "url": "https://open.spotify.com/track/76VcLV0jBskhnoxWmbz7yI"
+      "duration_ms": 214954,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 214954,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
+      "duration_ms": 191985,
+      "name": "Ojal\u00e1 que Quererte Bastara",
+      "url": "https://open.spotify.com/track/76VcLV0jBskhnoxWmbz7yI"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Donde Esta Tu Amor",
-        "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 169429,
-      "name": "En Donde Esta Tu Amor",
-      "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 251147,
       "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Donde Esta Tu Amor",
+        "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 169429,
+      "name": "En Donde Esta Tu Amor",
+      "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 231971,
-      "name": "Empiezo a Recordarte - En Vivo",
-      "url": "https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V"
+      "duration_ms": 202619,
+      "name": "Sigo Siendo Yo - En Vivo",
+      "url": "https://open.spotify.com/track/35SYuaFLd7Vr1dDcHs2Y1L"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 202619,
-      "name": "Sigo Siendo Yo - En Vivo",
-      "url": "https://open.spotify.com/track/35SYuaFLd7Vr1dDcHs2Y1L"
+      "duration_ms": 231971,
+      "name": "Empiezo a Recordarte - En Vivo",
+      "url": "https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V"
     }
   ],
   "unique_name": "This Is Adriana R\u00edos",

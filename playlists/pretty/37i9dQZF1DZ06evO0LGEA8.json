@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 258918,
+  "num_followers": 259066,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAAD/ELd6r4Sc7420nlbj6BvR",
+  "snapshot_id": "Z2ycgAAAAABVxremH1oZrO3EDo6ZJMlI",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Visuales, Vol. 4",
-        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 186137,
-      "name": "Estamos al Aire",
-      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Chidas Pal Cuarto",
         "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 315141,
       "name": "MI Necesidad",
       "url": "https://open.spotify.com/track/5I6FABuflROqF98yBr3Qlz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hits Visuales, Vol. 4",
+        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 186137,
+      "name": "Estamos al Aire",
+      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
     },
     {
       "added_at": null,
@@ -451,6 +451,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "Compatible Contigo",
+      "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Mirada Triste",
+      "url": "https://open.spotify.com/track/3Jr10ANwlJcLEOqz8IZ27S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liga Malandra 2",
         "url": "https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ"
       },
@@ -487,38 +519,6 @@
       "duration_ms": 240000,
       "name": "Liga Malandra 2",
       "url": "https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 275500,
-      "name": "Compatible Contigo",
-      "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Mirada Triste",
-      "url": "https://open.spotify.com/track/3Jr10ANwlJcLEOqz8IZ27S"
     },
     {
       "added_at": null,

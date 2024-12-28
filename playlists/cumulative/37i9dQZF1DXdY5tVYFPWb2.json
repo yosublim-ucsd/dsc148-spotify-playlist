@@ -4791,6 +4791,28 @@
     },
     {
       "album": {
+        "name": "\u5206\u96e2\u6d3e\u306e\u590f",
+        "url": "https://open.spotify.com/album/2VoiEyYHs8DJvDZFa5IPi2"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279093,
+      "name": "Lonely One",
+      "url": "https://open.spotify.com/track/5F5P9HHegA1dSyoRaZvYaf"
+    },
+    {
+      "album": {
         "name": "long island iced tea",
         "url": "https://open.spotify.com/album/6PmL0VtPsbrOg5w4U6J8VJ"
       },
@@ -11930,7 +11952,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 218466,
       "name": "\u306d\u3050\u305b",
       "url": "https://open.spotify.com/track/2ZWvzYy2iWIpCDlYHuJKih"

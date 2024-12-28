@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=iMXNw6ajR7CLOUWYr1j2YQ>Malcolm Rue</a>
 
-246 songs - 19 hr 55 min
+247 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 | 2024-06-07 |
 | [Holy Father](https://open.spotify.com/track/1gKWVPpNDVw0C6W3834jSo) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Holy Father](https://open.spotify.com/album/2EKWdSnVWyo3tl9Ro82yJs) | 2:41 | 2024-07-19 | 2024-10-24 |
 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 |  |
-| [Hunger](https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [Hunger](https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ) | 11:19 | 2024-11-08 |  |
+| [Hunger](https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [Hunger](https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ) | 11:19 | 2024-11-08 | 2024-12-28 |
 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 | 2023-11-24 | 2024-01-14 |
 | [I Carry God](https://open.spotify.com/track/0xXddFk3eUcd8SGdkxKOzp) | [Abimbola Funke Fagun](https://open.spotify.com/artist/1EHVpqPo4ZxRBrKqhL49po), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [I Carry God](https://open.spotify.com/album/2nx9CnLKR95SAONx2Clzqn) | 3:31 | 2024-05-24 | 2024-07-14 |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-09-15 | 2024-03-16 |
@@ -131,6 +131,7 @@
 | [Let Us Go](https://open.spotify.com/track/31BeCK5NpDASyf8A97blzw) | [Nomakhuze Ndabula](https://open.spotify.com/artist/5V8tWlChyzmA3CtMgn1beJ), [Flowzbevtz](https://open.spotify.com/artist/1xdjeiB1Muh9RWJA8EvMXO), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [Let Us Go](https://open.spotify.com/album/5PhmeA8VO2FCQP0e5THHo0) | 1:30 | 2024-02-09 | 2024-05-24 |
 | [Like a Baby \- Special Version](https://open.spotify.com/track/2q0RmOoOY6QYQoep7btEhC) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Like a Baby \(Special Version\)](https://open.spotify.com/album/2jlZE2Hj2uhJBvS7psCCV0) | 2:49 | 2024-05-03 | 2024-05-24 |
 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 | 2024-09-13 |
+| [M'manja Mwanu](https://open.spotify.com/track/7qsuw2hbLEAW8dzQx7nRhP) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [M'manja Mwanu](https://open.spotify.com/album/2djFFunGWCcsrMthfOOUP9) | 3:12 | 2024-11-29 |  |
 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2023-09-15 | 2024-03-16 |
 | [Make A Way \(feat\. Chandler Moore & Brandon Lake\)](https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 8:32 | 2023-09-15 | 2024-03-16 |
 | [Malaika x Bien](https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Malaika x Bien](https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3) | 3:55 | 2024-06-21 | 2024-07-12 |

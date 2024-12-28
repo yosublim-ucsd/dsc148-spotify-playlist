@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: 打首獄門同好会
 
-358 songs - 20 hr 34 min
+359 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Boarding Time](https://open.spotify.com/track/42lsXb14Nxik4hfeqksL8K) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [PURE 40](https://open.spotify.com/album/3ebUA1TA2F3IMkyFNjJN8E) | 2:56 | 2024-03-26 | 2024-04-19 |
 | [Boarding Time](https://open.spotify.com/track/48QkR16zrg3MuUysTvZljm) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [PURE 40](https://open.spotify.com/album/67MuovFIshDB7ezmFDn6n0) | 2:56 | 2024-04-18 | 2024-08-14 |
 | [Boarding Time](https://open.spotify.com/track/5Lh4wvvHLA6hdbT1uwWI5T) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Boarding Time](https://open.spotify.com/album/4kKFJVQdKNZgN0hq2JcIsS) | 2:56 | 2024-03-26 | 2024-03-30 |
+| [BRAINWASH](https://open.spotify.com/track/1rBh478tPcaqibTVzzH0sI) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [BRAINWASH](https://open.spotify.com/album/1W8Z3zbB0C4Fl8z0tcKOqQ) | 3:04 | 2024-12-24 |  |
 | [BREAK IT DOWN](https://open.spotify.com/track/73o6n0ZXWVYnBSzge6Ei0m) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [BREAK IT DOWN](https://open.spotify.com/album/3ogo234STX9mj4SLmOISAH) | 4:04 | 2024-11-12 |  |
 | [breakout](https://open.spotify.com/track/2p3oY7YCPiAr5EBtP6xFZc) | [THE FROGLETS](https://open.spotify.com/artist/31kWXrEdHomiyrPrZhoXhc) | [THE FROGLETS](https://open.spotify.com/album/0cND80hJtxdUgVkJP8Sh5s) | 2:30 | 2023-12-26 | 2024-02-28 |
 | [Breakout](https://open.spotify.com/track/18khd1ouJWDsrs6pO9V1Oq) | [the twenties](https://open.spotify.com/artist/23d14imdoUIYJcQS1KgpPO), [タナカユーキ](https://open.spotify.com/artist/0Ty8GKQtnU6sZ5HSmilIy8) | [Breakout](https://open.spotify.com/album/68f3SfrCWSwwts0jGLH2DW) | 3:14 | 2023-11-21 | 2023-12-13 |
@@ -55,7 +56,7 @@
 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 | 2023-07-20 |  |
 | [BULLDOZER](https://open.spotify.com/track/1CsDTErfzbeq61FESzsayD) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Eastern Margins](https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut) | [BULLDOZER](https://open.spotify.com/album/1qIdi4vFmO79C90DhUk7yK) | 2:41 | 2024-09-03 | 2024-12-14 |
 | [BUNBUN SUIBUN](https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [BUNBUN SUIBUN](https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0) | 3:11 | 2024-06-11 |  |
-| [CALAVERAS](https://open.spotify.com/track/06z82FD4ikNp0w2OHZNihM) | [BabyKingdom](https://open.spotify.com/artist/1N3pUIu3nsusD9bhP5NzvK) | [CALAVERAS](https://open.spotify.com/album/7aAqRVY66C5o0tyhq42r8J) | 3:53 | 2024-10-15 |  |
+| [CALAVERAS](https://open.spotify.com/track/06z82FD4ikNp0w2OHZNihM) | [BabyKingdom](https://open.spotify.com/artist/1N3pUIu3nsusD9bhP5NzvK) | [CALAVERAS](https://open.spotify.com/album/7aAqRVY66C5o0tyhq42r8J) | 3:53 | 2024-10-15 | 2024-12-28 |
 | [CHASE THE SKY \-RedLine Title Song\-](https://open.spotify.com/track/6aqz8DMLznpWEE3Ef91Ykx) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [CHASE THE SKY \-RedLine Title Song\-](https://open.spotify.com/album/1xhvBGbtXAuTK2E50cRqEu) | 2:23 | 2024-12-10 |  |
 | [Chin Age Negotiation](https://open.spotify.com/track/2DGJX6CxOTpXvYspATCQRg) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Chin Age Negotiation](https://open.spotify.com/album/51Wg05oEpQ48VcwdskP7R7) | 4:02 | 2023-11-21 | 2023-12-13 |
 | [CLIMB](https://open.spotify.com/track/3FXKi2gZSiSA8sXQemm87Q) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [CLIMB](https://open.spotify.com/album/4fXRZmz7myClJWDsAiu4Cv) | 2:55 | 2024-07-09 | 2024-08-04 |

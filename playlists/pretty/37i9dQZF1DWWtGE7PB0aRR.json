@@ -1,6 +1,6 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 154642,
+  "num_followers": 154694,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Walk In My Shadow",
-      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "The Rolling Stones, Now!",
         "url": "https://open.spotify.com/album/592dKHbXtiglWyt8AEet23"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 185786,
       "name": "Little Red Rooster - Mono Version",
       "url": "https://open.spotify.com/track/3GgpUEdSy8uO58XG35rRho"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Walk In My Shadow",
+      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 178359,
-      "name": "I'm A Mover",
-      "url": "https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Foghat (2016 Remaster)",
         "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
       },
@@ -247,22 +231,6 @@
       "duration_ms": 260813,
       "name": "I Just Want to Make Love to You - 2016 Remaster",
       "url": "https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -283,6 +251,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Tattoo (Remastered 2017)",
         "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
       },
@@ -299,6 +283,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 178359,
+      "name": "I'm A Mover",
+      "url": "https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "12 X 5",
         "url": "https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 167226,
       "name": "Confessin' The Blues",
       "url": "https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Songs Of Yesterday",
-      "url": "https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -403,22 +387,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Joe Cocker!",
-        "url": "https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Delta Lady",
-      "url": "https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "A Hard Road (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
@@ -431,6 +399,22 @@
       "duration_ms": 189360,
       "name": "A Hard Road",
       "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Joe Cocker!",
+        "url": "https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Delta Lady",
+      "url": "https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -451,6 +435,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Songs Of Yesterday",
+      "url": "https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "The Rolling Stones",
         "url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 159706,
       "name": "Little By Little - Mono Version",
       "url": "https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Precious Little",
-        "url": "https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Spencer",
-          "url": "https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk"
-        }
-      ],
-      "duration_ms": 289960,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -497,20 +481,20 @@
       "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+        "name": "Precious Little",
+        "url": "https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN"
       },
       "artists": [
         {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+          "name": "Jeremy Spencer",
+          "url": "https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk"
         }
       ],
-      "duration_ms": 500626,
-      "name": "Goin' Down Slow",
-      "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
+      "duration_ms": 289960,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -585,6 +569,22 @@
       "url": "https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ"
     },
     {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 500626,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Eyes Wide Open",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/52Fn9DRxCDZlcjZXXxxqT5"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Shapes of Things",
-      "url": "https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "02:10 The Early Years",
@@ -679,6 +663,22 @@
       "duration_ms": 495266,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/3mMtsmooHmJo6Ciiwo6oPv"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Shapes of Things",
+      "url": "https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -745,6 +745,22 @@
       "url": "https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Married Woman",
+        "url": "https://open.spotify.com/album/7tU7AphXFviq23ayMy9aSd"
+      },
+      "artists": [
+        {
+          "name": "The Cinelli Brothers",
+          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+        }
+      ],
+      "duration_ms": 235115,
+      "name": "Married Woman",
+      "url": "https://open.spotify.com/track/0iJSqwStwV5uOkrYUZHi0O"
+    },
+    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Truth",
@@ -763,22 +779,6 @@
       "duration_ms": 148933,
       "name": "You Shook Me - Alternate Version",
       "url": "https://open.spotify.com/track/1zdIWwLewKA80dpjMHoZKc"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Married Woman",
-        "url": "https://open.spotify.com/album/7tU7AphXFviq23ayMy9aSd"
-      },
-      "artists": [
-        {
-          "name": "The Cinelli Brothers",
-          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
-        }
-      ],
-      "duration_ms": 235115,
-      "name": "Married Woman",
-      "url": "https://open.spotify.com/track/0iJSqwStwV5uOkrYUZHi0O"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 450000,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Rain Is Such a Lonesome Sound (Remastered 2015)",
         "url": "https://open.spotify.com/album/6x4Z38de0YVnsm5ONlftH2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 463973,
       "name": "Gotta Get to Know You",
       "url": "https://open.spotify.com/track/0nORptIh3WnyVEkcYcQJRo"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 450000,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA"
     },
     {
       "added_at": "2021-04-22 22:35:02",

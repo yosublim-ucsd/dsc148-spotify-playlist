@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,037 likes - 25 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,040 likes - 25 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 12 | [Grim Reaper](https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y) | 2:50 |
 | 13 | [End Of The World](https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy) | 2:38 |
 | 14 | [Popsicle](https://open.spotify.com/track/2R54H7AJlO38QH8ygNDWi1) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/3BB3XKlsGSIfPC1Kw9fSRH) | 1:50 |
-| 15 | [ENEMIES \(feat\. bludnymph& Shift K3Y\) \(Phrva Remix\)](https://open.spotify.com/track/33Yb60HyRCGC17s6YnsBQb) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Phrva](https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7) | [PULSE \(Remixes\)](https://open.spotify.com/album/6gnuh3z8Zrg6m9qk4oy8d3) | 2:48 |
-| 16 | [Praise](https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [GRACE](https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5) | 3:44 |
+| 15 | [Praise](https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [GRACE](https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5) | 3:44 |
+| 16 | [ENEMIES \(feat\. bludnymph& Shift K3Y\) \(Phrva Remix\)](https://open.spotify.com/track/33Yb60HyRCGC17s6YnsBQb) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Phrva](https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7) | [PULSE \(Remixes\)](https://open.spotify.com/album/6gnuh3z8Zrg6m9qk4oy8d3) | 2:48 |
 | 17 | [Incognito](https://open.spotify.com/track/67O43FtuBoLHp0KArJfdGa) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/album/4L8fkv7xQp3vvnyEkxbZoy) | 2:39 |
 | 18 | [BODY PARTS](https://open.spotify.com/track/0H7kDalfzg7aw8O1EiUKnj) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/album/0awshGdEPaIVGQeOUjPN8a) | 3:12 |
 | 19 | [DarkMagicSillySexy \(origin story\)](https://open.spotify.com/track/14ZekLSr6NEv2ab50RzPkC) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344) | 2:45 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 24 | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 |
 | 25 | [Moonwater](https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Moonwater](https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv) | 1:52 |
 
-Snapshot ID: `Z2tLAAAAAADByYt/2hiF6+e6WCANoVBM`
+Snapshot ID: `Z2ycgAAAAACUjIW2lXqSlgQt8KgrvQT0`

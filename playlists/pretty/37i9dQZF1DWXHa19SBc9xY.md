@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,040 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,121 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 67 | [Praia do Flamengo](https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc) | [Praia do Flamengo](https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9) | 4:31 |
 | 68 | [Apesar de Querer](https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Abacaxepa](https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy) | [Apesar de Querer](https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR) | 4:04 |
 | 69 | [samba do moço bonito](https://open.spotify.com/track/4eskR9gFtgYA2lY09lgqly) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [samba do moço bonito](https://open.spotify.com/album/1m7YxyY5M89ksdvOwuKc0e) | 3:17 |
-| 70 | [Acalanto](https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 3:44 |
-| 71 | [Várias Queixas](https://open.spotify.com/track/18TXfDzDZptWGoim29fDry) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Gilsons](https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ) | 2:50 |
-| 72 | [Minha Menina Bonita](https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A) | 3:58 |
+| 70 | [Várias Queixas](https://open.spotify.com/track/18TXfDzDZptWGoim29fDry) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Gilsons](https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ) | 2:50 |
+| 71 | [Minha Menina Bonita](https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A) | 3:58 |
+| 72 | [Acalanto](https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 3:44 |
 | 73 | [Amor das Minhas Vidas](https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Amor das Minhas Vidas](https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx) | 2:57 |
 | 74 | [Em Outro Lugar](https://open.spotify.com/track/64jPzmuoetfM7UDtXJVvJY) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6CvaSNTuutq8XmhNR74Wzg) | 3:37 |
 | 75 | [15b](https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [15b](https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir) | 2:43 |

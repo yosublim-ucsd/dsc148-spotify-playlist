@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: ANAVITÓRIA
 
-360 songs - 17 hr 10 min
+361 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Campo De Morango](https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Campo De Morango](https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT) | 1:16 | 2023-08-16 |  |
 | [Cancelaram o Carnaval](https://open.spotify.com/track/3gUs7mbRVLaGAKOcSuUHXU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Cancelaram o Carnaval](https://open.spotify.com/album/7qkynGkf30AuUc7jbPaedY) | 2:21 | 2022-03-18 | 2022-06-04 |
 | [Canoa](https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Canoa](https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D) | 2:57 | 2023-10-13 | 2023-11-25 |
+| [Capa De Revista](https://open.spotify.com/track/0PNwMRlZgwoWVe0idfGQPH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:22 | 2024-12-27 |  |
 | [Cavalgada](https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Cavalgada](https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ) | 2:01 | 2022-08-26 | 2022-12-24 |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-08 | 2023-12-01 |
 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 | 2024-03-08 | 2024-05-18 |
@@ -225,7 +226,7 @@
 | [Nu](https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Nu](https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR) | 2:47 | 2023-04-21 | 2024-09-07 |
 | [Numa Ilha](https://open.spotify.com/track/2MitriRScA3ZKpVd1lXAbm) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Numa Ilha](https://open.spotify.com/album/3iWRG01i6PWGpA7cADfovj) | 4:09 | 2024-12-05 |  |
 | [Number One](https://open.spotify.com/track/7ysjfyBKvnO2iX1vWqhn4X) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Number One](https://open.spotify.com/album/3fVQZx5dGqz2QmOeScqhMM) | 3:02 | 2022-01-14 | 2022-02-05 |
-| [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 | 2024-11-15 |  |
+| [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 | 2024-11-15 | 2024-12-28 |
 | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL) | 2:22 | 2022-01-26 | 2022-11-12 |
 | [Não Se Vá](https://open.spotify.com/track/0XoFdDHxXJ0SqgomwiLAet) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Não Se Vá](https://open.spotify.com/album/5ZDXO9LppxZbYNaqD1L1Rf) | 2:38 | 2022-12-19 | 2023-08-16 |
 | [Não Te Amo](https://open.spotify.com/track/4NIOFeptzAsbkOUnyBE6FY) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:00 | 2022-01-14 | 2022-02-05 |

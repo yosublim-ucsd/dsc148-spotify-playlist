@@ -1,13 +1,45 @@
 {
-  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Laufey",
-  "num_followers": 70467,
+  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Ed Sheeran",
+  "num_followers": 70481,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2T56AAAAAASFcIofEJoZBTcIdtNXQE0",
+  "snapshot_id": "Z240fQAAAAC7Du4Zj2q+Zx7jrWuH6AVO",
   "tracks": [
+    {
+      "added_at": "2024-12-27 05:00:45",
+      "album": {
+        "name": "+-=\u00f7\u00d7 (Tour Collection: Live)",
+        "url": "https://open.spotify.com/album/5ZewPP4nTMtJTn4krePB2d"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 320017,
+      "name": "Thinking out Loud - Live",
+      "url": "https://open.spotify.com/track/341taDjwWRCScNcntpP6M2"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "That\u2019s So True (Live From Radio City Music Hall)",
+        "url": "https://open.spotify.com/album/2vLLE2ASNtN0RNhk70uWgW"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 194199,
+      "name": "That\u2019s So True - Live From Radio City Music Hall",
+      "url": "https://open.spotify.com/track/6PU7QGEs8f4VECOUV0ZPrX"
+    },
     {
       "added_at": "2024-12-13 05:00:41",
       "album": {
@@ -27,38 +59,6 @@
       "duration_ms": 255546,
       "name": "Bewitched - Live at the Hollywood Bowl",
       "url": "https://open.spotify.com/track/5HYPtMvVMkodNkwlTCVkPV"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "That\u2019s So True (Live From Radio City Music Hall)",
-        "url": "https://open.spotify.com/album/2vLLE2ASNtN0RNhk70uWgW"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 194199,
-      "name": "That\u2019s So True - Live From Radio City Music Hall",
-      "url": "https://open.spotify.com/track/6PU7QGEs8f4VECOUV0ZPrX"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
-        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Reflection - Live - Spotify Anniversaries Version",
-      "url": "https://open.spotify.com/track/5xhjz2n0e7KYAb9sVdl9Pz"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -125,20 +125,20 @@
       "url": "https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG"
     },
     {
-      "added_at": "2024-12-20 05:00:24",
+      "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live At Eventim Apollo",
-        "url": "https://open.spotify.com/album/5572B4RA9LsfrkXA7rU29M"
+        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 268770,
-      "name": "Dive - Live At Eventim Apollo",
-      "url": "https://open.spotify.com/track/4tJXijvnfDZ5knslt6WanM"
+      "duration_ms": 159000,
+      "name": "Reflection - Live - Spotify Anniversaries Version",
+      "url": "https://open.spotify.com/track/5xhjz2n0e7KYAb9sVdl9Pz"
     },
     {
       "added_at": "2024-10-24 14:56:15",
@@ -291,6 +291,30 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "Leave The Door Open (Live)",
+        "url": "https://open.spotify.com/album/2gGhczmNc2vRIdqV4Rmhxq"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 260269,
+      "name": "Leave The Door Open - Live",
+      "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
         "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
       },
@@ -323,30 +347,6 @@
       "duration_ms": 165130,
       "name": "last night's mascara - live from Short n' Sweet Tour",
       "url": "https://open.spotify.com/track/4eJ4ULp0rNH0SKp2fGbgYL"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Leave The Door Open (Live)",
-        "url": "https://open.spotify.com/album/2gGhczmNc2vRIdqV4Rmhxq"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 260269,
-      "name": "Leave The Door Open - Live",
-      "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Ego Talking (Live)",
-        "url": "https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Ego Talking - Live From Radio City Music Hall",
-      "url": "https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3"
-    },
-    {
       "added_at": "2024-10-18 19:54:54",
       "album": {
         "name": "Live At Knebworth",
@@ -443,6 +427,22 @@
       "duration_ms": 355666,
       "name": "Angels",
       "url": "https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Ego Talking (Live)",
+        "url": "https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Ego Talking - Live From Radio City Music Hall",
+      "url": "https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
     },
     {
+      "added_at": "2024-12-20 05:00:24",
+      "album": {
+        "name": "Live At Eventim Apollo",
+        "url": "https://open.spotify.com/album/5572B4RA9LsfrkXA7rU29M"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 268770,
+      "name": "Dive - Live At Eventim Apollo",
+      "url": "https://open.spotify.com/track/4tJXijvnfDZ5knslt6WanM"
+    },
+    {
       "added_at": "2024-10-18 19:54:54",
       "album": {
         "name": "The Confessions Tour (Live)",
@@ -951,6 +967,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "Live \u00e0 Paris",
+        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 285466,
+      "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
+      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "The Confessions Tour (Live)",
         "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
       },
@@ -1015,38 +1047,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live \u00e0 Paris",
-        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
-      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 319401,
-      "name": "Sing - Live and in Session",
-      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
         "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 217173,
       "name": "Everything - Live from Madison Square Garden",
       "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Goodbye Yellow Brick Road - Live",
-      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1127,22 +1111,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 248394,
-      "name": "The A Team - Live and in Session",
-      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Live Friday The 13th",
         "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
       },
@@ -1171,6 +1139,22 @@
       "duration_ms": 304973,
       "name": "For the First Time - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Goodbye Yellow Brick Road - Live",
+      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1287,22 +1271,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "A New Day...Live In Las Vegas",
-        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
-      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify NYC)",
         "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
       },
@@ -1315,6 +1283,22 @@
       "duration_ms": 160400,
       "name": "Ghost - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "A New Day...Live In Las Vegas",
+        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+        "name": "Soul Live",
+        "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
         }
       ],
-      "duration_ms": 396565,
-      "name": "Stitches - Live",
-      "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
+      "duration_ms": 441666,
+      "name": "Crazy - Live",
+      "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1459,22 +1443,6 @@
       "duration_ms": 237386,
       "name": "Warwick Avenue - Live",
       "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Soul Live",
-        "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 441666,
-      "name": "Crazy - Live",
-      "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1507,6 +1475,22 @@
       "duration_ms": 199829,
       "name": "New Americana - Live From Webster Hall",
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 396565,
+      "name": "Stitches - Live",
+      "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "BADLANDS (Live From Webster Hall)",
+        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 197996,
+      "name": "Roman Holiday - Live From Webster Hall",
+      "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Fanatic Live from Caesars Colosseum",
         "url": "https://open.spotify.com/album/4mvwgzxcwaa4bfl9A29xRe"
       },
@@ -1587,22 +1587,6 @@
       "duration_ms": 262173,
       "name": "Alone - Live",
       "url": "https://open.spotify.com/track/4gLEaNDI7wk8SJNqyprEAd"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Spiceworld (25th Anniversary)",
-        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Stop - Live In Madrid, Spain / 1998",
-      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1623,6 +1607,22 @@
       "duration_ms": 212320,
       "name": "Shadow (feat. Carly Rae Jepsen) - MTV Unplugged",
       "url": "https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Stop - Live In Madrid, Spain / 1998",
+      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
     },
     {
       "added_at": "2024-10-18 19:54:54",

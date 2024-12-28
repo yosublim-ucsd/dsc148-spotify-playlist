@@ -2193,6 +2193,24 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275740,
+      "name": "reincarnated",
+      "url": "https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai"
+    },
+    {
+      "album": {
         "name": "The Nu Nation Project",
         "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
       },
@@ -2700,7 +2718,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 332228,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5qbhVL3vB7HwWvb0042B7y"

@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 144489,
       "name": "Ba Ba Bad",
       "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
@@ -3930,7 +3930,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 134097,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
@@ -6302,6 +6302,32 @@
     {
       "album": {
         "name": "Evil Jordan",
+        "url": "https://open.spotify.com/album/33j5cxdZ9rv8zsfHCHOnAr"
+      },
+      "artists": [
+        {
+          "name": "fedo DJ",
+          "url": "https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3"
+        },
+        {
+          "name": "ciaffa",
+          "url": "https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x"
+        },
+        {
+          "name": "vampvampvamp",
+          "url": "https://open.spotify.com/artist/5T9Qk7MADn1JHGrd2QdCAG"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134733,
+      "name": "Evil Jordan",
+      "url": "https://open.spotify.com/track/3vtJp67yAeJ0kr9GvnbImd"
+    },
+    {
+      "album": {
+        "name": "Evil Jordan",
         "url": "https://open.spotify.com/album/6evzK5Q7k6SPMkPlaZT1e5"
       },
       "artists": [
@@ -6312,7 +6338,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 134317,
       "name": "Evil Jordan",
       "url": "https://open.spotify.com/track/3RmxEgy4MZ5nYAwf0VQSGf"
@@ -8706,7 +8732,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 135746,
       "name": "Head n' Shoulders, pt.II",
       "url": "https://open.spotify.com/track/7c5ne5Au1cXjV8YJY9spqa"
@@ -12704,7 +12730,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Like It",
       "url": "https://open.spotify.com/track/3xPgk9mh2Jth22VTDjYQ95"
@@ -13372,7 +13398,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -13402,7 +13428,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -23200,7 +23226,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/1We3jgIztlD2Tkb0yOoX4b"
@@ -23218,7 +23244,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/6SowVm0zmhrJrbRgM4Rutz"

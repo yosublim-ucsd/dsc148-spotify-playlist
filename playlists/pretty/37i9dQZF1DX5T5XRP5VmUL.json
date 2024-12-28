@@ -1,6 +1,6 @@
 {
   "description": "Get in the holiday spirit with these festive essentials \u2728\u2744\ufe0f",
-  "num_followers": 154968,
+  "num_followers": 154930,
   "original_name": "Christmastime",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,22 @@
     {
       "added_at": "2024-12-24 05:00:15",
       "album": {
-        "name": "The Definite Best",
-        "url": "https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv"
+        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "J. Fred Coots",
+          "url": "https://open.spotify.com/artist/5IBkss8RwasiJY2sj5qEdM"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 182360,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS"
+      "duration_ms": 267600,
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
     },
     {
       "added_at": "2024-12-24 05:00:15",
@@ -587,22 +591,18 @@
     {
       "added_at": "2024-12-24 05:00:15",
       "album": {
-        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
-        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
+        "name": "The Definite Best",
+        "url": "https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv"
       },
       "artists": [
         {
-          "name": "J. Fred Coots",
-          "url": "https://open.spotify.com/artist/5IBkss8RwasiJY2sj5qEdM"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 267600,
-      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
-      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+      "duration_ms": 182360,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS"
     },
     {
       "added_at": "2024-12-24 05:00:15",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-12-24 05:00:15",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
-    },
-    {
-      "added_at": "2024-12-24 05:00:15",
-      "album": {
         "name": "If I Should Fall from Grace with God (Expanded Edition)",
         "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+    },
+    {
+      "added_at": "2024-12-24 05:00:15",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
     },
     {
       "added_at": "2024-12-24 05:00:15",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2024-12-24 05:00:15",
       "album": {
-        "name": "Christmas Songs by Sinatra",
-        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "B. Swanson Quartet",
-          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 155453,
-      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
-      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
+      "duration_ms": 232213,
+      "name": "Shake Up Christmas",
+      "url": "https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL"
     },
     {
       "added_at": "2024-12-24 05:00:15",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2024-12-24 05:00:15",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
         }
       ],
-      "duration_ms": 232213,
-      "name": "Shake Up Christmas",
-      "url": "https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL"
+      "duration_ms": 155453,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     },
     {
       "added_at": "2024-12-24 05:00:15",

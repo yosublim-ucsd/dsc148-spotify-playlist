@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: ElGrandeToto
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,788 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,810 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 18 | [Ab3ad Mada](https://open.spotify.com/track/3LIvkJqC0gMlyl3MZrOps1) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/5YYncq0VrMap6McmmNXiPO) | 3:05 |
 | 19 | [Messi](https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Messi](https://open.spotify.com/album/3DN32dCAFQUobrMOFECRyk) | 3:30 |
 | 20 | [7OB BAS EH](https://open.spotify.com/track/0vBOuyqWiVpARtV1Nh1w36) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [7OB BAS EH](https://open.spotify.com/album/2bN1FzC6pFqTayMEKJmszE) | 2:55 |
-| 21 | [SRTTT](https://open.spotify.com/track/1l21XzNeseGYg5fNhzTJWE) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:29 |
-| 22 | [MONW3AT 2019](https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 4:36 |
+| 21 | [MONW3AT 2019](https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 4:36 |
+| 22 | [SRTTT](https://open.spotify.com/track/1l21XzNeseGYg5fNhzTJWE) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:29 |
 | 23 | [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 |
 | 24 | [NATARQA](https://open.spotify.com/track/361FgPnhdBh4y4l4uIuKW9) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:01 |
 | 25 | [\( Saudi \) حزين الوقت](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [\( Saudi \) حزين الوقت](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 36 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
 | 37 | [MESH MESTAHMEL HAD](https://open.spotify.com/track/6cL8L9Swntbfpis7jAL0iO) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [FALTA](https://open.spotify.com/album/2XfZXthb4oxK1UwjkoUiKr) | 3:15 |
 | 38 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
-| 39 | [ANSAHA!](https://open.spotify.com/track/2prwfEVbn7maXugq9Se9YB) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Kingoo](https://open.spotify.com/artist/0kzkjhdSYMW3o4bm5DBbuT) | [ZHYMR](https://open.spotify.com/album/3udsEUYWbITZNWdJwCcnV2) | 2:22 |
-| 40 | [Zagalo](https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:23 |
+| 39 | [Zagalo](https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:23 |
+| 40 | [ANSAHA!](https://open.spotify.com/track/2prwfEVbn7maXugq9Se9YB) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Kingoo](https://open.spotify.com/artist/0kzkjhdSYMW3o4bm5DBbuT) | [ZHYMR](https://open.spotify.com/album/3udsEUYWbITZNWdJwCcnV2) | 2:22 |
 | 41 | [YA RAYEH](https://open.spotify.com/track/1uzGViEs42FcNS1KfqhaIT) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [YA RAYEH](https://open.spotify.com/album/3J3ZKCjqKeyDA3Dx9JJgNo) | 2:50 |
 | 42 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 |
 | 43 | [CADABRA](https://open.spotify.com/track/5Tar0bByzTkBdCtAx1qDHv) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ABRACADABRA](https://open.spotify.com/album/5gjYTipqa2zQnwG0LUkFUx) | 2:42 |

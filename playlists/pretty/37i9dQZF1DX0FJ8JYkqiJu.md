@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,144 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,189 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 56 | [Lifetime \- KASSIN Remix](https://open.spotify.com/track/1x8T63Txd5UnTvHUKlN4x0) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs), [KASSIN](https://open.spotify.com/artist/43U47RCO85AIb75zzIypfl) | [Lifetime \(KASSIN Remix\)](https://open.spotify.com/album/40VYumgeItn0xMNP5pp1eM) | 5:21 |
 | 57 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 | 58 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
-| 59 | [Control](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Control](https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3) | 4:18 |
-| 60 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 |
-| 61 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
+| 59 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 |
+| 60 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
+| 61 | [Control](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Control](https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3) | 4:18 |
 | 62 | [All Dancing Under The Same Sky \- Edit](https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [All Dancing Under The Same Sky](https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR) | 3:04 |
 | 63 | [Body](https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm) | [Future Soundscapes](https://open.spotify.com/artist/78GOlphTWBNF3LpZtbH1oA) | [Body](https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN) | 2:16 |
 | 64 | [No Fun](https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [No Fun](https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht) | 6:51 |
-| 65 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:46 |
+| 65 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 |
 | 66 | [As It Was](https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [As It Was](https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl) | 3:10 |
-| 67 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 |
+| 67 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:46 |
 | 68 | [Older](https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE](https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9) | 2:56 |
 | 69 | [Beth](https://open.spotify.com/track/4coIsInDg3uwBC3zUQhnsE) | [Nikko Mad](https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y), [No.oN](https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK) | [Beth](https://open.spotify.com/album/2jE8qn88oYgqh63C1UAtJ9) | 1:55 |
 | 70 | [The World](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [A.M](https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK) | 3:29 |

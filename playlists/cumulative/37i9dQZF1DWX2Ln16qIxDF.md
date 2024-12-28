@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más suaaave, o Luck Ra & Elvis Crespo.
 
-662 songs - 1 day 9 hr 38 min
+663 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Los Vagos](https://open.spotify.com/track/7t4XvCLzTHA6IksAEPjeVT) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Los Vagos](https://open.spotify.com/album/2qqxELPkyx4l9X492OrD7A) | 2:15 | 2024-10-25 |  |
 | [LUCK RA \| DJ TAO Turreo Sessions \#19](https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [LUCK RA \| DJ TAO Turreo Sessions \#19](https://open.spotify.com/album/2A4aFi0rBICWnzlm0HZ76j) | 2:10 | 2023-08-11 | 2024-05-03 |
 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 | 2023-05-19 | 2024-05-25 |
+| [Luck Ra: Bzrp Music Sessions, Vol\. 61](https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra: Bzrp Music Sessions, Vol\. 61](https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX) | 2:50 | 2024-12-28 |  |
 | [LUGARES QUE LLEGO](https://open.spotify.com/track/79s2n0evTdub5GPj7noqfK) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 3:45 | 2023-11-14 | 2024-01-05 |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2023-12-08 | 2024-05-03 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-24 | 2024-06-08 |

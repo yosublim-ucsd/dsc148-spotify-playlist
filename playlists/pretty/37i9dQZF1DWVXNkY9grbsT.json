@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 102853,
+  "num_followers": 102886,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "how it ends",
+        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 118577,
+      "name": "how it ends",
+      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Penelope Trappes Death Revisited",
         "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 315562,
       "name": "Penelope Trappes meets Silent Rumble",
       "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "how it ends",
-        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 118577,
-      "name": "how it ends",
-      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Movie Night Cancelled (Domenique Dumont Ambient Remix)",
         "url": "https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 299931,
       "name": "Movie Night Cancelled - Domenique Dumont Ambient Remix",
       "url": "https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "In Electric Time",
-        "url": "https://open.spotify.com/album/0GPfDLCGEDrCLQTcBTZYHh"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "Seawater Swell",
-      "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Lovotic",
         "url": "https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 347784,
       "name": "Blessed Are The Lovers",
       "url": "https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "In Electric Time",
+        "url": "https://open.spotify.com/album/0GPfDLCGEDrCLQTcBTZYHh"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Seawater Swell",
+      "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "EA9633",
         "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Castle Song",
-        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1143,6 +1127,22 @@
       "duration_ms": 238029,
       "name": "Belt & Carpet",
       "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Castle Song",
+        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Portico",
-        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 402333,
-      "name": "Portico",
-      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Ten As One",
         "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 336251,
       "name": "Carmel",
       "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Portico",
+        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 402333,
+      "name": "Portico",
+      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Golden Apples of the Sun",
-        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        },
-        {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        }
-      ],
-      "duration_ms": 273053,
-      "name": "Golden Apples Of The Sun",
-      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Atlas der Gedanken",
         "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 322857,
       "name": "Tagtraum",
       "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "duration_ms": 273053,
+      "name": "Golden Apples Of The Sun",
+      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Bancha",
+        "url": "https://open.spotify.com/album/47kqnIaOF6PozqltcBuDsX"
+      },
+      "artists": [
+        {
+          "name": "Shek O",
+          "url": "https://open.spotify.com/artist/3J5HctpEBnIATMWXaZUT2v"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Hot Milk",
+      "url": "https://open.spotify.com/track/72ftfYtMxmOH86Vu5p0rDf"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Briefly Human",
         "url": "https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 251485,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "HYbr:ID II",
         "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
       },
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Bancha",
-        "url": "https://open.spotify.com/album/47kqnIaOF6PozqltcBuDsX"
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
       "artists": [
         {
-          "name": "Shek O",
-          "url": "https://open.spotify.com/artist/3J5HctpEBnIATMWXaZUT2v"
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Hot Milk",
-      "url": "https://open.spotify.com/track/72ftfYtMxmOH86Vu5p0rDf"
+      "duration_ms": 251485,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Suikerplein EP",
-        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
-      },
-      "artists": [
-        {
-          "name": "BSS (AMS)",
-          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
-        }
-      ],
-      "duration_ms": 313701,
-      "name": "Westerpark",
-      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Music for k\u014d",
         "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Balmy Evening",
-        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
+        "name": "Suikerplein EP",
+        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
       },
       "artists": [
         {
-          "name": "Roman Fl\u00fcgel",
-          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+          "name": "BSS (AMS)",
+          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
         }
       ],
-      "duration_ms": 183672,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
+      "duration_ms": 313701,
+      "name": "Westerpark",
+      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1619,6 +1603,22 @@
       "duration_ms": 421021,
       "name": "Dreamers (Part I)",
       "url": "https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Balmy Evening",
+        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "duration_ms": 183672,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Nothing Will Last",
+        "url": "https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr"
+      },
+      "artists": [
+        {
+          "name": "Araceae",
+          "url": "https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6"
+        }
+      ],
+      "duration_ms": 557261,
+      "name": "Before the Sun",
+      "url": "https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "The Body Keeps Score / I Left My Juul in Monterey",
         "url": "https://open.spotify.com/album/0zC4RmPmdRzk3WyygOuFOt"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 207500,
       "name": "The Body Keeps Score",
       "url": "https://open.spotify.com/track/54xn0GmYF08I5Pi5rKMMEj"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Nothing Will Last",
-        "url": "https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr"
-      },
-      "artists": [
-        {
-          "name": "Araceae",
-          "url": "https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6"
-        }
-      ],
-      "duration_ms": 557261,
-      "name": "Before the Sun",
-      "url": "https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N"
     },
     {
       "added_at": "2024-09-06 16:55:52",

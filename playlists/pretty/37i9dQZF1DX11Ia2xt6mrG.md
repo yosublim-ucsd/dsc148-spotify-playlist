@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. RØZ en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,533 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,582 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 65 | [Rescue Me \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Rescue Me \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/5by805i64TKLSsy47zjlP0) | 2:52 |
 | 66 | [duelerespirar \(funnynoiseclub004\)](https://open.spotify.com/track/7DjGuTdfEZErB1eYCBCuGX) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [duelerespirar \(funnynoiseclub004\)](https://open.spotify.com/album/3eZTeLsewZnjm6rLDlhGDo) | 3:23 |
 | 67 | [SIN MIRAR \- Midnight Generation Remix](https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [SIN MIRAR \(Midnight Generation Remix\)](https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg) | 4:52 |
-| 68 | [SECUELAS](https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [SECUELAS](https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7) | 3:05 |
-| 69 | [Winter](https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Winter](https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS) | 2:24 |
+| 68 | [Winter](https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Winter](https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS) | 2:24 |
+| 69 | [SECUELAS](https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [SECUELAS](https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7) | 3:05 |
 | 70 | [La Diabla \(Electro Remix\)](https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [La Diabla \(Electro Remix\)](https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa) | 2:16 |
 | 71 | [Franca Barona](https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Franca Barona](https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL) | 3:35 |
 | 72 | [RAYBEN CAP 6: EL DANZÓN](https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK) | [RAYBEN CAP 6: EL DANZÓN](https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh) | 2:22 |

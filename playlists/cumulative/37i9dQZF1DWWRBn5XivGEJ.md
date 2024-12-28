@@ -4,7 +4,7 @@
 
 > アニメ「デッドデッドデーモンズデデデデデストラクション」の世界を彩る楽曲をプレイリストで。Music from "Dead Dead Demon's Dededede Destruction"! ©︎浅野いにお／小学館／DeDeDeDe Committee
 
-28 songs - 1 hr 10 min
+29 songs - 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [SHINSEKAIより](https://open.spotify.com/track/2H81CeDQKNHlZ1fMZ9rLD8) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [SHINSEKAIより](https://open.spotify.com/album/6IJlALPxn9Hr3yT8sELI93) | 3:34 | 2024-12-24 |  |
 | [Unanswered](https://open.spotify.com/track/4OHaEyMz0e8NVPdHGIJFrG) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:10 | 2024-12-24 |  |
 | [We](https://open.spotify.com/track/27Cznkjjel3tI62iY7JdKK) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:16 | 2024-12-24 |  |
+| [あした地球がこなごなになっても](https://open.spotify.com/track/2uFb5tGXFTxNj0G6TmDAXz) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [あした地球がこなごなになっても](https://open.spotify.com/album/0YOjUEuvJgFDUwQb5T6UmA) | 4:08 | 2024-12-27 |  |
 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 | 2024-12-24 |  |
 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 | 2024-12-24 |  |
 

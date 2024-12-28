@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: HNTR",
-  "num_followers": 250603,
+  "num_followers": 250683,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Gunfinger (Salute)",
-        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
-      },
-      "artists": [
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 166896,
-      "name": "Gunfinger (Salute)",
-      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Gunfinger (Salute)",
+        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
+      },
+      "artists": [
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 166896,
+      "name": "Gunfinger (Salute)",
+      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
-        "url": "https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Still Loud",
-          "url": "https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
-      "url": "https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Push",
         "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
       },
@@ -1087,6 +1063,30 @@
       "duration_ms": 185244,
       "name": "Push",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
+        "url": "https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Still Loud",
+          "url": "https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
+      "url": "https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Distortion Theory",
+        "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 208035,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 167001,
       "name": "King",
       "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Distortion Theory",
-        "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
-      },
-      "artists": [
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 208035,
-      "name": "Hot One",
-      "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
     },
     {
       "added_at": "2024-12-13 05:00:16",

@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 620352,
+  "num_followers": 620468,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAACFflI9hqu5pJxJ+jGV09sm",
+  "snapshot_id": "Z2ycgAAAAADMhlIUl88RLbbIjOQiltGH",
   "tracks": [
     {
       "added_at": null,
@@ -707,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+        "name": "Bigbang 03",
+        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 233320,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
+      "duration_ms": 218618,
+      "name": "Forever With U (Feat. Park Bom)",
+      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
     },
     {
       "added_at": null,
@@ -739,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigbang 03",
-        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        },
-        {
-          "name": "Park Bom",
-          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 218618,
-      "name": "Forever With U (Feat. Park Bom)",
-      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
+      "duration_ms": 233320,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
     },
     {
       "added_at": null,

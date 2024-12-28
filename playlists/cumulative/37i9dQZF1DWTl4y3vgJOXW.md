@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry and Kevin Durant
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Travis Hunter and Shedeur Sanders
 
 765 songs - 1 day 15 hr 34 min
 

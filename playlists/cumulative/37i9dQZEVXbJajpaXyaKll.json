@@ -4936,7 +4936,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -6900,7 +6900,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 150569,
       "name": "Faz de Chicote",
       "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
@@ -18016,7 +18016,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 152957,
       "name": "Tattoo - Spanish Version",
       "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
@@ -19598,6 +19598,32 @@
       "duration_ms": 261266,
       "name": "Una Mirada",
       "url": "https://open.spotify.com/track/7fKdDgBP8xP9XKPy4Ul9J2"
+    },
+    {
+      "album": {
+        "name": "Una Velita Afrohouse",
+        "url": "https://open.spotify.com/album/3OrMbjPZeFswQys9kxHGhg"
+      },
+      "artists": [
+        {
+          "name": "Axel Martinez",
+          "url": "https://open.spotify.com/artist/55a3tmLfnZaniwPDbTr5NF"
+        },
+        {
+          "name": "DJ CHINO MAXI ROA",
+          "url": "https://open.spotify.com/artist/47dsPhRhk9XBE369sTOdib"
+        },
+        {
+          "name": "Dj Dr Monkey",
+          "url": "https://open.spotify.com/artist/4aMGRTMF5Wy8cQh6u63R7e"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174082,
+      "name": "Una Velita Afrohouse",
+      "url": "https://open.spotify.com/track/3JJWtqK5HP0JY5h1RY5Yyh"
     },
     {
       "album": {

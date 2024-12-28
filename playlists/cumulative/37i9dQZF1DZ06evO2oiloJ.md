@@ -4,7 +4,7 @@
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 2 min
+65 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Even Love](https://open.spotify.com/track/3vVsF6ReTQd6KuunPE1qpb) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:34 | 2024-10-14 | 2024-11-03 |
 | [Fall Fast in Love](https://open.spotify.com/track/1mg8rzws9v1V7OrHAIwT84) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Fall Fast in Love](https://open.spotify.com/album/7cJpvSog0CL1J7hWZ2JtHo) | 2:52 | 2024-09-29 | 2024-10-28 |
 | [Fall Fast in Love](https://open.spotify.com/track/32rUiWgyd3Du6uJe0CbXR3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:52 | 2024-11-03 |  |
+| [Federal Nightmares](https://open.spotify.com/track/7K43BENx9D8k0RznDLBTie) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:08 | 2024-12-28 |  |
 | [Fight The Feeling](https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:40 | 2023-12-13 |  |
 | [Forever](https://open.spotify.com/track/4mChXwwU4xbiYIP7QQeLFP) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:34 | 2023-11-10 | 2024-10-13 |
 | [Forever Set In Stone](https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Forever Set In Stone](https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A) | 2:59 | 2023-11-10 | 2024-10-14 |
@@ -48,7 +49,7 @@
 | [Lost In Love](https://open.spotify.com/track/593a80uHcKk6zlG9uecQ53) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Be Charlotte](https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:43 | 2024-10-25 | 2024-11-09 |
 | [Love Overdose](https://open.spotify.com/track/5FwJ3Oevf84jNZE4kJ6mKh) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Jupiter's Diary: 7 Day Theory](https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH) | 2:22 | 2023-11-10 | 2024-10-14 |
 | [Never Get Over Me](https://open.spotify.com/track/5sRUXYW5XqkHpGUjNIaU1W) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 2:50 | 2023-11-10 | 2024-10-13 |
-| [Never Mind](https://open.spotify.com/track/3HcLydGKgxuQnenonTqj0v) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:50 | 2024-10-14 |  |
+| [Never Mind](https://open.spotify.com/track/3HcLydGKgxuQnenonTqj0v) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:50 | 2024-10-14 | 2024-12-28 |
 | [No Deal](https://open.spotify.com/track/2GJxkCRFJ6maLi2VmYRX9R) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:07 | 2023-11-10 | 2024-10-14 |
 | [Numb \- 2024](https://open.spotify.com/track/5Gz52yJ9UJLNuV42sqPnS1) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Numb \(2024\)](https://open.spotify.com/album/6olJ0gCPTGEFXsolFIll70) | 2:54 | 2024-04-25 | 2024-10-17 |
 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 | 2023-11-10 |  |

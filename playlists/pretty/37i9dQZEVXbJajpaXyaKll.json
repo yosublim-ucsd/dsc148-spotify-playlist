@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Argentina.",
-  "num_followers": 125928,
+  "num_followers": 125920,
   "original_name": "Viral 50 - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LwDESAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LwIVyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -25,23 +25,27 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
-        "name": "Me Llueven Las Barbies",
-        "url": "https://open.spotify.com/album/3Uy5dCqbvDxpxN6cLUtela"
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
       },
       "artists": [
         {
-          "name": "TRIP MUSIC",
-          "url": "https://open.spotify.com/artist/07UfFVZ1XRWV7TRNWbt1pU"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "duration_ms": 145162,
-      "name": "Me Llueven Las Barbies",
-      "url": "https://open.spotify.com/track/1716lvEJYr3XWpHNnkE0Xv"
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Parte & Choke",
         "url": "https://open.spotify.com/album/0JjFiOt1Ws7Fy5itavO13r"
@@ -65,27 +69,23 @@
       "url": "https://open.spotify.com/track/69vi5SUSJJF0CQJCZngFFS"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+        "name": "Me Llueven Las Barbies",
+        "url": "https://open.spotify.com/album/3Uy5dCqbvDxpxN6cLUtela"
       },
       "artists": [
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "TRIP MUSIC",
+          "url": "https://open.spotify.com/artist/07UfFVZ1XRWV7TRNWbt1pU"
         }
       ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
+      "duration_ms": 145162,
+      "name": "Me Llueven Las Barbies",
+      "url": "https://open.spotify.com/track/1716lvEJYr3XWpHNnkE0Xv"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar (Vers\u00e3o BH)",
         "url": "https://open.spotify.com/album/2unD5lf5RJvjXdKvBOxcuE"
@@ -109,27 +109,7 @@
       "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Dos Peine Rkt",
-        "url": "https://open.spotify.com/album/1jqnV3gENYYmNT9BXJDM61"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chavez Dj",
-          "url": "https://open.spotify.com/artist/5tCFSqlpTypwpcpLx4U7sO"
-        },
-        {
-          "name": "Tomi Rmx",
-          "url": "https://open.spotify.com/artist/5hk5Jw9GqvzUFLCd927bnZ"
-        }
-      ],
-      "duration_ms": 144284,
-      "name": "Dos Peine Rkt - Rkt",
-      "url": "https://open.spotify.com/track/68YtOHlQPFGK2HoOfbVZ9p"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Descer Pra BC",
         "url": "https://open.spotify.com/album/6Ey5sExBbStsPTgJ6WeIal"
@@ -149,7 +129,27 @@
       "url": "https://open.spotify.com/track/6RzcNTnS02dnqoQMdTkQwi"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Dos Peine Rkt",
+        "url": "https://open.spotify.com/album/1jqnV3gENYYmNT9BXJDM61"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chavez Dj",
+          "url": "https://open.spotify.com/artist/5tCFSqlpTypwpcpLx4U7sO"
+        },
+        {
+          "name": "Tomi Rmx",
+          "url": "https://open.spotify.com/artist/5hk5Jw9GqvzUFLCd927bnZ"
+        }
+      ],
+      "duration_ms": 144284,
+      "name": "Dos Peine Rkt - Rkt",
+      "url": "https://open.spotify.com/track/68YtOHlQPFGK2HoOfbVZ9p"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Private Suite (Vol. 2)",
         "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Lejos de la Ciudad (con Camilo)",
         "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Boppa Private (Afro House)",
         "url": "https://open.spotify.com/album/2ZjuRgeUFdna2eL50Jh4H5"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/6hXu7AenlRd9HZa3OLlV2k"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Amor de Vago",
         "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Boxindanga",
         "url": "https://open.spotify.com/album/72CZMSoQrgPxxjjWdAKOSc"
@@ -261,23 +261,7 @@
       "url": "https://open.spotify.com/track/4xKY2pP7CON2YFZLig4Mu5"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Pa Panamericano X Boppa Private (Tik Tok Viral) (Afro House)",
         "url": "https://open.spotify.com/album/6ZMVfWipFkuhl2Q3rAnJpV"
@@ -293,7 +277,23 @@
       "url": "https://open.spotify.com/track/3kkIERNkul0TS6TAOmfLgi"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "A200",
         "url": "https://open.spotify.com/album/67gbFVIhGgdMabCROgjbcV"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/6hLsMjw00j3HGrkUjKwmgo"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "UWAIE (versi\u00f3n cumbia)",
         "url": "https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7"
@@ -333,7 +333,27 @@
       "url": "https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 278014,
+      "name": "Like Him (feat. Lola Young)",
+      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "el cielo",
         "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
@@ -349,7 +369,27 @@
       "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "COLOCARTELO",
+        "url": "https://open.spotify.com/album/1H9iOGypdEnAKbNHSlU2EV"
+      },
+      "artists": [
+        {
+          "name": "Renzo ED",
+          "url": "https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh"
+        },
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "COLOCARTELO",
+      "url": "https://open.spotify.com/track/4xXvGEiTkoaIkOMWa4u3Mn"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Menina do Job X Viciada em Sentar",
         "url": "https://open.spotify.com/album/4gLdc7aPgHFuBrU8cnEvdr"
@@ -373,27 +413,7 @@
       "url": "https://open.spotify.com/track/54ld4Igvy7uwSbU97Pr9OI"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "COLOCARTELO",
-        "url": "https://open.spotify.com/album/1H9iOGypdEnAKbNHSlU2EV"
-      },
-      "artists": [
-        {
-          "name": "Renzo ED",
-          "url": "https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh"
-        },
-        {
-          "name": "elaggume",
-          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "COLOCARTELO",
-      "url": "https://open.spotify.com/track/4xXvGEiTkoaIkOMWa4u3Mn"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
@@ -413,27 +433,7 @@
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 278014,
-      "name": "Like Him (feat. Lola Young)",
-      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -449,7 +449,63 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Winter Ahead (with PARK HYO SHIN)",
+        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 234895,
+      "name": "Winter Ahead (with PARK HYO SHIN)",
+      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Cobro",
+        "url": "https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Cobro",
+      "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/1FSy24xMn9AUf2JFk3Axyb"
+      },
+      "artists": [
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 142467,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6KuS9WnV0GqXzVRUMIJ9aa"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO"
@@ -469,7 +525,7 @@
       "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -493,139 +549,7 @@
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/1FSy24xMn9AUf2JFk3Axyb"
-      },
-      "artists": [
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 142467,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6KuS9WnV0GqXzVRUMIJ9aa"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Fatty Masedo / Pipupipu",
-        "url": "https://open.spotify.com/album/75TqNqUMQOO0oxmlXOpgSM"
-      },
-      "artists": [
-        {
-          "name": "Tussiwarriors",
-          "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
-        }
-      ],
-      "duration_ms": 182236,
-      "name": "Pipupipu",
-      "url": "https://open.spotify.com/track/1L8n6B5p7chiiZU93RnLby"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Winter Ahead (with PARK HYO SHIN)",
-        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 234895,
-      "name": "Winter Ahead (with PARK HYO SHIN)",
-      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "If I Should Fall from Grace with God (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
-      },
-      "artists": [
-        {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        },
-        {
-          "name": "Kirsty MacColl",
-          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Fairytale of New York (feat. Kirsty MacColl)",
-      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Cobro",
-        "url": "https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Cobro",
-      "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Kh\u00e9?",
-      "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Bing Bong",
         "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
@@ -645,7 +569,23 @@
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Fatty Masedo / Pipupipu",
+        "url": "https://open.spotify.com/album/75TqNqUMQOO0oxmlXOpgSM"
+      },
+      "artists": [
+        {
+          "name": "Tussiwarriors",
+          "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
+        }
+      ],
+      "duration_ms": 182236,
+      "name": "Pipupipu",
+      "url": "https://open.spotify.com/track/1L8n6B5p7chiiZU93RnLby"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Ultra Complicado",
         "url": "https://open.spotify.com/album/1ioUP0MO23iAvJGlY3qLhw"
@@ -661,7 +601,67 @@
       "url": "https://open.spotify.com/track/1kcn16i5Tmp8udmHcahvi7"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Kh\u00e9?",
+      "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "El Malo (Techengue)",
         "url": "https://open.spotify.com/album/18H9TXpo5BJeOVp5uWSxhO"
@@ -677,7 +677,67 @@
       "url": "https://open.spotify.com/track/19Rd7nTfBtCx8fjbvhItzG"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Por ces\u00e1rea",
+        "url": "https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19"
+      },
+      "artists": [
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "duration_ms": 227145,
+      "name": "Ciudad de la Paz",
+      "url": "https://open.spotify.com/track/2H8upfbsuPJS7YfPVi4Wys"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/30xEbvEfbOvidCufcbfQtc"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 154588,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/6hWO2I9dnIFPtM076zQAfW"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Faz de Chicote",
+        "url": "https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT"
+      },
+      "artists": [
+        {
+          "name": "Lyu",
+          "url": "https://open.spotify.com/artist/56zHTpLLVZ6otn4eInVwJf"
+        },
+        {
+          "name": "ITALO SENA",
+          "url": "https://open.spotify.com/artist/1YVpgYKow2RgW5ZDLmApGf"
+        },
+        {
+          "name": "DJ PBeats",
+          "url": "https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9"
+        },
+        {
+          "name": "VYRUS",
+          "url": "https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f"
+        }
+      ],
+      "duration_ms": 150569,
+      "name": "Faz de Chicote",
+      "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Si Las Gatas Se Amotinan",
         "url": "https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew"
@@ -701,71 +761,7 @@
       "url": "https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/30xEbvEfbOvidCufcbfQtc"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 154588,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/6hWO2I9dnIFPtM076zQAfW"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Por ces\u00e1rea",
-        "url": "https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19"
-      },
-      "artists": [
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 227145,
-      "name": "Ciudad de la Paz",
-      "url": "https://open.spotify.com/track/2H8upfbsuPJS7YfPVi4Wys"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "RAGE",
-        "url": "https://open.spotify.com/album/1UPC9hkrEaC8wfgEVvTBVq"
-      },
-      "artists": [
-        {
-          "name": "K4OS",
-          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
-        }
-      ],
-      "duration_ms": 182812,
-      "name": "RAGE",
-      "url": "https://open.spotify.com/track/2X1fivIip1sRlCfNjFfOCP"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Anarqu\u00eda en Buenos Aires",
-        "url": "https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 238597,
-      "name": "Anarqu\u00eda en Buenos Aires",
-      "url": "https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "EL CL\u00faB",
         "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
@@ -781,63 +777,39 @@
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
-        "name": "Tiempo De Re\u00edr",
-        "url": "https://open.spotify.com/album/7bqiV9UyFWWOXKmxYLNjJM"
+        "name": "Anarqu\u00eda en Buenos Aires",
+        "url": "https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5"
       },
       "artists": [
         {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 219526,
-      "name": "Tiempo De Re\u00edr",
-      "url": "https://open.spotify.com/track/6lbssEp0h9KLoDk73hjdpf"
+      "duration_ms": 238597,
+      "name": "Anarqu\u00eda en Buenos Aires",
+      "url": "https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
-        "name": "Tattoo (Spanish Version)",
-        "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/1UPC9hkrEaC8wfgEVvTBVq"
       },
       "artists": [
         {
-          "name": "Kevz",
-          "url": "https://open.spotify.com/artist/1bACqFgiKE47Y61x3I8wdg"
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
         }
       ],
-      "duration_ms": 152957,
-      "name": "Tattoo - Spanish Version",
-      "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
+      "duration_ms": 182812,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/2X1fivIip1sRlCfNjFfOCP"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/2nHLZjtZeEKky3uOZtLbf1"
@@ -857,23 +829,27 @@
       "url": "https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
-        "name": "GOAT TALK",
-        "url": "https://open.spotify.com/album/17rkbGuB2UraVdrtgH84FD"
+        "name": "Tiempo De Re\u00edr",
+        "url": "https://open.spotify.com/album/7bqiV9UyFWWOXKmxYLNjJM"
       },
       "artists": [
         {
-          "name": "Zell",
-          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 120750,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/2Dy8d0Om8Yh1HZ5kZeo0eW"
+      "duration_ms": 219526,
+      "name": "Tiempo De Re\u00edr",
+      "url": "https://open.spotify.com/track/6lbssEp0h9KLoDk73hjdpf"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
@@ -893,7 +869,67 @@
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "GOAT TALK",
+        "url": "https://open.spotify.com/album/17rkbGuB2UraVdrtgH84FD"
+      },
+      "artists": [
+        {
+          "name": "Zell",
+          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
+        }
+      ],
+      "duration_ms": 120750,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/2Dy8d0Om8Yh1HZ5kZeo0eW"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
+      "album": {
+        "name": "Una Velita Afrohouse",
+        "url": "https://open.spotify.com/album/3OrMbjPZeFswQys9kxHGhg"
+      },
+      "artists": [
+        {
+          "name": "Axel Martinez",
+          "url": "https://open.spotify.com/artist/55a3tmLfnZaniwPDbTr5NF"
+        },
+        {
+          "name": "DJ CHINO MAXI ROA",
+          "url": "https://open.spotify.com/artist/47dsPhRhk9XBE369sTOdib"
+        },
+        {
+          "name": "Dj Dr Monkey",
+          "url": "https://open.spotify.com/artist/4aMGRTMF5Wy8cQh6u63R7e"
+        }
+      ],
+      "duration_ms": 174082,
+      "name": "Una Velita Afrohouse",
+      "url": "https://open.spotify.com/track/3JJWtqK5HP0JY5h1RY5Yyh"
+    },
+    {
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "D\u00f3nde est\u00e1n coraz\u00f3n",
         "url": "https://open.spotify.com/album/2DNcmMI6kTJaIqINql5Ndr"
@@ -913,27 +949,7 @@
       "url": "https://open.spotify.com/track/2JjqPX32iUOPJToL0CEBPm"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "I Am Lucky Brown",
         "url": "https://open.spotify.com/album/48xepal01RkB4rbRTX9szT"
@@ -953,7 +969,7 @@
       "url": "https://open.spotify.com/track/5eqZZLLZ4CkuUznPCOimsi"
     },
     {
-      "added_at": "2024-12-26 13:49:43",
+      "added_at": "2024-12-27 14:01:19",
       "album": {
         "name": "Menina de Vermelho",
         "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"

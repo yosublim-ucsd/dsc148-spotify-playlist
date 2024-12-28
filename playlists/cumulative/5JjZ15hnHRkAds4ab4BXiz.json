@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Hail To the Thief",
+        "url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199360,
+      "name": "2 + 2 = 5",
+      "url": "https://open.spotify.com/track/4xkcGfpM9RwB4IiQ7yx2dB"
+    },
+    {
+      "album": {
         "name": "Phrazes For The Young",
         "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
       },
@@ -1008,6 +1026,42 @@
       "duration_ms": 221293,
       "name": "BLUE SKY",
       "url": "https://open.spotify.com/track/7rYR2a3DisiE26KA2FpHgT"
+    },
+    {
+      "album": {
+        "name": "Twin Fantasy",
+        "url": "https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406934,
+      "name": "Bodys",
+      "url": "https://open.spotify.com/track/1Pbs2eCcX9p2onaAvMYvhk"
+    },
+    {
+      "album": {
+        "name": "In Rainbows",
+        "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Bodysnatchers",
+      "url": "https://open.spotify.com/track/4pWIwnnqx8k01fuF95UMIg"
     },
     {
       "album": {
@@ -2262,6 +2316,24 @@
       "duration_ms": 401727,
       "name": "Flexorcist",
       "url": "https://open.spotify.com/track/5pvE5kSCPnrUSzDIFXPuLV"
+    },
+    {
+      "album": {
+        "name": "Parties to End",
+        "url": "https://open.spotify.com/album/6rKIiNABS4Qu1ldVNxZ0Is"
+      },
+      "artists": [
+        {
+          "name": "Same Eyes",
+          "url": "https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223562,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0QpMPiKC7mSKfw9AtoQtNV"
     },
     {
       "album": {
@@ -4892,6 +4964,24 @@
       "duration_ms": 351786,
       "name": "Ode To The Mets",
       "url": "https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233817,
+      "name": "Ode to Viceroy",
+      "url": "https://open.spotify.com/track/6WZjjf4mKurHPC5BhdGwet"
     },
     {
       "album": {

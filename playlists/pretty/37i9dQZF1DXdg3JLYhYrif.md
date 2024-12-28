@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,392 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,471 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 11 | [Suíte 14 \(feat\. Mc Guimê\) \- Ao Vivo](https://open.spotify.com/track/4lbPwb1Beo7JU2VwuJRTeR) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov) | [Tempo Certo \(Ao Vivo em Campo Grande\)](https://open.spotify.com/album/2yqFE84Ne8JjDcEXhdi6qB) | 2:58 |
 | 12 | [Eu Mereço Ser Feliz \- Ao Vivo](https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [A Voz Do Meu Samba \- Ao Vivo](https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c) | 3:14 |
 | 13 | [Evoluiu](https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu](https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W) | 2:59 |
-| 14 | [Gaiola É o Troco](https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH) | [MC Du Black](https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET) | [Gaiola É o Troco](https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d) | 3:07 |
+| 14 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
 | 15 | [Vai malandra \(feat\. Tropkillaz & DJ Yuri Martins\)](https://open.spotify.com/track/6u0EAxf1OJTLS7CvInuNd7) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [Vai malandra \(feat\. Tropkillaz & DJ Yuri Martins\)](https://open.spotify.com/album/64qlhmKkqbgdezGE9vP5YK) | 3:21 |
-| 16 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
+| 16 | [Gaiola É o Troco](https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH) | [MC Du Black](https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET) | [Gaiola É o Troco](https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d) | 3:07 |
 | 17 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 |
 | 18 | [Bola Rebola](https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Bola Rebola](https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD) | 3:13 |
 | 19 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |

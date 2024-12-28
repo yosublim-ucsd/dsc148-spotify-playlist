@@ -1,12 +1,12 @@
 {
   "description": "Essential new pop tracks. Cover: Katy Perry",
-  "num_followers": 92397,
+  "num_followers": 92467,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2T59wAAAACss+ZFMmxw74OYc65gL6ty",
+  "snapshot_id": "Z240fAAAAAA0yu2Wt5Nw72loOCHW+jtu",
   "tracks": [
     {
       "added_at": "2024-12-20 05:00:39",
@@ -23,6 +23,206 @@
       "duration_ms": 158936,
       "name": "OK",
       "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "BEEEP",
+        "url": "https://open.spotify.com/album/1F3oAzwVHXjKG1vXTzXYTg"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "BEEEP",
+      "url": "https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "is it love at all?",
+        "url": "https://open.spotify.com/album/1PwuFNJdZhbtH7optCfEw5"
+      },
+      "artists": [
+        {
+          "name": "Lewis Watson",
+          "url": "https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R"
+        }
+      ],
+      "duration_ms": 156440,
+      "name": "is it love at all?",
+      "url": "https://open.spotify.com/track/6UWNP6v8hFXwoM2lYT2I91"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "Class Crush",
+        "url": "https://open.spotify.com/album/48ge6RxK7xHUdiYyezk37s"
+      },
+      "artists": [
+        {
+          "name": "Katherine Lynn-Rose",
+          "url": "https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Class Crush",
+      "url": "https://open.spotify.com/track/6rf9sZa4T8NYuL7Uqx8y2d"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "When The Party Ends",
+        "url": "https://open.spotify.com/album/5AF73l0OfFySgn23wMaacp"
+      },
+      "artists": [
+        {
+          "name": "Max Allais",
+          "url": "https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn"
+        }
+      ],
+      "duration_ms": 155323,
+      "name": "When The Party Ends",
+      "url": "https://open.spotify.com/track/0N254dOqqdCm5hviUV2kR9"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0UxP4J7ZeECzGQ3BaYx2DC"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "25",
+      "url": "https://open.spotify.com/track/56jTnYDvZUiqxObrZfTGKL"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "Questions (feat. Ari Abdul)",
+        "url": "https://open.spotify.com/album/2GvgkXso7I5OuOJbU79py5"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        },
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 165113,
+      "name": "Questions (feat. Ari Abdul)",
+      "url": "https://open.spotify.com/track/3kk0MeILiUA17MvF0Fz1At"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "Tornado Boy",
+        "url": "https://open.spotify.com/album/2VuPHy3jdZYR3D1w2GMx1D"
+      },
+      "artists": [
+        {
+          "name": "Jillian Rossi",
+          "url": "https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO"
+        }
+      ],
+      "duration_ms": 214730,
+      "name": "Tornado Boy",
+      "url": "https://open.spotify.com/track/7d619CJNlAhf7JBfFRgYKb"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "Scream My Name",
+        "url": "https://open.spotify.com/album/7cmOh3Pvwom7ppTMfYd1u0"
+      },
+      "artists": [
+        {
+          "name": "Thomas LaRosa",
+          "url": "https://open.spotify.com/artist/1ZyUaNx0nDAzkGlAIXqXZR"
+        }
+      ],
+      "duration_ms": 212898,
+      "name": "Scream My Name",
+      "url": "https://open.spotify.com/track/6scwcjmaGlV8n2PyZvN25g"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "You Came Through A Star",
+        "url": "https://open.spotify.com/album/2VhhVliWszYP5Bas7nH52l"
+      },
+      "artists": [
+        {
+          "name": "CATT",
+          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
+        }
+      ],
+      "duration_ms": 298674,
+      "name": "You Came Through A Star",
+      "url": "https://open.spotify.com/track/7bWy9u9xptK9WNmE9cJ3ll"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "Boys Love Girls",
+        "url": "https://open.spotify.com/album/275ajRljB3UHsoXVvT0BLr"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "duration_ms": 181753,
+      "name": "Boys Love Girls",
+      "url": "https://open.spotify.com/track/4BDS6sNKdmTsxJdw6BwRE5"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/7zS8dNHB6cBA22s9B8IpC4"
+      },
+      "artists": [
+        {
+          "name": "Great Good Fine Ok",
+          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        },
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/0crOkEvinak0NpXg0Ii6Jj"
+    },
+    {
+      "added_at": "2024-12-27 05:00:44",
+      "album": {
+        "name": "body bag",
+        "url": "https://open.spotify.com/album/3T6SV9CFVzyheMmCduMf4i"
+      },
+      "artists": [
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        }
+      ],
+      "duration_ms": 214205,
+      "name": "body bag",
+      "url": "https://open.spotify.com/track/1q1F1zcjti3Ymg5PE1PH8c"
     },
     {
       "added_at": "2024-12-20 05:00:39",
@@ -91,6 +291,22 @@
       "duration_ms": 125943,
       "name": "fancy",
       "url": "https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1"
+    },
+    {
+      "added_at": "2024-12-13 05:00:37",
+      "album": {
+        "name": "Keep Me Honest",
+        "url": "https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 190890,
+      "name": "Keep Me Honest",
+      "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
     },
     {
       "added_at": "2024-12-20 05:00:39",
@@ -419,22 +635,6 @@
       "duration_ms": 139399,
       "name": "W1LL U L13?",
       "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
-    },
-    {
-      "added_at": "2024-12-13 05:00:37",
-      "album": {
-        "name": "Keep Me Honest",
-        "url": "https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 190890,
-      "name": "Keep Me Honest",
-      "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
     },
     {
       "added_at": "2024-12-13 05:00:37",
@@ -1119,174 +1319,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner",
-        "url": "https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/2jv02Sqo81GWoZ49pabbnR"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Sincere (Deluxe)",
-        "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "MIA (feat. Chl\u00f6e)",
-      "url": "https://open.spotify.com/track/1jI4qCnDm6wDP5X6caZPeO"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "I Can\u2019t Believe We Never Went Out Dancing",
-        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "I Can\u2019t Believe We Never Went Out Dancing",
-      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/3IjmE1mPSh09HyJXUtElAN"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 255309,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4qR6ZdTuHGeXdWcKJB7sUA"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "dead2me",
-        "url": "https://open.spotify.com/album/4zhLf2SmruJcqRaRRzfIk3"
-      },
-      "artists": [
-        {
-          "name": "Ellise",
-          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "dead2me",
-      "url": "https://open.spotify.com/track/5F0OmmeUgcrxj2lwtshMsb"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 212043,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "+55",
-        "url": "https://open.spotify.com/album/0VX6wgdGYn5XM14imtqMBe"
-      },
-      "artists": [
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 127071,
-      "name": "Desaparecida",
-      "url": "https://open.spotify.com/track/4Ijrd176BzfZP5mpSgwsKS"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/0qLz8pQ964IpX7iCgJULnL"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/4bYTWJm6jDyVA68YAyI6JX"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "The Great Magician",
         "url": "https://open.spotify.com/album/63t10xbFmyLIsLoush60io"
       },
@@ -1299,22 +1331,6 @@
       "duration_ms": 183687,
       "name": "The Great Magician",
       "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "spoons for sweets",
-        "url": "https://open.spotify.com/album/3d7wroSMnUqagie8evzDPM"
-      },
-      "artists": [
-        {
-          "name": "TEHYA",
-          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "spoons for sweets",
-      "url": "https://open.spotify.com/track/6HdAF0VLBMRgjUZA18FWBz"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1655,22 +1671,6 @@
       "duration_ms": 215535,
       "name": "Nice Knowing You",
       "url": "https://open.spotify.com/track/6eC5dOu4lykDLO39JbSGdK"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "I\u2019ll Be Home For Christmas / I Think They Call This Love (Cover)",
-        "url": "https://open.spotify.com/album/7nHR6a47KVa7NHWVzKKvjl"
-      },
-      "artists": [
-        {
-          "name": "Matthew Ifield",
-          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "I Think They Call This Love - Cover",
-      "url": "https://open.spotify.com/track/14mT8BCOXiUUcGlb7KujkT"
     }
   ],
   "unique_name": "New Pop Picks",

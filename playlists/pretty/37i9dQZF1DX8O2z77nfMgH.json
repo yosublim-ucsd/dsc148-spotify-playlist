@@ -1,13 +1,533 @@
 {
-  "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Arc\u00e1ngel en portada.",
-  "num_followers": 887170,
+  "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Myke Towers, L-Gante",
+  "num_followers": 887264,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2UH6AAAAADSmC17xTWsupyzAUMaP5Wo",
+  "snapshot_id": "Z240egAAAACzq8qHMDxGwzwpAGbFQNW7",
   "tracks": [
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "LYKE MIIKE",
+        "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 190432,
+      "name": "LOS DEPURO (feat. L-Gante)",
+      "url": "https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "PIToRRO DE COCO",
+        "url": "https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206627,
+      "name": "PIToRRO DE COCO",
+      "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Licuado",
+        "url": "https://open.spotify.com/album/10Qr5P78EroWs4t7QyY7tT"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "duration_ms": 134583,
+      "name": "Licuado",
+      "url": "https://open.spotify.com/track/1XB3kUghHiRWiq8WvcQbvq"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Ta Te Ti",
+        "url": "https://open.spotify.com/album/6aGWe5Wa7PJbgV07PLqUk9"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 201482,
+      "name": "Ta Te Ti",
+      "url": "https://open.spotify.com/track/5a1ei3NVCdkaW4MnVtWP28"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Te Lo Buscaste",
+        "url": "https://open.spotify.com/album/6SGTzaBAysgqDBMhwBD52t"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 149290,
+      "name": "Te Lo Buscaste",
+      "url": "https://open.spotify.com/track/1mkD9ztE6k85pO6cP5Oikl"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "El Trato",
+        "url": "https://open.spotify.com/album/6Jsj65c2TXNkU6I0z9H4IB"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 179128,
+      "name": "El Trato",
+      "url": "https://open.spotify.com/track/6d56fS92xq5zwKs33Ozhkf"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/61gt12xt4MhfXFnNmRJBQz"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Gold Music",
+          "url": "https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze"
+        }
+      ],
+      "duration_ms": 128465,
+      "name": "Invicto",
+      "url": "https://open.spotify.com/track/0TqJnlDKmYdGS5gYalMuDj"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4pRW0rulpqoFpK0PL2632C"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "duration_ms": 149307,
+      "name": "Te Equivocaste Conmigo",
+      "url": "https://open.spotify.com/track/6ldLu5c02gcLebMBDlyvMp"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "NOCHE BUENA 2",
+        "url": "https://open.spotify.com/album/6BbKnjzg8AU87w9dLbn2nH"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "NOCHE BUENA 2",
+      "url": "https://open.spotify.com/track/6h9gKIYVRqAp3jcaf5ozvR"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "BESITOS DULCES",
+        "url": "https://open.spotify.com/album/6tpnJnYTgfnQse2nUdneeo"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "ANDY ALASKA",
+          "url": "https://open.spotify.com/artist/4Khd0aexSTIiryfokru56l"
+        }
+      ],
+      "duration_ms": 142960,
+      "name": "BESITOS DULCES",
+      "url": "https://open.spotify.com/track/44xqs8Z1S0YSkJSDZ59KMM"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "BLANQUITA PERLA",
+        "url": "https://open.spotify.com/album/1bIIgYf8b5YXHIADEPBPST"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 158474,
+      "name": "BLANQUITA PERLA",
+      "url": "https://open.spotify.com/track/1S9fzhOcPnfr8PsclH7Sct"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Ve\u00e1monos De Nuevo",
+        "url": "https://open.spotify.com/album/4UePYOVdPNv0hySCJLbyYX"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "Ve\u00e1monos De Nuevo",
+      "url": "https://open.spotify.com/track/4QQIZGtzj1JgXRUZcPmHYF"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "MC TOTA | DJ TAO Turreo Sessions #26",
+        "url": "https://open.spotify.com/album/0xtRtk7XcdLN4PHPaKp69B"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Mc Tota",
+          "url": "https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW"
+        }
+      ],
+      "duration_ms": 148920,
+      "name": "MC TOTA | DJ TAO Turreo Sessions #26",
+      "url": "https://open.spotify.com/track/1YfSpmdmqWBO6HlOTRBHZM"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Se Termin\u00f3",
+        "url": "https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 213900,
+      "name": "Se Termin\u00f3",
+      "url": "https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Los De La Nazza the Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/7CKHPPrMD8WHybUhrykhjk"
+      },
+      "artists": [
+        {
+          "name": "Musicologo Y Menes",
+          "url": "https://open.spotify.com/artist/0xf0KaVp6AMWgesiBh6fee"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 307903,
+      "name": "Feliz Navidad 3 (feat. Arcangel)",
+      "url": "https://open.spotify.com/track/0br3JPJt9ijBoNMjxtB3X8"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Que Cobarde",
+        "url": "https://open.spotify.com/album/38JqSZsfHn3blynly0prCH"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 92540,
+      "name": "Que Cobarde",
+      "url": "https://open.spotify.com/track/4wkgwTCJcnRw8V2X95zSCo"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Modo Lobo",
+        "url": "https://open.spotify.com/album/1yVtAFPp82dhyYNoxjteac"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Modo Lobo",
+      "url": "https://open.spotify.com/track/5wgyWg5sDu0mxwufWDjtxi"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/4hI6EtT0tzJPQuajGqvLHx"
+      },
+      "artists": [
+        {
+          "name": "Mista Mach",
+          "url": "https://open.spotify.com/artist/6Oxl0nXS9GmwDPY70MSb1a"
+        },
+        {
+          "name": "Mach & Daddy",
+          "url": "https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8"
+        }
+      ],
+      "duration_ms": 185102,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/61rHdhkp57SG7tXsiWqiUM"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Fr\u00edo Sur",
+        "url": "https://open.spotify.com/album/6JWMtrkFfWEpq9ObaSCGQ0"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Fr\u00edo Sur",
+      "url": "https://open.spotify.com/track/60tAwJoSqHoWL1cmADByHM"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Volver A Conocerte",
+        "url": "https://open.spotify.com/album/47FC3D7O78O8v53VvzrIzv"
+      },
+      "artists": [
+        {
+          "name": "Emilio Due\u00f1as",
+          "url": "https://open.spotify.com/artist/0zXWCTyYGEx7dl8Y0ouOsQ"
+        },
+        {
+          "name": "castleurbano",
+          "url": "https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws"
+        }
+      ],
+      "duration_ms": 184528,
+      "name": "Volver A Conocerte",
+      "url": "https://open.spotify.com/track/2NhrabFLx2acqbsJggoS2V"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Caracas",
+        "url": "https://open.spotify.com/album/2be77YRwAOtXsGBIAR79gK"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "duration_ms": 217325,
+      "name": "Caracas",
+      "url": "https://open.spotify.com/track/2XzZYJnX5g9HMhzp7odnaj"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Su N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2lGZwS7mAP5BKL0i4PNuxS"
+      },
+      "artists": [
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Debon",
+          "url": "https://open.spotify.com/artist/3oa4tsnOXuvY9IUav3sv8z"
+        },
+        {
+          "name": "Brayy",
+          "url": "https://open.spotify.com/artist/1HYLt4Y0xNhtn02PlhEepE"
+        }
+      ],
+      "duration_ms": 187412,
+      "name": "Su N\u00famero Uno",
+      "url": "https://open.spotify.com/track/72TPDdYgMdgQZDjVrKgqok"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Pobre Diablo",
+        "url": "https://open.spotify.com/album/34YnBB9cKjaGNbX1xmIHwh"
+      },
+      "artists": [
+        {
+          "name": "Puerto Candelaria",
+          "url": "https://open.spotify.com/artist/27neIga89YKdkCk6Yzv0ni"
+        }
+      ],
+      "duration_ms": 197799,
+      "name": "Pobre Diablo",
+      "url": "https://open.spotify.com/track/213Q7Rm8LCoOrNdIr0opU9"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "No me arrepiento",
+        "url": "https://open.spotify.com/album/3X1pFUyUTBCgsIWnxiT8Y2"
+      },
+      "artists": [
+        {
+          "name": "Pash",
+          "url": "https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s"
+        },
+        {
+          "name": "Squiz Nine",
+          "url": "https://open.spotify.com/artist/79MQXIRLbX25QY6iAxlITO"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "No me arrepiento",
+      "url": "https://open.spotify.com/track/13YjA2XZJETiPiajZ5SPAW"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Pa\u2019 Decirte La Verdad",
+        "url": "https://open.spotify.com/album/5EdUx5acTfqHSoRVcl9G2V"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        },
+        {
+          "name": "Stayleave",
+          "url": "https://open.spotify.com/artist/16Z8TUYeqzVd82zjNPaZOZ"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "Pa\u2019 Decirte La Verdad",
+      "url": "https://open.spotify.com/track/3pRTa5XfS1jXRYSXtNXhIx"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "EL VIAJE",
+        "url": "https://open.spotify.com/album/3LFyUtP2H1btrB6IdGS5vY"
+      },
+      "artists": [
+        {
+          "name": "Joseph Taics",
+          "url": "https://open.spotify.com/artist/3coDOUiaa2LyoNIBZ2HJUI"
+        }
+      ],
+      "duration_ms": 175641,
+      "name": "6&9",
+      "url": "https://open.spotify.com/track/4nXozWOORPkqJon7hcEGqb"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "Dime Que No (feat. Lenier)",
+        "url": "https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Dime Que No (feat. Lenier)",
+      "url": "https://open.spotify.com/track/5KqO3V6z8HomuTXfmM1bTi"
+    },
     {
       "added_at": "2024-12-20 06:00:08",
       "album": {
@@ -31,6 +551,26 @@
       "duration_ms": 268943,
       "name": "Bien Duro",
       "url": "https://open.spotify.com/track/1nyAHIcRAyUOLlDJyMHcTL"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 145555,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -75,34 +615,6 @@
     {
       "added_at": "2024-12-20 06:00:08",
       "album": {
-        "name": "Dime Que No (feat. Lenier)",
-        "url": "https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Dime Que No (feat. Lenier)",
-      "url": "https://open.spotify.com/track/5KqO3V6z8HomuTXfmM1bTi"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
         "name": "SUAVEMENTE",
         "url": "https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT"
       },
@@ -137,6 +649,22 @@
       "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
     },
     {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "Aguinaldo",
+        "url": "https://open.spotify.com/album/1NIulGAguTLJxREWCVe3QH"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 366514,
+      "name": "VEN DEVORAME OTRA VEZ",
+      "url": "https://open.spotify.com/track/0cdKJgwwt2HeVJkiTX8wpl"
+    },
+    {
       "added_at": "2024-12-13 05:00:32",
       "album": {
         "name": "En Otra Vida - Versi\u00f3n Cuarteto",
@@ -163,22 +691,70 @@
     {
       "added_at": "2024-12-20 06:00:08",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0"
+        "name": "Llame Pa Verte (REMIX)",
+        "url": "https://open.spotify.com/album/1EFK2qdJ2oOOH07tHvp7eZ"
       },
       "artists": [
         {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
         },
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
         }
       ],
-      "duration_ms": 145555,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
+      "duration_ms": 217959,
+      "name": "Llame Pa Verte (REMIX)",
+      "url": "https://open.spotify.com/track/67h6HYOtLh5eAsue8cLFDM"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "Quiero Dormir Cansado (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/4aKL9YaM2gCCBGDCtEtPnr"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 290752,
+      "name": "Quiero Dormir Cansado - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7fdWscJPJwSujugq18hF5u"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "Pr\u00e9ndete",
+        "url": "https://open.spotify.com/album/1FcBLtjVqFX4iD1nS0igjh"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "duration_ms": 173265,
+      "name": "Pr\u00e9ndete",
+      "url": "https://open.spotify.com/track/5n7zdeCyuNToalQ9mjvRK2"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -215,46 +791,6 @@
     {
       "added_at": "2024-12-20 06:00:08",
       "album": {
-        "name": "violento (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
-        "url": "https://open.spotify.com/album/2hBcnl0IC8ujcePdrz5iWC"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 285434,
-      "name": "violento - extra\u00eddo de LA NUBE EN EL JARD\u00cdN",
-      "url": "https://open.spotify.com/track/5sqE0sU84eyShEAbAGUGuV"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Llame Pa Verte (REMIX)",
-        "url": "https://open.spotify.com/album/1EFK2qdJ2oOOH07tHvp7eZ"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "Llame Pa Verte (REMIX)",
-      "url": "https://open.spotify.com/track/67h6HYOtLh5eAsue8cLFDM"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
         "name": "Trakata",
         "url": "https://open.spotify.com/album/0tDnBrjWnAqAohPcU0wK0i"
       },
@@ -271,30 +807,6 @@
       "duration_ms": 170688,
       "name": "Trakata",
       "url": "https://open.spotify.com/track/5YQDQrhCQQqjG8nBqYMrPJ"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Pr\u00e9ndete",
-        "url": "https://open.spotify.com/album/1FcBLtjVqFX4iD1nS0igjh"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        },
-        {
-          "name": "Ezya",
-          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
-        }
-      ],
-      "duration_ms": 173265,
-      "name": "Pr\u00e9ndete",
-      "url": "https://open.spotify.com/track/5n7zdeCyuNToalQ9mjvRK2"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -455,26 +967,6 @@
     {
       "added_at": "2024-12-20 06:00:08",
       "album": {
-        "name": "Quiero Dormir Cansado (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/4aKL9YaM2gCCBGDCtEtPnr"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 290752,
-      "name": "Quiero Dormir Cansado - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7fdWscJPJwSujugq18hF5u"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
         "name": "Tiempo De Re\u00edr",
         "url": "https://open.spotify.com/album/7bqiV9UyFWWOXKmxYLNjJM"
       },
@@ -491,6 +983,22 @@
       "duration_ms": 219526,
       "name": "Tiempo De Re\u00edr",
       "url": "https://open.spotify.com/track/6lbssEp0h9KLoDk73hjdpf"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "violento (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
+        "url": "https://open.spotify.com/album/2hBcnl0IC8ujcePdrz5iWC"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 285434,
+      "name": "violento - extra\u00eddo de LA NUBE EN EL JARD\u00cdN",
+      "url": "https://open.spotify.com/track/5sqE0sU84eyShEAbAGUGuV"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -531,22 +1039,6 @@
       "duration_ms": 159215,
       "name": "Ladr\u00f3n",
       "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Aguinaldo",
-        "url": "https://open.spotify.com/album/1NIulGAguTLJxREWCVe3QH"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 366514,
-      "name": "VEN DEVORAME OTRA VEZ",
-      "url": "https://open.spotify.com/track/0cdKJgwwt2HeVJkiTX8wpl"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -615,22 +1107,6 @@
       "duration_ms": 220000,
       "name": "MAS LOCO QUE TU",
       "url": "https://open.spotify.com/track/3VV1vrtcicdnst83mWFPnW"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "BLESSS THE ALBUM",
-        "url": "https://open.spotify.com/album/1y02bk1KS6PXRJDvxHdAen"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 117005,
-      "name": "MODO SPORT",
-      "url": "https://open.spotify.com/track/1p4BVC11HlRaD3UYUfz224"
     },
     {
       "added_at": "2024-12-20 06:00:08",

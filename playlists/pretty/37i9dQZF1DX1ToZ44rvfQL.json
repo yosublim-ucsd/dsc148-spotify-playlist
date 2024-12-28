@@ -1,6 +1,6 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 494933,
+  "num_followers": 495050,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
+      "duration_ms": 256555,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -203,34 +203,18 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 256555,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 289760,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -247,6 +231,22 @@
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 289760,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "9 de Julio",
-      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 237546,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "9 de Julio",
+      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
+        "name": "Presi\u00f3n",
+        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "Una Nueva Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -455,6 +471,22 @@
       "duration_ms": 212880,
       "name": "Spaghetti del Rock",
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -475,38 +507,6 @@
       "duration_ms": 284531,
       "name": "Ella Dijo",
       "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
-        "name": "Presi\u00f3n",
-        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "Una Nueva Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Big Yuyo",
         "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 168133,
       "name": "Waitin'",
       "url": "https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1027,42 +1027,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Pericos & Friends",
-        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "The Original Wailers",
-          "url": "https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW"
-        }
-      ],
-      "duration_ms": 233267,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
-        "name": "Vicentico 5",
-        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Creo Que Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Arruinarse (feat. Airbag) [En Vivo En River Plate]",
         "url": "https://open.spotify.com/album/28d02LdDvtRAuB3oojgsQ0"
       },
@@ -1083,6 +1047,22 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
+        "name": "Vicentico 5",
+        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Creo Que Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -1099,18 +1079,22 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+        "name": "Pericos & Friends",
+        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "The Original Wailers",
+          "url": "https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW"
         }
       ],
-      "duration_ms": 299960,
-      "name": "Traicionero",
-      "url": "https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ"
+      "duration_ms": 233267,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Traicionero",
+      "url": "https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
         "name": "Algo mejor",
         "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 232093,
       "name": "Llenos De Magia",
       "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 214090,
-      "name": "Las cosas que no se tocan",
-      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Hagan Correr la Voz",
         "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 221040,
       "name": "Tu Presencia",
       "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "Las cosas que no se tocan",
+      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Valentin Alsina",
-        "url": "https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC"
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
       },
       "artists": [
         {
-          "name": "2 minutos",
-          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Ya No Sos Igual",
-      "url": "https://open.spotify.com/track/1gom5NgPAZQOjpVLyh4HML"
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1575,6 +1575,22 @@
       "duration_ms": 248706,
       "name": "Selva",
       "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Valentin Alsina",
+        "url": "https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC"
+      },
+      "artists": [
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Ya No Sos Igual",
+      "url": "https://open.spotify.com/track/1gom5NgPAZQOjpVLyh4HML"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1643,22 +1659,6 @@
       "duration_ms": 238625,
       "name": "Si Supieras - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     }
   ],
   "unique_name": "Asadito",

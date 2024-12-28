@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 165541,
+  "num_followers": 165551,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAABqUah8bPH7PUnbXkNlsS2F",
+  "snapshot_id": "Z2ycgAAAAACMxVKXEK9Q2AYdWFoDl8kI",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 215490,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEST SELECTION \"blanc\"",
         "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
       },
@@ -319,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
       },
       "artists": [
         {
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 292760,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
+      "duration_ms": 215490,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
     },
     {
       "added_at": null,
@@ -347,6 +331,22 @@
       "duration_ms": 191803,
       "name": "\u767d\u8272\u8709\u8763",
       "url": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Wren",
-      "url": "https://open.spotify.com/track/4251HZQieHxgvAH6D7v8U5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "escalate",
         "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 242341,
       "name": "escalate",
       "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Wren",
+      "url": "https://open.spotify.com/track/4251HZQieHxgvAH6D7v8U5"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 365093,
-      "name": "\u30dd\u30e9\u30ea\u30b9",
-      "url": "https://open.spotify.com/track/0m37tmxs9lX9LQjoNcvhKk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEST SELECTION \"blanc\"",
         "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 337066,
       "name": "everlasting snow",
       "url": "https://open.spotify.com/track/1pS8rVJSUQUB5kZOMgXaA2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 365093,
+      "name": "\u30dd\u30e9\u30ea\u30b9",
+      "url": "https://open.spotify.com/track/0m37tmxs9lX9LQjoNcvhKk"
     },
     {
       "added_at": null,

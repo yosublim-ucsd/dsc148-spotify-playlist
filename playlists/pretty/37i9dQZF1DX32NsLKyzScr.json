@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2600048,
+  "num_followers": 2600177,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "It's Not Right But It's Okay",
-        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
       "artists": [
         {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 152304,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -371,22 +375,18 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
         }
       ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -1475,8 +1475,8 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "VHS RAVE",
-        "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
+        "name": "Rule The World (Everybody)",
+        "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
       },
       "artists": [
         {
@@ -1484,37 +1484,21 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "VHS RAVE",
-      "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
         },
         {
-          "name": "Aldae",
-          "url": "https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO"
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
         }
       ],
-      "duration_ms": 148930,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
+      "duration_ms": 172500,
+      "name": "Rule The World (Everybody)",
+      "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -1543,6 +1527,30 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Aldae",
+          "url": "https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO"
+        }
+      ],
+      "duration_ms": 148930,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -1611,8 +1619,8 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Rule The World (Everybody)",
-        "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
+        "name": "VHS RAVE",
+        "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
       },
       "artists": [
         {
@@ -1620,21 +1628,13 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Rule The World (Everybody)",
-      "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
+      "duration_ms": 191250,
+      "name": "VHS RAVE",
+      "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "So H\u00ef",
-        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 212139,
-      "name": "So H\u00ef",
-      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 236068,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
+        "name": "So H\u00ef",
+        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 212139,
+      "name": "So H\u00ef",
+      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -1991,22 +1991,22 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Animal (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
+        "name": "What Took You So Long",
+        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 140220,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo"
+      "duration_ms": 211058,
+      "name": "What Took You So Long",
+      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -2027,22 +2027,22 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "What Took You So Long",
-        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
+        "name": "Animal (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 211058,
-      "name": "What Took You So Long",
-      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
+      "duration_ms": 140220,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -2243,22 +2243,18 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Blah Blah Blah (Lilly Palmer Remix)",
-        "url": "https://open.spotify.com/album/2jNzuqo3EuqJl95swKdEZ8"
+        "name": "FALLING",
+        "url": "https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         }
       ],
-      "duration_ms": 214299,
-      "name": "Blah Blah Blah - Lilly Palmer Remix",
-      "url": "https://open.spotify.com/track/60BXInRHS0NQ1oVsnqA15a"
+      "duration_ms": 162210,
+      "name": "FALLING",
+      "url": "https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -2283,18 +2279,22 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "FALLING",
-        "url": "https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb"
+        "name": "Blah Blah Blah (Lilly Palmer Remix)",
+        "url": "https://open.spotify.com/album/2jNzuqo3EuqJl95swKdEZ8"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 162210,
-      "name": "FALLING",
-      "url": "https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ"
+      "duration_ms": 214299,
+      "name": "Blah Blah Blah - Lilly Palmer Remix",
+      "url": "https://open.spotify.com/track/60BXInRHS0NQ1oVsnqA15a"
     },
     {
       "added_at": "2024-12-24 05:00:14",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
         "name": "Saga",
         "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
       },
@@ -2355,22 +2371,6 @@
       "duration_ms": 336000,
       "name": "Saga",
       "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
     },
     {
       "added_at": "2024-12-24 05:00:14",

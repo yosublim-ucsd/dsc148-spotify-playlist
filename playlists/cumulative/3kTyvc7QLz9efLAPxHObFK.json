@@ -28037,6 +28037,24 @@
     },
     {
       "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/6PKMpAsQ2SJ0jTkKfjsmG2"
+      },
+      "artists": [
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162281,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/4z8SxgCpyQoL0lJRLWeSCK"
+    },
+    {
+      "album": {
         "name": "Thunder In Paradise",
         "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
       },

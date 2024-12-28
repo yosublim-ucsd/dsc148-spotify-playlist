@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Josh Ross
 
-176 songs - 9 hr 37 min
+177 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2024-11-08 |  |
 | [Middle Of The Bed](https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 3:21 | 2024-10-11 |  |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-28 |  |
-| [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 | 2024-06-28 |  |
+| [Molly's Song](https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Molly's Song](https://open.spotify.com/album/5Vltn1ZHfJyURcRuM1Uijr) | 3:05 | 2024-12-27 |  |
+| [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 | 2024-06-28 | 2024-12-28 |
 | [Movin' On](https://open.spotify.com/track/3yqJZoAQR9N2UlQmhzKAXa) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Movin' On](https://open.spotify.com/album/2MnW3DzqCDPXXRZP0lrGlC) | 2:58 | 2024-11-22 |  |
 | [My Bedroom](https://open.spotify.com/track/4s2hYIjegeOxsVXpVtwywh) | [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq), [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb), [Laila](https://open.spotify.com/artist/4EXZpEXNEw9idyyLvmdjhb) | [My Bedroom](https://open.spotify.com/album/2qNVSPTBeMo1vLUg1JF09z) | 2:47 | 2024-11-15 |  |
 | [Nashville, Nashville](https://open.spotify.com/track/4mMW9MinyGBln3OIGspXRr) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [Nashville, Nashville](https://open.spotify.com/album/5tBUahFZFM3ZPxVm95HgmH) | 4:08 | 2024-09-20 | 2024-10-12 |

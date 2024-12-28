@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Lainey Wilson
+> Today's top country hits\. Cover: Morgan Wallen
 
 843 songs - 1 day 21 hr 33 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,914 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,189 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 5 | [God Is a DJ](https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Forever Faithless \- The Greatest Hits](https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL) | 3:28 |
 | 6 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 |
 | 7 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 |
-| 8 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 |
-| 9 | [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 |
+| 8 | [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 |
+| 9 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 |
 | 10 | [Saltwater](https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Maire Brennan](https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR) | [Twenty](https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR) | 3:22 |
 | 11 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
 | 12 | [Airwave \- Radio Vocal Edit](https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Airwave](https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8) | 2:59 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 46 | [7 Colours \- Radio Edit](https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY) | [7 Colours \(The Remixes\)](https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E) | 3:15 |
 | 47 | [ResuRection \- Paul Oakenfold Full On Fluoro Mix](https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2) | [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 3:56 |
 | 48 | [Southern Sun](https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun / Ready Steady Go](https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h) | 3:55 |
-| 49 | [The Opera Song \(Brave New World\)](https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy) | [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [CMC](https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm) | [Brave New World \(The Opera Song\)](https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX) | 3:32 |
-| 50 | [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:36 |
+| 49 | [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:36 |
+| 50 | [The Opera Song \(Brave New World\)](https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy) | [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [CMC](https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm) | [Brave New World \(The Opera Song\)](https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX) | 3:32 |
 
 Snapshot ID: `Zp9+KwAAAAAwqVHFWk8z+onFjvGtqF1/`

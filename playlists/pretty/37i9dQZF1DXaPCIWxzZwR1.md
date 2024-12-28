@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop<br/><br/>Cover: SIENNA SPIRO
+> next gen pop<br/><br/>Cover: Nessa Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,603 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,291,506 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [TOURIST](https://open.spotify.com/track/6pT4XrJXq3uWYlfaKiflce) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [TOURIST](https://open.spotify.com/album/3rngU1YiZ9z6o6hBNdz99D) | 2:25 |
 | 100 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 |
 
-Snapshot ID: `Z2T58QAAAAAB+NSem5ftd19ZpzTTh124`
+Snapshot ID: `Z240fgAAAADKZywcsyemKydHwaT9JIA3`

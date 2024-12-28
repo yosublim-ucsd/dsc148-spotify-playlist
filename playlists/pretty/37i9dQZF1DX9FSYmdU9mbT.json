@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Maria Beth\u00e2nia, Caetano Veloso",
-  "num_followers": 1357787,
+  "num_followers": 1358477,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,18 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Lenine In Cit\u00e9 (Deluxe)",
-        "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
       },
       "artists": [
         {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 231572,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
+      "duration_ms": 214693,
+      "name": "For\u00e7a Estranha",
+      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+        "name": "Lenine In Cit\u00e9 (Deluxe)",
+        "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
         }
       ],
-      "duration_ms": 214693,
-      "name": "For\u00e7a Estranha",
-      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x"
+      "duration_ms": 231572,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -343,6 +343,26 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
         "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
@@ -359,22 +379,6 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Gente Aberta",
-      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
         "name": "Mal\u00e1sia",
         "url": "https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa"
       },
@@ -387,6 +391,22 @@
       "duration_ms": 346266,
       "name": "Nem um Dia",
       "url": "https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "Gente Aberta",
+      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -411,26 +431,6 @@
       "duration_ms": 327946,
       "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "De Noite Na Cama",
-      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
         "name": "Nova Bis - Ivan Lins",
         "url": "https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 230506,
       "name": "Vitoriosa - Ao Vivo",
       "url": "https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "De Noite Na Cama",
+      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
+        "name": "A Pele do Futuro Ao Vivo",
+        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 229864,
+      "name": "Chuva de Prata - Ao Vivo",
+      "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
         "name": "Mem\u00f3rias (2001) - Ao Vivo",
         "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 200820,
       "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
       "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
-        "name": "A Pele do Futuro Ao Vivo",
-        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 229864,
-      "name": "Chuva de Prata - Ao Vivo",
-      "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -1371,22 +1371,22 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
+        "name": "Antonio Carlos Jobim: Finest Hour",
+        "url": "https://open.spotify.com/album/2iBlbJFXs5U3dY8G9UGyTB"
       },
       "artists": [
         {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
-        },
-        {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
-      "duration_ms": 229013,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
+      "duration_ms": 214866,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
     },
     {
       "added_at": "2024-12-10 16:01:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2024-12-10 16:01:00",
       "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
+    },
+    {
+      "added_at": "2024-12-10 16:01:00",
+      "album": {
         "name": "Trinta",
         "url": "https://open.spotify.com/album/49I70bzY27d4gQaqdOdakq"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 291933,
       "name": "Espelhos D'\u00e1gua",
       "url": "https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL"
-    },
-    {
-      "added_at": "2024-12-10 16:01:00",
-      "album": {
-        "name": "Antonio Carlos Jobim: Finest Hour",
-        "url": "https://open.spotify.com/album/2iBlbJFXs5U3dY8G9UGyTB"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
     },
     {
       "added_at": "2024-12-10 16:01:00",

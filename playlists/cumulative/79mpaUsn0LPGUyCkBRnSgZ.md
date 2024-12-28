@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-773 songs - 2 day 4 hr 5 min
+775 songs - 2 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 | 2023-02-22 | 2024-01-10 |
 | [I Feel Ya' Strutter](https://open.spotify.com/track/1bpEObO6vZfCrmyvhTCaVv) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [False Priest \(Deluxe Edition\)](https://open.spotify.com/album/1XRBHUGuKtiXXOHg7N9NBx) | 3:40 | 2023-08-04 |  |
 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 | 2024-03-03 |  |
+| [I Look for You](https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 3:11 | 2024-12-27 |  |
 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 | 2024-02-07 |  |
 | [I Never Dream](https://open.spotify.com/track/2ZsbtrFluQsuzsJMApF6yw) | [Against All Logic](https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1) | [2012 \- 2017](https://open.spotify.com/album/1uzfGk9vxMXfaZ2avqwxod) | 6:45 | 2024-01-17 |  |
 | [I Still Do](https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:16 | 2024-01-06 | 2024-06-11 |
@@ -467,6 +468,7 @@
 | [New Low](https://open.spotify.com/track/6Y2bJ2mjDB2zXmVBtVqdXf) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:06 | 2024-10-14 |  |
 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 | 2023-05-19 |  |
 | [NINA](https://open.spotify.com/track/7cm2RiP6XC0LdzTWa6pi85) | [Vel Nine](https://open.spotify.com/artist/6Dcufc8lKB2eVG5JKnT5fZ), [NugLife](https://open.spotify.com/artist/3gkvPVQi7D6qstqC5urqvP) | [NINA](https://open.spotify.com/album/1uQF2AgBoZE0Z9e0baNipU) | 1:20 | 2023-12-20 |  |
+| [No More Hiding](https://open.spotify.com/track/3obGrchYRmtO5rk4O2ZtLZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:42 | 2024-12-27 |  |
 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 | 2024-03-24 |  |
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2023-06-22 | 2023-07-11 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/2Mc7SYpQ0KLJU6EjXnvqiW) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Caramel](https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS) | 3:03 | 2023-11-07 |  |

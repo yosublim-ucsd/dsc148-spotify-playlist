@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 120010,
+  "num_followers": 120059,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Tus Ojos No Me Ven (feat. Jowell y Randy and El Gorila)",
         "url": "https://open.spotify.com/album/0ZGMMZDzC6vtlKmgAl0PHn"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 279568,
       "name": "Tus Ojos No Me Ven - feat. Joewell y Randy",
       "url": "https://open.spotify.com/track/09xnGXVrbniWV4mLTgGyD5"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Paso la Vida Pensando",
+        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 242277,
+      "name": "Paso la Vida Pensando",
+      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
     },
     {
       "added_at": "2024-06-13 21:06:26",

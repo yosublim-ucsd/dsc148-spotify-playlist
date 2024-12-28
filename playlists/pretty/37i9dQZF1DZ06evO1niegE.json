@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 7963,
+  "num_followers": 7964,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAADzvRieGTNEMPfJ9sCOvHLZ",
+  "snapshot_id": "Z2ycgAAAAADX0c6ORi0so4qtpSpNTe6D",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 181880,
-      "name": "Sobrevivir",
-      "url": "https://open.spotify.com/track/2e8BFnEIvvcCF2SW85cOst"
+      "duration_ms": 175293,
+      "name": "Fue Por Algo",
+      "url": "https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 175293,
-      "name": "Fue Por Algo",
-      "url": "https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv"
+      "duration_ms": 181880,
+      "name": "Sobrevivir",
+      "url": "https://open.spotify.com/track/2e8BFnEIvvcCF2SW85cOst"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AHORA O NUNCA",
-        "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 156448,
-      "name": "AHORA O NUNCA",
-      "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiki Tai",
         "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 152316,
       "name": "Tiki Tai",
       "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AHORA O NUNCA",
+        "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 156448,
+      "name": "AHORA O NUNCA",
+      "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
     },
     {
       "added_at": null,

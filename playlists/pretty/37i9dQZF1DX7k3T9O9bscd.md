@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Hermanos Gutiérrez on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,546 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,684 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 62 | [Hit It and Quit It](https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fudge Sandwich](https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw) | 4:00 |
 | 63 | [The Moon Is In The Wrong Place](https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [The Moon Is In The Wrong Place](https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf) | 2:59 |
 | 64 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
-| 65 | [Risky Behaviour](https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Real Work](https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx) | 4:26 |
-| 66 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
+| 65 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
+| 66 | [Risky Behaviour](https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Real Work](https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx) | 4:26 |
 | 67 | [Lava](https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Lava](https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH) | 3:51 |
 | 68 | [Dune](https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s) | [Spiny Norman](https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K) | [Dune](https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC) | 3:59 |
 | 69 | [Reflections](https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw) | [Dead Vibrations](https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr) | [Reflections](https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs) | 3:55 |
@@ -96,15 +96,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 86 | [Yours Truly](https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Panoramas](https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW) | 5:04 |
 | 87 | [Maria También](https://open.spotify.com/track/2EFuKYBalAcplMyUVL3BDH) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/09AkhNYWocEZWbeYl1YBf7) | 3:10 |
 | 88 | [Shimmer and Disappear](https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Across The Meridian](https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg) | 3:15 |
-| 89 | [Saku Saku \(サクサク）](https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 3:34 |
-| 90 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
+| 89 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
+| 90 | [Saku Saku \(サクサク）](https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 3:34 |
 | 91 | [Static Resistance](https://open.spotify.com/track/0eOAeqbD5sxU77qdHSYLOY) | [Hookworms](https://open.spotify.com/artist/7c5Qvy0cv7VGzRnUSwnSnj) | [Microshift](https://open.spotify.com/album/3wDOavy8yEk8G2c0mfyTsA) | 3:48 |
 | 92 | [God of Sun](https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6) | [My Expansive Awareness](https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND) | [Taste of Blood](https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn) | 4:29 |
 | 93 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
-| 94 | [Iris Is Neil](https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd) | [Apifera](https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr) | [Keep The Outside Open](https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj) | 4:50 |
-| 95 | [Azure](https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV) | [Kaleydo](https://open.spotify.com/artist/0lUzMAqPTftADJZmdLe8ur) | [Azure](https://open.spotify.com/album/31lFR1BLOhNmWSh24DHPlv) | 2:35 |
-| 96 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
-| 97 | [Instinct, Eye and Mind](https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy) | [Moundabout](https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l) | [An Cnoc Mór](https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp) | 8:35 |
+| 94 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
+| 95 | [Instinct, Eye and Mind](https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy) | [Moundabout](https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l) | [An Cnoc Mór](https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp) | 8:35 |
+| 96 | [Azure](https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV) | [Kaleydo](https://open.spotify.com/artist/0lUzMAqPTftADJZmdLe8ur) | [Azure](https://open.spotify.com/album/31lFR1BLOhNmWSh24DHPlv) | 2:35 |
+| 97 | [Iris Is Neil](https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd) | [Apifera](https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr) | [Keep The Outside Open](https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj) | 4:50 |
 | 98 | [Fire In The Blood \- Live Masterlink Session](https://open.spotify.com/track/5CV4H5R5UzXHqzOFSECUaA) | [Jade Like The Stone](https://open.spotify.com/artist/0Kh6HlsJJeA2N3Zaol5plH), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Fire In The Blood \(Live Masterlink Session\)](https://open.spotify.com/album/40tFlVAC8ZH2Xx4j4cgPE2) | 4:17 |
 | 99 | [Velocirapture \(The Serpent Flew\)](https://open.spotify.com/track/3vcJQgv7OPKdEKDfsf5eON) | [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Velocirapture \(The Serpent Flew\)](https://open.spotify.com/album/71ZOwm0s7j6OBbwmTT2CUC) | 5:45 |
 | 100 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |

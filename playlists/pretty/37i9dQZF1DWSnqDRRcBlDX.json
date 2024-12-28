@@ -1,15 +1,15 @@
 {
   "description": "<a href=\"spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf\">Amelie Lens</a>' favorite tracks. Updated regularly. Curated by Amelie Lens. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 145713,
+  "num_followers": 145749,
   "original_name": "Amelie Lens' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAADO3RCzSSFqVIrdvEva6qxg",
+  "snapshot_id": "Z240dwAAAABnsPh6SmgTnZlqLh3Trqli",
   "tracks": [
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Thunderworld EP",
-        "url": "https://open.spotify.com/album/0EnjIPnxcu5CBv0TH5wt5X"
-      },
-      "artists": [
-        {
-          "name": "Milo Spykers",
-          "url": "https://open.spotify.com/artist/3FGLVtY3sNKFgkkmQ05AXl"
-        }
-      ],
-      "duration_ms": 297341,
-      "name": "Ghostrider",
-      "url": "https://open.spotify.com/track/0GQOK623qn4kXvvP5I2THO"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "1999 (Exhale VA005)",
         "url": "https://open.spotify.com/album/4oCflXpMzitBdQlA44lsl7"
@@ -57,7 +41,143 @@
       "url": "https://open.spotify.com/track/2xMCbLGu1AJ77QlT3PMEBl"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
+      "album": {
+        "name": "Ghost Kiss",
+        "url": "https://open.spotify.com/album/5hkkowvZvsjSG6KAEgDeiW"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 233430,
+      "name": "Ghost Kiss",
+      "url": "https://open.spotify.com/track/25czN86DWwXmhOS0BmkwRR"
+    },
+    {
+      "added_at": "2024-12-27 05:00:39",
+      "album": {
+        "name": "Thunderworld EP",
+        "url": "https://open.spotify.com/album/0EnjIPnxcu5CBv0TH5wt5X"
+      },
+      "artists": [
+        {
+          "name": "Milo Spykers",
+          "url": "https://open.spotify.com/artist/3FGLVtY3sNKFgkkmQ05AXl"
+        }
+      ],
+      "duration_ms": 297341,
+      "name": "Ghostrider",
+      "url": "https://open.spotify.com/track/0GQOK623qn4kXvvP5I2THO"
+    },
+    {
+      "added_at": "2024-12-27 05:00:39",
+      "album": {
+        "name": "Club Riot",
+        "url": "https://open.spotify.com/album/1phWVWb7LxEBcnoV5pqCOa"
+      },
+      "artists": [
+        {
+          "name": "David L\u00f6hlein",
+          "url": "https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C"
+        },
+        {
+          "name": "Rove Ranger",
+          "url": "https://open.spotify.com/artist/2tcPPLnCV4T3tevcfw1Iss"
+        },
+        {
+          "name": "SESH",
+          "url": "https://open.spotify.com/artist/5PJunO0egNrIx5RY2z7J8a"
+        }
+      ],
+      "duration_ms": 237736,
+      "name": "Club Riot",
+      "url": "https://open.spotify.com/track/4qNeGdcVP05QuoMEwzJLrI"
+    },
+    {
+      "added_at": "2024-12-27 05:00:39",
+      "album": {
+        "name": "Walking Alone In The Dark",
+        "url": "https://open.spotify.com/album/55QHJxqz6cW0GVLBPfackX"
+      },
+      "artists": [
+        {
+          "name": "TASSERY",
+          "url": "https://open.spotify.com/artist/4ezVmV5ppzmFl5ypOJiCCY"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "Catch The Light",
+      "url": "https://open.spotify.com/track/205tYWo8M6qvK3Sop2a1LY"
+    },
+    {
+      "added_at": "2024-12-27 05:00:39",
+      "album": {
+        "name": "slash 010 - 5 Mins Of Acid",
+        "url": "https://open.spotify.com/album/6pRDiTc1Sc31lLpITNIh0j"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "5 Mins Of Acid",
+      "url": "https://open.spotify.com/track/6NLvW45mqeoctfNA2YmPMr"
+    },
+    {
+      "added_at": "2024-12-27 05:00:39",
+      "album": {
+        "name": "44008",
+        "url": "https://open.spotify.com/album/2JmaBBmwpEzPYBHc3uv4Uz"
+      },
+      "artists": [
+        {
+          "name": "Ueberrest",
+          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+        }
+      ],
+      "duration_ms": 325159,
+      "name": "Cryptic",
+      "url": "https://open.spotify.com/track/1ublBbVajjdQnETd2Roelm"
+    },
+    {
+      "added_at": "2024-12-27 05:00:39",
+      "album": {
+        "name": "Balance (Original Mix)",
+        "url": "https://open.spotify.com/album/0sES82CUT3lQC0g0RZshYH"
+      },
+      "artists": [
+        {
+          "name": "AREA \u00d8NE",
+          "url": "https://open.spotify.com/artist/4cPhyd2BTkwlq4fyXo4riK"
+        }
+      ],
+      "duration_ms": 341240,
+      "name": "Balance - Original Mix",
+      "url": "https://open.spotify.com/track/6FEuMcPjQqOYWfSR5Onma7"
+    },
+    {
+      "added_at": "2024-12-27 05:00:39",
+      "album": {
+        "name": "Techno Germany - Rising Artists",
+        "url": "https://open.spotify.com/album/3yZW3nHy04UoVIY8RSHoKG"
+      },
+      "artists": [
+        {
+          "name": "VAENT",
+          "url": "https://open.spotify.com/artist/088MxveyshWnSvKlSxvcGC"
+        }
+      ],
+      "duration_ms": 364000,
+      "name": "Racid",
+      "url": "https://open.spotify.com/track/2cKZmx2WGlck9hIF0oFJDr"
+    },
+    {
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0x5bgzC2b4L6un2YnO2W6l"
@@ -77,7 +197,7 @@
       "url": "https://open.spotify.com/track/13zSFvC75hhnvQB7Q7m93D"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Acid Phase (Original Mix)",
         "url": "https://open.spotify.com/album/3Xdyj5UiW9gxqjfDwpDjbX"
@@ -93,7 +213,7 @@
       "url": "https://open.spotify.com/track/07UwtfPjdgSZdvClSvTxbp"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Ragnarok",
         "url": "https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10"
@@ -109,7 +229,7 @@
       "url": "https://open.spotify.com/track/6sUaaV9yoTwbLRH0THBG5a"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Verknipt Nochmal",
         "url": "https://open.spotify.com/album/3S7kPwcwvXMpHozZBK4Q86"
@@ -125,23 +245,7 @@
       "url": "https://open.spotify.com/track/2bQ7rn3w44TEIqgO9wEuQN"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Don't Get Lost In Heaven",
-        "url": "https://open.spotify.com/album/5iVhdVf0oze3VjhFUZnvBu"
-      },
-      "artists": [
-        {
-          "name": "BIIA",
-          "url": "https://open.spotify.com/artist/6aLjZidc4PrcXCrCnLzR6W"
-        }
-      ],
-      "duration_ms": 353032,
-      "name": "Don't Get Lost In Heaven",
-      "url": "https://open.spotify.com/track/1sfvv0RshRNNatJ73hVO2n"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "When I Rock (A.D.H.S. Remix)",
         "url": "https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic"
@@ -161,7 +265,7 @@
       "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Fallin' in Love",
         "url": "https://open.spotify.com/album/6iwZmJDNX7RWr33ZmGLi4p"
@@ -181,7 +285,7 @@
       "url": "https://open.spotify.com/track/7fxXPUDKDqUibNy5zWEdI3"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Thunderworld EP",
         "url": "https://open.spotify.com/album/0EnjIPnxcu5CBv0TH5wt5X"
@@ -197,7 +301,7 @@
       "url": "https://open.spotify.com/track/3IIxjHfPlbLHGCY9mptGiz"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG"
@@ -213,23 +317,7 @@
       "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Get Real Low",
-        "url": "https://open.spotify.com/album/7IwhlpcdYnRIXCauhD1FzL"
-      },
-      "artists": [
-        {
-          "name": "SIKOTI",
-          "url": "https://open.spotify.com/artist/7qWvKoQVe3UdZhG9clKb1y"
-        }
-      ],
-      "duration_ms": 298039,
-      "name": "Get Real Low",
-      "url": "https://open.spotify.com/track/2BkUyMpQtvrRtD2rzqLDwl"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "The Chosen",
         "url": "https://open.spotify.com/album/65grCGKrfvYxtWMyl66Jmo"
@@ -245,7 +333,7 @@
       "url": "https://open.spotify.com/track/56IDx1YZczUBwoF1akoEd7"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/2fdjmtLe66LqI9D6AluyQU"
@@ -269,7 +357,7 @@
       "url": "https://open.spotify.com/track/2GapBZRmLVf7r6pZ6E63VW"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "The Butterfly Effect",
         "url": "https://open.spotify.com/album/6toKgGyLzaDGH62SbBBGID"
@@ -285,7 +373,7 @@
       "url": "https://open.spotify.com/track/7fuEuQe7WDGXt6dVyRef7w"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "ACID-19",
         "url": "https://open.spotify.com/album/04RYU5wGgoFWFXBI9Jf5Wa"
@@ -301,23 +389,7 @@
       "url": "https://open.spotify.com/track/10prDqeTXIdBgd7sQq5XWz"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/5ilhGQhL9oU74pmYBSNlbc"
-      },
-      "artists": [
-        {
-          "name": "Sopik",
-          "url": "https://open.spotify.com/artist/0uiVxrM68v5NoVFPQshjtm"
-        }
-      ],
-      "duration_ms": 303564,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/3aUMxRxGSDBYN1no8c3AkA"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Ragnarok",
         "url": "https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10"
@@ -333,23 +405,7 @@
       "url": "https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/3G1ZTNCd8H7rWlpwSBrUWE"
-      },
-      "artists": [
-        {
-          "name": "Portex",
-          "url": "https://open.spotify.com/artist/0pkAxB7rgoFyPyQbyxJN8N"
-        }
-      ],
-      "duration_ms": 390902,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/6lzfUGV1owlw0hp5JvhpOL"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Golden Pills",
         "url": "https://open.spotify.com/album/4FGHlOMlDAwr0F8MdQ2Z0H"
@@ -365,7 +421,7 @@
       "url": "https://open.spotify.com/track/7xowrgAZVHQGOrITSXFHw3"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Underneath The Strobelights (Exhale VA005)",
         "url": "https://open.spotify.com/album/5N6EQkLrN8qryijUD1SF90"
@@ -381,23 +437,7 @@
       "url": "https://open.spotify.com/track/5fA9xb5xWLwNizZCZRjQUO"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Ivresse",
-        "url": "https://open.spotify.com/album/0wmUq5plJQoRRUTe8g8Te9"
-      },
-      "artists": [
-        {
-          "name": "La Kajofol",
-          "url": "https://open.spotify.com/artist/6LowYQ25RaBgNFrzbtdMSd"
-        }
-      ],
-      "duration_ms": 336514,
-      "name": "Ivresse",
-      "url": "https://open.spotify.com/track/0ycPUdXsGL4qagDVI6DeaM"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "ASOT 1132 - A State of Trance Episode 1132",
         "url": "https://open.spotify.com/album/0FnAVtRozAA7vSPabvtvR1"
@@ -417,7 +457,7 @@
       "url": "https://open.spotify.com/track/0NcJtoYG0F9OuJwvcN0URG"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Nada Brahma",
         "url": "https://open.spotify.com/album/4RdyRCNoiZ7ZZaabTMbmiX"
@@ -433,7 +473,7 @@
       "url": "https://open.spotify.com/track/2CL5VwUH5GG5xbr7jAQQw6"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "The Unexpected",
         "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
@@ -449,23 +489,7 @@
       "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Old School EP",
-        "url": "https://open.spotify.com/album/5n8Ql5AetOmyb7XNWIPuRw"
-      },
-      "artists": [
-        {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
-        }
-      ],
-      "duration_ms": 337978,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/1NzBj0x3sMG6qhYbNhpqJL"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "This Is The Way",
         "url": "https://open.spotify.com/album/1rhyy3pCxjjvgia6C8trgs"
@@ -481,7 +505,7 @@
       "url": "https://open.spotify.com/track/3zGBWe0GYCCRQY2XRucamq"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Golden Pills",
         "url": "https://open.spotify.com/album/4FGHlOMlDAwr0F8MdQ2Z0H"
@@ -497,7 +521,7 @@
       "url": "https://open.spotify.com/track/5U7mKOCKRs5xPYOpcggQXi"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/7yM16V22VOujgezbM9bUHg"
@@ -517,23 +541,7 @@
       "url": "https://open.spotify.com/track/5tjPpvhaP6WAhTdTWnZVta"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Hidden Gems Vol. 2",
-        "url": "https://open.spotify.com/album/2jHU3hqW8UXb3fiKn6v1k9"
-      },
-      "artists": [
-        {
-          "name": "The Obsessed",
-          "url": "https://open.spotify.com/artist/3FoGeeCexOhZ81jJvAWSzs"
-        }
-      ],
-      "duration_ms": 339095,
-      "name": "Free Yourself",
-      "url": "https://open.spotify.com/track/75qMKD5oPS7fJUne9J3GYC"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Spirit Remixes",
         "url": "https://open.spotify.com/album/0QFw7m2DqCiVmNMBTgZtYe"
@@ -553,7 +561,7 @@
       "url": "https://open.spotify.com/track/2L2kMXfOu2SRXOAwKJ0CUC"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Heimdall",
         "url": "https://open.spotify.com/album/721vJqjHxDyVl9x5MYHMGW"
@@ -569,7 +577,7 @@
       "url": "https://open.spotify.com/track/0tO4WojkEt6suH9FsTQ9vs"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt"
@@ -585,23 +593,7 @@
       "url": "https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/79oVopXRclTCTCjE2LzR81"
-      },
-      "artists": [
-        {
-          "name": "Pako Marckx",
-          "url": "https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh"
-        }
-      ],
-      "duration_ms": 369473,
-      "name": "The Dominator - Original Mix",
-      "url": "https://open.spotify.com/track/62UvH7eDBYrD24iOGLbNGa"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Off World",
         "url": "https://open.spotify.com/album/1Rdg20B555wujoMjl3PvgX"
@@ -617,27 +609,7 @@
       "url": "https://open.spotify.com/track/5RVAQo1eYoBJ77CCEnlL5v"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Hidden Gems Vol. 1",
         "url": "https://open.spotify.com/album/6JbKFwz9bgP12pRf7hHF4q"
@@ -653,7 +625,7 @@
       "url": "https://open.spotify.com/track/7sWnHBZB1E1NcbEZp4dhPI"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Hard Bounce",
         "url": "https://open.spotify.com/album/7HdgdZXU7yAffKKf33B9PJ"
@@ -669,23 +641,7 @@
       "url": "https://open.spotify.com/track/4j4DjDuz3jR0ZUilIPcK2B"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "COLOR VA03",
-        "url": "https://open.spotify.com/album/7hKxU851bFxIWHD8NH3XgR"
-      },
-      "artists": [
-        {
-          "name": "Pegassi",
-          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
-        }
-      ],
-      "duration_ms": 403973,
-      "name": "Cut It - Original Mix",
-      "url": "https://open.spotify.com/track/6kTT8AcENWGhgbEwVeMMty"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "DUSK VA010 (POLISHED ECHOES)",
         "url": "https://open.spotify.com/album/0nwI48NY0xVtWGFwxNXS3K"
@@ -705,23 +661,7 @@
       "url": "https://open.spotify.com/track/3TI50jItmrgVCgsxe391XV"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Ring the Hell",
-        "url": "https://open.spotify.com/album/7lMxhX2biG04iaL7ePJBMn"
-      },
-      "artists": [
-        {
-          "name": "La Kajofol",
-          "url": "https://open.spotify.com/artist/6LowYQ25RaBgNFrzbtdMSd"
-        }
-      ],
-      "duration_ms": 382400,
-      "name": "Ring the Hell",
-      "url": "https://open.spotify.com/track/5T3c8xfJNQwbfi3DB1lF7D"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Greyhound",
         "url": "https://open.spotify.com/album/6WsTgT0tzFKJ5BzNRNN3XF"
@@ -737,23 +677,7 @@
       "url": "https://open.spotify.com/track/5YIK9j2oOlu5DlZa9i0JYp"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Breakdown EP",
-        "url": "https://open.spotify.com/album/6SnOO5DS67kQV8QJyhT77T"
-      },
-      "artists": [
-        {
-          "name": "RBX",
-          "url": "https://open.spotify.com/artist/2G4dTLD07Q52jBjkO8kHST"
-        }
-      ],
-      "duration_ms": 349082,
-      "name": "Secret Weapon - Original Mix",
-      "url": "https://open.spotify.com/track/4Mt3RT79yjr79rBznZJnfq"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Techno Manifesto, Pt.2",
         "url": "https://open.spotify.com/album/29q6QY9nWcXsxT3vRtgbsA"
@@ -769,7 +693,7 @@
       "url": "https://open.spotify.com/track/0GFFzdCEiAYeMcArunq4zn"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "World of Magic",
         "url": "https://open.spotify.com/album/4mXUHr646P99aa02c5o5El"
@@ -785,7 +709,7 @@
       "url": "https://open.spotify.com/track/4KjgynSXWOLeo3QGMS5zY7"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Our House",
         "url": "https://open.spotify.com/album/4JSbLFD5waFrPlaDZy6xs7"
@@ -805,7 +729,7 @@
       "url": "https://open.spotify.com/track/2n5NQA2tegbdpBljR0sFn1"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Mayday Anthem (Thomas Schumacher Remix)",
         "url": "https://open.spotify.com/album/52DgryHGie1RWvB99nbVT3"
@@ -825,27 +749,7 @@
       "url": "https://open.spotify.com/track/0h5bjHIioNsHAV58lcNVqs"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
-        }
-      ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "SO\u00d1AR",
         "url": "https://open.spotify.com/album/6e2n4qL9dNGUiqOzzgPq7w"
@@ -861,39 +765,7 @@
       "url": "https://open.spotify.com/track/0NzmTnOl9G3GMrUCNcmMgN"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j"
-      },
-      "artists": [
-        {
-          "name": "HIJCKD",
-          "url": "https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Captain",
-      "url": "https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
-      },
-      "artists": [
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
-        }
-      ],
-      "duration_ms": 298181,
-      "name": "Zulu",
-      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "BONZAI",
         "url": "https://open.spotify.com/album/79l8b27ykmajDqCbVzcian"
@@ -913,7 +785,7 @@
       "url": "https://open.spotify.com/track/0gDfZQksdHrXAQ3DE9wO0X"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Rages 1992",
         "url": "https://open.spotify.com/album/6v9jhi0WbpnsFSaAAXX1HO"
@@ -929,27 +801,7 @@
       "url": "https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "303 State",
-        "url": "https://open.spotify.com/album/2Rk7WeMa2O3KhtTlKbg4vH"
-      },
-      "artists": [
-        {
-          "name": "Ramon Tapia",
-          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
-        },
-        {
-          "name": "Kai Tracid",
-          "url": "https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF"
-        }
-      ],
-      "duration_ms": 453068,
-      "name": "303 State",
-      "url": "https://open.spotify.com/track/3Wf6hVbr3YWCWt9py5OzDy"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Inherit Selection 02",
         "url": "https://open.spotify.com/album/3spTbiNUX4U81wolf3PKuM"
@@ -965,7 +817,7 @@
       "url": "https://open.spotify.com/track/2f36YfuZ6u3Oj4gEt5zsCP"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Back To The Oldschool",
         "url": "https://open.spotify.com/album/5UMYYt14YTimv5OXbLSxTZ"
@@ -981,7 +833,7 @@
       "url": "https://open.spotify.com/track/4SvPwb0RrnLNgZRyx5DNIG"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Genesys II",
         "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
@@ -1005,7 +857,7 @@
       "url": "https://open.spotify.com/track/2CAWDnsgQ5zIXef4ONWmUK"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Artificial",
         "url": "https://open.spotify.com/album/69CGzXSgnahrzyj37rsOGn"
@@ -1021,7 +873,7 @@
       "url": "https://open.spotify.com/track/5URVk3htOutve5iBBKNsfc"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Invasion",
         "url": "https://open.spotify.com/album/6zzShfo1aQvhd0B9KZgfht"
@@ -1037,23 +889,7 @@
       "url": "https://open.spotify.com/track/2XD9BZ1qvyWbzjyM8vF5TU"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Phonk Off Tekno",
-        "url": "https://open.spotify.com/album/3ErwwGb7X0427cO4VQYUVB"
-      },
-      "artists": [
-        {
-          "name": "Vortek's",
-          "url": "https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0"
-        }
-      ],
-      "duration_ms": 276601,
-      "name": "Phonk Off Tekno",
-      "url": "https://open.spotify.com/track/5ntLjWuK6EisY6HHJpN30Z"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Silver Spring",
         "url": "https://open.spotify.com/album/6P0IchYu7ZjH7MNJXtVFFZ"
@@ -1073,43 +909,7 @@
       "url": "https://open.spotify.com/track/5SzK6pTHa4m1c6FCS9JV4u"
     },
     {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Elements Of Joy",
-        "url": "https://open.spotify.com/album/1SthED4KtFfO7qhTeSw41T"
-      },
-      "artists": [
-        {
-          "name": "DJ Jordan",
-          "url": "https://open.spotify.com/artist/5bwTl3iyhj2j9hXlMTAZzM"
-        }
-      ],
-      "duration_ms": 328695,
-      "name": "Elements Of Joy",
-      "url": "https://open.spotify.com/track/5T2ryB743k3qH7CzfkcB6W"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Sacred Geometry",
-        "url": "https://open.spotify.com/album/0CYafEex5MyTsJUfScXI3b"
-      },
-      "artists": [
-        {
-          "name": "Electric Universe",
-          "url": "https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD"
-        },
-        {
-          "name": "Ace Ventura",
-          "url": "https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Ancient Aum",
-      "url": "https://open.spotify.com/track/5CiBbrUKWr6em5GiY0YCiM"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
+      "added_at": "2024-12-27 05:00:39",
       "album": {
         "name": "Emotional EP",
         "url": "https://open.spotify.com/album/79R7xJdFybNlRzBrdELrxN"

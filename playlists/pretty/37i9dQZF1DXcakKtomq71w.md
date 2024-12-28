@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,583 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,597 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Deeper Feelings](https://open.spotify.com/track/1gOq7cUABzUJa4Bo17vR6r) | [Fiona Kraft](https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt) | [Deeper Feelings EP](https://open.spotify.com/album/6BRrbrzkM4igreHoesdlHr) | 7:22 |
 | 50 | [Chaka \- Edit](https://open.spotify.com/track/66QIiW7FZs8zdFmo5zDKCa) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Chaka / Viola](https://open.spotify.com/album/6XLCieGsam9wfpt8zdG5vP) | 3:20 |
 
-Snapshot ID: `Z031VwAAAAAwI6G8F0klRl6Gq6ItgWXX`
+Snapshot ID: `Z240ewAAAADuSKQLu1ZxFgBY15FJ9Qzm`

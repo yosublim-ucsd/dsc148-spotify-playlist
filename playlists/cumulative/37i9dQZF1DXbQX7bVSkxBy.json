@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=gZoQU877TX6OLGhnT96eoA>EJ Newton</a>",
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=Yh8exV6QReuTXE7UgQk5Mw>Mercy Chinwo</a>",
   "name": "Testify",
   "tracks": [
     {
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 177684,
       "name": "Daily",
       "url": "https://open.spotify.com/track/3zfBfWwXSioHSj1EPA2Bxw"
@@ -6476,6 +6476,24 @@
       "duration_ms": 226649,
       "name": "You Do This One",
       "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
+    },
+    {
+      "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227169,
+      "name": "You Do This One",
+      "url": "https://open.spotify.com/track/5EHqWoa0odvdlXOGIvyAUS"
     },
     {
       "album": {

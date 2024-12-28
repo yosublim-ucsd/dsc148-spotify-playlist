@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,996 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,995 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 30 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
 | 31 | [Under The Sing Of Aquarius \- \(Bajo El Signo De Acuario\)](https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:43 |
 | 32 | [Tommy Lyz](https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:50 |
-| 33 | [Felicidad](https://open.spotify.com/track/69zNya4MS99hNuwBXZ46MT) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Cambia, Cambia](https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3) | 4:18 |
-| 34 | [Bajo el Sol y Frente a Dios](https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 4:24 |
+| 33 | [Bajo el Sol y Frente a Dios](https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 4:24 |
+| 34 | [Felicidad](https://open.spotify.com/track/69zNya4MS99hNuwBXZ46MT) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Cambia, Cambia](https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3) | 4:18 |
 | 35 | [Once Upon a Time There Was a World](https://open.spotify.com/track/1Kapeb3t2nfeLN5Az1qaMX) | [Kaleidoscope](https://open.spotify.com/artist/14c0CEGVWU6eO48Su2PiMf) | [Kaleidoscope](https://open.spotify.com/album/4NSvAvBOp5PjYeIRYmOJsW) | 8:09 |
 | 36 | [Peace and Love](https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 2:19 |
 | 37 | [La Ciudad Perdída](https://open.spotify.com/track/2HUStBRlw7k3zbEsAA7Aw4) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 8:14 |

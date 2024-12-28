@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Jacob Alon
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,623 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,633 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 | 59 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
 | 60 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 |
 | 61 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 |
-| 62 | [Long Dark Night](https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Long Dark Night](https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde) | 3:33 |
-| 63 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 |
+| 62 | [Ice Cold](https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:30 |
+| 63 | [Long Dark Night](https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Long Dark Night](https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde) | 3:33 |
 | 64 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 |
-| 65 | [Ice Cold](https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:30 |
+| 65 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 |
 | 66 | [Antarctica](https://open.spotify.com/track/192MdJJceGKpFE2HTIOsRB) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Antarctica](https://open.spotify.com/album/6kioG8s04cIoHuL6TZTqsG) | 3:14 |
 | 67 | [I'm In Love \(Subaru\)](https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [I'm In Love \(Subaru\)](https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp) | 4:01 |
 | 68 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 |
 | 69 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 |
-| 70 | [Mountain out of a Molehill](https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Mountain out of a Molehill](https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j) | 3:25 |
-| 71 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
+| 70 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
+| 71 | [Mountain out of a Molehill](https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Mountain out of a Molehill](https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j) | 3:25 |
 | 72 | [Can't Pretend To Know](https://open.spotify.com/track/4blFV4d1eU814W3w9Ohyv3) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Can't Pretend To Know](https://open.spotify.com/album/4bAP2pRy474uL5jDRi6jOx) | 2:41 |
 | 73 | [Bodies Laughing](https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bodies Laughing](https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH) | 4:57 |
 | 74 | [Way Over Your Head](https://open.spotify.com/track/0BrlNgoHkld65rRAosLY3h) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Yummy](https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY) | 4:18 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 | 81 | [Frogs](https://open.spotify.com/track/39irRnySrRADgui9AVTqdx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Frogs](https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I) | 4:34 |
 | 82 | [July](https://open.spotify.com/track/4UE79bkqivVpD66r4ocJjN) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [July](https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC) | 4:08 |
 | 83 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 |
-| 84 | [Long Throes](https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [All Hell](https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c) | 4:19 |
-| 85 | [I Wanna Live With You](https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [I Wanna Live With You](https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L) | 2:54 |
-| 86 | [Just Be Friends](https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Just Be Friends](https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG) | 3:37 |
-| 87 | [Life Is](https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k) | 3:08 |
+| 84 | [I Wanna Live With You](https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [I Wanna Live With You](https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L) | 2:54 |
+| 85 | [Long Throes](https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [All Hell](https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c) | 4:19 |
+| 86 | [Life Is](https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k) | 3:08 |
+| 87 | [Just Be Friends](https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Just Be Friends](https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG) | 3:37 |
 | 88 | [God Gets You Back](https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [God Gets You Back](https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD) | 6:40 |
 | 89 | [Blues](https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Blues](https://open.spotify.com/album/17MCK1RRgBwKzmOLioiap3) | 5:42 |
 | 90 | [White Whale](https://open.spotify.com/track/6CEIjm87xA5unfYc5Us3Le) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [White Whale](https://open.spotify.com/album/258egaEnfTB5i4d6o2jE9I) | 6:38 |

@@ -2623,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "BURR",
+        "url": "https://open.spotify.com/album/07b2ukrOeBHxOZmbGwZcNc"
+      },
+      "artists": [
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "BURR",
+      "url": "https://open.spotify.com/track/0TLuRPNABhCmoRDTwaMKK9"
+    },
+    {
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -7050,6 +7068,24 @@
       "duration_ms": 133021,
       "name": "i n t e r l u d e",
       "url": "https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0"
+    },
+    {
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "I Serve the Base",
+      "url": "https://open.spotify.com/track/1Rq4GtIucW9CAcF8B6PAbW"
     },
     {
       "album": {

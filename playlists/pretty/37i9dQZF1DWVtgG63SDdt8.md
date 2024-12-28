@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new Christmas tracks of all Christian, Gospel, Worship & Inspirational music genres this year!  Cover: Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,824 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,939 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 17311,
+  "num_followers": 17309,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAACrU8wzLcbuwY4gbQBPkHBE",
+  "snapshot_id": "Z2ycgAAAAADgLhjD9apBcMP8796D4fYp",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 217487,
-      "name": "Hell Yeah!",
-      "url": "https://open.spotify.com/track/28q2v77HT5TrNO4Spm4AYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World's On Fire",
         "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 200293,
       "name": "Out of Control",
       "url": "https://open.spotify.com/track/4qcXBDltsFoCFeERHYfFKE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 217487,
+      "name": "Hell Yeah!",
+      "url": "https://open.spotify.com/track/28q2v77HT5TrNO4Spm4AYk"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pulling Teeth",
-        "url": "https://open.spotify.com/album/64jWfAfHPQJoPV97K8VCA2"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Pulling Teeth",
-      "url": "https://open.spotify.com/track/3a69nodIxOdzXjkdM3Eul4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 229773,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pulling Teeth",
+        "url": "https://open.spotify.com/album/64jWfAfHPQJoPV97K8VCA2"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Pulling Teeth",
+      "url": "https://open.spotify.com/track/3a69nodIxOdzXjkdM3Eul4"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Have Mixed Drinks About Feelings",
-        "url": "https://open.spotify.com/album/7EXmRDsRPmFj3D5IanLt59"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 176344,
-      "name": "I Have Mixed Drinks About Feelings",
-      "url": "https://open.spotify.com/track/5eA3lmgW05BXjGlNmkjML5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Your Friends",
         "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 187516,
       "name": "Call Your Friends",
       "url": "https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Have Mixed Drinks About Feelings",
+        "url": "https://open.spotify.com/album/7EXmRDsRPmFj3D5IanLt59"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 176344,
+      "name": "I Have Mixed Drinks About Feelings",
+      "url": "https://open.spotify.com/track/5eA3lmgW05BXjGlNmkjML5"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 200018,
-      "name": "If Your Looking for Your Knife...I Think My Back Found It",
-      "url": "https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk"
+      "duration_ms": 177666,
+      "name": "Playmate of the Year",
+      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Playmate of the Year",
-      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
+      "duration_ms": 200018,
+      "name": "If Your Looking for Your Knife...I Think My Back Found It",
+      "url": "https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 163767,
-      "name": "Headrush",
-      "url": "https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB"
+      "duration_ms": 176803,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 176803,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
+      "duration_ms": 163767,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB"
     },
     {
       "added_at": null,

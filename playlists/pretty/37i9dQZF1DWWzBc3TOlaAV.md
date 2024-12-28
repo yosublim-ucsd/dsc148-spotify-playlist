@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,192 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,323 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 78 | [Needles and Pins \- Mono](https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:11 |
 | 79 | [Good Times Bad Times \- Remaster](https://open.spotify.com/track/6sMGNw1E4q79DoAFGDCYuD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin \(Deluxe Edition\)](https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET) | 2:46 |
 | 80 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 |
-| 81 | [Sweet Caroline \- Single Version](https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [In My Lifetime](https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi) | 3:21 |
-| 82 | [Gloria \- Stereo Version](https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Gold \(International Version\)](https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH) | 2:36 |
-| 83 | [Pinball Wizard](https://open.spotify.com/track/60C8zGPTdAAmDshHnMuyfc) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy \(Remastered 2013 Super Deluxe Edition\)](https://open.spotify.com/album/5OISW6z3D02yCZn06mR1or) | 3:00 |
+| 81 | [Pinball Wizard](https://open.spotify.com/track/60C8zGPTdAAmDshHnMuyfc) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy \(Remastered 2013 Super Deluxe Edition\)](https://open.spotify.com/album/5OISW6z3D02yCZn06mR1or) | 3:00 |
+| 82 | [Sweet Caroline \- Single Version](https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [In My Lifetime](https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi) | 3:21 |
+| 83 | [Gloria \- Stereo Version](https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Gold \(International Version\)](https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH) | 2:36 |
 | 84 | [Wild Thing](https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [Hit Single Anthology](https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v) | 2:38 |
 | 85 | [Care Of Cell 44](https://open.spotify.com/track/5QXqz1KDz8Z8DmfQoxWmmy) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0) | 3:55 |
 | 86 | [Sunny Afternoon](https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Deluxe\)](https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa) | 3:30 |

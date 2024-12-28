@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 677337,
+  "num_followers": 677363,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAABZ6JFCcFumn06IxjmQGSX+",
+  "snapshot_id": "Z2ycgAAAAADEm5Yka0mOBY7A57sgiHXH",
   "tracks": [
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 281112,
-      "name": "Bitter - Narration By Cardi B",
-      "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Writing on the Wall (feat. Post Malone & Cardi B)",
         "url": "https://open.spotify.com/album/2ZoLcA4NMOjJGFKeANgNpF"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 201270,
       "name": "Writing on the Wall (feat. Post Malone & Cardi B)",
       "url": "https://open.spotify.com/track/7x9nXsowok1JszkVztI5NI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 281112,
+      "name": "Bitter - Narration By Cardi B",
+      "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
     },
     {
       "added_at": null,

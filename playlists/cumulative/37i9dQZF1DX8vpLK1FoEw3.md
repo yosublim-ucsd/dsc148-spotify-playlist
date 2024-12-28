@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8vpLK1FoEw3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8vpLK1FoEw3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8vpLK1FoEw3)
 
-### [Um BELO Natal](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
+### [Um BELO Ano Novo](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
 
-> o perfume de passas já está aqui….ho\-ho\-ho ouças os sinos jingle jingle <a href="spotify:artist:7hLjkyL9Pz9xtQNahzJZki">Belo</a> \#MeuSpotify
+> Deu 00h, é hora de se Reinventar!! Que 2025 seja um <a href="spotify:artist:7hLjkyL9Pz9xtQNahzJZki">Belo</a>  ano para todos!!! \#MeuSpotify feita por Belo
 
 547 songs - 1 day 6 hr 56 min
 

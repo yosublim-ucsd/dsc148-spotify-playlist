@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAADMrJ97Z+KfAkadLwRiFM36",
+  "snapshot_id": "Z2ycgAAAAADZHeDFszhs5Xw+z0wctEWq",
   "tracks": [
     {
       "added_at": null,
@@ -308,29 +308,29 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 187413,
-      "name": "Apoteose",
-      "url": "https://open.spotify.com/track/2pdYJaqRkCtfEFyjI57SrU"
+      "duration_ms": 163240,
+      "name": "Ordem Natural",
+      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Steez",
-        "url": "https://open.spotify.com/album/5OSxlvN0gkzU3bpa17OXYy"
+        "name": "Luzes",
+        "url": "https://open.spotify.com/album/5bjiU7VDGurwUxD2Ef0yyS"
       },
       "artists": [
         {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+          "name": "RND",
+          "url": "https://open.spotify.com/artist/4QzF7cdbEoTv4MZA8VcoDK"
         },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 175492,
-      "name": "Steez",
-      "url": "https://open.spotify.com/track/2pl34rFhkva9jvDMkReTxm"
+      "duration_ms": 191492,
+      "name": "Luzes",
+      "url": "https://open.spotify.com/track/0xHHFkz6LBAkDc4yOrRI9c"
     },
     {
       "added_at": null,
@@ -376,35 +376,35 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Ordem Natural",
-      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
+      "duration_ms": 187413,
+      "name": "Apoteose",
+      "url": "https://open.spotify.com/track/2pdYJaqRkCtfEFyjI57SrU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Luzes",
-        "url": "https://open.spotify.com/album/5bjiU7VDGurwUxD2Ef0yyS"
+        "name": "Steez",
+        "url": "https://open.spotify.com/album/5OSxlvN0gkzU3bpa17OXYy"
       },
       "artists": [
         {
-          "name": "RND",
-          "url": "https://open.spotify.com/artist/4QzF7cdbEoTv4MZA8VcoDK"
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
         },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 191492,
-      "name": "Luzes",
-      "url": "https://open.spotify.com/track/0xHHFkz6LBAkDc4yOrRI9c"
+      "duration_ms": 175492,
+      "name": "Steez",
+      "url": "https://open.spotify.com/track/2pl34rFhkva9jvDMkReTxm"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Zulu: Quarta Parede, Vol.3",
-        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
+        "name": "JazzKilla",
+        "url": "https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S"
       },
       "artists": [
         {
@@ -412,13 +412,13 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Kiai",
+          "url": "https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3"
         }
       ],
-      "duration_ms": 196981,
-      "name": "Pequenas Coisas",
-      "url": "https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z"
+      "duration_ms": 194362,
+      "name": "Fa\u00e7a a Coisa Certa",
+      "url": "https://open.spotify.com/track/6iaQxxNSX0ehJtMiaGfB3E"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JazzKilla",
-        "url": "https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Kiai",
-          "url": "https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3"
-        }
-      ],
-      "duration_ms": 194362,
-      "name": "Fa\u00e7a a Coisa Certa",
-      "url": "https://open.spotify.com/track/6iaQxxNSX0ehJtMiaGfB3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
       },
@@ -487,6 +467,30 @@
       "duration_ms": 158117,
       "name": "Alvo",
       "url": "https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vinhos & Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Quero ser tua",
+      "url": "https://open.spotify.com/track/6Lzk9116XUyfm3AiqoFYNM"
     },
     {
       "added_at": null,
@@ -532,33 +536,29 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 170826,
-      "name": "O Dia Mais Quente do Ano",
-      "url": "https://open.spotify.com/track/2muI3n9LN0NDkYR0DV2cz6"
+      "duration_ms": 168146,
+      "name": "Nuvens",
+      "url": "https://open.spotify.com/track/2wn7DPTTHKgleHUFuuBlZQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vinhos & Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa"
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
       },
       "artists": [
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 194181,
-      "name": "Quero ser tua",
-      "url": "https://open.spotify.com/track/6Lzk9116XUyfm3AiqoFYNM"
+      "duration_ms": 196981,
+      "name": "Pequenas Coisas",
+      "url": "https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 168146,
-      "name": "Nuvens",
-      "url": "https://open.spotify.com/track/2wn7DPTTHKgleHUFuuBlZQ"
+      "duration_ms": 170826,
+      "name": "O Dia Mais Quente do Ano",
+      "url": "https://open.spotify.com/track/2muI3n9LN0NDkYR0DV2cz6"
     },
     {
       "added_at": null,
@@ -787,26 +787,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Machine #21",
-        "url": "https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg"
+        "name": "Banho de Folhas (Nyack Remix)",
+        "url": "https://open.spotify.com/album/4oMm4lyLphLCRKCVHv7QRb"
       },
       "artists": [
         {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         },
         {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
         },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 335146,
-      "name": "Intro 11",
-      "url": "https://open.spotify.com/track/5rvzn08qm73r3eVsfpIJB5"
+      "duration_ms": 250458,
+      "name": "Banho de Folhas - Nyack Remix",
+      "url": "https://open.spotify.com/track/7Iop6KQKKaunEcvGIa4Z6w"
     },
     {
       "added_at": null,
@@ -831,26 +831,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banho de Folhas (Nyack Remix)",
-        "url": "https://open.spotify.com/album/4oMm4lyLphLCRKCVHv7QRb"
+        "name": "Hip Hop Machine #21",
+        "url": "https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
         },
         {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
         },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 250458,
-      "name": "Banho de Folhas - Nyack Remix",
-      "url": "https://open.spotify.com/track/7Iop6KQKKaunEcvGIa4Z6w"
+      "duration_ms": 335146,
+      "name": "Intro 11",
+      "url": "https://open.spotify.com/track/5rvzn08qm73r3eVsfpIJB5"
     },
     {
       "added_at": null,

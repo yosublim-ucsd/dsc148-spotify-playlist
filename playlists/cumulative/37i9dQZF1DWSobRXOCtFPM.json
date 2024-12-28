@@ -374,7 +374,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 221821,
       "name": "And It Goes Like - Mixed",
       "url": "https://open.spotify.com/track/3sPfd9YjF7fmVwliZypqMz"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 220004,
       "name": "Angry Minimal - Mixed",
       "url": "https://open.spotify.com/track/5Tk4lRS7lCjM7bHAXsQPnm"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 281367,
       "name": "Climb The Tree (Marc Romboy Remix) - Mixed",
       "url": "https://open.spotify.com/track/5NLvNOSFhOQ8usa1j0FJi1"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 221815,
       "name": "Cowdry - Mixed",
       "url": "https://open.spotify.com/track/3z6iOoOWRRzCIe2LkAhT6S"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 280446,
       "name": "Cressick - Mixed",
       "url": "https://open.spotify.com/track/0Tk8BAR0eq9cSTEqvo5ERU"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 381738,
       "name": "DFAM on the Field - Mixed",
       "url": "https://open.spotify.com/track/7elWlZIaZJ063CNhiFJVK6"
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 275907,
       "name": "Fortunate 500GB - Mixed",
       "url": "https://open.spotify.com/track/5o9gVIunYPp2hmCJlym3Dw"
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 276362,
       "name": "Gangwon - Mixed",
       "url": "https://open.spotify.com/track/7ateuqPb1rUOwff5nWFq2t"
@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 269091,
       "name": "Handlingskraft - Mixed",
       "url": "https://open.spotify.com/track/3Xos7pA0UFacmcQD46h8rO"
@@ -3370,7 +3370,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 203637,
       "name": "Lavapies - Mixed",
       "url": "https://open.spotify.com/track/6R6x4SoNOpYqs5M4uFmPOD"
@@ -3572,10 +3572,82 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 356367,
       "name": "Magic Club Nights - Mixed",
       "url": "https://open.spotify.com/track/4Q91jjRakhZrOfRY3sZ3Y1"
+    },
+    {
+      "album": {
+        "name": "MDFC Presents Make My Dreams a Reality (DJ Spen & Gary Hudgins Remix)",
+        "url": "https://open.spotify.com/album/1QpgrDnqhehvPD3F3MeAFn"
+      },
+      "artists": [
+        {
+          "name": "MDFC",
+          "url": "https://open.spotify.com/artist/7uWqqgv6VPqAihzjh6JwNN"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Gary Hudgins",
+          "url": "https://open.spotify.com/artist/66I1rqodsNrH6GX4rD5BoW"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Eric Powell",
+          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
+        },
+        {
+          "name": "Emanuel \"GQ\" LeBlanc",
+          "url": "https://open.spotify.com/artist/5zZauBSaHEkvyS5c6MCN1h"
+        },
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/3jmMMoxWDbP6gIpslNl2MP"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Make My Dreams a Reality - DJ Spen & Gary Hudgins Remix",
+      "url": "https://open.spotify.com/track/6D04fgoIJWS7vZXWE3stuz"
+    },
+    {
+      "album": {
+        "name": "MDFC Presents Make My Dreams a Reality",
+        "url": "https://open.spotify.com/album/7BNDz95OivT8DWvrzQdxh9"
+      },
+      "artists": [
+        {
+          "name": "MDFC",
+          "url": "https://open.spotify.com/artist/7uWqqgv6VPqAihzjh6JwNN"
+        },
+        {
+          "name": "Emanuel \"GQ\" LeBlanc",
+          "url": "https://open.spotify.com/artist/5zZauBSaHEkvyS5c6MCN1h"
+        },
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/3jmMMoxWDbP6gIpslNl2MP"
+        },
+        {
+          "name": "Dr Packer",
+          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "Make My Dreams a Reality - Dr Packer Remix",
+      "url": "https://open.spotify.com/track/2QtvBWtijVrMHVY9wpXJld"
     },
     {
       "album": {
@@ -3846,7 +3918,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 374384,
       "name": "My Dark Materials - Mixed",
       "url": "https://open.spotify.com/track/6yGpL26LaxfI1QGMl9VjmW"
@@ -3994,7 +4066,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 207275,
       "name": "Nocturnal (Reb\u016bke Edit) - Mixed",
       "url": "https://open.spotify.com/track/6r4gWTDPplDGEfqiYxuT0L"
@@ -4072,7 +4144,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 369410,
       "name": "Non Stop - Mixed",
       "url": "https://open.spotify.com/track/42fTcKAVODxkjMRSwd1lqs"
@@ -4330,7 +4402,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 327271,
       "name": "Pablo Assan - Mixed",
       "url": "https://open.spotify.com/track/5UfrmNZquTXyVNDcocA2m1"
@@ -4348,7 +4420,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 348632,
       "name": "Pacana - Mixed",
       "url": "https://open.spotify.com/track/1gSrSoUrCsmGkSuqsmK6nl"
@@ -4556,7 +4628,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 261815,
       "name": "Poem for the Planet (Christopher Coe Remix) - Mixed",
       "url": "https://open.spotify.com/track/2AL8d4kEL3oEN3jalJehYg"
@@ -4688,7 +4760,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 330000,
       "name": "Purple Eye - Mixed",
       "url": "https://open.spotify.com/track/32E7D0IqDZtzwh2Exf306b"
@@ -5450,7 +5522,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 225908,
       "name": "Shifu - Mixed",
       "url": "https://open.spotify.com/track/0tibvirh0Pz5fStH4dfI8S"
@@ -5990,7 +6062,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 174706,
       "name": "Subterranean Cloud - Mixed",
       "url": "https://open.spotify.com/track/3Jl6hSpNnLRqsjajDPQSXF"
@@ -6026,7 +6098,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 225007,
       "name": "Tailtiu - Mixed",
       "url": "https://open.spotify.com/track/4BmXcPhsH69andXjWPrZrd"
@@ -6044,7 +6116,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 300000,
       "name": "Take Me To Your Leader - Mixed",
       "url": "https://open.spotify.com/track/0Ihc3ohak655pt8t5XAmsd"
@@ -6464,7 +6536,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 255000,
       "name": "To Be Ob - Mixed",
       "url": "https://open.spotify.com/track/4Xw9KCBIBhkMmtgB0VsHYS"
@@ -7000,7 +7072,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 329165,
       "name": "Wormhole - Mixed",
       "url": "https://open.spotify.com/track/3g9Uqq95TXkd11NGL4YV9B"

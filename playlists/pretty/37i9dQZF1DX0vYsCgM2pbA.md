@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,392 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,432 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 54 | [Dreaming Of You](https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Dreaming Of You](https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM) | 4:19 |
 | 55 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ) | 3:22 |
 | 56 | [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 |
-| 57 | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA) | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt) | 3:15 |
-| 58 | [Feel It \- Claptone Remix](https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Feel It \(Claptone Remix\)](https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA) | 3:20 |
+| 57 | [Feel It \- Claptone Remix](https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Feel It \(Claptone Remix\)](https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA) | 3:20 |
+| 58 | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA) | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt) | 3:15 |
 | 59 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 |
 | 60 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
 

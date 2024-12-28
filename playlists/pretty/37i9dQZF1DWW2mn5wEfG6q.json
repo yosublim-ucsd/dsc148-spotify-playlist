@@ -1,6 +1,6 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 84229,
+  "num_followers": 84242,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 272394,
-      "name": "Do I Wanna Know?",
-      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
+      "duration_ms": 161123,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 161123,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
+      "duration_ms": 272394,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 194053,
-      "name": "Modern Jesus",
-      "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "When It Was Now",
         "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 217386,
       "name": "Trojans",
       "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "Modern Jesus",
+      "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Hannah Hunt",
-      "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "MoM & DaD",
         "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 323480,
       "name": "Doses & Mimosas",
       "url": "https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "Hannah Hunt",
+      "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1611,22 +1611,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
       },
       "artists": [
         {
-          "name": "Big Data",
-          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
-        },
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 280426,
-      "name": "Dangerous (feat. Joywave)",
-      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
+      "duration_ms": 268455,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
     }
   ],
   "unique_name": "Best of Indie 2013",

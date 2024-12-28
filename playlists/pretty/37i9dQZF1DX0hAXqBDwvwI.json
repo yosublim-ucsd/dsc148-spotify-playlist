@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 657655,
+  "num_followers": 657784,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "\u516d\u7b49\u661f",
+        "url": "https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv"
+      },
+      "artists": [
+        {
+          "name": "\u3056\u3089\u3081",
+          "url": "https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM"
+        }
+      ],
+      "duration_ms": 254280,
+      "name": "\u516d\u7b49\u661f",
+      "url": "https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "\u6b21\u56de\u4e88\u544a",
         "url": "https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3"
       },
@@ -1387,18 +1403,26 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "\u516d\u7b49\u661f",
-        "url": "https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv"
+        "name": "\u30c8\u30a6\u30ad\u30e7\u30a6\u30fb\u30b7\u30e3\u30f3\u30c7\u30a3\u30fb\u30e9\u30f3\u30c7\u30f4",
+        "url": "https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ"
       },
       "artists": [
         {
-          "name": "\u3056\u3089\u3081",
-          "url": "https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM"
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        },
+        {
+          "name": "\u30c4\u30df\u30ad",
+          "url": "https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh"
         }
       ],
-      "duration_ms": 254280,
-      "name": "\u516d\u7b49\u661f",
-      "url": "https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s"
+      "duration_ms": 184766,
+      "name": "\u30c8\u30a6\u30ad\u30e7\u30a6\u30fb\u30b7\u30e3\u30f3\u30c7\u30a3\u30fb\u30e9\u30f3\u30c7\u30f4",
+      "url": "https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1431,30 +1455,6 @@
       "duration_ms": 198386,
       "name": "Fly Higher",
       "url": "https://open.spotify.com/track/677LgZoTudjik89LdA3PxT"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "\u30c8\u30a6\u30ad\u30e7\u30a6\u30fb\u30b7\u30e3\u30f3\u30c7\u30a3\u30fb\u30e9\u30f3\u30c7\u30f4",
-        "url": "https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "\u82b1\u8b5c",
-          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
-        },
-        {
-          "name": "\u30c4\u30df\u30ad",
-          "url": "https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh"
-        }
-      ],
-      "duration_ms": 184766,
-      "name": "\u30c8\u30a6\u30ad\u30e7\u30a6\u30fb\u30b7\u30e3\u30f3\u30c7\u30a3\u30fb\u30e9\u30f3\u30c7\u30f4",
-      "url": "https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW"
     },
     {
       "added_at": "2024-12-10 15:00:00",

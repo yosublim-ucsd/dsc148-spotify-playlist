@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 375878,
+  "num_followers": 375969,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "La resaka",
-      "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 238506,
       "name": "Sigue Girando",
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "La resaka",
+      "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Vengo Del Placard De Otro",
-        "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 244560,
-      "name": "Pepe Lui",
-      "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1303,34 +1303,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+        "name": "Vengo Del Placard De Otro",
+        "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
       },
       "artists": [
         {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+      "duration_ms": 244560,
+      "name": "Pepe Lui",
+      "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1347,6 +1331,22 @@
       "duration_ms": 212026,
       "name": "Calavera",
       "url": "https://open.spotify.com/track/5QLbG1uIdSQyiKOY69SN4v"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Cuentos Decapitados",
-        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "Entero O A Pedazos",
-      "url": "https://open.spotify.com/track/2jiSAy0MSiODKpQupYLnTY"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Naturaleza Sangre",
         "url": "https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 181373,
       "name": "Volver a M\u00ed",
       "url": "https://open.spotify.com/track/5vWgQ5tRPZ7enuuqBDDniZ"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Cuentos Decapitados",
+        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 269186,
+      "name": "Entero O A Pedazos",
+      "url": "https://open.spotify.com/track/2jiSAy0MSiODKpQupYLnTY"
     },
     {
       "added_at": "2024-06-12 23:26:13",

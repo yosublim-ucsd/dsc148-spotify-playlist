@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 250052,
+  "num_followers": 250067,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAADZqHGvthXbnAg/yzwVBubj",
+  "snapshot_id": "Z2ycgAAAAADojSB2KM66Qwd6/YQWSZel",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Have The Heart (Feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 183840,
       "name": "Creepin' In",
       "url": "https://open.spotify.com/track/4yzFhsULEg65lbA7wjKaAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Have The Heart (Feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Limozeen",
-        "url": "https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Why'd You Come in Here Lookin' Like That",
-      "url": "https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Trio Collection (Deluxe Edition)",
         "url": "https://open.spotify.com/album/07JRXyOwo8fk5mKuBwpJMa"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 139706,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/6QGsG9uBrJi1EiYGFPOWlM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Limozeen",
+        "url": "https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 152506,
+      "name": "Why'd You Come in Here Lookin' Like That",
+      "url": "https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 276133,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 315613,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Til The Last Shot's Fired",
         "url": "https://open.spotify.com/album/3ybLXSEklZLwDu1njY0B9s"
       },
@@ -743,42 +759,6 @@
       "duration_ms": 258289,
       "name": "Til The Last Shot's Fired",
       "url": "https://open.spotify.com/track/3KpsdItsqmk2G4ZZ64jJdv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 315613,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Hundred Highways (Extended Edition)",
-        "url": "https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Lookin' for You (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Hundred Highways (Extended Edition)",
+        "url": "https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Lookin' for You (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 156960,
       "name": "Baby I'm Burnin'",
       "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Blue Ridge Mountain Boy",
+        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "In the Ghetto",
+      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
       "duration_ms": 184608,
       "name": "Gonna Be You (feat. Callie Twisselman)",
       "url": "https://open.spotify.com/track/2S9K5jeUJpFhxr4MRpIogF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Blue Ridge Mountain Boy",
-        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "In the Ghetto",
-      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
     },
     {
       "added_at": null,
@@ -923,30 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
-        "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
-      "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -971,22 +947,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somebody's Child",
-        "url": "https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV"
+        "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
+        "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
+      "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smoky Mountain DNA: Family, Faith and Fables",
+        "url": "https://open.spotify.com/album/28bVqBO08O6jcgirj9Yj0l"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+        },
+        {
+          "name": "Freida Parton",
+          "url": "https://open.spotify.com/artist/5Xojym5baIDUQJJUX1ZyzU"
         },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 204121,
-      "name": "Somebody's Child",
-      "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
+      "duration_ms": 158636,
+      "name": "Crops Came In",
+      "url": "https://open.spotify.com/track/2hvGKCsEVCAGedekkRH3C8"
     },
     {
       "added_at": null,

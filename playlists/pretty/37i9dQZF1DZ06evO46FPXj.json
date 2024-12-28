@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 7227,
+  "num_followers": 7228,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAABuOa0ZBeZleiASX1S9MpkI",
+  "snapshot_id": "Z2ycgAAAAAAMch9fNWFd4VMOKkORPCFv",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 256706,
-      "name": "The Plc",
-      "url": "https://open.spotify.com/track/4EkGZJTIMvvQC85nyhHnDw"
+      "duration_ms": 205413,
+      "name": "Perlence",
+      "url": "https://open.spotify.com/track/1bZDsJOkaTWbiRSyApCByK"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 205413,
-      "name": "Perlence",
-      "url": "https://open.spotify.com/track/1bZDsJOkaTWbiRSyApCByK"
+      "duration_ms": 256706,
+      "name": "The Plc",
+      "url": "https://open.spotify.com/track/4EkGZJTIMvvQC85nyhHnDw"
     },
     {
       "added_at": null,
@@ -696,25 +696,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 401314,
-      "name": "Cfern",
-      "url": "https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 851533,
-      "name": "Garbagemx",
-      "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
+      "duration_ms": 434553,
+      "name": "Sim Gishel",
+      "url": "https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 851533,
+      "name": "Garbagemx",
+      "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confield",
         "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
       },
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 434553,
-      "name": "Sim Gishel",
-      "url": "https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx"
+      "duration_ms": 401314,
+      "name": "Cfern",
+      "url": "https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS"
     },
     {
       "added_at": null,

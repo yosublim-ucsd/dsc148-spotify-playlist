@@ -68,7 +68,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 127659,
       "name": "#SV 08 - BIONE / Sentiu, n\u00e9",
       "url": "https://open.spotify.com/track/15B8UOb1MhS284YJIdZ8lF"
@@ -98,7 +98,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 145588,
       "name": "#SV 09 - Raflow / Nasci pra ser",
       "url": "https://open.spotify.com/track/2QCa8ZLC1ZKqMjzLhh5jRY"
@@ -136,6 +136,28 @@
       "duration_ms": 154736,
       "name": "#SV 10 - Maru2D / Profecia",
       "url": "https://open.spotify.com/track/7DYDemv1zIU6dja3iU1MD1"
+    },
+    {
+      "album": {
+        "name": "#SV 13 - TOKIODK / Ciclos",
+        "url": "https://open.spotify.com/album/3kq0VICAcxc9xnPa6Zqkkl"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "#SV 13 - TOKIODK / Ciclos",
+      "url": "https://open.spotify.com/track/61NuOY0AZp2cO7oOLOnEjN"
     },
     {
       "album": {
@@ -8217,6 +8239,36 @@
     },
     {
       "album": {
+        "name": "GRAV FM (feat. Lil Fuub)",
+        "url": "https://open.spotify.com/album/0qC5LXUuIzhgUmrPRgRCLd"
+      },
+      "artists": [
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        },
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        },
+        {
+          "name": "$nif",
+          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
+        },
+        {
+          "name": "Lil Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195919,
+      "name": "GRAV FM (feat. Lil Fuub)",
+      "url": "https://open.spotify.com/track/6zpNEY6PV5pZ4sx2FpnwiC"
+    },
+    {
+      "album": {
         "name": "Grave",
         "url": "https://open.spotify.com/album/366ao3H7dkAUPjkZ6YsOa5"
       },
@@ -13180,6 +13232,40 @@
       "duration_ms": 301556,
       "name": "N\u00e3o Seja Mais Um Pilantra",
       "url": "https://open.spotify.com/track/3NgrtUV5phVMrmSLfbwtJW"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Vai Fazer Falta",
+        "url": "https://open.spotify.com/album/40OBa27qHbKY0A3Qd3DxSv"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "Nathan Morais",
+          "url": "https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu"
+        },
+        {
+          "name": "Daniel Souza",
+          "url": "https://open.spotify.com/artist/0voCr84NMp6eUeUAF4oh3B"
+        },
+        {
+          "name": "Gabruga",
+          "url": "https://open.spotify.com/artist/0Ad1whf1jDSgjVmEOmpFXr"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "N\u00e3o Vai Fazer Falta",
+      "url": "https://open.spotify.com/track/4Xk0DvNVwll4RKL88L8z6q"
     },
     {
       "album": {
@@ -20150,7 +20236,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 154285,
       "name": "Tudo de Novo",
       "url": "https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p"

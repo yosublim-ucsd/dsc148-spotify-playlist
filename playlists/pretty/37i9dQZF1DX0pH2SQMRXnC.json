@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1373453,
+  "num_followers": 1373824,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,42 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
+        "name": "Hit The Floor",
+        "url": "https://open.spotify.com/album/48VN0pEfrdB1vAu5SgRH76"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Hit The Floor",
+      "url": "https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Another MF",
+        "url": "https://open.spotify.com/album/0L6YAPZ8mBc6fj28J3DpFv"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "duration_ms": 196304,
+      "name": "Another MF",
+      "url": "https://open.spotify.com/track/5dtesMqVRtemAjDSoFH1k9"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
         "name": "Hard Beat",
         "url": "https://open.spotify.com/album/6JdGln5CLBPWHGgelscMt0"
       },
@@ -483,42 +519,6 @@
       "duration_ms": 188702,
       "name": "Hard Beat",
       "url": "https://open.spotify.com/track/7Gs5hS0rQsdE5GVjovT5rm"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
-        "name": "Another MF",
-        "url": "https://open.spotify.com/album/0L6YAPZ8mBc6fj28J3DpFv"
-      },
-      "artists": [
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 196304,
-      "name": "Another MF",
-      "url": "https://open.spotify.com/track/5dtesMqVRtemAjDSoFH1k9"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
-        "name": "Hit The Floor",
-        "url": "https://open.spotify.com/album/48VN0pEfrdB1vAu5SgRH76"
-      },
-      "artists": [
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        },
-        {
-          "name": "Holy Priest",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Hit The Floor",
-      "url": "https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "YEAHBOIII",
-        "url": "https://open.spotify.com/album/04sm7KL9lAoandtv1skukC"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Mish",
-          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
-        },
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "YEAHBOIII",
-      "url": "https://open.spotify.com/track/0ylo3XIQYUzPYhTdfPWn4v"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "Miss You (Remix)",
         "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 171034,
       "name": "Miss You - Remix",
       "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "YEAHBOIII",
+        "url": "https://open.spotify.com/album/04sm7KL9lAoandtv1skukC"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "YEAHBOIII",
+      "url": "https://open.spotify.com/track/0ylo3XIQYUzPYhTdfPWn4v"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1643,30 +1643,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Ruinen Dieser Welt",
-        "url": "https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "2 Engel & Charlie",
-          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Ruinen Dieser Welt",
-      "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz"
       },
@@ -1691,22 +1667,26 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Defiance",
-        "url": "https://open.spotify.com/album/0QnuiUgPMOGPtJ3AYvPMvG"
+        "name": "Ruinen Dieser Welt",
+        "url": "https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J"
       },
       "artists": [
         {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
         },
         {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
         }
       ],
-      "duration_ms": 204774,
-      "name": "Defiance",
-      "url": "https://open.spotify.com/track/05uemG3jbWdpnyPKuqyL2p"
+      "duration_ms": 190451,
+      "name": "Ruinen Dieser Welt",
+      "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1727,6 +1707,26 @@
       "duration_ms": 253714,
       "name": "2 Be High",
       "url": "https://open.spotify.com/track/3uJu9affvKImT1msXqFwTj"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Defiance",
+        "url": "https://open.spotify.com/album/0QnuiUgPMOGPtJ3AYvPMvG"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 204774,
+      "name": "Defiance",
+      "url": "https://open.spotify.com/track/05uemG3jbWdpnyPKuqyL2p"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/7KZcPyIfFQUEBppF009JAS"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 202087,
-      "name": "Invincible",
-      "url": "https://open.spotify.com/track/0xfMO28ubpjprrHyoQSJYh"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "WHERE DID YOU GO",
         "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
       },
@@ -1899,6 +1883,42 @@
       "duration_ms": 204750,
       "name": "WHERE DID YOU GO",
       "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/7KZcPyIfFQUEBppF009JAS"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 202087,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/0xfMO28ubpjprrHyoQSJYh"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0ZgC3V8ELGpS2jyC56AjpI"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 239812,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/4oXfq53zABX3oq2fQ7zDzj"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -1939,26 +1959,6 @@
       "duration_ms": 127503,
       "name": "Digital Domination",
       "url": "https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0ZgC3V8ELGpS2jyC56AjpI"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 239812,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/4oXfq53zABX3oq2fQ7zDzj"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -2099,26 +2099,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
-        "url": "https://open.spotify.com/album/5xA6fUeYmzA0iskFgtlZdH"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
-      "url": "https://open.spotify.com/track/3Mia9gtcznpH1Sh2ZQdwD5"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -2155,6 +2135,26 @@
       "duration_ms": 211144,
       "name": "Justify",
       "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
+        "url": "https://open.spotify.com/album/5xA6fUeYmzA0iskFgtlZdH"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
+      "url": "https://open.spotify.com/track/3Mia9gtcznpH1Sh2ZQdwD5"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -2619,8 +2619,8 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "BEUK D\u2019R IN",
-        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
+        "name": "HEAR THE NOISE",
+        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
       },
       "artists": [
         {
@@ -2628,13 +2628,13 @@
           "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
         },
         {
-          "name": "EZG",
-          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
         }
       ],
-      "duration_ms": 165660,
-      "name": "BEUK D\u2019R IN",
-      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
+      "duration_ms": 166988,
+      "name": "HEAR THE NOISE",
+      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -2811,8 +2811,8 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "HEAR THE NOISE",
-        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
+        "name": "BEUK D\u2019R IN",
+        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
       },
       "artists": [
         {
@@ -2820,13 +2820,13 @@
           "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
         },
         {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+          "name": "EZG",
+          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
         }
       ],
-      "duration_ms": 166988,
-      "name": "HEAR THE NOISE",
-      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
+      "duration_ms": 165660,
+      "name": "BEUK D\u2019R IN",
+      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -2939,26 +2939,6 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Million Miles (Da Tweekaz Remix)",
-        "url": "https://open.spotify.com/album/6nu1jhSY2ti1dOYCFgsjLc"
-      },
-      "artists": [
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 215780,
-      "name": "Million Miles - Da Tweekaz Remix",
-      "url": "https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw"
-    },
-    {
-      "added_at": "2024-12-06 09:56:12",
-      "album": {
         "name": "Cambodia (Denox Remix)",
         "url": "https://open.spotify.com/album/4HZa3LEWJo05UoEKeCRucP"
       },
@@ -2979,6 +2959,26 @@
       "duration_ms": 176000,
       "name": "Cambodia - Denox Remix",
       "url": "https://open.spotify.com/track/13iggCttHe1aj0O9wVQxC7"
+    },
+    {
+      "added_at": "2024-12-06 09:56:12",
+      "album": {
+        "name": "Million Miles (Da Tweekaz Remix)",
+        "url": "https://open.spotify.com/album/6nu1jhSY2ti1dOYCFgsjLc"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 215780,
+      "name": "Million Miles - Da Tweekaz Remix",
+      "url": "https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw"
     },
     {
       "added_at": "2024-12-06 09:56:12",
@@ -3043,22 +3043,22 @@
     {
       "added_at": "2024-12-06 09:56:12",
       "album": {
-        "name": "Are You Ready?!",
-        "url": "https://open.spotify.com/album/0iS8y7gl7mIC0Hb696bAab"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
       },
       "artists": [
         {
-          "name": "Fraw",
-          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Mutilator",
-          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         }
       ],
-      "duration_ms": 130503,
-      "name": "Are You Ready?!",
-      "url": "https://open.spotify.com/track/3vOCRpk0s4zzVfeiwEfpvM"
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     }
   ],
   "unique_name": "Hardstyle Bangers",

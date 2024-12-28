@@ -2236,7 +2236,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 225000,
       "name": "Ac\u0131t\u0131r gibi severek",
       "url": "https://open.spotify.com/track/4EC9KUi9fXKFzK17Or0A1a"
@@ -23898,7 +23898,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -23916,7 +23916,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 216746,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/3iKpHZWqkPuzYRUAOhz0To"
@@ -25364,6 +25364,24 @@
       "duration_ms": 268911,
       "name": "How To Make Gravy",
       "url": "https://open.spotify.com/track/72tIvJRS5lTCjWQRjwjBQC"
+    },
+    {
+      "album": {
+        "name": "Songs from the South. Greatest Hits (1985-2019)",
+        "url": "https://open.spotify.com/album/24gsq6af3OCjDRy6W4RWrD"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268911,
+      "name": "How to Make Gravy",
+      "url": "https://open.spotify.com/track/76wswZbVlavetSoQhvlxYj"
     },
     {
       "album": {
@@ -37344,7 +37362,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 163571,
       "name": "Mera Mann",
       "url": "https://open.spotify.com/track/0teitahwTKBwzYMDR4Cmti"
@@ -37976,7 +37994,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 159404,
       "name": "Mi Refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
@@ -38634,7 +38652,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 247190,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
@@ -57532,6 +57550,24 @@
       "duration_ms": 249818,
       "name": "Tenu Sang Rakhna (From \"Jigra\")",
       "url": "https://open.spotify.com/track/0O84iaC2acwIjeopsFIS6w"
+    },
+    {
+      "album": {
+        "name": "Terakhir Kali",
+        "url": "https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB"
+      },
+      "artists": [
+        {
+          "name": "Wijaya 80",
+          "url": "https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294545,
+      "name": "Terakhir Kali",
+      "url": "https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT"
     },
     {
       "album": {

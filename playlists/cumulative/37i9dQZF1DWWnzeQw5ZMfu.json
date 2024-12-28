@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Laufey",
+  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Ed Sheeran",
   "name": "Pop Live",
   "tracks": [
     {
@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 197996,
       "name": "Roman Holiday - Live From Webster Hall",
       "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
@@ -3230,7 +3230,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 319401,
       "name": "Sing - Live and in Session",
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 248394,
       "name": "The A Team - Live and in Session",
       "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
@@ -3894,6 +3894,24 @@
       "duration_ms": 213694,
       "name": "The Way - Live from London (feat. Mac Miller)",
       "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
+    },
+    {
+      "album": {
+        "name": "+-=\u00f7\u00d7 (Tour Collection: Live)",
+        "url": "https://open.spotify.com/album/5ZewPP4nTMtJTn4krePB2d"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320017,
+      "name": "Thinking out Loud - Live",
+      "url": "https://open.spotify.com/track/341taDjwWRCScNcntpP6M2"
     },
     {
       "album": {

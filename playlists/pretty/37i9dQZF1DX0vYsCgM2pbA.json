@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 140392,
+  "num_followers": 140432,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Alone Again (feat. PEPTALK)",
-        "url": "https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt"
-      },
-      "artists": [
-        {
-          "name": "L D R U",
-          "url": "https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq"
-        },
-        {
-          "name": "PEPTALK",
-          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
-        }
-      ],
-      "duration_ms": 195522,
-      "name": "Alone Again (feat. PEPTALK)",
-      "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
         "name": "Feel It (Claptone Remix)",
         "url": "https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 200813,
       "name": "Feel It - Claptone Remix",
       "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
+        "name": "Alone Again (feat. PEPTALK)",
+        "url": "https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt"
+      },
+      "artists": [
+        {
+          "name": "L D R U",
+          "url": "https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq"
+        },
+        {
+          "name": "PEPTALK",
+          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
+        }
+      ],
+      "duration_ms": 195522,
+      "name": "Alone Again (feat. PEPTALK)",
+      "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
     },
     {
       "added_at": "2024-12-17 13:01:13",

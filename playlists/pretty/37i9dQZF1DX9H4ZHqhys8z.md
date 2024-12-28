@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Οι κορυφαίες επιλογές των editors μας από το EQUAL Greece 2024\. Cover: Marina Satti
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,893 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,915 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

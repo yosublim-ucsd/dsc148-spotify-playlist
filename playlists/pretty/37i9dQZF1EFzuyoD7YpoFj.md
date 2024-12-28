@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 407 songs - 21 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 407 songs - 21 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 43 | [Paris Loves Lovers \(Instrumental\)](https://open.spotify.com/track/09uK6mV00A5FRhevhdkcVx) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:36 |
 | 44 | [Banana Split For My Baby \- Remastered](https://open.spotify.com/track/3PgViCIEmAnUjE6OkpHfCJ) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW), [Keely Smith](https://open.spotify.com/artist/0vQqxnQk1G32RtjSAFq3z1), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [The Wildest! \(Expanded Edition\)](https://open.spotify.com/album/4icS85G6VGPbFlB9UGPxct) | 2:31 |
 | 45 | [I'm Yours](https://open.spotify.com/track/1oAQJNKrMnIX5tLMan0UsY) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:18 |
-| 46 | [Pavane Op.50](https://open.spotify.com/track/4Qzb5VbhIcPP4Q75zR5bYo) | [Paris France Royal Philharmonic Orchestra](https://open.spotify.com/artist/3dPwIV1z0Oljzi08I75YHC) | [50 French World Classical Masters](https://open.spotify.com/album/7quvdWeRNlGesRwNpfkeS3) | 2:37 |
-| 47 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 |
+| 46 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 |
+| 47 | [Pavane Op.50](https://open.spotify.com/track/4Qzb5VbhIcPP4Q75zR5bYo) | [Paris France Royal Philharmonic Orchestra](https://open.spotify.com/artist/3dPwIV1z0Oljzi08I75YHC) | [50 French World Classical Masters](https://open.spotify.com/album/7quvdWeRNlGesRwNpfkeS3) | 2:37 |
 | 48 | [Tin Tin Deo](https://open.spotify.com/track/43luWh28le4rVtu7kylUnR) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [The Champ](https://open.spotify.com/album/5557uVa3RBihCiSlb6Lq0a) | 2:42 |
 | 49 | [Doop\-Doo\-De\-Doop \(A Doodlin' Song\)](https://open.spotify.com/track/5r9fHK6iHnW37KzHSEFLdw) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 2:19 |
 | 50 | [Easy To Love](https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:20 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 120 | [Public Enemy Number One](https://open.spotify.com/track/0I82oheV2eznrBuvV77Czo) | [Walter Charles](https://open.spotify.com/artist/1CSOISjpvsUqFVaM9z6QTr), [Anything Goes New Broadway Company Orchestra](https://open.spotify.com/artist/1SDhiS0uh2gJfCqE82bcT1) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:37 |
 | 121 | [You Remind Me](https://open.spotify.com/track/0l9eRY4OJhLkaQlh28Eh6j) | [Chris Porter](https://open.spotify.com/artist/4657QEJIOQnfUJq3hyuNtc) | [You Remind Me](https://open.spotify.com/album/5t9t1MXA6rsbysqK673nM8) | 2:58 |
 | 122 | [You're Sensational](https://open.spotify.com/track/6LVGUVtdGyGp7iQSxJrwVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [FRANK SINATRA INTEGRAL 1953 \- 1956](https://open.spotify.com/album/3xQiGu3QVKalhMdfTpYq2q) | 3:53 |
-| 123 | [Paris Loves Lovers](https://open.spotify.com/track/2GLMlLdnJfoVEmQtO2VKH9) | [Fred Astaire \(performer\), Carol Richards \(performer\)](https://open.spotify.com/artist/1Z0vfvtXmLPTqlA6SyraDX) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:43 |
-| 124 | [Yours](https://open.spotify.com/track/3bIwAXfM99wdms6GICC7ej) | [Glen Porter](https://open.spotify.com/artist/6Iuyxid73G505WDnHEBPup) | [Falling Down](https://open.spotify.com/album/0ifAn9LEzZezePNs0KGT8A) | 3:47 |
+| 123 | [Yours](https://open.spotify.com/track/3bIwAXfM99wdms6GICC7ej) | [Glen Porter](https://open.spotify.com/artist/6Iuyxid73G505WDnHEBPup) | [Falling Down](https://open.spotify.com/album/0ifAn9LEzZezePNs0KGT8A) | 3:47 |
+| 124 | [Paris Loves Lovers](https://open.spotify.com/track/2GLMlLdnJfoVEmQtO2VKH9) | [Fred Astaire \(performer\), Carol Richards \(performer\)](https://open.spotify.com/artist/1Z0vfvtXmLPTqlA6SyraDX) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:43 |
 | 125 | [One Summer Night](https://open.spotify.com/track/5KRqJROO01v6gJYBiI8eZF) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [Dance With Me](https://open.spotify.com/album/3Ru54yj2eYlR23YqGtZYPJ) | 2:32 |
 | 126 | [Le Noël des petits Santons \- Remasterisé en 2018](https://open.spotify.com/track/4WwozU71N41RbmZkLESU5m) | [Tino Rossi](https://open.spotify.com/artist/6DOmlxxscipUKFC3MwHsC7) | [C'est la belle nuit de Noël \(Remasterisé en 2018\)](https://open.spotify.com/album/2w76BNDmiXLnfYbsDjEbJe) | 3:11 |
 | 127 | [It All Belongs to You](https://open.spotify.com/track/5meFvUFgfKFflzzdMEtQvG) | [Deitrick Haddon Presents Voices of Unity](https://open.spotify.com/artist/5zcYh4MITQWcbwXKgKiHqL) | [Together In Worship](https://open.spotify.com/album/40FAVTvcNS0DNsA7Gh9VSf) | 6:32 |
@@ -416,4 +416,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 406 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 407 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AblNIAAAAAAyC51Tw/8/P/t5st/weE5K`
+Snapshot ID: `AblStgAAAAB29VSuhtg2i+NwpBw7+ZlT`

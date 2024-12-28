@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Our editors' top picks from EQUAL 2024 from across the globe\. Cover: Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,158 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,683 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 66 | [空白題](https://open.spotify.com/track/4jylN5RdQ1e3azFwtisPrO) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [青春疾走](https://open.spotify.com/album/1E86c02P0E5EuRs3YNgOjZ) | 3:04 |
 | 67 | [PLATONIK](https://open.spotify.com/track/3yXbWResBOuRKxX7hK5Na7) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [PLATONIK](https://open.spotify.com/album/3CDkl5DzNF9LdbdDDxlj7s) | 2:41 |
 | 68 | [space](https://open.spotify.com/track/4fZlkHqZqoPrEkZQc3kRvw) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [space](https://open.spotify.com/album/59OjEQ2uHGV0mxymxhmz5V) | 2:52 |
-| 69 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
-| 70 | [ZARI](https://open.spotify.com/track/0sD3HkFhhQcvCv7gAVyZD3) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/6E7dzyj0tF8FTdSHCLUFN5) | 3:00 |
+| 69 | [ZARI](https://open.spotify.com/track/0sD3HkFhhQcvCv7gAVyZD3) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/6E7dzyj0tF8FTdSHCLUFN5) | 3:00 |
+| 70 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
 | 71 | [Yamorr W Ma Yesalem](https://open.spotify.com/track/5Iqu1jQ61ayOZngAUZ87yB) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Yamorr W Ma Yesalem](https://open.spotify.com/album/1hwb1a9TevHIEPstO8bl7l) | 4:09 |
 | 72 | [Make You Stay](https://open.spotify.com/track/5sSn9nZvBBGCdFDdqu8AgJ) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Make You Stay](https://open.spotify.com/album/3EDaystjZEdlidJk6dvkmU) | 3:29 |
 | 73 | [somebody's daughter](https://open.spotify.com/track/1uiQGvgzMLTWjI8SKcegLw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 2:54 |

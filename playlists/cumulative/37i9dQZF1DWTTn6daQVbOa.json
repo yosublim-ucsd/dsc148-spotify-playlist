@@ -560,7 +560,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 183933,
       "name": "Baby Don't Get Hooked on Me",
       "url": "https://open.spotify.com/track/4z51Gf7Ppt9Lmu5zmnUIz9"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 188293,
       "name": "Danny's Song",
       "url": "https://open.spotify.com/track/5lQxMlCMTzCj3j4vyzdl8T"
@@ -1050,6 +1050,24 @@
       "duration_ms": 213712,
       "name": "Desperado - 2013 Remaster",
       "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286106,
+      "name": "Diamonds And Rust",
+      "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
     },
     {
       "album": {
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 243560,
       "name": "Fanny (Be Tender With My Love)",
       "url": "https://open.spotify.com/track/7KUHpRlZQR91SLflhsQCg9"
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 175400,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 238146,
       "name": "Get Closer",
       "url": "https://open.spotify.com/track/5Eq0mobXSnyWu1dpE6lSdY"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 216760,
       "name": "Hey There Lonely Girl",
       "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
@@ -1867,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "I Am Woman",
+        "url": "https://open.spotify.com/album/1gzSC9J3Ffyl2m2MCVO4c1"
+      },
+      "artists": [
+        {
+          "name": "Helen Reddy",
+          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205880,
+      "name": "I Am Woman",
+      "url": "https://open.spotify.com/track/3l2hbXdvmaH3tUd3qWLKgm"
+    },
+    {
+      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp"
       },
@@ -2040,7 +2076,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 238200,
       "name": "I Wanna Get Next To You",
       "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
@@ -2202,7 +2238,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "I'm In You",
       "url": "https://open.spotify.com/track/03zB9duFz1JqLxAIYvGdac"
@@ -2548,7 +2584,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 133960,
       "name": "Just a Song Before I Go",
       "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
@@ -2854,7 +2890,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 202066,
       "name": "Love, Love, Love",
       "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
@@ -2890,7 +2926,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 268866,
       "name": "Martha",
       "url": "https://open.spotify.com/track/75QoXqTlvBwuITzow9egCB"
@@ -3070,7 +3106,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 286346,
       "name": "Mull Of Kintyre",
       "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
@@ -3214,7 +3250,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218600,
       "name": "Never, Never, Never (Grande, Grande, Grande)",
       "url": "https://open.spotify.com/track/4C4vwiOFwWFD4GW7oL2uOp"
@@ -3308,7 +3344,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 168106,
       "name": "Oh My Love - Remastered 2010",
       "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
@@ -3326,7 +3362,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 236480,
       "name": "Ol' 55",
       "url": "https://open.spotify.com/track/7qbLE7ssJcnWD6EO7My847"
@@ -3632,7 +3668,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 233573,
       "name": "Rainy Night in Georgia",
       "url": "https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7"
@@ -3722,7 +3758,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 253213,
       "name": "Sad Eyes - Remastered 2002",
       "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
@@ -3776,10 +3812,28 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 169066,
       "name": "Sealed with a Kiss",
       "url": "https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z"
+    },
+    {
+      "album": {
+        "name": "Seasons In The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
+      },
+      "artists": [
+        {
+          "name": "Terry Jacks",
+          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "Seasons in the Sun",
+      "url": "https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A"
     },
     {
       "album": {
@@ -3794,7 +3848,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 209346,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR"
@@ -3946,7 +4000,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201373,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb"
@@ -3964,7 +4018,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 218266,
       "name": "She's Out of My Life - Single Version",
       "url": "https://open.spotify.com/track/6NGsHLZYGVAkXTFr75WWnn"
@@ -4090,7 +4144,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 224986,
       "name": "Still",
       "url": "https://open.spotify.com/track/4spErQWs900r6GUJaX6kvk"
@@ -4400,7 +4454,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 139226,
       "name": "The Morning After - Single Version",
       "url": "https://open.spotify.com/track/3gAdXCoPRBhIGRoa7XdyUq"
@@ -4706,7 +4760,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195760,
       "name": "Times Of Your Life",
       "url": "https://open.spotify.com/track/3AdX0KdVoMBqe82b19rWAU"
@@ -4778,7 +4832,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 207413,
       "name": "Touch Me In The Morning",
       "url": "https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA"
@@ -4944,7 +4998,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 452773,
       "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
@@ -5074,7 +5128,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"

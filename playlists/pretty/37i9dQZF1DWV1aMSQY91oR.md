@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest hip\-hop, refreshed weekly\.  Cover: Tona
+> We'll be back in 2025..\. happy new year!  Cover: Tona
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,492 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,509 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [SICKÄ](https://open.spotify.com/track/2oEh5hk6PuM8sdffCvEefm) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [SICKÄ](https://open.spotify.com/album/5cBNgNA2vgNNjB1wF7Ko3p) | 2:15 |
 | 49 | [In The Morning \(feat\. Drake\)](https://open.spotify.com/track/124IHGAzY9F3unizZ08iRc) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 3:54 |
 
-Snapshot ID: `Z2T57QAAAAAkpAEk7daYJ/6lWOS6BAhd`
+Snapshot ID: `Z240dwAAAACXP4Hfiq/Wx0Bc1Zti/o7p`

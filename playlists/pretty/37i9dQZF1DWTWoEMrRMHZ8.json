@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: 5 a seco",
-  "num_followers": 348440,
+  "num_followers": 348461,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
         "name": "ARRASTO",
         "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 186700,
       "name": "ARRASTO",
       "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Mercen\u00e1rios do Amor",
-        "url": "https://open.spotify.com/album/3TVKYDgwKsGYieOkoLZebp"
-      },
-      "artists": [
-        {
-          "name": "Doce Delix",
-          "url": "https://open.spotify.com/artist/5oMThBB837MjaAjmCu3K8j"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Mercen\u00e1rios do Amor",
-      "url": "https://open.spotify.com/track/3Y37i0rehRTNUoUOXjKnFm"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "O amor me fala de voc\u00ea",
         "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 199308,
       "name": "O amor me fala de voc\u00ea",
       "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Mercen\u00e1rios do Amor",
+        "url": "https://open.spotify.com/album/3TVKYDgwKsGYieOkoLZebp"
+      },
+      "artists": [
+        {
+          "name": "Doce Delix",
+          "url": "https://open.spotify.com/artist/5oMThBB837MjaAjmCu3K8j"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Mercen\u00e1rios do Amor",
+      "url": "https://open.spotify.com/track/3Y37i0rehRTNUoUOXjKnFm"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
+        "name": "Trem das Onze",
+        "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Trem Das Onze",
+      "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
         "name": "Multicolorida",
         "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Trem das Onze",
-        "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
+        "name": "Bahia Com H",
+        "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
       },
       "artists": [
         {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Trem Das Onze",
-      "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
+      "duration_ms": 264729,
+      "name": "Bahia Com H",
+      "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -767,22 +783,6 @@
       "duration_ms": 189500,
       "name": "Mar Manso",
       "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
-        "name": "Bahia Com H",
-        "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 264729,
-      "name": "Bahia Com H",
-      "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -883,26 +883,18 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Bem Humorado",
-        "url": "https://open.spotify.com/album/7pF4CFDO4VDXA6ynioCRml"
+        "name": "Chuva de Prata",
+        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
       },
       "artists": [
         {
-          "name": "Z\u00e9carlos Ribeiro",
-          "url": "https://open.spotify.com/artist/3K2J18fCBtWbGlWPDRhdjs"
-        },
-        {
-          "name": "N\u00e1 Ozzetti",
-          "url": "https://open.spotify.com/artist/0uhzGb9luJW0RlaYgFg4Ic"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+          "name": "Filipe Catto",
+          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
         }
       ],
-      "duration_ms": 193034,
-      "name": "Bem Humorado",
-      "url": "https://open.spotify.com/track/4R1ER60t5dJKc3l1PAuXuS"
+      "duration_ms": 231716,
+      "name": "Chuva de Prata",
+      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -923,22 +915,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Chuva de Prata",
-        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
-      },
-      "artists": [
-        {
-          "name": "Filipe Catto",
-          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "Chuva de Prata",
-      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "Salom\u00e9",
         "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
       },
@@ -951,6 +927,30 @@
       "duration_ms": 236522,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Bem Humorado",
+        "url": "https://open.spotify.com/album/7pF4CFDO4VDXA6ynioCRml"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9carlos Ribeiro",
+          "url": "https://open.spotify.com/artist/3K2J18fCBtWbGlWPDRhdjs"
+        },
+        {
+          "name": "N\u00e1 Ozzetti",
+          "url": "https://open.spotify.com/artist/0uhzGb9luJW0RlaYgFg4Ic"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "duration_ms": 193034,
+      "name": "Bem Humorado",
+      "url": "https://open.spotify.com/track/4R1ER60t5dJKc3l1PAuXuS"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Como Vai Voc\u00ea",
-        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 181169,
-      "name": "Como Vai Voc\u00ea",
-      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "Tudo Mar\u00e9",
         "url": "https://open.spotify.com/album/0cXPOyHcHeHGmmqnnMbSsB"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 242074,
       "name": "Tudo Mar\u00e9",
       "url": "https://open.spotify.com/track/578lk0KGacSMilzFXofE2L"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 181169,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
+        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 202806,
+      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
         "name": "CORAL",
         "url": "https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
-        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
+        "name": "Um Milh\u00e3o",
+        "url": "https://open.spotify.com/album/0vDrIN3zNc2VRYaNjNZluh"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+          "name": "Carlos Cavallini",
+          "url": "https://open.spotify.com/artist/6neQgu1JWui8JMsicGZdmd"
         }
       ],
-      "duration_ms": 202806,
-      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
+      "duration_ms": 192500,
+      "name": "Um Milh\u00e3o",
+      "url": "https://open.spotify.com/track/1y14MpzSZA8JMEQhQXooy2"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Um Milh\u00e3o",
-        "url": "https://open.spotify.com/album/0vDrIN3zNc2VRYaNjNZluh"
+        "name": "Domingo \u00c0 Noite",
+        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
       },
       "artists": [
         {
-          "name": "Carlos Cavallini",
-          "url": "https://open.spotify.com/artist/6neQgu1JWui8JMsicGZdmd"
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Um Milh\u00e3o",
-      "url": "https://open.spotify.com/track/1y14MpzSZA8JMEQhQXooy2"
+      "duration_ms": 221137,
+      "name": "Domingo \u00c0 Noite",
+      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1387,22 +1403,6 @@
       "duration_ms": 222313,
       "name": "Abra\u00e7o dos Amantes",
       "url": "https://open.spotify.com/track/0ZM4iAakviZSmFSC15frt6"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
-        "name": "Domingo \u00c0 Noite",
-        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
-      },
-      "artists": [
-        {
-          "name": "Tom Karabachian",
-          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
-        }
-      ],
-      "duration_ms": 221137,
-      "name": "Domingo \u00c0 Noite",
-      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
     },
     {
       "added_at": "2024-12-20 03:19:32",

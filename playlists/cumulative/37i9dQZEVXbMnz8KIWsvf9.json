@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 233142,
       "name": "2AM (\u0e04\u0e38\u0e13\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e21\u0e32\u0e01\u0e46\u0e21\u0e31\u0e49\u0e22?)",
       "url": "https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -5902,7 +5902,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -8038,7 +8038,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 128000,
       "name": "Onlyfan",
       "url": "https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ"
@@ -9394,7 +9394,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -13748,7 +13748,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 249600,
       "name": "\u0e04\u0e49\u0e32\u0e07 (STILL)",
       "url": "https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ"
@@ -13766,7 +13766,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 229887,
       "name": "\u0e07\u0e32\u0e19\u0e40\u0e15\u0e49\u0e19\u0e23\u0e33",
       "url": "https://open.spotify.com/track/3jQEXiy7AtzDMiilrYlO0H"
@@ -14902,10 +14902,28 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 275624,
       "name": "\u0e17\u0e38\u0e01\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/3iJNeAiZwFxiPHWk456Bcw"
+    },
+    {
+      "album": {
+        "name": "Only Monday",
+        "url": "https://open.spotify.com/album/27nP4zAn3p2RibkJwUTMrj"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275624,
+      "name": "\u0e17\u0e38\u0e01\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
+      "url": "https://open.spotify.com/track/5eJs6NSVDkiUNlBdS0JaUV"
     },
     {
       "album": {
@@ -16270,6 +16288,24 @@
     {
       "album": {
         "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27 - Single",
+        "url": "https://open.spotify.com/album/3gylajJ9x9ugww9oPX2Bgj"
+      },
+      "artists": [
+        {
+          "name": "MEYOU",
+          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233450,
+      "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/0e9sgOLZzNcrpXTyNR4sId"
+    },
+    {
+      "album": {
+        "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27 - Single",
         "url": "https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx"
       },
       "artists": [
@@ -16280,7 +16316,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 233450,
       "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA"
@@ -17474,7 +17510,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 269016,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9"
@@ -17706,7 +17742,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 226320,
       "name": "\u0e40\u0e2a\u0e35\u0e22\u0e14\u0e32\u0e22\u0e02\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/2yDEfRpX5tRUcAo4VM0wFA"
@@ -18144,7 +18180,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 235058,
       "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
       "url": "https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K"
@@ -18714,7 +18750,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 240410,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e2b\u0e49\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg"

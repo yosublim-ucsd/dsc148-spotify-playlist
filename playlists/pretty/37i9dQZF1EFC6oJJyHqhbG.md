@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,533 likes - 136 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,534 likes - 136 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 64 | [Un Love Me](https://open.spotify.com/track/4OoMl6NlkSlaeomEAoJGkM) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 4:12 |
 | 65 | [Bad Reputation](https://open.spotify.com/track/0FItO6grKL1xW908yKcl3Z) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:18 |
 | 66 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 |
-| 67 | [Chokehold](https://open.spotify.com/track/3T1B6mWbCuNUTdoXt7xPYK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:51 |
-| 68 | [Secret](https://open.spotify.com/track/3I29PMk4Lu6tVOv3fTE1c3) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Chapter 1: Singles Collection](https://open.spotify.com/album/6w38zCie2cfb5T1nhMZqY4) | 3:08 |
+| 67 | [Secret](https://open.spotify.com/track/3I29PMk4Lu6tVOv3fTE1c3) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Chapter 1: Singles Collection](https://open.spotify.com/album/6w38zCie2cfb5T1nhMZqY4) | 3:08 |
+| 68 | [Chokehold](https://open.spotify.com/track/3T1B6mWbCuNUTdoXt7xPYK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:51 |
 | 69 | [Touch Me \(SMASH Cast Version\) \[feat\. Katharine McPhee\]](https://open.spotify.com/track/0fkIg1ZJbGEgmYQYQy165Y) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK) | [The Music of SMASH](https://open.spotify.com/album/7qby8V9HKQ8xatNtAnFRxU) | 3:51 |
 | 70 | [When I’m Alone](https://open.spotify.com/track/5lNMIRdkJZn2Wzvel1SMH2) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:23 |
 | 71 | [Teenage Dream / Break Free](https://open.spotify.com/track/2JELSAbzbj1j2VbbqT7GyM) | [David Bedella](https://open.spotify.com/artist/7bkK3M7QA5LDpIbPoSC7dE), [Melanie La Barrie](https://open.spotify.com/artist/4qNlLAmNX0MLUIKl9I8vA1) | [& Juliet \(Original London Cast Recording\)](https://open.spotify.com/album/3JbJ4BZWKu38meXMPwmxmh) | 3:09 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 135 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 | 136 | [Hasta La Vista](https://open.spotify.com/track/7Hqkibl2LIjY1gWtqTb4HW) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Hasta La Vista](https://open.spotify.com/album/7tyoTr3dPhTbDZ8QDmfopy) | 2:48 |
 
-Snapshot ID: `AblNDAAAAADntJo7RYmFqg6LSaNXstUL`
+Snapshot ID: `AblSrAAAAAAWLBh8h8yL6QyAjL4zld0V`

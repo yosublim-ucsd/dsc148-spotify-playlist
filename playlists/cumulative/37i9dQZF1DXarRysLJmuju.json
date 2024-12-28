@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "BEEEP",
+        "url": "https://open.spotify.com/album/1F3oAzwVHXjKG1vXTzXYTg"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "BEEEP",
+      "url": "https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc"
+    },
+    {
+      "album": {
         "name": "Been Like This",
         "url": "https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic"
       },
@@ -16544,7 +16562,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 179484,
       "name": "IDFLM",
       "url": "https://open.spotify.com/track/4UAXNBIZgNa3TgUQQshWwF"
@@ -24096,6 +24114,24 @@
       "duration_ms": 137065,
       "name": "Other Boys",
       "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
+    },
+    {
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/1N9FTCajqxPioNAbD0clCg"
+      },
+      "artists": [
+        {
+          "name": "Ria Mae",
+          "url": "https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174027,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/5xdp59pQfyORMMFiblWrYs"
     },
     {
       "album": {
@@ -36538,7 +36574,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 198009,
       "name": "zarcillos de plata",
       "url": "https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3V8LF8CaRSAiDkt1yjMlyS.md) - [plain]
 
 > 
 
-[ada](https://open.spotify.com/user/adadoro) - 34,019 likes - 151 songs - 8 hr 12 min
+[ada](https://open.spotify.com/user/adadoro) - 34,138 likes - 151 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

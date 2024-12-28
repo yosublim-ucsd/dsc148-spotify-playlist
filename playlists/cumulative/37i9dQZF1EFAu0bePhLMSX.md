@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-194 songs - 12 hr 26 min
+197 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Keep On Movin'](https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 3:18 | 2021-12-27 |  |
 | [Laisse les dire](https://open.spotify.com/track/6d5cZMU0YqgLvqIfhskVeq) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Laisse Les Dire](https://open.spotify.com/album/6tRsIFHli5G81iqqfDtQvw) | 2:34 | 2021-12-27 |  |
 | [Lay Down for Love](https://open.spotify.com/track/6MfLM5PHg22PrtIridHfHQ) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Open Road](https://open.spotify.com/album/5Gw7fOOrsnB0ZeKyghATAX) | 5:32 | 2021-12-27 |  |
-| [Let's Dance \- Radio Edit](https://open.spotify.com/track/595JwfRS0iFbdZyhlBxokI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:38 | 2021-12-27 |  |
+| [Let's Dance \- Radio Edit](https://open.spotify.com/track/7nB1nRNmO9sUcXyyt8TNTf) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 3:38 | 2024-12-27 |  |
+| [Let's Dance \- Radio Edit](https://open.spotify.com/track/595JwfRS0iFbdZyhlBxokI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:38 | 2021-12-27 | 2024-12-28 |
 | [Letters](https://open.spotify.com/track/5tikJjAd6xvubeZXLhDGHL) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Letters \(Deluxe Edition\)](https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8) | 4:26 | 2021-12-27 |  |
 | [Letting Go](https://open.spotify.com/track/62rU5FYM0oerIldOcWE4LG) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Stay The Same](https://open.spotify.com/album/66iXMmVbYEEErG3r4Q2spH) | 4:32 | 2021-12-27 |  |
 | [Lie Down](https://open.spotify.com/track/2JPL5hDax1bOlq0SvGhO0g) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 2:53 | 2021-12-27 |  |
@@ -136,7 +137,8 @@
 | [Please Stay](https://open.spotify.com/track/53GIGtgIkuYUDhdXoDFU0l) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 4:08 | 2021-12-27 |  |
 | [Ready or Not](https://open.spotify.com/track/1W9kMx5nVlaEkwthVPRsHU) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 3:49 | 2022-07-24 |  |
 | [Ritual](https://open.spotify.com/track/0jzeYeb1z29rtQ0BuOXN5T) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon \(Deluxe Version\)](https://open.spotify.com/album/2Y7n3jwZIsfi4m5udDY2vg) | 3:50 | 2021-12-27 |  |
-| [Rock The Party \- Single Remix](https://open.spotify.com/track/3yyCRuWQPxENTKhGZbBFmq) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 2:48 | 2021-12-27 |  |
+| [Rock the Party](https://open.spotify.com/track/5LTtEtluM9Am3TGI2jutC8) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 2:57 | 2024-12-27 |  |
+| [Rock The Party \- Single Remix](https://open.spotify.com/track/3yyCRuWQPxENTKhGZbBFmq) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 2:48 | 2021-12-27 | 2024-12-28 |
 | [Roll With Me](https://open.spotify.com/track/5rt3zm8GPlWCUo3RHRbXm3) | [ABS](https://open.spotify.com/artist/2T3J7n1kgrAa4ujlAiFzcQ) | [Abstract Theory](https://open.spotify.com/album/0MnIIyrXuXQCRtdNurf8Zp) | 3:44 | 2022-03-25 |  |
 | [Say Something](https://open.spotify.com/track/6FG0Mgz3S4aiCIheLLzJTr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:32 | 2021-12-27 | 2023-12-14 |
 | [Say Something](https://open.spotify.com/track/36c6rs6PqirxSqm1TVLzKl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/0KTmxgfwMFOBXmajMpjlkB) | 3:33 | 2023-12-13 | 2024-07-16 |
@@ -163,7 +165,8 @@
 | [Switch Me On](https://open.spotify.com/track/6nCa6qQomarOsxYbyuyIsl) | [Lovestoned](https://open.spotify.com/artist/0swDGRfKrPnLae05pY43UT) | [Rising Love](https://open.spotify.com/album/2neQHNP33XoCor6RRT664v) | 3:25 | 2021-12-27 |  |
 | [Take Control](https://open.spotify.com/track/1jmZ8tC1gyYn0QeRffO3Wv) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Your Game](https://open.spotify.com/album/51Gs0Qa1XFXr0xM2KjMb9X) | 4:46 | 2021-12-27 | 2022-07-25 |
 | [Take Control](https://open.spotify.com/track/6zMg2zHbQPUC5rshEyCMio) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:47 | 2022-07-24 |  |
-| [Take Your Chances On Me](https://open.spotify.com/track/75I4uu5Jas0T6r6qpc6G3Y) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:02 | 2021-12-27 |  |
+| [Take Your Chances On Me](https://open.spotify.com/track/3PAEiOvBaLLB9WKMrNCv9i) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 3:02 | 2024-12-27 |  |
+| [Take Your Chances On Me](https://open.spotify.com/track/75I4uu5Jas0T6r6qpc6G3Y) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:02 | 2021-12-27 | 2024-12-28 |
 | [Tears Will Dry](https://open.spotify.com/track/3IBCq3u9WlzoRoeBWVyfvo) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Love Shot Me Down](https://open.spotify.com/album/3pCVtlLvg9OYVOUvr4Gfuv) | 3:09 | 2021-12-27 |  |
 | [Tell Me What You Dream](https://open.spotify.com/track/1lSSqcVfpoFAHyhSb8odzR) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/0UdmyRJgaoe92dHgMit5bT) | 4:02 | 2021-12-27 |  |
 | [Tension](https://open.spotify.com/track/3hI2qkKUtxDwKakeF9hzH7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:36 | 2023-09-25 | 2023-12-14 |

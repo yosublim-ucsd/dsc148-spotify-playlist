@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 186924,
+  "num_followers": 187051,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,38 @@
     {
       "added_at": "2024-12-16 20:55:57",
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        },
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        },
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        },
+        {
+          "name": "Reyna Roberts",
+          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
+        }
+      ],
+      "duration_ms": 131949,
+      "name": "BLACKBIIRD",
+      "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
+    },
+    {
+      "added_at": "2024-12-16 20:55:57",
+      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -595,38 +627,6 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
-    },
-    {
-      "added_at": "2024-12-16 20:55:57",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        },
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        },
-        {
-          "name": "Tiera Kennedy",
-          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
-        },
-        {
-          "name": "Reyna Roberts",
-          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
-        }
-      ],
-      "duration_ms": 131949,
-      "name": "BLACKBIIRD",
-      "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
     },
     {
       "added_at": "2024-12-16 20:55:57",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-12-16 20:55:57",
       "album": {
+        "name": "Lyfe 268-192",
+        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
+      },
+      "artists": [
+        {
+          "name": "Lyfe Jennings",
+          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
+        }
+      ],
+      "duration_ms": 233440,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
+    },
+    {
+      "added_at": "2024-12-16 20:55:57",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2024-12-16 20:55:57",
-      "album": {
-        "name": "Lyfe 268-192",
-        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
-      },
-      "artists": [
-        {
-          "name": "Lyfe Jennings",
-          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
-        }
-      ],
-      "duration_ms": 233440,
-      "name": "Must Be Nice",
-      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
     },
     {
       "added_at": "2024-12-16 20:55:57",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-12-16 20:55:57",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Can U Handle It?",
-      "url": "https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd"
-    },
-    {
-      "added_at": "2024-12-16 20:55:57",
-      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2024-12-16 20:55:57",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Can U Handle It?",
+      "url": "https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd"
+    },
+    {
+      "added_at": "2024-12-16 20:55:57",
+      "album": {
         "name": "Dunya",
         "url": "https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 154240,
       "name": "I\u2019ll Go Anywhere",
       "url": "https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi"
+    },
+    {
+      "added_at": "2024-12-16 20:55:57",
+      "album": {
+        "name": "1st Born Second",
+        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Soul Sista",
+      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
     },
     {
       "added_at": "2024-12-16 20:55:57",
@@ -1159,22 +1175,6 @@
       "duration_ms": 239093,
       "name": "By Your Side (Neptunes Remix) - Remastered",
       "url": "https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt"
-    },
-    {
-      "added_at": "2024-12-16 20:55:57",
-      "album": {
-        "name": "1st Born Second",
-        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
-      },
-      "artists": [
-        {
-          "name": "Bilal",
-          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Soul Sista",
-      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
     },
     {
       "added_at": "2024-12-16 20:55:57",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-12-16 20:55:57",
       "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "He Loves Me (Lyzel in E Flat)",
+      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
+    },
+    {
+      "added_at": "2024-12-16 20:55:57",
+      "album": {
         "name": "I'm on your team",
         "url": "https://open.spotify.com/album/1e7jZCaYQ6UyyrENaP4VOT"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 227000,
       "name": "I'm on your team",
       "url": "https://open.spotify.com/track/6vHmrQXC2dACfRAQ4jivTF"
-    },
-    {
-      "added_at": "2024-12-16 20:55:57",
-      "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "He Loves Me (Lyzel in E Flat)",
-      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
     },
     {
       "added_at": "2024-12-16 20:55:57",

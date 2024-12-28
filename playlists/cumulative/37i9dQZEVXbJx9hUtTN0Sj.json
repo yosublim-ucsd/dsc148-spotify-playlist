@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 144489,
       "name": "Ba Ba Bad",
       "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -2762,6 +2762,24 @@
       "duration_ms": 210285,
       "name": "Blow for Blow (feat. J. Cole)",
       "url": "https://open.spotify.com/track/2jRlzfdS8kJ7t9S3Ee8YHp"
+    },
+    {
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
       "album": {
@@ -4554,7 +4572,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 587364,
       "name": "Dancing Through Life",
       "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
@@ -4976,7 +4994,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -5462,7 +5480,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 140273,
       "name": "Drink in Moderation",
       "url": "https://open.spotify.com/track/13vW2uIXG0H3IpL4faoPNZ"
@@ -9962,7 +9980,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 142968,
       "name": "Indecisive - Is It A Crime",
       "url": "https://open.spotify.com/track/1f4NJhdLUzvAo13K7XTsh6"
@@ -12834,7 +12852,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 144466,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/0C3D5rWlsc3u3ElG5ev0xS"
@@ -13960,7 +13978,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 203015,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC"
@@ -14434,7 +14452,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
@@ -17358,7 +17376,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 157664,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn"
@@ -20854,7 +20872,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 218500,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"

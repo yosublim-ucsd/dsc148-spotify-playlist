@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 50660,
+  "num_followers": 50679,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAACN+/Zrxm4gHmSLgVSJ8Ull",
+  "snapshot_id": "Z2ycgAAAAAD2ZF2UicYKiw8sewLV+PM/",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 327760,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 271133,
       "name": "I\u2019m In The Mood (feat. Bonnie Raitt)",
       "url": "https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 327760,
-      "name": "Right Down The Line",
-      "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
     },
     {
       "added_at": null,
@@ -495,22 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Fool To Care",
-        "url": "https://open.spotify.com/album/4LzBJVxW5Pr77G7d4CrRbX"
+        "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
+        "url": "https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF"
       },
       "artists": [
         {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
         },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 375057,
-      "name": "Hell To Pay",
-      "url": "https://open.spotify.com/track/5oBFPW3PpybYWSsvEuuGnv"
+      "duration_ms": 283160,
+      "name": "Kisses Sweeter than Wine",
+      "url": "https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4"
     },
     {
       "added_at": null,
@@ -547,22 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
-        "url": "https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF"
+        "name": "A Fool To Care",
+        "url": "https://open.spotify.com/album/4LzBJVxW5Pr77G7d4CrRbX"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
         },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 283160,
-      "name": "Kisses Sweeter than Wine",
-      "url": "https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4"
+      "duration_ms": 375057,
+      "name": "Hell To Pay",
+      "url": "https://open.spotify.com/track/5oBFPW3PpybYWSsvEuuGnv"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Bonnie Raitt On Capitol 1989-2003",
-        "url": "https://open.spotify.com/album/1FV3yQh4QovuCGWqJuRdl4"
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 217933,
-      "name": "Silver Lining - Radio Edit",
-      "url": "https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER"
+      "duration_ms": 347840,
+      "name": "Blame it On Me",
+      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
     }
   ],
   "unique_name": "This Is Bonnie Raitt",

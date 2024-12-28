@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 112541,
+  "num_followers": 112554,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -667,18 +667,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+        "name": "Jag Vill Vara Din Margareta",
+        "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "The Pineapple Squad",
+          "url": "https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi"
+        },
+        {
+          "name": "Henrik S\u00e6ter",
+          "url": "https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl"
         }
       ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
+      "duration_ms": 167543,
+      "name": "Jag Vill Vara Din Margareta",
+      "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -699,22 +703,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Jag Vill Vara Din Margareta",
-        "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
       },
       "artists": [
         {
-          "name": "The Pineapple Squad",
-          "url": "https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi"
-        },
-        {
-          "name": "Henrik S\u00e6ter",
-          "url": "https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 167543,
-      "name": "Jag Vill Vara Din Margareta",
-      "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "De g\u00e6rne har det godt",
         "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 128653,
       "name": "De g\u00e6rne har det godt",
       "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Ja vi elsker (Typisk Norsk 2019)",
-        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 164905,
-      "name": "Ja vi elsker (Typisk Norsk 2019)",
-      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "N\u00e5 er det helg",
         "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 183958,
       "name": "N\u00e5 er det helg",
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Ja vi elsker (Typisk Norsk 2019)",
+        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 164905,
+      "name": "Ja vi elsker (Typisk Norsk 2019)",
+      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -907,22 +907,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Evig vandring",
-        "url": "https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE"
+        "name": "Siste Kveld",
+        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
       },
       "artists": [
         {
-          "name": "Kjetil Nordfjeld",
-          "url": "https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         },
         {
-          "name": "Christiania",
-          "url": "https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 170135,
-      "name": "Evig vandring",
-      "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
+      "duration_ms": 159380,
+      "name": "Siste Kveld",
+      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -943,22 +943,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Siste Kveld",
-        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
+        "name": "Evig vandring",
+        "url": "https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE"
       },
       "artists": [
         {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+          "name": "Kjetil Nordfjeld",
+          "url": "https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO"
         },
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Christiania",
+          "url": "https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu"
         }
       ],
-      "duration_ms": 159380,
-      "name": "Siste Kveld",
-      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
+      "duration_ms": 170135,
+      "name": "Evig vandring",
+      "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "MERE BANJO!",
-        "url": "https://open.spotify.com/album/3KOcsWbjqW1IDCuEUId0q7"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
-        }
-      ],
-      "duration_ms": 124824,
-      "name": "MERE BANJO!",
-      "url": "https://open.spotify.com/track/79xNPAeIwCLYDiiqkYb2ve"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Flammer og Bensin",
         "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 212360,
       "name": "Flammer og Bensin",
       "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "MERE BANJO!",
+        "url": "https://open.spotify.com/album/3KOcsWbjqW1IDCuEUId0q7"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8rse",
+          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
+        }
+      ],
+      "duration_ms": 124824,
+      "name": "MERE BANJO!",
+      "url": "https://open.spotify.com/track/79xNPAeIwCLYDiiqkYb2ve"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Gamle helter",
+        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Gamle helter",
+      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Best p\u00e5 fest",
         "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 188483,
       "name": "En liten plass",
       "url": "https://open.spotify.com/track/4WPcCS7W5Fv4UzE3aDV5IU"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Gamle helter",
-        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Gamle helter",
-      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
     },
     {
       "added_at": "2024-10-31 23:00:00",

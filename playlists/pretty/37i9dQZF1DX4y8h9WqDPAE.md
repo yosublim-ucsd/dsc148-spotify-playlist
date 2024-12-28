@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Honey Bxby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,744,668 likes - 167 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,744,645 likes - 167 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

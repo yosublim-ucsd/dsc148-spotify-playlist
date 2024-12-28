@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,372 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,409 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 6 | [Wukking Up](https://open.spotify.com/track/4IXdZ1ko9XR6G4PM9xAZNW) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:34 |
 | 7 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
 | 8 | [Workey Workey](https://open.spotify.com/track/7vaNB9GdsURzeSEJ5uXldO) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 5:31 |
-| 9 | [Big Belly Man](https://open.spotify.com/track/552bqW6i9i7oleuikwU7jg) | [Mac Fingall](https://open.spotify.com/artist/2lpMOrBgegh76K8t1QjiLu) | [Soca 101 Vol.2](https://open.spotify.com/album/6wDFNajd2I5u29BUehoXIi) | 4:52 |
+| 9 | [Body Water](https://open.spotify.com/track/3LKnTJqisnDLNzaMBIxwCg) | [Mini Priest](https://open.spotify.com/artist/7q3vqJF9tkRDwlgUiU9apb) | [Soca Gold 2005](https://open.spotify.com/album/3UXWqNNmMnxBXK8BTXkiVf) | 3:39 |
 | 10 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
-| 11 | [Body Water](https://open.spotify.com/track/3LKnTJqisnDLNzaMBIxwCg) | [Mini Priest](https://open.spotify.com/artist/7q3vqJF9tkRDwlgUiU9apb) | [Soca Gold 2005](https://open.spotify.com/album/3UXWqNNmMnxBXK8BTXkiVf) | 3:39 |
+| 11 | [Big Belly Man](https://open.spotify.com/track/552bqW6i9i7oleuikwU7jg) | [Mac Fingall](https://open.spotify.com/artist/2lpMOrBgegh76K8t1QjiLu) | [Soca 101 Vol.2](https://open.spotify.com/album/6wDFNajd2I5u29BUehoXIi) | 4:52 |
 | 12 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
 | 13 | [Calypso Music](https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 7:13 |
 | 14 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 25 | [Movin To De Left](https://open.spotify.com/track/5Mp9zveDmaceWyodJ5WGfO) | [Nigel Lewis](https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F) | [Soca for De World](https://open.spotify.com/album/2wacFQTy8C00bNdGN5xuHN) | 5:17 |
 | 26 | [Tay Lay Lay](https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Caribbean Road March 2001 and More](https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP) | 4:33 |
 | 27 | [Bitin Incex](https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ) | [Ronnie McIntosh](https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH) | [Calypsoca 2002](https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs) | 4:31 |
-| 28 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
-| 29 | [If Ah Rude Ah Rude](https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1) | [Devon George](https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG) | [Man Ah Bad Man](https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3) | 5:00 |
+| 28 | [If Ah Rude Ah Rude](https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1) | [Devon George](https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG) | [Man Ah Bad Man](https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3) | 5:00 |
+| 29 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
 | 30 | [Girls Gone Wild](https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:15 |
 | 31 | [Madness](https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:45 |
 | 32 | [I Come Out To Play](https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:08 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 36 | [Total Dis Order](https://open.spotify.com/track/5lGu6LnHAbZJyVyVk9cD8U) | [Mighty Duke](https://open.spotify.com/artist/75ZMUQrdutA8Dn2vzO2mCx) | [The Mighty Duke Classic Collection 1986\-1990](https://open.spotify.com/album/5Xeh8aExQtQo9KCaTIa0Z1) | 6:50 |
 | 37 | [Party Start](https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ) | [Superblue](https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M), [Bunji](https://open.spotify.com/artist/4PO2u9qHDO4ORynHyfbcD6) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 3:11 |
 | 38 | [Theresa Rocking](https://open.spotify.com/track/3gGPrxYhowdcEEt2RkW4tA) | [Imagi Nation Brass](https://open.spotify.com/artist/2C7n4hoejvKTvmJf8w6n8e) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 6:22 |
-| 39 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
-| 40 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
+| 39 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
+| 40 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
 | 41 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 |
 | 42 | [Palms On De Ground](https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 3:42 |
 | 43 | [Nani Wine](https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:12 |

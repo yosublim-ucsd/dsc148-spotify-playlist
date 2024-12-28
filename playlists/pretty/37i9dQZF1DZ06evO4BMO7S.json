@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 19139,
+  "num_followers": 19141,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAABPBD6XVt72tD8PsfXoqPdr",
+  "snapshot_id": "Z2ycgAAAAADx+Wa6QuAuU2B1ixJ+fJav",
   "tracks": [
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+        "name": "Nobody Sees Me Like You Do",
+        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 230322,
-      "name": "In Heaven",
-      "url": "https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g"
+      "duration_ms": 211635,
+      "name": "Nobody Sees Me Like You Do",
+      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Sees Me Like You Do",
-        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 211635,
-      "name": "Nobody Sees Me Like You Do",
-      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
+      "duration_ms": 230322,
+      "name": "In Heaven",
+      "url": "https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g"
     },
     {
       "added_at": null,

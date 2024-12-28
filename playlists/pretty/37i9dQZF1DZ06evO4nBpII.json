@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1082079,
+  "num_followers": 1082211,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAAD88Nxm5Od6uvvaNc2KKh0F",
+  "snapshot_id": "Z2ycgAAAAADd5koAMXvYNQaECW4+/sZj",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C"
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 233026,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z"
+      "duration_ms": 134293,
+      "name": "She",
+      "url": "https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 134293,
-      "name": "She",
-      "url": "https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB"
+      "duration_ms": 233026,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z"
     },
     {
       "added_at": null,
@@ -199,6 +199,22 @@
       "duration_ms": 493400,
       "name": "Holiday / Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Welcome to Paradise",
+      "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Welcome to Paradise",
-      "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 548253,
       "name": "Jesus of Suburbia",
       "url": "https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "Longview",
+      "url": "https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC"
     },
     {
       "added_at": null,
@@ -299,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "Longview",
-      "url": "https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Still Breathing",
-      "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 127533,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Still Breathing",
+      "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 123541,
-      "name": "Look Ma, No Brains!",
-      "url": "https://open.spotify.com/track/6zypPV86f8oALbijmqDsrv"
+      "duration_ms": 224310,
+      "name": "Bobby Sox",
+      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 224310,
-      "name": "Bobby Sox",
-      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+      "duration_ms": 123541,
+      "name": "Look Ma, No Brains!",
+      "url": "https://open.spotify.com/track/6zypPV86f8oALbijmqDsrv"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "\u00bfViva La Gloria? (Little Girl)",
+      "url": "https://open.spotify.com/track/2mnk1GHN0XmznKiucY4ZW4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Fun Mondays",
         "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 227680,
-      "name": "\u00bfViva La Gloria? (Little Girl)",
-      "url": "https://open.spotify.com/track/2mnk1GHN0XmznKiucY4ZW4"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Insomniac",
-        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 90226,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 309106,
       "name": "21st Century Breakdown",
       "url": "https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 90226,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Insomniac",
-        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 151173,
-      "name": "Walking Contradiction",
-      "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Idiot (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 175411,
       "name": "St. Jimmy",
       "url": "https://open.spotify.com/track/09hW1hlP52DBiU3aO8jkgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 151173,
+      "name": "Walking Contradiction",
+      "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
     },
     {
       "added_at": null,

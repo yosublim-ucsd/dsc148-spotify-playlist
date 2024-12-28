@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 180380,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7JbqhKKK8jOi23SRKZ1hUC"
@@ -5073,6 +5073,32 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/3XP17A1O80okZISP9GAx8C"
+      },
+      "artists": [
+        {
+          "name": "Hafex",
+          "url": "https://open.spotify.com/artist/1br3nylz7tCq82qiwd4j6d"
+        },
+        {
+          "name": "ALIGEE",
+          "url": "https://open.spotify.com/artist/4dDaO9ddXBL5vsAul73nWY"
+        },
+        {
+          "name": "SEIDS",
+          "url": "https://open.spotify.com/artist/2Eipav5ZNY6ON1FReIYpKE"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3xWlinzkmeYJeTn6p94Kmt"
+    },
+    {
+      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/27P1sGNefBx0BKdsOMDICy"
       },
@@ -8306,7 +8332,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 134783,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2Ema8Fxxfdn5eyuvZGxk5R"

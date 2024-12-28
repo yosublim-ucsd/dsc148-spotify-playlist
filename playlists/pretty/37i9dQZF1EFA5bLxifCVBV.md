@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84 likes - 188 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 188 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 102 | [You Too Can Be A Puppet](https://open.spotify.com/track/7EynNRh4CbZgEYY7OpTGeI) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 2:41 |
 | 103 | [The Horse Won't Talk \- Remastered Version](https://open.spotify.com/track/4mSJ6oqqVxTIMUD52DA1qa) | [Gay Purr\-ee \- Paul Frees](https://open.spotify.com/artist/0iibKBqTdHSkFv3379eZsf) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 1:45 |
 | 104 | [Cocoanut Sweet](https://open.spotify.com/track/75VhEovfN6RU8IgpDeBR6W) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 4:24 |
-| 105 | [Little Biscuit](https://open.spotify.com/track/5u9L0jeyoN4ri0x3mWWg3t) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 3:03 |
-| 106 | [Paging Mr\. Greenback \(from "Presenting Lily Mars"\) \- 2022 Remaster](https://open.spotify.com/track/0P0kFkvKLrBFg6EJ3VTOGR) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [MGM Studio Chorus](https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 4:52 |
+| 105 | [Paging Mr\. Greenback \(from "Presenting Lily Mars"\) \- 2022 Remaster](https://open.spotify.com/track/0P0kFkvKLrBFg6EJ3VTOGR) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [MGM Studio Chorus](https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 4:52 |
+| 106 | [Little Biscuit](https://open.spotify.com/track/5u9L0jeyoN4ri0x3mWWg3t) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 3:03 |
 | 107 | [The World Is Your Balloon](https://open.spotify.com/track/2NJ3L8rG3vlpSzm4T95x1M) | [Pinky Winters](https://open.spotify.com/artist/2nrMrwUyFoMwp1IOLDsYqt) | [Pinky](https://open.spotify.com/album/0yFTC80tBV39h5vivVA4Vf) | 2:43 |
 | 108 | [Any Moment Now](https://open.spotify.com/track/2UzbkZBVvQCjwPZTwKoPde) | [Deanna Durbin](https://open.spotify.com/artist/3DgG8fJMf9FZlbRXIwfu2a) | [The Golden Voice Of Denna Durbin](https://open.spotify.com/album/3zIcrbNSY6ovfsun3oddFb) | 3:09 |
 | 109 | [Flahooley](https://open.spotify.com/track/6EBbGJgMeDJCp5IBgCa3gB) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:10 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 187 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 | 188 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `AblNIAAAAAAbq8+hIZ0LR6T35+4vN+2k`
+Snapshot ID: `AblStgAAAABOQiVtO3lxyAkHB88iPTwH`

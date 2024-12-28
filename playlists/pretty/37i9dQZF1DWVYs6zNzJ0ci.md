@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Pure Negga
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,888 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,921 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 8 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 |
 | 9 | [Perfecta](https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Perfecta](https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY) | 2:44 |
 | 10 | [La Flor](https://open.spotify.com/track/6SF64uRu4URufMHawFN22x) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Hecho en Jamaica](https://open.spotify.com/album/02sSSeI4fEPGlSv2gFT5Wj) | 4:06 |
-| 11 | [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 |
+| 11 | [No Sé Si Salga El Sol \- Remix](https://open.spotify.com/track/0gw6orix5diJLOahicJhj6) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [No Sé Si Salga El Sol \(Remix\)](https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD) | 3:08 |
 | 12 | [Long Time Ago](https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw) | [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh), [Lander](https://open.spotify.com/artist/5Uv7k7IyfKhzYmfJF56QhE) | [Long Time Ago](https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv) | 2:11 |
 | 13 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 |
 | 14 | [El Juego](https://open.spotify.com/track/3luUkcrGFBon4rWbiUl8uE) | [RickRocket](https://open.spotify.com/artist/4rx8YlvPpl82JWUB7qYV9G), [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [LENNY FACE](https://open.spotify.com/artist/0HZVh7FupbjZwYOgnPU6t8) | [Alma Zen](https://open.spotify.com/album/5czi0Oatq5qgaF4TTlnNvt) | 3:06 |
-| 15 | [No Sé Si Salga El Sol \- Remix](https://open.spotify.com/track/0gw6orix5diJLOahicJhj6) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [No Sé Si Salga El Sol \(Remix\)](https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD) | 3:08 |
+| 15 | [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 |
 | 16 | [Te Tenía Al Lado](https://open.spotify.com/track/5eRm3Ga3wYFqKwx7Zh5akk) | [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Te Tenía Al Lado](https://open.spotify.com/album/0q7PxAckGzubpud6qjX8v1) | 3:36 |
 | 17 | [Mi Balcon](https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:19 |
 | 18 | [Fruto](https://open.spotify.com/track/2ar97XE4PX22l68BbpMthC) | [Los Choclok](https://open.spotify.com/artist/2iEDalkx4bi0VkRuW0QkYD), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Fruto](https://open.spotify.com/album/6LO8b1LElApErXrn4AUHNO) | 4:38 |

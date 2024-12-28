@@ -2554,6 +2554,28 @@
     {
       "album": {
         "name": "Ferragamo",
+        "url": "https://open.spotify.com/album/0jLU2VTNMurRMFhvmZZf25"
+      },
+      "artists": [
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+        },
+        {
+          "name": "Cozy Cuz",
+          "url": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151697,
+      "name": "Ferragamo",
+      "url": "https://open.spotify.com/track/5ihdLIpOc4zgTRTVar1xN4"
+    },
+    {
+      "album": {
+        "name": "Ferragamo",
         "url": "https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X"
       },
       "artists": [
@@ -2572,6 +2594,28 @@
       "duration_ms": 218785,
       "name": "Ferragamo",
       "url": "https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR"
+    },
+    {
+      "album": {
+        "name": "Trufas (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3QceyMAL3KlXG5mCCiRFgJ"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "Shroom",
+          "url": "https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168344,
+      "name": "FIDG",
+      "url": "https://open.spotify.com/track/5Hc8HfWXbBv6XLKxK0XQVd"
     },
     {
       "album": {

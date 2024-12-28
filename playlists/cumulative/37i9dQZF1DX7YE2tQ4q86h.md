@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: ADÉLA
 
-1,147 songs - 2 day 9 hr 31 min
+1,148 songs - 2 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Beautiful \- Benny Benassi Remix](https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Stripped \- 20th Anniversary Edition](https://open.spotify.com/album/7lCwZB97kT2240mSxZQjaw) | 3:35 | 2022-10-21 | 2022-12-03 |
 | [Beautiful Pain](https://open.spotify.com/track/2CyXbAFkyMncGNTglxgIXc) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Beautiful Pain](https://open.spotify.com/album/5HjWJHX5hP4O9WkCI1Htbb) | 2:53 | 2024-05-24 | 2024-06-22 |
 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2022-07-25 | 2022-08-27 |
+| [BEEEP](https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BEEEP](https://open.spotify.com/album/1F3oAzwVHXjKG1vXTzXYTg) | 2:36 | 2024-12-27 |  |
 | [Before The Kiss](https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Before The Kiss](https://open.spotify.com/album/0MvMidNkXZRLAEtoFbIXTE) | 2:17 | 2024-10-18 |  |
 | [Begin Again](https://open.spotify.com/track/5flWX9RciqasGiS4PMremt) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Begin Again](https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21) | 5:24 | 2023-04-14 | 2023-08-05 |
 | [Behind the Wheel \(feat\. Slayyyter\)](https://open.spotify.com/track/3OUPzmzbkjLGcXRBB6aGB6) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Sensation](https://open.spotify.com/album/4upHoOLWg3PeWnnDnHDPDw) | 3:32 | 2024-09-13 |  |
@@ -152,7 +153,7 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 | 2022-08-13 |
 | [BREAK MY SOUL \- THE QUEENS REMIX](https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [BREAK MY SOUL \(THE QUEENS REMIX\)](https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J) | 5:56 | 2022-08-12 | 2022-12-10 |
 | [Breaking Up With Jesus](https://open.spotify.com/track/2yp3Cqx9etkMlVVe0vourb) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Breaking Up With Jesus](https://open.spotify.com/album/0elBjfzN9RNSaXmcCHq35k) | 2:57 | 2023-10-06 | 2023-10-21 |
-| [BREAKUP SEX](https://open.spotify.com/track/3BITJcEONbojn6i11mNvi3) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BREAKUP SEX](https://open.spotify.com/album/7rOYHW0AJi4AvH2BH7vTYm) | 2:16 | 2024-10-11 |  |
+| [BREAKUP SEX](https://open.spotify.com/track/3BITJcEONbojn6i11mNvi3) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BREAKUP SEX](https://open.spotify.com/album/7rOYHW0AJi4AvH2BH7vTYm) | 2:16 | 2024-10-11 | 2024-12-28 |
 | [Brightsider](https://open.spotify.com/track/45r6xQhf7hKsefH0FEUPVH) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Brightsider](https://open.spotify.com/album/025bhDcJFx2CWiYVXOUZvA) | 3:16 | 2022-06-03 | 2022-07-09 |
 | [Britpop](https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9) | 3:22 | 2024-02-23 | 2024-03-23 |
 | [brrr](https://open.spotify.com/track/7AZzCQ6S8HXLFBXsqH2HWE) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [brrr](https://open.spotify.com/album/11OeiSfjvduwX8JHQSgxcQ) | 2:32 | 2023-01-20 | 2023-05-06 |

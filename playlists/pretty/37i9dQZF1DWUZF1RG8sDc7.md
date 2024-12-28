@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,442 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,537 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 27 | [Te Perdone](https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [La Invitación](https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W) | 4:43 |
 | 28 | [El Amor Es Perdón y Algo Más](https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Volando Alto](https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303) | 5:15 |
 | 29 | [Te Amo y Te Amo](https://open.spotify.com/track/1oGQsCmd5B0AyqX1YW0Qm7) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [A Mi Manera](https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt) | 4:47 |
-| 30 | [En Carne Propia](https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL) | [Silvio Brito](https://open.spotify.com/artist/7q81irQWwRx8be6NFjynKg), [Osmel Meriño](https://open.spotify.com/artist/1WtnMuzDmHs7SM0Ow2lMgU) | [Vallenato en Accion: Lo Más Grande del Vallenato](https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5) | 4:54 |
-| 31 | [Imborrable](https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO) | [Mono Zabaleta](https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu), [Daniel Maestre](https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202) | [Imborrable](https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5) | 4:00 |
-| 32 | [No voy a llorar](https://open.spotify.com/track/00sxto6RGzUmb9bev8GmQs) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/1NHHst2Nybld2rdJZIdUNr) | 4:43 |
+| 30 | [Imborrable](https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO) | [Mono Zabaleta](https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu), [Daniel Maestre](https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202) | [Imborrable](https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5) | 4:00 |
+| 31 | [No voy a llorar](https://open.spotify.com/track/00sxto6RGzUmb9bev8GmQs) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/1NHHst2Nybld2rdJZIdUNr) | 4:43 |
+| 32 | [En Carne Propia](https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL) | [Silvio Brito](https://open.spotify.com/artist/7q81irQWwRx8be6NFjynKg), [Osmel Meriño](https://open.spotify.com/artist/1WtnMuzDmHs7SM0Ow2lMgU) | [Vallenato en Accion: Lo Más Grande del Vallenato](https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5) | 4:54 |
 | 33 | [Sirena Encantada](https://open.spotify.com/track/0hjgPmqi7IzcWnSiJYm2OL) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [30 Mejores](https://open.spotify.com/album/1BJm4d0jiwVsh5DhfYONtX) | 5:10 |
 | 34 | [El Invierno Pasado](https://open.spotify.com/track/11LPNeouMLQ3GZM4IUHPWF) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [¡Juepa Je!](https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4) | 4:54 |
 | 35 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |

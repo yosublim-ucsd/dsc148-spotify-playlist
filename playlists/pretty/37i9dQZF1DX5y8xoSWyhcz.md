@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,027 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,033 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Grace](https://open.spotify.com/track/0PkULtfgErOmg562Jkoj7q) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf) | [Sunshine State of a Happy Camper](https://open.spotify.com/album/0CDDoR9TpkCc2rGVhGB71B) | 3:29 |
 | 125 | [Homebody](https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Homebody](https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi) | 3:15 |
 
-Snapshot ID: `Z2T56QAAAAAgeEviaRB7hjzp+2RZ/tuL`
+Snapshot ID: `Z27MhQAAAABRlF2efJOPHvISA4Yet3Wn`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-634 songs - 1 day 19 hr 54 min
+635 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,8 @@
 | [Still Here](https://open.spotify.com/track/5OzYchiIV8Jd1AXcvncIHy) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 3:41 | 2023-12-30 | 2024-04-29 |
 | [Still Here](https://open.spotify.com/track/5mUSwG3evrOHHdyvDjHAwq) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/6J9qxrEjVwIHfccIrHhgeJ) | 3:41 | 2024-04-29 | 2024-12-27 |
 | [Stop Time Tonight](https://open.spotify.com/track/2XmSd93cDzMcFoZR3JYTrL) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Life](https://open.spotify.com/album/37QTLk15OwBegvWfBWk36J) | 4:00 | 2023-12-30 |  |
-| [Strong As Steel \- 7" Version](https://open.spotify.com/track/7kmuXD3zA7DXMsgKjB8jEU) | [Five Star](https://open.spotify.com/artist/4toJT7YydhWcrYNgWJK4hW) | [Five Star](https://open.spotify.com/album/1JngKkLRsPwbzRap033OMx) | 4:27 | 2023-12-30 |  |
+| [Strong As Steel \- 7" Version](https://open.spotify.com/track/7kmuXD3zA7DXMsgKjB8jEU) | [Five Star](https://open.spotify.com/artist/4toJT7YydhWcrYNgWJK4hW) | [Five Star](https://open.spotify.com/album/1JngKkLRsPwbzRap033OMx) | 4:27 | 2023-12-30 | 2024-12-28 |
+| [Strong As Steel \- 7" Version](https://open.spotify.com/track/1N3OQR5N7HMCU4UjLoXf9K) | [Five Star](https://open.spotify.com/artist/4toJT7YydhWcrYNgWJK4hW) | [Legends \- Five Star](https://open.spotify.com/album/4QBD4XKB2xeFWrcpEjbYdp) | 4:28 | 2024-12-27 |  |
 | [Strong, Strong Wind](https://open.spotify.com/track/6I1QlCOW4mDHMeoC0MOVxL) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [All About Love](https://open.spotify.com/album/5SYykL0icXn141kHKSQ6Os) | 4:25 | 2023-12-30 |  |
 | [Stuck With Each Other \- Main](https://open.spotify.com/track/0LIeySEITbDeTE4FQPS19o) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shontelligence](https://open.spotify.com/album/3tIkt2zUIa9ZT5lLFmTo8P) | 3:20 | 2023-12-30 |  |
 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 | 2024-07-27 |  |

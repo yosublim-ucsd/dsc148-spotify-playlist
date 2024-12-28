@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Vic Deal",
+  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Ma\u00f1as Ru-Fino",
   "name": "RAP\u00fablica de Colombia",
   "tracks": [
     {
@@ -1060,6 +1060,32 @@
       "duration_ms": 195164,
       "name": "fruti\u00f1o",
       "url": "https://open.spotify.com/track/4QP4LwWOI0ZptrJv0oG8xB"
+    },
+    {
+      "album": {
+        "name": "Fr\u00edo Sur",
+        "url": "https://open.spotify.com/album/6JWMtrkFfWEpq9ObaSCGQ0"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Fr\u00edo Sur",
+      "url": "https://open.spotify.com/track/60tAwJoSqHoWL1cmADByHM"
     },
     {
       "album": {
@@ -2340,7 +2366,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 190879,
       "name": "Rel\u00e9",
       "url": "https://open.spotify.com/track/1HJbLgHCVVAWEAHMp0JZmB"

@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 23807,
+  "num_followers": 23810,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAABZ1fNHvhzm57jry5SNPcu0",
+  "snapshot_id": "Z2ycgAAAAAAsg6Qp8qpJGUFHNCyXtwfy",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ringer From The Top End",
-        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
+        "name": "Trucks On The Track",
+        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 186533,
-      "name": "Charleville",
-      "url": "https://open.spotify.com/track/610yqiTu1JHursSimKCMyX"
+      "duration_ms": 203666,
+      "name": "Dieseline Dreams",
+      "url": "https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trucks On The Track",
-        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
+        "name": "Ringer From The Top End",
+        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 203666,
-      "name": "Dieseline Dreams",
-      "url": "https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV"
+      "duration_ms": 186533,
+      "name": "Charleville",
+      "url": "https://open.spotify.com/track/610yqiTu1JHursSimKCMyX"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Mechanised Swaggie",
-      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best Of Slim Dusty (Remastered)",
         "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Mechanised Swaggie",
+      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No. 50 - The Golden Anniversary Album",
         "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 184866,
       "name": "The Biggest Disappointment",
       "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs For Rolling Stones",
+        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 114266,
+      "name": "The Road To Gundagai - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Rolling Stones",
-        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 114266,
-      "name": "The Road To Gundagai - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Angel Of Goulburn Hill",
-      "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 212853,
       "name": "Boomaroo Flyer",
       "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Angel Of Goulburn Hill",
+      "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Take Mine Country Style",
-        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 112133,
-      "name": "Along The Road To Gundagai - Remaster 1995",
-      "url": "https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 162026,
       "name": "Haulin' For The Double 'T'",
       "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'll Take Mine Country Style",
+        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 112133,
+      "name": "Along The Road To Gundagai - Remaster 1995",
+      "url": "https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC"
     },
     {
       "added_at": null,

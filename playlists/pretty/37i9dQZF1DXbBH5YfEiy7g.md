@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 ### [South African Gospel](https://open.spotify.com/playlist/37i9dQZF1DXbBH5YfEiy7g)
 
-> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=JTTL9WmISeaziVW1jyZzUg">Lebo Sekgobela</a>
+> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=MonoFqtvS6GfQXd7aucDxA">Xolly Mncwango</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,122 likes - 89 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,281 likes - 89 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 88 | [Uyinqaba Yethu](https://open.spotify.com/track/5QWMo0RPTNFmTMAcmiXHQ3) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Uyinqaba Yethu](https://open.spotify.com/album/3Bf7ii7OweAhwrUfCWPbiY) | 6:14 |
 | 89 | [Ungu'Nkulunkulu](https://open.spotify.com/track/4KmJ0XOfPZbohBoenWNlHI) | [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [The Glory](https://open.spotify.com/album/1xf9GVdtliSyLjj6AdMqeh) | 8:43 |
 
-Snapshot ID: `Z23uRwAAAACAwvlrZLypo9hjJpXPo8h6`
+Snapshot ID: `Z26KoQAAAAAicuBO0PeNcTOTUjTYNQG7`

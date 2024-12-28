@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: Linying \(Singapore\)
 
-1,694 songs - 4 day 6 hr 27 min
+1,695 songs - 4 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -942,7 +942,7 @@
 | [Night Diver](https://open.spotify.com/track/6vE45sAtqcXVHIUksYxBy9) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Night Diver](https://open.spotify.com/album/3xQGDeaA2scHgcaHJ0GWAA) | 3:48 | 2022-03-24 | 2022-04-08 |
 | [Night Fear](https://open.spotify.com/track/1NQ9FY7DHgzwiykuI6Z5If) | [Vietra](https://open.spotify.com/artist/7zH3OdQnl7ujWSiMtQ46hG) | [Pseudofloral](https://open.spotify.com/album/0Intsh0H4ILUNaByRSzCns) | 3:24 | 2022-05-12 | 2022-06-10 |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-07 | 2022-07-29 |
-| [Night Time \- 10th Anniversary Remix \#3](https://open.spotify.com/track/4PLUJtUkrLtAKWdUBZj9t3) | [Bashan Lyngdoh](https://open.spotify.com/artist/2WkBKnjHirn49LDFl7WqC5), [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Night Time \(10th Anniversary Remix \#3\)](https://open.spotify.com/album/5VYgZEz24ix8ndQTseBTPd) | 2:20 | 2024-12-12 |  |
+| [Night Time \- 10th Anniversary Remix \#3](https://open.spotify.com/track/4PLUJtUkrLtAKWdUBZj9t3) | [Bashan Lyngdoh](https://open.spotify.com/artist/2WkBKnjHirn49LDFl7WqC5), [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Night Time \(10th Anniversary Remix \#3\)](https://open.spotify.com/album/5VYgZEz24ix8ndQTseBTPd) | 2:20 | 2024-12-12 | 2024-12-28 |
 | [Nightglow Dreamer](https://open.spotify.com/track/5sLetGDxict7HFmvZDJWQr) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/4KGHyHDeaPt8Ee9BOS9DAD) | 4:29 | 2024-12-05 |  |
 | [Nile](https://open.spotify.com/track/4NRK7OK4mInutst8FLenG2) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [Nile](https://open.spotify.com/album/31rjNDoXEfzXMWFE1AfNWG) | 4:12 | 2024-04-25 | 2024-05-24 |
 | [No Camera](https://open.spotify.com/track/0OOHnflCfcWQvb1ENnU3TU) | [SOMAOTA](https://open.spotify.com/artist/7iDt6acAAE3tr0bfHM5h3O), [DUCK HOUSE](https://open.spotify.com/artist/0ELl1ezauBmVn8nA3GdDJT) | [Lost Humanity](https://open.spotify.com/album/7BtGOVpYZMEyqiPpLqgPEP) | 3:38 | 2024-04-18 | 2024-04-26 |
@@ -1039,6 +1039,7 @@
 | [Phenomenal](https://open.spotify.com/track/5nhrJi2CVXTvDodAkcD05A) | [Giang Pham](https://open.spotify.com/artist/6OxNVd9jJ2IbNrOjHdcpJZ) | [Phenomenal](https://open.spotify.com/album/6014fUvef03rmfevNMWLVl) | 4:01 | 2024-10-17 | 2024-11-09 |
 | [phonecase](https://open.spotify.com/track/4Onk8ZymFGVPE5c9nXIdBv) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [phonecase](https://open.spotify.com/album/6Y08ATR8X7ZTZNai1hCn0X) | 2:48 | 2022-04-21 | 2022-06-17 |
 | [Picnic In The Park](https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [Picnic In The Park](https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB) | 2:57 | 2023-01-19 | 2023-02-03 |
+| [Picture Of You](https://open.spotify.com/track/0sZHyciRsjFXqxEhBO8Cbj) | [Bloom.](https://open.spotify.com/artist/5PfDMyKI9IR4m6RaBVvirV) | [Picture Of You](https://open.spotify.com/album/4sX6E5JPrGRfrUqJ3JvSZI) | 2:45 | 2024-12-27 |  |
 | [piece of mind](https://open.spotify.com/track/22GeaRbTM6J9MZLA9TqDx0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [piece of mind](https://open.spotify.com/album/6FiYjPbvIHjKo0pWLn8tt6) | 3:01 | 2024-06-13 | 2024-09-16 |
 | [Pillow Pillow](https://open.spotify.com/track/12LfBLjE0HMmDaGUZcZFs4) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Pillow Pillow](https://open.spotify.com/album/4qF8yKIEzjvIw3XUwJSmMO) | 3:16 | 2022-05-19 | 2022-07-08 |
 | [Pills](https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Pills](https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d) | 3:20 | 2022-04-28 | 2024-01-19 |

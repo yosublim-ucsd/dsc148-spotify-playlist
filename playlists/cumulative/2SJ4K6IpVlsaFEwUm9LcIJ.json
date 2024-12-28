@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Mister Pop",
+        "url": "https://open.spotify.com/album/1fdN6BFzynfexqrwsHz5g9"
+      },
+      "artists": [
+        {
+          "name": "The Clean",
+          "url": "https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166653,
+      "name": "Are You Really on Drugs?",
+      "url": "https://open.spotify.com/track/0vRdw4Dn862ci4NjJutQI6"
+    },
+    {
+      "album": {
         "name": "Sengula Nakupenda",
         "url": "https://open.spotify.com/album/7HYKaE9lKDRvTfaMPePJkF"
       },
@@ -1557,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "Dust beam",
+      "url": "https://open.spotify.com/track/2R6VAECQgZYy4Zn8tIXGi6"
+    },
+    {
+      "album": {
         "name": "Other Music",
         "url": "https://open.spotify.com/album/0yy1zI58b41lIbcICxNTbE"
       },
@@ -1850,6 +1886,24 @@
       "duration_ms": 395389,
       "name": "Fall",
       "url": "https://open.spotify.com/track/0vrCyUnCmMcUNGIA5GKgZD"
+    },
+    {
+      "album": {
+        "name": "Man-Made",
+        "url": "https://open.spotify.com/album/1B0lXu8AkBqJ1Sq02Howa1"
+      },
+      "artists": [
+        {
+          "name": "Teenage Fanclub",
+          "url": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211093,
+      "name": "Fallen Leaves",
+      "url": "https://open.spotify.com/track/4u5mES4rljkyCtLOPLCDj1"
     },
     {
       "album": {
@@ -2510,6 +2564,24 @@
       "duration_ms": 116129,
       "name": "Haunted Disco",
       "url": "https://open.spotify.com/track/6qeEKqQXu4ekJT0tjO3ARS"
+    },
+    {
+      "album": {
+        "name": "Imp Years",
+        "url": "https://open.spotify.com/album/1AbStfXk1A6n70yhAd9oZL"
+      },
+      "artists": [
+        {
+          "name": "The Spinanes",
+          "url": "https://open.spotify.com/artist/6lz8TrJesUMdGhKoyXTTda"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345573,
+      "name": "Hawaiian Baby",
+      "url": "https://open.spotify.com/track/0eyCLfTyf1KBwOFIBQaIUC"
     },
     {
       "album": {
@@ -5819,6 +5891,24 @@
     },
     {
       "album": {
+        "name": "Great Expectations",
+        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
+      },
+      "artists": [
+        {
+          "name": "Tasmin Archer",
+          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281853,
+      "name": "Sleeping Satellite",
+      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
+    },
+    {
+      "album": {
         "name": "It's a big man ting",
         "url": "https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa"
       },
@@ -6902,6 +6992,24 @@
       "duration_ms": 202440,
       "name": "Vampire in the Corner",
       "url": "https://open.spotify.com/track/6O6VDSgm7Cxrk7kIJhyIFo"
+    },
+    {
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243493,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"
     },
     {
       "album": {

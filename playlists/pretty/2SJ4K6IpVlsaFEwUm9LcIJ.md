@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,507 likes - 54 songs - 3 hr 33 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,517 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,11 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 52 | [Goodbye](https://open.spotify.com/track/4wbDALtjwuwBxtMgjuumoi) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Blind](https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J) | 4:44 |
 | 53 | [Música da Lagoa](https://open.spotify.com/track/55Cp1NZP8tDRDgKF2RTEew) | [Hermeto Pascoal](https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s), [Itiberê Zwarg](https://open.spotify.com/artist/5QSnCnq2IL4W4fWHfcJbSv), [Jovino Santos Neto](https://open.spotify.com/artist/5GMCyLTNLBsGbQ5bQBeULq), [Carlos Malta](https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM), [Marcio Bahia](https://open.spotify.com/artist/17bZjpj6dplqUsNH8TItKq) | [Música da Lagoa](https://open.spotify.com/album/51Ga06OSvsIAOy4yadDQuF) | 4:17 |
 | 54 | [Country Lovin](https://open.spotify.com/track/1DkaAkRqcwLU3weOOlhS3X) | [Canyon](https://open.spotify.com/artist/6l3ua4Cr4PckpYDOgSFZiE) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:20 |
+| 55 | [Fallen Leaves](https://open.spotify.com/track/4u5mES4rljkyCtLOPLCDj1) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Man\-Made](https://open.spotify.com/album/1B0lXu8AkBqJ1Sq02Howa1) | 3:31 |
+| 56 | [Hawaiian Baby](https://open.spotify.com/track/0eyCLfTyf1KBwOFIBQaIUC) | [The Spinanes](https://open.spotify.com/artist/6lz8TrJesUMdGhKoyXTTda) | [Imp Years](https://open.spotify.com/album/1AbStfXk1A6n70yhAd9oZL) | 5:45 |
+| 57 | [Dust beam](https://open.spotify.com/track/2R6VAECQgZYy4Zn8tIXGi6) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 2:06 |
+| 58 | [Sleeping Satellite](https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR) | [Tasmin Archer](https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1) | [Great Expectations](https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY) | 4:41 |
+| 59 | [Are You Really on Drugs?](https://open.spotify.com/track/0vRdw4Dn862ci4NjJutQI6) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Mister Pop](https://open.spotify.com/album/1fdN6BFzynfexqrwsHz5g9) | 2:46 |
+| 60 | [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 |
 
-Snapshot ID: `AAALlKqqWoHGQfxOu4Pmh+cD1Ll2G++i`
+Snapshot ID: `AAALm+adGOshZgKz77Dc72C8AMj9WF7f`

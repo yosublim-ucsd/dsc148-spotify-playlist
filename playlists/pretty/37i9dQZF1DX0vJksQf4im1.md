@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vJksQf4im1.md) - [plain]
 
 > Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,804 likes - 122 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,805 likes - 122 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,670 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,697 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 20 | [NUESTRA ISLA](https://open.spotify.com/track/5M3BNBFh7YujQGs5njZbb4) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [SUKHA](https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk) | 1:57 |
 | 21 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 |
 | 22 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
-| 23 | [Passoa](https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Passoa](https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD) | 5:09 |
-| 24 | [Enséñame a Bailar](https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 |
+| 23 | [Enséñame a Bailar](https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 |
+| 24 | [Passoa](https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Passoa](https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD) | 5:09 |
 | 25 | [A Veces A Besos \- Remix](https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [A Veces A Besos \(Remix\)](https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf) | 3:36 |
 | 26 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 |
-| 27 | [RD](https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU) | [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [Soyneel](https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [RD](https://open.spotify.com/album/1w9zzcVrDWAafs2358gIYN) | 2:46 |
-| 28 | [Modelo](https://open.spotify.com/track/7Ldt4IYQBAiw8QzjYP34V6) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Modelo](https://open.spotify.com/album/1CgiQYftLXs3clJtrNrlmc) | 2:33 |
+| 27 | [Modelo](https://open.spotify.com/track/7Ldt4IYQBAiw8QzjYP34V6) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Modelo](https://open.spotify.com/album/1CgiQYftLXs3clJtrNrlmc) | 2:33 |
+| 28 | [RD](https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU) | [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [Soyneel](https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [RD](https://open.spotify.com/album/1w9zzcVrDWAafs2358gIYN) | 2:46 |
 | 29 | [CALOR](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [CALOR](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 |
 | 30 | [AfroLOVA'](https://open.spotify.com/track/6Pw74Nz0wZvGQIu3ccRUeX) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:20 |
 | 31 | [I Miss You](https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [I Miss You](https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0) | 2:53 |

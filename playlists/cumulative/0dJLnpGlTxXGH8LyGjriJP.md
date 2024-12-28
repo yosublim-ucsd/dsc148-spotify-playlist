@@ -4,7 +4,7 @@
 
 > 
 
-819 songs - 1 day 17 hr 53 min
+821 songs - 1 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Bubbly \(with Drake & Travis Scott\)](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:45 | 2022-10-18 |  |
 | [Burn The Hoods](https://open.spotify.com/track/34PhB0kHT00utubP3aTau8) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Burn The Hoods](https://open.spotify.com/album/3PWTw7MPyvU80Z6pDgHUaC) | 1:42 | 2022-08-17 |  |
 | [Burning Up \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:08 | 2022-08-24 |  |
+| [BURR](https://open.spotify.com/track/0TLuRPNABhCmoRDTwaMKK9) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [BURR](https://open.spotify.com/album/07b2ukrOeBHxOZmbGwZcNc) | 2:37 | 2024-12-27 |  |
 | [Business Is Business \(Lil Baby & Gunna\)](https://open.spotify.com/track/7roKDmJDOzkpfGpUQJ5EnL) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:42 | 2022-12-28 |  |
 | [BUSS HER UP](https://open.spotify.com/track/7qfO0IGkZ1a2OnUOkMoR4D) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:19 | 2022-09-12 |  |
 | [Bustdown Rollie Avalanche](https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA) | [Kai Cenat](https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bustdown Rollie Avalanche](https://open.spotify.com/album/4q1uibZPEdwaj7Ha9F5lOJ) | 2:45 | 2022-05-25 |  |
@@ -346,6 +347,7 @@
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-28 |  |
 | [I Like](https://open.spotify.com/track/6zaoVw156UmdL8D3xOwggX) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [I Like](https://open.spotify.com/album/1NVTjDBAJGzgkCgnj9Mkuo) | 1:51 | 2022-12-09 |  |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2024-01-06 |  |
+| [I Serve the Base](https://open.spotify.com/track/1Rq4GtIucW9CAcF8B6PAbW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:10 | 2024-12-27 |  |
 | [I'M DAT N\*\*\*\*](https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 4:31 | 2024-02-24 |  |
 | [I'm Geekin](https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [I'm Geekin](https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo) | 1:41 | 2023-06-24 |  |
 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 3:56 | 2023-08-18 |  |

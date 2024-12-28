@@ -832,7 +832,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 120950,
       "name": "Do Jeito Que Voc\u00ea Mete",
       "url": "https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 266666,
       "name": "Eu sou Cantor N\u00e3o Sou Bandido",
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
@@ -3532,7 +3532,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
@@ -4473,6 +4473,28 @@
     },
     {
       "album": {
+        "name": "Mentirosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0DoTXscOExkz2eBFSyF1eQ"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165566,
+      "name": "Mentirosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7pBPXkaVQaP3Y3Wwfkpvbn"
+    },
+    {
+      "album": {
         "name": "MINHA EX",
         "url": "https://open.spotify.com/album/1cKi0Jz4VBjuHLUdEyKbI4"
       },
@@ -4854,7 +4876,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 162190,
       "name": "Mulher Foda - Ao Vivo",
       "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
@@ -5376,6 +5398,48 @@
       "duration_ms": 312480,
       "name": "O Som",
       "url": "https://open.spotify.com/track/4v0VOuuaZSQHjnjzkC3cnk"
+    },
+    {
+      "album": {
+        "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
+        "url": "https://open.spotify.com/album/4VCtYF2JYey5SeGpXkgGkR"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Dj Lc da Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "mc pl alves",
+          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166861,
+      "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
+      "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
     },
     {
       "album": {
@@ -7070,7 +7134,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 266666,
       "name": "THE BOX MEDLEY FUNK 2",
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
@@ -7482,6 +7546,28 @@
       "duration_ms": 171712,
       "name": "Um M\u00eas E Pouco - Ao Vivo",
       "url": "https://open.spotify.com/track/3PqU6gHWUaBTtIZi5oxEJ7"
+    },
+    {
+      "album": {
+        "name": "UM PALMO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3RhkeMBMeTY5PPy0MwTnAf"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138008,
+      "name": "UM PALMO - Ao Vivo",
+      "url": "https://open.spotify.com/track/2M2eRVCQbC3rHFSm9oT3YD"
     },
     {
       "album": {

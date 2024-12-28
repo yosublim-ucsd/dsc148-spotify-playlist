@@ -2,7 +2,7 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> dinizz falou: atenção nas AULAS do mais velho
+> ret com AULAS de rua, didática e experiência \- vagas abertas
 
 391 songs - 21 hr 33 min
 

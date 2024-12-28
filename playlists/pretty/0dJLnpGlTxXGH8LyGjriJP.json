@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "AAAD4Sahm6UaEeFh6dsbjkmZF9Jxyfod",
+  "snapshot_id": "AAAD466Kn/IFZDwlFZbqRI5oiFjXy75u",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -15435,6 +15435,38 @@
       "duration_ms": 187613,
       "name": "No Pole",
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
+    },
+    {
+      "added_at": "2024-12-27 20:04:41",
+      "album": {
+        "name": "BURR",
+        "url": "https://open.spotify.com/album/07b2ukrOeBHxOZmbGwZcNc"
+      },
+      "artists": [
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "BURR",
+      "url": "https://open.spotify.com/track/0TLuRPNABhCmoRDTwaMKK9"
+    },
+    {
+      "added_at": "2024-12-27 20:04:56",
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "I Serve the Base",
+      "url": "https://open.spotify.com/track/1Rq4GtIucW9CAcF8B6PAbW"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 22914,
+  "num_followers": 22925,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAAC7IGoM2o4xah6aKLy/V32f",
+  "snapshot_id": "Z2ycgAAAAACbM+rpatD78GX1QN6q0RdE",
   "tracks": [
     {
       "added_at": null,
@@ -184,21 +184,13 @@
       },
       "artists": [
         {
-          "name": "Norman Gimbel",
-          "url": "https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM"
-        },
-        {
-          "name": "Charles Fox",
-          "url": "https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB"
-        },
-        {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 63372,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0"
+      "duration_ms": 200297,
+      "name": "The Way It Was",
+      "url": "https://open.spotify.com/track/0Ou52Ie17Xe557e0rCDdgG"
     },
     {
       "added_at": null,
@@ -235,38 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret Piano",
-        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 115227,
-      "name": "Last Song",
-      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 200297,
-      "name": "The Way It Was",
-      "url": "https://open.spotify.com/track/0Ou52Ie17Xe557e0rCDdgG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -279,6 +239,46 @@
       "duration_ms": 197877,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Norman Gimbel",
+          "url": "https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM"
+        },
+        {
+          "name": "Charles Fox",
+          "url": "https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 63372,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret Piano",
+        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 115227,
+      "name": "Last Song",
+      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 211819,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/2zlfbhaKlYE45y5LyJawmh"
+      "duration_ms": 168115,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 168115,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji"
+      "duration_ms": 211819,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/2zlfbhaKlYE45y5LyJawmh"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 242295,
-      "name": "Where Worlds Collide",
-      "url": "https://open.spotify.com/track/04F2CVACUouSEWkaApQnmf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 195144,
       "name": "Crest of a Wave",
       "url": "https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 242295,
+      "name": "Where Worlds Collide",
+      "url": "https://open.spotify.com/track/04F2CVACUouSEWkaApQnmf"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 154372,
-      "name": "Truth Vibrations",
-      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 104727,
       "name": "Calmer Shores",
       "url": "https://open.spotify.com/track/2zI2ZijxaGuYvSXQk9RMN0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 154372,
+      "name": "Truth Vibrations",
+      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enigma Variations: Nimrod",
-        "url": "https://open.spotify.com/album/24h9w2380vUXNpbzDdi7LK"
-      },
-      "artists": [
-        {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
-        },
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 96586,
-      "name": "Enigma Variations: Nimrod",
-      "url": "https://open.spotify.com/track/3JDmYGjn9lsHQqCB7o3xAg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 112072,
       "name": "A Wondrous Path",
       "url": "https://open.spotify.com/track/4LCktC1BeDa10GK1BwqKql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enigma Variations: Nimrod",
+        "url": "https://open.spotify.com/album/24h9w2380vUXNpbzDdi7LK"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 96586,
+      "name": "Enigma Variations: Nimrod",
+      "url": "https://open.spotify.com/track/3JDmYGjn9lsHQqCB7o3xAg"
     },
     {
       "added_at": null,

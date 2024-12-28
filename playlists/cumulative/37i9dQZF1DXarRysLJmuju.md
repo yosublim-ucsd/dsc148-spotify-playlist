@@ -4,7 +4,7 @@
 
 > The latest in pop\. Cover: Artemas
 
-1,904 songs - 4 day 0 hr 12 min
+1,906 songs - 4 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [because of u](https://open.spotify.com/track/2Ls0XMObjXtTtvTpgbdCAU) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [i cried my eyes out](https://open.spotify.com/album/61dwcHUds2brluDQwUFtsk) | 3:30 | 2023-10-13 | 2023-10-30 |
 | [because of u](https://open.spotify.com/track/5R1lYstY4ZwXqzClMi0u3s) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [because of u](https://open.spotify.com/album/5rl3lDl1t4gMpZclQmOWxg) | 3:30 | 2023-09-08 | 2023-09-30 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-08-30 | 2024-12-07 |
+| [BEEEP](https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BEEEP](https://open.spotify.com/album/1F3oAzwVHXjKG1vXTzXYTg) | 2:36 | 2024-12-27 |  |
 | [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 | 2024-03-15 | 2024-05-03 |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2022-10-28 | 2023-02-25 |
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-04-19 | 2024-06-15 |
@@ -868,7 +869,7 @@
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-03 | 2023-02-18 |
 | [Iconic](https://open.spotify.com/track/7oTImlbBuKpTLi8hokqYR1) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:05 | 2022-05-06 | 2022-07-02 |
 | [idc](https://open.spotify.com/track/5vBHFYWu1KAAHYY5EfMl5u) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [idc](https://open.spotify.com/album/6I5dntjb6mH8XL0Afju0TL) | 3:26 | 2022-02-18 | 2022-03-26 |
-| [IDFLM](https://open.spotify.com/track/4UAXNBIZgNa3TgUQQshWwF) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [IDFLM](https://open.spotify.com/album/7EcgvCb5gkksW8wq1FxmMR) | 2:59 | 2024-11-08 |  |
+| [IDFLM](https://open.spotify.com/track/4UAXNBIZgNa3TgUQQshWwF) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [IDFLM](https://open.spotify.com/album/7EcgvCb5gkksW8wq1FxmMR) | 2:59 | 2024-11-08 | 2024-12-28 |
 | [IDK](https://open.spotify.com/track/0pJ3IQeSBuX85bikKFnTnH) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [IDK](https://open.spotify.com/album/3scanW1YpXbmbcsQxqPgTn) | 2:42 | 2022-05-20 | 2022-07-23 |
 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 | 2023-03-24 | 2023-06-10 |
 | [if he wanted to he would](https://open.spotify.com/track/1AcWy7riw8mBBssGzt2bCe) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [all the things that could go wrong \(Deluxe\)](https://open.spotify.com/album/1S3J9NISRNzWrLke6Tx0Wg) | 2:51 | 2022-11-04 | 2023-01-06 |
@@ -1261,6 +1262,7 @@
 | [Optimist](https://open.spotify.com/track/5I1opogpl6oOEKmXRDXSEO) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Optimist](https://open.spotify.com/album/785hSUKzozAGvKU8jQ6C0u) | 2:33 | 2024-12-06 |  |
 | [ORAL HEX \(spell on you\)](https://open.spotify.com/track/6SpUnFjNfyFgyLRm65b2G6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [ORAL HEX \(spell on you\)](https://open.spotify.com/album/3Z6ZQizuBnh4w78dlm6HZ1) | 3:14 | 2023-09-15 | 2024-01-13 |
 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 | 2023-09-08 | 2024-01-13 |
+| [Otherside](https://open.spotify.com/track/5xdp59pQfyORMMFiblWrYs) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Otherside](https://open.spotify.com/album/1N9FTCajqxPioNAbD0clCg) | 2:54 | 2024-12-27 |  |
 | [Our Lady of Sorrows](https://open.spotify.com/track/1oLyoAX5Y89g84tplWqMlP) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Girl With No Face \(Deluxe\)](https://open.spotify.com/album/3YmHgqNX2uNNbBRa8WkxkD) | 4:43 | 2024-11-01 |  |
 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-28 | 2024-08-17 |
 | [Out of Sight](https://open.spotify.com/track/2xBknrtjrQlYJndkbYGDvE) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Out of Sight](https://open.spotify.com/album/3lrT53M5XyaNM1q6vU2i3u) | 2:26 | 2023-09-15 | 2023-11-27 |
@@ -1911,6 +1913,6 @@
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-29 | 2022-09-10 |
 | [Yummy \(with Stefflon Don\)](https://open.spotify.com/track/5eJEXMXxTNUcFva4uQ4yUU) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Yummy \(with Stefflon Don\)](https://open.spotify.com/album/15gVZQfXliOi80uCa4fbxc) | 2:51 | 2023-01-06 | 2023-01-28 |
-| [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 | 2024-09-20 |  |
+| [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 | 2024-09-20 | 2024-12-28 |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

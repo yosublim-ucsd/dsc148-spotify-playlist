@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 36699,
+  "num_followers": 36725,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
+      },
+      "artists": [
+        {
+          "name": "La Familia Andr\u00e9",
+          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "De Oro",
+      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
         "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 248373,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
-      },
-      "artists": [
-        {
-          "name": "La Familia Andr\u00e9",
-          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "De Oro",
-      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 183228,
-      "name": "Cumbia Caletera",
-      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Cumbia Caletera",
+      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+        "name": "Sonido Digital Bailables",
+        "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
       },
       "artists": [
         {
           "name": "Los Tupamaros",
           "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
         }
       ],
-      "duration_ms": 209084,
-      "name": "Bacano",
-      "url": "https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ"
+      "duration_ms": 209266,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1519,22 +1523,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Sonido Digital Bailables",
-        "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
       "artists": [
         {
           "name": "Los Tupamaros",
           "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
+      "duration_ms": 209084,
+      "name": "Bacano",
+      "url": "https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ"
     },
     {
       "added_at": "2024-07-12 23:11:55",

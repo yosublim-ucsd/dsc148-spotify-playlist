@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 381,
+  "num_followers": 116,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 237377,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Paint",
         "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 231640,
       "name": "Steer",
       "url": "https://open.spotify.com/track/6NpO2qjMkMhmncI6hdhTH2"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 237377,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Talk It Out",
-        "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        },
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 190726,
-      "name": "Talk It Out",
-      "url": "https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Gossip",
         "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
       },
@@ -827,6 +807,26 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Talk It Out",
+        "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        },
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 190726,
+      "name": "Talk It Out",
+      "url": "https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
       },
@@ -839,38 +839,6 @@
       "duration_ms": 201706,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Roll Up Your Sleeves",
-        "url": "https://open.spotify.com/album/68GTGs9r1hrO1SG9yG5uwb"
-      },
-      "artists": [
-        {
-          "name": "Meg Mac",
-          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
-        }
-      ],
-      "duration_ms": 184459,
-      "name": "Roll Up Your Sleeves",
-      "url": "https://open.spotify.com/track/7nrPyQ37J2BO24uoleVp35"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Milyakburra",
-        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
-      },
-      "artists": [
-        {
-          "name": "Emily Wurramara",
-          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "Lady Blue",
-      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -891,6 +859,38 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Milyakburra",
+        "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
+      },
+      "artists": [
+        {
+          "name": "Emily Wurramara",
+          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Lady Blue",
+      "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Roll Up Your Sleeves",
+        "url": "https://open.spotify.com/album/68GTGs9r1hrO1SG9yG5uwb"
+      },
+      "artists": [
+        {
+          "name": "Meg Mac",
+          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
+        }
+      ],
+      "duration_ms": 184459,
+      "name": "Roll Up Your Sleeves",
+      "url": "https://open.spotify.com/track/7nrPyQ37J2BO24uoleVp35"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Pound For Pound",
         "url": "https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 182019,
       "name": "Tora",
       "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Deeper Water",
+        "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -935,22 +951,6 @@
       "duration_ms": 257906,
       "name": "La Mar",
       "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Deeper Water",
-        "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
-      },
-      "artists": [
-        {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/2O6hJP7lu68hxDvbkXwtOK"
-      },
-      "artists": [
-        {
-          "name": "John Butler Trio",
-          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Tahitian Blue",
-      "url": "https://open.spotify.com/track/7a1tbfGu5FEaDDSleUFBn0"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "She Came Back with Rainbows",
         "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 230189,
       "name": "She Came Back with Rainbows",
       "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/2O6hJP7lu68hxDvbkXwtOK"
+      },
+      "artists": [
+        {
+          "name": "John Butler Trio",
+          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Tahitian Blue",
+      "url": "https://open.spotify.com/track/7a1tbfGu5FEaDDSleUFBn0"
     }
   ],
   "unique_name": "Coast to Coast",

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-360 songs - 17 hr 33 min
+361 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [La Ligne Claire](https://open.spotify.com/track/3TTzfXXU5wkQAMJ4vlcmfj) | [Cosmic Analog Ensemble](https://open.spotify.com/artist/477PPCXcCS9mi3lRRnudCq) | [La Ligne Claire](https://open.spotify.com/album/3YCCIOLbIJTG6ZYQdVFv3h) | 2:42 | 2024-01-26 | 2024-08-27 |
 | [La Luz](https://open.spotify.com/track/2wPiI06tTvnHyeV2Hn370J) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [La Luz](https://open.spotify.com/album/1F064LtPXfOAstcUhdylwz) | 2:00 | 2024-08-23 |  |
 | [Lament](https://open.spotify.com/track/1RGNKh9SaJr6UNXiUe33UM) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Blue Turn](https://open.spotify.com/album/1gfJzf9Hu6HKzlGtfbg4km) | 2:48 | 2023-10-13 | 2024-12-06 |
-| [Laminar](https://open.spotify.com/track/11WO4NEL8X56PGQi0F2LqD) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Laminar](https://open.spotify.com/album/2IpmiuingrjKA53aL03GE5) | 1:48 | 2024-11-22 |  |
+| [Laminar](https://open.spotify.com/track/11WO4NEL8X56PGQi0F2LqD) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Laminar](https://open.spotify.com/album/2IpmiuingrjKA53aL03GE5) | 1:48 | 2024-11-22 | 2024-12-28 |
 | [Langeland Frukt & Tobakk](https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Kim Åge Furuhaug](https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu) | [Chris Holm · Øyvind Blomstrøm · Kim Åge Furuhaug](https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo) | 5:40 | 2023-08-22 | 2024-09-13 |
 | [Le club](https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Le club](https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz) | 3:10 | 2023-08-22 |  |
 | [Le Lac \- FloFilz Reprise](https://open.spotify.com/track/0AsQKm30IMWGJYM0tnwIFS) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Le Lac](https://open.spotify.com/album/1pdGiwyyYUdjCbioTmLpPu) | 2:14 | 2024-08-30 |  |
@@ -313,6 +313,7 @@
 | [Superglue](https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Tool Box](https://open.spotify.com/album/60foAlPlTrG424X5Agh7Yh) | 2:32 | 2023-08-22 |  |
 | [Surf](https://open.spotify.com/track/4UfwdU3IjjV3rLJwp2jMUz) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Waves](https://open.spotify.com/album/2cJ2yIgwJe6RdHsnfWHRqc) | 1:57 | 2024-08-23 |  |
 | [Sweet Nothings](https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Sweet Nothings](https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo) | 2:20 | 2023-08-25 | 2024-09-07 |
+| [swing side](https://open.spotify.com/track/4PO8A3EPanNbkx7Q3Wi2a3) | [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX), [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [swing side](https://open.spotify.com/album/2TDburFMSfxZB2wGzfaHSZ) | 2:03 | 2024-12-13 |  |
 | [synco](https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk) | [Julio Estrada](https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b), [bread stinson](https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ) | [synco](https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0) | 4:20 | 2023-08-22 | 2024-09-28 |
 | [synergy](https://open.spotify.com/track/2mobc4qTowSU1xom2svdwr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [synergy](https://open.spotify.com/album/2pVgWKlYMy76JdQ2thPsDg) | 2:35 | 2024-09-27 |  |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2023-08-22 |  |

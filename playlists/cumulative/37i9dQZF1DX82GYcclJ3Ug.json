@@ -2831,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "album": {
         "name": "BEACON",
         "url": "https://open.spotify.com/album/3BcbE7gsMcHMsvA6KzQNn7"
       },
@@ -10688,6 +10706,24 @@
       "duration_ms": 212822,
       "name": "DOWNSIDE",
       "url": "https://open.spotify.com/track/49sFu3Kz7zf94qT27b2ZF9"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178932,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
     },
     {
       "album": {
@@ -18816,7 +18852,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 195968,
       "name": "I remember how your hands felt on mine",
       "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
@@ -39841,6 +39877,28 @@
     },
     {
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        },
+        {
+          "name": "Distressor",
+          "url": "https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264566,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n"
+    },
+    {
+      "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
@@ -41674,7 +41732,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 189112,
       "name": "Walls",
       "url": "https://open.spotify.com/track/4IbHUfKCnXwgWhXSF9bme8"
@@ -42068,7 +42126,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 215369,
       "name": "Waxwing",
       "url": "https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd"

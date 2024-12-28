@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Kevin Aguilar",
-  "num_followers": 206956,
+  "num_followers": 206961,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Te Confirmo",
-        "url": "https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 222130,
-      "name": "Te Confirmo",
-      "url": "https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 186640,
       "name": "Renunciaci\u00f3n",
       "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Te Confirmo",
+        "url": "https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 222130,
+      "name": "Te Confirmo",
+      "url": "https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "H\u00e1gale",
-        "url": "https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Navarrete",
-          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
-        }
-      ],
-      "duration_ms": 167916,
-      "name": "H\u00e1gale",
-      "url": "https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "El Cigarrillo",
         "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 219411,
       "name": "El Cigarrillo",
       "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "El Tenampa",
+        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 134954,
+      "name": "El Tenampa",
+      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "El Tenampa",
-        "url": "https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A"
+        "name": "H\u00e1gale",
+        "url": "https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+          "name": "Juan Pablo Navarrete",
+          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
         }
       ],
-      "duration_ms": 134954,
-      "name": "El Tenampa",
-      "url": "https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici"
+      "duration_ms": 167916,
+      "name": "H\u00e1gale",
+      "url": "https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 233373,
       "name": "PALOMA BLANCA",
       "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
     },
     {
       "added_at": "2024-11-15 06:00:00",

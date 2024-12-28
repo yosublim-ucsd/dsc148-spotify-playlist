@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 293184,
+  "num_followers": 293220,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAAD0JRX4B1JE91tM2fNw8Rvb",
+  "snapshot_id": "Z2ycgAAAAAA+C5d7wCbid5OWJC7YfYsY",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+        "name": "Shades of Deep Purple",
+        "url": "https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 364933,
-      "name": "Burn - Remastered 2004",
-      "url": "https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta"
+      "duration_ms": 266840,
+      "name": "Hush - 1998 Remaster",
+      "url": "https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Deep Purple",
-        "url": "https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 266840,
-      "name": "Hush - 1998 Remaster",
-      "url": "https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6"
+      "duration_ms": 364933,
+      "name": "Burn - Remastered 2004",
+      "url": "https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta"
     },
     {
       "added_at": null,

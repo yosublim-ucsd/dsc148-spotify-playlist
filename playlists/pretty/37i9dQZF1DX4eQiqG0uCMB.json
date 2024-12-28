@@ -1,6 +1,6 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 36988,
+  "num_followers": 37020,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-12-06 06:58:43",
       "album": {
+        "name": "Bodija / Folake",
+        "url": "https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Folake",
+      "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
+    },
+    {
+      "added_at": "2024-12-06 06:58:43",
+      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
-    },
-    {
-      "added_at": "2024-12-06 06:58:43",
-      "album": {
-        "name": "Bodija / Folake",
-        "url": "https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Folake",
-      "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
     },
     {
       "added_at": "2024-12-06 06:58:43",

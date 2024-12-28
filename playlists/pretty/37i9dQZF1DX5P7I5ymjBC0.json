@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Ketan Sodha, Ash King & Jahnvi Shrimankar",
-  "num_followers": 72703,
+  "num_followers": 72732,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
+        "name": "Gulon Main Rang",
+        "url": "https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 379881,
+      "name": "Gulon Main Rang",
+      "url": "https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
         "name": "Mitho Laage (The Dewarists, Season 5)",
         "url": "https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 280000,
       "name": "Mitho Laage - The Dewarists, Season 5",
       "url": "https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Gulon Main Rang",
-        "url": "https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 379881,
-      "name": "Gulon Main Rang",
-      "url": "https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq"
     },
     {
       "added_at": "2024-12-20 07:34:31",
@@ -567,6 +567,26 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
+        "name": "Umran Langiyaan (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/4ibe0e62SlJoOu1HFLxEVr"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 482625,
+      "name": "Umran Langiyaan - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/13ku97oiMKs8x01FIj2067"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
         "name": "Jaanaan (From \"Bhoomi 2024\")",
         "url": "https://open.spotify.com/album/1FxmcvIwRD99bcNLNdoRDH"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 306779,
       "name": "Jaanaan (From \"Bhoomi 2024\")",
       "url": "https://open.spotify.com/track/5ZY6Tet68fX8ea0R0D80T5"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Umran Langiyaan (Coke Studio Season 8)",
-        "url": "https://open.spotify.com/album/4ibe0e62SlJoOu1HFLxEVr"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        },
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        }
-      ],
-      "duration_ms": 482625,
-      "name": "Umran Langiyaan - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/13ku97oiMKs8x01FIj2067"
     },
     {
       "added_at": "2024-12-20 07:34:31",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
-      },
-      "artists": [
-        {
-          "name": "Fuzon",
-          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
-        }
-      ],
-      "duration_ms": 412266,
-      "name": "Mora Saiyaan",
-      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0zJUOFRDDBOW0tICSXkmFQ"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "duration_ms": 412266,
+      "name": "Mora Saiyaan",
+      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
       },
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
         "name": "Nadiya Bairi Bhayi",
         "url": "https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 161333,
       "name": "Nadiya Bairi Bhayi",
       "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2024-12-20 07:34:31",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
+        "name": "Natural Elements (with John McLaughlin)",
+        "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
+      },
+      "artists": [
+        {
+          "name": "Shakti",
+          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
+        }
+      ],
+      "duration_ms": 347866,
+      "name": "Mind Ecology (with John McLaughlin)",
+      "url": "https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
         "name": "Grounded in Space",
         "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
       },
@@ -971,6 +987,22 @@
       "duration_ms": 305613,
       "name": "Ghir Ghir",
       "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
+        "name": "Padharo Mhare Des (Folk Fusion)",
+        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
+      },
+      "artists": [
+        {
+          "name": "Swaraag",
+          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Padharo Mhare Des - Folk Fusion",
+      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
     },
     {
       "added_at": "2024-12-20 07:34:31",
@@ -991,42 +1023,6 @@
       "duration_ms": 273394,
       "name": "Boondan Boondan (feat. Ankita Joshi)",
       "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Natural Elements (with John McLaughlin)",
-        "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
-      },
-      "artists": [
-        {
-          "name": "Shakti",
-          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
-        },
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 347866,
-      "name": "Mind Ecology (with John McLaughlin)",
-      "url": "https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Padharo Mhare Des (Folk Fusion)",
-        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
-      },
-      "artists": [
-        {
-          "name": "Swaraag",
-          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Padharo Mhare Des - Folk Fusion",
-      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
     }
   ],
   "unique_name": "Fusion Finds",

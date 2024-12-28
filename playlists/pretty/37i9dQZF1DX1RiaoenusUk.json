@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 29317,
+  "num_followers": 29343,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+    },
+    {
+      "added_at": "2024-11-15 12:08:07",
+      "album": {
         "name": "Ripio",
         "url": "https://open.spotify.com/album/60xWCqkLmPB6bh0btThW7G"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 223038,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY"
-    },
-    {
-      "added_at": "2024-11-15 12:08:07",
-      "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Nada Ser\u00eda Igual",
-        "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
       },
       "artists": [
         {
-          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
-          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
-        },
-        {
-          "name": "Motafonkas",
-          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
         }
       ],
-      "duration_ms": 203056,
-      "name": "Nada Ser\u00eda Igual",
-      "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
+      "duration_ms": 190373,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
     },
     {
       "added_at": "2024-11-15 12:08:07",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2024-11-15 12:08:07",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+        "name": "Nada Ser\u00eda Igual",
+        "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
       "artists": [
         {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "Motafonkas",
+          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
         }
       ],
-      "duration_ms": 190373,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
+      "duration_ms": 203056,
+      "name": "Nada Ser\u00eda Igual",
+      "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
     },
     {
       "added_at": "2024-11-15 12:08:07",

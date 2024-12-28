@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 
 > Największe polskie przeboje w 2024 według naszej redakcji\. Cover: Sylwia Grzeszczak
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,756 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,815 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 | 12 | [Złamane serce jest OK](https://open.spotify.com/track/4588ZH7944EUrbDvdkr2sA) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Dziewczyna Pop](https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB) | 3:15 |
 | 13 | [Dzięki, że jesteś](https://open.spotify.com/track/6mtyMWr8cDvLroVQgR3UC9) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [Heca](https://open.spotify.com/album/6zLgFeNNs1JxPHawGEkU90) | 2:30 |
 | 14 | [Miłego lata](https://open.spotify.com/track/2uN7ueBbQDExGTiJD5kchM) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny](https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk) | 2:42 |
-| 15 | [Falochrony](https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Falochrony](https://open.spotify.com/album/5hzrI1yiFAvl4j1AJ7ikzW) | 2:49 |
+| 15 | [Falochrony](https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Falochrony](https://open.spotify.com/album/5hzrI1yiFAvl4j1AJ7ikzW) | 2:49 |
 | 16 | [B012](https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [B012](https://open.spotify.com/album/6pN3zmswspYqyY1ztZHKsK) | 2:18 |
 | 17 | [HIPNOZA](https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [HIPNOZA](https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY) | 3:14 |
 | 18 | [Wolne duchy](https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Wolne duchy \(feat\. Daria Zawiałow, Mrozu & Kacperczyk\)](https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie) | 3:05 |

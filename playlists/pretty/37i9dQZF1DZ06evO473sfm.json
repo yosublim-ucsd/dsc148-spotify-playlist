@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 450073,
+  "num_followers": 450597,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAADR8Rp8Uq+Hd4h209oowa2Q",
+  "snapshot_id": "Z2ycgAAAAAAGaevhodt2yKDIWsug3DfR",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pienso En Ella",
-        "url": "https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 159551,
-      "name": "Pienso En Ella",
-      "url": "https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 209415,
       "name": "TULUM",
       "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pienso En Ella",
+        "url": "https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Pienso En Ella",
+      "url": "https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx"
     },
     {
       "added_at": null,

@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "BRAINWASH",
+        "url": "https://open.spotify.com/album/1W8Z3zbB0C4Fl8z0tcKOqQ"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184633,
+      "name": "BRAINWASH",
+      "url": "https://open.spotify.com/track/1rBh478tPcaqibTVzzH0sI"
+    },
+    {
+      "album": {
         "name": "BREAK IT DOWN",
         "url": "https://open.spotify.com/album/3ogo234STX9mj4SLmOISAH"
       },
@@ -902,7 +920,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 233024,
       "name": "CALAVERAS",
       "url": "https://open.spotify.com/track/06z82FD4ikNp0w2OHZNihM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sound from Asia\. Cover: Linying \(Singapore\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,618 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,180 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 19 | [Nightglow Dreamer](https://open.spotify.com/track/5sLetGDxict7HFmvZDJWQr) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/4KGHyHDeaPt8Ee9BOS9DAD) | 4:29 |
 | 20 | [Hot Kitchen](https://open.spotify.com/track/2r3o3dqnELo9nFLHGYRJPz) | [FUAD](https://open.spotify.com/artist/0sFxcrZPKTFoOL4LCAL7NW) | [Hot Kitchen](https://open.spotify.com/album/7DyaDmX5Vz6T9pdjr0FzMB) | 3:00 |
 | 21 | [Fill My Empty Soul](https://open.spotify.com/track/3YN2Vz3jYYIIvkC2eX2mGr) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Fill My Empty Soul](https://open.spotify.com/album/46kdOcGtnWMPDLcmRmdEjg) | 3:26 |
-| 22 | [Night Time \- 10th Anniversary Remix \#3](https://open.spotify.com/track/4PLUJtUkrLtAKWdUBZj9t3) | [Bashan Lyngdoh](https://open.spotify.com/artist/2WkBKnjHirn49LDFl7WqC5), [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Night Time \(10th Anniversary Remix \#3\)](https://open.spotify.com/album/5VYgZEz24ix8ndQTseBTPd) | 2:20 |
+| 22 | [Picture Of You](https://open.spotify.com/track/0sZHyciRsjFXqxEhBO8Cbj) | [Bloom.](https://open.spotify.com/artist/5PfDMyKI9IR4m6RaBVvirV) | [Picture Of You](https://open.spotify.com/album/4sX6E5JPrGRfrUqJ3JvSZI) | 2:45 |
 | 23 | [Stephanie](https://open.spotify.com/track/5CnRBMfpnFB5LAJaFGu6ln) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Stephanie](https://open.spotify.com/album/1U8hUZLu8VpchpnpQzeomn) | 2:06 |
 | 24 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 |
 | 25 | [NEON](https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [NEON](https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT) | 5:10 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 46 | [blue](https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn) | 3:34 |
 | 47 | [special customer](https://open.spotify.com/track/0dBefIZu0n3kWOcJvKAC5R) | [spingy](https://open.spotify.com/artist/65IgDP0KdfVt1klR6BzPl6), [AINN](https://open.spotify.com/artist/3q2Q5ZizaHq727uR0MIYMK) | [special customer](https://open.spotify.com/album/6Z7lnQLYUSw88WDR5jfW8h) | 2:52 |
 | 48 | [Killer](https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:18 |
-| 49 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
+| 49 | [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 |
 | 50 | [Cloudless Night \(Remaster 2024\)](https://open.spotify.com/track/6fu1UbR8W3mmV497JUe6XY) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Cloudless Night](https://open.spotify.com/album/7y3LS6mOwc3pel814jYUtU) | 4:26 |
 | 51 | [Euphoria](https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [All These and More](https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x) | 3:29 |
-| 52 | [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 |
+| 52 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
 | 53 | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J) | 3:53 |
 | 54 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 |
 | 55 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 59 | [Our Beloved Summer](https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq) | [Kim Kyung Hee](https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD) | 3:12 |
 | 60 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 |
 | 61 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
-| 62 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 |
+| 62 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 |
 | 63 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
-| 64 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 |
+| 64 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 |
 | 65 | [Rima Raga](https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Rima Raga](https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR) | 3:13 |
 | 66 | [WDYS](https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [WDYS](https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K) | 2:24 |
 | 67 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 72 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 |
 | 73 | [BACK TO REALITY](https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [CALL ME DRAMATIC](https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs) | 3:52 |
 | 74 | [NO PAIN](https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 3:41 |
-| 75 | [Sunny Days](https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Sunny Days](https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN) | 3:56 |
-| 76 | [Weirdo](https://open.spotify.com/track/6qjKT6qI5AeGajCaKq2mfS) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Weirdo](https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2) | 4:13 |
+| 75 | [Weirdo](https://open.spotify.com/track/6qjKT6qI5AeGajCaKq2mfS) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Weirdo](https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2) | 4:13 |
+| 76 | [Sunny Days](https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Sunny Days](https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN) | 3:56 |
 | 77 | [annie\. \(clean\)](https://open.spotify.com/track/5E84ZtPQnMZrsXLhBXn7n6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [play with earth! 0.03 \(extended\)](https://open.spotify.com/album/4jBFN4Em3PmeTmJLGT2NDQ) | 3:20 |
 | 78 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 79 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
 | 100 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 |
 
-Snapshot ID: `Z21vjQAAAAC1k5SVkIZoSK8HpmnstywV`
+Snapshot ID: `Z25ObgAAAAD1XqmCmX1RTZ9eA95IUwxI`

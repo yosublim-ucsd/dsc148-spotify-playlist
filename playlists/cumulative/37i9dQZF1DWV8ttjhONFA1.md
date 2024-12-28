@@ -4,7 +4,7 @@
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Plastilina
 
-325 songs - 17 hr 49 min
+329 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [33](https://open.spotify.com/track/7ouLz40UQuxZVX2GGO82cZ) | [Majo Chicar](https://open.spotify.com/artist/2t1ZWcvmcsJnj9yCRuzvOG) | [33](https://open.spotify.com/album/4zEvPsxMAPw6NYzedRqLDi) | 3:04 | 2024-07-12 | 2024-08-31 |
 | [a mi casa](https://open.spotify.com/track/6UwVtkAOTL3bzevb0aHAjp) | [Polska](https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk) | [a mi casa](https://open.spotify.com/album/5pBLBJjevF43uyHJp1Hpw4) | 1:58 | 2024-05-17 | 2024-09-14 |
 | [a tu tiempo](https://open.spotify.com/track/3oVwlG8IixKr8JKLBN9Kvs) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [a tu tiempo](https://open.spotify.com/album/2ybjJSFBzWlkWDbLmOiCzr) | 2:14 | 2024-11-08 |  |
+| [A Veces Casi](https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj) | [Viva Elastico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [A Veces Casi](https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT) | 3:00 | 2024-12-27 |  |
 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-04-05 | 2024-04-27 |
 | [Acto de Fe](https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Acto de Fe](https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0) | 2:49 | 2024-02-23 | 2024-10-05 |
 | [Acuerdo](https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Acuerdo](https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM) | 3:23 | 2024-06-14 | 2024-11-09 |
@@ -107,6 +108,7 @@
 | [Dos Extraños](https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Extraños](https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM) | 3:01 | 2023-12-15 | 2024-06-26 |
 | [droga del momento](https://open.spotify.com/track/1wTy0rpYciXNPl2ApruK3A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [le tengo miedo a las alturas](https://open.spotify.com/album/7qH5iAghmKje6Y0oaUb5Kn) | 3:29 | 2024-04-26 | 2024-11-09 |
 | [DUALIDAD](https://open.spotify.com/track/76WuaMpuaOakgK6yw6ZDRh) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [LOGO](https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K) | 3:41 | 2024-03-29 | 2024-04-27 |
+| [duele](https://open.spotify.com/track/2yrNQZingUajMAiVdsSWQD) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [duele](https://open.spotify.com/album/7cY2dHWWwVNQsy9p9Z309n) | 2:51 | 2024-12-27 |  |
 | [Duele](https://open.spotify.com/track/3QsmZtbdKo05hK6VVAjUXd) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 3:27 | 2024-04-05 | 2024-09-14 |
 | [Dueña de mis Días](https://open.spotify.com/track/4FpmYvXTUbcfZINi4gt5eF) | [Luna Sujatovich](https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [ESE FUEGO](https://open.spotify.com/album/3cPLck90fdefJW3PdLsB1M) | 3:28 | 2024-10-25 |  |
 | [Día Especial](https://open.spotify.com/track/71UEdUX4HDUellHqmlQfKn) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR), [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [Día Especial](https://open.spotify.com/album/769NNJgkByGNAMpogVfFCR) | 4:07 | 2023-12-15 | 2024-09-07 |
@@ -294,6 +296,7 @@
 | [tatetiii](https://open.spotify.com/track/51Nm5uWx6W7wdPh0recZfy) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [tatetiii](https://open.spotify.com/album/1wHWs2Vneb9h1vUVntX0X4) | 1:54 | 2024-11-08 |  |
 | [TAYLOR](https://open.spotify.com/track/0Q4b98WIeJkWDqAeSyYZR4) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [TAYLOR](https://open.spotify.com/album/6VL4p6rD5mnCZ1a8OnPpee) | 3:42 | 2024-07-05 | 2024-10-05 |
 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 | 2024-04-05 |  |
+| [Te Miento \- Al Piano](https://open.spotify.com/track/1cPyKHSbPoQ0RNOEwuaugN) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Potra al Piano](https://open.spotify.com/album/39IiI16vrMXz85wT7u5Nyp) | 3:20 | 2024-12-27 |  |
 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 | 2023-12-15 | 2024-04-06 |
 | [Te vi](https://open.spotify.com/track/6Gio20biKmJWb7tPJXDgRS) | [Uma German](https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY) | [Te vi](https://open.spotify.com/album/2wNysotC6ih2dyCUgS3y3n) | 2:54 | 2024-11-22 |  |
 | [Telepatía Animal](https://open.spotify.com/track/67fm3w8yfTXVwIYb06U3Js) | [Tango Astral](https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j) | [Telepatía Animal](https://open.spotify.com/album/5U3A9qKOYbyXDkfDze7PAB) | 3:56 | 2024-05-24 | 2024-10-05 |
@@ -317,6 +320,7 @@
 | [Un Mono y un Perro](https://open.spotify.com/track/5AN27c3dK79zM44TZhHI9I) | [Pako Galvan](https://open.spotify.com/artist/6ulD1PL8KDmWRI73SHdwL1) | [Un Mono y un Perro](https://open.spotify.com/album/3AWmgOcRQ2adHG4pY6b3eV) | 3:09 | 2024-05-24 | 2024-09-07 |
 | [Un Preámbulo](https://open.spotify.com/track/0VAwX3wYhvYrLojAl0Ld7f) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Un Preámbulo](https://open.spotify.com/album/4N4NgsGFXOaiAiQxk87lwZ) | 3:26 | 2023-12-15 | 2024-03-16 |
 | [Un Ángel Para Tu Soledad](https://open.spotify.com/track/0paoacUiJg3KaJWI4UQeQm) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [Un Ángel Para Tu Soledad](https://open.spotify.com/album/5FrGWO6KCgBT6P0VCigAmo) | 3:34 | 2024-02-23 |  |
+| [Una Mira En Mi Cuello](https://open.spotify.com/track/5ZBJg95EaCiSq9WrTMEYLN) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Una Mira En Mi Cuello](https://open.spotify.com/album/4KPPqQr0dXD9zBkh4X0u99) | 2:38 | 2024-12-27 |  |
 | [Una Temporada Más](https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Una Temporada Más](https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl) | 2:59 | 2023-12-15 | 2024-05-18 |
 | [uno atrás de otro](https://open.spotify.com/track/3ANyWzAhn7gcXjyqK2DjWv) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [uno atrás de otro](https://open.spotify.com/album/4aCkfE1H6jAmgSHlSp0zwN) | 3:05 | 2024-05-03 | 2024-10-05 |
 | [Uno de los dos](https://open.spotify.com/track/7eHE04K3TFinAUUv9ShX9Q) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd), [Simón Hempe](https://open.spotify.com/artist/7j2GnY0aIf1AVSCynkX3yn) | [Uno de los dos](https://open.spotify.com/album/6G3KBtsRXGRm0byS7kYAtK) | 3:17 | 2024-09-20 |  |

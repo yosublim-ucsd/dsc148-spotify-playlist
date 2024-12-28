@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 744031,
+  "num_followers": 744267,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Cry To Me-The Best Of Freddie Scott",
-        "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
-      },
-      "artists": [
-        {
-          "name": "Freddie Scott",
-          "url": "https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "(You) Got What I Need",
-      "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 147466,
       "name": "Bitter with the Sweet",
       "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Cry To Me-The Best Of Freddie Scott",
+        "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
+      },
+      "artists": [
+        {
+          "name": "Freddie Scott",
+          "url": "https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "(You) Got What I Need",
+      "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Into The Blue",
-        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 200135,
       "name": "Praja Magia",
       "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Into The Blue",
+        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Sings Love",
         "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 222981,
       "name": "Let Love Flow On",
       "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Favorite Kind of People",
+        "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
+      },
+      "artists": [
+        {
+          "name": "Jaco Jaco",
+          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+        }
+      ],
+      "duration_ms": 184776,
+      "name": "Favorite Kind of People",
+      "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "Anne, If",
         "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Favorite Kind of People",
-        "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
+        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
       },
       "artists": [
         {
-          "name": "Jaco Jaco",
-          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+          "name": "Moniker",
+          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
         }
       ],
-      "duration_ms": 184776,
-      "name": "Favorite Kind of People",
-      "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+      "duration_ms": 145881,
+      "name": "Ocean Blue",
+      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1343,22 +1359,6 @@
       "duration_ms": 238500,
       "name": "Rock Pools",
       "url": "https://open.spotify.com/track/3BwZ3EGwspNwvzcKUwqOoj"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
-      },
-      "artists": [
-        {
-          "name": "Moniker",
-          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
-        }
-      ],
-      "duration_ms": 145881,
-      "name": "Ocean Blue",
-      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Grapetooth",
-        "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
-      },
-      "artists": [
-        {
-          "name": "Grapetooth",
-          "url": "https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Red Wine",
-      "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "The Miraculous Hump Returns From The Moon",
         "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 314653,
       "name": "Fazon",
       "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Grapetooth",
+        "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
+      },
+      "artists": [
+        {
+          "name": "Grapetooth",
+          "url": "https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Red Wine",
+      "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Stunning & Atrocious",
         "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 187542,
       "name": "Love You Most",
       "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/5Sy2HSW8tHKGLKUsnhf9nT"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/6oSca91TK1jtHSCjVWp3mx"
-        }
-      ],
-      "duration_ms": 154120,
-      "name": "Sister Bessie",
-      "url": "https://open.spotify.com/track/7C7ZkKUE1gmLgAGdEoIUks"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Open Season",
         "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 240453,
       "name": "One Evening - Remix By VV",
       "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/5Sy2HSW8tHKGLKUsnhf9nT"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/6oSca91TK1jtHSCjVWp3mx"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Sister Bessie",
+      "url": "https://open.spotify.com/track/7C7ZkKUE1gmLgAGdEoIUks"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Maybe Later",
-        "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
-      },
-      "artists": [
-        {
-          "name": "Neighbor Lady",
-          "url": "https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Light Speaks the Quilt",
         "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 176032,
       "name": "Rolodex",
       "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Maybe Later",
+        "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
+      },
+      "artists": [
+        {
+          "name": "Neighbor Lady",
+          "url": "https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Oh Honey",
+      "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Eyes of Them All",
-      "url": "https://open.spotify.com/track/2I1AYLzF1X4lWrI3Xlzw4l"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Fresh As A Head Of Lettuce",
         "url": "https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 257153,
       "name": "Super Ego",
       "url": "https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Eyes of Them All",
+      "url": "https://open.spotify.com/track/2I1AYLzF1X4lWrI3Xlzw4l"
     },
     {
       "added_at": "2024-12-16 17:08:47",

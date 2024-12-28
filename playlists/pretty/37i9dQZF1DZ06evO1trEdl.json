@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6229,
+  "num_followers": 6230,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAAASxNGod4raQi8gsKLryweC",
+  "snapshot_id": "Z2ycgAAAAACZoI2nWP81TvIKS931TMp9",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of The Three Degrees: When Will I See You Again",
+        "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "Everybody Gets to Go to the Moon - Live",
+      "url": "https://open.spotify.com/track/3Uzj51MegrbwSZg9hBFfpX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Heaven I Need",
         "url": "https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 151786,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1qzZUUlJsvDJ10QvzcO304"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of The Three Degrees: When Will I See You Again",
-        "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "Everybody Gets to Go to the Moon - Live",
-      "url": "https://open.spotify.com/track/3Uzj51MegrbwSZg9hBFfpX"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Music",
-        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
+        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Sugar On Sunday",
-      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
+      "duration_ms": 124200,
+      "name": "Gee Baby (I'm Sorry)",
+      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
-        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 124200,
-      "name": "Gee Baby (I'm Sorry)",
-      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 153560,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
+      "duration_ms": 164306,
+      "name": "Rosegarden",
+      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
     },
     {
       "added_at": null,
@@ -632,15 +632,15 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Lonelier Are Fools",
-      "url": "https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L"
+      "duration_ms": 244253,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 164306,
-      "name": "Rosegarden",
-      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
+      "duration_ms": 153560,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 244253,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
+      "duration_ms": 244866,
+      "name": "Lonelier Are Fools",
+      "url": "https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legends (Rerecorded)",
+        "url": "https://open.spotify.com/album/37ravYOYK1h0h1cGM8LWWp"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 269600,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1xtB5sLhD3Mx1jwyMWofkI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Look in My Eyes",
         "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
       },
@@ -755,38 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "International",
-        "url": "https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 277320,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Loving Cup",
-      "url": "https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 235693,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "International",
+        "url": "https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 277320,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legends (Rerecorded)",
-        "url": "https://open.spotify.com/album/37ravYOYK1h0h1cGM8LWWp"
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 269600,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/1xtB5sLhD3Mx1jwyMWofkI"
+      "duration_ms": 204520,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4"
     }
   ],
   "unique_name": "This Is The Three Degrees",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,520 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,528 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 28 | [一百隻斑馬](https://open.spotify.com/track/2I3HHzCO87ixiD0sWuCJ0k) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [一百隻斑馬](https://open.spotify.com/album/01ZadUJvvzz5vm4emFqWk4) | 2:03 |
 | 29 | [洗澡歌](https://open.spotify.com/track/0gyKzmLPkfdtuBpMN7SqeR) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [天空樹](https://open.spotify.com/album/32nJZMlKIoapMJ4dHcCxyx) | 3:26 |
 | 30 | [捏泥巴](https://open.spotify.com/track/6cs1kK33Fn6a9fBI2G6qVE) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名8 \- 動物音樂課](https://open.spotify.com/album/45Puppm2SF0vj3RKSkXQlx) | 2:36 |
-| 31 | [羽毛貓 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/0VW5uWDaQUtSDjJFi2iEsP) | [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [羽毛貓 \(小公視愛唱歌系列\_\_為寶貝唱一首歌\)](https://open.spotify.com/album/1b7KvMikni1ZBjN2UkWzIo) | 3:38 |
+| 31 | [Make A Wish \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/423Djb1O7ybBNbU2yjywNE) | [Sandra 小斯](https://open.spotify.com/artist/7LWLms3UIMBQcXS773S9Ea) | [Make A Wish](https://open.spotify.com/album/2Bv7XKiQ5YGXGkaht4tDSU) | 2:51 |
 | 32 | [兩隻老虎](https://open.spotify.com/track/5Br1IWBAQtjDSR8Q5mD6Jn) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [樂唱童學會 世界經典童謠 中文演唱版](https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R) | 0:56 |
-| 33 | [Make A Wish \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/423Djb1O7ybBNbU2yjywNE) | [Sandra 小斯](https://open.spotify.com/artist/7LWLms3UIMBQcXS773S9Ea) | [Make A Wish](https://open.spotify.com/album/2Bv7XKiQ5YGXGkaht4tDSU) | 2:51 |
+| 33 | [羽毛貓 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/0VW5uWDaQUtSDjJFi2iEsP) | [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [羽毛貓 \(小公視愛唱歌系列\_\_為寶貝唱一首歌\)](https://open.spotify.com/album/1b7KvMikni1ZBjN2UkWzIo) | 3:38 |
 | 34 | [勇敢試試看](https://open.spotify.com/track/7HKZBU5QxywyV75QXWsTjE) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [勇敢試試看](https://open.spotify.com/album/0T2ufhnih8UIte5h8oxQGx) | 3:39 |
 | 35 | [星星月亮太陽](https://open.spotify.com/track/63y4V8wXf0DdSqIs532VEW) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:20 |
 | 36 | [火車快飛](https://open.spotify.com/track/1kP0S6xjU2GIpYPXt4H1a3) | [MOMO家族](https://open.spotify.com/artist/2HpPjKN0EHmtUCE3Hv8xgt) | [MOMO玩玩樂 5\-精選兒歌](https://open.spotify.com/album/75hOKCJR2HfJRAzg4iNb5o) | 1:30 |

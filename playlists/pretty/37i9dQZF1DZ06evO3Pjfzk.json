@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 79676,
+  "num_followers": 79734,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAACJKWm/QE6Be0uKOmjJ53qO",
+  "snapshot_id": "Z2ycgAAAAAAoILscy31N7GGvpYJD4aBB",
   "tracks": [
     {
       "added_at": null,
@@ -395,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+        "name": "GO HOME W U (WITH LAINEY WILSON)",
+        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
       },
       "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 175675,
-      "name": "Waste of Good Whiskey",
-      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
+      "duration_ms": 227400,
+      "name": "GO HOME W U (WITH LAINEY WILSON)",
+      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
     },
     {
       "added_at": null,
@@ -427,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO HOME W U (WITH LAINEY WILSON)",
-        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
       "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 227400,
-      "name": "GO HOME W U (WITH LAINEY WILSON)",
-      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
+      "duration_ms": 175675,
+      "name": "Waste of Good Whiskey",
+      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
     },
     {
       "added_at": null,

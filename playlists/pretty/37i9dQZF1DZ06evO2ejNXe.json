@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1501,
+  "num_followers": 1502,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAACAfzfp9MV3lKsjdR+YOq8S",
+  "snapshot_id": "Z2ycgAAAAAAo21ioX3caezxo5g6dcVwg",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 200240,
-      "name": "Hey Hey Tu",
-      "url": "https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD"
+      "duration_ms": 184293,
+      "name": "Mambo, Mambo",
+      "url": "https://open.spotify.com/track/1lfsFtXEM1TSYTja0WCo7C"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 184293,
-      "name": "Mambo, Mambo",
-      "url": "https://open.spotify.com/track/1lfsFtXEM1TSYTja0WCo7C"
+      "duration_ms": 200240,
+      "name": "Hey Hey Tu",
+      "url": "https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
+      "duration_ms": 186026,
+      "name": "Sombrero, Zarape Y Guitarra",
+      "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 186026,
-      "name": "Sombrero, Zarape Y Guitarra",
-      "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
+      "duration_ms": 206933,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dale Biberon",
         "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 161400,
       "name": "Mambo Maria",
       "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras de Lazo y Reata",
-        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coleccion Suprema Plus- Banda Zarape",
         "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 222426,
       "name": "Hombre Muerto",
       "url": "https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras de Lazo y Reata",
+        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
     },
     {
       "added_at": null,

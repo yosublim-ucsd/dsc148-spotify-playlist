@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 34186,
+  "num_followers": 34219,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAABWm0soJ6pg6HrK5r5Ponih",
+  "snapshot_id": "Z2ycgAAAAABL7oIwxnORy/wB+Tz3HmKe",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mente Activa",
-        "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 169216,
-      "name": "Mente Activa",
-      "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 189506,
       "name": "Blindado El Carro",
       "url": "https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mente Activa",
+        "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 169216,
+      "name": "Mente Activa",
+      "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El General",
-        "url": "https://open.spotify.com/album/3GbcMCpdYObAqoAaQC09vg"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 227004,
-      "name": "El General",
-      "url": "https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 162169,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El General",
+        "url": "https://open.spotify.com/album/3GbcMCpdYObAqoAaQC09vg"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 227004,
+      "name": "El General",
+      "url": "https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD"
     },
     {
       "added_at": null,

@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Dear Life",
+        "url": "https://open.spotify.com/album/03vcGUsrnngDA1CgTlM62G"
+      },
+      "artists": [
+        {
+          "name": "Brenna MacMillan",
+          "url": "https://open.spotify.com/artist/4AFECWlZxQj0hZXvKdOi3x"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183506,
+      "name": "Adelaide",
+      "url": "https://open.spotify.com/track/5c6PDFgP3O7vBrmCvXKJjC"
+    },
+    {
+      "album": {
         "name": "Afterlifer",
         "url": "https://open.spotify.com/album/17YbIbl57XahxyBP9pTcn7"
       },
@@ -3858,7 +3876,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 275170,
       "name": "IOWA",
       "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"

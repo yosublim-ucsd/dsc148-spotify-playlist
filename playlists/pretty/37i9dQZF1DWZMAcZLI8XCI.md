@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,337 likes - 64 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,352 likes - 64 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 | 63 | [Remember \(In Dreams\)](https://open.spotify.com/track/2My0ie6QGwT81OeRl0Kt3f) | [Pleasure Planet](https://open.spotify.com/artist/6WJ0oNwi5fuzkZQUkqH2uU) | [PLEASURE PLANET](https://open.spotify.com/album/3eDJtmHr9N79P7GQYgzI8A) | 5:33 |
 | 64 | [Call Me Shadow](https://open.spotify.com/track/0tTBTvEBUGa9jG0WDqtnbc) | [Akini Jing](https://open.spotify.com/artist/2VtVHEiaBjDGzysvaO5tDH) | [VILLAIN](https://open.spotify.com/album/5qc3gDYnlSrZJv4niYR8Kd) | 4:29 |
 
-Snapshot ID: `ZvFu8QAAAABHJa0kC7sVlRiuRgqLvIZd`
+Snapshot ID: `Z240dQAAAAB1mGhSXkhPMcw31b/fR7Jl`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-223 songs - 21 hr 20 min
+225 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Buenos Aires](https://open.spotify.com/track/6lbOkdXQZmHZyxoqJRDG3L) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo), [Martin Rizzola](https://open.spotify.com/artist/41M8FZ8PR9lbnS1MWEIoC4) | [Telling Me Something EP](https://open.spotify.com/album/6G1JfqlVxSeUgAmF6tdjPk) | 8:10 | 2022-08-02 | 2023-06-13 |
 | [Bumblebee](https://open.spotify.com/track/02IURSdiWMzg6D4GsFR9BM) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [10 Years of NuLu, Vol\. 02](https://open.spotify.com/album/6jnPVYBxxfLfXyLNr3nZ8L) | 6:34 | 2022-08-02 | 2023-07-20 |
 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2024-04-17 |  |
+| [Chamomile](https://open.spotify.com/track/5dQCmQQd5TPSUeFqELhSgF) | [Leo Bakiri](https://open.spotify.com/artist/2blW6dT2ezbxq0ovxGQ53z), [Tim Parelias](https://open.spotify.com/artist/0j31sw62LHN8ii4kb7loRc) | [Tied Up](https://open.spotify.com/album/4DYw4a7yGdjrIIj9YhQRVG) | 6:26 | 2024-12-27 |  |
 | [Choo Choo](https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [Inconformisme EP](https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy) | 7:15 | 2022-08-02 | 2023-07-20 |
 | [Clove](https://open.spotify.com/track/1cKI4oT9mG6YIFXihUz4EV) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Clove](https://open.spotify.com/album/7jroTF9QMpaHxNw2Z1w7eR) | 6:42 | 2022-09-09 | 2023-09-12 |
 | [Coldman \(feat\. Nathan Daisy\)](https://open.spotify.com/track/6KGUd0ub0UmCX5IFVCBnRf) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nathan Daisy](https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 3:49 | 2023-05-24 | 2023-12-26 |
@@ -196,6 +197,7 @@
 | [The Fall](https://open.spotify.com/track/5SGxyinOC5xopxJXS0DsUq) | [Raxon](https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID) | [The Fall / My Place](https://open.spotify.com/album/5dlkQeTQ5VR8lXfCzqdGhl) | 7:10 | 2023-09-25 |  |
 | [The Old Days](https://open.spotify.com/track/1i02yugRWrwxXjF6ZdLymB) | [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Metaphysical](https://open.spotify.com/album/3r3mNtkVqo1X0TAdK4lz4g) | 7:32 | 2023-08-28 |  |
 | [They Frontin' \- 2023 Remastered Version](https://open.spotify.com/track/3VfIHtCtTWJq1pgd4pQrmT) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Monty Luke](https://open.spotify.com/artist/6OTl4OdD4K4Lc13b7vR3mT) | [They Frontin' Remixes 2023](https://open.spotify.com/album/1BEvbGxnvJQXglk1fSYKtg) | 6:35 | 2023-06-12 |  |
+| [Tied Up](https://open.spotify.com/track/19vXShWU8JExw8Q9EUU1nX) | [Tim Parelias](https://open.spotify.com/artist/0j31sw62LHN8ii4kb7loRc) | [Tied Up](https://open.spotify.com/album/4DYw4a7yGdjrIIj9YhQRVG) | 6:28 | 2024-12-27 |  |
 | [Tierra Linda](https://open.spotify.com/track/3eBfZdN69nMws7Ym3rGFrc) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [Tierra Linda](https://open.spotify.com/album/7kC253hQ5nH6nDtMENsdHn) | 8:35 | 2022-08-02 | 2022-09-10 |
 | [Tijuana](https://open.spotify.com/track/0GXNKuzGu6a5w9TcmDc6T2) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 4:32 | 2023-05-24 | 2024-09-07 |
 | [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/2WJhtbWwlKny2SOzT58JRD) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC) | 3:51 | 2023-08-28 | 2024-09-07 |

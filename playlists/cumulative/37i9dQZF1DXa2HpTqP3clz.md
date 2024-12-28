@@ -2,7 +2,7 @@
 
 ### [Grass Roots](https://open.spotify.com/playlist/37i9dQZF1DXa2HpTqP3clz)
 
-> Today's Bluegrass and old time favorites\. Cover: Dolly Parton & Family
+> Today's Bluegrass and old time favorites\. Cover: Wood Box Heroes
 
 621 songs - 1 day 12 hr 53 min
 

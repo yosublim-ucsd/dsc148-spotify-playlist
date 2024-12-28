@@ -2,7 +2,7 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah, Alyssa Dezek
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
 213 songs - 16 hr 46 min
 

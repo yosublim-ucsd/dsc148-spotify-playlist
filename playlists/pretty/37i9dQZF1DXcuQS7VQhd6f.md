@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,529 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,618 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 108 | [When I Rose This Morning](https://open.spotify.com/track/11dkIaVR8Mx27Polm9U8wE) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [I'll See You In The Rapture](https://open.spotify.com/album/7ilTFnzPNBzMKL5kloYGzG) | 6:46 |
 | 109 | [Total Praise \(with Vision\) \- Live](https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Adoration](https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp) | 4:59 |
 | 110 | [Order My Steps \(feat\. Syndee Mayes & Kevin Lewis\)](https://open.spotify.com/track/6ESHT7vZN5jFrmCNfjcFno) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs), [Syndee Mayes](https://open.spotify.com/artist/2YtvuE0n4emk2VMem7kflP), [Kevin Lewis](https://open.spotify.com/artist/6sWvzvemzlq31GEACQdyoE) | [Favorite Song of All](https://open.spotify.com/album/5NzZSnJNyLDUDeedjR1I01) | 6:09 |
-| 111 | [You Brought The Sunshine \- Live](https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Live: One Last Time](https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc) | 4:18 |
-| 112 | [Blessings on Blessings](https://open.spotify.com/track/7vUFBl7CEHoSKuzl6FjV3J) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [2econd Wind: Ready](https://open.spotify.com/album/58mYgRaVDm6sI6gRMKr9nQ) | 4:51 |
+| 111 | [Blessings on Blessings](https://open.spotify.com/track/7vUFBl7CEHoSKuzl6FjV3J) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [2econd Wind: Ready](https://open.spotify.com/album/58mYgRaVDm6sI6gRMKr9nQ) | 4:51 |
+| 112 | [You Brought The Sunshine \- Live](https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Live: One Last Time](https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc) | 4:18 |
 | 113 | [Thank You](https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Love Alive IV](https://open.spotify.com/album/54D2RsYSwVIS6QIpKclaOd) | 10:42 |
 | 114 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
 | 115 | [Awanwan Do](https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 6:17 |

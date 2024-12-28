@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2037,
+  "num_followers": 2040,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAADByYt/2hiF6+e6WCANoVBM",
+  "snapshot_id": "Z2ycgAAAAACUjIW2lXqSlgQt8KgrvQT0",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRACE",
+        "url": "https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 224541,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PULSE (Remixes)",
         "url": "https://open.spotify.com/album/6gnuh3z8Zrg6m9qk4oy8d3"
       },
@@ -267,30 +291,6 @@
       "duration_ms": 168000,
       "name": "ENEMIES (feat. bludnymph& Shift K3Y) (Phrva Remix)",
       "url": "https://open.spotify.com/track/33Yb60HyRCGC17s6YnsBQb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRACE",
-        "url": "https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 224541,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,434 likes - 41 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,455 likes - 41 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 40 | [Backseat](https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:31 |
 | 41 | [New Breed](https://open.spotify.com/track/4ReAZJugbi5xpVBI56oFxX) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/1akHGNTcQLSYfW9absfZul) | 3:30 |
 
-Snapshot ID: `Z2tLAAAAAADLV/PjBBMmNWKVVRMcLX5E`
+Snapshot ID: `Z2ycgAAAAABjBFuFofHQ3o760v6yuYau`

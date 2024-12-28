@@ -2,7 +2,7 @@
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest hip\-hop, refreshed weekly\.  Cover: Tona
+> We'll be back in 2025..\. happy new year!  Cover: Tona
 
 3,080 songs - 6 day 4 hr 13 min
 

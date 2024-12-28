@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 511672,
+  "num_followers": 511820,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAAA4irO1HO/A+YKsc1hZquoH",
+  "snapshot_id": "Z2ycgAAAAACgmB8jnsAT98RuYoGfaS27",
   "tracks": [
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 208053,
-      "name": "Start The Healing",
-      "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
+      "duration_ms": 230053,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Serenity of Suffering",
-        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
+      "duration_ms": 208053,
+      "name": "Start The Healing",
+      "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
     },
     {
       "added_at": null,

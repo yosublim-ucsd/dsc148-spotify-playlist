@@ -4,7 +4,7 @@
 
 > 
 
-242 songs - 14 hr 10 min
+243 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Sepia](https://open.spotify.com/track/4wueJoyWF7x6sO41ddk6IL) | [vinter](https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs) | [Sepia](https://open.spotify.com/album/2fRde6F0mW6nNZfPpOMLHd) | 2:01 | 2024-05-01 |  |
 | [Sierra](https://open.spotify.com/track/3v9rHY8Ilui7YID4UaSCp9) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Sierra](https://open.spotify.com/album/5HU7fz45Pyjwj27M7pD0gc) | 3:20 | 2020-12-27 |  |
 | [Silence](https://open.spotify.com/track/7vrfNSPtCZFzNy5XTb5eju) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence](https://open.spotify.com/album/4qYbcHFIQyBAjSPL3uMfM7) | 3:26 | 2021-04-03 |  |
+| [Six Speed](https://open.spotify.com/track/2OwTE82zjaKvfof9MCMj1S) | [MIRAJ](https://open.spotify.com/artist/46vHnBJYdPDQDkSjegluG4) | [Six Speed](https://open.spotify.com/album/6oKGc5saiJohI9J4v8HfK0) | 2:12 | 2024-12-27 |  |
 | [Slow Drift](https://open.spotify.com/track/5jy9axQdjfOuDYGbIpX7WE) | [CRXSS](https://open.spotify.com/artist/1IQERBgPfRnsJ5b8RWTyZo), [Xyla](https://open.spotify.com/artist/2iaMZQyl8mOWr1eCMpRTqN) | [Slow Drift](https://open.spotify.com/album/3mVbkQbsyLR2KBz8yyhfJZ) | 2:48 | 2023-03-07 |  |
 | [SORCERER](https://open.spotify.com/track/5hN3qc5LHb7upsOZ0eNSaN) | [WHITE KATANA](https://open.spotify.com/artist/5OtyZM8MxtHrYqOPxetwji) | [SORCERER](https://open.spotify.com/album/4l6QbiloEiRsDBMDNykNBg) | 3:12 | 2019-02-24 |  |
 | [SOUTH MEMPHIS](https://open.spotify.com/track/6lB7u4TFlnAfG31jR2Nlh3) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [THE SHADOW DOES NOT LET GO](https://open.spotify.com/album/1d7r1jS1OsAqd9fj5NYmH0) | 2:37 | 2020-07-16 |  |

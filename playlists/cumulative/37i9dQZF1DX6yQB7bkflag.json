@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Alan Walker, MEEK",
+  "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Rex Orange County",
   "name": "Pop Rising Indonesia",
   "tracks": [
     {
@@ -208,6 +208,24 @@
       "duration_ms": 203356,
       "name": "3..2..1",
       "url": "https://open.spotify.com/track/5HhDOVqVmGWGCcQRbsN21j"
+    },
+    {
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
       "album": {
@@ -478,7 +496,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 228860,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h"
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 227954,
       "name": "Bisa Apa?",
       "url": "https://open.spotify.com/track/0OObcN3lVpYRUFWI5hanxu"
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 194400,
       "name": "Checkmate (Prod. Czaer)",
       "url": "https://open.spotify.com/track/2CvP09dI7LvW1CMy2Lus76"
@@ -5227,6 +5245,24 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178932,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/79y56tQjNRUextz6CReVXg"
       },
@@ -5444,7 +5480,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 186093,
       "name": "Empty Bench",
       "url": "https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk"
@@ -6237,6 +6273,24 @@
     },
     {
       "album": {
+        "name": "from",
+        "url": "https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201786,
+      "name": "from",
+      "url": "https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87"
+    },
+    {
+      "album": {
         "name": "From The Jump (Duet Version)",
         "url": "https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl"
       },
@@ -6951,6 +7005,32 @@
     },
     {
       "album": {
+        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
+        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137952,
+      "name": "Hannah Montana (with NLE Choppa & DaBaby)",
+      "url": "https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7"
+    },
+    {
+      "album": {
         "name": "Berbunga",
         "url": "https://open.spotify.com/album/2gIrUfBxknVo9vQRL9Gp42"
       },
@@ -7096,7 +7176,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 224005,
       "name": "Harusnya Tau",
       "url": "https://open.spotify.com/track/6RCmEBkhetG7zZvSRR6dPY"
@@ -7208,7 +7288,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 155413,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ"
@@ -8344,6 +8424,28 @@
       "duration_ms": 225880,
       "name": "I'm Not People",
       "url": "https://open.spotify.com/track/74LrZH69xVWmRyUTCIUbIm"
+    },
+    {
+      "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/172et2QtVh9vh9KX29SBrF"
+      },
+      "artists": [
+        {
+          "name": "Sun D",
+          "url": "https://open.spotify.com/artist/24J2rPxnR6It1aBDVsJnPE"
+        },
+        {
+          "name": "Manutized",
+          "url": "https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175578,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/3sdNMbj07fP1MDSckSVS0i"
     },
     {
       "album": {
@@ -10062,7 +10164,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 107628,
       "name": "La La Song",
       "url": "https://open.spotify.com/track/3wLSTqMIrKEeQdqU7FPFk2"
@@ -10276,7 +10378,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 191706,
       "name": "Last Festival",
       "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
@@ -10294,7 +10396,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 178771,
       "name": "LAST NIGHT",
       "url": "https://open.spotify.com/track/0wj6YvMyjLLcGKJtG0GIRR"
@@ -10508,7 +10610,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 184060,
       "name": "Letter To Myself",
       "url": "https://open.spotify.com/track/1Uxr0oBXAZRuLkAz27TkLc"
@@ -10704,7 +10806,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 192466,
       "name": "Like A Flower",
       "url": "https://open.spotify.com/track/2ivhjourUwztR3kmz575KV"
@@ -11376,7 +11478,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 184428,
       "name": "Made it Awkward",
       "url": "https://open.spotify.com/track/0YBvfqU633fiBO5hC04SRX"
@@ -12125,6 +12227,24 @@
     },
     {
       "album": {
+        "name": "Mencintaimu (From: 2nd Miracle in Cell No.7)",
+        "url": "https://open.spotify.com/album/0TzkM6DQnhO5jydrJu2IyK"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Mencintaimu - (From: 2nd Miracle in Cell No.7)",
+      "url": "https://open.spotify.com/track/2gsRMFzelZuRQo8r11RsLr"
+    },
+    {
+      "album": {
         "name": "Menentukan Pilihan (feat. Oslo Ibrahim)",
         "url": "https://open.spotify.com/album/7ChSqRVhx7YvFSrbemx5DV"
       },
@@ -12216,7 +12336,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 219030,
       "name": "Menua Bersama",
       "url": "https://open.spotify.com/track/18aodtWZRR9Kddxf5vMiYp"
@@ -12726,7 +12846,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 258396,
       "name": "New Dimensions",
       "url": "https://open.spotify.com/track/2fPTeoTG28JAExuQyoX8b5"
@@ -13296,7 +13416,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 164473,
       "name": "Obsesi",
       "url": "https://open.spotify.com/track/5O3mCKnCxlqrb5yDjZigxK"
@@ -13689,6 +13809,24 @@
     },
     {
       "album": {
+        "name": "Over U, Goodbye (Seeun x J)",
+        "url": "https://open.spotify.com/album/1nxjZwlxvQ8reEI844D2bm"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181021,
+      "name": "Over U, Goodbye (Seeun x J)",
+      "url": "https://open.spotify.com/track/0dzvx0egKD128Icnaz2YeR"
+    },
+    {
+      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU"
       },
@@ -13908,10 +14046,28 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 205776,
       "name": "Pelabuhan Terakhir",
       "url": "https://open.spotify.com/track/1fUtXTn4nGzIU3cLpYqRT1"
+    },
+    {
+      "album": {
+        "name": "Pelangi (From \"Cikgu Diva\")",
+        "url": "https://open.spotify.com/album/65T4vUTaR6OMybcXa60Ebd"
+      },
+      "artists": [
+        {
+          "name": "Amir Hasan",
+          "url": "https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158468,
+      "name": "Pelangi - From \"Cikgu Diva\"",
+      "url": "https://open.spotify.com/track/07ZbuMc2LJNyA93ofiKtdp"
     },
     {
       "album": {
@@ -14172,6 +14328,24 @@
       "duration_ms": 241525,
       "name": "Pesona Palsu (feat. Marcell)",
       "url": "https://open.spotify.com/track/1Q5q9EiRuTLrAzuCzEgtfw"
+    },
+    {
+      "album": {
+        "name": "Pikir Nanti",
+        "url": "https://open.spotify.com/album/3vLS0cNxkRTqibj753KR7F"
+      },
+      "artists": [
+        {
+          "name": "TRIOUT",
+          "url": "https://open.spotify.com/artist/4Kn4T1kHrFKRV1gbv51VGA"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Pikir Nanti",
+      "url": "https://open.spotify.com/track/1SlvsCrPJuFX7qLzjMXNLV"
     },
     {
       "album": {
@@ -14728,7 +14902,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 187500,
       "name": "REALLY IN LOVE",
       "url": "https://open.spotify.com/track/6fDUYcXYVToRP5aMA6tDGm"
@@ -14776,7 +14950,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 188929,
       "name": "Rela Pergi",
       "url": "https://open.spotify.com/track/0kCjyxenEjAaxyjYmpzlOP"
@@ -19697,6 +19871,24 @@
     },
     {
       "album": {
+        "name": "The Key",
+        "url": "https://open.spotify.com/album/4sf5cGJjvxHdZ3AjpGrLgj"
+      },
+      "artists": [
+        {
+          "name": "Linying",
+          "url": "https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160009,
+      "name": "The Key",
+      "url": "https://open.spotify.com/track/6z4Kv7rkkrYA61E7QHANQe"
+    },
+    {
+      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
       },
@@ -20622,6 +20814,24 @@
       "duration_ms": 253244,
       "name": "Tunggulah Sebentar",
       "url": "https://open.spotify.com/track/0A3wcFYUZLeVqvJMj95qXq"
+    },
+    {
+      "album": {
+        "name": "Turn Of A Page",
+        "url": "https://open.spotify.com/album/0EMjG1EEOtMW0RvJdVuime"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Turn Of A Page",
+      "url": "https://open.spotify.com/track/1HNnSG7sMI2MgT5xTyIy5x"
     },
     {
       "album": {

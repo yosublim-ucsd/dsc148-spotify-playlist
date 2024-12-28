@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 189453,
       "name": "Adonay",
       "url": "https://open.spotify.com/track/6aMhENDm72fgzbg3HkGExn"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 90613,
       "name": "ALAKRAN",
       "url": "https://open.spotify.com/track/2Yc3MHpZ9R5UCIz78E20AQ"
@@ -242,7 +242,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 220135,
       "name": "Algo Que Se Quede",
       "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 207306,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 180360,
       "name": "Brickell",
       "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
@@ -494,10 +494,32 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
+    },
+    {
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
       "album": {
@@ -538,7 +560,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 230306,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
@@ -698,7 +720,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 240916,
       "name": "Comerte a Besos - Remix",
       "url": "https://open.spotify.com/track/5jsDh2866hUFi7Dhks4Dvn"
@@ -716,7 +738,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 143974,
       "name": "Como quisiera",
       "url": "https://open.spotify.com/track/5TsFC2fnBWOYWYllvEtiOQ"
@@ -814,6 +836,28 @@
       "duration_ms": 235020,
       "name": "Coqueta",
       "url": "https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA"
+    },
+    {
+      "album": {
+        "name": "Coqueta (Remix)",
+        "url": "https://open.spotify.com/album/5ahZTZNyNywBsg1O7YVINs"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226461,
+      "name": "Coqueta - Remix",
+      "url": "https://open.spotify.com/track/6rq3raDazN9D0XUCudW1Nx"
     },
     {
       "album": {
@@ -934,6 +978,28 @@
       "duration_ms": 164705,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+    },
+    {
+      "album": {
+        "name": "De Peligro",
+        "url": "https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/4eMjJ98X5b5bu4wzdW4U6l"
     },
     {
       "album": {
@@ -1154,7 +1220,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 176720,
       "name": "Doblexx\u00f3",
       "url": "https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s"
@@ -1256,7 +1322,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -1292,7 +1358,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 173386,
       "name": "El Hijo Ausente",
       "url": "https://open.spotify.com/track/0MylXcqKagwOrtMNQDyj1B"
@@ -1428,7 +1494,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 222115,
       "name": "En Todas Partes",
       "url": "https://open.spotify.com/track/0YxC9VXnvkUOOSYCHiuFeS"
@@ -1552,7 +1618,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 223039,
       "name": "ESTOY PUTIAO",
       "url": "https://open.spotify.com/track/0lhcaiGyAkmZg5RaC99ZbH"
@@ -2590,7 +2656,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 287146,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz"
@@ -2612,10 +2678,32 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
+    },
+    {
+      "album": {
+        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
+        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
+      },
+      "artists": [
+        {
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        },
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162826,
+      "name": "Los Sabanales",
+      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
     },
     {
       "album": {
@@ -2854,7 +2942,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -3094,7 +3182,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 190000,
       "name": "Movimiento de Caderas",
       "url": "https://open.spotify.com/track/3vpvKFigw8bNApZzuOleGe"
@@ -3796,7 +3884,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -3896,7 +3984,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 150927,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/0zNMdrDEs5N0JPQ7RYQZln"
@@ -4204,6 +4292,28 @@
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Ch\u00e9vere",
+        "url": "https://open.spotify.com/album/4wDJkHIq0hCqnmO3mqamJC"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Aicardi",
+          "url": "https://open.spotify.com/artist/32xYg2QsAOB8Nrmr2koY2P"
+        },
+        {
+          "name": "Los Hermanos Aicardi",
+          "url": "https://open.spotify.com/artist/1ad7426spDWBAEabgT2iHn"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Se V\u00e1 la Vida",
+      "url": "https://open.spotify.com/track/7o2YP2J1ygAv9ebgCPjxhs"
     },
     {
       "album": {
@@ -4704,7 +4814,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 147451,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
@@ -4774,6 +4884,24 @@
       "duration_ms": 163200,
       "name": "TU$$I (with Dei V)",
       "url": "https://open.spotify.com/track/1txhQHV26PyOJJarkYtkOn"
+    },
+    {
+      "album": {
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301441,
+      "name": "T\u00fa Con El",
+      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
     },
     {
       "album": {
@@ -5252,7 +5380,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 183535,
       "name": "YOGURCITO",
       "url": "https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS"

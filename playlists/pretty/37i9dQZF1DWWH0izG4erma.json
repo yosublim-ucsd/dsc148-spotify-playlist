@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Cory Marks",
-  "num_followers": 611458,
+  "num_followers": 611506,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "(Make My) Country Rock (feat. Sully Erna of Godsmack, Travis Tritt and Mick Mars)",
         "url": "https://open.spotify.com/album/4iF02KjL3iDF4lADzaVQqg"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 188581,
       "name": "(Make My) Country Rock (feat. Sully Erna of Godsmack, Travis Tritt, and Mick Mars)",
       "url": "https://open.spotify.com/track/1Z2ayz8NgAD3HtNUfxUlrL"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "This Party Sucks",
-        "url": "https://open.spotify.com/album/37Ld8z5zVCOJa4PylMH0B4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        }
-      ],
-      "duration_ms": 181570,
-      "name": "This Party Sucks",
-      "url": "https://open.spotify.com/track/62r3cMCWOd8FuAuVU1yJD4"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Trainwreck",
         "url": "https://open.spotify.com/album/5ae3UYQnHYgWmlCJJJFCTN"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 196736,
       "name": "Trainwreck",
       "url": "https://open.spotify.com/track/3O2ayZuGK2uqX8ubT2GVVW"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "This Party Sucks",
+        "url": "https://open.spotify.com/album/37Ld8z5zVCOJa4PylMH0B4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "duration_ms": 181570,
+      "name": "This Party Sucks",
+      "url": "https://open.spotify.com/track/62r3cMCWOd8FuAuVU1yJD4"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "What I Know Now",
-        "url": "https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl"
+        "name": "I'm Not For Everyone",
+        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 173573,
-      "name": "What I Know Now",
-      "url": "https://open.spotify.com/track/77uUGdoehrjJPP9IZlVq5F"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "I'm Not For Everyone",
-        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
+        "name": "What I Know Now",
+        "url": "https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
         }
       ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
+      "duration_ms": 173573,
+      "name": "What I Know Now",
+      "url": "https://open.spotify.com/track/77uUGdoehrjJPP9IZlVq5F"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1667,22 +1667,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76"
+        "name": "All of Your Stones",
+        "url": "https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
         },
         {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
         }
       ],
-      "duration_ms": 210174,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm"
+      "duration_ms": 429488,
+      "name": "I Need You (feat. Ashley Monroe)",
+      "url": "https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u"
     }
   ],
   "unique_name": "Country Rocks",

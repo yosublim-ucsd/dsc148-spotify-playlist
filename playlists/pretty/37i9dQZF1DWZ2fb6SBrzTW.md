@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,275 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,370 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 41 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 |
 | 42 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
 | 43 | [Rodo](https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Rodo](https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ) | 2:23 |
-| 44 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
-| 45 | [4x4 \(feat.Tyler ICU\)](https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Magicsticks](https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz) | [4x4 \(feat.Tyler ICU\)](https://open.spotify.com/album/2yvTYlxrd5JG1gOddqHDAc) | 3:23 |
+| 44 | [4x4 \(feat.Tyler ICU\)](https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Magicsticks](https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz) | [4x4 \(feat.Tyler ICU\)](https://open.spotify.com/album/2yvTYlxrd5JG1gOddqHDAc) | 3:23 |
+| 45 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
 | 46 | [Kautaka \- Remix](https://open.spotify.com/track/39I8t43OotxYXjhEG1jfxZ) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [JFS Music](https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1), [King Tone SA](https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Kautaka \(Remix\)](https://open.spotify.com/album/5RKJcCAVGDoTFAf0B9pSb5) | 3:40 |
 | 47 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 | 48 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |

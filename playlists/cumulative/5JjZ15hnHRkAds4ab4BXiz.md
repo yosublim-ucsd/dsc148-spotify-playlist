@@ -4,7 +4,7 @@
 
 > 
 
-467 songs - 1 day 5 hr 56 min
+472 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [128](https://open.spotify.com/track/1c5CzEcNAUy2b8O3plzf4l) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 3:36 | 2024-07-07 |  |
 | [12:51](https://open.spotify.com/track/6Yu1OL8I0D4vjOzYdsXYGK) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:33 | 2024-04-03 |  |
 | [15 Minutes](https://open.spotify.com/track/0Sqi2XLLVk5JGfZnFnidM2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 4:33 | 2024-04-19 |  |
+| [2 + 2 = 5](https://open.spotify.com/track/4xkcGfpM9RwB4IiQ7yx2dB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:19 | 2024-12-27 |  |
 | [30 Minute Boyfriend](https://open.spotify.com/track/0ewGf37qQuShGtZqLAuDT9) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 3:31 | 2024-06-10 |  |
 | [3D Flower](https://open.spotify.com/track/2FyLwjOJpSu58u4EYkR66I) | [Promiseland](https://open.spotify.com/artist/0QomRj9WxENpZQSoEaQW4W), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [3D Flower](https://open.spotify.com/album/7DOV6xfptx7TR8EJ4Ec57j) | 3:09 | 2024-06-10 |  |
 | [4 Chords of the Apocalypse](https://open.spotify.com/track/3v6wxOTGPj9FUSsulj6UPi) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 4:59 | 2024-06-10 |  |
@@ -63,6 +64,8 @@
 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 | 2023-11-14 |  |
 | [Black Star](https://open.spotify.com/track/6UO72VSXEONxdfLyABihs9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:07 | 2024-06-10 |  |
 | [BLUE SKY](https://open.spotify.com/track/7rYR2a3DisiE26KA2FpHgT) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:41 | 2024-06-20 |  |
+| [Bodys](https://open.spotify.com/track/1Pbs2eCcX9p2onaAvMYvhk) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 6:46 | 2024-12-27 |  |
+| [Bodysnatchers](https://open.spotify.com/track/4pWIwnnqx8k01fuF95UMIg) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:02 | 2024-12-27 |  |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2024-02-16 |  |
 | [Bow Down](https://open.spotify.com/track/0tOSLsRduTjAowHLcyAUS4) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 3:02 | 2024-04-08 |  |
 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2024-02-23 |  |
@@ -132,6 +135,7 @@
 | [Five Get over Excited](https://open.spotify.com/track/2CHS8dsqqrkkDpGSt7ES2H) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 2:41 | 2024-04-08 |  |
 | [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 | 2023-11-14 |  |
 | [Flexorcist](https://open.spotify.com/track/5pvE5kSCPnrUSzDIFXPuLV) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Like All Before You](https://open.spotify.com/album/7h0Y4HcaDsuLnXeYmvY7ai) | 6:41 | 2024-11-07 |  |
+| [Forever](https://open.spotify.com/track/0QpMPiKC7mSKfw9AtoQtNV) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Parties to End](https://open.spotify.com/album/6rKIiNABS4Qu1ldVNxZ0Is) | 3:43 | 2024-12-27 |  |
 | [Frank Sinatra](https://open.spotify.com/track/1abNE7hvyT9RtkslEiERhh) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 4:01 | 2024-07-03 |  |
 | [Freedom](https://open.spotify.com/track/6zu1IHADqX7siKp5QQThuB) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [London 0 Hull 4](https://open.spotify.com/album/4BNELxLJPRYIEOiYGPAET9) | 3:20 | 2024-04-07 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2024-01-05 |  |
@@ -275,6 +279,7 @@
 | [Oblivius](https://open.spotify.com/track/6y4ySPeb68KGoAi1dk130F) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:59 | 2024-06-29 |  |
 | [Obstacles](https://open.spotify.com/track/4WtmAIMcY6LAJuKfeJcRrG) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:26 | 2024-07-30 |  |
 | [Ode To The Mets](https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:51 | 2024-05-12 |  |
+| [Ode to Viceroy](https://open.spotify.com/track/6WZjjf4mKurHPC5BhdGwet) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:53 | 2024-12-27 |  |
 | [Off to War](https://open.spotify.com/track/6T6xt8yO6znhdN4TO6JDrw) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 3:17 | 2024-07-07 |  |
 | [Oh! Sweet Nuthin' \- 2015 Remaster](https://open.spotify.com/track/4Wi6OrpIzvG0dRHN8pVuTs) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded \(2015 Remaster\)](https://open.spotify.com/album/4RMGrhJRnGiNqmKqhqpLlX) | 7:25 | 2024-07-11 |  |
 | [Old Hollywood](https://open.spotify.com/track/4X1TGPZA0ZYM3rgbMnNqtd) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 4:32 | 2024-06-10 |  |

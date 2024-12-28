@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,951 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,955 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 28 | [Garganta Con Arena](https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Toda Mi Vida](https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7) | 4:08 |
 | 29 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 |
 | 30 | [El día que me quieras \- Remastered](https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ) | [Libertad Lamarque](https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ) | [Tangos Inmortales de Libertad Lamarque \(Remastered\)](https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR) | 2:36 |
-| 31 | [Mujer niña y amiga](https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7) | [Alicia Vignola](https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A) | [Azsulado](https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM) | 3:16 |
-| 32 | [Rosas de Otoño](https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Ofrenda Gaucha: Valsecito Amigo](https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk) | 2:45 |
+| 31 | [Rosas de Otoño](https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Ofrenda Gaucha: Valsecito Amigo](https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk) | 2:45 |
+| 32 | [Mujer niña y amiga](https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7) | [Alicia Vignola](https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A) | [Azsulado](https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM) | 3:16 |
 | 33 | [La Morocha](https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Cronología \- La Estrella de Buenos Aires \(1968\)](https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2) | 2:35 |
 | 34 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
-| 35 | [La Última Curda](https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Puro Verso](https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl) | 4:18 |
-| 36 | [Milonga Sentimental](https://open.spotify.com/track/2kxlAkGkl4gptyF2yQI0CU) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [The Roots Of Tango \- Milonga Sentimental](https://open.spotify.com/album/2Rwg8FpWYzn8GD9vN5JIhw) | 2:38 |
+| 35 | [Milonga Sentimental](https://open.spotify.com/track/2kxlAkGkl4gptyF2yQI0CU) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [The Roots Of Tango \- Milonga Sentimental](https://open.spotify.com/album/2Rwg8FpWYzn8GD9vN5JIhw) | 2:38 |
+| 36 | [La Última Curda](https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Puro Verso](https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl) | 4:18 |
 | 37 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
 | 38 | [La Piel de la Ciudad](https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:13 |
 | 39 | [Mano a Mano](https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Puñal de Sombra](https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh) | 3:33 |

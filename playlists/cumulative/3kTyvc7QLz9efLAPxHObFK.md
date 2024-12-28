@@ -4,7 +4,7 @@
 
 > 
 
-1,921 songs - 4 day 6 hr 21 min
+1,922 songs - 4 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1368,6 +1368,7 @@
 | [Quasar](https://open.spotify.com/track/74suauotFygZSCF7FeD4tT) | [Hollow](https://open.spotify.com/artist/39z1fY2k7pqtv63oZUIO1M) | [Quasar](https://open.spotify.com/album/2QbPz9oXXCISxByzUE1sCu) | 2:48 | 2024-05-17 |  |
 | [Queen Of Hearts](https://open.spotify.com/track/55rNCthoPnzkWBKjftlLop) | [Deviation](https://open.spotify.com/artist/0c9ER6NjjpiibM7LNvJzkM), [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [I Am Deviation](https://open.spotify.com/album/516zbLsRtudBAcm4hLlF3j) | 2:26 | 2024-08-25 |  |
 | [Quiver](https://open.spotify.com/track/6gfdc0sgLQvolZteBTRCDY) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Quiver](https://open.spotify.com/album/36MIS2T9fOpiTdSew0yB5L) | 3:54 | 2024-03-27 |  |
+| [Rabbit Hole](https://open.spotify.com/track/4z8SxgCpyQoL0lJRLWeSCK) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Rabbit Hole](https://open.spotify.com/album/6PKMpAsQ2SJ0jTkKfjsmG2) | 2:42 | 2024-12-27 |  |
 | [Rabbit Hole](https://open.spotify.com/track/46xxJlW354nuyoRLPIeE8Y) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Thunder In Paradise](https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF) | 3:22 | 2023-12-08 |  |
 | [Rabbit Hole](https://open.spotify.com/track/7wjaEyH2cTGRnYur8UfVtq) | [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Rabbit Hole](https://open.spotify.com/album/2sBmPN88dkQjDprhwYRLVj) | 3:19 | 2023-02-15 |  |
 | [Radar](https://open.spotify.com/track/1uDVbdOu9U824RnW5G1sON) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Radar](https://open.spotify.com/album/6zNZlpEXGGoLgkh8MfXZ89) | 2:43 | 2022-08-22 |  |

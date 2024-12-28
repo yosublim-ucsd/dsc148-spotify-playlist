@@ -1,12 +1,12 @@
 {
   "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 38539,
+  "num_followers": 38606,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/XAAAAAD45EYdvF3hY4GYA1ecIExp",
+  "snapshot_id": "Z240egAAAACz/K3RM/DD1x9M5aPIJp05",
   "tracks": [
     {
       "added_at": "2024-12-13 05:00:12",
@@ -39,6 +39,22 @@
       "duration_ms": 214506,
       "name": "I Always Wanted A Brother",
       "url": "https://open.spotify.com/track/6WQyAlZ8sYKvyvSwgX85TO"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "Great Big World",
+        "url": "https://open.spotify.com/album/1l55DAgkMB87yvuRSVwDnA"
+      },
+      "artists": [
+        {
+          "name": "Kevin The Bear",
+          "url": "https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C"
+        }
+      ],
+      "duration_ms": 125973,
+      "name": "Great Big World",
+      "url": "https://open.spotify.com/track/1r9rWCSCMJcD2VCtZRUmwZ"
     },
     {
       "added_at": "2024-12-13 05:00:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: LIL LEAGUE from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,409 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,405 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 4 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
 | 5 | [MAESTRO \- Japanese ver.](https://open.spotify.com/track/05QpqXYyWHX30UrrqScDub) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN JAPAN 4TH SINGLE 「消費期限」](https://open.spotify.com/album/2g2fmJXMfNo4wdEJdgyTu6) | 3:18 |
 | 6 | [GIANT](https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:54 |
-| 7 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 |
+| 7 | [BO$$Y](https://open.spotify.com/track/12IAErrJ4t96w75iP5HMau) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [VIIsual](https://open.spotify.com/album/2NbRDGdARD2nXnVlou8wjF) | 3:33 |
 | 8 | [雪明かり \(Yukiakari\)](https://open.spotify.com/track/0uHnmZfRQVgme4k99xeKzH) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [雪明かり \(Yukiakari\)](https://open.spotify.com/album/0sC7gPF7nafWA69qus9sxq) | 3:13 |
 | 9 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 |
 | 10 | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H) | 2:06 |
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 17 | [Silhouette](https://open.spotify.com/track/08p4TJG7E1TtabAdPQ5uCg) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Present](https://open.spotify.com/album/4wpxSGDKIfjqmJcYW39le3) | 3:21 |
 | 18 | [TOKYO BLACK HOLE](https://open.spotify.com/track/2OIo2bL2wQxzzW3MCIuxf4) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [ECHOES of DUALITY](https://open.spotify.com/album/1OL8ShYfIqC64LwSqAozVm) | 3:33 |
 | 19 | [TALK TO ME NICE feat\. TAMP](https://open.spotify.com/track/4iS5v1tumGszKVPkxo1Yrt) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [TAMP](https://open.spotify.com/artist/6DFcdAH3sXdGCQqy1KHc8m) | [TALK TO ME NICE feat\. TAMP](https://open.spotify.com/album/2T8j6iR7DYVhSnZdy74RN3) | 3:46 |
-| 20 | [BO$$Y](https://open.spotify.com/track/12IAErrJ4t96w75iP5HMau) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [VIIsual](https://open.spotify.com/album/2NbRDGdARD2nXnVlou8wjF) | 3:33 |
+| 20 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 |
 | 21 | [ICY](https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 3:21 |
 | 22 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 |
-| 23 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 |
-| 24 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
+| 23 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
+| 24 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 |
 | 25 | [WMDA\(Where My Drums At\)](https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [WMDA\(Where My Drums At\)](https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE) | 3:20 |
 | 26 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 |
 | 27 | [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 |
 | 28 | [Blissful](https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Blissful](https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA) | 3:30 |
-| 29 | [Crazy Crazy](https://open.spotify.com/track/0KJfi6Wp1rO41CxlJNuXc2) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Crazy Crazy / Fly Higher](https://open.spotify.com/album/64thyWJFmAQVIGBDicbijf) | 3:24 |
-| 30 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 |
+| 29 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 |
+| 30 | [Crazy Crazy](https://open.spotify.com/track/0KJfi6Wp1rO41CxlJNuXc2) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Crazy Crazy / Fly Higher](https://open.spotify.com/album/64thyWJFmAQVIGBDicbijf) | 3:24 |
 | 31 | [MEME](https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [MEME](https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk) | 2:21 |
 | 32 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 |
 | 33 | [ボーイミーツガール](https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Re:ERA](https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj) | 4:02 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 46 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 |
 | 47 | [moooove!!](https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [moooove!!](https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx) | 3:00 |
 | 48 | [BAM\-BOO](https://open.spotify.com/track/4rRUH7C2JRGOJf8u3aIDJt) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [BAM\-BOO](https://open.spotify.com/album/0j6prwqcnjEWs7w9WRAT8d) | 2:34 |
-| 49 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
+| 49 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 |
 | 50 | [ONE NIGHT](https://open.spotify.com/track/0hDmpbW1tZLVCnuX3fyxvn) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE VIEW](https://open.spotify.com/album/00h5i6rfYbF7CJcaYCr5mA) | 2:48 |
 
 Snapshot ID: `Z2rMkAAAAACd26wWOoCEALfjHXqklatz`

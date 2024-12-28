@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,035 likes - 88 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,038 likes - 88 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 59 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
 | 60 | [Hurts Me To Know](https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 2:29 |
 | 61 | [Madonna](https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [whereislema](https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV), [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q) | [Madonna](https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp) | 3:55 |
-| 62 | [Runaway](https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Runaway](https://open.spotify.com/album/2trHkv6oFtPokMkQHfHoNH) | 3:22 |
-| 63 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
+| 62 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
+| 63 | [Runaway](https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Runaway](https://open.spotify.com/album/2trHkv6oFtPokMkQHfHoNH) | 3:22 |
 | 64 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 |
 | 65 | [Major Minor](https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA) | [Donna Lugassy](https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm) | [Major Minor](https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT) | 2:29 |
 | 66 | [Spinn On You](https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Spinn On You](https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w) | 2:20 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 81 | [Give It All to Me](https://open.spotify.com/track/4arsEo4x9lpuEb7K6dn62B) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Give It All to Me](https://open.spotify.com/album/1diluC1MnWkOX1JYvH9EG8) | 2:29 |
 | 82 | [Naked](https://open.spotify.com/track/5cyohpUtQViRIwZoodcl2O) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Between Spaces](https://open.spotify.com/album/5xKvJOrOl8uXL3IOmVhqZm) | 2:03 |
 | 83 | [Gone Girl](https://open.spotify.com/track/2l3UrQ9RRUDHH2H6vUV723) | [Maya Mae](https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Gone Girl](https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU) | 3:01 |
-| 84 | [Shades Prayer](https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh) | [SHADES](https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty) | 2:28 |
+| 84 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 |
 | 85 | [Blessings](https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Blessings](https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr) | 2:13 |
-| 86 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 |
+| 86 | [Shades Prayer](https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh) | [SHADES](https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty) | 2:28 |
 | 87 | [Nobody believes me](https://open.spotify.com/track/0REfEuEqp99TRAWP3qqAQv) | [Jueles Chloe](https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY) | [Nobody believes me](https://open.spotify.com/album/13nO1IRMG3mjtaTD9AWLth) | 2:38 |
 | 88 | [Therapy](https://open.spotify.com/track/50GBuFD6FPNoJDjVnd4nrV) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh), [Miss Angel](https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi) | [Therapy](https://open.spotify.com/album/5IFzjb9HjakhvB4zCBgoLH) | 3:25 |
 

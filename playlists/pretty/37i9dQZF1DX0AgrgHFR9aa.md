@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Heykel
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,261 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,270 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 25 | [PHOBOS](https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv) | [Jeune Mort](https://open.spotify.com/artist/7u8gvNEGeiNVartjPGoTtU) | [DEMAIN EST ANNULÉ](https://open.spotify.com/album/4wO5AjxTQfuyVr0H0e6coR) | 2:40 |
 | 26 | [La nuit](https://open.spotify.com/track/0jn1yQPQRWWjnxpoTfUr4g) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:56 |
 | 27 | [Ça parle de](https://open.spotify.com/track/7cI4ZRhQKSvtDj4cgJytRC) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz) | [Ça parle de](https://open.spotify.com/album/1MJBxB6MS3Rv8pLpgKXlHI) | 3:26 |
-| 28 | [Defilé de mot](https://open.spotify.com/track/69p51DcIenizcU1d5WExxE) | [Mokless](https://open.spotify.com/artist/33T5kdoVSK7Vg5DXquJluL), [Scred Connexion](https://open.spotify.com/artist/5ZtIEcmzQosu8SDKWgwc86) | [Defilé de mot](https://open.spotify.com/album/5EVKpHyGlWwiBHEi1JZTS1) | 3:19 |
+| 28 | [Défilé de mots](https://open.spotify.com/track/69p51DcIenizcU1d5WExxE) | [Mokless](https://open.spotify.com/artist/33T5kdoVSK7Vg5DXquJluL), [Scred Connexion](https://open.spotify.com/artist/5ZtIEcmzQosu8SDKWgwc86) | [Défilé de mots](https://open.spotify.com/album/5EVKpHyGlWwiBHEi1JZTS1) | 3:19 |
 | 29 | [le bus \- A COLORS SHOW](https://open.spotify.com/track/6tA6dED3veeMWrXexuWpbg) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [le bus \- A COLORS SHOW](https://open.spotify.com/album/6saCRQX2yRSt3FwsjBuo0c) | 2:58 |
 | 30 | [FAST LIFE & FAMILLE](https://open.spotify.com/track/3Ird3tXm20WmN24qZPxNpZ) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [.H.K](https://open.spotify.com/artist/61qvcZWDAT1yvsw4bEVowX), [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:58 |
 | 31 | [JAMAIS COMME AVANT](https://open.spotify.com/track/7MtjsERZRUGFXQxn6SE2fs) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [BLACKBIRD](https://open.spotify.com/album/2DMye4603xl0LkWDikn4IQ) | 3:29 |

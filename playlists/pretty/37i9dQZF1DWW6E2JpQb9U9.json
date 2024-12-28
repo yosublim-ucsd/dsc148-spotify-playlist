@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 118773,
+  "num_followers": 118826,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "El regreso",
-        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 233213,
-      "name": "Te quiero igual - En directo 2005",
-      "url": "https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Don Lucero",
         "url": "https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 316040,
       "name": "Fina Ropa Blanca",
       "url": "https://open.spotify.com/track/46uMIpDYQBG6iSHDl5y2ft"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "El regreso",
+        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 233213,
+      "name": "Te quiero igual - En directo 2005",
+      "url": "https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Chivo Expiatorio (En Vivo)",
-        "url": "https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj"
+        "name": "No Era Cierto - En Vivo En Argentina",
+        "url": "https://open.spotify.com/album/6pwut5VJt6jFHkPNhDyVaP"
       },
       "artists": [
         {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         }
       ],
-      "duration_ms": 298017,
-      "name": "Chivo Expiatorio - En Vivo",
-      "url": "https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe"
+      "duration_ms": 258083,
+      "name": "No Era Cierto - En Vivo En Argentina",
+      "url": "https://open.spotify.com/track/6WkbvEq0p1lwLk9HiWET7x"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -511,6 +511,22 @@
       "duration_ms": 432680,
       "name": "Al Lado Del Camino",
       "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Chivo Expiatorio (En Vivo)",
+        "url": "https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 298017,
+      "name": "Chivo Expiatorio - En Vivo",
+      "url": "https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -575,22 +591,6 @@
       "duration_ms": 259200,
       "name": "Homero - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "No Era Cierto - En Vivo En Argentina",
-        "url": "https://open.spotify.com/album/6pwut5VJt6jFHkPNhDyVaP"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 258083,
-      "name": "No Era Cierto - En Vivo En Argentina",
-      "url": "https://open.spotify.com/track/6WkbvEq0p1lwLk9HiWET7x"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Vivo X la 25",
-        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Solo Voy - En Vivo",
-      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Nada Salvaje (En Vivo Estadio Obras)",
         "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 278984,
       "name": "Nada Salvaje (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Vivo X la 25",
+        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Solo Voy - En Vivo",
+      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
+        "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
+      "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Espejo Roto (Ac\u00fastico Gran Rex Vol. 2)",
         "url": "https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 200985,
       "name": "Fr\u00e1gil - En Vivo",
       "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
-        "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        },
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
-      "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
     },
     {
       "added_at": "2024-12-20 03:00:01",

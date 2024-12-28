@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-656 songs - 1 day 3 hr 56 min
+657 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Good Tonight \(from The Bad Guys\)](https://open.spotify.com/track/5XYNCCkYoFLegWZcQU9ecn) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Good Tonight \(from The Bad Guys\)](https://open.spotify.com/album/3EV8GtPveYRG4GB2aUHznk) | 3:41 | 2022-04-15 | 2024-01-05 |
 | [Goodbye](https://open.spotify.com/track/5nFMdiImpiw4vfVTK1GphJ) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Goodbye and Other Circle Time Songs](https://open.spotify.com/album/0yWWhBkXae1GN3NddypD1s) | 1:34 | 2024-09-06 |  |
 | [Got the Magic Touch](https://open.spotify.com/track/4gAqR8ulhtLb3djEghY6us) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Got the Magic Touch](https://open.spotify.com/album/31OXZp4vAdUXQbc8rRtiWO) | 2:14 | 2024-04-05 | 2024-08-24 |
+| [Great Big World](https://open.spotify.com/track/1r9rWCSCMJcD2VCtZRUmwZ) | [Kevin The Bear](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C) | [Great Big World](https://open.spotify.com/album/1l55DAgkMB87yvuRSVwDnA) | 2:05 | 2024-12-27 |  |
 | [Great Day on CoComelon Lane \- Songs From the Netflix Series](https://open.spotify.com/track/26l8C2Awi4ECGIUk20EBMY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Lane, Vol\. 2 \(Songs From the Netflix Series\)](https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf) | 3:26 | 2024-05-10 |  |
 | [greedy](https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [greedy](https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4) | 2:09 | 2024-02-09 | 2024-08-24 |
 | [Grocery Store](https://open.spotify.com/track/13efAAgED8Wmq7iYMv8bs8) | [Kate Micucci](https://open.spotify.com/artist/0oYI03YsJ5AbgdP6Kwxeos) | [Grocery Store](https://open.spotify.com/album/3TNnC4G3sJX5E3wORuluDB) | 2:51 | 2023-10-20 | 2024-02-10 |

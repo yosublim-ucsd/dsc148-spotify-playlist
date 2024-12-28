@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,502 likes - 75 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,503 likes - 75 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 30 | [Genesis](https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Genesis](https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3) | 3:19 |
 | 31 | [Highway Brain Planet \(Credits\)](https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR) | [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Second Spring OST](https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI) | 2:31 |
 | 32 | [Who Is Still Dreaming?](https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z) | [June11](https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4) | [11000 Dreams](https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8) | 3:32 |
-| 33 | [Theme from 'Behind the Curtain'](https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Skalpel](https://open.spotify.com/album/6fEN3yig9kpmZ0oiJbFRuE) | 4:11 |
+| 33 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 |
 | 34 | [that love](https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo) | [Nonkeen](https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b) | [All good?](https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144) | 7:46 |
-| 35 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 |
+| 35 | [Theme from 'Behind the Curtain'](https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Skalpel](https://open.spotify.com/album/6fEN3yig9kpmZ0oiJbFRuE) | 4:11 |
 | 36 | [Ultramarine](https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Ultramarine](https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac) | 3:09 |
 | 37 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
 | 38 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 72 | [Hell To The Liars \(feat\. NATURE\)](https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Hell To The Liars \(feat\. NATURE\)](https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc) | 9:31 |
 | 73 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
 | 74 | [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 |
-| 75 | [Beside April](https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Beside April](https://open.spotify.com/album/3jGdsI7EtNflxCUUre7QXP) | 5:13 |
+| 75 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
 
 Snapshot ID: `Z05QugAAAADNMAd+zTlgblKkCooJYF8g`

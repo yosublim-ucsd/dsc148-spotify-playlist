@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 168853,
       "name": "attached",
       "url": "https://open.spotify.com/track/4S9FVDf8QFf3Hz1YOHQ6xQ"
@@ -1344,6 +1344,36 @@
       "duration_ms": 232942,
       "name": "Bass Body Party",
       "url": "https://open.spotify.com/track/0UEAwLwq9drkkrDfgxlGwK"
+    },
+    {
+      "album": {
+        "name": "Batas Cinta",
+        "url": "https://open.spotify.com/album/72CxZwYAMuqJYumKGVQ5Op"
+      },
+      "artists": [
+        {
+          "name": "Nicole Rossi",
+          "url": "https://open.spotify.com/artist/25ZCNAXKDwkC2J93MqpvTE"
+        },
+        {
+          "name": "Aqeela Calista",
+          "url": "https://open.spotify.com/artist/5viTsV4BwI62jNF7ERhK4r"
+        },
+        {
+          "name": "Flavio Zaviera",
+          "url": "https://open.spotify.com/artist/2OKFdBQsZWBBFH6mSqO0D9"
+        },
+        {
+          "name": "Audy Maulidyna",
+          "url": "https://open.spotify.com/artist/2cVLHDOCBoXjjEmKZbMf02"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209776,
+      "name": "Batas Cinta",
+      "url": "https://open.spotify.com/track/1zsfJG4XArxnV5QGQJ6X5p"
     },
     {
       "album": {
@@ -1688,7 +1718,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
@@ -1750,7 +1780,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 196306,
       "name": "Beyond (End Credit Version) - From \"Moana 2\"",
       "url": "https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg"
@@ -5132,7 +5162,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 204453,
       "name": "H.S.K.T. (feat. Wonstein)",
       "url": "https://open.spotify.com/track/39382sUtIOwIXftX0i76do"
@@ -6599,6 +6629,24 @@
     },
     {
       "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/3XFkbfWHtqfJ3zNp323ML4"
+      },
+      "artists": [
+        {
+          "name": "Timun Jelita",
+          "url": "https://open.spotify.com/artist/06KrsM9Nic0tGaJRBrJbtn"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224925,
+      "name": "Jika Bersamamu",
+      "url": "https://open.spotify.com/track/3aprt2YjJgqQtqbiMtDbUq"
+    },
+    {
+      "album": {
         "name": "Jiwa Yang Bersedih",
         "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
       },
@@ -7926,7 +7974,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 328050,
       "name": "Location Unknown \u25d0 (feat. BEKA) - Brooklyn Session",
       "url": "https://open.spotify.com/track/43kiDtoYD0nDJYxzQwclpT"
@@ -8940,7 +8988,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 239400,
       "name": "Mengikhlaskan Hati - From \"Cinta Dalam Ikhlas\"",
       "url": "https://open.spotify.com/track/0jxs2RQT6Prc98XS0nlGAY"
@@ -14443,6 +14491,36 @@
     },
     {
       "album": {
+        "name": "Tarian Asmara",
+        "url": "https://open.spotify.com/album/4AuOwCU5sXsoRRy9ktOSpb"
+      },
+      "artists": [
+        {
+          "name": "Nicole Rossi",
+          "url": "https://open.spotify.com/artist/25ZCNAXKDwkC2J93MqpvTE"
+        },
+        {
+          "name": "Aqeela Calista",
+          "url": "https://open.spotify.com/artist/5viTsV4BwI62jNF7ERhK4r"
+        },
+        {
+          "name": "Flavio Zaviera",
+          "url": "https://open.spotify.com/artist/2OKFdBQsZWBBFH6mSqO0D9"
+        },
+        {
+          "name": "Audy Maulidyna",
+          "url": "https://open.spotify.com/artist/2cVLHDOCBoXjjEmKZbMf02"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206550,
+      "name": "Tarian Asmara",
+      "url": "https://open.spotify.com/track/6eNUdUbJHnT7RfO3syqXWZ"
+    },
+    {
+      "album": {
         "name": "Membangun & Menghancurkan",
         "url": "https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86"
       },
@@ -14642,6 +14720,28 @@
       "duration_ms": 166285,
       "name": "Teman Teman Ku Udah Nikah Aku Masih Nonton Spongebob",
       "url": "https://open.spotify.com/track/0NONHlrayFnoTefgMLmq5D"
+    },
+    {
+      "album": {
+        "name": "Tempat Ini",
+        "url": "https://open.spotify.com/album/4ESNDvZ9RyS0B6FpoxRtU4"
+      },
+      "artists": [
+        {
+          "name": "A. Nayaka",
+          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
+        },
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202807,
+      "name": "Tempat Ini",
+      "url": "https://open.spotify.com/track/6cRn17cMoOEwT5xtas7TvY"
     },
     {
       "album": {

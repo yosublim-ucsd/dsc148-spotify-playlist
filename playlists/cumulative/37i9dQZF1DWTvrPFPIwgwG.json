@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 333207,
       "name": "A Batalha",
       "url": "https://open.spotify.com/track/2R8zOv33KngElmmWy2XAYF"
@@ -1724,6 +1724,24 @@
       "duration_ms": 266020,
       "name": "Fase do Deserto",
       "url": "https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0"
+    },
+    {
+      "album": {
+        "name": "Filhas de Zelofeade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ytMxij3eSbYuqNL4FCCbB"
+      },
+      "artists": [
+        {
+          "name": "Vanilda Bordieri",
+          "url": "https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308674,
+      "name": "Filhas de Zelofeade - Ao Vivo",
+      "url": "https://open.spotify.com/track/4BXzKvU5sAHMPO8yu4GDPA"
     },
     {
       "album": {

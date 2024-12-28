@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,047 likes - 120 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,052 likes - 120 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 48 | [Nobody \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/1W7gmQ7AgRMIUthrV0OD0h) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [King's Disease II](https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ) | 4:42 |
 | 49 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
 | 50 | [RIP Young \(feat\. Project Pat & Juicy J\) \- Remix](https://open.spotify.com/track/6GUiCjtZGTvgUKKm1w9mwG) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [The House Is Burning \[homies begged\]](https://open.spotify.com/album/33ichA2TzIOdW248hRlqpH) | 3:00 |
-| 51 | [Eazy \(Feat\. Kanye West\)](https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:53 |
-| 52 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 |
+| 51 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 |
+| 52 | [Eazy \(Feat\. Kanye West\)](https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:53 |
 | 53 | [Crypto \(feat\. Rich The Kid\)](https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Crypto \(feat\. Rich The Kid\)](https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O) | 2:40 |
 | 54 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 |
 | 55 | [EPMD 2 \(feat\. Eminem & EPMD\)](https://open.spotify.com/track/4bRPecD9suGW8CfNZhzjS1) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [King's Disease II](https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ) | 3:34 |

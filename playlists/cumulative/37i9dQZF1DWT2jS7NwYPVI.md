@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Winona Fighter
 
-2,969 songs - 6 day 13 hr 37 min
+2,971 songs - 6 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Blood In The Water](https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Blood In The Water](https://open.spotify.com/album/3I9e3fgZ3IaR2K7NLRxVy2) | 3:34 | 2023-10-13 | 2023-10-28 |
 | [Blood Moon](https://open.spotify.com/track/3hc3l7HTFkssQZ5kiMRQOJ) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Blood Moon](https://open.spotify.com/album/4fSMRqzD5cbXuGGjUC3z6O) | 3:22 | 2022-09-16 | 2022-11-05 |
 | [Blood On The Floor](https://open.spotify.com/track/2W36yynoE2fIz8vPZ7qno0) | [Dryboy](https://open.spotify.com/artist/0h32ULcQCZELSqpBgLknoU) | [Blood On The Floor](https://open.spotify.com/album/20x8loiPj742OyMxjx8dyZ) | 2:38 | 2023-11-17 | 2023-12-09 |
+| [Blood Red Heart](https://open.spotify.com/track/33AVQadDICfdLSxmv6rsr6) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Blood Red Heart](https://open.spotify.com/album/6rY89ErMOwDPPqTsGiAiSm) | 2:24 | 2024-12-27 |  |
 | [Blood Runs Cold](https://open.spotify.com/track/3zW296mo9KBiCuTNh2PxVK) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Rain City Drive](https://open.spotify.com/album/5sgQU7Ac1EtuuYTBcVOCUm) | 3:12 | 2022-07-15 | 2022-09-09 |
 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 | 2022-05-20 | 2022-07-30 |
 | [Blood Rushes](https://open.spotify.com/track/6YZKriUwtWpAbtNQEk5Im1) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Blood Rushes](https://open.spotify.com/album/1IniFcDDv2dd7i8c2jOW7b) | 3:33 | 2023-01-13 | 2023-03-04 |
@@ -1208,7 +1209,7 @@
 | [I Don't Know You](https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Don't Know You](https://open.spotify.com/album/0zT2ilSANN1bLI7gV6lqCl) | 3:44 | 2023-10-20 | 2023-11-18 |
 | [I Don't Know You Like I Used To](https://open.spotify.com/track/7w6jP8Me8FrF4aeOrTiNRl) | [Mercury.](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [I Don't Know You Like I Used To](https://open.spotify.com/album/5e3OhB22RlQvlupARyzRzK) | 4:19 | 2022-03-11 | 2022-05-20 |
 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 | 2023-03-10 | 2023-04-15 |
-| [I Don't Speak the Language](https://open.spotify.com/track/17p5v3CWqagIm4jryEpnFO) | [FOX ROYALE](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [I Don't Speak the Language](https://open.spotify.com/album/2kyvXS2WjSgLkxnGhCOeOf) | 2:12 | 2024-10-18 |  |
+| [I Don't Speak the Language](https://open.spotify.com/track/17p5v3CWqagIm4jryEpnFO) | [FOX ROYALE](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [I Don't Speak the Language](https://open.spotify.com/album/2kyvXS2WjSgLkxnGhCOeOf) | 2:12 | 2024-10-18 | 2024-12-28 |
 | [I Don't Wanna Dance \(feat\. Baby Tate\)](https://open.spotify.com/track/77v0c1CYJ04g9IteCB4Hfu) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Existential Crisis Boy \(Part 1\)](https://open.spotify.com/album/5TVQXYqzF5t6HQMHKZVWUQ) | 3:07 | 2023-09-29 | 2023-10-21 |
 | [I Don't Wanna Live Like This](https://open.spotify.com/track/1srAm9ubDjmaNkACrQKtdN) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [The Consequence Of Being Alive](https://open.spotify.com/album/18lesZi0aFfIUMClfCK1l7) | 2:57 | 2022-11-11 | 2023-01-06 |
 | [I Don't Want It](https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Don't Want It](https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm) | 2:15 | 2022-08-26 | 2022-10-22 |
@@ -1587,7 +1588,7 @@
 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2023-06-09 | 2023-07-01 |
 | [Lowlights](https://open.spotify.com/track/3yHxDkhtm3rG65aqxr8c7J) | [Jordan Brooker](https://open.spotify.com/artist/7MhkhYdulwE1sjZ8K3bucH) | [Lowlights](https://open.spotify.com/album/24ZCL5fp7r95vEhZAsFNzY) | 2:37 | 2021-11-19 | 2022-01-15 |
 | [LUCID DREAMS](https://open.spotify.com/track/1H0XfvZWmlvc0QICpv4pwE) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [LUCID DREAMS](https://open.spotify.com/album/4mcweAHG1kEJ3o5LTBhEYs) | 2:50 | 2021-12-10 | 2022-01-06 |
-| [Lucky Number](https://open.spotify.com/track/7F6ydeWY5vuArKCojqQLju) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Shake](https://open.spotify.com/album/0HlWEOCpLQtEWmJUOdDfBz) | 3:31 | 2024-09-27 |  |
+| [Lucky Number](https://open.spotify.com/track/7F6ydeWY5vuArKCojqQLju) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Shake](https://open.spotify.com/album/0HlWEOCpLQtEWmJUOdDfBz) | 3:31 | 2024-09-27 | 2024-12-28 |
 | [Lucky Ones](https://open.spotify.com/track/6RFdhq5Eb0LvEuDAB71TZP) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [This Time Next Year \(Deluxe\)](https://open.spotify.com/album/6P3ZyijowPOvCE5EtTBHbW) | 3:07 | 2021-11-19 | 2022-01-22 |
 | [lungs](https://open.spotify.com/track/7hQmgR3ssV8Racno82rkB1) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [so close to ok](https://open.spotify.com/album/7eaSpxWkxWWYc3rSfHVfuv) | 2:01 | 2023-08-25 | 2023-09-16 |
 | [LUNGS BURN](https://open.spotify.com/track/2jcfKcZHakkkskt5huwKAi) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [LUNGS BURN](https://open.spotify.com/album/0UnXhiBWUUA8Tv3oln4Yy3) | 2:38 | 2022-09-27 | 2022-11-19 |
@@ -2674,6 +2675,7 @@
 | [Tokyo](https://open.spotify.com/track/4d2LLQznXiskpF16zXJOgZ) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Christo Bowman](https://open.spotify.com/artist/6KSZuZigeTureDNedWHZxz) | [Tokyo](https://open.spotify.com/album/1n5OwfuisLP0M0OZItxsvv) | 3:20 | 2022-04-15 | 2022-05-28 |
 | [Tokyo Rose](https://open.spotify.com/track/3B0XHm4b0ATvf1lveunyBK) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP) | [Tokyo Rose](https://open.spotify.com/album/4jJezVSZ9EXTrKxShcYo07) | 2:41 | 2024-04-26 | 2024-06-01 |
 | [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 | 2023-02-24 | 2023-03-18 |
+| [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm), [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 | 2024-12-27 |  |
 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 | 2023-06-30 | 2023-09-02 |
 | [Tongue Tied](https://open.spotify.com/track/6XkFFE9KJB90h1IexC16SH) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Tongue Tied](https://open.spotify.com/album/695atk1rsgPg7kLTUyCvZc) | 2:30 | 2022-04-01 | 2022-05-07 |
 | [tongues](https://open.spotify.com/track/3jbivGLXf7sguAk3P7SyOR) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [tongues](https://open.spotify.com/album/4We7nxOuoxs57oz6pbEFx2) | 3:01 | 2023-07-28 | 2023-08-26 |

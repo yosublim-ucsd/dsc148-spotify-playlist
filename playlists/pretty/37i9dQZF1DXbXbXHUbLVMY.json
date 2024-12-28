@@ -447,18 +447,22 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Du & Jag",
-        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
+        "name": "BLANCO",
+        "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 132150,
-      "name": "Du & Jag",
-      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
+      "duration_ms": 135004,
+      "name": "BLANCO",
+      "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -475,6 +479,38 @@
       "duration_ms": 128880,
       "name": "NEPOBABY",
       "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Du & Jag",
+        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        }
+      ],
+      "duration_ms": 132150,
+      "name": "Du & Jag",
+      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Sjunka",
+        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 133375,
+      "name": "Sjunka",
+      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -499,42 +535,6 @@
       "duration_ms": 123823,
       "name": "Radarn",
       "url": "https://open.spotify.com/track/4UE7hlOZn503ENaMi6Nilm"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "Sjunka",
-        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 133375,
-      "name": "Sjunka",
-      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "BLANCO",
-        "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
-      },
-      "artists": [
-        {
-          "name": "Gaboro",
-          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 135004,
-      "name": "BLANCO",
-      "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "MEST ELSKET & Hatet - Deluxe",
-        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 111214,
-      "name": "Hel/Halv",
-      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "Ledare",
         "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 161258,
       "name": "Ledare",
       "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "MEST ELSKET & Hatet - Deluxe",
+        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 111214,
+      "name": "Hel/Halv",
+      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "I Care",
+        "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 139764,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "Takket v\u00e6re livet",
         "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 210453,
       "name": "555",
       "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "I Care",
-        "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 139764,
-      "name": "I Care",
-      "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Ambassador",
-        "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Ambassador",
-      "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "S\u00e4g Mig",
         "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 135000,
       "name": "S\u00e4g Mig",
       "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Ambassador",
+        "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Ambassador",
+      "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Real Life (feat. Arif Murakami)",
-        "url": "https://open.spotify.com/album/1K1EtcXwQuy4pxyXABzC5k"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "duration_ms": 151897,
-      "name": "Real Life (feat. Arif Murakami)",
-      "url": "https://open.spotify.com/track/2rHUkDDrpg9U2gW530WZNi"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "TRILLE",
         "url": "https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 162017,
       "name": "TRILLE",
       "url": "https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Real Life (feat. Arif Murakami)",
+        "url": "https://open.spotify.com/album/1K1EtcXwQuy4pxyXABzC5k"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "duration_ms": 151897,
+      "name": "Real Life (feat. Arif Murakami)",
+      "url": "https://open.spotify.com/track/2rHUkDDrpg9U2gW530WZNi"
     }
   ],
   "unique_name": "100 (2)",

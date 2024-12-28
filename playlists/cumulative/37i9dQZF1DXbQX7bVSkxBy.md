@@ -2,9 +2,9 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=gZoQU877TX6OLGhnT96eoA>EJ Newton</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=Yh8exV6QReuTXE7UgQk5Mw>Mercy Chinwo</a>
 
-315 songs - 1 day 1 hr 53 min
+316 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Daddy Wey Dey Pamper \- Gbedu Version](https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r) | 3:28 | 2023-12-05 | 2023-12-13 |
 | [Daddy Wey Dey Pamper \- Special Version](https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Doris Joseph](https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho) | [Daddy Wey Dey Pamper \(Special Version\)](https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2) | 4:47 | 2023-04-13 | 2023-07-29 |
 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 | 2023-06-30 | 2023-12-30 |
-| [Daily](https://open.spotify.com/track/3zfBfWwXSioHSj1EPA2Bxw) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Daily](https://open.spotify.com/album/7k0hyp9g3BTqxhtr5QMr9u) | 2:57 | 2024-12-06 |  |
+| [Daily](https://open.spotify.com/track/3zfBfWwXSioHSj1EPA2Bxw) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Daily](https://open.spotify.com/album/7k0hyp9g3BTqxhtr5QMr9u) | 2:57 | 2024-12-06 | 2024-12-28 |
 | [Dance](https://open.spotify.com/track/1FNxXZfoIIl0FFwrWLibSL) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Faith Child](https://open.spotify.com/artist/2HyS76JUw9VD8uRWareX53) | [Flawless](https://open.spotify.com/album/71YwPDKubJJIvsEJymlbK4) | 2:42 | 2023-12-05 | 2023-12-13 |
 | [Dance Anyhow](https://open.spotify.com/track/3TLl80bJcNDDgay3jMclgp) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Dance Anyhow](https://open.spotify.com/album/3daXjHEwk4AtkIMDyhFL6d) | 8:24 | 2024-07-12 | 2024-08-23 |
 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 | 2023-04-07 |  |
@@ -321,6 +321,7 @@
 | [You Are Worthy](https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0) | 6:45 | 2024-03-29 | 2024-04-05 |
 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-04-07 | 2024-04-19 |
 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 | 2023-11-03 |  |
+| [You Do This One](https://open.spotify.com/track/5EHqWoa0odvdlXOGIvyAUS) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 3:47 | 2024-12-27 |  |
 | [You're Bigger](https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL) | 7:26 | 2024-03-29 | 2024-04-05 |
 | [Your Mercies](https://open.spotify.com/track/5JUVnZgo4FtVE4C2UlhIAH) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Your Mercies](https://open.spotify.com/album/2Ml0WKFkZ7TqCW52vDGGzr) | 5:18 | 2024-01-19 | 2024-01-31 |
 

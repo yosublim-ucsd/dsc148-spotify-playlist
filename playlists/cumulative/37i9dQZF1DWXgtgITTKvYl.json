@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Afraid to Be Brave",
+        "url": "https://open.spotify.com/album/7F6HgA9fFjkrp2YZHucqi9"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Fingers",
+          "url": "https://open.spotify.com/artist/59VVAHCiPZQzAMFcAYRmnJ"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Afraid to Be Brave",
+      "url": "https://open.spotify.com/track/6T9pSO14FVxPxw1ZROhJJM"
+    },
+    {
+      "album": {
         "name": "All Because Of Me",
         "url": "https://open.spotify.com/album/0d9tJvwp8GFrn9AJ9uVH3K"
       },
@@ -486,7 +504,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 163714,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/3E8lH2eXKEItZsuCMMmjm1"
@@ -1491,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/3SDICaUoZIHesjaOEZdzu5"
+      },
+      "artists": [
+        {
+          "name": "Gumshen",
+          "url": "https://open.spotify.com/artist/1ynnDWaJZ6KwwQDdjiEYI6"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219106,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4aJw10YHEyj06Rrf7dSyQ5"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/2CATRWH2YIdajne7jXHzB5"
       },
@@ -1809,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Best of Tobin Mueller's Prog Rock",
+        "url": "https://open.spotify.com/album/4JMEjQEsmny2U9wJWduNdB"
+      },
+      "artists": [
+        {
+          "name": "Tobin Mueller",
+          "url": "https://open.spotify.com/artist/0MSCjp9CiF6NyxmbLubp5p"
+        },
+        {
+          "name": "Amit Erez",
+          "url": "https://open.spotify.com/artist/4ky3esnYhTz2pGaxl7xOV1"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447000,
+      "name": "Is It Tomorrow or Just the End of Time?",
+      "url": "https://open.spotify.com/track/4D36ReHXc6QIJdza0jvotO"
+    },
+    {
+      "album": {
         "name": "2 Song Acoustic Single",
         "url": "https://open.spotify.com/album/47B4feQDM2Fkycbz5eS096"
       },
@@ -1986,7 +2044,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 429573,
       "name": "Levitation - Live, Royal Albert Hall, 29 September 2023",
       "url": "https://open.spotify.com/track/2FvTH18Cfx5mfFm1Ut5KZC"
@@ -3995,6 +4053,24 @@
     },
     {
       "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/0H8dlO9iQ8uAElGuExdeq4"
+      },
+      "artists": [
+        {
+          "name": "Lilly Legit",
+          "url": "https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273750,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/7KBaLm8c7yiPTkVCLbYHAN"
+    },
+    {
+      "album": {
         "name": "Tightrope",
         "url": "https://open.spotify.com/album/710dhYTLq50hAYZN1Kavab"
       },
@@ -4118,7 +4194,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 173662,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI"
@@ -4158,7 +4234,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 158160,
       "name": "Waltz of the Flowers",
       "url": "https://open.spotify.com/track/2jr2d3IKrrKAODvspQMqw6"

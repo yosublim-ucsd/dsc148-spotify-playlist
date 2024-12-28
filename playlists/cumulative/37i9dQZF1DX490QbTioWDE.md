@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Yami Safdie & Q´ Lokura.
 
-510 songs - 1 day 7 hr 30 min
+511 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Desordenada](https://open.spotify.com/track/4xpDz9jAnK1YNtokl15AxJ) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Ahora](https://open.spotify.com/album/5HO5L05iZ6IpeBA1pI3Q8G) | 3:24 | 2021-12-24 | 2022-07-28 |
 | [Despacio](https://open.spotify.com/track/6YzNwxDMTOa98d8Leb7lOx) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Despacio](https://open.spotify.com/album/5VP2UhFpMWXYgPt6h0XoRx) | 3:06 | 2024-05-31 | 2024-10-09 |
 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Despechada \(Cover\) \[En Vivo\]](https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl) | 2:52 | 2023-01-18 | 2024-10-19 |
-| [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 | 2021-12-24 |  |
+| [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 | 2021-12-24 | 2024-12-28 |
 | [Diganle](https://open.spotify.com/track/4tvxEdNhLHdhYkplr2YVot) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Diganle](https://open.spotify.com/album/12f3s7wfWqaxmulXQLRcIc) | 2:13 | 2023-08-18 | 2023-10-20 |
 | [Dile](https://open.spotify.com/track/7DKr60flV0rMuS96PmWfWA) | [Carli Jiménez](https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe) | [Tal Cual](https://open.spotify.com/album/3pS403llauCP9YljIJkiU2) | 3:35 | 2022-01-10 | 2022-07-17 |
 | [Dime Que Pasó](https://open.spotify.com/track/3aflQMCMmqhs9S8JjGNIUG) | [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Dime Que Pasó](https://open.spotify.com/album/5gGUOdk6ryPztvUtN6VVZx) | 3:09 | 2023-03-11 | 2023-03-28 |
@@ -173,6 +173,7 @@
 | [Fue Culpa del Amor](https://open.spotify.com/track/2PapQiMjbJ5ALCPnpwIk87) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Fue Culpa del Amor](https://open.spotify.com/album/4iXP6iThkVJY1Y6Zi0niPL) | 3:52 | 2021-12-24 | 2022-07-11 |
 | [Fuego y Pasion](https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:21 | 2021-12-24 |  |
 | [Fuera del Mundo](https://open.spotify.com/track/3oNx2PDf86Pibc0mS1nwKQ) | [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Fuera del Mundo](https://open.spotify.com/album/1YWlaT2eIQctble1SrmdrU) | 3:31 | 2021-12-24 | 2022-07-04 |
+| [Fugitiva](https://open.spotify.com/track/1mCvdynoZdBorLVY65NrBm) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Fugitiva](https://open.spotify.com/album/4MEck9jYCiuyI2OzaxufYS) | 3:30 | 2024-12-20 |  |
 | [Gabriela](https://open.spotify.com/track/1LoDp9jyH2guSm5wQAy6Ei) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pidan que baje el volumen](https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC) | 4:28 | 2023-09-15 | 2023-12-16 |
 | [Gabriela](https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:28 | 2021-12-24 | 2023-09-21 |
 | [GPS de AMOR](https://open.spotify.com/track/12ymbhRD4PpQ8qVqJV27MQ) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [GPS de AMOR](https://open.spotify.com/album/5FP7ZxFJqqtKZ9PzGdC23s) | 2:36 | 2024-09-13 | 2024-09-28 |

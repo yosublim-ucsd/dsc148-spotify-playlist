@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 29978,
+  "num_followers": 29993,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAADBeL9M+tBXt5AjlFyx1k+R",
+  "snapshot_id": "Z2ycgAAAAAD056kH4iGWpoHtG55+rLIH",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 186173,
-      "name": "La Prendita",
-      "url": "https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE"
+      "duration_ms": 166900,
+      "name": "El Toca Toca",
+      "url": "https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk"
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 166900,
-      "name": "El Toca Toca",
-      "url": "https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv"
+      "duration_ms": 186173,
+      "name": "La Prendita",
+      "url": "https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Los Hombres No Deben Llorar - Live Version",
-      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
+      "duration_ms": 189880,
+      "name": "Tumbando Ca\u00f1a - Live Version",
+      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Tumbando Ca\u00f1a - Live Version",
-      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
+      "duration_ms": 162400,
+      "name": "Los Hombres No Deben Llorar - Live Version",
+      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Coraz\u00f3n De Oro",
-      "url": "https://open.spotify.com/track/54tuiMglLHCTpUgs7sdEV4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los 15 para Coleccionar",
         "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 171573,
       "name": "Los Luchadores",
       "url": "https://open.spotify.com/track/2pvWTGb71qi76t1c17WCIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Coraz\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/54tuiMglLHCTpUgs7sdEV4"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "A Mis Padres",
-      "url": "https://open.spotify.com/track/3A88K2Z8gpp4wNCBz9Ia4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
         "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 215520,
       "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
       "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "A Mis Padres",
+      "url": "https://open.spotify.com/track/3A88K2Z8gpp4wNCBz9Ia4K"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 142573,
-      "name": "Coraz\u00f3n Corazoncito",
-      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Que Veas Lo Que Se Siente",
         "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 216373,
       "name": "Evidencias",
       "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 142573,
+      "name": "Coraz\u00f3n Corazoncito",
+      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 135573,
-      "name": "Dos Camionetas",
-      "url": "https://open.spotify.com/track/4MzFbkFoldveCNWW5MCBK2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Canciones Favoritas",
         "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 15 para Coleccionar",
-        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 160306,
-      "name": "Madrecita Querida",
-      "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
+      "duration_ms": 135573,
+      "name": "Dos Camionetas",
+      "url": "https://open.spotify.com/track/4MzFbkFoldveCNWW5MCBK2"
     },
     {
       "added_at": null,
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+        "name": "Los 15 para Coleccionar",
+        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 172133,
-      "name": "Tu Precio",
-      "url": "https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l"
+      "duration_ms": 160306,
+      "name": "Madrecita Querida",
+      "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
     },
     {
       "added_at": null,
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 153093,
-      "name": "El Avestruz",
-      "url": "https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb"
+      "duration_ms": 172133,
+      "name": "Tu Precio",
+      "url": "https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "El Avestruz",
+      "url": "https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Veas Lo Que Se Siente",
         "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 153359,
-      "name": "La Mano De Dios",
-      "url": "https://open.spotify.com/track/07QCCzkYr17jJ7kTLLJltI"
+      "duration_ms": 190440,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj"
     }
   ],
   "unique_name": "This Is Banda Maguey",

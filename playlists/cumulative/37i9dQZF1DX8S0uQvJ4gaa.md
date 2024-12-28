@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Ty Myers
+> New music discovery is what we're about\. Try it on for size\. Cover: Ella Langley
 
 2,327 songs - 5 day 5 hr 52 min
 

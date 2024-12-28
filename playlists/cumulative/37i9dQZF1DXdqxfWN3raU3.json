@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 205241,
       "name": "CALIFORNIA",
       "url": "https://open.spotify.com/track/4FxYtP90N7QUPZ01sk4jBc"
@@ -1648,6 +1648,24 @@
       "duration_ms": 184800,
       "name": "Carta de Despedida",
       "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
+    },
+    {
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/2yUitHKO0gAujSNkCHT9ry"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/5H5pVq8yNelXXMtoM895Sw"
     },
     {
       "album": {
@@ -3650,7 +3668,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 180000,
       "name": "Habla Claro",
       "url": "https://open.spotify.com/track/6j4uJiHbaomw5QW4hXqXwn"
@@ -3957,6 +3975,24 @@
     },
     {
       "album": {
+        "name": "YNQNPQSD",
+        "url": "https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9"
+      },
+      "artists": [
+        {
+          "name": "Abrildefresa",
+          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152876,
+      "name": "Icono",
+      "url": "https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr"
+    },
+    {
+      "album": {
         "name": "IGUAL",
         "url": "https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9"
       },
@@ -4016,7 +4052,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 179406,
       "name": "inviernos",
       "url": "https://open.spotify.com/track/5o1vK2BOk2h5SyT6c4pjMT"
@@ -4690,6 +4726,24 @@
       "duration_ms": 177954,
       "name": "Let Me Down Slow",
       "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+    },
+    {
+      "album": {
+        "name": "Ley de atracci\u00f3n",
+        "url": "https://open.spotify.com/album/1do4Es34MlPLQ7aXEK0D0A"
+      },
+      "artists": [
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195456,
+      "name": "Ley de atracci\u00f3n",
+      "url": "https://open.spotify.com/track/3FTpWeuG2VnuJQhTPUeMnk"
     },
     {
       "album": {
@@ -7579,6 +7633,24 @@
     },
     {
       "album": {
+        "name": "Se Termin\u00f3",
+        "url": "https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "Se Termin\u00f3",
+      "url": "https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR"
+    },
+    {
+      "album": {
         "name": "Secreto",
         "url": "https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR"
       },
@@ -7652,7 +7724,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 156000,
       "name": "Sexto Sentido - Naughty Holiday Mix",
       "url": "https://open.spotify.com/track/5jh727gK8ec9TVyiZ7Mt40"
@@ -8566,7 +8638,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 149999,
       "name": "Tinta de Tu Piel",
       "url": "https://open.spotify.com/track/3D0WYRsBpOZG4ScrthWnY1"

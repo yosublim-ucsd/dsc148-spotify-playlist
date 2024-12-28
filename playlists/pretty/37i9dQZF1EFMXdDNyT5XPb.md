@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 91 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 311 likes - 91 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 37 | [Fiesta](https://open.spotify.com/track/1v03tMJZRX2eN4dM89pCfS) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Fiesta](https://open.spotify.com/album/43GxzJfjtDyFx1m58gA3rd) | 2:20 |
 | 38 | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/track/0b4bqukSKvpx4wBnM5Y8ar) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Joe Housley](https://open.spotify.com/artist/0heaTfPYgeYsyw7SokGni7) | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/album/6JMnkPQtpRmMyk2yF7AKeo) | 2:43 |
 | 39 | [Alive \(The Edge\) \[feat\. ROOKIES\]](https://open.spotify.com/track/739YZgrNRHLB0CDs2xfWFj) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:13 |
-| 40 | [All My Life](https://open.spotify.com/track/73GVjYWUni8NSkMkOfex1P) | [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [All My Life](https://open.spotify.com/album/0Ilv0FUHDwpsVM4YjxqQ6W) | 3:57 |
-| 41 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 |
+| 40 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 |
+| 41 | [All My Life](https://open.spotify.com/track/73GVjYWUni8NSkMkOfex1P) | [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [All My Life](https://open.spotify.com/album/0Ilv0FUHDwpsVM4YjxqQ6W) | 3:57 |
 | 42 | [When You're Lonely](https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [When You're Lonely](https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW) | 2:39 |
 | 43 | [California \- TRU Concept Remix](https://open.spotify.com/track/6jXW2nHRS53cJmlED5PsGC) | [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8), [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF) | [California \(TRU Concept Remix\)](https://open.spotify.com/album/5CcqCvkGG0mNtq736gT79s) | 3:20 |
 | 44 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 63 | [Welcome Home](https://open.spotify.com/track/0YsSn3M4Kl0So5ibjammOH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Streets Of Gold \(Unforgettable Edition\)](https://open.spotify.com/album/367chORMCnA4mdu1uXCpfz) | 2:51 |
 | 64 | [Alright](https://open.spotify.com/track/3lxLYA80tPMvpni048At5z) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Alright](https://open.spotify.com/album/6MNH5j7RV1tvYBIhPBR76x) | 2:23 |
 | 65 | [She'll Never Love You \- Acoustic](https://open.spotify.com/track/77Uaz7KDRg26gTyFLg9lL8) | [Catherine McGrath](https://open.spotify.com/artist/0db28KdTi7VNaTipfAnlWQ) | [The Acoustics](https://open.spotify.com/album/7a34CZOKXi8YfB4e81GGw0) | 3:14 |
-| 66 | [Simple](https://open.spotify.com/track/5kUfd28cjloYrcCX1NUDiP) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:25 |
-| 67 | [Kid At Christmas](https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Kid At Christmas](https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki) | 3:33 |
+| 66 | [Kid At Christmas](https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Kid At Christmas](https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki) | 3:33 |
+| 67 | [Simple](https://open.spotify.com/track/5kUfd28cjloYrcCX1NUDiP) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:25 |
 | 68 | [Take on the World](https://open.spotify.com/track/2X9W0RM92EE7IJCj8u6mZD) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Take on the World](https://open.spotify.com/album/2fTi0wYA5Ne7mk9puy2br6) | 3:07 |
 | 69 | [Hologram](https://open.spotify.com/track/6mg2Fd0xxlHTJRNk4sv2Y7) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [In Limbo \- EP](https://open.spotify.com/album/35J8iowYlwbt5IcA7UZKPy) | 3:22 |
 | 70 | [Song I Can't Forget](https://open.spotify.com/track/3LNV9RmV3zxKuLN6D0G1aZ) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Place We Used to Meet](https://open.spotify.com/album/4uuofFLpxeB321PaVpW6GY) | 3:14 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 90 | [All I Care About Is You](https://open.spotify.com/track/1rcEuqhEEc8GPbfNpxujBL) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:02 |
 | 91 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 
-Snapshot ID: `AblNIAAAAAB8gFdW1SPj5SC7DpDVuSfg`
+Snapshot ID: `AblStgAAAADGFNwbiLE4ky0XLyzTNt8L`

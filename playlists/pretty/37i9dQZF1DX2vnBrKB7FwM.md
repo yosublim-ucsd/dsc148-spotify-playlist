@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 ### [RAPública de Colombia](https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM)
 
-> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Vic Deal
+> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Mañas Ru\-Fino
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,279 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,300 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Super Natural](https://open.spotify.com/track/5WpsDV7tkMlTtIvRqOB8Bo) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Sapch Beats](https://open.spotify.com/artist/64g7UrnRO9X5EZysGj4OdQ) | [Medallas de Oro](https://open.spotify.com/album/4QxuDcSbR9GGF9dKg1w2GN) | 3:05 |
+| 1 | [Frío Sur](https://open.spotify.com/track/60tAwJoSqHoWL1cmADByHM) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1) | [Frío Sur](https://open.spotify.com/album/6JWMtrkFfWEpq9ObaSCGQ0) | 3:14 |
 | 2 | [Nada](https://open.spotify.com/track/3fF7menvXCbyRBkeA24uQ5) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [La Ley del Todo](https://open.spotify.com/album/15s8xG2vM4C5j14G3LZ8tU) | 3:42 |
 | 3 | [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 |
 | 4 | [INTERNACIONAL WELTER](https://open.spotify.com/track/1yaar52W1nAFGm0GS7moE4) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [L'Xuasma](https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb) | [MAL DE ALTURA](https://open.spotify.com/album/75OUQCSkk96gwjHEfrIQEJ) | 4:10 |
-| 5 | [Til' I Die](https://open.spotify.com/track/3qIbuE2eWFz5TJaahCnWBd) | [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB), [Noiseferatu](https://open.spotify.com/artist/2Y3XKZXXGA7qPFrOjJqWgV) | [Til' I Die](https://open.spotify.com/album/2HJ6jIrU5iLR3wPyVUGzuE) | 3:31 |
-| 6 | [Bogotá](https://open.spotify.com/track/0qOfKcnU3dAgHAGQOS3tBP) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Antesala](https://open.spotify.com/album/3qGctkbUxZLVKsKaF1Co3P) | 3:21 |
-| 7 | [Relé](https://open.spotify.com/track/1HJbLgHCVVAWEAHMp0JZmB) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Ecks One](https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF) | [TABOGO'S FINEST](https://open.spotify.com/album/3DeRst2QWe9zsGpKP7zfEe) | 3:10 |
+| 5 | [Super Natural](https://open.spotify.com/track/5WpsDV7tkMlTtIvRqOB8Bo) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Sapch Beats](https://open.spotify.com/artist/64g7UrnRO9X5EZysGj4OdQ) | [Medallas de Oro](https://open.spotify.com/album/4QxuDcSbR9GGF9dKg1w2GN) | 3:05 |
+| 6 | [Til' I Die](https://open.spotify.com/track/3qIbuE2eWFz5TJaahCnWBd) | [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB), [Noiseferatu](https://open.spotify.com/artist/2Y3XKZXXGA7qPFrOjJqWgV) | [Til' I Die](https://open.spotify.com/album/2HJ6jIrU5iLR3wPyVUGzuE) | 3:31 |
+| 7 | [Bogotá](https://open.spotify.com/track/0qOfKcnU3dAgHAGQOS3tBP) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Antesala](https://open.spotify.com/album/3qGctkbUxZLVKsKaF1Co3P) | 3:21 |
 | 8 | [Solo Es Una](https://open.spotify.com/track/0zI6k327ZynSWmJ8v4gzlf) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Solo Es Una](https://open.spotify.com/album/5ubZOVJtvooyXre0ApgzK8) | 3:30 |
 | 9 | [En los Brazos de Morfeo](https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [En los Brazos de Morfeo](https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd) | 3:30 |
 | 10 | [Drama & Dinero](https://open.spotify.com/track/57YsOfDLCiMUsW7RZWrSce) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Drama & Dinero](https://open.spotify.com/album/0DTbeQubOGZ6grfy3jgFLZ) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 74 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 75 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `Z1ua5AAAAADnRErmKjYfVhmd98VRYYOC`
+Snapshot ID: `Z25bugAAAACh514868c9yjt6g4VqV+6W`

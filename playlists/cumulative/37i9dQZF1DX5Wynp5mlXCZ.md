@@ -4,7 +4,7 @@
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Jerry Heil
 
-227 songs - 11 hr 15 min
+228 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Мій Санта](https://open.spotify.com/track/3fmhgj3IllD78D9wYhe5kq) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz), [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Мій Санта](https://open.spotify.com/album/6fhwxKbknOQV4PUJBDnkyr) | 2:40 | 2024-12-19 |  |
 | [МІНІМУМ](https://open.spotify.com/track/2iHe7kpR2XQ9dUYDiH4dJG) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [МІНІМУМ](https://open.spotify.com/album/2kJhT7vq2IvDwRpOLEGv2S) | 2:41 | 2024-11-14 | 2024-11-29 |
 | [На нічному небі](https://open.spotify.com/track/44il5IyxWcQ79aDkB2VVDZ) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [Svyatoslav Vakarchuk](https://open.spotify.com/artist/2xEuSZSodyOIuUAxBM3I5I) | [На нічному небі](https://open.spotify.com/album/0q7PaMgEklykA15z8bblGk) | 3:51 | 2024-10-04 | 2024-12-11 |
-| [На самоті](https://open.spotify.com/track/63tLykrWEz9LzOCBeYKFhS) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [На самоті](https://open.spotify.com/album/5Uy1181hlFhtb2NRAiF3Ge) | 2:11 | 2024-12-19 |  |
+| [На самоті](https://open.spotify.com/track/63tLykrWEz9LzOCBeYKFhS) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [На самоті](https://open.spotify.com/album/5Uy1181hlFhtb2NRAiF3Ge) | 2:11 | 2024-12-19 | 2024-12-28 |
 | [Назавжди](https://open.spotify.com/track/5WLS5blqSV0rJ4qCw8O4uq) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Назавжди](https://open.spotify.com/album/0CNkkOjeQweARbqPeHvTzD) | 3:41 | 2024-09-13 | 2024-09-21 |
 | [Накоїли](https://open.spotify.com/track/33fH0ZjfdKjqn2htjrxhmM) | [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Накоїли](https://open.spotify.com/album/24HlefjKeKXhqEDXXlHMdu) | 2:31 | 2024-12-19 |  |
 | [Наодинці танці](https://open.spotify.com/track/2Mn91cpqJpFM6vFKlRdwUc) | [ALEKSEEV](https://open.spotify.com/artist/0PdkdCdzIY5XUTa7hE4S6S) | [Наодинці танці](https://open.spotify.com/album/4LWM06jRsxDmFRPazquIDy) | 3:00 | 2024-10-04 | 2024-10-11 |
@@ -200,6 +200,7 @@
 | [серенади](https://open.spotify.com/track/5MjTUX9i3mDWv22Ns2Ekj2) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [серенади](https://open.spotify.com/album/14B1PeFpAqmHhH5RnoeCOY) | 2:25 | 2024-07-19 | 2024-07-27 |
 | [СНІГ](https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [СНІГ](https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs) | 3:26 | 2024-12-19 |  |
 | [Сонечко](https://open.spotify.com/track/4LS4vk2KWllJXuOSxbL7OU) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [Сонечко](https://open.spotify.com/album/5UCLBrAKhU86wyF8gCrsNq) | 2:47 | 2024-11-28 | 2024-12-13 |
+| [Сутінки](https://open.spotify.com/track/7v8DeFAYHbfdRZjnlZEv3n) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Сонь, ти спиш?](https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d) | 3:36 | 2024-12-19 |  |
 | [Сьогодні](https://open.spotify.com/track/36jIXNZbKDYOIgKzRzttSX) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [ONUKA](https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6) | [Сьогодні](https://open.spotify.com/album/5R3xvKhJMMlhK0KjMb8Zug) | 3:00 | 2024-10-25 | 2024-11-01 |
 | [Сюди](https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Сюди](https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP) | 3:00 | 2024-07-26 | 2024-10-26 |
 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 | 2024-11-07 | 2024-11-15 |

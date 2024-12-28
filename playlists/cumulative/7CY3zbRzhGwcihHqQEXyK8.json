@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "SKINNY DIPPIN AT THA MOTEL 6",
+        "url": "https://open.spotify.com/album/3QHyPYp0SBoEsUUqtsWfKj"
+      },
+      "artists": [
+        {
+          "name": "SAIGA12",
+          "url": "https://open.spotify.com/artist/0F49Yj7KAapV4PV8rZtVbl"
+        },
+        {
+          "name": "BlUE SKUll",
+          "url": "https://open.spotify.com/artist/6qwccsxQTHlg5hD7R1kQoY"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140916,
+      "name": "2319",
+      "url": "https://open.spotify.com/track/4gzfkilB3jDuOwWlUghq6x"
+    },
+    {
+      "album": {
         "name": "Angelic 2 the Core : Angelic Funkadelic / Angelic Rockadelic",
         "url": "https://open.spotify.com/album/1HulL4NikuGieoJQUBJJL9"
       },
@@ -170,6 +192,28 @@
       "duration_ms": 259715,
       "name": "80 Degrees",
       "url": "https://open.spotify.com/track/0wxxQjMpdaAA27CF8ELjrB"
+    },
+    {
+      "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "cha$hi",
+          "url": "https://open.spotify.com/artist/6rikoykv1yZGrxm6yel2XO"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115226,
+      "name": "888",
+      "url": "https://open.spotify.com/track/5iQbXuSpsb6cjhqZfSij1F"
     },
     {
       "album": {
@@ -354,7 +398,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 288522,
       "name": "After Dark x Sweater Weather - Remix",
       "url": "https://open.spotify.com/track/2LaUJ9WB0NZozcSYDR99WT"
@@ -654,7 +698,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 262946,
       "name": "Almost Crimes - Radio Kills Remix",
       "url": "https://open.spotify.com/track/68MOETWTwg1s8sLlX9rffJ"
@@ -953,6 +997,32 @@
     },
     {
       "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "kamikaze's endless",
+          "url": "https://open.spotify.com/artist/7k3CYBOdj2p7mSf9vxtz7J"
+        },
+        {
+          "name": "Slxxpy",
+          "url": "https://open.spotify.com/artist/0f2iFjl0mjn7fXYr3Z5rRV"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259996,
+      "name": "back 2 hell",
+      "url": "https://open.spotify.com/track/7kJzFWVGFgJqPDNpWfvz7L"
+    },
+    {
+      "album": {
         "name": "Whole Lotta Red V2",
         "url": "https://open.spotify.com/album/0LAxkfHP9eqYPULAXaglWY"
       },
@@ -1142,6 +1212,24 @@
       "duration_ms": 186906,
       "name": "Bass Up - Radio Edit",
       "url": "https://open.spotify.com/track/5R2HbvdpTfH7eEn5NWCWgD"
+    },
+    {
+      "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242128,
+      "name": "beautiful narcissist",
+      "url": "https://open.spotify.com/track/6HP75zsATZYMf6rO5XSrdM"
     },
     {
       "album": {
@@ -1690,7 +1778,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 128986,
       "name": "Capture The Flag",
       "url": "https://open.spotify.com/track/57WmTDCk4mWh3Mlca9OiyL"
@@ -1766,7 +1854,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 330853,
       "name": "Cause = Time",
       "url": "https://open.spotify.com/track/17z65LFVRqSVJCMyjfrBm9"
@@ -3103,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120476,
+      "name": "fake fucks",
+      "url": "https://open.spotify.com/track/7ag3Gn32A70YjxrM8bvOz8"
+    },
+    {
+      "album": {
         "name": "Whole Lotta Red V2",
         "url": "https://open.spotify.com/album/0LAxkfHP9eqYPULAXaglWY"
       },
@@ -3136,6 +3242,24 @@
       "duration_ms": 175200,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/32mJwbsRHGQWSHoUp1tFVg"
+    },
+    {
+      "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125022,
+      "name": "false idols",
+      "url": "https://open.spotify.com/track/4gSQnxNVwk197dX3zg9O1n"
     },
     {
       "album": {
@@ -3230,7 +3354,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 139749,
       "name": "Fine Madeline",
       "url": "https://open.spotify.com/track/2khjSwh01eCWBstZo9rDGn"
@@ -3552,6 +3676,32 @@
       "duration_ms": 215267,
       "name": "From the dirt",
       "url": "https://open.spotify.com/track/6PJRfkYNmrT47KCEypypLy"
+    },
+    {
+      "album": {
+        "name": "SKINNY DIPPIN AT THA MOTEL 6",
+        "url": "https://open.spotify.com/album/3QHyPYp0SBoEsUUqtsWfKj"
+      },
+      "artists": [
+        {
+          "name": "SAIGA12",
+          "url": "https://open.spotify.com/artist/0F49Yj7KAapV4PV8rZtVbl"
+        },
+        {
+          "name": "BlUE SKUll",
+          "url": "https://open.spotify.com/artist/6qwccsxQTHlg5hD7R1kQoY"
+        },
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220055,
+      "name": "FROSTYTHESNOWBITCH - Joshua Lanuarii Remix",
+      "url": "https://open.spotify.com/track/3WJzEtDS5yqvS28LKCQVDs"
     },
     {
       "album": {
@@ -3878,6 +4028,24 @@
       "duration_ms": 266527,
       "name": "Gloomy Radio",
       "url": "https://open.spotify.com/track/62PSN6CMyMdyqHoUfTMHFu"
+    },
+    {
+      "album": {
+        "name": "SKINNY DIPPIN AT THA MOTEL 6",
+        "url": "https://open.spotify.com/album/3QHyPYp0SBoEsUUqtsWfKj"
+      },
+      "artists": [
+        {
+          "name": "SAIGA12",
+          "url": "https://open.spotify.com/artist/0F49Yj7KAapV4PV8rZtVbl"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44486,
+      "name": "GO TAKE A SHEET (INTRO)",
+      "url": "https://open.spotify.com/track/5PIT2tlYpR9PyOWQlaAF9y"
     },
     {
       "album": {
@@ -4222,6 +4390,24 @@
       "duration_ms": 41399,
       "name": "HAYFIELD HEADASS (INTERLUDE)",
       "url": "https://open.spotify.com/track/5b5CNHXjKIvy7L4gSzNpwG"
+    },
+    {
+      "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63555,
+      "name": "he ran up on me",
+      "url": "https://open.spotify.com/track/43my2idWhl5m0ZOuc9mNfk"
     },
     {
       "album": {
@@ -4898,7 +5084,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 263986,
       "name": "I'm Still Your Fag",
       "url": "https://open.spotify.com/track/0Vn8DjozlIroAUJrKU24cr"
@@ -5014,6 +5200,24 @@
       "duration_ms": 81502,
       "name": "im the hottest shit!",
       "url": "https://open.spotify.com/track/29w2YnsvkhBs0d9CBCRNgO"
+    },
+    {
+      "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147017,
+      "name": "in the back",
+      "url": "https://open.spotify.com/track/4M9mbKTkmvgwpvKrQicm5G"
     },
     {
       "album": {
@@ -5280,7 +5484,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 74832,
       "name": "Jen",
       "url": "https://open.spotify.com/track/0kpvrk6CVRe1pn7g9vZEGq"
@@ -5334,7 +5538,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 291000,
       "name": "Julia Gloria",
       "url": "https://open.spotify.com/track/5IbnDzDcBshEyHTMHbsh1X"
@@ -5436,7 +5640,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 230773,
       "name": "KC Accidental",
       "url": "https://open.spotify.com/track/4wNKEUTSUjX7QOmeV9BP5R"
@@ -5556,7 +5760,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 134971,
       "name": "kiss me again",
       "url": "https://open.spotify.com/track/5QYTN9nhIn3byfuwX1Zkbm"
@@ -5668,7 +5872,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 226933,
       "name": "Late Nineties Bedroom Rock For The Missionaries",
       "url": "https://open.spotify.com/track/6j7ASif08r8dYYRzLnzHMV"
@@ -6005,6 +6209,50 @@
     },
     {
       "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Isabelle Zamora",
+          "url": "https://open.spotify.com/artist/7iQAfa7GEqoXWT1w5zYzeM"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "lonely",
+      "url": "https://open.spotify.com/track/5CCtDiD79BcJTyPglUZ7Zp"
+    },
+    {
+      "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Peachii",
+          "url": "https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182622,
+      "name": "look the other way",
+      "url": "https://open.spotify.com/track/66Tsc277BiHdqLGYi6oosq"
+    },
+    {
+      "album": {
         "name": "You Forgot It In People",
         "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
@@ -6016,7 +6264,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 263093,
       "name": "Looks Just Like The Sun",
       "url": "https://open.spotify.com/track/0QPoBU27mAufLpou0WJwHf"
@@ -6074,7 +6322,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 129311,
       "name": "Lounger",
       "url": "https://open.spotify.com/track/5MrnzGqutuqiqzRsWl5tW2"
@@ -6164,7 +6412,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 382240,
       "name": "Lover's Spit",
       "url": "https://open.spotify.com/track/3Cl35xMXJUEhpPaYBeNUQR"
@@ -6634,6 +6882,32 @@
       "duration_ms": 227449,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/1EJ17jVhhFgR7BnZfsL8hv"
+    },
+    {
+      "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Squiblers",
+          "url": "https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk"
+        },
+        {
+          "name": "Jayce Maxwell",
+          "url": "https://open.spotify.com/artist/4fX1sPpCWYLEU3orqUi2J2"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "missed calls",
+      "url": "https://open.spotify.com/track/2oDObMSYvUM9BM43Z7LPYc"
     },
     {
       "album": {
@@ -7405,6 +7679,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "kamikaze's endless",
+          "url": "https://open.spotify.com/artist/7k3CYBOdj2p7mSf9vxtz7J"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180976,
+      "name": "old memories",
+      "url": "https://open.spotify.com/track/1k1p43E6tEmQu6aavCVmVO"
+    },
+    {
+      "album": {
         "name": "Harmony Destruction",
         "url": "https://open.spotify.com/album/3HefRXrgVp99odTv5bS050"
       },
@@ -7550,7 +7846,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 1749623,
       "name": "Onye Nnuku ike",
       "url": "https://open.spotify.com/track/7fovLoHV2qLZSZFmVMolSz"
@@ -7692,7 +7988,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 309186,
       "name": "Pacific Theme",
       "url": "https://open.spotify.com/track/03gKdAQAswBo7v4p8F1An4"
@@ -7764,7 +8060,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 206354,
       "name": "Parking Lots",
       "url": "https://open.spotify.com/track/5PSplhA4PEZHqw0bOfelEp"
@@ -7789,6 +8085,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Kayden Neal",
+          "url": "https://open.spotify.com/artist/1TPLDjWUqARpm8jWaiWeV9"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193123,
+      "name": "petals",
+      "url": "https://open.spotify.com/track/2EeUIFHUFYkdVKd9eamRUx"
+    },
+    {
+      "album": {
         "name": "You Forgot It In People",
         "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
@@ -7800,7 +8118,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 144133,
       "name": "Pitter Patter Goes My Heart",
       "url": "https://open.spotify.com/track/2hmRUMkO75ZTrDw8kdZiVv"
@@ -8379,6 +8697,24 @@
     },
     {
       "album": {
+        "name": "SKINNY DIPPIN AT THA MOTEL 6",
+        "url": "https://open.spotify.com/album/3QHyPYp0SBoEsUUqtsWfKj"
+      },
+      "artists": [
+        {
+          "name": "SAIGA12",
+          "url": "https://open.spotify.com/artist/0F49Yj7KAapV4PV8rZtVbl"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121756,
+      "name": "RIPRICKJAMES",
+      "url": "https://open.spotify.com/track/5ufBdMKlFWDE82f1A6c5Uj"
+    },
+    {
+      "album": {
         "name": "Good Morning, Wolficide",
         "url": "https://open.spotify.com/album/7zyac1m45W2B2ACRTvIO0N"
       },
@@ -8444,7 +8780,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 280373,
       "name": "Room Song",
       "url": "https://open.spotify.com/track/4eo5BPkWzFQWUNSRSnyt0T"
@@ -8538,6 +8874,28 @@
       "duration_ms": 153553,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4lN3kzj07bxFRqOLDFzb7b"
+    },
+    {
+      "album": {
+        "name": "SKINNY DIPPIN AT THA MOTEL 6",
+        "url": "https://open.spotify.com/album/3QHyPYp0SBoEsUUqtsWfKj"
+      },
+      "artists": [
+        {
+          "name": "SAIGA12",
+          "url": "https://open.spotify.com/artist/0F49Yj7KAapV4PV8rZtVbl"
+        },
+        {
+          "name": "BlUE SKUll",
+          "url": "https://open.spotify.com/artist/6qwccsxQTHlg5hD7R1kQoY"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157217,
+      "name": "RUPEES",
+      "url": "https://open.spotify.com/track/0j9oiXBhKY3UkXdtV3U6Oj"
     },
     {
       "album": {
@@ -8896,7 +9254,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 245066,
       "name": "Shampoo Suicide",
       "url": "https://open.spotify.com/track/7EyVbyQS66aaH2LwhN0gpl"
@@ -9264,7 +9622,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 129231,
       "name": "so bad",
       "url": "https://open.spotify.com/track/44OYSDOTKFN8Iw4aF2Tng2"
@@ -9282,7 +9640,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 136308,
       "name": "so bitter",
       "url": "https://open.spotify.com/track/5ZIbSalNuzaadXRsGyoQp2"
@@ -9574,7 +9932,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 171789,
       "name": "spell witch",
       "url": "https://open.spotify.com/track/1pp1qbMNJbzAJmTVeBoGKP"
@@ -9646,7 +10004,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 308946,
       "name": "Stars And Sons",
       "url": "https://open.spotify.com/track/34NxpUqK4BZmVB9Pe6VuUZ"
@@ -10384,7 +10742,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 70252,
       "name": "They Love Me They Love Me",
       "url": "https://open.spotify.com/track/4q3wbNsXUZ0dJgmCY8ECxU"
@@ -10626,6 +10984,28 @@
       "duration_ms": 165067,
       "name": "UP FROM THE ASHES",
       "url": "https://open.spotify.com/track/3WrdyhdQCrHSiZz8rx6Yhu"
+    },
+    {
+      "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Squiblers",
+          "url": "https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166034,
+      "name": "used to",
+      "url": "https://open.spotify.com/track/5vQMQmAt0eMkp6HfFcZAnR"
     },
     {
       "album": {
@@ -11053,6 +11433,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Jdubc",
+          "url": "https://open.spotify.com/artist/2Sfbyucnq2bRZ2cVW7Pk2v"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171572,
+      "name": "when am i dreaming?",
+      "url": "https://open.spotify.com/track/3pHHSND5YcKMtvpsOZ7ioH"
+    },
+    {
+      "album": {
         "name": "What Life Really Means 2",
         "url": "https://open.spotify.com/album/3xaVoFI1RBrdIAgGGzp94H"
       },
@@ -11068,6 +11470,36 @@
       "duration_ms": 141558,
       "name": "When The Earth Stood Still",
       "url": "https://open.spotify.com/track/0bNX7j4u8m656oQLkKL6Ln"
+    },
+    {
+      "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "MouSa",
+          "url": "https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn"
+        },
+        {
+          "name": "6-Below",
+          "url": "https://open.spotify.com/artist/60gkUbMV14Zm12N6i55glr"
+        },
+        {
+          "name": "Isabelle Zamora",
+          "url": "https://open.spotify.com/artist/7iQAfa7GEqoXWT1w5zYzeM"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268852,
+      "name": "when we get older",
+      "url": "https://open.spotify.com/track/6SoQMNuOJAyBgFkzCL1hAk"
     },
     {
       "album": {
@@ -11389,6 +11821,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Narcissism",
+        "url": "https://open.spotify.com/album/6paVb8OO6AWIyGpueJkADP"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95869,
+      "name": "you're kidding",
+      "url": "https://open.spotify.com/track/7JeuwRCbu0xTKlOIZOySU4"
+    },
+    {
+      "album": {
         "name": "Panko",
         "url": "https://open.spotify.com/album/3UfbWnUdI0kINgsDeqs8lW"
       },
@@ -11454,7 +11904,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 90936,
       "name": "Ziploc",
       "url": "https://open.spotify.com/track/6K91JLEfnsyUtw0FcMnpWF"
@@ -11472,7 +11922,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 90913,
       "name": "Ziploc",
       "url": "https://open.spotify.com/track/1Vly8MDQpqzj9MSFHou7i6"

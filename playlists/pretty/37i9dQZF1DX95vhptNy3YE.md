@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 ### [AMPLIFIKA](https://open.spotify.com/playlist/37i9dQZF1DX95vhptNy3YE)
 
-> Mericia e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
+> Turma do Pagode e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,572 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,555 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 |
+| 1 | [Hoje é Dia \- Ao Vivo](https://open.spotify.com/track/0d6x5YscwaTvZ11cwMt7e5) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Mixturadin 3 \- Vol\. 2](https://open.spotify.com/album/32fYls29AbB59cgAopGyIW) | 3:02 |
 | 2 | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Mc Brinquedo](https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI) | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy) | 4:26 |
 | 3 | [Sempre na Simplicidade](https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP) | [Sempre na Simplicidade](https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow) | 5:00 |
 | 4 | [CONFISSÕES PT2](https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [DVD](https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [M.A.D 2](https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH) | 3:01 |
 | 50 | [Dependente / Pirata e Tesouro / Fala \- Ao Vivo](https://open.spotify.com/track/4GJs1j7djCRBS7mns7T6ze) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD), [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Resenha das Minas 2, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7) | 4:57 |
 
-Snapshot ID: `Z2Td+gAAAACQBHFIgqG436nLqzj2bNsc`
+Snapshot ID: `Z24YdQAAAAA6MFG2jq3jYfkapJrJ7wGk`

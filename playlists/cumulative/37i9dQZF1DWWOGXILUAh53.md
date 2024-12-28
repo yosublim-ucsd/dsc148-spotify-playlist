@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Martin Garrix & Jex
 
-1,317 songs - 2 day 16 hr 17 min
+1,319 songs - 2 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 | 2023-02-10 | 2023-06-03 |
 | [BORED](https://open.spotify.com/track/7nx5ZrnZymCwKlWXYJr5SF) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BORED](https://open.spotify.com/album/5COrkoVFqqcOksKw9UTJkw) | 2:20 | 2023-05-12 | 2023-07-22 |
 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 | 2024-10-04 | 2024-11-30 |
+| [Born To Make It](https://open.spotify.com/track/6kTN5hzVv7v7OBWkadx3IP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Born To Make It](https://open.spotify.com/album/6HlysPNeaDNbptK2EGKBiU) | 2:10 | 2024-12-27 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:16 | 2022-01-28 | 2022-04-29 |
 | [Bread](https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Bread](https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV) | 1:42 | 2024-04-05 | 2024-06-01 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-24 | 2022-08-27 |
@@ -319,6 +320,7 @@
 | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/track/10qSgOI0fDaqnv201OVXxW) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/album/28fckifZVmEObvhrpBRMIb) | 2:17 | 2024-03-08 | 2024-03-13 |
 | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/track/1HIG4TBojNa30BMpP5YEdh) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/album/2MJnOGA7MU0S8ENUFWlFtH) | 2:17 | 2024-02-09 | 2024-03-02 |
 | [Drive ft\. KIDDO](https://open.spotify.com/track/0fxSVlXdxb5aCzbVyGvx0D) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Drive ft\. KIDDO](https://open.spotify.com/album/10qvBn2MB8C4qGdj2aSymU) | 2:19 | 2024-04-05 | 2024-04-27 |
+| [Drive Me Crazy](https://open.spotify.com/track/6AE63OTZndR2OLhuV8Bssa) | [Sean Lanigan](https://open.spotify.com/artist/3jdYRCLqytCIJ1viYzCp7z), [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Drive Me Crazy](https://open.spotify.com/album/1Cwn0AOsPN9Mxuo5z2pbmd) | 3:00 | 2024-12-27 |  |
 | [Drum \(feat\. Lena Sue\)](https://open.spotify.com/track/0PaxddTF3iYgbPBHitXX6V) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Drum \(feat\. Lena Sue\)](https://open.spotify.com/album/0F0sDw76LcnHECLfxr0TUV) | 2:49 | 2024-11-08 |  |
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-06 | 2024-01-20 |
 | [Dumb](https://open.spotify.com/track/6FURMXT8OfQ63MFePpVBYl) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Nikki Vianna](https://open.spotify.com/artist/5YyGLejM00snCF1RJKlocJ) | [Dumb](https://open.spotify.com/album/6kTbD89ZP1Tg9yj14QgvR1) | 2:29 | 2024-04-05 | 2024-05-18 |

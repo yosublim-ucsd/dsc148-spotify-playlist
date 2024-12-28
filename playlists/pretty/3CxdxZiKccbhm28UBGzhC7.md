@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 like - 75 songs - 4 hr 24 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 like - 76 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 73 | [Girl Behind The Glass](https://open.spotify.com/track/70LWfy4gnw3wqhYrNp0yn9) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:16 |
 | 74 | [space invaders](https://open.spotify.com/episode/3Ff28l3iZg5zUFmiGaUAjs) | [beneath the boardwalk](https://open.spotify.com/show/7gEt8SMstTxp4RK425vjhY) | [beneath the boardwalk](https://open.spotify.com/album/7gEt8SMstTxp4RK425vjhY) | 2:46 |
 | 75 | [Poundshop Kardashians](https://open.spotify.com/track/0qWgm1JTDWdfJX9Lsj8mdR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Poundshop Kardashians](https://open.spotify.com/album/3786cITcKTrcxtezOgZKME) | 2:39 |
+| 76 | [Roman Holiday](https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:28 |
 
-Snapshot ID: `AAAAsKIJGbQW/GYMrQn53B6gyj8LLmyy`
+Snapshot ID: `AAAAscSyM2xposvXPofAKI0ELN2+XCDJ`

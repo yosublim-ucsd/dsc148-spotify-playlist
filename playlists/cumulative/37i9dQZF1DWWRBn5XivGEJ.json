@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3057\u305f\u5730\u7403\u304c\u3053\u306a\u3054\u306a\u306b\u306a\u3063\u3066\u3082",
+        "url": "https://open.spotify.com/album/0YOjUEuvJgFDUwQb5T6UmA"
+      },
+      "artists": [
+        {
+          "name": "Dempagumi.Inc",
+          "url": "https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248917,
+      "name": "\u3042\u3057\u305f\u5730\u7403\u304c\u3053\u306a\u3054\u306a\u306b\u306a\u3063\u3066\u3082",
+      "url": "https://open.spotify.com/track/2uFb5tGXFTxNj0G6TmDAXz"
+    },
+    {
+      "album": {
         "name": "\u7d76\u7d76\u7d76\u7d76\u5bfe\u8056\u57df",
         "url": "https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom"
       },

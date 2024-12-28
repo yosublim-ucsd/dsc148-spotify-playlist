@@ -7208,7 +7208,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 182053,
       "name": "DELLALI (feat. Hamza)",
       "url": "https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E"
@@ -8406,10 +8406,32 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 186502,
       "name": "D\u00e9sert",
       "url": "https://open.spotify.com/track/1aiXeh3DcFxD0tu8TdjH8j"
+    },
+    {
+      "album": {
+        "name": "CAPITALE DU CRIME RADIO",
+        "url": "https://open.spotify.com/album/3GMtKNuvvpiZ6AWsvEGIxe"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "D\u00e9sert",
+      "url": "https://open.spotify.com/track/2cbgw1iPeK7dMbOnhD9e8y"
     },
     {
       "album": {
@@ -12148,7 +12170,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 223278,
       "name": "HWASI",
       "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
@@ -16473,6 +16495,24 @@
     },
     {
       "album": {
+        "name": "SUE\u00d1O MAGNIFICO",
+        "url": "https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136968,
+      "name": "LOTSOFLOVE",
+      "url": "https://open.spotify.com/track/6x4eiL3u5iWWDVumT8JSqd"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
       },
@@ -18758,7 +18798,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 198595,
       "name": "Mimti",
       "url": "https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi"
@@ -20214,6 +20254,24 @@
       "duration_ms": 161142,
       "name": "Nasa",
       "url": "https://open.spotify.com/track/2OZVq7Q1zcI1RDhy5ORf4m"
+    },
+    {
+      "album": {
+        "name": "NDAM!",
+        "url": "https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "NDAM!",
+      "url": "https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5"
     },
     {
       "album": {
@@ -25176,7 +25234,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"

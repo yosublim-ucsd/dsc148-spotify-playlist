@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31218,
+  "num_followers": 31219,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAADZErR+oOJneD4X/4cTQk8f",
+  "snapshot_id": "Z2ycgAAAAACiV8+hfL10BRenHgU7Jpoj",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luz Prendida",
+        "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "Luz Prendida",
+      "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Dealer",
         "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 204511,
       "name": "YA VA A VENIR",
       "url": "https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luz Prendida",
-        "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 173386,
-      "name": "Luz Prendida",
-      "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
     },
     {
       "added_at": null,

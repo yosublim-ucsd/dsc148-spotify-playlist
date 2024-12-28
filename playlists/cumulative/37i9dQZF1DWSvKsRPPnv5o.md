@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Roddy Ricch
 
-1,063 songs - 2 day 1 hr 31 min
+1,064 songs - 2 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [Let Me Know \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/2ZFFX9m6T3vsB9yJoURXZH) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [GEEZYWORLD \(Deluxe\)](https://open.spotify.com/album/50TGZboEjJzQn07QijX4lS) | 2:57 | 2022-02-18 | 2022-06-11 |
 | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \- Trailer Anthem](https://open.spotify.com/track/0sKJExQWRKxd76gSSwrsaI) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \[Trailer Anthem\]](https://open.spotify.com/album/2gtzhUrfhH4VsoiWeQqSmX) | 2:27 | 2023-02-28 | 2023-06-10 |
 | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \- Trailer Anthem](https://open.spotify.com/track/21wkixaulehrFctAvEhvQl) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \[Trailer Anthem\]](https://open.spotify.com/album/1DfDXWmnmfnqHmPbvgPhWc) | 3:11 | 2023-02-10 | 2023-03-01 |
+| [Letter to My Mentors](https://open.spotify.com/track/1kPQKuzvnnHn9aJ6a4pUzV) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Letter to My Mentors](https://open.spotify.com/album/71Gh5qVvEAlzypH4cjDdws) | 3:12 | 2024-12-27 |  |
 | [Lied On \(feat\. Rayven Justice\)](https://open.spotify.com/track/2yd8fHKmjMzzjxO22kjzoD) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Rayven Justice](https://open.spotify.com/artist/0m9husdLSRyNHOuxFAr5hB) | [BRASH DUMMIES](https://open.spotify.com/album/2gaI5fvm0wSI4sn3jVffuw) | 3:19 | 2024-08-30 | 2024-09-07 |
 | [Life Of A Hot Nigga](https://open.spotify.com/track/3sj9ebwU57QjJpvpu0DGiK) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Can't Stop Won't Stop 2](https://open.spotify.com/album/3CIhzIIWwWPPHpxSy9sQjl) | 2:23 | 2024-11-22 |  |
 | [Life of the Party](https://open.spotify.com/track/1cub6yoVokdIB7MAF8Brza) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Life of the Party](https://open.spotify.com/album/2o0XNHxZQoR4vMXLpOQjx2) | 2:51 | 2023-10-20 | 2024-03-02 |

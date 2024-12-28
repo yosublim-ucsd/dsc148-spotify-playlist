@@ -5117,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "I Do Worship (Live)",
+        "url": "https://open.spotify.com/album/6zEW3FcmWLMTpoGZdKzgxC"
+      },
+      "artists": [
+        {
+          "name": "WISDOM K",
+          "url": "https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 638407,
+      "name": "No Name - Live",
+      "url": "https://open.spotify.com/track/2XezacK0BDNXfBtZfpWYad"
+    },
+    {
+      "album": {
         "name": "No One Like You",
         "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
       },
@@ -6926,7 +6944,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 193890,
       "name": "Tate",
       "url": "https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi"

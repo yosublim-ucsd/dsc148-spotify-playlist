@@ -1,12 +1,12 @@
 {
   "description": "Everything Broadway-adjacent. Cover:  Ariana Grande & Cynthia Erivo",
-  "num_followers": 7164,
+  "num_followers": 7239,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z09FvAAAAABizeUCkW3IpaxvCapQlh+G",
+  "snapshot_id": "Z240dwAAAACLASeEYh6o6z7I8lPqVnnh",
   "tracks": [
     {
       "added_at": "2024-11-22 05:00:00",
@@ -147,6 +147,22 @@
       "duration_ms": 587364,
       "name": "Dancing Through Life",
       "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
+    },
+    {
+      "added_at": "2024-12-27 05:00:39",
+      "album": {
+        "name": "Class Crush",
+        "url": "https://open.spotify.com/album/48ge6RxK7xHUdiYyezk37s"
+      },
+      "artists": [
+        {
+          "name": "Katherine Lynn-Rose",
+          "url": "https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Class Crush",
+      "url": "https://open.spotify.com/track/6rf9sZa4T8NYuL7Uqx8y2d"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 190480,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/6WbfBu06dfTcYdCRcbVmgb"
-    },
-    {
-      "added_at": "2024-07-15 18:36:21",
-      "album": {
-        "name": "Annie Live! (Original Soundtrack of the Live Television Event on NBC)",
-        "url": "https://open.spotify.com/album/6o8oNoDE5gX3VqiEOTJbrJ"
-      },
-      "artists": [
-        {
-          "name": "Taraji P. Henson",
-          "url": "https://open.spotify.com/artist/7DHnqpyebuZan18T1diaio"
-        }
-      ],
-      "duration_ms": 130386,
-      "name": "Little Girls",
-      "url": "https://open.spotify.com/track/6w15DS1HWBOrnyI0ywBY3t"
     },
     {
       "added_at": "2024-07-15 18:36:21",

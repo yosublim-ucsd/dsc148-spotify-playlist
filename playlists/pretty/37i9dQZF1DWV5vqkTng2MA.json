@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 413959,
+  "num_followers": 414009,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "She Don't Love Me Now",
-        "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
       "artists": [
         {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
         }
       ],
-      "duration_ms": 207160,
-      "name": "She Don't Love Me Now",
-      "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
+      "duration_ms": 172480,
+      "name": "(I\u2019m Gonna Get Over This) Some Day",
+      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -283,18 +279,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+        "name": "She Don't Love Me Now",
+        "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
       "artists": [
         {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 172480,
-      "name": "(I\u2019m Gonna Get Over This) Some Day",
-      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
+      "duration_ms": 207160,
+      "name": "She Don't Love Me Now",
+      "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Reelin'",
-        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Watermelon Oranges",
         "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 207613,
       "name": "Don't Please Yourself",
       "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Reelin'",
+        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "What You Don't Do",
-        "url": "https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "What You Don't Do",
-      "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "King of Bohemia",
         "url": "https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 185033,
       "name": "Washashore Cowgirl",
       "url": "https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "What You Don't Do",
+        "url": "https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "What You Don't Do",
+      "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
-      },
-      "artists": [
-        {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
-        }
-      ],
-      "duration_ms": 237587,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Stay Right Here",
         "url": "https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 249560,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "duration_ms": 237587,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Got Soul",
-      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "No One Gets Out Alive",
         "url": "https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 229289,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Got Soul",
+      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Theosophy",
-        "url": "https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs"
+        "name": "Strange Time To Be Alive (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6jVGqA0LXYLY5AGwBXI2bh"
       },
       "artists": [
         {
-          "name": "Pete Molinari",
-          "url": "https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57"
-        },
-        {
-          "name": "Barrie Cadogan",
-          "url": "https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 225098,
-      "name": "Hang My Head in Shame",
-      "url": "https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy"
+      "duration_ms": 207018,
+      "name": "The Trouble With Redemption",
+      "url": "https://open.spotify.com/track/3CDP6MxdBXEtBbFxS9SaYv"
     }
   ],
   "unique_name": "the new retro",

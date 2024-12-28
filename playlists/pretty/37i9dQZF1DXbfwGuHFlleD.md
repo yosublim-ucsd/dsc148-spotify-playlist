@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfwGuHFlleD.md) - [plain]
 
 > Big rock tracks from 2019\. Cover: Machine Gun Kelly/YUNGBLUD/Travis Barker
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,604 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,609 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfwGuHFlleD.md) - [plain]
 | 42 | [Crucifire](https://open.spotify.com/track/65pViNCJx3iVQBmi28FNqi) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3) | 1:44 |
 | 43 | [Anna](https://open.spotify.com/track/0l0aCnlWm9e5C3kcLbaPpr) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 3:29 |
 | 44 | [Blame It On My Youth](https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:05 |
-| 45 | [Shockwave](https://open.spotify.com/track/5DJctS0yiHX7agIGnfgnu1) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not\. \(Deluxe Edition\)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:31 |
-| 46 | [Timebomb](https://open.spotify.com/track/6GqRl2u7LIW93T8Vi5LnXU) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Timebomb](https://open.spotify.com/album/7l2pRhL2IxUflTUeX8iU1w) | 3:38 |
+| 45 | [Timebomb](https://open.spotify.com/track/6GqRl2u7LIW93T8Vi5LnXU) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Timebomb](https://open.spotify.com/album/7l2pRhL2IxUflTUeX8iU1w) | 3:38 |
+| 46 | [Shockwave](https://open.spotify.com/track/5DJctS0yiHX7agIGnfgnu1) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not\. \(Deluxe Edition\)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:31 |
 | 47 | [Careless Whisper](https://open.spotify.com/track/7ki0dDQbDiRUjScocfUqMK) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [EODM Presents Boots Electric Performing The Best Songs We Never Wrote](https://open.spotify.com/album/5d29OqDudaM61AKpzIUA4P) | 5:04 |
 | 48 | [People](https://open.spotify.com/track/39sJbSgJmIrB9J1pkRbpaX) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [People](https://open.spotify.com/album/4CqlHgip2WIdvtqJ8BXMhW) | 2:40 |
 | 49 | [Got You](https://open.spotify.com/track/2ZmZEBYIpshhzs9GpheEaR) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Amyl and The Sniffers](https://open.spotify.com/album/6t7YSHZnWeHjvj9bMhnSEa) | 2:18 |

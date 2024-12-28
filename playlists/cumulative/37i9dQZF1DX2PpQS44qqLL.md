@@ -2,9 +2,9 @@
 
 ### [Las Estrellas ](https://open.spotify.com/playlist/37i9dQZF1DX2PpQS44qqLL)
 
-> Recordamos al Príncipe de la Canción, a cinco años de su partida, con una canción inédita.
+> Recordamos la voz y personalidad de Dulce 🕊️
 
-438 songs - 1 day 4 hr 59 min
+439 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Alguien Como Tú](https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 3:54 | 2021-12-21 |  |
 | [All By Myself \- Spanish Version](https://open.spotify.com/track/3lIT9kdAb4TlECwIl5KuXE) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Collector's Series Vol\. 1](https://open.spotify.com/album/7lLghpttp9vzZq7A59Zm1d) | 5:08 | 2021-12-21 | 2022-11-13 |
 | [All By Myself \- Spanish Version](https://open.spotify.com/track/7fL8zIHLfuEFmJy6BWsYMt) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Collector's Series Volume One](https://open.spotify.com/album/3OhSe43gTkOE5Lul4kPuGh) | 5:08 | 2021-12-21 | 2022-07-27 |
-| [Almohada](https://open.spotify.com/track/69cgiu9Ifd9Sh0FMWZsASJ) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:31 | 2024-09-26 |  |
+| [Almohada](https://open.spotify.com/track/69cgiu9Ifd9Sh0FMWZsASJ) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:31 | 2024-09-26 | 2024-12-28 |
 | [Amandote](https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [Solo](https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58) | 3:54 | 2021-12-21 |  |
 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 | 2021-12-21 |  |
 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 | 2021-12-21 |  |
@@ -161,7 +161,7 @@
 | [Fría Como El Viento](https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:55 | 2021-12-21 |  |
 | [Fuego Y Ternura](https://open.spotify.com/track/6wgKdb1ChJmKBIjJ3EYDBw) | [Lucerito](https://open.spotify.com/artist/2nzuxABkfoyHxtTx3rqhPP) | [Magia Con Lucerito](https://open.spotify.com/album/0F6s1daJfENG2yv80YHhr8) | 3:17 | 2021-12-21 | 2022-07-22 |
 | [Fuiste un Trozo de Hielo en la Escarcha](https://open.spotify.com/track/5zKq55gTFV7MvS3f9T4Gqu) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:42 | 2021-12-21 |  |
-| [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 | 2021-12-21 | 2024-09-27 |
+| [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 | 2021-12-21 |  |
 | [Gracias A Dios](https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:02 | 2021-12-21 |  |
 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1MtVzUD3q6z3NmppCZcCDb) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [De Piel Negra](https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg) | 4:38 | 2021-12-21 | 2022-07-29 |
 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 | 2021-12-21 |  |
@@ -211,11 +211,11 @@
 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 | 2021-12-21 |  |
 | [Leona Dormida](https://open.spotify.com/track/5GVJtEbJm9Im1HrCdWR5JY) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Desde Mi Libertad](https://open.spotify.com/album/1aPoDyKO0htPsqlikRv9rM) | 4:53 | 2021-12-21 |  |
 | [Llueve Sobre Mojado](https://open.spotify.com/track/3PDLKMueFy9va2zRQynuWK) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 2:48 | 2021-12-21 |  |
-| [Lo Dudo](https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:39 | 2021-12-21 | 2024-04-19 |
+| [Lo Dudo](https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:39 | 2021-12-21 |  |
 | [Lo Dudo \- Remasterizado](https://open.spotify.com/track/67WFZbVpcNl0xiRHJ7QNFH) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [José José \- Secretos 30 Aniversario](https://open.spotify.com/album/0ExU6HD9OWFwDtLu0eFqDY) | 3:36 | 2021-12-21 | 2022-07-29 |
 | [Lo Mejor de Mi](https://open.spotify.com/track/3deEKI2RwUPAvKEZrXJrD4) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Lo Mejor De Mi](https://open.spotify.com/album/4k5g8lCMPYaAdjc7Urzz4Z) | 3:55 | 2021-12-21 |  |
 | [Lo Mejor de Mi](https://open.spotify.com/track/5cEGQnaurid1T3sI5LyIL1) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Lo Mejor De Mi](https://open.spotify.com/album/1lLfKvbH4T00XyWPg5grYF) | 3:55 | 2021-12-21 | 2024-02-27 |
-| [Lo Que No Fue No Será](https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:33 | 2024-09-26 |  |
+| [Lo Que No Fue No Será](https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:33 | 2024-09-26 | 2024-12-28 |
 | [Lo Que Son Las Cosas](https://open.spotify.com/track/2SYYgNrzGeDrrARWb7Lqk6) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Solo Lo Mejor](https://open.spotify.com/album/3e46Eikg0L550c67joreHb) | 4:39 | 2021-12-21 |  |
 | [Lo Siento Mi Amor](https://open.spotify.com/track/4NtwvBrXStiOyN1xOJ1mUR) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/71LlTmSoCGEvqbmFijtvrI) | 5:34 | 2021-12-21 | 2022-07-27 |
 | [Lo Siento Mi Amor](https://open.spotify.com/track/2X27vrGVFUGGxXzM8PMtHC) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:35 | 2021-12-21 | 2024-04-19 |
@@ -403,6 +403,7 @@
 | [Un Millón De Maneras De Olvidarte](https://open.spotify.com/track/5smbza4PnwNyheXRf7ez01) | [Fandango](https://open.spotify.com/artist/0K4nxvAJBnfObOL3vkJhc0) | [Autos, Moda Y Rock And Roll](https://open.spotify.com/album/2UfcQEVPb2iE5WhNaZu1Uo) | 2:41 | 2021-12-21 | 2022-11-13 |
 | [Un Nuevo Amor](https://open.spotify.com/track/0g5939v90IJpXfHKMQhA91) | [Maria Del Sol](https://open.spotify.com/artist/5zG3ksNu7WAhSc3G0Xcs0O) | [Ellas Cantan Asi](https://open.spotify.com/album/73aQX6lqe0WOy1XskNSjlr) | 5:11 | 2021-12-21 |  |
 | [Una Lágrima \- Una Lacrima](https://open.spotify.com/track/5soKMNjeZqdlhrgdCLP0VZ) | [Estela Nuñez](https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0) | [Personalidad](https://open.spotify.com/album/2UuWyEEP4EAhj5S6AauWKD) | 4:01 | 2021-12-21 | 2022-07-29 |
+| [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 | 2024-09-26 |  |
 | [Vamos Pa' La Conga](https://open.spotify.com/track/6qKGPDCO67UO9tXzXdufMk) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [En El Ultimo Lugar Del Mundo](https://open.spotify.com/album/3njekBt0uI62QBzVXSLEQT) | 4:26 | 2021-12-21 |  |
 | [Veinte Millas](https://open.spotify.com/track/2PJa2C3r3b6byOU6JsxNUn) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [20 Millas](https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI) | 4:16 | 2021-12-21 |  |
 | [Veinticinco Rosas](https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:00 | 2021-12-21 | 2024-04-19 |
@@ -422,7 +423,7 @@
 | [Vuélveme A Querer](https://open.spotify.com/track/5sODjvuuAdk8gLzrp39Voi) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Singles](https://open.spotify.com/album/6ZxbfjQ6vmmS4aa4qjgfRV) | 4:08 | 2021-12-21 | 2022-07-29 |
 | [Y Nos Dieron las Diez](https://open.spotify.com/track/0Fh7xzZ8KWoCylXNC2laap) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [La Absoluta Colección](https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law) | 5:08 | 2021-12-21 | 2022-07-29 |
 | [Ya Lo Sé Que Tú Te Vas \- Remasterizado 2012](https://open.spotify.com/track/2zumtfdG5xP06AhcyTo5oa) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [50 Años de Ser el Divo de Juárez](https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y) | 3:44 | 2021-12-21 | 2024-09-27 |
-| [Ya No Pienso en Ti \- Spotify Singles](https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Ya No Pienso en Ti \(Spotify Singles\)](https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA) | 3:07 | 2024-09-26 |  |
+| [Ya No Pienso en Ti \- Spotify Singles](https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Ya No Pienso en Ti \(Spotify Singles\)](https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA) | 3:07 | 2024-09-26 | 2024-12-28 |
 | [Ya no somos amantes](https://open.spotify.com/track/4OOsiSRw6hd6ZLv6P2DGyO) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Amor prohibido](https://open.spotify.com/album/6rV8qvncvelhF14cffRfun) | 3:37 | 2021-12-21 | 2022-07-13 |
 | [Yo No Se Vivir Sin Ti](https://open.spotify.com/track/01ZFYLcBLnBN4GZfsREjjg) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [Lo Nuevo](https://open.spotify.com/album/1JfiegiGlijUPzCwfywtQn) | 3:30 | 2021-12-21 | 2022-01-25 |
 | [Yo No Te Pido La Luna](https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:51 | 2021-12-21 | 2022-07-21 |

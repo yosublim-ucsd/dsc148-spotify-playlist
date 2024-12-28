@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > The home of Australian music\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,604 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,611 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 25 | [Recognise](https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Recognise](https://open.spotify.com/album/4887blG8QR8i119By3sGO8) | 3:51 |
 | 26 | [Dance With Me](https://open.spotify.com/track/0oV6f0YDeVTGwdOeba8h89) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/5kJrtkLnvsAZq70QU5PyPd) | 3:45 |
 | 27 | [Stop Calling](https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stop Calling](https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q) | 2:58 |
-| 28 | [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 |
+| 28 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 |
 | 29 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 |
-| 30 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 |
-| 31 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
-| 32 | [What Turns You On](https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [DON WEST](https://open.spotify.com/album/3AvqrhILCQ0rnGqOkUcL2w) | 4:44 |
+| 30 | [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 |
+| 31 | [What Turns You On](https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [DON WEST](https://open.spotify.com/album/3AvqrhILCQ0rnGqOkUcL2w) | 4:44 |
+| 32 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
 | 33 | [One Bad Day](https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [One Bad Day](https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M) | 3:20 |
-| 34 | [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 |
+| 34 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 |
 | 35 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 |
-| 36 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 |
-| 37 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
-| 38 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 |
+| 36 | [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 |
+| 37 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 |
+| 38 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
 | 39 | [What You've Lost](https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [What You've Lost](https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8) | 2:51 |
 | 40 | [Passionfruit](https://open.spotify.com/track/1wrIvEXTRaA2FWDFYhgcNW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Happiness In A Place It Shouldn't Be](https://open.spotify.com/album/7bB8437Z2UvT6SSMFBWez2) | 2:49 |
 | 41 | [Chemicals](https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [MESO](https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a) | 3:11 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 64 | [Wreck & Ruin](https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Rebuild Repeat](https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox) | 2:25 |
 | 65 | [Padam Padam](https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5) | 2:46 |
 | 66 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 |
-| 67 | [Craters](https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr) | 3:15 |
-| 68 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
-| 69 | [Horses](https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Horses](https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH) | 3:32 |
+| 67 | [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 |
+| 68 | [Horses](https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Horses](https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH) | 3:32 |
+| 69 | [Craters](https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr) | 3:15 |
 | 70 | [Still Have Room](https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Still Have Room](https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1) | 2:22 |
-| 71 | [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 |
+| 71 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
 | 72 | [NOSE BLEED](https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [NOSE BLEED](https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j) | 3:15 |
 | 73 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 |
 | 74 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 |

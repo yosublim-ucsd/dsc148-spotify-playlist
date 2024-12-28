@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z231mwAAAABhGRMQU3ZiO3BZu/Bv2v+y",
+  "snapshot_id": "AAAAAAAAAACtcwTnZiMKaJ/yOaUC8mzd",
   "tracks": [
     {
       "added_at": null,
@@ -50,11 +50,15 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 269622,
-      "name": "Judge Judy",
-      "url": "https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl"
+      "duration_ms": 278014,
+      "name": "Like Him (feat. Lola Young)",
+      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
     },
     {
       "added_at": null,

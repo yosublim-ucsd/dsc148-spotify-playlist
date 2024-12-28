@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Fred again..
 
-352 songs - 20 hr 28 min
+353 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [I C](https://open.spotify.com/track/4anzIJUtrHtpB6Hgcz4x6Q) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [I C](https://open.spotify.com/album/5UtgbE2nTAV9jV0gadUr3x) | 2:22 | 2024-10-24 | 2024-12-06 |
 | [I Forget \(I’m So Young\)](https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Forget \(I’m So Young\)](https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z) | 4:19 | 2024-08-23 | 2024-09-13 |
 | [I Guess Time Just Makes Fools of Us All](https://open.spotify.com/track/4xeFxp27NAtRoUrNcgVD9k) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Guess Time Just Makes Fools of Us All](https://open.spotify.com/album/4gDC4nhPJKoQ5wWvcofTvg) | 8:35 | 2024-08-01 | 2024-09-06 |
+| [I Look for You](https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 3:11 | 2024-12-27 |  |
 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 | 2024-10-10 |  |
 | [I Would Die 4 U](https://open.spotify.com/track/1R9ah1wItTvehP2whKXpQk) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL), [Wendy & Lisa](https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [I Would Die 4 U](https://open.spotify.com/album/5kDgEnfQkOrcYjl5v2VxbO) | 3:21 | 2024-09-05 | 2024-09-21 |
 | [I'm on your team](https://open.spotify.com/track/6vHmrQXC2dACfRAQ4jivTF) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [I'm on your team](https://open.spotify.com/album/1e7jZCaYQ6UyyrENaP4VOT) | 3:47 | 2024-10-24 |  |

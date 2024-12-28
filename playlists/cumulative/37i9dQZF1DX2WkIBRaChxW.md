@@ -2,7 +2,7 @@
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in r&b, right now – featuring Roy Woods.
+> What's happening in r&b, right now – featuring SZA.
 
 994 songs - 2 day 5 hr 53 min
 

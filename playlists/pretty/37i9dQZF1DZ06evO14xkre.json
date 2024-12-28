@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 255033,
+  "num_followers": 255202,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAABoudkBaJrS8vLUNg0TPRIR",
+  "snapshot_id": "Z2ycgAAAAABl8Fi0/OJYISOvapvsPVgX",
   "tracks": [
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 172490,
-      "name": "Adicto",
-      "url": "https://open.spotify.com/track/70SJ1NcI81LRV1JGKadcBB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Vida",
         "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 255183,
       "name": "Speed",
       "url": "https://open.spotify.com/track/0JmO3EBtl9qhnLkzr4FiP0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 172490,
+      "name": "Adicto",
+      "url": "https://open.spotify.com/track/70SJ1NcI81LRV1JGKadcBB"
     }
   ],
   "unique_name": "This Is Kali Uchis",

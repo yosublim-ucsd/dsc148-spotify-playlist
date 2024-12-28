@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-630 songs - 1 day 13 hr 22 min
+631 songs - 1 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 | 2024-08-01 |  |
 | [Blah Blah Blah](https://open.spotify.com/track/4tO3hXwy46uaCo9eQQ9PW0) | [EMPRESS](https://open.spotify.com/artist/7f57J64jShBdEI6EB1dmRu) | [Blah Blah Blah](https://open.spotify.com/album/2SrMt23u6CgRh51fU4pmEv) | 3:30 | 2024-02-22 | 2024-03-02 |
 | [Blurred](https://open.spotify.com/track/1wCAXionqFLLZPUNY2nd6c) | [FrameThanavuch](https://open.spotify.com/artist/0K44arrw4gdFLzifOQLORP) | [Blurred](https://open.spotify.com/album/6RCVDrIfZY3darb6ig8Vn9) | 4:27 | 2022-05-26 | 2022-06-01 |
-| [BODYGUARD](https://open.spotify.com/track/6zb8KlBjdh0CgJch2zic8E) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [BODYGUARD \- Single](https://open.spotify.com/album/0djSHy4lxpLZCznzQyPqRW) | 3:05 | 2024-10-09 |  |
+| [BODYGUARD](https://open.spotify.com/track/6zb8KlBjdh0CgJch2zic8E) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [BODYGUARD \- Single](https://open.spotify.com/album/0djSHy4lxpLZCznzQyPqRW) | 3:05 | 2024-10-09 | 2024-12-28 |
 | [Boutchya](https://open.spotify.com/track/2cqgWnsfBS5aKUHg1pq3fN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya](https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr) | 3:19 | 2022-07-14 | 2022-07-25 |
 | [Boutchya \- Thai Version](https://open.spotify.com/track/2HH3EYgwHjM8ama77pYtNu) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya \(Thai Version\)](https://open.spotify.com/album/7Elaz3IhrcFd3MGflDiSgt) | 3:20 | 2022-07-24 | 2022-08-12 |
 | [BOY \(Don't You Know\)](https://open.spotify.com/track/6AlPVLHlqTdFV7HYoGWGwi) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [Ta Worraseth](https://open.spotify.com/artist/34WJOzrugDHbqouIHKuW4N) | [BOY \(Don't You Know\)](https://open.spotify.com/album/4FTEA2LBYfBia22bPhgvId) | 3:43 | 2024-03-28 | 2024-04-05 |
@@ -586,6 +586,7 @@
 | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/track/7i6avkKQTEF9g69OcNvECT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/album/5XPZJ2Rh52WC9sWuRr3U5U) | 2:52 | 2024-03-28 |  |
 | [แฟนแฟร์ \- Dreamy](https://open.spotify.com/track/5SI3nhdadhXRWdPJ3S120A) | [BowImm](https://open.spotify.com/artist/7aISVZ8grtQxn3MQjCq3E0) | [แฟนแฟร์ \(Dreamy\)](https://open.spotify.com/album/2cc5Ogu87ymW5Dny1kSnyr) | 3:28 | 2023-02-16 | 2023-02-24 |
 | [แฟนใหม่หน้าคุ้น](https://open.spotify.com/track/29E8BUUDQbc5S7jMPOj9wW) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [แฟนใหม่หน้าคุ้น](https://open.spotify.com/album/6QQTFhzZZ9aruyijHIPogD) | 2:53 | 2022-05-26 | 2022-08-26 |
+| [แรงอีกนิด \(SADISTIC\)](https://open.spotify.com/track/4zo90SYUp8L88UHRhu6NUp) | [PROJECT JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [แรงอีกนิด \(SADISTIC\) \- Single](https://open.spotify.com/album/0imi2s6hE5Do19u6LqKyoM) | 3:04 | 2024-12-27 |  |
 | [แลกเลยปะ \(Hoo Whee Hoo\)](https://open.spotify.com/track/70Sn9wy03VYM7iChqD8DXQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [แลกเลยปะ \(Hoo Whee Hoo\)](https://open.spotify.com/album/2r0WfMHwNvl5hDVtettnet) | 3:12 | 2022-05-26 | 2022-07-08 |
 | [แล้วยังไงต่อ](https://open.spotify.com/track/2qjarpGRrdp2IkGjvvfftb) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [แล้วยังไงต่อ](https://open.spotify.com/album/3Iqn3Dv3ku88Lyu748tV6B) | 3:07 | 2024-04-11 | 2024-05-24 |
 | [แวร์อิสความรัก \(WRU?\)](https://open.spotify.com/track/5iAIWIINkZvPUMcPce3CvX) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [แวร์อิสความรัก \(WRU?\) \- Single](https://open.spotify.com/album/3C6QK26Me1kKgR50TCQpwy) | 3:16 | 2024-05-16 | 2024-06-01 |

@@ -2,9 +2,9 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Gunna and J\. Cole.
+> Music from J\. Cole, Kendrick Lamar and Gunna.
 
-2,262 songs - 4 day 21 hr 13 min
+2,263 songs - 4 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [Handsome](https://open.spotify.com/track/1xsP6AITcWNigBYBYVnVZw) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 2:53 | 2019-07-27 | 2019-09-27 |
 | [HANDSOMER](https://open.spotify.com/track/4v1TTTCadimzZkTuDTnYBc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [HANDSOMER](https://open.spotify.com/album/3zCqTgk4dwtws1HhNoHqWI) | 2:23 | 2022-03-11 | 2022-04-02 |
 | [Hanging With Wolves](https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hanging With Wolves](https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew) | 3:25 | 2022-12-09 | 2023-04-01 |
+| [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 | 2024-12-27 |  |
 | [Hard For The Next \(with Future\)](https://open.spotify.com/track/2D6vfFZxQ5YzPPBODls1a9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard For The Next \(with Future\)](https://open.spotify.com/album/3OW3LdMVfuI7HsGRoVVHgm) | 2:46 | 2021-03-26 | 2021-04-24 |
 | [Harder Than My Demons](https://open.spotify.com/track/4OVxipHdSdOTTDyh1vsPCG) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Harder Than My Demons](https://open.spotify.com/album/3BFEqpVEHlku8L5c24q4GP) | 2:11 | 2020-09-01 | 2020-09-04 |
 | [Hatchback](https://open.spotify.com/track/12hVQgYR254ZziANtiKVWQ) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Hatchback](https://open.spotify.com/album/1GqVf0wkVpT32Mxj7NGxpL) | 2:29 | 2020-09-04 | 2020-09-11 |
@@ -1991,7 +1992,7 @@
 | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz) | [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB) | 3:23 | 2019-05-26\* | 2019-06-15 |
 | [Throw It In The Bag](https://open.spotify.com/track/6c0GmyBsE7mQtrVvxJaWc3) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Loso's Way](https://open.spotify.com/album/6umODQfij1WhoGDhc7UCL8) | 3:51 | 2024-05-23 | 2024-05-25 |
 | [Throw Some D's](https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu) | [Rich Boy](https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut), [Polow Da Don](https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR) | [Rich Boy](https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9) | 4:23 | 2022-03-31 | 2022-04-02 |
-| [Thug Memorials](https://open.spotify.com/track/6k3FXZe2ksgjMUFAN4VUEv) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Thug Memorials](https://open.spotify.com/album/6bRyQTTn5IqTPswEauFAoV) | 2:44 | 2024-12-13 |  |
+| [Thug Memorials](https://open.spotify.com/track/6k3FXZe2ksgjMUFAN4VUEv) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Thug Memorials](https://open.spotify.com/album/6bRyQTTn5IqTPswEauFAoV) | 2:44 | 2024-12-13 | 2024-12-28 |
 | [Thug Of Spades \(feat\. DaBaby\)](https://open.spotify.com/track/2iz3EDFoPOjPRZs9wt5iNh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [38 Baby 2](https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex) | 2:33 | 2020-04-24 | 2020-05-01 |
 | [Thug Paradise 2](https://open.spotify.com/track/1wqg2VowoogPATrqPzrpi3) | [Soldier Kidd](https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy) | [Thug Melodies](https://open.spotify.com/album/5VjgH8wgFP70tarZ6iJChd) | 3:00 | 2022-02-18 | 2022-04-02 |
 | [Thugged Out \(feat\. Kodak Black\)](https://open.spotify.com/track/1rICTKr67UUnoDVvOj4A8c) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Thugged Out \(feat\. Kodak Black\)](https://open.spotify.com/album/3TGhMWM9dn0O5BFfPAMoKg) | 3:05 | 2021-03-06 | 2021-04-03 |

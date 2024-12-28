@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 191487,
+  "num_followers": 191952,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
+        "name": "En Teatro del Huerto",
+        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 260755,
+      "name": "Entre el Cielo Vos y Yo - En Vivo",
+      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
         "name": "No Voy A Llorar / Me Enamor\u00e9",
         "url": "https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "En Teatro del Huerto",
-        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
+        "name": "Ella Dijo / Mil Horas",
+        "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 260755,
-      "name": "Entre el Cielo Vos y Yo - En Vivo",
-      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
+      "duration_ms": 199435,
+      "name": "Ella Dijo / Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -803,22 +819,6 @@
       "duration_ms": 100710,
       "name": "Pero no puedo",
       "url": "https://open.spotify.com/track/6S0wOHLCXlWmYeF1jjuHqZ"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
-        "name": "Ella Dijo / Mil Horas",
-        "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 199435,
-      "name": "Ella Dijo / Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
+        "name": "La Misma Cancion (En Vivo)",
+        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "La Misma Cancion (En Vivo)",
+      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
         "name": "Festival (En Vivo)",
         "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "La Misma Cancion (En Vivo)",
-        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "La Misma Cancion (En Vivo)",
-      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
         "name": "Recordando / Dudas (En Vivo)",
         "url": "https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8"
       },
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
       },
       "artists": [
         {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
         }
       ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -1075,26 +1075,6 @@
       "duration_ms": 175992,
       "name": "Adios Amor Adios - En Vivo",
       "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
-        "name": "Artistas invitados, Pt. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        },
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 95108,
-      "name": "Vete - En Vivo",
-      "url": "https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -1131,6 +1111,26 @@
       "duration_ms": 184618,
       "name": "Nunca M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
+        "name": "Artistas invitados, Pt. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        },
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 95108,
+      "name": "Vete - En Vivo",
+      "url": "https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu"
     },
     {
       "added_at": "2024-12-20 12:15:28",

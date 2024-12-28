@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-399 songs - 21 hr 57 min
+405 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Anorak](https://open.spotify.com/track/4PLYD3XqOL4Wp8HtEQySFn) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:31 | 2024-01-31 | 2024-03-10 |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-06-14 | 2024-07-12 |
 | [Are You Lonesome Like Me?](https://open.spotify.com/track/7eXefSw0omrWAzAj9bPHdg) | [The Feminine Complex](https://open.spotify.com/artist/01KjnhCy6NazKcRifV68Mm) | [Livin' Love](https://open.spotify.com/album/0k5SeppJRa4SbJnaISfFqf) | 2:52 | 2024-04-25 | 2024-05-16 |
+| [Are You Really on Drugs?](https://open.spotify.com/track/0vRdw4Dn862ci4NjJutQI6) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Mister Pop](https://open.spotify.com/album/1fdN6BFzynfexqrwsHz5g9) | 2:46 | 2024-12-27 |  |
 | [Asante Kwa Wazazi](https://open.spotify.com/track/6Zaqb7DJnPFrnkSukMmPWM) | [Marehemu George Mukabi](https://open.spotify.com/artist/5Tv7EcBYZgPCHZrcX4GNBQ) | [Sengula Nakupenda](https://open.spotify.com/album/7HYKaE9lKDRvTfaMPePJkF) | 2:50 | 2024-07-26 | 2024-09-08 |
 | [Auntie's Lock/Infinitum](https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Laura Darlington](https://open.spotify.com/artist/67OokTsDsLUvJI6oIxCigq) | [Los Angeles](https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu) | 2:44 | 2024-09-07 | 2024-09-11 |
 | [B](https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H) | [Lync](https://open.spotify.com/artist/31fnC8wbw2ZBITgOp6KKoY) | [These Are Not Fall Colors](https://open.spotify.com/album/3Is1zxmfs8xXPL8QnB27kd) | 4:30 | 2024-10-24 | 2024-11-14 |
@@ -92,6 +93,7 @@
 | [Drive My Car \(Misaki\)](https://open.spotify.com/track/7ug0c7aiNdQqvhqgTbpZgP) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:27 | 2024-03-09 | 2024-05-16 |
 | [Duck](https://open.spotify.com/track/4PyujFUInGsWYX3t5XDjZM) | [Bill Wells](https://open.spotify.com/artist/1symcfB0KMf0vEg2nE1pHZ), [Maher Shalal Hash Baz](https://open.spotify.com/artist/0sc4qz42as3DlXXqQcU5Qk) | [Osaka Bridge](https://open.spotify.com/album/79mqjyfKRhFr08g30VAJzG) | 1:04 | 2024-04-27 | 2024-05-16 |
 | [Duffy's](https://open.spotify.com/track/0am577lRtOs3ur575VvdmI) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh) | 3:39 | 2024-01-05 | 2024-03-10 |
+| [Dust beam](https://open.spotify.com/track/2R6VAECQgZYy4Zn8tIXGi6) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 2:06 | 2024-12-27 |  |
 | [Dust To Dust](https://open.spotify.com/track/3XSlfc6P1mXb1L8E8LnP1r) | [Dolly Mixture](https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv) | [Other Music](https://open.spotify.com/album/0yy1zI58b41lIbcICxNTbE) | 3:37 | 2024-09-23 | 2024-11-14 |
 | [Ease the Work](https://open.spotify.com/track/71YNoaT0JZ1UUqX00lluRp) | [Hour](https://open.spotify.com/artist/4o9osC05KC6Gayy2WN78p3) | [Ease the Work](https://open.spotify.com/album/6NjKoUqVBjCROQR34U1iE0) | 3:54 | 2024-07-17 | 2024-09-08 |
 | [Echo Tricks Me](https://open.spotify.com/track/5FYdwJ6ZFmB8o5LTdeyiNR) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:09 | 2024-02-09 | 2024-03-10 |
@@ -108,6 +110,7 @@
 | [Eyes of Love](https://open.spotify.com/track/1JxLgiWsT7yAOpJf3iTsDj) | [The Edge Of Daybreak](https://open.spotify.com/artist/5US7hTWfx50MizMOJksHNj) | [Eyes of Love](https://open.spotify.com/album/08wDglKnVUPwlTSwKR0qDV) | 4:13 | 2024-02-24 | 2024-03-10 |
 | [Factory Direct](https://open.spotify.com/track/7dQ7yIBoSQjDVEt31G0nEF) | [All\-Time Quarterback](https://open.spotify.com/artist/6ET8MURTVBf6SYHnBYmtoG) | [All\-Time Quarterback](https://open.spotify.com/album/7sYACgELhBbaWmOihhIBWp) | 2:00 | 2024-05-30 | 2024-07-12 |
 | [Fall](https://open.spotify.com/track/0vrCyUnCmMcUNGIA5GKgZD) | [Sway](https://open.spotify.com/artist/1bElSTQqO1Vd1pia2t7JeS) | [The Millia Pink And Green](https://open.spotify.com/album/7EHablbY72TGgPQb3FGN9h) | 6:35 | 2024-11-29 | 2024-12-04 |
+| [Fallen Leaves](https://open.spotify.com/track/4u5mES4rljkyCtLOPLCDj1) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Man\-Made](https://open.spotify.com/album/1B0lXu8AkBqJ1Sq02Howa1) | 3:31 | 2024-12-27 |  |
 | [Falling Backwards](https://open.spotify.com/track/3DYTT6HXBesNRtfFYAYVTY) | [Brittle Stars](https://open.spotify.com/artist/6uZBMEZeMcDuBoamJ7wLf5) | [Garage Sale EP + Remixes](https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO) | 1:40 | 2024-01-31 | 2024-03-10 |
 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-18 | 2024-11-14 |
 | [Feeling Sad Tonight](https://open.spotify.com/track/3UKhzKdWIM8vd1qWPxLRkP) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:13 | 2024-11-13 |  |
@@ -144,6 +147,7 @@
 | [Happy](https://open.spotify.com/track/1JGdQ6bAbTShATQV7iZuoB) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Happy](https://open.spotify.com/album/1cu2Otwcl1p9FnnPffqwhA) | 2:19 | 2024-10-08 | 2024-11-14 |
 | [harvest sky \(feat\. underscores\)](https://open.spotify.com/track/2YSnAdcIXpvVkAQoXlbe8q) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky / obvious](https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz) | 3:53 | 2024-10-18 | 2024-11-14 |
 | [Haunted Disco](https://open.spotify.com/track/6qeEKqQXu4ekJT0tjO3ARS) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [PAST FUTUR.e](https://open.spotify.com/album/7C3ISPfAyp060oOmvm0MPb) | 1:56 | 2024-05-30 | 2024-07-12 |
+| [Hawaiian Baby](https://open.spotify.com/track/0eyCLfTyf1KBwOFIBQaIUC) | [The Spinanes](https://open.spotify.com/artist/6lz8TrJesUMdGhKoyXTTda) | [Imp Years](https://open.spotify.com/album/1AbStfXk1A6n70yhAd9oZL) | 5:45 | 2024-12-27 |  |
 | [Hazme Una Señal](https://open.spotify.com/track/4k2PtVkqKaYp9OJbONyY0z) | [Los Blue Notes](https://open.spotify.com/artist/4DKzUVq1Xy2lmJpmbk2Ko0) | [El Disco de Oro](https://open.spotify.com/album/62F6M8ycdmteffdyWJnZxZ) | 2:15 | 2024-08-19 | 2024-09-08 |
 | [Hey, Hey Girl](https://open.spotify.com/track/0yKDswdkUhrD1FlI7OaXfe) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:15 | 2024-04-03 | 2024-05-16 |
 | [Hidden Glow](https://open.spotify.com/track/712k1F2RhljxhqVAVRlvnv) | [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Daniel Dor](https://open.spotify.com/artist/1MKHZ2XG5GkCmLK7VMGjIZ) | [The Garden Suite](https://open.spotify.com/album/0UccFpMfqmge5fNISVNHdH) | 2:14 | 2024-12-09 |  |
@@ -323,6 +327,7 @@
 | [Signs](https://open.spotify.com/track/7epmAvoQHWEXQKkESieryn) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Cardinal](https://open.spotify.com/album/5j2btF2YP9WdNBo7ZKPEtH) | 2:19 | 2024-04-05 | 2024-05-16 |
 | [Silver](https://open.spotify.com/track/6zJu9qqwSxx1aPnqQmdAlv) | [Astra King](https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn) | [Silver](https://open.spotify.com/album/1HLmtzoF0ZGdY2iSiCvP3y) | 2:39 | 2024-01-05 | 2024-03-10 |
 | [Silver & Ice](https://open.spotify.com/track/4vD1bLq7iLPbTVPXNvpahV) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [Cafe Tom Tom](https://open.spotify.com/album/3QYiKVuV0VrOhh2iJavzjN) | 1:50 | 2024-12-09 |  |
+| [Sleeping Satellite](https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR) | [Tasmin Archer](https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1) | [Great Expectations](https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY) | 4:41 | 2024-12-27 |  |
 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 | 2024-04-01 | 2024-05-16 |
 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 | 2024-03-13 | 2024-05-16 |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2024-01-05 | 2024-03-10 |
@@ -382,6 +387,7 @@
 | [Twist With The Morningstars](https://open.spotify.com/track/71rFIZt1BuPzrGwcTBJEJK) | [S.E\. Rogie](https://open.spotify.com/artist/1W8vgcN29v8ChWmlpZQ3Ai) | [The Sounds of S.E\. Rogie](https://open.spotify.com/album/1Ovz1OhylAnhQ2kLf65obf) | 2:22 | 2024-06-28 | 2024-07-12 |
 | [Up Er Mei](https://open.spotify.com/track/1N7oGtGMR3GzIN1WpcS62z) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Hourglass](https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi) | 3:46 | 2024-03-25 | 2024-05-16 |
 | [Vampire in the Corner](https://open.spotify.com/track/6O6VDSgm7Cxrk7kIJhyIFo) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:22 | 2024-09-20 | 2024-11-14 |
+| [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 | 2024-12-28 |  |
 | [Virtual You](https://open.spotify.com/track/5TAlGe3sXWSYHuVEbrwN2W) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Virtual You](https://open.spotify.com/album/4qgvcFgjKdcLQRcgd12DNo) | 2:08 | 2024-09-07 | 2024-11-14 |
 | [Walkin'](https://open.spotify.com/track/2Ll9VtmKPqyA09NnNEO6r7) | [Patti Whipp](https://open.spotify.com/artist/5eZRV1fHID81uBDkgQbofh) | [Walkin' b/w It's Gone](https://open.spotify.com/album/0zrnvbumoAzMEUHRbfNBwN) | 2:34 | 2024-03-09 | 2024-05-16 |
 | [Was That Love](https://open.spotify.com/track/4Cu7qmICfQ3fXSzhEt9k1C) | [Ryan Power](https://open.spotify.com/artist/1Q3vyHmUHwacqnLGstlLMS) | [World of Wonder](https://open.spotify.com/album/4uel1amT8AA4wHOsju2kCS) | 3:50 | 2024-06-20 | 2024-07-12 |

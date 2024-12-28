@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: State Champs",
-  "num_followers": 586791,
+  "num_followers": 586833,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Greener (with Mitchell Tenpenny)",
-        "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 175566,
-      "name": "Greener (with Mitchell Tenpenny)",
-      "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "Greener (with Mitchell Tenpenny)",
+        "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 175566,
+      "name": "Greener (with Mitchell Tenpenny)",
+      "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Make It All Right",
-        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "tragic love songs to study to [vol. 5]",
         "url": "https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "State Champs",
-        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
       "artists": [
         {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 142103,
-      "name": "Hell Of It",
-      "url": "https://open.spotify.com/track/2IjfQ3eNFUORnBVxYaxVEt"
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -503,6 +487,22 @@
       "duration_ms": 219035,
       "name": "MOTH KIDS",
       "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "State Champs",
+        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 142103,
+      "name": "Hell Of It",
+      "url": "https://open.spotify.com/track/2IjfQ3eNFUORnBVxYaxVEt"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Walk This World With Me",
         "url": "https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 208640,
       "name": "Watch The Fire",
       "url": "https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "analysis paralysis",
-        "url": "https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 146746,
-      "name": "aftermath/afterthought",
-      "url": "https://open.spotify.com/track/6MrfKGnxHAcWhIta38sliG"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Certified Depressant",
         "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 200981,
       "name": "Everything Sucks",
       "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "analysis paralysis",
+        "url": "https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 146746,
+      "name": "aftermath/afterthought",
+      "url": "https://open.spotify.com/track/6MrfKGnxHAcWhIta38sliG"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Surgery",
-        "url": "https://open.spotify.com/album/16JRTDMzUqQfOe3GwaoWgs"
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
       },
       "artists": [
         {
-          "name": "Driveways",
-          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
         }
       ],
-      "duration_ms": 211547,
-      "name": "Surgery",
-      "url": "https://open.spotify.com/track/6Piul7Qx0kKlYVx0Gil0t3"
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "cherry cigarettes",
-        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
+        "name": "Surgery",
+        "url": "https://open.spotify.com/album/16JRTDMzUqQfOe3GwaoWgs"
       },
       "artists": [
         {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+          "name": "Driveways",
+          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
         }
       ],
-      "duration_ms": 138133,
-      "name": "cherry cigarettes",
-      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
+      "duration_ms": 211547,
+      "name": "Surgery",
+      "url": "https://open.spotify.com/track/6Piul7Qx0kKlYVx0Gil0t3"
     },
     {
       "added_at": "2024-11-18 17:19:05",

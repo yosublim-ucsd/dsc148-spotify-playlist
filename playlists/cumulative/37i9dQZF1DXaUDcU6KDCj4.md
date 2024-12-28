@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  The Weather Station
 
-2,629 songs - 6 day 14 hr 31 min
+2,633 songs - 6 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1189,6 +1189,7 @@
 | [Iris and I](https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Iris and I](https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1) | 2:45 | 2023-08-11 | 2023-10-07 |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 | 2024-09-28 |
 | [Is It Enough](https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Honest to God](https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT) | 3:37 | 2021-11-19 | 2022-03-18 |
+| [is it love at all?](https://open.spotify.com/track/6UWNP6v8hFXwoM2lYT2I91) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [is it love at all?](https://open.spotify.com/album/1PwuFNJdZhbtH7optCfEw5) | 2:36 | 2024-12-27 |  |
 | [is there still a light on?](https://open.spotify.com/track/5y6psYdUSjFFVTGcN5YqmE) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [is there still a light on?](https://open.spotify.com/album/2yCWy5yUJaVhYnm5wZTCET) | 4:11 | 2024-02-23 | 2024-04-13 |
 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 | 2024-08-09 | 2024-10-12 |
 | [Isle of Strawberries Rediscovered](https://open.spotify.com/track/6LLK4pHldsZ4XycCne29he) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [Isle of Strawberries Rediscovered](https://open.spotify.com/album/0wn62QxYYVVryZIobQFhwK) | 4:35 | 2024-04-26 | 2024-06-22 |
@@ -2001,6 +2002,7 @@
 | [something i can't afford](https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [something I can't afford](https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n) | 3:01 | 2024-05-24 | 2024-07-27 |
 | [Something More Than Love](https://open.spotify.com/track/2bIWLdHHgxq8ZkAQJJVLot) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Something More Than Love](https://open.spotify.com/album/444uQJkRb7F5u4sOOb9xSX) | 3:07 | 2022-05-13 | 2022-07-16 |
 | [Something Somewhere](https://open.spotify.com/track/0TNpdpPVYku8woLJyei3gd) | [Tim Heidecker](https://open.spotify.com/artist/7n5xb6bByE74Aw4ppe858H) | [Slipping Away](https://open.spotify.com/album/05fHCK0KymgCwQctCP10HP) | 4:17 | 2024-10-18 | 2024-12-21 |
+| [Something You're Proud Of \(Crime Television\)](https://open.spotify.com/track/12Tr1yHIdKlMjH9cLJ9Aep) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [After Knowing](https://open.spotify.com/album/2RYDyjVVUog0BOS1VMAEsQ) | 5:43 | 2024-12-27 |  |
 | [Sometimes](https://open.spotify.com/track/0K4EvBjWxaVLuv8k3nQXKj) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sometimes / Tomorrow](https://open.spotify.com/album/1OJMwxD58KaCvmLTaSYiiv) | 2:57 | 2024-03-01 | 2024-04-19 |
 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 | 2024-03-01 | 2024-04-19 |
 | [song about the family house](https://open.spotify.com/track/0HyomNQ2XUVRN3B3UTr1VR) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [song about the family house](https://open.spotify.com/album/2wmMHNLJz0JqdNw8lJ7ypK) | 3:56 | 2023-01-13 | 2023-04-29 |
@@ -2048,6 +2050,7 @@
 | [Stick Around](https://open.spotify.com/track/6KxyG2Z2PxKOl96DEW09or) | [Josh Rouse](https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz) | [Stick Around](https://open.spotify.com/album/4S4mj3cIRFA4wjX9FSYNFi) | 2:34 | 2022-05-20 | 2022-07-02 |
 | [Stick Around](https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 4:32 | 2024-04-05 | 2024-06-08 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-08 | 2022-10-15 |
+| [Sticking Around \(feat\. Ethansroom\)](https://open.spotify.com/track/28xfvB9qT9lvtmIiyr6aQJ) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc), [Ethansroom](https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne) | [Sticking Around \(feat\. Ethansroom\)](https://open.spotify.com/album/248o1ZRre5w4I55KgVRFN6) | 2:49 | 2024-12-27 |  |
 | [Still as the Night](https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Still as the Night](https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa) | 3:17 | 2023-09-08 | 2023-11-11 |
 | [Still Can’t Believe](https://open.spotify.com/track/1qCiSESOXPmjgVeuC6UH3o) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Still Can’t Believe](https://open.spotify.com/album/5F7uDJ4UYbSyqLd1qODIGB) | 3:22 | 2024-03-22 | 2024-05-11 |
 | [Still the One](https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better Now](https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI) | 2:51 | 2024-10-18 |  |
@@ -2295,6 +2298,7 @@
 | [This Little Life](https://open.spotify.com/track/68Qz8WtD9P64IhijpSBmSb) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [This Little Life](https://open.spotify.com/album/3JBeoVTxtH6KIrHV4vKyhW) | 3:18 | 2023-04-28 | 2023-07-08 |
 | [this little lighter of mine](https://open.spotify.com/track/7c5ItJB9cCGme65bA4ifAK) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [this little lighter of mine](https://open.spotify.com/album/7wZwvVVUR933QvJuIvke98) | 3:50 | 2024-10-11 | 2024-12-07 |
 | [This Must Be The Place](https://open.spotify.com/track/66c2mzrZst8gyTRibuwL9O) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tax Code 1: Telepathy of a Mammoth](https://open.spotify.com/album/4ZYeCQonqxWYWGqjmyqRwc) | 4:10 | 2022-05-27 | 2022-06-25 |
+| [This Time Around](https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [This Time Around](https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R) | 3:51 | 2024-12-27 |  |
 | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 | 2022-01-28 | 2022-04-02 |
 | [This Was A Gift](https://open.spotify.com/track/5w5YZThDOGwskczdLV5fel) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [This Was A Gift](https://open.spotify.com/album/2tzMAYElf5FKo1AL5Rrcxw) | 3:22 | 2024-10-04 | 2024-12-07 |
 | [This World's A Giant](https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [This World's A Giant](https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D) | 3:36 | 2024-11-08 |  |

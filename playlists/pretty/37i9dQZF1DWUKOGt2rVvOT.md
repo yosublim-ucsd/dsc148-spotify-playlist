@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 理想混蛋 \(Bestards\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,731 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,776 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 37 | [感情用事](https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:57 |
 | 38 | [11 \(with Hooleeger\)](https://open.spotify.com/track/5eDJH4MfpRQM9S9WTiu7yU) | [隊長](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz), [黃禮格](https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu) | [11 \(with Hooleeger\)](https://open.spotify.com/album/5czo3uMJbR5JWwf9cBm6I9) | 3:54 |
 | 39 | [好不容易 \(《華燈初上》片尾曲\)](https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [好不容易](https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg) | 4:55 |
-| 40 | [嘉賓](https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉賓](https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC) | 5:33 |
+| 40 | [嘉賓](https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi) | [張遠](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉賓](https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC) | 5:33 |
 | 41 | [癡心無名氏](https://open.spotify.com/track/5WeLzVi9RxI22FrvtVKRSW) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [癡心無名氏](https://open.spotify.com/album/2yUoKabXW0fgi0RMxy2eHN) | 3:51 |
 | 42 | [當我變成我們](https://open.spotify.com/track/0llQRKKNRIr7yKtzZOPdcH) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [跳舞在米蘭](https://open.spotify.com/album/73CTYTtgLkPNLFycnNd64I) | 4:10 |
 | 43 | [希望你被这个世界爱着](https://open.spotify.com/track/0gAHXdw7PmB1YWnOEKggcU) | [吕口口](https://open.spotify.com/artist/3Wscg8TgjGseAke9eOrwDC) | [希望你被这个世界爱着](https://open.spotify.com/album/201S9FCOP2b3bjnokMd0Ub) | 3:49 |

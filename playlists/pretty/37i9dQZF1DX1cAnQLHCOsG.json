@@ -1,6 +1,6 @@
 {
   "description": "Pa' las posadas y las fiestas, canciones navide\u00f1as con saz\u00f3n mexa. Banda MS en portada. ",
-  "num_followers": 22805,
+  "num_followers": 22825,
   "original_name": "Navidad M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "El Mix-Tape De Santa",
-        "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 202632,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 186933,
       "name": "Amarga Navidad",
       "url": "https://open.spotify.com/track/1kOWMdlpetd7L5O6AtxtO9"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
+        "name": "El Mix-Tape De Santa",
+        "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 202632,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Navidad Rock",
-        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 127373,
-      "name": "Navidad Rock",
-      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
         "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
         "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 237869,
       "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
+        "name": "Navidad Rock",
+        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 127373,
+      "name": "Navidad Rock",
+      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Eterna Navidad Celebremos",
-        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 143160,
-      "name": "Rodolfo El Reno",
-      "url": "https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 258973,
       "name": "El A\u00f1o Viejo",
       "url": "https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
+        "name": "Eterna Navidad Celebremos",
+        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 143160,
+      "name": "Rodolfo El Reno",
+      "url": "https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Posada Navide\u00f1a",
-        "url": "https://open.spotify.com/album/7bBqs8oFWQQ6BVNYNucv0e"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 154133,
-      "name": "Regalo De Reyes",
-      "url": "https://open.spotify.com/track/022Sf3ByfqLjciFtLZxERa"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
         "name": "Solo en Navidad",
         "url": "https://open.spotify.com/album/2iL2vi5LhRDoGhELR0Wnzi"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 180952,
       "name": "Solo en Navidad",
       "url": "https://open.spotify.com/track/3uLNsNrH9pdQhdDjDRSZ9z"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
+        "name": "Posada Navide\u00f1a",
+        "url": "https://open.spotify.com/album/7bBqs8oFWQQ6BVNYNucv0e"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 154133,
+      "name": "Regalo De Reyes",
+      "url": "https://open.spotify.com/track/022Sf3ByfqLjciFtLZxERa"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Jingle Bells (Vamos All The Way)",
-        "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Jingle Bells (Vamos All The Way)",
-      "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
         "name": "Pero Lleg\u00f3 la Navidad",
         "url": "https://open.spotify.com/album/5RabM8YMqCDpi8mbCZ0BW2"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Santa Llegara",
-        "url": "https://open.spotify.com/album/44iqHRKHQQOkXl56kTC2cu"
+        "name": "Jingle Bells (Vamos All The Way)",
+        "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
       },
       "artists": [
         {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 170469,
-      "name": "Santa Llegara",
-      "url": "https://open.spotify.com/track/0TTTxVBINwKVx5GeGtFTDR"
+      "duration_ms": 155626,
+      "name": "Jingle Bells (Vamos All The Way)",
+      "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Navidad Para Ti",
-        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
+        "name": "Santa Llegara",
+        "url": "https://open.spotify.com/album/44iqHRKHQQOkXl56kTC2cu"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
-      "url": "https://open.spotify.com/track/7x545dFXOgtfLpXUyjKUoA"
+      "duration_ms": 170469,
+      "name": "Santa Llegara",
+      "url": "https://open.spotify.com/track/0TTTxVBINwKVx5GeGtFTDR"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -1431,6 +1415,22 @@
       "duration_ms": 146400,
       "name": "Ya Viene Nochebuena",
       "url": "https://open.spotify.com/track/1LoZWjMW8UmuZ9tQTWSi0F"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
+        "name": "Navidad Para Ti",
+        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+      "url": "https://open.spotify.com/track/7x545dFXOgtfLpXUyjKUoA"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 197801,
-      "name": "Campanas Navide\u00f1as",
-      "url": "https://open.spotify.com/track/34UR0VBlJPPhTYzuGrYyXW"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
         "name": "Feliz Navidad \"Canciones Navide\u00f1as Para Tu Fiesta\"",
         "url": "https://open.spotify.com/album/2SAqBePzGorNedHqg111dG"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 195266,
       "name": "Navidad Con Mazter",
       "url": "https://open.spotify.com/track/7KXJGcgrpt0WPFNJ13k2OR"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 197801,
+      "name": "Campanas Navide\u00f1as",
+      "url": "https://open.spotify.com/track/34UR0VBlJPPhTYzuGrYyXW"
     },
     {
       "added_at": "2024-12-09 17:47:59",

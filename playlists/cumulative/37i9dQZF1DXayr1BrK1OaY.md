@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-425 songs - 1 day 1 hr 52 min
+426 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Leave With My Love](https://open.spotify.com/track/3fQLLG61qoXyRy3tMWiqbk) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Leave With My Love](https://open.spotify.com/album/3YDbviYPVAnFmWz8C480r7) | 3:36 | 2024-07-12 | 2024-08-03 |
 | [Lençóis \(Love Me\) \- Notre Dame Remix](https://open.spotify.com/track/5eqCFsvNDpNqlRnaq7yYLw) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Lençóis \(Love Me\) \[Notre Dame Remix\]](https://open.spotify.com/album/1PcJTDyhWQ0zIvl5gbFPfZ) | 5:04 | 2023-09-01 | 2024-08-17 |
 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 | 2024-01-12 |  |
-| [Letting Go](https://open.spotify.com/track/17mK2SoypJm9tEiuD2Ngki) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Letting Go](https://open.spotify.com/album/0BbleXiZyv90RtecWWhcyE) | 4:14 | 2024-09-13 |  |
+| [Letting Go](https://open.spotify.com/track/17mK2SoypJm9tEiuD2Ngki) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Letting Go](https://open.spotify.com/album/0BbleXiZyv90RtecWWhcyE) | 4:14 | 2024-09-13 | 2024-12-28 |
 | [life gets hard \- Edit](https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [life gets hard \(Edit\)](https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs) | 2:35 | 2024-01-12 | 2024-09-22 |
 | [Light](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Light](https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW) | 2:49 | 2024-03-29 |  |
 | [Lights Out](https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Lights Out](https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5) | 3:27 | 2024-05-03 |  |
@@ -388,6 +388,7 @@
 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 | 2021-04-02 | 2023-08-19 |
 | [THERE 4 U](https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [THERE 4 U](https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf) | 3:20 | 2023-11-17 | 2024-11-04 |
 | [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 | 2021-07-30 | 2024-09-07 |
+| [Think I'm Gonna Love U](https://open.spotify.com/track/53d8NXevHZWGFg3l3iXgKm) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI) | [Think I'm Gonna Love U](https://open.spotify.com/album/362YrIeDYd5qEZNsH4Yulf) | 3:56 | 2024-12-27 |  |
 | [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 | 2024-04-12 |  |
 | [Thinking Of U](https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Thinking Of U](https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl) | 2:00 | 2024-01-26 | 2024-11-13 |
 | [This Ain't Real](https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [This Ain't Real](https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D) | 2:45 | 2022-06-17 | 2023-08-26 |

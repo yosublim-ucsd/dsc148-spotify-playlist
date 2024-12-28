@@ -11605,6 +11605,24 @@
     },
     {
       "album": {
+        "name": "Letter to My Mentors",
+        "url": "https://open.spotify.com/album/71Gh5qVvEAlzypH4cjDdws"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Letter to My Mentors",
+      "url": "https://open.spotify.com/track/1kPQKuzvnnHn9aJ6a4pUzV"
+    },
+    {
+      "album": {
         "name": "BRASH DUMMIES",
         "url": "https://open.spotify.com/album/2gaI5fvm0wSI4sn3jVffuw"
       },

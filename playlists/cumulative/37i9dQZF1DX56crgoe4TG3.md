@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Lukas Nelson & Sierra Ferrell
 
-303 songs - 19 hr 46 min
+304 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dark Horse](https://open.spotify.com/track/16IaDwfvdBOFdnUrQuPdfT) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Rhythm and Moo's](https://open.spotify.com/album/5W0SRmCrSDB4ncf86ayv2R) | 4:22 | 2022-05-27 | 2024-04-19 |
 | [Dark Horse](https://open.spotify.com/track/3tcmqEQe8CUmktxtlZPow5) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Rhythm and Moos](https://open.spotify.com/album/7r3AaWzndFKa1PUYrck1RN) | 4:22 | 2021-08-20 |  |
 | [Dead Leaves And The Dirty Ground](https://open.spotify.com/track/3JZteSHBgqZ8T1SWNLr56x) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 3:07 | 2021-08-20 |  |
+| [Defying Gravity](https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm) | [Austin Brown: The Covers](https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36) | [Defying Gravity](https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k) | 3:04 | 2024-12-27 |  |
 | [Desperado](https://open.spotify.com/track/6cFtUeHFvgj8sbCjJQqn7A) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5), [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Desperado](https://open.spotify.com/album/2ronfsFOihh7eRyM0RxhwR) | 3:34 | 2022-02-18 | 2024-01-20 |
 | [Diane](https://open.spotify.com/track/6jjtloIxVfU2xSyi96V5UT) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Diane](https://open.spotify.com/album/7LYMxGkmh3Ex3ioRrbBF5a) | 3:43 | 2022-09-30 | 2023-05-14 |
 | [Dire Wolf \- Bonus Track](https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree \(Deluxe Edition\)](https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6) | 3:32 | 2022-12-02 | 2023-04-15 |

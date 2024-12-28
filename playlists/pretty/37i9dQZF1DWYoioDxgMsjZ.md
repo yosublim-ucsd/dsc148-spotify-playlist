@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,012 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,054 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoioDxgMsjZ.md) - [plain]
 | 49 | [Peeping Thom](https://open.spotify.com/track/75ZG7IyFgbOWO58kqmSBgu) | [TWEAKS](https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn) | [Peeping Thom](https://open.spotify.com/album/1rCXwdTNgqKs2Yl3mta9Y5) | 3:20 |
 | 50 | [MONEY CAN'T BUY](https://open.spotify.com/track/2DxxlaZRW1ShN0B4fthZJ5) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 2:50 |
 
-Snapshot ID: `Z1xTMAAAAAAUEvBYC4fdCYGNRlsR+WqE`
+Snapshot ID: `Z240dwAAAAD8V0bEjxm5ZLx5W2jzENDG`

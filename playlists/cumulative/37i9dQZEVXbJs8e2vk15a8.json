@@ -4622,7 +4622,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 169263,
       "name": "Ay Mamasita",
       "url": "https://open.spotify.com/track/2xPdYKH4tKDThf6p6sqLtD"
@@ -7064,7 +7064,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 185067,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J"
@@ -8844,7 +8844,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 120052,
       "name": "CHAPA",
       "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
@@ -9874,7 +9874,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "COLOCARTELO",
       "url": "https://open.spotify.com/track/4xXvGEiTkoaIkOMWa4u3Mn"
@@ -13962,6 +13962,24 @@
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
+    },
+    {
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
     },
     {
       "album": {
@@ -19936,7 +19954,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 153230,
       "name": "Guarachera",
       "url": "https://open.spotify.com/track/2WhPCiF5MPmodFY3yd0FdV"
@@ -36212,7 +36230,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 205227,
       "name": "Parte & Choke",
       "url": "https://open.spotify.com/track/69vi5SUSJJF0CQJCZngFFS"
@@ -48542,7 +48560,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"

@@ -2,9 +2,9 @@
 
 ### [O Trap Mais Caro](https://open.spotify.com/playlist/37i9dQZF1DWWr5uieiPUVM)
 
-> e luanna é lá mulher de francesinha, tá tonto?!
+> cabelinho o homem das vinte namoradas
 
-582 songs - 1 day 6 hr 33 min
+583 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Ela é Rica](https://open.spotify.com/track/4GNdIl4x1p4TQU1Q81f7Wq) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Ela é Rica](https://open.spotify.com/album/2NKLcKdxhEWpbRr1xpZaT9) | 3:19 | 2023-09-04 | 2023-10-21 |
 | [ELAS ACHA QUE EU SOU GRINGO](https://open.spotify.com/track/2Xb1ZmF2bsN1llZgdgr4Ag) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A) | [ELAS ACHA QUE EU SOU GRINGO](https://open.spotify.com/album/3iFSc9CmYUUJGvi5Xxfjnp) | 3:35 | 2023-06-19 | 2023-07-15 |
 | [Eles Me Odeiam](https://open.spotify.com/track/1fy4FuGMtCkLQ9I8RvnZGC) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Eles Me Odeiam](https://open.spotify.com/album/1EKS7wUt4i7carasrSDo7k) | 3:07 | 2024-10-04 |  |
-| [Eles São Fracos](https://open.spotify.com/track/4ZMkVpeTbQUO2fO6MRd8BQ) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:33 | 2024-11-22 |  |
+| [Eles São Fracos](https://open.spotify.com/track/4ZMkVpeTbQUO2fO6MRd8BQ) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:33 | 2024-11-22 | 2024-12-28 |
 | [Elevador](https://open.spotify.com/track/6h8CDJt88Xzdj5NhCAgWcU) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR) | [Elevador](https://open.spotify.com/album/09MiXbCqSxtV4FMWSgq8AZ) | 3:11 | 2022-11-14 | 2022-11-26 |
 | [Embalo](https://open.spotify.com/track/5cAeyKBtzlQ0EIwPFcIYhT) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Embalo](https://open.spotify.com/album/7gcHlsouDpaTaP1t03ajdj) | 3:05 | 2024-04-26 | 2024-10-05 |
 | [Emoções](https://open.spotify.com/track/35AmaoTQ50SGX7RX9FRWId) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:23 | 2024-11-22 |  |
@@ -256,6 +256,7 @@
 | [Fumaça no Studio](https://open.spotify.com/track/4Yimh4Ut4dskqAJtuuTu0l) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [Nova Moda](https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN) | 2:27 | 2022-06-06 | 2022-12-17 |
 | [Fumaça Quente](https://open.spotify.com/track/7goPqaQ587wr3YRDcWTS1x) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Fumaça Quente](https://open.spotify.com/album/3tH3adqiVwl8tw7WJRAm0n) | 2:25 | 2023-01-31 | 2023-03-14 |
 | [Fundo do Mar](https://open.spotify.com/track/48RydgPQGeoMOxKACypWZa) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 2](https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI) | 3:35 | 2023-07-21 | 2023-08-29 |
+| [Fuso](https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Fuso](https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP) | 1:54 | 2024-12-27 |  |
 | [Fé Blindada](https://open.spotify.com/track/4SE9A7XUL2dXtBL4gnrEPD) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Gênio](https://open.spotify.com/album/7qxeTbMYkfBe8jDdnoIY7m) | 2:58 | 2022-10-21 | 2022-11-22 |
 | [Gato Preto](https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Bem Vindo Natal Mixtape 2](https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr) | 2:16 | 2023-12-01 | 2023-12-23 |
 | [Get It](https://open.spotify.com/track/06MNNrYC8eaHk19Obt57ue) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3) | [Get It](https://open.spotify.com/album/6E6fhBw572CNOe3hEfBH5k) | 2:17 | 2024-07-05 | 2024-09-14 |

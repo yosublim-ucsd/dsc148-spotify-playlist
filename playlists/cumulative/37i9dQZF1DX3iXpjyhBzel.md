@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Drops INA
 
-312 songs - 1 day 6 hr 42 min
+313 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Faz Arder](https://open.spotify.com/track/3I4BzHfreJ5H6aEWokBErB) | [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Faz Arder](https://open.spotify.com/album/2PxsAb7mPbxyvAu9a49M0S) | 1:58 | 2023-09-01 | 2023-10-07 |
 | [Fidelidade](https://open.spotify.com/track/2u8PtILUXbasNdynPbHvYs) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Fidelidade](https://open.spotify.com/album/1KUWEpW2R8syhvrtMswME6) | 4:07 | 2023-06-16 | 2023-07-22 |
 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 | 2024-12-06 |  |
-| [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-09 |  |
+| [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-09 | 2024-12-28 |
 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 | 2022-09-09 | 2024-12-14 |
 | [Fui Comprado \- Na Igreja \- Ao Vivo](https://open.spotify.com/track/1cdtwyTBdz4SkKd3w7OBTV) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Fui Comprado \- Na Igreja \(Ao Vivo\)](https://open.spotify.com/album/6PbZUP9pDOzlvmXN5RcvVh) | 4:12 | 2024-04-26 | 2024-06-22 |
 | [Furioso Amor](https://open.spotify.com/track/5YmCD6XNHTWgQqoxwLGmHG) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt) | [Furioso Amor](https://open.spotify.com/album/5zclhkccExl4v282im0AoW) | 6:51 | 2022-09-09 | 2023-02-04 |
@@ -198,6 +198,7 @@
 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI) | 8:48 | 2023-08-18 |  |
 | [O Nome Dele \- Ao Vivo](https://open.spotify.com/track/44XCyKAb6ECG03AtB6pGUd) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Nome Dele \(Ao Vivo\)](https://open.spotify.com/album/5ECQRS4h6lUUtbcnowpsPu) | 8:05 | 2024-06-21 | 2024-08-10 |
 | [O Não de Deus](https://open.spotify.com/track/6xK9RHuRnNwcnajKUxK1fY) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Pontes, Pt\. 1](https://open.spotify.com/album/55PR3Vpat1axzzvZQ3JzjC) | 3:59 | 2022-11-25 | 2023-01-21 |
+| [O Poder da Oração \(Ao Vivo\)](https://open.spotify.com/track/2sJPK9cbeZ6ScCA3R8MvgB) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [O Poder da Oração \(Ao Vivo\)](https://open.spotify.com/album/3tXpZLOyWPrNxIaiccqr6Y) | 4:47 | 2024-12-27 |  |
 | [O Que Meu Deus Vai Fazer](https://open.spotify.com/track/0NHPfnQMzg0GiwbC4SF2yR) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer](https://open.spotify.com/album/4ehTfzNv75xtNa7t080T8I) | 4:29 | 2022-09-09 | 2023-04-29 |
 | [O Senhor do Tempo](https://open.spotify.com/track/24ZOQHs3222kboGzhlkf5E) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Senhor do Tempo](https://open.spotify.com/album/0BQ9B4eRqL4RS6rfKnGR0R) | 6:18 | 2023-10-06 | 2023-11-20 |
 | [O Senhor é o Meu Pastor \- Ao Vivo](https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Senhor é o Meu Pastor \(Ao Vivo\)](https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx) | 6:21 | 2024-06-28 |  |

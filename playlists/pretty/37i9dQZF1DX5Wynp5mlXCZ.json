@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Jerry Heil",
-  "num_followers": 8614,
+  "num_followers": 8657,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2024",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,18 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "Black Friday (pretty like the sun)",
-        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 145599,
-      "name": "Black Friday (pretty like the sun)",
-      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -443,18 +439,22 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+      "duration_ms": 145599,
+      "name": "Black Friday (pretty like the sun)",
+      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
+        "name": "\u041f\u0456\u0434 \u0433\u0456\u0442\u0430\u0440\u0443",
+        "url": "https://open.spotify.com/album/1GHEI18cT74G1gtwvEkI8J"
+      },
+      "artists": [
+        {
+          "name": "YAKTAK",
+          "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
+        }
+      ],
+      "duration_ms": 179579,
+      "name": "\u041d\u0438\u0436\u0447\u0430 \u0437\u0440\u043e\u0441\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK"
+    },
+    {
+      "added_at": "2024-12-19 22:00:25",
+      "album": {
         "name": "\u0413\u0423\u0411\u0418 \u0423 \u0413\u0423\u0411\u0410\u0425",
         "url": "https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 159000,
       "name": "\u0413\u0423\u0411\u0418 \u0423 \u0413\u0423\u0411\u0410\u0425",
       "url": "https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc"
-    },
-    {
-      "added_at": "2024-12-19 22:00:25",
-      "album": {
-        "name": "\u041f\u0456\u0434 \u0433\u0456\u0442\u0430\u0440\u0443",
-        "url": "https://open.spotify.com/album/1GHEI18cT74G1gtwvEkI8J"
-      },
-      "artists": [
-        {
-          "name": "YAKTAK",
-          "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
-        }
-      ],
-      "duration_ms": 179579,
-      "name": "\u041d\u0438\u0436\u0447\u0430 \u0437\u0440\u043e\u0441\u0442\u043e\u043c",
-      "url": "https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
-        "url": "https://open.spotify.com/album/5Uy1181hlFhtb2NRAiF3Ge"
+        "name": "\u0421\u043e\u043d\u044c, \u0442\u0438 \u0441\u043f\u0438\u0448?",
+        "url": "https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d"
       },
       "artists": [
         {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+          "name": "Nikow",
+          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
         }
       ],
-      "duration_ms": 131419,
-      "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
-      "url": "https://open.spotify.com/track/63tLykrWEz9LzOCBeYKFhS"
+      "duration_ms": 216398,
+      "name": "\u0421\u0443\u0442\u0456\u043d\u043a\u0438",
+      "url": "https://open.spotify.com/track/7v8DeFAYHbfdRZjnlZEv3n"
     }
   ],
   "unique_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2024",

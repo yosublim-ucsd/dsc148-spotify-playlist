@@ -2,7 +2,7 @@
 
 ### [Fresh Gospel Africa](https://open.spotify.com/playlist/37i9dQZF1DWUYchkUpUndG)
 
-> Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj?si=g4dREUaiRiqhyuk97lh8Eg>Uche Agu</a>
+> Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc?si=uroWaMokRceecqiEuQROyg>Celestine Donkor</a>
 
 4,143 songs - 12 day 13 hr 27 min
 

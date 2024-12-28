@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 423 songs - 1 day 2 hr 57 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 428 songs - 1 day 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -431,5 +431,10 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 421 | [Desperate Others](https://open.spotify.com/track/6l81uKx4RM53K8KpyOFMcw) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Desperate Others](https://open.spotify.com/album/2Lt0mEW4Rm53g2UIVYbmfU) | 3:13 |
 | 422 | [Don't Let Go](https://open.spotify.com/track/4EDN1wMNGoDyvkD6QlS8C1) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Don't Let Go](https://open.spotify.com/album/7dZ5Xwp3kmrd7nMpZKrXCM) | 2:40 |
 | 423 | [Happy Hour](https://open.spotify.com/track/051GBUYL8OPi6QZOu1hTDH) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The Last King Of Pop](https://open.spotify.com/album/6KAJNoi7chqjEHaIe1Q8cS) | 2:21 |
+| 424 | [Bodysnatchers](https://open.spotify.com/track/4pWIwnnqx8k01fuF95UMIg) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:02 |
+| 425 | [2 + 2 = 5](https://open.spotify.com/track/4xkcGfpM9RwB4IiQ7yx2dB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:19 |
+| 426 | [Bodys](https://open.spotify.com/track/1Pbs2eCcX9p2onaAvMYvhk) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 6:46 |
+| 427 | [Ode to Viceroy](https://open.spotify.com/track/6WZjjf4mKurHPC5BhdGwet) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:53 |
+| 428 | [Forever](https://open.spotify.com/track/0QpMPiKC7mSKfw9AtoQtNV) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Parties to End](https://open.spotify.com/album/6rKIiNABS4Qu1ldVNxZ0Is) | 3:43 |
 
-Snapshot ID: `AAALhuIAFjkU81B/hThc5QD1h4D6j3Zv`
+Snapshot ID: `AAALi5Bi90nxIUdzXyuNH2F/+RSfuVTd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > The biggest hits in country music\. Cover: Sam Barber
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,236 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,231 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Love You, Miss You, Mean It](https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Love You, Miss You, Mean It](https://open.spotify.com/album/3KhdXmuYsUQZUtd16wVJIE) | 3:21 |
 | 75 | [Drinkin' Buddies](https://open.spotify.com/track/4OlwATEogDh1BfEoWsRpeC) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Drinkin' Buddies](https://open.spotify.com/album/7mf5bckIwzkxhUVpoC6IWN) | 3:17 |
 
-Snapshot ID: `Z2T56gAAAACdksxlLjEw9jpX2seRimDi`
+Snapshot ID: `Z240fAAAAAALHs2PFKLIsHAmZfrUEanr`

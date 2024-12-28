@@ -2,7 +2,7 @@
 
 ### [ESPN Top Plays](https://open.spotify.com/playlist/37i9dQZF1DX45xYefy6tIi)
 
-> J Balvin & ESPN's Top Plays bring "Back to the Rayo" energy, from kick off all the way to the forth quarter.
+> J Balvin & ESPN's Top Plays bring "Back to the Rayo" energy, from kick off all the way to the fourth quarter.
 
 550 songs - 1 day 10 hr 1 min
 

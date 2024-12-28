@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 14303,
+  "num_followers": 14329,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAAAGdwyWFW70P7akL/TrSlQD",
+  "snapshot_id": "Z2ycgAAAAABn8+jjUya/FRSdn27MrYtJ",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Se Solicita",
-      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Beso a Medias",
         "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 233091,
       "name": "Un Beso a Medias",
       "url": "https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Se Solicita",
+      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila (Deluxe)",
-        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Nos Gan\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 203813,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Nos Gan\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00f3mbola",
-        "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "T\u00f3mbola",
-      "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 205120,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00f3mbola",
+        "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "T\u00f3mbola",
+      "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
     },
     {
       "added_at": null,
@@ -787,6 +787,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1CQ9fJeERTkZsX00Hgv9d7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Toda La Chapa",
         "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
       },
@@ -815,42 +851,6 @@
       "duration_ms": 180586,
       "name": "De Lo Que Te Perdiste",
       "url": "https://open.spotify.com/track/3byTwf4E9XF2pe5wQbHhmq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1CQ9fJeERTkZsX00Hgv9d7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
-      },
-      "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
     },
     {
       "added_at": null,

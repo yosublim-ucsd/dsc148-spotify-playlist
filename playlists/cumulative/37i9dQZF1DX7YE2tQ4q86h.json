@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "BEEEP",
+        "url": "https://open.spotify.com/album/1F3oAzwVHXjKG1vXTzXYTg"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "BEEEP",
+      "url": "https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc"
+    },
+    {
+      "album": {
         "name": "Before The Kiss",
         "url": "https://open.spotify.com/album/0MvMidNkXZRLAEtoFbIXTE"
       },
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 136996,
       "name": "BREAKUP SEX",
       "url": "https://open.spotify.com/track/3BITJcEONbojn6i11mNvi3"

@@ -545,28 +545,6 @@
     },
     {
       "album": {
-        "name": "Defil\u00e9 de mot",
-        "url": "https://open.spotify.com/album/5EVKpHyGlWwiBHEi1JZTS1"
-      },
-      "artists": [
-        {
-          "name": "Mokless",
-          "url": "https://open.spotify.com/artist/33T5kdoVSK7Vg5DXquJluL"
-        },
-        {
-          "name": "Scred Connexion",
-          "url": "https://open.spotify.com/artist/5ZtIEcmzQosu8SDKWgwc86"
-        }
-      ],
-      "date_added": "2024-12-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199850,
-      "name": "Defil\u00e9 de mot",
-      "url": "https://open.spotify.com/track/69p51DcIenizcU1d5WExxE"
-    },
-    {
-      "album": {
         "name": "Dyonysos",
         "url": "https://open.spotify.com/album/7olzc11baB7DKtJLph5WB2"
       },
@@ -586,6 +564,28 @@
       "duration_ms": 185493,
       "name": "Dyonysos",
       "url": "https://open.spotify.com/track/5B9gm49biFFkSkNfxfrx2y"
+    },
+    {
+      "album": {
+        "name": "D\u00e9fil\u00e9 de mots",
+        "url": "https://open.spotify.com/album/5EVKpHyGlWwiBHEi1JZTS1"
+      },
+      "artists": [
+        {
+          "name": "Mokless",
+          "url": "https://open.spotify.com/artist/33T5kdoVSK7Vg5DXquJluL"
+        },
+        {
+          "name": "Scred Connexion",
+          "url": "https://open.spotify.com/artist/5ZtIEcmzQosu8SDKWgwc86"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199850,
+      "name": "D\u00e9fil\u00e9 de mots",
+      "url": "https://open.spotify.com/track/69p51DcIenizcU1d5WExxE"
     },
     {
       "album": {

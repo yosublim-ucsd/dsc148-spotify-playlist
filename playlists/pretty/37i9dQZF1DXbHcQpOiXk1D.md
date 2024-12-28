@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,542 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,618 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 44 | [When It Comes Together](https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [When It Comes Together](https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic) | 3:08 |
 | 45 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 |
 | 46 | [Jela Kubwa Na Viboko](https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K) | [Franck Biyong](https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E) | [Radio Masoda](https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo) | 4:51 |
-| 47 | [All Black Everything](https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [All Black Everything](https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng) | 5:06 |
-| 48 | [Why Are You?](https://open.spotify.com/track/7oMl1XtvJiBVsMDiaQeUW8) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Why Are You](https://open.spotify.com/album/5hTGwd8l6tWvdlkLgHwVg5) | 3:07 |
+| 47 | [Why Are You?](https://open.spotify.com/track/7oMl1XtvJiBVsMDiaQeUW8) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Why Are You](https://open.spotify.com/album/5hTGwd8l6tWvdlkLgHwVg5) | 3:07 |
+| 48 | [All Black Everything](https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [All Black Everything](https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng) | 5:06 |
 | 49 | [Honest Mistake](https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Honest Mistake](https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t) | 3:47 |
 | 50 | [Actress](https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Actress](https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx) | 3:58 |
 | 51 | [Lagô](https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c) | [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [Lagô](https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD) | 2:36 |
-| 52 | [Decay](https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Amika Quartet](https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX) | [Recurring \(Live At King's Place\)](https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y) | 5:20 |
-| 53 | [High Up](https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC), [Meduulla](https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW) | [High Up](https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF) | 3:07 |
+| 52 | [High Up](https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC), [Meduulla](https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW) | [High Up](https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF) | 3:07 |
+| 53 | [Decay](https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Amika Quartet](https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX) | [Recurring \(Live At King's Place\)](https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y) | 5:20 |
 | 54 | [Dumplings For Dinner](https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn) | [After 'Ours](https://open.spotify.com/artist/7JnGevVxOXRg943gbT6pN0), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Dumplings For Dinner](https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep) | 6:44 |
 | 55 | [dance tonight](https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24) | [dance tonight](https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P) | 2:45 |
 | 56 | [Vienna](https://open.spotify.com/track/5qjJraZSwr6t5Np2vQbDjf) | [Romain Axisa](https://open.spotify.com/artist/0fD0vte7xBaEjDkxPsSQsW) | [Unchained Melodies Vol\. 1](https://open.spotify.com/album/2edsxQdf0FGniP6b51BiXE) | 2:56 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 67 | [Don't Wait Too Long](https://open.spotify.com/track/6bYPgYBo2joNEdvTbKERLA) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Don’t Wait Too Long](https://open.spotify.com/album/0fz3FJVabxmF2wr7eIrUO4) | 3:51 |
 | 68 | [Love of Mine](https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Here Today Gone Tomorrow](https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ) | 6:26 |
 | 69 | [More Than This](https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [More Than This](https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp) | 3:42 |
-| 70 | [If I Have to Change](https://open.spotify.com/track/6sBHJyktb4PAbrQ2lj3w9T) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [If I Have to Change](https://open.spotify.com/album/0TuZUq16Z7K84CQ3H8xNEp) | 3:56 |
-| 71 | [Mardy](https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Mardy](https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC) | 2:43 |
+| 70 | [Mardy](https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Mardy](https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC) | 2:43 |
+| 71 | [If I Have to Change](https://open.spotify.com/track/6sBHJyktb4PAbrQ2lj3w9T) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [If I Have to Change](https://open.spotify.com/album/0TuZUq16Z7K84CQ3H8xNEp) | 3:56 |
 | 72 | [In The Garden](https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII), [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [In The Garden](https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp) | 4:40 |
-| 73 | [Love Is Like A Movie](https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [Judi Jackson](https://open.spotify.com/artist/6cc4nTPbOmmi0oWqMKL6fU) | [Who We Are](https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz) | 4:34 |
-| 74 | [Inner City Blues](https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Sweet Whispers: Celebrating Sarah Vaughan](https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO) | 4:39 |
-| 75 | [Ligurian Storm](https://open.spotify.com/track/3hrZ9B3BaaBhkttn4WbBy1) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [Letting Go of Forever](https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj) | 3:16 |
+| 73 | [Inner City Blues](https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Sweet Whispers: Celebrating Sarah Vaughan](https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO) | 4:39 |
+| 74 | [Ligurian Storm](https://open.spotify.com/track/3hrZ9B3BaaBhkttn4WbBy1) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [Letting Go of Forever](https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj) | 3:16 |
+| 75 | [Love Is Like A Movie](https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [Judi Jackson](https://open.spotify.com/artist/6cc4nTPbOmmi0oWqMKL6fU) | [Who We Are](https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz) | 4:34 |
 
 Snapshot ID: `Z0kEAAAAAAA4bjp84qcMNUT20bxszaz9`

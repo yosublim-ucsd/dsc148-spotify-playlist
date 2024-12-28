@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,844 likes - 56 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,870 likes - 56 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 55 | [X Ray Eyes feat\. Kelley Polar \- John Tejada Remix Instrumental](https://open.spotify.com/track/27n0nFgQ2LSk9C1wd79qy8) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [X Ray Eyes](https://open.spotify.com/album/7MTRcAsQsOQRsV6Blu9t7e) | 7:38 |
 | 56 | [No Needs](https://open.spotify.com/track/7tFv80sgIlG5dxHcRkokfu) | [Trancefeld](https://open.spotify.com/artist/2L6CduIF94lKZsthnB1ZFB) | [Kemik](https://open.spotify.com/album/21o5Kv6D8huohTbBVZblBL) | 6:42 |
 
-Snapshot ID: `ZzydLgAAAAAF559K73cR4lDw7+pn3pS7`
+Snapshot ID: `Z240fQAAAACnBaddtm82hr+UHtBoUBMn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🪩🪩🪩🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,550 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,536 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 47 | [hva om jeg slutta å bry meg](https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [hva om jeg slutta å bry meg](https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b) | 3:06 |
 | 48 | [Sjarmør \(Beepolar\)](https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Sjarmør \(Beepolar\)](https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD) | 2:43 |
 | 49 | [VENNELØS](https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [BRENTE BROER](https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0) | 1:54 |
-| 50 | [players \(feat\. Ari Bajgora\)](https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [players \(feat\. Ari Bajgora\)](https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs) | 2:31 |
+| 50 | [Zanotti](https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 4:26 |
 
 Snapshot ID: `Z2SlpAAAAACnkntRH4AjKoBZG02Ov/Gx`

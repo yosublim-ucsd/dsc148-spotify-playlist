@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Veces Casi",
+        "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180163,
+      "name": "A Veces Casi",
+      "url": "https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj"
+    },
+    {
+      "album": {
         "name": "Las Ligas Menores",
         "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
       },
@@ -1940,6 +1958,24 @@
       "duration_ms": 221379,
       "name": "DUALIDAD",
       "url": "https://open.spotify.com/track/76WuaMpuaOakgK6yw6ZDRh"
+    },
+    {
+      "album": {
+        "name": "duele",
+        "url": "https://open.spotify.com/album/7cY2dHWWwVNQsy9p9Z309n"
+      },
+      "artists": [
+        {
+          "name": "Bruno Pinto",
+          "url": "https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "duele",
+      "url": "https://open.spotify.com/track/2yrNQZingUajMAiVdsSWQD"
     },
     {
       "album": {
@@ -5545,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "Potra al Piano",
+        "url": "https://open.spotify.com/album/39IiI16vrMXz85wT7u5Nyp"
+      },
+      "artists": [
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200163,
+      "name": "Te Miento - Al Piano",
+      "url": "https://open.spotify.com/track/1cPyKHSbPoQ0RNOEwuaugN"
+    },
+    {
+      "album": {
         "name": "te vas a lamentar :'(",
         "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
       },
@@ -5996,6 +6050,24 @@
       "duration_ms": 214268,
       "name": "Un \u00c1ngel Para Tu Soledad",
       "url": "https://open.spotify.com/track/0paoacUiJg3KaJWI4UQeQm"
+    },
+    {
+      "album": {
+        "name": "Una Mira En Mi Cuello",
+        "url": "https://open.spotify.com/album/4KPPqQr0dXD9zBkh4X0u99"
+      },
+      "artists": [
+        {
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "Una Mira En Mi Cuello",
+      "url": "https://open.spotify.com/track/5ZBJg95EaCiSq9WrTMEYLN"
     },
     {
       "album": {

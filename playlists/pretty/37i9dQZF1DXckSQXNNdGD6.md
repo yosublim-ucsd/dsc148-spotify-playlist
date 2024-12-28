@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Ojete Calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,273 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,281 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 28 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 |
 | 29 | [Humedad Valenciana](https://open.spotify.com/track/47Nkil9fb7rBt0cxda2HbP) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [Humedad Valenciana](https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC) | 2:58 |
 | 30 | [CamGirl >.< !!!](https://open.spotify.com/track/1YjC6CQDXwFGKUxXbIlYvf) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [CamGirl >.< !!!](https://open.spotify.com/album/53Pgsw3hhBWaiNcloEWovO) | 2:35 |
-| 31 | [So Cute](https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [So Cute](https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz) | 2:20 |
-| 32 | [La Magia de Tu Melena](https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [La Magia de Tu Melena](https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw) | 3:06 |
+| 31 | [La Magia de Tu Melena](https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [La Magia de Tu Melena](https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw) | 3:06 |
+| 32 | [So Cute](https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [So Cute](https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz) | 2:20 |
 | 33 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 |
 | 34 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 |
 | 35 | [dos sombras](https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [dos sombras](https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw) | 2:57 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 45 | [Backstage](https://open.spotify.com/track/4YkHQLQxlhNNrvASynXrU2) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [No hay nada más de vampiro que tener unos primos en Portugal](https://open.spotify.com/album/2GeDiM6fRg4HAr7ipdtrLq) | 2:42 |
 | 46 | [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 |
 | 47 | [Kandinsky \(Rencor\)](https://open.spotify.com/track/5ukZjGNnjnfc75tDlofiYr) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [VendettaBeats\_](https://open.spotify.com/artist/1evGGiRZmXK379IxR4NI8V) | [Kandinsky \(Rencor\)](https://open.spotify.com/album/40Jb3gCCaQTigGUHDpJInV) | 2:09 |
-| 48 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 |
-| 49 | [De Resaca](https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB) | [Martta Sanz](https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq) | [De Resaca](https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO) | 2:38 |
+| 48 | [De Resaca](https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB) | [Martta Sanz](https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq) | [De Resaca](https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO) | 2:38 |
+| 49 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 |
 | 50 | [ASTUTA](https://open.spotify.com/track/6mNlvsPSYm8xQ24fORjpyN) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ASTUTA](https://open.spotify.com/album/0GKzP509sadnEWkbzSnrKm) | 2:50 |
 
 Snapshot ID: `Z1BuqgAAAAD2iXGesDPNk+xSwKPV7NTr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,207 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,205 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 17 | [Guilty Night, Guilty Kiss!](https://open.spotify.com/track/7LZRj9JzVDBrwV0Uxtjnba) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 4:07 |
 | 18 | [ファボタージュ](https://open.spotify.com/track/2psUQr8PonQhzP4t7XHv8G) | [You Watanabe \(CV: Shuka Saito\)](https://open.spotify.com/artist/4Xu7KIJcGf3HjxUFiObdcL), [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [Ruby Kurosawa \(CV: Ai Furihata\)](https://open.spotify.com/artist/6xjmmhxHFSi5eDJCuTna0B) | [わーいわいわい わいわいわい！](https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4) | 3:36 |
 | 19 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 |
-| 20 | [恋になりたいAQUARIUM](https://open.spotify.com/track/3nxrLaPGlW1EsAWn23bcPX) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [恋になりたいAQUARIUM](https://open.spotify.com/album/45b6rybZSrauqudZ4QYqQK) | 5:08 |
+| 20 | [WATER BLUE NEW WORLD](https://open.spotify.com/track/31ENXtNQYS0xIOOmb3Ogjc) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [WATER BLUE NEW WORLD/WONDERFUL STORIES](https://open.spotify.com/album/6piMsWNiFJ3z6VNVUiRtUG) | 5:43 |
 | 21 | [トリコリコPLEASE!!](https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 3:47 |
 | 22 | [決めたよHand in Hand](https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:26 |
 | 23 | [コワレヤスキ](https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 5:02 |
 | 24 | [涙が雪になる前に](https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6) | [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6), [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:23 |
-| 25 | [WATER BLUE NEW WORLD](https://open.spotify.com/track/31ENXtNQYS0xIOOmb3Ogjc) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [WATER BLUE NEW WORLD/WONDERFUL STORIES](https://open.spotify.com/album/6piMsWNiFJ3z6VNVUiRtUG) | 5:43 |
+| 25 | [恋になりたいAQUARIUM](https://open.spotify.com/track/3nxrLaPGlW1EsAWn23bcPX) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [恋になりたいAQUARIUM](https://open.spotify.com/album/45b6rybZSrauqudZ4QYqQK) | 5:08 |
 | 26 | [Lonely Snow Planet](https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:15 |
 | 27 | [夜空はなんでも知ってるの?](https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [元気全開DAY! DAY! DAY!](https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt) | 4:38 |
 | 28 | [もっとね!](https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY) | [松浦果南 \(CV.諏訪ななか\) from Aqours](https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i) | [LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album 〜さかなかなんだか?〜](https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG) | 3:49 |

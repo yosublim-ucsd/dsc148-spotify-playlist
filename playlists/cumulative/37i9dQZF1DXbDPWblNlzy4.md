@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Greeicy
 
-394 songs - 20 hr 46 min
+395 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bareto y Chanel](https://open.spotify.com/track/002nPmx72z53AYh3ysujMM) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Bareto y Chanel](https://open.spotify.com/album/4REtrl2A9VxJiL2Aeszilp) | 3:22 | 2024-07-26 |  |
 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 | 2023-03-17 | 2023-08-19 |
 | [Besito en la Boca](https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V), [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Besito en la Boca](https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk) | 4:11 | 2023-03-31 | 2023-04-29 |
+| [BESITOS DULCES](https://open.spotify.com/track/44xqs8Z1S0YSkJSDZ59KMM) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [ANDY ALASKA](https://open.spotify.com/artist/4Khd0aexSTIiryfokru56l) | [BESITOS DULCES](https://open.spotify.com/album/6tpnJnYTgfnQse2nUdneeo) | 2:22 | 2024-12-27 |  |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-24 | 2023-11-25 |
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-01 | 2024-03-09 |
 | [Bilingües](https://open.spotify.com/track/6euS235KVmpywN68iAVM9j) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Bilingües](https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq) | 2:54 | 2024-05-10 | 2024-12-07 |
@@ -283,7 +284,7 @@
 | [ojos\. labios\. cara.](https://open.spotify.com/track/0Ont2OoEaOYF9BYeSIhaFT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ojos\. labios\. cara.](https://open.spotify.com/album/1CTsEbkffQZulUwUZKzmCX) | 2:53 | 2023-10-27 | 2024-04-20 |
 | [Olvidar el Presente](https://open.spotify.com/track/3Pc3D0Jh3PjFV8WWGZhKEo) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Olvidar el Presente](https://open.spotify.com/album/0SqlVnRPAInamcc1cxLWvq) | 2:37 | 2024-10-25 | 2024-11-23 |
 | [Otra Canción](https://open.spotify.com/track/5PjsROhhpXFTnjhAeTd2OB) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [Otra Canción](https://open.spotify.com/album/6z6fclMwLj1Q2CxFxHGp1q) | 3:36 | 2024-07-26 |  |
-| [Otro Final](https://open.spotify.com/track/3wEVOk8qt7BawAes7YoMgI) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Otro Final](https://open.spotify.com/album/051Hs4BptjBO9GoPoQvLAs) | 3:46 | 2024-12-13 |  |
+| [Otro Final](https://open.spotify.com/track/3wEVOk8qt7BawAes7YoMgI) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Otro Final](https://open.spotify.com/album/051Hs4BptjBO9GoPoQvLAs) | 3:46 | 2024-12-13 | 2024-12-28 |
 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 | 2023-05-05 | 2023-11-25 |
 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 | 2024-04-26 |  |
 | [Palpita](https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Palpita](https://open.spotify.com/album/603fRSffKcKusaqnmhXos5) | 2:31 | 2023-09-01 | 2023-10-07 |

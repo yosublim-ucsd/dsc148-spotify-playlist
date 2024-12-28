@@ -4,7 +4,7 @@
 
 > Grandes hits do BR e do 🌎 / Foto: IZA
 
-349 songs - 17 hr 1 min
+350 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 | 2023-05-02 | 2023-09-16 |
 | [Controllah \(feat\. MC Bin Laden\)](https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:30 | 2023-03-02 | 2023-04-18 |
 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 | 2022-12-13 | 2024-02-03 |
-| [Corações de Pedra](https://open.spotify.com/track/6l82v8lFlguhAHNQrI80iU) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [No Escuro,](https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt) | 2:26 | 2024-12-06 |  |
+| [Corações de Pedra](https://open.spotify.com/track/6l82v8lFlguhAHNQrI80iU) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [No Escuro,](https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt) | 2:26 | 2024-12-06 | 2024-12-28 |
 | [Crack com Mussilon](https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 2:34 | 2024-09-20 | 2024-12-12 |
 | [cria de caxias](https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Cria de Caxias](https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4) | 2:07 | 2024-09-06 |  |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-07-29 | 2023-07-27 |
@@ -212,6 +212,7 @@
 | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/track/3JFB72hbbt3zy30puJTc3q) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/album/4rQEAhGCxPJFlkJGymvmyz) | 9:39 | 2022-07-01 | 2022-08-20 |
 | [Melhor Só](https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Melhor Só](https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ) | 3:49 | 2023-04-13 | 2023-11-18 |
 | [Melhor Vibe](https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Melhor Vibe](https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach) | 5:41 | 2024-04-19 | 2024-05-03 |
+| [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2024-12-27 |  |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-28 | 2022-12-14 |
 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 | 2023-10-20 | 2024-02-23 |
 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 | 2023-04-13 | 2023-10-14 |

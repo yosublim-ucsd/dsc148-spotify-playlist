@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-1,039 songs - 2 day 14 hr 44 min
+1,040 songs - 2 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,6 +855,7 @@
 | [Sublimity](https://open.spotify.com/track/0uVxg9G8CwOt5n616PyNHr) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96), [Dim3nsion](https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL), [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY) | [Sublimity](https://open.spotify.com/album/71gvScDXVDD1Qd4Xt1IEM0) | 3:31 | 2024-03-22 |  |
 | [Submerged](https://open.spotify.com/track/5CNvkdpdPfFqHCD4pvj8vZ) | [Bjorn Akesson](https://open.spotify.com/artist/3htrZBhzS3ZS9on1Yjh8LH) | [Submerged](https://open.spotify.com/album/7AEmsOqKSlLZ3gAC8SvLbR) | 3:17 | 2023-02-24 | 2024-02-17 |
 | [Such is Life \- XiJaro & Pitch Remix](https://open.spotify.com/track/3c6XaNCfe0Ah4DOUnCaVjL) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ), [Shanokee](https://open.spotify.com/artist/0SuZYJCD5R9px8LwKkcblh), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Such is Life \(XiJaro & Pitch Remix\)](https://open.spotify.com/album/51xqHvSzyZ4gMfdFQylzJo) | 4:06 | 2023-03-03 | 2023-06-10 |
+| [Sugarphoria](https://open.spotify.com/track/7hT5j60wxz2u9INdnY5FOM) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR) | [Sugarphoria](https://open.spotify.com/album/7k4moiK12J18IGGYUVKy26) | 3:53 | 2024-12-27 |  |
 | [Summer Nights](https://open.spotify.com/track/4u3qSnUgcvwLngzJjKJCCo) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL), [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Believe In Magic](https://open.spotify.com/album/0JcJNBvig3TgsUNJsM3YIY) | 3:27 | 2022-06-10 | 2022-08-27 |
 | [Summer Sound](https://open.spotify.com/track/63YYujTmmNYl0QCJqvtw06) | [Daniel Wanrooy](https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd), [AK](https://open.spotify.com/artist/3h8Rryl61DV4vQhAn1cLVH) | [Summer Sound](https://open.spotify.com/album/3Tt2GvdFe8CDF0FRep8zSJ) | 2:44 | 2023-12-15 |  |
 | [Summer Wonder](https://open.spotify.com/track/0JLuNBAREfShGrwYnfJh7t) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Summer Wonder](https://open.spotify.com/album/34Bwt8Ucu72R0oCDoJVo9u) | 3:24 | 2021-12-17 | 2022-02-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,133 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,144 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 73 | [Faithful Now](https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Faithful Now](https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF) | 3:52 |
 | 74 | [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 |
 | 75 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
-| 76 | [This Is My Song \- Live](https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [Our God Will See Us Through \(Live\)](https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2) | 4:13 |
-| 77 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 |
+| 76 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 |
+| 77 | [This Is My Song \- Live](https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [Our God Will See Us Through \(Live\)](https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2) | 4:13 |
 | 78 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
 | 79 | [This We Know \- Live](https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:43 |
 | 80 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 88 | [My Hope Is In the Blood](https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 4:21 |
 | 89 | [My Victory](https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Passion: Salvation’s Tide Is Rising](https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop) | 4:28 |
 | 90 | [Fall Afresh](https://open.spotify.com/track/3iQdQCjHbi078GjNzsjT2p) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden \(Deluxe Edition\)](https://open.spotify.com/album/7CghLAYoxyGmUiZ10FnGPa) | 5:29 |
-| 91 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
-| 92 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
-| 93 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
-| 94 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 |
+| 91 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
+| 92 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
+| 93 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 |
+| 94 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
 | 95 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
 | 96 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
 | 97 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 98 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 99 | [Take, Eat, Drink \- Live](https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Take, Eat, Drink \(Live\)](https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF) | 4:47 |
-| 100 | [Calvary's Cross](https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [This Is Jesus](https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks) | 5:17 |
+| 100 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 |
 
 Snapshot ID: `ZoNTaQAAAACB4XiDDL5CoaLjy9hoh4X+`

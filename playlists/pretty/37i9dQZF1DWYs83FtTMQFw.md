@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. GloRilla, Don Toliver, Kendrick Lamar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,874 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,309,073 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

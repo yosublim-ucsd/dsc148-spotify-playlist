@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 82755,
+  "num_followers": 82790,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 198189,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "WHERE'S MY VAPE?",
         "url": "https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 200930,
       "name": "My World",
       "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 198189,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
     },
     {
       "added_at": "2024-11-29 00:00:00",

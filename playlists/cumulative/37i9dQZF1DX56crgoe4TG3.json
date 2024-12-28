@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
+      },
+      "artists": [
+        {
+          "name": "Austin Brown: The Covers",
+          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
+    },
+    {
+      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/2ronfsFOihh7eRyM0RxhwR"
       },

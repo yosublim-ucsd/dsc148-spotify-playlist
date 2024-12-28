@@ -4511,6 +4511,32 @@
     },
     {
       "album": {
+        "name": "Skating on the Harbourfront",
+        "url": "https://open.spotify.com/album/0HJBSbUJHtaU1GAOCUYW9s"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        },
+        {
+          "name": "Chris Coole",
+          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
+        },
+        {
+          "name": "John Showman",
+          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166975,
+      "name": "Skating on the Harbourfront",
+      "url": "https://open.spotify.com/track/5Brkc4oQQebavOBIaNMTXS"
+    },
+    {
+      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/5LK9FIIcTQ7mcNq9HoeSzL"
       },
@@ -5191,6 +5217,28 @@
     },
     {
       "album": {
+        "name": "Thrush",
+        "url": "https://open.spotify.com/album/2hTSibmccEFgxMuR69vUKJ"
+      },
+      "artists": [
+        {
+          "name": "Chris Gaertner",
+          "url": "https://open.spotify.com/artist/3Xs4AS81PB3Q9KaX0NxvFo"
+        },
+        {
+          "name": "Tingting Fan",
+          "url": "https://open.spotify.com/artist/0pOEnt9w9reyg0lbBl3nmc"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Thrush",
+      "url": "https://open.spotify.com/track/0nEITeKMKA1emCwEjQwwyc"
+    },
+    {
+      "album": {
         "name": "Til You Come Home",
         "url": "https://open.spotify.com/album/5pWIKDTnZrx0KI2EwBReH5"
       },
@@ -5696,6 +5744,28 @@
       "duration_ms": 236089,
       "name": "West Virginia",
       "url": "https://open.spotify.com/track/7F8UYoDlJFScdSK1ZgPgLO"
+    },
+    {
+      "album": {
+        "name": "Westerlies",
+        "url": "https://open.spotify.com/album/6mwcaYy8eAVUZFcf0kJ4fw"
+      },
+      "artists": [
+        {
+          "name": "Claire Adams",
+          "url": "https://open.spotify.com/artist/39o6tGKwlCskln5qM0avEM"
+        },
+        {
+          "name": "Lyndsay Pruett",
+          "url": "https://open.spotify.com/artist/75XykYGpCSyGOqIXk0uqY0"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210914,
+      "name": "Westerlies",
+      "url": "https://open.spotify.com/track/0seTtS5tYtALQVIJ5UsQeo"
     },
     {
       "album": {

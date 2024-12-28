@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 120,
+  "num_followers": 124,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Moon in the Morning",
-      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "The Sound Experiment - EP",
         "url": "https://open.spotify.com/album/2XtAaXbOyK67vRQbfS2bA4"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Bitter Pill (Deluxe)",
-        "url": "https://open.spotify.com/album/5R6OQpNKov9PdX3dxbpxtp"
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/1bpAGufvAgqEIob4V1k7mP"
+      "duration_ms": 194266,
+      "name": "Moon in the Morning",
+      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 200933,
       "name": "Dear August",
       "url": "https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Bitter Pill (Deluxe)",
+        "url": "https://open.spotify.com/album/5R6OQpNKov9PdX3dxbpxtp"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/1bpAGufvAgqEIob4V1k7mP"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 224701,
       "name": "Open Your Heart",
       "url": "https://open.spotify.com/track/6TRJINYsux28IglskjOSRy"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Love Is Letting Go (feat. Diane Keaton)",
         "url": "https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 154865,
       "name": "Love Is Letting Go (feat. Diane Keaton)",
       "url": "https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0oE9bup0oJzDRbokjpeMzn"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/20mb9SDTZugEbNwU5knL58"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Lay It on Me (Acoustic)",
         "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 201561,
       "name": "Lay It on Me - Acoustic",
       "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0oE9bup0oJzDRbokjpeMzn"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/20mb9SDTZugEbNwU5knL58"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "forever friend",
+        "url": "https://open.spotify.com/album/1rS9qKqnMhytpjPHoiRMux"
+      },
+      "artists": [
+        {
+          "name": "Palmer",
+          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "forever friend",
+      "url": "https://open.spotify.com/track/2zuY0M2PM6VCrJaQWBwkzm"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Funeral (feat. James Bay)",
         "url": "https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 154013,
       "name": "Funeral (feat. James Bay)",
       "url": "https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "forever friend",
-        "url": "https://open.spotify.com/album/1rS9qKqnMhytpjPHoiRMux"
-      },
-      "artists": [
-        {
-          "name": "Palmer",
-          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "forever friend",
-      "url": "https://open.spotify.com/track/2zuY0M2PM6VCrJaQWBwkzm"
     },
     {
       "added_at": "2024-05-24 04:00:00",

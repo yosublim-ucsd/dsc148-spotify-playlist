@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 275983,
+  "num_followers": 276070,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+        "name": "Ring Of Fire: The Best Of Johnny Cash",
+        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
+      "duration_ms": 158426,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Ring Of Fire: The Best Of Johnny Cash",
-        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 158426,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "New Gold Hits",
-        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Dion",
         "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 167160,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "No Place To Hide",
+        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
+      },
+      "artists": [
+        {
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+        }
+      ],
+      "duration_ms": 129758,
+      "name": "It's In The Kiss (The Shoop Shoop Song)",
+      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Summer Days (And Summer Nights) [Remastered]",
         "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 146333,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/6YS9gh6dxp4rYKWk5jjBDC"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "No Place To Hide",
-        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
-      },
-      "artists": [
-        {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
-        }
-      ],
-      "duration_ms": 129758,
-      "name": "It's In The Kiss (The Shoop Shoop Song)",
-      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1459,8 +1459,8 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Circulate (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
+        "name": "Collections",
+        "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
       },
       "artists": [
         {
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
         }
       ],
-      "duration_ms": 157026,
-      "name": "Happy Birthday, Sweet Sixteen",
-      "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
+      "duration_ms": 136266,
+      "name": "Breaking Up Is Hard to Do",
+      "url": "https://open.spotify.com/track/7utoClKnLShFg6u6dZ20gp"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1555,8 +1555,8 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Collections",
-        "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
+        "name": "Circulate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
       },
       "artists": [
         {
@@ -1564,9 +1564,9 @@
           "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
         }
       ],
-      "duration_ms": 136266,
-      "name": "Breaking Up Is Hard to Do",
-      "url": "https://open.spotify.com/track/7utoClKnLShFg6u6dZ20gp"
+      "duration_ms": 157026,
+      "name": "Happy Birthday, Sweet Sixteen",
+      "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Keep On Running",
-        "url": "https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 173973,
-      "name": "Gimme Some Lovin' - Single Mix",
-      "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "More Hits By The Supremes - Expanded Edition",
         "url": "https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 172933,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Keep On Running",
+        "url": "https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "Gimme Some Lovin' - Single Mix",
+      "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "I'm A Man / I Can't Get Enough Of It",
-        "url": "https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 106066,
       "name": "The Hippy Hippy Shake",
       "url": "https://open.spotify.com/track/3CQRcM0crUAiZUf1n51ecD"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "I'm A Man / I Can't Get Enough Of It",
+        "url": "https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU"
     },
     {
       "added_at": "2022-06-16 22:02:00",

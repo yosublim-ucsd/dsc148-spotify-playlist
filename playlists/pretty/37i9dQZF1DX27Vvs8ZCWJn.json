@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 112990,
+  "num_followers": 113108,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-12-12 20:14:21",
       "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Dulcito e Coco",
-      "url": "https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML"
-    },
-    {
-      "added_at": "2023-12-12 20:14:21",
-      "album": {
         "name": "Grandes \u00c9xitos del Boleroglam Vol. 1",
         "url": "https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 233194,
       "name": "Somos Algo",
       "url": "https://open.spotify.com/track/2tGIjytBp6wBcPxiBrDu90"
+    },
+    {
+      "added_at": "2023-12-12 20:14:21",
+      "album": {
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Dulcito e Coco",
+      "url": "https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML"
     },
     {
       "added_at": "2021-12-25 17:56:56",

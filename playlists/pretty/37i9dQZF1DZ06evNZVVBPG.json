@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2553197,
+  "num_followers": 2554013,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAAA6CH4ntdSIVGikTodzOom4",
+  "snapshot_id": "Z2ycgAAAAAAxB+5kQeFwkXw1KvjIOQ/a",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Banisters",
+        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 241426,
+      "name": "Living Legend",
+      "url": "https://open.spotify.com/track/6pZ9Nj3vzj1RW4ZkR9GcQ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 295093,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 215673,
-      "name": "Tulsa Jesus Freak",
-      "url": "https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Banisters",
-        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 241426,
-      "name": "Living Legend",
-      "url": "https://open.spotify.com/track/6pZ9Nj3vzj1RW4ZkR9GcQ9"
+      "duration_ms": 215673,
+      "name": "Tulsa Jesus Freak",
+      "url": "https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC"
     },
     {
       "added_at": null,

@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 177338,
       "name": "Algo Sencillito",
       "url": "https://open.spotify.com/track/3bE8SznOXJ990MK1ElQnfr"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4276,7 +4276,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 139361,
       "name": "ES COMO FAK",
       "url": "https://open.spotify.com/track/5sUbra1c8ZDnD9chdM4cUf"
@@ -5304,7 +5304,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 213528,
       "name": "GRAN V\u00cdA",
       "url": "https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh"
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 222941,
       "name": "Gym Girl",
       "url": "https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb"
@@ -7919,6 +7919,32 @@
     },
     {
       "album": {
+        "name": "Mar y Tierra",
+        "url": "https://open.spotify.com/album/29oG0ZTxPY0z1xIU18fhuS"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+        },
+        {
+          "name": "Dualy",
+          "url": "https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206843,
+      "name": "Lo Real",
+      "url": "https://open.spotify.com/track/6ei0W4T1vFScCTM3UuLrIr"
+    },
+    {
+      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -7996,7 +8022,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 161943,
       "name": "LOS D\u00cdAS CONTADOS",
       "url": "https://open.spotify.com/track/0ffPRT5WW86ecgGWGf5CyY"
@@ -8246,7 +8272,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -8276,7 +8302,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -8928,7 +8954,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 153984,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/7Ldt4IYQBAiw8QzjYP34V6"
@@ -12338,7 +12364,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 167764,
       "name": "SORT DE TU",
       "url": "https://open.spotify.com/track/054BhpaxELmhu24ECqU8un"
@@ -12566,7 +12592,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 348400,
       "name": "Sultans Of Swing",
       "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj"
@@ -12584,7 +12610,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 348760,
       "name": "Sultans of Swing",
       "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"

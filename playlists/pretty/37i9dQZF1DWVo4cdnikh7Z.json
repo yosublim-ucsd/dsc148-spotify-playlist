@@ -1,40 +1,32 @@
 {
-  "description": "New Music from Kollywood.\nCover : Kadhalikka Neramillai",
-  "num_followers": 688093,
+  "description": "New Music from Kollywood.\nCover : Vidaamuyarchi",
+  "num_followers": 688250,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2qOTgAAAACBRuMk2DI3xGgJAWS/RYij",
+  "snapshot_id": "Z25Z1wAAAAD18ZGVrbbkgqmZnZSlmwtU",
   "tracks": [
     {
-      "added_at": "2024-12-18 12:00:41",
+      "added_at": "2024-12-27 07:40:07",
       "album": {
-        "name": "Lavender Neramae (From \"Kadhalikka Neramillai\")",
-        "url": "https://open.spotify.com/album/2BAWcJLZZdlgXwXHu55LhZ"
+        "name": "Sawadeeka (From \"Vidaamuyarchi\")",
+        "url": "https://open.spotify.com/album/3J9YX3ayznkSAV2XecdDzT"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Alexandra Joy",
-          "url": "https://open.spotify.com/artist/3JohY0Ur2mASWnvr1Q6x79"
-        },
-        {
-          "name": "Mashook Rahman",
-          "url": "https://open.spotify.com/artist/72GcNDIG98BhoVp2p01UWS"
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
         }
       ],
-      "duration_ms": 241176,
-      "name": "Lavender Neramae (From \"Kadhalikka Neramillai\")",
-      "url": "https://open.spotify.com/track/7xbT2apFiTQ53sM9tU35D5"
+      "duration_ms": 204413,
+      "name": "Sawadeeka (From \"Vidaamuyarchi\")",
+      "url": "https://open.spotify.com/track/0Vh3jGxKhm9KxzQgnfnIV6"
     },
     {
       "added_at": "2024-12-12 13:59:39",
@@ -91,6 +83,34 @@
       "duration_ms": 247188,
       "name": "Peelings (From \"Pushpa 2 The Rule\") [TAMIL]",
       "url": "https://open.spotify.com/track/20OAzzMq5q3oM6ejboOW0Y"
+    },
+    {
+      "added_at": "2024-12-18 12:00:41",
+      "album": {
+        "name": "Lavender Neramae (From \"Kadhalikka Neramillai\")",
+        "url": "https://open.spotify.com/album/2BAWcJLZZdlgXwXHu55LhZ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Alexandra Joy",
+          "url": "https://open.spotify.com/artist/3JohY0Ur2mASWnvr1Q6x79"
+        },
+        {
+          "name": "Mashook Rahman",
+          "url": "https://open.spotify.com/artist/72GcNDIG98BhoVp2p01UWS"
+        }
+      ],
+      "duration_ms": 241176,
+      "name": "Lavender Neramae (From \"Kadhalikka Neramillai\")",
+      "url": "https://open.spotify.com/track/7xbT2apFiTQ53sM9tU35D5"
     },
     {
       "added_at": "2024-12-20 13:58:59",
@@ -397,22 +417,6 @@
       "url": "https://open.spotify.com/track/16c73UAbvsRjp745PSkMdf"
     },
     {
-      "added_at": "2024-12-18 09:35:10",
-      "album": {
-        "name": "Vanangaan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0PFQFkLYmV0aTo9nE2c6ES"
-      },
-      "artists": [
-        {
-          "name": "Madhu Balakrishnan",
-          "url": "https://open.spotify.com/artist/2qJHWT6Ov9ZZvuQx1h7mNn"
-        }
-      ],
-      "duration_ms": 237551,
-      "name": "Irai Nooru",
-      "url": "https://open.spotify.com/track/3GJkLFrcTfJuPM04EcFgoT"
-    },
-    {
       "added_at": "2024-12-24 10:33:22",
       "album": {
         "name": "Aaga Indha Raathiri - Tamil Version",
@@ -439,26 +443,6 @@
       "duration_ms": 231724,
       "name": "Aaga Indha Raathiri - Tamil Version",
       "url": "https://open.spotify.com/track/1IW4nVmW8fcsSleTwOFDiB"
-    },
-    {
-      "added_at": "2024-12-16 12:53:11",
-      "album": {
-        "name": "Zero Balance Hero (From \"Kudumbasthan\")",
-        "url": "https://open.spotify.com/album/3dZzO9ffGSnzD3qOOidcm3"
-      },
-      "artists": [
-        {
-          "name": "vaisagh",
-          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
-        },
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "Zero Balance Hero - From \"Kudumbasthan\"",
-      "url": "https://open.spotify.com/track/5qjGamXIICu9POmPCa1Z3I"
     },
     {
       "added_at": "2024-08-30 14:04:37",
@@ -543,26 +527,6 @@
       "duration_ms": 292727,
       "name": "Mugilin Meley",
       "url": "https://open.spotify.com/track/26LPkmgujMTneNIeSPLKw1"
-    },
-    {
-      "added_at": "2024-12-20 13:28:50",
-      "album": {
-        "name": "Barroz (Tamil) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/2GFEZ2pEvY0VS6SgIGUsVm"
-      },
-      "artists": [
-        {
-          "name": "Lydian Nadhaswaram",
-          "url": "https://open.spotify.com/artist/730O8ypsgRAy0fDcOf5HiI"
-        },
-        {
-          "name": "Amirthavarshini",
-          "url": "https://open.spotify.com/artist/3Q5fTUuEO3pRkaJqOO9iqx"
-        }
-      ],
-      "duration_ms": 194014,
-      "name": "Bambooziya",
-      "url": "https://open.spotify.com/track/0nkx3h4VzYUanM76do0knB"
     },
     {
       "added_at": "2024-12-10 12:18:24",
@@ -737,30 +701,6 @@
       "url": "https://open.spotify.com/track/0CQ370qUqv9CFblMQZpu2v"
     },
     {
-      "added_at": "2024-12-18 09:35:10",
-      "album": {
-        "name": "Thiru.Manickam",
-        "url": "https://open.spotify.com/album/26hAVCktw5So9YEIkoM7bQ"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Tippu",
-          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
-        },
-        {
-          "name": "Ilango Krishnan",
-          "url": "https://open.spotify.com/artist/58SpQmXPEzBZ5edRGCj8xo"
-        }
-      ],
-      "duration_ms": 224393,
-      "name": "Bommakka",
-      "url": "https://open.spotify.com/track/2Tr3BNvx9gIp8fJGerBfUX"
-    },
-    {
       "added_at": "2024-12-10 11:36:06",
       "album": {
         "name": "Pushpa 2 The Rule [TAMIL]",
@@ -881,34 +821,6 @@
       "url": "https://open.spotify.com/track/3ObyqiaFPBkhk0XlGhwdiz"
     },
     {
-      "added_at": "2024-12-10 12:14:44",
-      "album": {
-        "name": "Dum Dum Kalyanam (From \"Fire\")",
-        "url": "https://open.spotify.com/album/3TPXLIfbOlCu5EcDVTBdqT"
-      },
-      "artists": [
-        {
-          "name": "Madhurakavi",
-          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
-        },
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/0A80SzfrEzNZrCQRNUM14W"
-        },
-        {
-          "name": "Ajay Krishna",
-          "url": "https://open.spotify.com/artist/6csS965kcAhjd1kqHmqN7Q"
-        },
-        {
-          "name": "Dr. Sruthi Kishan",
-          "url": "https://open.spotify.com/artist/4wv2dWvfED56VyHO87l4tx"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Dum Dum Kalyanam (From \"Fire\")",
-      "url": "https://open.spotify.com/track/1ymhtGce6Iv2TyRiW07jPI"
-    },
-    {
       "added_at": "2024-12-18 09:35:10",
       "album": {
         "name": "Thiru.Manickam",
@@ -951,30 +863,6 @@
       "duration_ms": 167191,
       "name": "Amara (From \"Amaran\") (Tamil)",
       "url": "https://open.spotify.com/track/4noDfCtW0SBsCWkRFpUrVv"
-    },
-    {
-      "added_at": "2024-12-11 13:33:02",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4wMNVt7LrNgixdogpG2BkF"
-      },
-      "artists": [
-        {
-          "name": "Gold Devaraj",
-          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
-        },
-        {
-          "name": "Ghibran",
-          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 228114,
-      "name": "Akkaru Bakkaru",
-      "url": "https://open.spotify.com/track/35Tgp1XxssFa9evVdWpbzC"
     },
     {
       "added_at": "2024-11-18 08:06:19",

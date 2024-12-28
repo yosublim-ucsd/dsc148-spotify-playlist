@@ -1,6 +1,6 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Bok Dajin(\ubcf5\ub2e4\uc9c4)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 291311,
+  "num_followers": 291316,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-12-10 07:26:07",
       "album": {
-        "name": "Dear My All",
-        "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Dear My All",
-      "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
-    },
-    {
-      "added_at": "2024-12-10 07:26:07",
-      "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 248835,
       "name": "Only Then",
       "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
+    },
+    {
+      "added_at": "2024-12-10 07:26:07",
+      "album": {
+        "name": "Dear My All",
+        "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Dear My All",
+      "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
     },
     {
       "added_at": "2024-12-10 07:26:07",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-12-10 07:26:07",
       "album": {
-        "name": "Tomorrow - SM STATION",
-        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        }
-      ],
-      "duration_ms": 145360,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
-    },
-    {
-      "added_at": "2024-12-10 07:26:07",
-      "album": {
         "name": "Dear my X",
         "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+    },
+    {
+      "added_at": "2024-12-10 07:26:07",
+      "album": {
+        "name": "Tomorrow - SM STATION",
+        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "duration_ms": 145360,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
     },
     {
       "added_at": "2024-12-10 07:26:07",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-12-10 07:26:07",
       "album": {
-        "name": "vacation",
-        "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
-      },
-      "artists": [
-        {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
-        }
-      ],
-      "duration_ms": 215353,
-      "name": "vacation",
-      "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
-    },
-    {
-      "added_at": "2024-12-10 07:26:07",
-      "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 239866,
       "name": "Saying Hello",
       "url": "https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX"
+    },
+    {
+      "added_at": "2024-12-10 07:26:07",
+      "album": {
+        "name": "vacation",
+        "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "duration_ms": 215353,
+      "name": "vacation",
+      "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
     },
     {
       "added_at": "2024-12-10 07:26:07",

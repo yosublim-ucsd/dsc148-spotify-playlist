@@ -1,6 +1,6 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e buonumore! ",
-  "num_followers": 408489,
+  "num_followers": 408476,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-12-10 22:32:23",
       "album": {
-        "name": "Ora che non ho pi\u00f9 te",
-        "url": "https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 303032,
-      "name": "Ora che non ho pi\u00f9 te",
-      "url": "https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm"
-    },
-    {
-      "added_at": "2024-12-10 22:32:23",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2024-12-10 22:32:23",
+      "album": {
+        "name": "Ora che non ho pi\u00f9 te",
+        "url": "https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 303032,
+      "name": "Ora che non ho pi\u00f9 te",
+      "url": "https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm"
     },
     {
       "added_at": "2024-12-10 22:32:23",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-12-10 22:32:23",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2024-12-10 22:32:23",
-      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "added_at": "2024-12-10 22:32:23",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2024-12-10 22:32:23",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-12-10 22:32:23",
       "album": {
-        "name": "MALAVITA",
-        "url": "https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE"
-      },
-      "artists": [
-        {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
-        }
-      ],
-      "duration_ms": 166725,
-      "name": "MALAVITA",
-      "url": "https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD"
-    },
-    {
-      "added_at": "2024-12-10 22:32:23",
-      "album": {
         "name": "Tick Tock (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
+    },
+    {
+      "added_at": "2024-12-10 22:32:23",
+      "album": {
+        "name": "MALAVITA",
+        "url": "https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE"
+      },
+      "artists": [
+        {
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+        }
+      ],
+      "duration_ms": 166725,
+      "name": "MALAVITA",
+      "url": "https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD"
     },
     {
       "added_at": "2024-12-10 22:32:23",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2024-12-10 22:32:23",
       "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
+        "name": "Sinceramente",
+        "url": "https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
         }
       ],
-      "duration_ms": 213435,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
+      "duration_ms": 215714,
+      "name": "Sinceramente",
+      "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
     }
   ],
   "unique_name": "Caff\u00e8 del Buongiorno",

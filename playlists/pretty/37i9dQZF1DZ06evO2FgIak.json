@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 49147,
+  "num_followers": 49166,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAABcOSfSArOZgI5hyP27I2MU",
+  "snapshot_id": "Z2ycgAAAAAAln+bt8ISyyC/g2ak0XZpt",
   "tracks": [
     {
       "added_at": null,
@@ -479,42 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Checkerboard Lounge",
-        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 660933,
-      "name": "Baby Please Don't Go - Live",
-      "url": "https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoochie Coochie Man: Complete Chess Masters (Vol. 2: 1952-1958)",
-        "url": "https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 149240,
-      "name": "Sugar Sweet - 1955 Single Version",
-      "url": "https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Waltz (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
       },
@@ -535,6 +499,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoochie Coochie Man: Complete Chess Masters (Vol. 2: 1952-1958)",
+        "url": "https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 149240,
+      "name": "Sugar Sweet - 1955 Single Version",
+      "url": "https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At The Checkerboard Lounge",
+        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 660933,
+      "name": "Baby Please Don't Go - Live",
+      "url": "https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 225200,
       "name": "Mean Old Frisco Blues",
       "url": "https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Mad Love (I Want You To Love Me) - Single Version",
+      "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Mad Love (I Want You To Love Me) - Single Version",
-      "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Waltz (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
       },
@@ -607,26 +607,6 @@
       "duration_ms": 400666,
       "name": "Mannish Boy (feat. Muddy Waters) - Concert Version",
       "url": "https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
-        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 259946,
-      "name": "Ring Up - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
-      "url": "https://open.spotify.com/track/2k0UVEOVlCMv3p9MX2jOtv"
     },
     {
       "added_at": null,
@@ -651,6 +631,26 @@
       "duration_ms": 445026,
       "name": "The Red Rooster",
       "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
+        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 277080,
+      "name": "Train Fare Home - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
+      "url": "https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
+        "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "What Is That She Got - Live At Mr. Kelly's/1971",
+      "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -704,25 +720,9 @@
           "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 277080,
-      "name": "Train Fare Home - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
-      "url": "https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
-        "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "What Is That She Got - Live At Mr. Kelly's/1971",
-      "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
+      "duration_ms": 259946,
+      "name": "Ring Up - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
+      "url": "https://open.spotify.com/track/2k0UVEOVlCMv3p9MX2jOtv"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
-        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 284546,
-      "name": "Worried Life Blues - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
-      "url": "https://open.spotify.com/track/56itvurydIT3dgXua4a3zr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 209826,
       "name": "You Can't Judge A Book By Its Cover",
       "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
+        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 284546,
+      "name": "Worried Life Blues - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
+      "url": "https://open.spotify.com/track/56itvurydIT3dgXua4a3zr"
     },
     {
       "added_at": null,

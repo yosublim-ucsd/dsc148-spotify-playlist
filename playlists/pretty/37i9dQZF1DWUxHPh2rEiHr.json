@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Ela Taubert & Joe Jonas ",
-  "num_followers": 498630,
+  "num_followers": 498626,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Joga Bonito",
-        "url": "https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr"
-      },
-      "artists": [
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 124471,
-      "name": "Joga Bonito",
-      "url": "https://open.spotify.com/track/13bPROSNrEszkMcTtX2SHh"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Queen of Kings",
         "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Joga Bonito",
+        "url": "https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 124471,
+      "name": "Joga Bonito",
+      "url": "https://open.spotify.com/track/13bPROSNrEszkMcTtX2SHh"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1959,22 +1959,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Omega (feat. Ralphie Choo)",
-        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
+        "name": "On My Love",
+        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         },
         {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Omega (feat. Ralphie Choo)",
-      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
+      "duration_ms": 222911,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     }
   ],
   "unique_name": "Global X",

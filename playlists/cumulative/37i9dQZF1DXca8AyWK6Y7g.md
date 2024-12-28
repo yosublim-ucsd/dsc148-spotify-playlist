@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> All of my friends are hot, hot, hot! cover: Beth McCarthy
+> I told my mother what you did! cover: beabadoobee
 
-2,259 songs - 4 day 17 hr 41 min
+2,262 songs - 4 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [First Time](https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:14 | 2021-10-11 | 2021-10-14 |
 | [First Time](https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [First Time](https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6) | 2:33 | 2024-06-14 | 2024-08-21 |
 | [First To Go](https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [First To Go](https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl) | 2:53 | 2024-02-23 | 2024-05-18 |
+| [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 | 2024-12-27 |  |
 | [Flight](https://open.spotify.com/track/2goIwdUEmzggwr7pAiK6CL) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Flight](https://open.spotify.com/album/4GFi5MclhdI9SShAu6w3ls) | 3:06 | 2019-09-27 | 2021-05-09 |
 | [Flight](https://open.spotify.com/track/5QKcEj7uhcOG9xeKIV5I5B) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Flight](https://open.spotify.com/album/4jKwV2mPQqqyNPXiEYKux1) | 3:06 | 2019-09-14 | 2020-01-16 |
 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 | 2023-02-03 | 2023-09-16 |
@@ -1072,7 +1073,7 @@
 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 | 2023-05-05 | 2023-07-01 |
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
 | [Jane Doe](https://open.spotify.com/track/0YHHVezUoKC10MtiLUliqx) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Jane Doe](https://open.spotify.com/album/4dtUttZLZbbkp6cN52zDy2) | 2:44 | 2022-11-11 | 2023-01-28 |
-| [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 | 2024-04-26 |  |
+| [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 | 2024-04-26 | 2024-12-28 |
 | [jesus christ in a mini skirt](https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [jesus christ in a mini skirt](https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT) | 3:00 | 2024-01-12 |  |
 | [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 | 2021-02-25 | 2022-01-29 |
 | [Jim Carrey](https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Jim Carrey](https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH) | 3:03 | 2023-07-14 | 2023-09-16 |
@@ -1280,6 +1281,7 @@
 | [matter](https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the side\-effects of living in a fantasy](https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh) | 3:05 | 2024-11-08 |  |
 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 | 2024-02-09 | 2024-09-14 |
 | [maybe she was the one](https://open.spotify.com/track/5vCj5yC2xLp39AEWAjvXZg) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [SUPERNOVA](https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d) | 2:45 | 2024-03-29 | 2024-06-22 |
+| [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 | 2024-12-27 |  |
 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 | 2023-06-30 | 2023-07-31 |
 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 | 2024-02-23 | 2024-06-29 |
 | [Meant To Be](https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 2:28 | 2024-08-23 | 2024-09-14 |
@@ -1334,7 +1336,7 @@
 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 | 2021-02-23 | 2021-03-23 |
 | [moshpit](https://open.spotify.com/track/2mCtLEJmnn1JiY2IQGUCy4) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [moshpit](https://open.spotify.com/album/6PXSrLiT6piovfkbtM3mTs) | 3:38 | 2022-01-28 | 2022-06-07 |
 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-09-29 | 2024-01-05 |
-| [MOST WANTED MAN](https://open.spotify.com/track/7mLoL2o1O1adcbi30eU7o7) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [MOST WANTED MAN](https://open.spotify.com/album/4RjkqlSc7GqoqyOYqOtXOx) | 2:47 | 2024-09-06 |  |
+| [MOST WANTED MAN](https://open.spotify.com/track/7mLoL2o1O1adcbi30eU7o7) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [MOST WANTED MAN](https://open.spotify.com/album/4RjkqlSc7GqoqyOYqOtXOx) | 2:47 | 2024-09-06 | 2024-12-28 |
 | [Motion Sickness](https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:49 | 2021-03-01 | 2021-08-20 |
 | [Mouthwash](https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Melancholia](https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi) | 2:54 | 2022-09-09 | 2023-01-28 |
 | [Move Me](https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Give Me Your Shoulders, Pt\. 1](https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig) | 3:36 | 2022-02-11 | 2022-03-17 |
@@ -2053,6 +2055,7 @@
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-09-03 |
 | [Too Slow](https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Too Slow](https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7) | 2:04 | 2024-03-29 | 2024-05-18 |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-11-11 |  |
+| [Tornado Boy](https://open.spotify.com/track/7d619CJNlAhf7JBfFRgYKb) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Tornado Boy](https://open.spotify.com/album/2VuPHy3jdZYR3D1w2GMx1D) | 3:34 | 2024-12-27 |  |
 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 | 2022-07-22 | 2022-09-17 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-10 | 2024-07-19 |
 | [Touch](https://open.spotify.com/track/57v4cMu70Wx4oG9rFp2lMq) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Touch](https://open.spotify.com/album/2DRNNOlRydc4XOcKfkTmOE) | 3:32 | 2020-05-23 | 2021-11-10 |
@@ -2060,7 +2063,7 @@
 | [Touch](https://open.spotify.com/track/0XYvHhtD8ONs8Kqzx7D1On) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Touch](https://open.spotify.com/album/6LtLFeeMJ8mKUfXXIytQ3g) | 3:38 | 2019-05-26\* | 2019-08-13 |
 | [Touch Therapy](https://open.spotify.com/track/26121YtyDrlazXPzMxmJx7) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Touch Therapy](https://open.spotify.com/album/5opyM4qE5y3xM6etvgBzzF) | 2:29 | 2024-05-31 | 2024-07-09 |
 | [Tough \(The Girls Song\)](https://open.spotify.com/track/4g7ENhoox2hASK5tYih22Q) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Tough \(The Girls Song\)](https://open.spotify.com/album/1nFfsjm5sNquzvitmGvyTb) | 3:02 | 2023-06-09 | 2023-07-01 |
-| [TOURIST](https://open.spotify.com/track/6pT4XrJXq3uWYlfaKiflce) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [TOURIST](https://open.spotify.com/album/3rngU1YiZ9z6o6hBNdz99D) | 2:25 | 2024-09-27 |  |
+| [TOURIST](https://open.spotify.com/track/6pT4XrJXq3uWYlfaKiflce) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [TOURIST](https://open.spotify.com/album/3rngU1YiZ9z6o6hBNdz99D) | 2:25 | 2024-09-27 | 2024-12-28 |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-04 | 2023-12-09 |
 | [Treading Water](https://open.spotify.com/track/0Ed0auEaK9ATsnzFsUZ5AZ) | [Little Monarch](https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29) | [Treading Water](https://open.spotify.com/album/3NkCc8osMfZB59KQhm7nLS) | 3:56 | 2019-05-26\* | 2019-08-13 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-06-28 | 2024-09-14 |

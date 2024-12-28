@@ -4,12 +4,12 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-232 songs - 20 hr 5 min
+233 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Coríntios 13](https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Firme Fundamento](https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI) | 4:57 | 2024-09-20 | 2024-11-30 |
-| [A Batalha](https://open.spotify.com/track/2R8zOv33KngElmmWy2XAYF) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt) | [A Batalha](https://open.spotify.com/album/4N7Pqiuu7sm4AmXUIzsYRu) | 5:33 | 2024-10-25 |  |
+| [A Batalha](https://open.spotify.com/track/2R8zOv33KngElmmWy2XAYF) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt) | [A Batalha](https://open.spotify.com/album/4N7Pqiuu7sm4AmXUIzsYRu) | 5:33 | 2024-10-25 | 2024-12-28 |
 | [A Cura do Céu](https://open.spotify.com/track/1X0bDwAikhhYczLtG6Ckp7) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Cura do Céu](https://open.spotify.com/album/619OqlqJ59fsZde9KAUUmG) | 4:12 | 2023-09-01 | 2023-09-09 |
 | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK) | 7:11 | 2024-08-09 |  |
 | [A Igreja Vai Rompendo](https://open.spotify.com/track/4dgefmixhra06k2ugKL33e) | [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs) | [A Igreja Vai Rompendo](https://open.spotify.com/album/1t27h2udoKp1zAmS4HBTFe) | 6:15 | 2023-06-23 | 2023-07-08 |
@@ -95,6 +95,7 @@
 | [Faraó ou Deus](https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Faraó ou Deus](https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ) | 5:57 | 2023-10-06 | 2024-07-13 |
 | [Faraó ou Deus?](https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok) | 4:55 | 2024-08-23 | 2024-11-16 |
 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 | 2022-09-09 |  |
+| [Filhas de Zelofeade \- Ao Vivo](https://open.spotify.com/track/4BXzKvU5sAHMPO8yu4GDPA) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O) | [Filhas de Zelofeade \(Ao Vivo\)](https://open.spotify.com/album/4ytMxij3eSbYuqNL4FCCbB) | 5:08 | 2024-12-27 |  |
 | [Foi a Mão de Deus](https://open.spotify.com/track/575A4uzmh4OIHn34wRD6Gy) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Foi a Mão de Deus](https://open.spotify.com/album/4NP7tJqXXSFWZDYdy9ZKUU) | 6:48 | 2022-09-09 | 2024-06-29 |
 | [Foi Livramento](https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Foi Livramento](https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq) | 3:39 | 2023-07-07 |  |
 | [Foi o Senhor \- Ao Vivo](https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Foi o Senhor \(Ao Vivo\)](https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq) | 6:52 | 2023-09-01 |  |

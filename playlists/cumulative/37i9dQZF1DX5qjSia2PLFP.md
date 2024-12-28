@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:5fi7lIgJGH3RgUpJYcffQ7">4batz</a>
 
-1,100 songs - 2 day 2 hr 55 min
+1,101 songs - 2 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Chemical Warfare](https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [The Postlude](https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0) | 2:06 | 2023-05-19 | 2023-09-16 |
 | [chicken & waffles](https://open.spotify.com/track/6JWs2qW2P3p8R3YOe4yQfM) | [BRICK!](https://open.spotify.com/artist/4NGUeAdVk2KKuMpfYULR3v), [HARDR](https://open.spotify.com/artist/1rwrhFgnwwIuMFUHwAnN4k) | [chicken & waffles](https://open.spotify.com/album/2eoM8NJPV8kHTvkpmz551R) | 2:36 | 2024-08-23 | 2024-09-14 |
 | [Children \(What Time It Is\)](https://open.spotify.com/track/62mKCfQX5J2nnEq8lSwuOX) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Children \(What Time It Is\)](https://open.spotify.com/album/5OOn9cixybs44lmmeFx4GI) | 3:41 | 2023-10-13 | 2024-02-17 |
+| [Chill Guy \(with Kyle Richh\)](https://open.spotify.com/track/5koLyxl6fWprtuT1TKlZ35) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Chill Guy](https://open.spotify.com/album/36iq2WKqQKVStO1sfAAlv4) | 3:20 | 2024-12-27 |  |
 | [CHOCOLATE CITY](https://open.spotify.com/track/5DMnRbwskRQAO35Lk1IGZC) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 3:33 | 2023-09-22 | 2024-01-27 |
 | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx) | 2:49 | 2024-06-14 |  |
 | [Chrome](https://open.spotify.com/track/4zh2G1zGXAZUYs5X4FKSRA) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Chrome](https://open.spotify.com/album/5fh2Gvkv8SaLkKO7S4aGVe) | 3:10 | 2024-09-06 | 2024-09-21 |
@@ -1022,7 +1023,7 @@
 | [Up And Down](https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 3:04 | 2024-01-12 | 2024-02-17 |
 | [UP, LIT.](https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [UP, LIT.](https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ) | 1:57 | 2024-03-01 | 2024-04-27 |
 | [UR SO FULL OF IT](https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT](https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS) | 2:14 | 2023-05-12 | 2023-07-15 |
-| [Us vs Them](https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Us vs Them](https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE) | 2:03 | 2024-12-13 |  |
+| [Us vs Them](https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Us vs Them](https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE) | 2:03 | 2024-12-13 | 2024-12-28 |
 | [USC](https://open.spotify.com/track/3RN2DysOt9NcUu0JUGeQPV) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [USC](https://open.spotify.com/album/5cfGuaVcSO8XL15VpKfgm8) | 2:11 | 2024-04-05 | 2024-04-19 |
 | [VEGETABLE \(BRAIN DEAD\)](https://open.spotify.com/track/2XOraVvSzyO2wFxmd9Jggt) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [VEGETABLE \(BRAIN DEAD\)](https://open.spotify.com/album/2MbH2QLMq2qaogGFMhw9ym) | 2:22 | 2024-05-10 | 2024-05-18 |
 | [VIRGINIA CREEPER](https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [VIRGINIA CREEPER](https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf) | 2:52 | 2023-10-25 | 2023-11-01 |

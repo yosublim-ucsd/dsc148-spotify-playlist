@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 18924,
+  "num_followers": 18928,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -1539,50 +1539,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Que Le Den",
-        "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
-      },
-      "artists": [
-        {
-          "name": "DJ Yelkrab",
-          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
-        },
-        {
-          "name": "Rey Pirin",
-          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
-        },
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        }
-      ],
-      "duration_ms": 193469,
-      "name": "Que Le Den",
-      "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "\u00d1ero Session 7",
-        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Los Menores",
-          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
-        }
-      ],
-      "duration_ms": 183012,
-      "name": "\u00d1ero Session 7",
-      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "No Puedo Controlarme",
         "url": "https://open.spotify.com/album/3TOZQkc7Ga3haeVzyzYRV4"
       },
@@ -1611,6 +1567,50 @@
       "duration_ms": 189437,
       "name": "NO PUEDO CONTROLARME",
       "url": "https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "\u00d1ero Session 7",
+        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        }
+      ],
+      "duration_ms": 183012,
+      "name": "\u00d1ero Session 7",
+      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Que Le Den",
+        "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
+      },
+      "artists": [
+        {
+          "name": "DJ Yelkrab",
+          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
+        },
+        {
+          "name": "Rey Pirin",
+          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        }
+      ],
+      "duration_ms": 193469,
+      "name": "Que Le Den",
+      "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
     },
     {
       "added_at": "2024-08-30 06:00:00",

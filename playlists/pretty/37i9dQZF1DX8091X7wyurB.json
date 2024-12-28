@@ -1,6 +1,6 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 170393,
+  "num_followers": 170545,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs"
     },
     {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 406680,
+      "name": "Defe Defe",
+      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
+    },
+    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Hallelujah Again (Revelation 19:3)",
@@ -711,22 +727,6 @@
       "duration_ms": 436321,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 406680,
-      "name": "Defe Defe",
-      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1425,26 +1425,6 @@
       "url": "https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS"
     },
     {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "Fragrance (feat. GGTQ All Stars)",
-        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
-      },
-      "artists": [
-        {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
-        },
-        {
-          "name": "GGTQ All Stars",
-          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
-        }
-      ],
-      "duration_ms": 267337,
-      "name": "Fragrance (feat. GGTQ All Stars)",
-      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Believe For It",
@@ -1463,6 +1443,26 @@
       "duration_ms": 338218,
       "name": "Believe For It",
       "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
+    },
+    {
+      "added_at": "2024-10-11 00:01:00",
+      "album": {
+        "name": "Fragrance (feat. GGTQ All Stars)",
+        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "GGTQ All Stars",
+          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
+        }
+      ],
+      "duration_ms": 267337,
+      "name": "Fragrance (feat. GGTQ All Stars)",
+      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
     },
     {
       "added_at": "2024-02-16 00:01:00",

@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 163000,
       "name": "Goin' Off",
       "url": "https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU"
@@ -4078,6 +4078,28 @@
       "duration_ms": 232253,
       "name": "Jhanjran",
       "url": "https://open.spotify.com/track/3Q8JtzzQIL7DdiDg33DicB"
+    },
+    {
+      "album": {
+        "name": "Jhol",
+        "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265817,
+      "name": "Jhol",
+      "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
     },
     {
       "album": {
@@ -7122,7 +7144,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-28",
       "duration_ms": 197892,
       "name": "Shape",
       "url": "https://open.spotify.com/track/0j9Y4rbP8dkNipKoCR1gva"
@@ -8596,6 +8618,32 @@
       "duration_ms": 212347,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/7HWMIRSmUrhlbveXerIEWk"
+    },
+    {
+      "album": {
+        "name": "Unsaid Talks",
+        "url": "https://open.spotify.com/album/7jOc0j2KPHV7QpRNlQ0TE7"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Gaurav Dev",
+          "url": "https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9"
+        },
+        {
+          "name": "Kartik Dev",
+          "url": "https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180245,
+      "name": "Unsaid Talks",
+      "url": "https://open.spotify.com/track/2br0APajqvBIdnAugjfPbS"
     },
     {
       "album": {

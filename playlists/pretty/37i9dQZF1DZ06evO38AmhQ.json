@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21207,
+  "num_followers": 21208,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2tLAAAAAACopu+QXeFSmT98lI7fPoU+",
+  "snapshot_id": "Z2ycgAAAAACjVDanAC10grU4ov7SW0Mg",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Amazing Day",
-      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anthems - A Celebration of Australia",
         "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Amazing Day",
+      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hillbilly Road",
         "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 180866,
       "name": "Cydi",
       "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Man Emu",
+        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Diggers of the Anzac (This Is Gallipoli)",
+      "url": "https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
       "duration_ms": 202560,
       "name": "Dingo",
       "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Man Emu",
-        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Diggers of the Anzac (This Is Gallipoli)",
-      "url": "https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "Tubbo Station",
-      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 126586,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "Tubbo Station",
+      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
     },
     {
       "added_at": null,

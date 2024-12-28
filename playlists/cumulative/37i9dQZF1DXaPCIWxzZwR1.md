@@ -2,7 +2,7 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop<br/><br/>Cover: SIENNA SPIRO
+> next gen pop<br/><br/>Cover: Nessa Barrett
 
 2,151 songs - 4 day 8 hr 48 min
 

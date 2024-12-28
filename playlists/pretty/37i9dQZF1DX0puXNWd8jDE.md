@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,366 likes - 65 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,395 likes - 65 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 33 | [拉麵公子](https://open.spotify.com/track/7m92o2AO34vNm6n3pCxNRR) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 4:54 |
 | 34 | [痴心絕對](https://open.spotify.com/track/0D0n4q2o54VTOmDJdL6ikY) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [痴心絕對](https://open.spotify.com/album/4QujlUn9OTLG4qFxMja90M) | 4:22 |
 | 35 | [青春要用幾行詩來寫 \(電視劇《顏心記》推廣曲\)](https://open.spotify.com/track/5BMwkhL43UiAOshkAW7NVP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [青春要用幾行詩來寫 \(電視劇《顏心記》推廣曲\)](https://open.spotify.com/album/74QsdlUpTEwZVozQkU0yeZ) | 4:52 |
-| 36 | [嘉賓](https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉賓](https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC) | 5:33 |
+| 36 | [嘉賓](https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi) | [張遠](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉賓](https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC) | 5:33 |
 | 37 | [一首歌](https://open.spotify.com/track/2gy0I9WTZh4Xg0DrV6wtFG) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [一首歌](https://open.spotify.com/album/3Z9chypYz0Qqbpk3K7rBtc) | 1:58 |
 | 38 | [我是真的愛上你](https://open.spotify.com/track/2oPu3cNSBLfOwr07Vv27DK) | [Dave Wang](https://open.spotify.com/artist/5XMnJOQbE6OuOvcV8fn3Wg) | [不孤單](https://open.spotify.com/album/7cUf8srIhyB8wsRFUo36aT) | 5:02 |
 | 39 | [芊芊](https://open.spotify.com/track/5NeK9z0a8KQsjXLuGmOXJy) | [回音哥](https://open.spotify.com/artist/0t9JGWaRH72nt2UIWSE5CH) | [回音Echo](https://open.spotify.com/album/5ItcToIW0QYBTMpte3bOGt) | 3:59 |

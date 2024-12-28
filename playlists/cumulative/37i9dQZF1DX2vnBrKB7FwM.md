@@ -2,9 +2,9 @@
 
 ### [RAPública de Colombia](https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM)
 
-> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Vic Deal
+> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Mañas Ru\-Fino
 
-145 songs - 8 hr 1 min
+146 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Foráneos](https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Foráneos](https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq) | 3:06 | 2023-02-13 |  |
 | [From The Barrio](https://open.spotify.com/track/6xkzTDLquDbRQcqVXRQVby) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [Inmortal](https://open.spotify.com/album/48mbjAcpTZU7QWVHXlSiJj) | 3:23 | 2022-07-15 |  |
 | [frutiño](https://open.spotify.com/track/4QP4LwWOI0ZptrJv0oG8xB) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX) | [frutiño](https://open.spotify.com/album/3UfT1lFbmSdWQzMB8kLY9G) | 3:15 | 2022-07-15 | 2023-04-14 |
+| [Frío Sur](https://open.spotify.com/track/60tAwJoSqHoWL1cmADByHM) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1) | [Frío Sur](https://open.spotify.com/album/6JWMtrkFfWEpq9ObaSCGQ0) | 3:14 | 2024-12-27 |  |
 | [Garrafa](https://open.spotify.com/track/2kcpfQD1eAENcjPdnnTWMw) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB), [Primo Profit](https://open.spotify.com/artist/22Z9RXSVitsBB1pHoADHCB) | [Garrafa](https://open.spotify.com/album/7jABk4M5FCrLBAFDzYXDOx) | 3:11 | 2022-07-15 | 2023-02-14 |
 | [Géminis](https://open.spotify.com/track/10dxL8HY1IgB1rEFNMAtJY) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Géminis](https://open.spotify.com/album/2M6GazyqUQ4jWudSJDZLA1) | 2:45 | 2022-02-25 | 2023-11-25 |
 | [Hasta Luego](https://open.spotify.com/track/0sO1CZLWa4hvNSlOaXReao) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Hasta Luego](https://open.spotify.com/album/6EfqxfjvB5RbNfHCiOc5jh) | 2:27 | 2022-12-23 | 2023-02-18 |
@@ -116,7 +117,7 @@
 | [Quién Pidió Pollo](https://open.spotify.com/track/3eg52bwJ7r5Ma9ZmLOGAts) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 3:52 | 2022-02-25 |  |
 | [Receso Solo 1](https://open.spotify.com/track/1pLGlJF5gf5YDEKFzLg9Fz) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Receso Solo 1](https://open.spotify.com/album/0LhuysoUDHLhiV6BKkwk4m) | 3:33 | 2022-02-25 |  |
 | [Redundancia](https://open.spotify.com/track/5i8GlPFnvADXn8Q4UVKd82) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo) | [Redundancia](https://open.spotify.com/album/0zz0IURLbLlqT5ktM8OQSY) | 2:06 | 2023-08-25 |  |
-| [Relé](https://open.spotify.com/track/1HJbLgHCVVAWEAHMp0JZmB) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Ecks One](https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF) | [TABOGO'S FINEST](https://open.spotify.com/album/3DeRst2QWe9zsGpKP7zfEe) | 3:10 | 2024-08-23 |  |
+| [Relé](https://open.spotify.com/track/1HJbLgHCVVAWEAHMp0JZmB) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Ecks One](https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF) | [TABOGO'S FINEST](https://open.spotify.com/album/3DeRst2QWe9zsGpKP7zfEe) | 3:10 | 2024-08-23 | 2024-12-28 |
 | [Renace](https://open.spotify.com/track/02nx5tMIZ9upPdoyt6zhWD) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Renace](https://open.spotify.com/album/6Jps3FkjuosN5ARZuQ56MQ) | 2:31 | 2022-02-25 |  |
 | [Renace](https://open.spotify.com/track/3d9JEd8TuNfZMrvfVyrBFJ) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [De Vuelta al Sol](https://open.spotify.com/album/5BXQQzcoEgxHGhkPPFn3H8) | 2:31 | 2022-07-15 | 2022-09-02 |
 | [Retrato & Son](https://open.spotify.com/track/4XQhhsiPQsnxLFHAWOXbZY) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Retrato & Son](https://open.spotify.com/album/6CqdWdsbdpe3Gba32qH9YM) | 3:01 | 2022-02-25 |  |

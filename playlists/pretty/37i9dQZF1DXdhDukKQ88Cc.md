@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > det madnessss 🫣 <a href="spotify:artist:1YwMnnHvnG64fJxYSVwmN6">Branco</a> & <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">Artigeardit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,497 likes - 63 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,518 likes - 63 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

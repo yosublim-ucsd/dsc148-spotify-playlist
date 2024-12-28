@@ -2,7 +2,7 @@
 
 ### [South African Gospel](https://open.spotify.com/playlist/37i9dQZF1DXbBH5YfEiy7g)
 
-> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=JTTL9WmISeaziVW1jyZzUg">Lebo Sekgobela</a>
+> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=MonoFqtvS6GfQXd7aucDxA">Xolly Mncwango</a>
 
 96 songs - 10 hr 1 min
 

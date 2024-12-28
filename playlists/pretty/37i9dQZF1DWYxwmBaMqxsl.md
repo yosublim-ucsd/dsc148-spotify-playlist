@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Sad and gloomy Jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,157 likes - 215 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,226 likes - 215 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 66 | [From Now On](https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Entering the Woods](https://open.spotify.com/album/7HV0aIXTJHdYpJWLgyBynP) | 3:41 |
 | 67 | [Aesthete](https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Aesthete](https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q) | 3:42 |
 | 68 | [Irridescent Mountains](https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Irridescent Mountains](https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq) | 3:19 |
-| 69 | [The End Of A Love Affair](https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 3:11 |
+| 69 | [The End Of A Love Affair](https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir), [Marcus Roberts](https://open.spotify.com/artist/6dz608P8sHylVvVVo5OLx2), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 3:11 |
 | 70 | [Remembrance](https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ) | 4:04 |
 | 71 | [Lazy Steps](https://open.spotify.com/track/5fhQ6woeIt71IEPs9q0Zd5) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lazy Steps](https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj) | 3:48 |
 | 72 | [Melancholee \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/7evUA1KCKUv2cAxRU0hVDI) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 6:14 |

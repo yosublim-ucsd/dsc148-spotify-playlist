@@ -4,7 +4,7 @@
 
 > Catch the hottest Punjabi tracks\. Cover \- Diljit Dosanjh
 
-125 songs - 6 hr 28 min
+126 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 | 2024-08-02 |  |
 | [Blockbuster](https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Gharvi Group](https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82) | [Blockbuster](https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8) | 4:34 | 2024-07-26 |  |
 | [California Love](https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [ANYWAY](https://open.spotify.com/album/64MZHXV7IglO8LE8KplSRw) | 2:55 | 2024-01-04 | 2024-11-15 |
-| [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 | 2024-01-04 |  |
+| [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 | 2024-01-04 | 2024-12-28 |
 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 | 2024-01-04 |  |
 | [Chann Sitare](https://open.spotify.com/track/50UrzLQaUmPp5LsehLMMKR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Chann Sitare \(From "Oye Makhna"\)](https://open.spotify.com/album/3fms8MQoHUUbAfK9ao7X8G) | 3:07 | 2024-04-18 | 2024-11-15 |
 | [Chann Sitare \(From "Oye Makhna"\)](https://open.spotify.com/track/4ZlAM2VoFpv0VyZjv34A4o) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Chann Sitare \(From "Oye Makhna"\) \- Single](https://open.spotify.com/album/78eSecjSVDN0T0KDylfVMf) | 3:07 | 2024-01-04 | 2024-04-19 |
@@ -64,6 +64,7 @@
 | [Ittar](https://open.spotify.com/track/3VwIFCFQ6HQNzlQPfJBrt7) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Ittar](https://open.spotify.com/album/1SXRKGIPXXWHlFH5FIh8iS) | 3:20 | 2024-01-04 | 2024-11-15 |
 | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/track/6zh80VZXzcYm72Wgh6HjWO) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/album/4v5lDXsOuEQpT9pxY3J13m) | 3:45 | 2024-06-12 | 2024-07-27 |
 | [Jatt Vailly](https://open.spotify.com/track/18kRElgBSIAsd3DHPUajuI) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:31 | 2024-01-04 | 2024-03-23 |
+| [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 | 2024-12-27 |  |
 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 | 2024-01-04 | 2024-11-15 |
 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 | 2024-03-22 | 2024-04-27 |
 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 | 2024-02-02 |  |
