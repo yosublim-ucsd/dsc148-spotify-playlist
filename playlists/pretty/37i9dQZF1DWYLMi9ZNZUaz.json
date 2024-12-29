@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 100109,
+  "num_followers": 100159,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2024-12-25 05:20:34",
       "album": {
+        "name": "B\u1ea1n \u0110\u1eddi",
+        "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
+      },
+      "artists": [
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        },
+        {
+          "name": "GDucky",
+          "url": "https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz"
+        }
+      ],
+      "duration_ms": 300718,
+      "name": "B\u1ea1n \u0110\u1eddi",
+      "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
+    },
+    {
+      "added_at": "2024-12-25 05:20:34",
+      "album": {
         "name": "ch\u1eb3ng gi\u1ed1ng gi\u00e1ng sinh",
         "url": "https://open.spotify.com/album/38X017QxkKpFYkdFcxDy9V"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 192000,
       "name": "ch\u1eb3ng gi\u1ed1ng gi\u00e1ng sinh",
       "url": "https://open.spotify.com/track/7k3ohP9ZiGfhL6yD8oIPfk"
-    },
-    {
-      "added_at": "2024-12-25 05:20:34",
-      "album": {
-        "name": "B\u1ea1n \u0110\u1eddi",
-        "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
-      },
-      "artists": [
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
-        },
-        {
-          "name": "GDucky",
-          "url": "https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz"
-        }
-      ],
-      "duration_ms": 300718,
-      "name": "B\u1ea1n \u0110\u1eddi",
-      "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
     },
     {
       "added_at": "2024-12-25 05:20:34",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-12-25 05:20:34",
       "album": {
-        "name": "Em B\u00e9",
-        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
-      },
-      "artists": [
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        },
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Em B\u00e9",
-      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
-    },
-    {
-      "added_at": "2024-12-25 05:20:34",
-      "album": {
         "name": "Thi\u00eau Th\u00e2n",
         "url": "https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 198788,
       "name": "Thi\u00eau Th\u00e2n",
       "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"
+    },
+    {
+      "added_at": "2024-12-25 05:20:34",
+      "album": {
+        "name": "Em B\u00e9",
+        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        },
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Em B\u00e9",
+      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
     },
     {
       "added_at": "2024-12-25 05:20:34",
@@ -1063,26 +1063,22 @@
     {
       "added_at": "2024-12-25 05:20:34",
       "album": {
-        "name": "MEDICINE",
-        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
+        "name": "Ex's Hate Me",
+        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
       },
       "artists": [
         {
-          "name": "Coldzy",
-          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
         },
         {
-          "name": "Minsicko",
-          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
         }
       ],
-      "duration_ms": 260073,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
+      "duration_ms": 258023,
+      "name": "Ex's Hate Me",
+      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

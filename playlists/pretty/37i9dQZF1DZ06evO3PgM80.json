@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20031,
+  "num_followers": 20033,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAD0LGuUjAQuX/5q/h2fcpO5",
+  "snapshot_id": "Z23uAAAAAABlxbLbLMK5mCdcvluu9zMu",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Adentro Hacia Afuera",
         "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
       },
@@ -347,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus \u00e9 o Centro (Jesus At The Center) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/3JI7IUuZGsZbmDOMGXy9mH"
+        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
       },
       "artists": [
-        {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 346346,
-      "name": "Jesus \u00e9 o Centro (Jesus At The Center) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Cdo20MPK9QSQabUVEXfwS"
+      "duration_ms": 293426,
+      "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
     },
     {
       "added_at": null,
@@ -383,6 +363,26 @@
       "duration_ms": 254253,
       "name": "Me Atraiu - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus \u00e9 o Centro (Jesus At The Center) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3JI7IUuZGsZbmDOMGXy9mH"
+      },
+      "artists": [
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 346346,
+      "name": "Jesus \u00e9 o Centro (Jesus At The Center) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Cdo20MPK9QSQabUVEXfwS"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 327866,
-      "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 262933,
       "name": "Bem Mais Que Tudo (Above All) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0EZb9A5oqsYM4HQxIlw2PC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 327866,
+      "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perto Eu Quero Estar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Perto Eu Quero Estar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -635,22 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alfa e \u00d4mega (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
+        "name": "Perto Eu Quero Estar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
         },
         {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 417426,
-      "name": "Alfa e \u00d4mega - Ao Vivo",
-      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
+      "duration_ms": 252866,
+      "name": "Perto Eu Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
     },
     {
       "added_at": null,
@@ -671,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pai de Amor (Heavenly Father I Appreciate You) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4"
+        "name": "Alfa e \u00d4mega (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Pai de Amor (Heavenly Father I Appreciate You) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N"
+      "duration_ms": 417426,
+      "name": "Alfa e \u00d4mega - Ao Vivo",
+      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pai de Amor (Heavenly Father I Appreciate You) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "Pai de Amor (Heavenly Father I Appreciate You) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
         "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
       },
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu \u00c9s Rei",
-        "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
-      },
-      "artists": [
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 421395,
-      "name": "Tu \u00c9s Rei",
-      "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 243973,
       "name": "Bondade de Deus (Goodness of God) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1ajhbZJPOVo337IV5XHRDd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu \u00c9s Rei",
+        "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 421395,
+      "name": "Tu \u00c9s Rei",
+      "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
     },
     {
       "added_at": null,

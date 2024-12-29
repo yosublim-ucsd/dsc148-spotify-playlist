@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,760 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,768 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 30 | [Deixa Eu Te Contar](https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Deixa Eu Te Contar](https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY) | 3:13 |
 | 31 | [Só Você](https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j) | [Lifee](https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Só Você](https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j) | 2:24 |
 | 32 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
-| 33 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
-| 34 | [Não Prometeu Nada](https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf) | [Victor sant's](https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp), [Pivet Panda](https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW) | [Não Prometeu Nada](https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS) | 2:55 |
+| 33 | [Não Prometeu Nada](https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf) | [Victor sant's](https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp), [Pivet Panda](https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW) | [Não Prometeu Nada](https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS) | 2:55 |
+| 34 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 35 | [Ciumenta](https://open.spotify.com/track/35fWcHV5Q9KQtaPN7n9Djl) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Ciumenta](https://open.spotify.com/album/3gifZCkuuSjonKk7YVcR3b) | 2:30 |
 | 36 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 |
 | 37 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 |

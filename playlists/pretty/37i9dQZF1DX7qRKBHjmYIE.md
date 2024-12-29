@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Cardellino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,477 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,448 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 14 | [PA K](https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PA K](https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv) | 3:41 |
 | 15 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 |
 | 16 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
-| 17 | [pero me estoy acabando.](https://open.spotify.com/track/4UcnP64mbjBbjSDgSv5YYT) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 2:46 |
-| 18 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 |
+| 17 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 |
+| 18 | [pero me estoy acabando.](https://open.spotify.com/track/4UcnP64mbjBbjSDgSv5YYT) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 2:46 |
 | 19 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
 | 20 | [los alpes](https://open.spotify.com/track/4957L0Loaz27sUPgBlEeOb) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:20 |
 | 21 | [BRUJERIA!](https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:44 |
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 41 | [Escudo](https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Escudo](https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j) | 2:51 |
 | 42 | [1000 cartas](https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [1000 cartas / dsps de un faje](https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG) | 2:25 |
 | 43 | [El Show Debe Continuar](https://open.spotify.com/track/6iLSUEdHyRZmsWPzLJLBRj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:14 |
-| 44 | [Pienso En Vos](https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Pienso En Vos](https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX) | 2:26 |
-| 45 | [par d niños](https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [que no te falte de na](https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU) | 3:22 |
+| 44 | [par d niños](https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [que no te falte de na](https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU) | 3:22 |
+| 45 | [Pienso En Vos](https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Pienso En Vos](https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX) | 2:26 |
 | 46 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
 | 47 | [Solo](https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Solo](https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn) | 3:21 |
 | 48 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 |
 | 49 | [MUY FINITO](https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [MUY FINITO](https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj) | 2:45 |
-| 50 | [CONFÍO](https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [CONFÍO](https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp) | 2:59 |
-| 51 | [Hablas](https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Hablas](https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm) | 2:36 |
+| 50 | [Hablas](https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Hablas](https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm) | 2:36 |
+| 51 | [CONFÍO](https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [CONFÍO](https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp) | 2:59 |
 | 52 | [Luna mar](https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Luna mar](https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa) | 3:15 |
 | 53 | [OBSSD](https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [OBSSD](https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy) | 2:40 |
 | 54 | [Achachairú](https://open.spotify.com/track/7j6oBmJVXbdyUHAxXxkMLk) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Achachairú](https://open.spotify.com/album/0X81AVaN0AdhMwCZ9nryhk) | 2:20 |

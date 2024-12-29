@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
-  "num_followers": 60582,
+  "num_followers": 60657,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
+        "name": "La Diabla (Electro Remix)",
+        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 136477,
+      "name": "La Diabla (Electro Remix)",
+      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
@@ -1403,38 +1419,6 @@
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "SECUELAS",
-        "url": "https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7"
-      },
-      "artists": [
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "SECUELAS",
-      "url": "https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "La Diabla (Electro Remix)",
-        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 136477,
-      "name": "La Diabla (Electro Remix)",
-      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
+        "name": "SECUELAS",
+        "url": "https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "SECUELAS",
+      "url": "https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
         "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
         "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
       },
@@ -1479,26 +1479,6 @@
       "duration_ms": 142677,
       "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
       "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
-        "name": "Throw Your Hands Up",
-        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 159103,
-      "name": "Throw Your Hands Up",
-      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1523,6 +1503,26 @@
       "duration_ms": 212088,
       "name": "Como Tony",
       "url": "https://open.spotify.com/track/4h1xBeWL6aPDkZc6JuSbAb"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
+        "name": "Throw Your Hands Up",
+        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 159103,
+      "name": "Throw Your Hands Up",
+      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
     },
     {
       "added_at": "2024-12-06 17:24:21",

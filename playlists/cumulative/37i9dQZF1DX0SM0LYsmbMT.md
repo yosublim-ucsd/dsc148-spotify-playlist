@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,317 songs - 6 day 20 hr 32 min
+4,318 songs - 6 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,6 +1173,7 @@
 | [Faces](https://open.spotify.com/track/5n16dEoZ1OwdpqOIK13m1X) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Faces](https://open.spotify.com/album/67qmIPe1qBlLUS4jSvm4nC) | 2:13 | 2019-05-26\* | 2019-06-15 |
 | [Fading Mist](https://open.spotify.com/track/6Zjsl9f98ywJ1T6yvMNFaZ) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Fading Mist](https://open.spotify.com/album/1fB9bOoK4JJYJOlDsuhbGi) | 2:53 | 2020-11-06 | 2021-06-11 |
 | [Fadrr](https://open.spotify.com/track/3ydQENKjLp5fd3yshzLfJY) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Fungie](https://open.spotify.com/artist/14BlioFG7L0d0j0ZBwIUeS) | [Fadrr](https://open.spotify.com/album/6YRZJwRKp8WhfbKDYKg9CS) | 2:20 | 2023-05-11 | 2024-04-26 |
+| [Fairfax](https://open.spotify.com/track/5iwzPhf6AGvIzWwsZJv1Y3) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Fairfax](https://open.spotify.com/album/4pPgKwWG9sHLzeXmXwUhyA) | 2:47 | 2024-12-16 |  |
 | [Fairytale](https://open.spotify.com/track/4MnsjIYWN5GVwqD1FGGi9G) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Fairytale](https://open.spotify.com/album/7uyCNTRk6s3OXCYGj3x6FW) | 1:50 | 2022-11-03 | 2023-01-13 |
 | [Fall](https://open.spotify.com/track/22TaxtoFfaJz2YUZUbTc4Z) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Fall](https://open.spotify.com/album/10nrgLZ75uZHO6sQIXOQUD) | 3:20 | 2020-12-11 | 2021-02-12 |
 | [Fallcameearly](https://open.spotify.com/track/0ScH5BP3inzNxEQiekotMa) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Fallcameearly](https://open.spotify.com/album/7aKq8TzX1y7I889SHOmqp6) | 1:55 | 2021-09-17 | 2021-10-16 |
@@ -3248,7 +3249,7 @@
 | [Ship Has Sailed](https://open.spotify.com/track/28ZSHQYTUVoVVu3tMHf6Q3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 3:16 | 2021-07-04 | 2021-09-10 |
 | [Shipping Included](https://open.spotify.com/track/2N5acVYBPwXHVxcSJZhI0Y) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Shipping Included](https://open.spotify.com/album/4W520GUpPfXgx7O78dmJI0) | 1:44 | 2021-09-10 | 2022-09-15 |
 | [Shorebreak](https://open.spotify.com/track/7nOB52izsr8QCUP6IdvMZF) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Shorebreak](https://open.spotify.com/album/04cnaZIcMfSDc5EKbqOOdE) | 1:21 | 2022-08-04 | 2022-09-23 |
-| [Short Nap](https://open.spotify.com/track/3wpsrPokpTVnWF96tKhiVz) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Short Nap](https://open.spotify.com/album/6vMhkwv9W0OQ3CJidAJ0Ks) | 2:00 | 2023-10-19 |  |
+| [Short Nap](https://open.spotify.com/track/3wpsrPokpTVnWF96tKhiVz) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Short Nap](https://open.spotify.com/album/6vMhkwv9W0OQ3CJidAJ0Ks) | 2:00 | 2023-10-19 | 2024-12-29 |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2021-08-14 | 2021-11-26 |
 | [Sidewalk Serenade](https://open.spotify.com/track/3uR0aMn2F74InlapOBKtIi) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Sidewalk Serenade](https://open.spotify.com/album/0zzKLjkFoAbmcycEXRRQPT) | 2:23 | 2024-01-11 | 2024-03-08 |
 | [Siesta](https://open.spotify.com/track/7hoffiDjviMT3MKHzRjJ8r) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Siesta](https://open.spotify.com/album/4quzoBrFK8aKVuoQlMkSeW) | 2:04 | 2022-12-22 | 2023-04-07 |

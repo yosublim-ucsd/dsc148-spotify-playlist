@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3137,
+  "num_followers": 3138,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAABEBgS6QW4z8gV4/d1lNa61",
+  "snapshot_id": "Z23uAAAAAADE9iXCBAqX5eGDOBBAhaGx",
   "tracks": [
     {
       "added_at": null,
@@ -448,13 +448,17 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/2BdeeOQKqKW7nsaZbr858b"
+      "duration_ms": 176302,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/3WPVobAUiAMiX6nS1UUMvl"
     },
     {
       "added_at": null,
@@ -540,17 +544,13 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 176302,
-      "name": "Culpa",
-      "url": "https://open.spotify.com/track/3WPVobAUiAMiX6nS1UUMvl"
+      "duration_ms": 134264,
+      "name": "Matem\u00e1tica",
+      "url": "https://open.spotify.com/track/2BdeeOQKqKW7nsaZbr858b"
     },
     {
       "added_at": null,

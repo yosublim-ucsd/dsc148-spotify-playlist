@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
@@ -3522,7 +3522,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 120052,
       "name": "CHAPA",
       "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
@@ -4142,6 +4142,24 @@
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "album": {
+        "name": "Contigo el 2025",
+        "url": "https://open.spotify.com/album/4QvZRltHoyJkrW63nzAzHx"
+      },
+      "artists": [
+        {
+          "name": "Andrey Serrano",
+          "url": "https://open.spotify.com/artist/2yB8dRPQY4YUANJyGdqyzO"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180565,
+      "name": "Contigo el 2025",
+      "url": "https://open.spotify.com/track/1x57piY4gMV0gFMk1sLb8A"
     },
     {
       "album": {
@@ -12428,7 +12446,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 197031,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg"
@@ -14120,7 +14138,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 185834,
       "name": "Pero Te Quiero",
       "url": "https://open.spotify.com/track/2BPqm5yVZhXpQmZhoAw6Ql"
@@ -15642,6 +15660,24 @@
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
+    },
+    {
+      "album": {
+        "name": "Sabor a Derrota",
+        "url": "https://open.spotify.com/album/2BlHZtjDv2t6yt2X7Y7Dkb"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199328,
+      "name": "Sabor a Derrota",
+      "url": "https://open.spotify.com/track/4EbUtMcf5pUFBNvvxQFC5G"
     },
     {
       "album": {
@@ -17826,7 +17862,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 142467,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6KuS9WnV0GqXzVRUMIJ9aa"
@@ -17862,7 +17898,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 152957,
       "name": "Tattoo - Spanish Version",
       "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
@@ -18334,7 +18370,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 192000,
       "name": "The Line (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1QJbDTZAO8rpGOMG4UahFM"
@@ -21426,7 +21462,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 117192,
       "name": "Zn Fod\u00e1stica 2",
       "url": "https://open.spotify.com/track/4ftmzFb6Rq6fBODm9qUnFE"

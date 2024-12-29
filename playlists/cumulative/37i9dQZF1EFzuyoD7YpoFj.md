@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-430 songs - 23 hr 0 min
+431 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,8 +433,9 @@
 | [You're The Top](https://open.spotify.com/track/1Bj7jBKBnVDRewSxC8oQj2) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:49 | 2024-07-24 |  |
 | [You're Too Far Away](https://open.spotify.com/track/2kgfqPDxQAt6xBKoqf1xfz) | [Muzzy Marcellino](https://open.spotify.com/artist/7uRhymmIttUu5cbYlOeX4C), [Ted Fio Rito & His Orchestra](https://open.spotify.com/artist/7DIWTRQhlpxu8KwizRVpu1) | [We Call It Jazz!, Vol\. 55](https://open.spotify.com/album/3MTcw3us3uqlwZ3WOgaiut) | 2:54 | 2024-09-12 |  |
 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 | 2024-07-24 |  |
-| [You've Got That Thing](https://open.spotify.com/track/5TsREG47mHPfGphLnIQ5e2) | [Ted Lewis](https://open.spotify.com/artist/2h7jCpFL30Uw8mziW89bGM) | [Roadtrip 1920s Style](https://open.spotify.com/album/1JEPeQ9kFejPWp6ZstQH0w) | 3:02 | 2024-12-12 |  |
+| [You've Got That Thing](https://open.spotify.com/track/5TsREG47mHPfGphLnIQ5e2) | [Ted Lewis](https://open.spotify.com/artist/2h7jCpFL30Uw8mziW89bGM) | [Roadtrip 1920s Style](https://open.spotify.com/album/1JEPeQ9kFejPWp6ZstQH0w) | 3:02 | 2024-12-12 | 2024-12-29 |
 | [You've Got That Thing](https://open.spotify.com/track/5r8uoFu7Nh75WlyTY8eyPb) | [Ted Lewis](https://open.spotify.com/artist/2h7jCpFL30Uw8mziW89bGM) | [Presenting Ted Lewis](https://open.spotify.com/album/32Iee7KGL4wB0KXRfVkfoK) | 3:02 | 2024-07-24 | 2024-12-13 |
+| [You've Got That Thing](https://open.spotify.com/track/7xi2gV9IonISkkw416fImy) | [Ted Lewis](https://open.spotify.com/artist/2h7jCpFL30Uw8mziW89bGM) | [Some of These Days](https://open.spotify.com/album/0v7CYtEkWAO7moX7N03qgP) | 3:02 | 2024-12-28 |  |
 | [Yours](https://open.spotify.com/track/3bIwAXfM99wdms6GICC7ej) | [Glen Porter](https://open.spotify.com/artist/6Iuyxid73G505WDnHEBPup) | [Falling Down](https://open.spotify.com/album/0ifAn9LEzZezePNs0KGT8A) | 3:47 | 2024-12-14 |  |
 | [Yours Truly](https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Simply Engelbert \- Classic Love Songs and Ballads](https://open.spotify.com/album/4BiyT51ZLVRucMx9fxJVxU) | 3:38 | 2024-07-24 | 2024-12-15 |
 | [Марш](https://open.spotify.com/track/2NOjntscikBY3SEL7pld6N) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Of4qoSlEZr8GUinc7QxWT) | 2:32 | 2024-07-24 |  |

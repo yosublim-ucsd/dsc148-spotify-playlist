@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Burna Boy au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,015 likes - 57 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,020 likes - 57 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

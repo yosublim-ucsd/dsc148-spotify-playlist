@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 214666,
       "name": "Dear Jessie",
       "url": "https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu"
@@ -5258,6 +5258,24 @@
       "duration_ms": 318506,
       "name": "Step On - 2007 Remaster",
       "url": "https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298691,
+      "name": "Strike It Up",
+      "url": "https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj"
     },
     {
       "album": {

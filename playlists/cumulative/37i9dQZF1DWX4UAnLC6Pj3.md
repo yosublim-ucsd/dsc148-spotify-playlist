@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! El Mimoso Luis Antonio Lopez en portada.
 
-436 songs - 23 hr 1 min
+437 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Quiero Pensar Que Estás Mejor](https://open.spotify.com/track/4vvgjlVHmt7i9A1dHGQt8x) | [Banda Águila Real](https://open.spotify.com/artist/2hr1spGCHQ0uhuRQvCBPFW) | [Quiero Pensar Que Estás Mejor](https://open.spotify.com/album/68fTv6080j5CRbkAfaLIm4) | 2:59 | 2023-05-26 | 2023-07-03 |
 | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b) | 3:50 | 2024-10-04 |  |
 | [Qué Onda Perdida](https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN) | 3:43 | 2023-02-17 |  |
-| [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 | 2023-04-07 |  |
+| [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 | 2023-04-07 | 2024-12-29 |
 | [Qué Te Hizo Olvidarme](https://open.spotify.com/track/3a96vICHOEdw3rsthLW24A) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Qué Te Hizo Olvidarme](https://open.spotify.com/album/2zJQukcDjypgLJkVyORLYv) | 2:32 | 2024-02-16 | 2024-11-30 |
 | [Qué Va a Ser de Mí \- En Vivo](https://open.spotify.com/track/2WKVmJuiIEt5XH1x5MCJJw) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Qué Va a Ser de Mí \(En Vivo\)](https://open.spotify.com/album/0Yn8x95Ol7GqDmjgJIk85k) | 3:14 | 2023-11-10 | 2024-01-25 |
 | [Qué Voy A Hacer Para Olvidarte](https://open.spotify.com/track/04GweOJ0hUSX3URVtx0G30) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Qué Voy A Hacer Para Olvidarte](https://open.spotify.com/album/22M3XTilMjDgmqciYJFk5w) | 2:57 | 2022-06-17 | 2022-07-24 |
@@ -387,6 +387,7 @@
 | [Tiempos Malos](https://open.spotify.com/track/5pvqS44KoJNkPMpUw5jPZ5) | [Jose Gomez](https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB), [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Tiempos Malos](https://open.spotify.com/album/6xmcCWqG3mZMyouzSIRFv0) | 3:58 | 2024-06-28 | 2024-09-07 |
 | [Tierra Caliente](https://open.spotify.com/track/2QYAIDtpgNxb3oLIVjyLFN) | [El Juanma](https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF) | [Tierra Caliente](https://open.spotify.com/album/0p8S0PKvyHC5EB2o4QO4Tm) | 2:33 | 2024-06-28 | 2024-09-28 |
 | [TikTokeras 2.0](https://open.spotify.com/track/46K67TQL7ZuHEW5IwKv7Gv) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [TikTokeras 2.0](https://open.spotify.com/album/6QzitDi3c9vUb092984njU) | 4:50 | 2022-12-03 | 2022-12-20 |
+| [Tipico Clasico / Yo Sé Que Te Acordarás \(En Vivo\)](https://open.spotify.com/track/0MYd5kPeOQKmrxzGYEyrlX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Tipico Clasico / Yo Sé Que Te Acordarás \(En Vivo\)](https://open.spotify.com/album/6qgcPCvBpQtvXxXB76mNqG) | 8:07 | 2024-12-20 |  |
 | [Toda La Vida](https://open.spotify.com/track/6haTk29NU3qowecbVmHYmR) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Toda La Vida](https://open.spotify.com/album/05SdDWhhfRIYfD41WFvvO3) | 4:23 | 2024-03-22 | 2024-04-10 |
 | [Todas Son Iguales](https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Todas Son Iguales](https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj) | 2:35 | 2023-08-11 | 2023-08-26 |
 | [Todo Depende de Ti \(En Vivo\)](https://open.spotify.com/track/6EW3T5IPyotlqN8ZC9vEKo) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Todo Depende de Ti \(En Vivo\)](https://open.spotify.com/album/7IEyrxbsPPnt0XOT7irIrY) | 3:29 | 2024-02-16 | 2024-04-19 |

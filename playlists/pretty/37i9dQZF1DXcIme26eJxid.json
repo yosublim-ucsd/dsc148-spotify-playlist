@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq_kGzYYw\">Onyeka Onwenu </a>",
-  "num_followers": 111456,
+  "num_followers": 111480,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "I Like Your Style",
+        "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
+      },
+      "artists": [
+        {
+          "name": "Tony Wilson",
+          "url": "https://open.spotify.com/artist/0oe8eDAfRL99ncmLCQesif"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "I Like Your Style",
+      "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "The Best Of Victor Uwaifo, Vol. 1",
         "url": "https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 353106,
       "name": "Guitar Boy",
       "url": "https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "I Like Your Style",
-        "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
-      },
-      "artists": [
-        {
-          "name": "Tony Wilson",
-          "url": "https://open.spotify.com/artist/0oe8eDAfRL99ncmLCQesif"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "I Like Your Style",
-      "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 182226,
+      "name": "Pata Pata",
+      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "Mango Groove",
         "url": "https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb"
       },
@@ -619,38 +635,18 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Fatteliku (Live in Athens 1987)",
-        "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
+        "name": "In Harmony",
+        "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
       },
       "artists": [
         {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        },
-        {
-          "name": "Youssou N'Dour",
-          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 643022,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "Pata Pata",
-      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW"
     },
     {
       "added_at": "2024-08-01 10:26:48",

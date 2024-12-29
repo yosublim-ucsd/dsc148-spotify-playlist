@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 66896,
+  "num_followers": 66932,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-12-06 00:00:00",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
-    },
-    {
-      "added_at": "2024-12-06 00:00:00",
-      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 201379,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
+    },
+    {
+      "added_at": "2024-12-06 00:00:00",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
       "added_at": "2024-12-06 00:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Genevieve Stokes",
-  "num_followers": 104350,
+  "num_followers": 104360,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "my mind (now)",
-        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 176418,
-      "name": "my mind (now)",
-      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Planet Song",
         "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 210281,
       "name": "Planet Song",
       "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "my mind (now)",
+        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 176418,
+      "name": "my mind (now)",
+      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
+        "name": "Wella",
+        "url": "https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh"
+      "duration_ms": 169631,
+      "name": "Wella",
+      "url": "https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Wella",
-        "url": "https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
         }
       ],
-      "duration_ms": 169631,
-      "name": "Wella",
-      "url": "https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD"
+      "duration_ms": 150000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "my house is warm",
         "url": "https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 215586,
       "name": "my house is warm",
       "url": "https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "House Song",
-        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 294189,
-      "name": "House Song",
-      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Tear Jerky",
         "url": "https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 179606,
       "name": "Send It To Oslo",
       "url": "https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "House Song",
+        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 294189,
+      "name": "House Song",
+      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "no fun/party",
         "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 356474,
       "name": "no fun/party",
       "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
     },
     {
       "added_at": "2024-11-08 05:00:00",

@@ -4,14 +4,14 @@
 
 > Popun sevilen isimleri\. Kapak: Afra
 
-188 songs - 9 hr 18 min
+189 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2017](https://open.spotify.com/track/4QccVW3CYYLzvTY0yCwcrZ) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [2017](https://open.spotify.com/album/7bHm4NBxAUgM3XpfXmB7fv) | 2:07 | 2024-07-18 |  |
 | [ABART](https://open.spotify.com/track/1aA9W1c1Qg0lSOyqtZ1x9T) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [ABART](https://open.spotify.com/album/2SpENtaNk0UcS2MGrENQYP) | 2:38 | 2024-08-22 | 2024-09-06 |
 | [Acının Seyir Defteri](https://open.spotify.com/track/5h9KIm7EeobUVGbnB3Fk1y) | [Aşkın Nur Yengi](https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k) | [Acının Seyir Defteri](https://open.spotify.com/album/7f0M03KQBjUNlSP1zxRMcc) | 2:51 | 2024-11-21 | 2024-11-28 |
-| [Acıyla Kucaklaştım](https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX) | 3:19 | 2024-06-27 |  |
+| [Acıyla Kucaklaştım](https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX) | 3:19 | 2024-06-27 | 2024-12-29 |
 | [Adını Yazdım](https://open.spotify.com/track/3U2n2bDXv2X4eIxQ0Rqsbw) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Adını Yazdım](https://open.spotify.com/album/6A4vsUDLXGiDtqplTzSPon) | 2:29 | 2024-06-27 | 2024-10-02 |
 | [Aferin Bana](https://open.spotify.com/track/1PTAhnedy6E7RUB6kAlxsE) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Aferin Bana](https://open.spotify.com/album/0LBF46qGy65WEcrtbxetHP) | 3:40 | 2024-07-25 | 2024-09-06 |
 | [Affet Beni](https://open.spotify.com/track/5zcjVHdSAD1PFnKcloYHbL) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Affet Beni](https://open.spotify.com/album/1RfOPexXsCeH9jLGFftWqN) | 2:32 | 2024-06-27 | 2024-07-21 |
@@ -177,6 +177,7 @@
 | [yazık ettin](https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yazık ettin](https://open.spotify.com/album/3nXqsbUDmDkTv0dXsvBzNF) | 2:50 | 2024-09-12 | 2024-09-27 |
 | [Yeri Var](https://open.spotify.com/track/6WTnCHQKG1fbuKbMKzgMW5) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Yeri Var](https://open.spotify.com/album/7kjGGFkcA7HlORL45H4s7H) | 2:33 | 2024-08-22 | 2024-12-01 |
 | [Yerine Sevemem](https://open.spotify.com/track/52YofYBLBIErQ8r8yhtesx) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM), [Galip Öztürk](https://open.spotify.com/artist/47EffAmIS4aq0q6yUyXiVt) | [Yerine Sevemem](https://open.spotify.com/album/54PlqcEztTsO9Dm5o1FFb6) | 2:44 | 2024-12-12 | 2024-12-27 |
+| [Yine Ölmem](https://open.spotify.com/track/0u14UiZ4t76LhOU1D16Xmc) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yine Ölmem](https://open.spotify.com/album/0kflPDxezDaMTQ18WonlXA) | 1:38 | 2024-12-19 |  |
 | [Yo](https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:45 | 2024-06-27 | 2024-11-15 |
 | [Yoksun](https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Yoksun](https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb) | 2:16 | 2024-06-27 | 2024-09-13 |
 | [YOLU AÇIN](https://open.spotify.com/track/71XvAcVBm3TSwBR9WVeorV) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [YOLU AÇIN](https://open.spotify.com/album/10jMsMR3uBjbcrfpIwlwPB) | 2:37 | 2024-07-11 | 2024-08-15 |

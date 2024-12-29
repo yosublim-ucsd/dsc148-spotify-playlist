@@ -1,12 +1,12 @@
 {
-  "description": "With Joshua Lanuarii, glitterpop!, STYXVII and more",
+  "description": "With glitterpop!, Joshua Lanuarii, STYXVII and more",
   "num_followers": 563,
   "original_name": "Kittydog Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z29r6gAAAADrE7IOIZWfJbQvFlRFZnZu",
+  "snapshot_id": "Z3C5ggAAAABoYYK5QxKxnFmQhCZX0b4T",
   "tracks": [
     {
       "added_at": null,
@@ -87,18 +87,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "your boyfriend's corpse",
-        "url": "https://open.spotify.com/album/5BEq0q3pfohLPT8UBSYTPj"
+        "name": "luv u FUREVR!!!",
+        "url": "https://open.spotify.com/album/3wanIvSKYzsw6Pf2fbQMo1"
       },
       "artists": [
         {
           "name": "glitterpop!",
           "url": "https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/2dWMzprBJEneePM7aWGsDv"
         }
       ],
-      "duration_ms": 186666,
-      "name": "your boyfriend's corpse",
-      "url": "https://open.spotify.com/track/5hHtzlcsFEWEjGcPO1KjmR"
+      "duration_ms": 150000,
+      "name": "luv u FUREVR!!!",
+      "url": "https://open.spotify.com/track/41VoSLujxqqwkKeZobMepl"
     },
     {
       "added_at": null,
@@ -219,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "rainbowz x3!!!",
-        "url": "https://open.spotify.com/album/28OPrD4yG1r0b1rGDwiHUf"
+        "name": "your boyfriend's corpse",
+        "url": "https://open.spotify.com/album/5BEq0q3pfohLPT8UBSYTPj"
       },
       "artists": [
         {
@@ -228,9 +232,9 @@
           "url": "https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40"
         }
       ],
-      "duration_ms": 160733,
-      "name": "rainbowz x3!!!",
-      "url": "https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1"
+      "duration_ms": 186666,
+      "name": "your boyfriend's corpse",
+      "url": "https://open.spotify.com/track/5hHtzlcsFEWEjGcPO1KjmR"
     },
     {
       "added_at": null,
@@ -255,62 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAN'T STOP",
-        "url": "https://open.spotify.com/album/2FElMr0pH6TSfOt1g78IjT"
-      },
-      "artists": [
-        {
-          "name": "UrvTek",
-          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
-        }
-      ],
-      "duration_ms": 178238,
-      "name": "CAN'T STOP",
-      "url": "https://open.spotify.com/track/2TMC4JYz0pD8nJlm65IBKN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in my heart",
-        "url": "https://open.spotify.com/album/7sm8W3YCS0Mq5H06ArFOqx"
-      },
-      "artists": [
-        {
-          "name": "Joshua Lanuarii",
-          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
-        },
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        },
-        {
-          "name": "nbmusic",
-          "url": "https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J"
-        }
-      ],
-      "duration_ms": 134126,
-      "name": "in my heart",
-      "url": "https://open.spotify.com/track/1mMYgbdQWu6nvXVq7LRFio"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i only got one",
-        "url": "https://open.spotify.com/album/3c7bZRslufiDbDTjsyV2w7"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 70024,
-      "name": "i only got one",
-      "url": "https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANYMORE",
         "url": "https://open.spotify.com/album/7zB4u0DjsIia8iT1Or7FXF"
       },
@@ -331,72 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "all my frens r rainbowz, but i'm still DEAD INSIDE!!!",
-        "url": "https://open.spotify.com/album/0Y6EF8DEimN2pfHQjs9sLb"
-      },
-      "artists": [
-        {
-          "name": "glitterpop!",
-          "url": "https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40"
-        }
-      ],
-      "duration_ms": 140400,
-      "name": "all my frens r rainbowz, but i'm still DEAD INSIDE!!!",
-      "url": "https://open.spotify.com/track/7seEwSO5nqdoCdLnKsqy4g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
-        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
-      },
-      "artists": [
-        {
-          "name": "STYXVII",
-          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
-        }
-      ],
-      "duration_ms": 183124,
-      "name": "BE KIND 2 YOURSELF",
-      "url": "https://open.spotify.com/track/6Y9wr8rgb66dz6QAjMjPwM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEK VIRUS",
-        "url": "https://open.spotify.com/album/43amIZ7kYYRxfN1veKmrsI"
-      },
-      "artists": [
-        {
-          "name": "UrvTek",
-          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
-        }
-      ],
-      "duration_ms": 241942,
-      "name": "TEK VIRUS",
-      "url": "https://open.spotify.com/track/6yBLNlEO4sDWfKYiTzl2LP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEES IN MY HEAD (adhd)",
-        "url": "https://open.spotify.com/album/2VSJV60EheoNXoe5qfTUso"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 84012,
-      "name": "BEES IN MY HEAD (adhd)",
-      "url": "https://open.spotify.com/track/3tfCCnSLYlVVcjVbdYerf3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEAR YOUR FANGS",
-        "url": "https://open.spotify.com/album/0cKHSmukSYFb9O29FHcHDj"
+        "name": "NEVER CATCH THE LIGHT",
+        "url": "https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO"
       },
       "artists": [
         {
@@ -414,23 +298,39 @@
       ],
       "duration_ms": 181777,
       "name": "BEAR YOUR FANGS",
-      "url": "https://open.spotify.com/track/31bqp8q08EOV62NXr7bQSa"
+      "url": "https://open.spotify.com/track/6Rl5PrsLA0Vz9bx3E0QV9G"
     },
     {
       "added_at": null,
       "album": {
-        "name": "measuring cup!",
-        "url": "https://open.spotify.com/album/11xRzmkHSSvqXv7lr06hLy"
+        "name": "no inbetween",
+        "url": "https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp"
       },
       "artists": [
         {
-          "name": "little purr man",
-          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 66940,
-      "name": "measuring cup!",
-      "url": "https://open.spotify.com/track/7HDqKQ6OReu83T28EqZ0OP"
+      "duration_ms": 111494,
+      "name": "no inbetween",
+      "url": "https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAN'T STOP",
+        "url": "https://open.spotify.com/album/2FElMr0pH6TSfOt1g78IjT"
+      },
+      "artists": [
+        {
+          "name": "UrvTek",
+          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
+        }
+      ],
+      "duration_ms": 178238,
+      "name": "CAN'T STOP",
+      "url": "https://open.spotify.com/track/2TMC4JYz0pD8nJlm65IBKN"
     },
     {
       "added_at": null,
@@ -460,9 +360,25 @@
           "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
         }
       ],
-      "duration_ms": 153124,
-      "name": "IDOLiZER",
-      "url": "https://open.spotify.com/track/3ubsCWDJ0AJW9mb4NTgJS6"
+      "duration_ms": 183124,
+      "name": "BE KIND 2 YOURSELF",
+      "url": "https://open.spotify.com/track/6Y9wr8rgb66dz6QAjMjPwM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "measuring cup!",
+        "url": "https://open.spotify.com/album/11xRzmkHSSvqXv7lr06hLy"
+      },
+      "artists": [
+        {
+          "name": "little purr man",
+          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+        }
+      ],
+      "duration_ms": 66940,
+      "name": "measuring cup!",
+      "url": "https://open.spotify.com/track/7HDqKQ6OReu83T28EqZ0OP"
     },
     {
       "added_at": null,
@@ -483,18 +399,106 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Paralysis",
-        "url": "https://open.spotify.com/album/0VL7JtzWNmVOvPAB6YtpLO"
+        "name": "in my heart",
+        "url": "https://open.spotify.com/album/7sm8W3YCS0Mq5H06ArFOqx"
       },
       "artists": [
         {
-          "name": "thquib",
-          "url": "https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm"
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        },
+        {
+          "name": "nbmusic",
+          "url": "https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J"
         }
       ],
-      "duration_ms": 105000,
-      "name": "Sleep Paralysis",
-      "url": "https://open.spotify.com/track/1MniCshySWjTHcKkUo863V"
+      "duration_ms": 134126,
+      "name": "in my heart",
+      "url": "https://open.spotify.com/track/1mMYgbdQWu6nvXVq7LRFio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TEK VIRUS",
+        "url": "https://open.spotify.com/album/43amIZ7kYYRxfN1veKmrsI"
+      },
+      "artists": [
+        {
+          "name": "UrvTek",
+          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
+        }
+      ],
+      "duration_ms": 241942,
+      "name": "TEK VIRUS",
+      "url": "https://open.spotify.com/track/6yBLNlEO4sDWfKYiTzl2LP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "all my frens r rainbowz, but i'm still DEAD INSIDE!!!",
+        "url": "https://open.spotify.com/album/0Y6EF8DEimN2pfHQjs9sLb"
+      },
+      "artists": [
+        {
+          "name": "glitterpop!",
+          "url": "https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "all my frens r rainbowz, but i'm still DEAD INSIDE!!!",
+      "url": "https://open.spotify.com/track/7seEwSO5nqdoCdLnKsqy4g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+      },
+      "artists": [
+        {
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+        }
+      ],
+      "duration_ms": 153124,
+      "name": "IDOLiZER",
+      "url": "https://open.spotify.com/track/3ubsCWDJ0AJW9mb4NTgJS6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "superposition",
+        "url": "https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 131378,
+      "name": "superposition",
+      "url": "https://open.spotify.com/track/0foq1CuScisKw9QXmktboo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "imaginary friend",
+        "url": "https://open.spotify.com/album/017ucwQN1BKdBnv8LUXeuK"
+      },
+      "artists": [
+        {
+          "name": "little purr man",
+          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+        }
+      ],
+      "duration_ms": 60210,
+      "name": "imaginary friend",
+      "url": "https://open.spotify.com/track/4BwnBxo64tb5FXsGfUEpWR"
     },
     {
       "added_at": null,
@@ -519,44 +523,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "Favourite Parasite",
-        "url": "https://open.spotify.com/album/4cLMthT8fzucGTvp0Dc2Jw"
+        "name": "SAVE ME!!",
+        "url": "https://open.spotify.com/album/7gYdh2DU089HeaEtuj0nEG"
       },
       "artists": [
         {
-          "name": "little purr man",
-          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+          "name": "UrvTek",
+          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
         }
       ],
-      "duration_ms": 60550,
-      "name": "Favourite Parasite",
-      "url": "https://open.spotify.com/track/05laIrWUgXQbNADLYoGMCr"
+      "duration_ms": 229288,
+      "name": "SAVE ME!!",
+      "url": "https://open.spotify.com/track/3fLkQuvM6hKIoKUPS8UZfe"
     },
     {
       "added_at": null,
       "album": {
-        "name": "luv u FUREVR!!!",
-        "url": "https://open.spotify.com/album/3wanIvSKYzsw6Pf2fbQMo1"
+        "name": "rainbowz x3!!!",
+        "url": "https://open.spotify.com/album/28OPrD4yG1r0b1rGDwiHUf"
       },
       "artists": [
         {
           "name": "glitterpop!",
           "url": "https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40"
-        },
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/2dWMzprBJEneePM7aWGsDv"
         }
       ],
-      "duration_ms": 150000,
-      "name": "luv u FUREVR!!!",
-      "url": "https://open.spotify.com/track/41VoSLujxqqwkKeZobMepl"
+      "duration_ms": 160733,
+      "name": "rainbowz x3!!!",
+      "url": "https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "no response",
-        "url": "https://open.spotify.com/album/3cgXBePYbhtd8qlpFGTGMm"
+        "name": "i only got one",
+        "url": "https://open.spotify.com/album/3c7bZRslufiDbDTjsyV2w7"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 121874,
-      "name": "no response",
-      "url": "https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU"
+      "duration_ms": 70024,
+      "name": "i only got one",
+      "url": "https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL"
     },
     {
       "added_at": null,
@@ -580,25 +580,25 @@
           "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Who are you pretending to be?",
-      "url": "https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD"
+      "duration_ms": 108500,
+      "name": "Remember when i was 14 that was so CRiNGE lol",
+      "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "SAVE ME!!",
-        "url": "https://open.spotify.com/album/7gYdh2DU089HeaEtuj0nEG"
+        "name": "Favourite Parasite",
+        "url": "https://open.spotify.com/album/4cLMthT8fzucGTvp0Dc2Jw"
       },
       "artists": [
         {
-          "name": "UrvTek",
-          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
+          "name": "little purr man",
+          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
         }
       ],
-      "duration_ms": 229288,
-      "name": "SAVE ME!!",
-      "url": "https://open.spotify.com/track/3fLkQuvM6hKIoKUPS8UZfe"
+      "duration_ms": 60550,
+      "name": "Favourite Parasite",
+      "url": "https://open.spotify.com/track/05laIrWUgXQbNADLYoGMCr"
     },
     {
       "added_at": null,
@@ -627,24 +627,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "imaginary friend",
-        "url": "https://open.spotify.com/album/017ucwQN1BKdBnv8LUXeuK"
+        "name": "c.e.d. (manic)",
+        "url": "https://open.spotify.com/album/665k9OEF40QZt98Y2c2Z3a"
       },
       "artists": [
         {
-          "name": "little purr man",
-          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+          "name": "salv the dog",
+          "url": "https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb"
         }
       ],
-      "duration_ms": 60210,
-      "name": "imaginary friend",
-      "url": "https://open.spotify.com/track/4BwnBxo64tb5FXsGfUEpWR"
+      "duration_ms": 98482,
+      "name": "c.e.d. (manic)",
+      "url": "https://open.spotify.com/track/0Vji7774dqXL6TihvdLEEx"
     },
     {
       "added_at": null,
       "album": {
-        "name": "freeze up",
-        "url": "https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN"
+        "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
+        "url": "https://open.spotify.com/album/6wXmfsjzYp8tpmoIZr4WjJ"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 117408,
-      "name": "freeze up",
-      "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
+      "duration_ms": 101668,
+      "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
+      "url": "https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+      },
+      "artists": [
+        {
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+        }
+      ],
+      "duration_ms": 96625,
+      "name": "MANICa",
+      "url": "https://open.spotify.com/track/4xGQ1u0EbqIwcmv9ViuowJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fox Paws",
         "url": "https://open.spotify.com/album/0nsb8DM6Dhzb4LrHN5zC8g"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KNOT SONG",
-        "url": "https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT"
-      },
-      "artists": [
-        {
-          "name": "Pent Up Pup",
-          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "KNOT SONG",
-      "url": "https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "superposition",
-        "url": "https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2"
+        "name": "no response",
+        "url": "https://open.spotify.com/album/3cgXBePYbhtd8qlpFGTGMm"
       },
       "artists": [
         {
@@ -740,25 +740,25 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 131378,
-      "name": "superposition",
-      "url": "https://open.spotify.com/track/0foq1CuScisKw9QXmktboo"
+      "duration_ms": 121874,
+      "name": "no response",
+      "url": "https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
-        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+        "name": "Sleep Paralysis",
+        "url": "https://open.spotify.com/album/0VL7JtzWNmVOvPAB6YtpLO"
       },
       "artists": [
         {
-          "name": "STYXVII",
-          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+          "name": "thquib",
+          "url": "https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm"
         }
       ],
-      "duration_ms": 108500,
-      "name": "Remember when i was 14 that was so CRiNGE lol",
-      "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
+      "duration_ms": 105000,
+      "name": "Sleep Paralysis",
+      "url": "https://open.spotify.com/track/1MniCshySWjTHcKkUo863V"
     },
     {
       "added_at": null,
@@ -779,50 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "c.e.d. (manic)",
-        "url": "https://open.spotify.com/album/665k9OEF40QZt98Y2c2Z3a"
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
       },
       "artists": [
         {
-          "name": "salv the dog",
-          "url": "https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb"
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
         }
       ],
-      "duration_ms": 98482,
-      "name": "c.e.d. (manic)",
-      "url": "https://open.spotify.com/track/0Vji7774dqXL6TihvdLEEx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IDK",
-        "url": "https://open.spotify.com/album/1A2J8rZmQaAHVFBWzW3I5v"
-      },
-      "artists": [
-        {
-          "name": "little purr man",
-          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
-        }
-      ],
-      "duration_ms": 99596,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no inbetween",
-        "url": "https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 111494,
-      "name": "no inbetween",
-      "url": "https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi"
+      "duration_ms": 164500,
+      "name": "Who are you pretending to be?",
+      "url": "https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD"
     },
     {
       "added_at": null,
@@ -843,34 +811,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
-        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+        "name": "LIES",
+        "url": "https://open.spotify.com/album/6H2AwWRJKRixHw7wcUliAx"
       },
       "artists": [
         {
-          "name": "STYXVII",
-          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 148500,
-      "name": "VICTIMiZED",
-      "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"
+      "duration_ms": 65901,
+      "name": "LIES",
+      "url": "https://open.spotify.com/track/42NO1CgBdqn9jm0bZ2zpQp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "GLITTER IN THE BIG CITY!",
-        "url": "https://open.spotify.com/album/3caKl4lh0NPHT3YwOW5jT9"
+        "name": "KNOT SONG",
+        "url": "https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT"
       },
       "artists": [
         {
-          "name": "glitterpop!",
-          "url": "https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40"
+          "name": "Pent Up Pup",
+          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
         }
       ],
-      "duration_ms": 274186,
-      "name": "WAG UR TAIL 2 THIS! (PAWS UP ON THE DANCEFLOOR!)",
-      "url": "https://open.spotify.com/track/27Ia129EFB9zrcp2VgaEs0"
+      "duration_ms": 138000,
+      "name": "KNOT SONG",
+      "url": "https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub"
     },
     {
       "added_at": null,
@@ -887,6 +855,38 @@
       "duration_ms": 153575,
       "name": "AlterHuman",
       "url": "https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FURRIES JUST WANNA HAVE FUN!",
+        "url": "https://open.spotify.com/album/2d9lTBrplUQSXxKXJGVI6b"
+      },
+      "artists": [
+        {
+          "name": "glitterpop!",
+          "url": "https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "FURRIES JUST WANNA HAVE FUN!",
+      "url": "https://open.spotify.com/track/4t5vhVmALRs8rkakMGZYjk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+      },
+      "artists": [
+        {
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+        }
+      ],
+      "duration_ms": 125500,
+      "name": "Why do i miss u",
+      "url": "https://open.spotify.com/track/7wS766zakrGZdc1WpaiXmk"
     }
   ],
   "unique_name": "Kittydog Radio",

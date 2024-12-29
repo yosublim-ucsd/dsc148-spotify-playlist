@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1502,
+  "num_followers": 1503,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAAo21ioX3caezxo5g6dcVwg",
+  "snapshot_id": "Z23uAAAAAAC82yC3olVHZrG6DQ00ASOf",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 186026,
-      "name": "Sombrero, Zarape Y Guitarra",
-      "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
+      "duration_ms": 206933,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
+      "duration_ms": 186026,
+      "name": "Sombrero, Zarape Y Guitarra",
+      "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Dejala Que Baile",
-      "url": "https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN"
+      "duration_ms": 213093,
+      "name": "Mambo Loco",
+      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
     },
     {
       "added_at": null,
@@ -652,25 +652,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Mambo Loco",
-      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
+      "duration_ms": 176893,
+      "name": "Dejala Que Baile",
+      "url": "https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN"
     },
     {
       "added_at": null,
@@ -691,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras de Lazo y Reata",
-        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
       },
       "artists": [
         {
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 147400,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
+      "duration_ms": 161053,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
       "duration_ms": 180493,
       "name": "La Crisis",
       "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras de Lazo y Reata",
+        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
     },
     {
       "added_at": null,

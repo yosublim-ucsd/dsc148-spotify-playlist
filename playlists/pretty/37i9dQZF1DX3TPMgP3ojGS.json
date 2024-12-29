@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 441658,
+  "num_followers": 441792,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Muse Of History",
-        "url": "https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi"
-      },
-      "artists": [
-        {
-          "name": "Roland Toubin",
-          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
-        }
-      ],
-      "duration_ms": 141814,
-      "name": "Muse Of History",
-      "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Air from Air",
         "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 199428,
       "name": "Air from Air",
       "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Muse Of History",
+        "url": "https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi"
+      },
+      "artists": [
+        {
+          "name": "Roland Toubin",
+          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
+        }
+      ],
+      "duration_ms": 141814,
+      "name": "Muse Of History",
+      "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
-      },
-      "artists": [
-        {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
-        }
-      ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Le Recueillement",
         "url": "https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 147098,
       "name": "Le Recueillement",
       "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
-      },
-      "artists": [
-        {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
-        }
-      ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "To Bring Rest",
         "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 137749,
       "name": "To Bring Rest",
       "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Through The Blue (Piano Version)",
-        "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
-      },
-      "artists": [
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        }
-      ],
-      "duration_ms": 225494,
-      "name": "Through The Blue - Piano Version",
-      "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Under a tree",
         "url": "https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 138442,
       "name": "Under a tree",
       "url": "https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Through The Blue (Piano Version)",
+        "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "duration_ms": 225494,
+      "name": "Through The Blue - Piano Version",
+      "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Countryside Mansion",
-        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
-      },
-      "artists": [
-        {
-          "name": "Joanne Gardiner",
-          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Countryside Mansion",
-      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Quiet Eyes",
         "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Onward",
-        "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
+        "name": "Countryside Mansion",
+        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
       },
       "artists": [
         {
-          "name": "Remi Sinclair",
-          "url": "https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn"
+          "name": "Joanne Gardiner",
+          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Onward",
-      "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
+      "duration_ms": 182213,
+      "name": "Countryside Mansion",
+      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -863,6 +847,22 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
+        "name": "Onward",
+        "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
+      },
+      "artists": [
+        {
+          "name": "Remi Sinclair",
+          "url": "https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
         "name": "Passeggiata Serale",
         "url": "https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 132930,
       "name": "Passeggiata Serale",
       "url": "https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
-        "name": "Peace flow",
-        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
-      },
-      "artists": [
-        {
-          "name": "Jon Albreit",
-          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
-        }
-      ],
-      "duration_ms": 137692,
-      "name": "Peace flow",
-      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -911,18 +895,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+        "name": "Peace flow",
+        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
       },
       "artists": [
         {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
         }
       ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+      "duration_ms": 137692,
+      "name": "Peace flow",
+      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -939,6 +923,22 @@
       "duration_ms": 143400,
       "name": "Act Of Reconciling",
       "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+        }
+      ],
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
-      },
-      "artists": [
-        {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Release from silence",
         "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Songs Of Sundown",
-        "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
       },
       "artists": [
         {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
         }
       ],
-      "duration_ms": 140625,
-      "name": "One More Story",
-      "url": "https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2"
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 131295,
       "name": "Light of wintertime",
       "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Songs Of Sundown",
+        "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "One More Story",
+      "url": "https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH"
-      },
-      "artists": [
-        {
-          "name": "Portia Price",
-          "url": "https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7"
-        }
-      ],
-      "duration_ms": 138301,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Eclipsis",
         "url": "https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 146079,
       "name": "Eclipsis",
       "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH"
+      },
+      "artists": [
+        {
+          "name": "Portia Price",
+          "url": "https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7"
+        }
+      ],
+      "duration_ms": 138301,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Valse Naturelle",
-        "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
-      },
-      "artists": [
-        {
-          "name": "Etienne Balestre",
-          "url": "https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd"
-        }
-      ],
-      "duration_ms": 139624,
-      "name": "Valse Naturelle",
-      "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Sonnet 1",
         "url": "https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 131451,
       "name": "Sonnet 1",
       "url": "https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Valse Naturelle",
+        "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
+      },
+      "artists": [
+        {
+          "name": "Etienne Balestre",
+          "url": "https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd"
+        }
+      ],
+      "duration_ms": 139624,
+      "name": "Valse Naturelle",
+      "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
     },
     {
       "added_at": "2024-07-10 03:01:00",

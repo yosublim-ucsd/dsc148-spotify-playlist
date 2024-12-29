@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,937 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,943 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Thank God](https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI) | [Thank God](https://open.spotify.com/album/3SVVpAm8enSoy5Ab4NUQAR) | 4:14 |
 | 50 | [Father Knows Best](https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 6:31 |
 
-Snapshot ID: `Z2ycgAAAAAAJiPi8L+FjVyAfWLfgcRJD`
+Snapshot ID: `Z23uAAAAAADTsIYGysVnLoDixxN49NDz`

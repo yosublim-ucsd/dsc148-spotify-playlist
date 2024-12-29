@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 584112,
+  "num_followers": 584198,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "Sacha Vee",
+          "url": "https://open.spotify.com/artist/0T39WRpIykwV2LJhmO6mj8"
+        }
+      ],
+      "duration_ms": 227899,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
         "name": "Club Future Nostalgia (DJ Mix)",
         "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 180040,
       "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
       "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        },
-        {
-          "name": "Sacha Vee",
-          "url": "https://open.spotify.com/artist/0T39WRpIykwV2LJhmO6mj8"
-        }
-      ],
-      "duration_ms": 227899,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "Bless Me (with Discrete)",
-        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Bless Me (with Discrete)",
-      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
         "name": "Open Market",
         "url": "https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Bless Me (with Discrete)",
+        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Bless Me (with Discrete)",
+      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
         "name": "Missing You (Michael Gray Remix)",
         "url": "https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi"
       },
@@ -1435,46 +1455,6 @@
       "duration_ms": 179037,
       "name": "Missing You - Michael Gray Remix",
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "Fantasy (feat. Franc Moody)",
-        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 212922,
-      "name": "Fantasy (feat. Franc Moody)",
-      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "24 (Turn It Up) (Radio Edit)",
-        "url": "https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
-        }
-      ],
-      "duration_ms": 191084,
-      "name": "24 (Turn It Up) (Radio Edit)",
-      "url": "https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1527,6 +1507,26 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
+        "name": "24 (Turn It Up) (Radio Edit)",
+        "url": "https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "duration_ms": 191084,
+      "name": "24 (Turn It Up) (Radio Edit)",
+      "url": "https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
         "name": "Never Let It Go",
         "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
       },
@@ -1559,6 +1559,38 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
+        "name": "Disc Me Bro",
+        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Disc Me Bro",
+      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
         "name": "UP DOWN BOUNCE",
         "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
       },
@@ -1575,22 +1607,6 @@
       "duration_ms": 188571,
       "name": "UP DOWN BOUNCE",
       "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "Disc Me Bro",
-        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
-      },
-      "artists": [
-        {
-          "name": "Basixx",
-          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Disc Me Bro",
-      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1615,22 +1631,6 @@
       "duration_ms": 215686,
       "name": "Somethin Bout You (feat. Betsy)",
       "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
         "name": "NEVER ALONE",
         "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 195986,
       "name": "NEVER ALONE",
       "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
+        "name": "Ce Soir On Danse",
+        "url": "https://open.spotify.com/album/6aKSQSUkyOjSkc6twb0EHp"
+      },
+      "artists": [
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        },
+        {
+          "name": "Roller Funk",
+          "url": "https://open.spotify.com/artist/4D1to1Gw3tVIt4Wb1aBcn2"
+        }
+      ],
+      "duration_ms": 250873,
+      "name": "Ce Soir On Danse",
+      "url": "https://open.spotify.com/track/2JAhXfMnqWkSl8FKpbXVc7"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
         "name": "Tropics",
         "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
       },
@@ -1895,30 +1915,6 @@
       "duration_ms": 149745,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "CAN'T GO HOME",
-        "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
-      },
-      "artists": [
-        {
-          "name": "Tayrell",
-          "url": "https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        },
-        {
-          "name": "Elijah Fox",
-          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "CAN'T GO HOME",
-      "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1947,6 +1943,30 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
+        "name": "CAN'T GO HOME",
+        "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
+      },
+      "artists": [
+        {
+          "name": "Tayrell",
+          "url": "https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "CAN'T GO HOME",
+      "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
         "name": "Love In C Minor (Franc Moody Remix)",
         "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
       },
@@ -1963,22 +1983,6 @@
       "duration_ms": 185400,
       "name": "Love In C Minor - Franc Moody Remix",
       "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "All The Things We Say / Move Me",
-        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231105,
-      "name": "All The Things We Say",
-      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -2003,22 +2007,18 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
+        "name": "All The Things We Say / Move Me",
+        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
       },
       "artists": [
         {
-          "name": "Tina Arena",
-          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
-        },
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 215649,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6"
+      "duration_ms": 231105,
+      "name": "All The Things We Say",
+      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -2039,18 +2039,22 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "No More Stress",
-        "url": "https://open.spotify.com/album/1duw7hSkfz60Ar7A5iQkyl"
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
       },
       "artists": [
         {
-          "name": "NOCUI",
-          "url": "https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV"
+          "name": "Tina Arena",
+          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
+        },
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 209127,
-      "name": "No More Stress",
-      "url": "https://open.spotify.com/track/6WVaITvyrPXuDjVthu95As"
+      "duration_ms": 215649,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -2079,26 +2083,6 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "Ce Soir On Danse",
-        "url": "https://open.spotify.com/album/6aKSQSUkyOjSkc6twb0EHp"
-      },
-      "artists": [
-        {
-          "name": "Angelo Ferreri",
-          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
-        },
-        {
-          "name": "Roller Funk",
-          "url": "https://open.spotify.com/artist/4D1to1Gw3tVIt4Wb1aBcn2"
-        }
-      ],
-      "duration_ms": 250873,
-      "name": "Ce Soir On Danse",
-      "url": "https://open.spotify.com/track/2JAhXfMnqWkSl8FKpbXVc7"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
         "name": "Tension (The Remixes)",
         "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 246533,
       "name": "Tension (Chromeo Remix)",
       "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "No More Stress",
+        "url": "https://open.spotify.com/album/1duw7hSkfz60Ar7A5iQkyl"
+      },
+      "artists": [
+        {
+          "name": "NOCUI",
+          "url": "https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV"
+        }
+      ],
+      "duration_ms": 209127,
+      "name": "No More Stress",
+      "url": "https://open.spotify.com/track/6WVaITvyrPXuDjVthu95As"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -2367,30 +2367,6 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "CAPYAC FOREVER",
-        "url": "https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3"
-      },
-      "artists": [
-        {
-          "name": "CAPYAC",
-          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
-        },
-        {
-          "name": "Slim Jeff",
-          "url": "https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk"
-        },
-        {
-          "name": "Annabelle Freedman",
-          "url": "https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -2411,6 +2387,30 @@
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "CAPYAC FOREVER",
+        "url": "https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3"
+      },
+      "artists": [
+        {
+          "name": "CAPYAC",
+          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
+        },
+        {
+          "name": "Slim Jeff",
+          "url": "https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk"
+        },
+        {
+          "name": "Annabelle Freedman",
+          "url": "https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3"
     }
   ],
   "unique_name": "Poolside Disco",

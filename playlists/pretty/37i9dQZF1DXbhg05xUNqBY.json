@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 348243,
+  "num_followers": 348226,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "prove it",
-        "url": "https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        },
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "prove it",
-      "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Weight of Your Glory",
         "url": "https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 176000,
       "name": "Have My Heart",
       "url": "https://open.spotify.com/track/1x5wCRfjkvBtsWEWO0uBSc"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "prove it",
+        "url": "https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "prove it",
+      "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Conquering Eden",
-        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
-      },
-      "artists": [
-        {
-          "name": "Cam Sakkara",
-          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
-        }
-      ],
-      "duration_ms": 240337,
-      "name": "One Too Many Reasons",
-      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Glasshouse",
         "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Conquering Eden",
+        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
+      },
+      "artists": [
+        {
+          "name": "Cam Sakkara",
+          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
+        }
+      ],
+      "duration_ms": 240337,
+      "name": "One Too Many Reasons",
+      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Feel Holy",
         "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 331800,
       "name": "Feel Holy",
       "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Late Bloomer",
-        "url": "https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz"
-      },
-      "artists": [
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 235254,
-      "name": "Hallelujah (In Your Arms)",
-      "url": "https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz"
+      },
+      "artists": [
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "duration_ms": 235254,
+      "name": "Hallelujah (In Your Arms)",
+      "url": "https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Heal My Heart (Live)",
         "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Known, Seen, Loved (LIVE from the Quarry)",
-        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
-      },
-      "artists": [
-        {
-          "name": "M\u014cRIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 187264,
-      "name": "Known, Seen, Loved (LIVE from the Quarry)",
-      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Known, Seen, Loved (LIVE from the Quarry)",
+        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
+      },
+      "artists": [
+        {
+          "name": "M\u014cRIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 187264,
+      "name": "Known, Seen, Loved (LIVE from the Quarry)",
+      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "LoFi Vineyard: Chill Worship Beats to Focus and Relax",
-        "url": "https://open.spotify.com/album/1d4dzA8G4GrdoTjZMle41D"
-      },
-      "artists": [
-        {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Refiner's Fire",
-      "url": "https://open.spotify.com/track/3rEnwtsctdObHnurVLyCgA"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "renatus",
         "url": "https://open.spotify.com/album/47oj3EQYnWoREX9XGk6VI5"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 289230,
       "name": "It Is I",
       "url": "https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "LoFi Vineyard: Chill Worship Beats to Focus and Relax",
+        "url": "https://open.spotify.com/album/1d4dzA8G4GrdoTjZMle41D"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Refiner's Fire",
+      "url": "https://open.spotify.com/track/3rEnwtsctdObHnurVLyCgA"
     },
     {
       "added_at": "2024-07-26 09:52:44",

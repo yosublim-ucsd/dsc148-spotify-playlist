@@ -7434,7 +7434,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 436349,
       "name": "Garden of Remembrance",
       "url": "https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh"
@@ -24527,6 +24527,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3051\u306a\u3044\u3072\u307f\u3064",
+        "url": "https://open.spotify.com/album/608QksoNbIViwjp15kbj1q"
+      },
+      "artists": [
+        {
+          "name": "Special Favorite Music",
+          "url": "https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277010,
+      "name": "\u3042\u3051\u306a\u3044\u3072\u307f\u3064",
+      "url": "https://open.spotify.com/track/3ufoRksbgnm36Yj9jX0C4X"
+    },
+    {
+      "album": {
         "name": "\u3042\u3051\u307c\u306e (2023)",
         "url": "https://open.spotify.com/album/7DEvmHRVHWr0g4eFyKuW87"
       },
@@ -34542,7 +34560,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 249503,
       "name": "\u6681",
       "url": "https://open.spotify.com/track/2thg7ZioIVn94vRNd2DPFF"
@@ -38314,6 +38332,24 @@
       "duration_ms": 253140,
       "name": "\u99c4\u53c9",
       "url": "https://open.spotify.com/track/0qYFLPgDBTCF4jCNM5tImu"
+    },
+    {
+      "album": {
+        "name": "HAPPY BIRTHDAY",
+        "url": "https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj"
+      },
+      "artists": [
+        {
+          "name": "LAYRUS LOOP",
+          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186766,
+      "name": "\u9b54\u6cd5\u4f7f\u3044\u306b\u306a\u308a\u305f\u304f\u3066",
+      "url": "https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab"
     },
     {
       "album": {

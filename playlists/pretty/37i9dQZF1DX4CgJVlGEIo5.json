@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 366674,
+  "num_followers": 366765,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Lavender Haze (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Lavender Haze - Acoustic Version",
-      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 222813,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Lavender Haze (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Lavender Haze - Acoustic Version",
+      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+      "duration_ms": 215111,
+      "name": "Beat of My Heart",
+      "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Beat of My Heart",
-      "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 233026,
       "name": "System",
       "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
-        "name": "Lost On You",
-        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 195579,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -687,6 +671,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 195579,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Mipso",
-        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Sleepless in Seattle",
         "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Mipso",
+        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Down and Out in the Garden of Earthly Delights",
-        "url": "https://open.spotify.com/album/7JQc4yfzKlnznKY4glZXkY"
-      },
-      "artists": [
-        {
-          "name": "Geographer",
-          "url": "https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ"
-        }
-      ],
-      "duration_ms": 141302,
-      "name": "Lost in a Love Song",
-      "url": "https://open.spotify.com/track/5o985l6Hc9GzkOx3gyF0Me"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Heavy Metal Heart",
         "url": "https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 167658,
       "name": "Moment in Time",
       "url": "https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Down and Out in the Garden of Earthly Delights",
+        "url": "https://open.spotify.com/album/7JQc4yfzKlnznKY4glZXkY"
+      },
+      "artists": [
+        {
+          "name": "Geographer",
+          "url": "https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ"
+        }
+      ],
+      "duration_ms": 141302,
+      "name": "Lost in a Love Song",
+      "url": "https://open.spotify.com/track/5o985l6Hc9GzkOx3gyF0Me"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Walk into a Storm",
-        "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Is It Ever Gonna Be Easy",
-      "url": "https://open.spotify.com/track/6K1MklYCOtE3ydMrG0Pv1N"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Famous",
         "url": "https://open.spotify.com/album/66jxEpRg72cH9574G9L49e"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 222571,
       "name": "Famous",
       "url": "https://open.spotify.com/track/3tE7QWHK8fCsSBMtSUQK1B"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Walk into a Storm",
+        "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Is It Ever Gonna Be Easy",
+      "url": "https://open.spotify.com/track/6K1MklYCOtE3ydMrG0Pv1N"
     },
     {
       "added_at": "2024-07-05 21:33:59",

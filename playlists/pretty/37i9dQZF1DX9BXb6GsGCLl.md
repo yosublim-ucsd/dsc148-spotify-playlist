@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,193 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,215 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 74 | [Alane](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Wes](https://open.spotify.com/artist/3tXUeiWOSod3mSQ2lOautf) | [Alane](https://open.spotify.com/album/537cgkkJUqMb46JUSNh0n7) | 2:55 |
 | 75 | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2lYTJK94hb0fd1LQtb6Dhk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/album/4sqrDaJcbCIo6aeqO26maj) | 3:03 |
 | 76 | [Pretty Girl \- Cheat Codes X CADE Remix](https://open.spotify.com/track/39IsH7B5byx8NRlEKlZVg9) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Pretty Girl \(Cheat Codes X CADE Remix\)](https://open.spotify.com/album/6jO7hs4GsF6924w10xQTyA) | 3:13 |
-| 77 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/1o9D0rUusi2V5idyOEOPII) | [Winati](https://open.spotify.com/artist/7hsdPMApV4JTkBUUL4ZWMk), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [Louise CS](https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM) | [Sweet Dreams \(are Made of This\)](https://open.spotify.com/album/6j3DvP1XrNbx0FtXBu5N4B) | 2:56 |
-| 78 | [BED](https://open.spotify.com/track/7jXQUrVhEpXdymfFWNDnQW) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/2GgDZ0wSOWSD4916BWzbNX) | 2:58 |
+| 77 | [BED](https://open.spotify.com/track/7jXQUrVhEpXdymfFWNDnQW) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/2GgDZ0wSOWSD4916BWzbNX) | 2:58 |
+| 78 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/1o9D0rUusi2V5idyOEOPII) | [Winati](https://open.spotify.com/artist/7hsdPMApV4JTkBUUL4ZWMk), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [Louise CS](https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM) | [Sweet Dreams \(are Made of This\)](https://open.spotify.com/album/6j3DvP1XrNbx0FtXBu5N4B) | 2:56 |
 | 79 | [Grown Woman](https://open.spotify.com/track/2YrAC1ZW7G7jiZfz2tHoXw) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Grown Woman](https://open.spotify.com/album/3Zpdg1WMQqfWrf4sXAHxLJ) | 5:10 |
 | 80 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/14ngWWxvUSnIMXgF6rzSk1) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/1h2sYjn95QeTA0rSBCoke0) | 2:36 |
 

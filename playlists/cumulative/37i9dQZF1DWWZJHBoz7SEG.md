@@ -4,7 +4,7 @@
 
 > ¡Feliz 2025! Celebra las fiestas en compañía de Luis R\. Conriquez y TRAKAS, Hijos de su próspero Año Nuevo 🪅
 
-7,470 songs - 16 day 21 hr 57 min
+7,471 songs - 16 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3361,7 +3361,8 @@
 | [La Pena](https://open.spotify.com/track/1ixyB5FPbpXJQGRG4jSIdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Pena](https://open.spotify.com/album/5AZrYlE2IghdBW9MZsA9Zu) | 2:02 | 2024-09-13 | 2024-09-21 |
 | [La Pena Vuela \(VMG\)](https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [La Pena Vuela \(VMG\)](https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb) | 2:34 | 2024-10-04 | 2024-10-12 |
 | [LA PEOPLE II](https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5) | [LA PEOPLE II](https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c) | 2:21 | 2024-03-22 | 2024-03-30 |
-| [La Perla](https://open.spotify.com/track/7AEoF9yFVvSiNOyXhgFuK4) | [Alexis Riovar](https://open.spotify.com/artist/6mHy8OOEaqtBS7v2Ley3ql) | [La Perla](https://open.spotify.com/album/64jWfutlMw2TtMaTg9TZCC) | 3:01 | 2024-12-27 |  |
+| [La Perla](https://open.spotify.com/track/7AEoF9yFVvSiNOyXhgFuK4) | [Alexis Riovar](https://open.spotify.com/artist/6mHy8OOEaqtBS7v2Ley3ql) | [La Perla](https://open.spotify.com/album/64jWfutlMw2TtMaTg9TZCC) | 3:01 | 2024-12-27 | 2024-12-29 |
+| [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa) | 3:02 | 2024-12-28 |  |
 | [La Playa](https://open.spotify.com/track/6vODt4E4hZNCsJ3hFe5Ve2) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Scoop Deville](https://open.spotify.com/artist/0LJri3xvwsHWKErcNKnZxg) | [La Playa](https://open.spotify.com/album/7u1DEKqn7WLabDAteCjPjH) | 3:24 | 2024-03-22 | 2024-03-30 |
 | [La Policía](https://open.spotify.com/track/0ZhdPl4IGi5OhxoCF59CBh) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Policía](https://open.spotify.com/album/4AKbSeK2V2dS3pPf3inLog) | 2:37 | 2024-11-29 | 2024-12-07 |
 | [La Prendo](https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Prendo](https://open.spotify.com/album/4eCRi01qxklHWrG0sIra8x) | 3:01 | 2022-05-27 | 2022-06-04 |

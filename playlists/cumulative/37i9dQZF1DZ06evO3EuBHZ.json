@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Anthology: Her Golden Years (Remastered)",
+        "url": "https://open.spotify.com/album/62orITUXb62uB9JoYrW6qc"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143751,
+      "name": "Big Mamas Coming Home - Remastered",
+      "url": "https://open.spotify.com/track/3iq0LrBTXbfQEBrqKDXmLE"
+    },
+    {
+      "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
       },
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 149400,
       "name": "Me and My Chauffeur",
       "url": "https://open.spotify.com/track/6BN7PhWrFyoKUFeInzG8i7"

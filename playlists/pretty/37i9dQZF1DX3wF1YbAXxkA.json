@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 90898,
+  "num_followers": 91043,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Can\u2019t Walk Away",
-        "url": "https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        },
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "Can\u2019t Walk Away",
-      "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 254346,
       "name": "The End",
       "url": "https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Can\u2019t Walk Away",
+        "url": "https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "Can\u2019t Walk Away",
+      "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
     },
     {
-      "added_at": "2024-10-18 20:43:05",
-      "album": {
-        "name": "Decimal",
-        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "Ultra 85",
@@ -871,6 +855,22 @@
       "duration_ms": 314826,
       "name": "Gardens III",
       "url": "https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5"
+    },
+    {
+      "added_at": "2024-10-18 20:43:05",
+      "album": {
+        "name": "Decimal",
+        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 150005,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 200277,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 150005,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "King of Sweden",
-        "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "King of Sweden",
-      "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Dola re Dola",
         "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 125538,
       "name": "Dola re Dola",
       "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "King of Sweden",
+        "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "King of Sweden",
+      "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "What Do You Believe In?",
-        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 190474,
-      "name": "What Do You Believe In?",
-      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Garden State Vampire",
         "url": "https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "What Do You Believe In?",
+        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 190474,
+      "name": "What Do You Believe In?",
+      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "GOODTIME",
         "url": "https://open.spotify.com/album/0hSOM2pULHVVCgOyI98rHy"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 164516,
       "name": "GOODTIME",
       "url": "https://open.spotify.com/track/3CN6YEns6bX9k88E49tFbu"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "What Type Of Girl Am I?",
+      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 174855,
       "name": "Blindside",
       "url": "https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "What Type Of Girl Am I?",
-      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
     },
     {
       "added_at": "2024-09-16 11:00:00",

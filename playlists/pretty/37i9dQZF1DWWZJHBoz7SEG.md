@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Feliz 2025! Celebra las fiestas en compañía de Luis R\. Conriquez y TRAKAS, Hijos de su próspero Año Nuevo 🪅
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,232 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,415 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 2 | [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 |
 | 3 | [LOS DEPURO \(feat\. L\-Gante\)](https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 3:10 |
 | 4 | [Ta Te Ti](https://open.spotify.com/track/5a1ei3NVCdkaW4MnVtWP28) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Ta Te Ti](https://open.spotify.com/album/6aGWe5Wa7PJbgV07PLqUk9) | 3:21 |
-| 5 | [La Perla](https://open.spotify.com/track/7AEoF9yFVvSiNOyXhgFuK4) | [Alexis Riovar](https://open.spotify.com/artist/6mHy8OOEaqtBS7v2Ley3ql) | [La Perla](https://open.spotify.com/album/64jWfutlMw2TtMaTg9TZCC) | 3:01 |
+| 5 | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa) | 3:02 |
 | 6 | [El Trato](https://open.spotify.com/track/6d56fS92xq5zwKs33Ozhkf) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [El Trato](https://open.spotify.com/album/6Jsj65c2TXNkU6I0z9H4IB) | 2:59 |
 | 7 | [Invicto](https://open.spotify.com/track/0TqJnlDKmYdGS5gYalMuDj) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Gold Music](https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze) | [Invicto](https://open.spotify.com/album/61gt12xt4MhfXFnNmRJBQz) | 2:08 |
 | 8 | [BLANQUITA PERLA](https://open.spotify.com/track/1S9fzhOcPnfr8PsclH7Sct) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [BLANQUITA PERLA](https://open.spotify.com/album/1bIIgYf8b5YXHIADEPBPST) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Ké MaL \- versión tierna](https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL \(versión tierna\)](https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt) | 4:17 |
 | 50 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 |
 
-Snapshot ID: `Z25dawAAAABTaxvv6C6bE37Drzt/rDn0`
+Snapshot ID: `Z3AxdQAAAACmDoT12xgopFZXFuQ1s6Gx`

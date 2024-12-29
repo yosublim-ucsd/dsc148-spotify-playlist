@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 高橋優
 
-346 songs - 22 hr 5 min
+347 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [FLAG](https://open.spotify.com/track/6If6vrgZ9Ap4tR3C5RzDmj) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [FLAG](https://open.spotify.com/album/25JNVUxYxxBle0cJJNb3Td) | 4:36 | 2024-12-24 |  |
 | [FLASH BACK](https://open.spotify.com/track/5GWoE929sLxV55jF7Rzv7j) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [FLASH BACK](https://open.spotify.com/album/4edE37XRxnll12nkY5W8Fs) | 3:12 | 2024-07-16 | 2024-09-04 |
 | [Fly\-by \- 2024 observed ver.](https://open.spotify.com/track/45WjPSxKnHBARgV8VlB5ei) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Fly\-by \(2024 observed ver.\)](https://open.spotify.com/album/6imAeLXlqvAILqW0mICYEI) | 4:49 | 2024-08-27 | 2024-09-04 |
+| [Focus](https://open.spotify.com/track/0urdV0jisyivWsEK9tvLEP) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Focus](https://open.spotify.com/album/33WwEIAnf6lK3gACTnm1NP) | 3:50 | 2024-12-24 |  |
 | [Forbidden Thing \(Kimmotsu\)](https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 4:44 | 2024-07-26 | 2024-09-04 |
 | [GAME OVER](https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [GAME OVER](https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ) | 3:24 | 2024-11-13 |  |
 | [GHOST](https://open.spotify.com/track/35o3WMFCxU73xrS95rFjhi) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [GHOST](https://open.spotify.com/album/5oede8TqUcdeuKX7cBbK5y) | 2:38 | 2024-07-30 | 2024-08-07 |
@@ -175,7 +176,7 @@
 | [ねえ、ちゃんと聞いてる？](https://open.spotify.com/track/3r9U0eU5kDPzOz6iW6Rga0) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [ねえ、ちゃんと聞いてる？](https://open.spotify.com/album/1sXKBqs1PS1ArgzcE0Y3kM) | 4:02 | 2024-08-13 | 2024-10-09 |
 | [はじめての気持ち](https://open.spotify.com/track/2rtsAFgv7XpFdqiZKRNnQg) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [はじめての気持ち](https://open.spotify.com/album/2G8a31nz9dZjsdUnQ5nLLQ) | 3:51 | 2024-07-26 | 2024-07-31 |
 | [ひとみ](https://open.spotify.com/track/6mtXTKoMyna05KMXivyyqy) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [ひとみ](https://open.spotify.com/album/6re9xEtwNApBhotTyMPPyZ) | 4:25 | 2024-07-02 | 2024-07-27 |
-| [ほどほどにぎゅっとして](https://open.spotify.com/track/5PriGlwflyZD3AZC8Gj6id) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [ほどほどにぎゅっとして](https://open.spotify.com/album/4kWcVkqtUHjUukyNxpgMgC) | 2:53 | 2024-11-05 |  |
+| [ほどほどにぎゅっとして](https://open.spotify.com/track/5PriGlwflyZD3AZC8Gj6id) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [ほどほどにぎゅっとして](https://open.spotify.com/album/4kWcVkqtUHjUukyNxpgMgC) | 2:53 | 2024-11-05 | 2024-12-29 |
 | [ぼくの部屋においでヨ](https://open.spotify.com/track/3j44XhZV3f1n10HUSamZEO) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [君にモテたいっ!!](https://open.spotify.com/album/5OflzoOWZV8mZyAQLhBdfx) | 1:26 | 2024-09-17 | 2024-09-25 |
 | [ぼくらが旅に出る理由 \- 2024 Remaster](https://open.spotify.com/track/4YVtqgzAcCT7E1go9zQvxU) | [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [LIFE \(2024 Remaster\)](https://open.spotify.com/album/72plAVVbRzsMAP6H4laXjY) | 6:56 | 2024-07-26 | 2024-08-07 |
 | [まずは今日から](https://open.spotify.com/track/4cl8Y9jslA4jVYezBGZVAj) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [まずは今日から](https://open.spotify.com/album/0nncGUnUSR7PKsGubVMhxw) | 3:50 | 2024-11-13 |  |

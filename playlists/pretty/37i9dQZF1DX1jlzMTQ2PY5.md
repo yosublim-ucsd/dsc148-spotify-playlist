@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,570 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,649 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 23 | [Only You](https://open.spotify.com/track/14wbsRn4dzYtLE4QVhI0qB) | [Aperio](https://open.spotify.com/artist/7p6ffz42sYfufojFrfIDlX), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Only You](https://open.spotify.com/album/1pU3nDxtgVciYzPQMhFAj8) | 4:34 |
 | 24 | [Afterthought](https://open.spotify.com/track/1SMORwVIMmVDIFXfgUSmsE) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Afterthought](https://open.spotify.com/album/5yBSqRAxEt5eRFzPSQDxVh) | 4:22 |
 | 25 | [Illuminate](https://open.spotify.com/track/3BAsUgDkWZxkSeIS0rl9iE) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [Illuminate](https://open.spotify.com/album/2btXYqQB4bmCVy2zE6vqRa) | 4:23 |
-| 26 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
-| 27 | [Runaway](https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [X\-Ray](https://open.spotify.com/album/0e1sHJqFhzoetj1tPKXEyw) | 3:01 |
+| 26 | [Runaway](https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [X\-Ray](https://open.spotify.com/album/0e1sHJqFhzoetj1tPKXEyw) | 3:01 |
+| 27 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
 | 28 | [High & Low \- Zero T Remix](https://open.spotify.com/track/77Ai4rVwMPKoBbGHyCPVG9) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa), [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [High & Low \(Zero T Remix\)](https://open.spotify.com/album/6ZBQwPQrQITwmBI7lv0ouY) | 4:26 |
 | 29 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
 | 30 | [All My Life](https://open.spotify.com/track/4n5sqkxZ9Div98rOCulMMm) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [T.R.A.C.](https://open.spotify.com/artist/2EygWXS2PONQf9X130LWtU), [Stamina MC](https://open.spotify.com/artist/4Dj3ahDCFjotIV1O5Ung6o) | [All My Life](https://open.spotify.com/album/1lVZ4hgSVrtI8q0k4O5V0H) | 4:19 |

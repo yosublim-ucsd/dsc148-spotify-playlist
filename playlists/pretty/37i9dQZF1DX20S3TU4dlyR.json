@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dancing Mood",
-  "num_followers": 63310,
+  "num_followers": 63340,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-11-11 13:15:18",
       "album": {
+        "name": "El Pr\u00f3ximo Viernes",
+        "url": "https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 259092,
+      "name": "El Pr\u00f3ximo Viernes",
+      "url": "https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO"
+    },
+    {
+      "added_at": "2024-11-11 13:15:18",
+      "album": {
         "name": "La Tierra del Desencanto",
         "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 249542,
       "name": "La Tierra del Desencanto",
       "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
-    },
-    {
-      "added_at": "2024-11-11 13:15:18",
-      "album": {
-        "name": "El Pr\u00f3ximo Viernes",
-        "url": "https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 259092,
-      "name": "El Pr\u00f3ximo Viernes",
-      "url": "https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO"
     },
     {
       "added_at": "2024-11-11 13:15:18",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-11-11 13:15:18",
       "album": {
+        "name": "Hacia Adentro",
+        "url": "https://open.spotify.com/album/2DxR7H37k0RM2AUIf0UZzf"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        }
+      ],
+      "duration_ms": 230217,
+      "name": "Hacia Adentro",
+      "url": "https://open.spotify.com/track/0P4YmpAkL8Hv3LuwI29gMH"
+    },
+    {
+      "added_at": "2024-11-11 13:15:18",
+      "album": {
         "name": "Ruta",
         "url": "https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 225586,
       "name": "Ruta",
       "url": "https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR"
-    },
-    {
-      "added_at": "2024-11-11 13:15:18",
-      "album": {
-        "name": "Hacia Adentro",
-        "url": "https://open.spotify.com/album/2DxR7H37k0RM2AUIf0UZzf"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        }
-      ],
-      "duration_ms": 230217,
-      "name": "Hacia Adentro",
-      "url": "https://open.spotify.com/track/0P4YmpAkL8Hv3LuwI29gMH"
     },
     {
       "added_at": "2024-11-11 13:15:18",

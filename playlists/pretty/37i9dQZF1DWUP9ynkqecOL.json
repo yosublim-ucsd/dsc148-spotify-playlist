@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 23625,
+  "num_followers": 23638,
   "original_name": "Electro Folclore",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Los Pasos Labrados",
-        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
+        "name": "Los Andes",
+        "url": "https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j"
       },
       "artists": [
         {
-          "name": "Tonolec",
-          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         }
       ],
-      "duration_ms": 305160,
-      "name": "Zamba para Olvidar",
-      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
+      "duration_ms": 155062,
+      "name": "Los Andes",
+      "url": "https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -199,22 +203,18 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Los Andes",
-        "url": "https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j"
+        "name": "Los Pasos Labrados",
+        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
       },
       "artists": [
         {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Tonolec",
+          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
         }
       ],
-      "duration_ms": 155062,
-      "name": "Los Andes",
-      "url": "https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ"
+      "duration_ms": 305160,
+      "name": "Zamba para Olvidar",
+      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 290760,
-      "name": "La Maza",
-      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "Campo",
         "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 189026,
       "name": "Zorzal",
       "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 290760,
+      "name": "La Maza",
+      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "Bailarin",
+        "url": "https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "duration_ms": 217030,
+      "name": "Bailarin",
+      "url": "https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Bailarin",
-        "url": "https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od"
+        "name": "Templo Andino",
+        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
       },
       "artists": [
         {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+          "name": "Org\u00e4nica Elemental",
+          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
         }
       ],
-      "duration_ms": 217030,
-      "name": "Bailarin",
-      "url": "https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz"
+      "duration_ms": 358666,
+      "name": "Templo Andino",
+      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -971,22 +987,6 @@
       "duration_ms": 267353,
       "name": "La Fuerza",
       "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Templo Andino",
-        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e4nica Elemental",
-          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Templo Andino",
-      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Terrapl\u00e9n",
-        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
-      },
-      "artists": [
-        {
-          "name": "Terrapl\u00e9n",
-          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
-        }
-      ],
-      "duration_ms": 236986,
-      "name": "Quita La Pena",
-      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "El tiempo de las cosas que frenan",
         "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 300250,
       "name": "El tiempo de las cosas que frenan",
       "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Terrapl\u00e9n",
+        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
+      },
+      "artists": [
+        {
+          "name": "Terrapl\u00e9n",
+          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
+        }
+      ],
+      "duration_ms": 236986,
+      "name": "Quita La Pena",
+      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
     },
     {
       "added_at": "2024-10-22 19:09:15",

@@ -1,13 +1,33 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 25873,
+  "num_followers": 25894,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAAfuj9ZHoM7L2Me4sxKnTRc",
+  "snapshot_id": "Z23uAAAAAABgai6h/lAzVglYRjAQNhvS",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/0dWXN6tsNvIKTDVfhN3tkg"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        }
+      ],
+      "duration_ms": 189055,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/3CLx7KyeDo3OLGKk87Pikp"
+    },
     {
       "added_at": null,
       "album": {
@@ -147,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 233383,
+      "name": "Tuve Hermano",
+      "url": "https://open.spotify.com/track/0wD8bCTwYSz2OeikgblMP3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
       },
@@ -163,22 +199,6 @@
       "duration_ms": 146659,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 233383,
-      "name": "Tuve Hermano",
-      "url": "https://open.spotify.com/track/0wD8bCTwYSz2OeikgblMP3"
     },
     {
       "added_at": null,
@@ -215,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS CHAKALOSOS II",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "Pase De Pescado",
-      "url": "https://open.spotify.com/track/6clvlKxsgxbMsDcBK3lvQv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Chevy",
         "url": "https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx"
       },
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rose Coke",
-        "url": "https://open.spotify.com/album/1fgEgY5hJmMt6wxrSqjTII"
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 166374,
-      "name": "Rose Coke",
-      "url": "https://open.spotify.com/track/7MXVUKspl6iGnEgwaY0FyP"
+      "duration_ms": 200125,
+      "name": "Pase De Pescado",
+      "url": "https://open.spotify.com/track/6clvlKxsgxbMsDcBK3lvQv"
     },
     {
       "added_at": null,
@@ -283,6 +283,26 @@
       "duration_ms": 191000,
       "name": "Suerte No Fue",
       "url": "https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rose Coke",
+        "url": "https://open.spotify.com/album/1fgEgY5hJmMt6wxrSqjTII"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 166374,
+      "name": "Rose Coke",
+      "url": "https://open.spotify.com/track/7MXVUKspl6iGnEgwaY0FyP"
     },
     {
       "added_at": null,
@@ -363,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 164115,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqui Nadie Va Llorar",
         "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
       },
@@ -391,6 +395,22 @@
       "duration_ms": 195311,
       "name": "Aqui Nadie Va Llorar",
       "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 164115,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
     },
     {
       "added_at": null,
@@ -575,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARY",
-        "url": "https://open.spotify.com/album/2A2nUmF7VufHsPY6uEiCLh"
+        "name": "Bola De Corrientes",
+        "url": "https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 149499,
-      "name": "BALENCIAGA",
-      "url": "https://open.spotify.com/track/09S7x3ltigb9HyCH1eWxDY"
+      "duration_ms": 219697,
+      "name": "Bola De Corrientes",
+      "url": "https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW"
     },
     {
       "added_at": null,
@@ -611,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bola De Corrientes",
-        "url": "https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm"
+        "name": "PARY",
+        "url": "https://open.spotify.com/album/2A2nUmF7VufHsPY6uEiCLh"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         },
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 219697,
-      "name": "Bola De Corrientes",
-      "url": "https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW"
+      "duration_ms": 149499,
+      "name": "BALENCIAGA",
+      "url": "https://open.spotify.com/track/09S7x3ltigb9HyCH1eWxDY"
     },
     {
       "added_at": null,
@@ -679,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS CHAKALOSOS II",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Bien Trankis",
-      "url": "https://open.spotify.com/track/2ld5AQPv3Fy20XUrPjxoWI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -711,6 +715,22 @@
       "duration_ms": 202754,
       "name": "NOS TORCIERON",
       "url": "https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Bien Trankis",
+      "url": "https://open.spotify.com/track/2ld5AQPv3Fy20XUrPjxoWI"
     },
     {
       "added_at": null,
@@ -751,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS CHAKALOSOS II",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Mejor Ponganse A Chambear",
-      "url": "https://open.spotify.com/track/4TLuLP1LksSe4d8E4TJzFR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Nuevo Dia",
         "url": "https://open.spotify.com/album/6w3v2OwRiIPlygawEW9rXM"
       },
@@ -787,6 +791,22 @@
       "duration_ms": 195995,
       "name": "Un Nuevo Dia",
       "url": "https://open.spotify.com/track/7pvsKR96tWwAamXiLGvFCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Mejor Ponganse A Chambear",
+      "url": "https://open.spotify.com/track/4TLuLP1LksSe4d8E4TJzFR"
     },
     {
       "added_at": null,
@@ -823,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS CHAKALOSOS II",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Gucci Fake",
-      "url": "https://open.spotify.com/track/54DKbAzqQLDy4EPKtM961C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Opci\u00f3n",
         "url": "https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd"
       },
@@ -851,6 +855,22 @@
       "duration_ms": 116000,
       "name": "Sin Opci\u00f3n",
       "url": "https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Gucci Fake",
+      "url": "https://open.spotify.com/track/54DKbAzqQLDy4EPKtM961C"
     },
     {
       "added_at": null,

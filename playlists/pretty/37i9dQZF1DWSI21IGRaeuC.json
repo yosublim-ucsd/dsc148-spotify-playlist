@@ -1,6 +1,6 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 46766,
+  "num_followers": 46836,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -917,6 +917,26 @@
       "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
     },
     {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Still Pushin'",
+        "url": "https://open.spotify.com/album/5XkhKswrwGVMQB6izwSj4W"
+      },
+      "artists": [
+        {
+          "name": "YOUniverse (IT)",
+          "url": "https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii"
+        },
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Still Pushin' - Radio Edit",
+      "url": "https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV"
+    },
+    {
       "added_at": "2024-11-13 17:19:58",
       "album": {
         "name": "First Light",
@@ -931,22 +951,6 @@
       "duration_ms": 238153,
       "name": "First Light",
       "url": "https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Its Time to Move",
-        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
-      },
-      "artists": [
-        {
-          "name": "SOSA UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 162125,
-      "name": "Its Time to Move",
-      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -967,22 +971,18 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Still Pushin'",
-        "url": "https://open.spotify.com/album/5XkhKswrwGVMQB6izwSj4W"
+        "name": "Its Time to Move",
+        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
       },
       "artists": [
         {
-          "name": "YOUniverse (IT)",
-          "url": "https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii"
-        },
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "SOSA UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Still Pushin' - Radio Edit",
-      "url": "https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV"
+      "duration_ms": 162125,
+      "name": "Its Time to Move",
+      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Go Deeper EP",
-        "url": "https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 202781,
-      "name": "Go Deeper",
-      "url": "https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Lay Back EP",
         "url": "https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 234492,
       "name": "Lay Back",
       "url": "https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Go Deeper EP",
+        "url": "https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 202781,
+      "name": "Go Deeper",
+      "url": "https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "In You",
-        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 373920,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Work It EP",
         "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 194887,
       "name": "Work It",
       "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 373920,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Fascinator EP",
-        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 369230,
-      "name": "Break It Down",
-      "url": "https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Breaking Dollars EP",
         "url": "https://open.spotify.com/album/0gQRXmpuaO39p8WwTRLiRL"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 204375,
       "name": "ROCK THIS",
       "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Fascinator EP",
+        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 369230,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf"
     },
     {
       "added_at": "2024-11-13 17:19:58",

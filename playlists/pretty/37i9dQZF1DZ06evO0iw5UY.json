@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27596,
+  "num_followers": 27592,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAADUNMa+TcGUAck5o7GjoomB",
+  "snapshot_id": "Z23uAAAAAABFwVbmvErmqRwri6gwGhhu",
   "tracks": [
     {
       "added_at": null,
@@ -911,18 +911,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Krewella (Hits Japan Special Edition)",
-        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
+        "name": "Ain't That Why (Skytech Remix)",
+        "url": "https://open.spotify.com/album/5SBbYFv2EbBbZh9GqX7CJi"
       },
       "artists": [
         {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
         }
       ],
-      "duration_ms": 214453,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
+      "duration_ms": 162400,
+      "name": "Ain't That Why - Skytech Remix",
+      "url": "https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE"
     },
     {
       "added_at": null,
@@ -947,26 +955,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't That Why (Skytech Remix)",
-        "url": "https://open.spotify.com/album/5SBbYFv2EbBbZh9GqX7CJi"
+        "name": "Krewella (Hits Japan Special Edition)",
+        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Ain't That Why - Skytech Remix",
-      "url": "https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE"
+      "duration_ms": 214453,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
     },
     {
       "added_at": null,

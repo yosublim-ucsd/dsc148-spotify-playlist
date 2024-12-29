@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 244627,
+  "num_followers": 244850,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
+        "name": "Gone For The Day",
+        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 149080,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
-        "name": "Gone For The Day",
-        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 137893,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "The Duke: The Columbia Years (1927-1962)",
-        "url": "https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Don't Get Around Much Anymore",
-      "url": "https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
         "name": "Oscar Peterson Plays The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 153826,
       "name": "John Hardy's Wife",
       "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
+        "name": "The Duke: The Columbia Years (1927-1962)",
+        "url": "https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Don't Get Around Much Anymore",
+      "url": "https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -851,18 +851,22 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
+        "name": "Count Basie Swings - Joe Williams Sings",
+        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
       "artists": [
         {
           "name": "Count Basie",
           "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 256160,
-      "name": "Hay Burner",
-      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
+      "duration_ms": 182493,
+      "name": "Alright, Okay, You Win",
+      "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "Count Basie Swings - Joe Williams Sings",
-        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
       },
       "artists": [
         {
           "name": "Count Basie",
           "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        },
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 182493,
-      "name": "Alright, Okay, You Win",
-      "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
+      "duration_ms": 256160,
+      "name": "Hay Burner",
+      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Stompin' At The Savoy - 1956 Version",
+      "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
         "name": "Buen Sabor",
         "url": "https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 482592,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Stompin' At The Savoy - 1956 Version",
-      "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "Score",
-        "url": "https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16"
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
       "artists": [
         {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
         }
       ],
-      "duration_ms": 249666,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
+      "duration_ms": 219160,
+      "name": "I've Told Ev'ry Little Star",
+      "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -1427,18 +1427,34 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+        "name": "Score",
+        "url": "https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
         }
       ],
-      "duration_ms": 219160,
-      "name": "I've Told Ev'ry Little Star",
-      "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
+      "duration_ms": 249666,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
+        "name": "Surf Ride",
+        "url": "https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Holiday Flight",
+      "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -1475,22 +1491,6 @@
       "duration_ms": 152160,
       "name": "I Hear Music - Remastered",
       "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
-        "name": "Surf Ride",
-        "url": "https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Holiday Flight",
-      "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "Blues Vaccine",
-        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
-        }
-      ],
-      "duration_ms": 360306,
-      "name": "Blues Vaccine",
-      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
         "name": "How Love Begins (Extended Edition)",
         "url": "https://open.spotify.com/album/7sOSStvEboV0UZOvHO4iHb"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 316987,
       "name": "Two Fish - Alt Take",
       "url": "https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
+        "name": "Blues Vaccine",
+        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+        }
+      ],
+      "duration_ms": 360306,
+      "name": "Blues Vaccine",
+      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
     },
     {
       "added_at": "2024-11-29 13:40:15",

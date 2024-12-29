@@ -1,6 +1,6 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1389550,
+  "num_followers": 1389477,
   "original_name": "Gym Latino",
   "owner": {
     "name": "Spotify",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2024-10-31 09:07:34",
       "album": {
-        "name": "Maradona (Tatara)",
-        "url": "https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW"
-      },
-      "artists": [
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        },
-        {
-          "name": "Tiagz",
-          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
-        }
-      ],
-      "duration_ms": 150485,
-      "name": "Maradona (Tatara)",
-      "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
-    },
-    {
-      "added_at": "2024-10-31 09:07:34",
-      "album": {
         "name": "RITMO (Bad Boys For Life)",
         "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 221714,
       "name": "RITMO (Bad Boys For Life)",
       "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
+    },
+    {
+      "added_at": "2024-10-31 09:07:34",
+      "album": {
+        "name": "Maradona (Tatara)",
+        "url": "https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        }
+      ],
+      "duration_ms": 150485,
+      "name": "Maradona (Tatara)",
+      "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
     },
     {
       "added_at": "2024-10-31 09:07:34",

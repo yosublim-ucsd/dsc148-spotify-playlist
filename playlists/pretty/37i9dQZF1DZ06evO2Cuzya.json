@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 144635,
+  "num_followers": 145191,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAACpZkQLUdxWaTW/aUkR1zLF",
+  "snapshot_id": "Z23uAAAAAAAXqh0TqjG1LSWDumE5rsZo",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 229162,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/256nKlwQdp2GE6DYGvTDoG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 152317,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 229162,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/256nKlwQdp2GE6DYGvTDoG"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 256868,
-      "name": "I Knew It, I Know You - Live From Vevo",
-      "url": "https://open.spotify.com/track/76qpEmu2bVlYCCz5IUcZw1"
+      "duration_ms": 164693,
+      "name": "Felt Good About You",
+      "url": "https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 164693,
-      "name": "Felt Good About You",
-      "url": "https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg"
+      "duration_ms": 256868,
+      "name": "I Knew It, I Know You - Live From Vevo",
+      "url": "https://open.spotify.com/track/76qpEmu2bVlYCCz5IUcZw1"
     },
     {
       "added_at": null,

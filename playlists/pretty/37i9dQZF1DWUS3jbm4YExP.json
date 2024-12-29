@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 780388,
+  "num_followers": 780683,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Il volo",
-        "url": "https://open.spotify.com/album/5FmADjA3XSsqFx5iSJc27H"
-      },
-      "artists": [
-        {
-          "name": "Capinera",
-          "url": "https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Il volo",
-      "url": "https://open.spotify.com/track/1EQBXYxcRsUnymzLN8nxwT"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
         "name": "\u00c7a fait 2x plus de bien",
         "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 208153,
       "name": "\u00c7a fait du bien - Voilaaa Remix",
       "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
+        "name": "Il volo",
+        "url": "https://open.spotify.com/album/5FmADjA3XSsqFx5iSJc27H"
+      },
+      "artists": [
+        {
+          "name": "Capinera",
+          "url": "https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Il volo",
+      "url": "https://open.spotify.com/track/1EQBXYxcRsUnymzLN8nxwT"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -1043,34 +1043,22 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Road to Knowhere",
-        "url": "https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh"
+        "name": "Mistakes on Purpose (Ethiopiques 30)",
+        "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
       },
       "artists": [
         {
-          "name": "Tommy Guerrero",
-          "url": "https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "El camino negro",
-      "url": "https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
-        "name": "Perak",
-        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
-      },
-      "artists": [
+          "name": "Girma B\u00e8y\u00e8n\u00e8",
+          "url": "https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj"
+        },
         {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+          "name": "Akal\u00e9 Wub\u00e9",
+          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
         }
       ],
-      "duration_ms": 172777,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
+      "duration_ms": 238440,
+      "name": "Enk\u00e8n Y\u00e8l\u00e9l\u00e8besh",
+      "url": "https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -1091,22 +1079,34 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Mistakes on Purpose (Ethiopiques 30)",
-        "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
+        "name": "Perak",
+        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
       },
       "artists": [
         {
-          "name": "Girma B\u00e8y\u00e8n\u00e8",
-          "url": "https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj"
-        },
-        {
-          "name": "Akal\u00e9 Wub\u00e9",
-          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
         }
       ],
-      "duration_ms": 238440,
-      "name": "Enk\u00e8n Y\u00e8l\u00e9l\u00e8besh",
-      "url": "https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI"
+      "duration_ms": 172777,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
+        "name": "Road to Knowhere",
+        "url": "https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh"
+      },
+      "artists": [
+        {
+          "name": "Tommy Guerrero",
+          "url": "https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "El camino negro",
+      "url": "https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
+        "name": "Tonica & Dominante",
+        "url": "https://open.spotify.com/album/2l3BZH3NPEIlFaEckdh348"
+      },
+      "artists": [
+        {
+          "name": "Tonica & Dominante",
+          "url": "https://open.spotify.com/artist/4U5PlulITu7q03ItEaIOmz"
+        }
+      ],
+      "duration_ms": 198995,
+      "name": "Gennarino 'O Sioux",
+      "url": "https://open.spotify.com/track/7yIQkdNIHAPwshIZdR4Jlk"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
         "name": "La Matanza",
         "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Tonica & Dominante",
-        "url": "https://open.spotify.com/album/2l3BZH3NPEIlFaEckdh348"
-      },
-      "artists": [
-        {
-          "name": "Tonica & Dominante",
-          "url": "https://open.spotify.com/artist/4U5PlulITu7q03ItEaIOmz"
-        }
-      ],
-      "duration_ms": 198995,
-      "name": "Gennarino 'O Sioux",
-      "url": "https://open.spotify.com/track/7yIQkdNIHAPwshIZdR4Jlk"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
         "name": "Maledetta Quella Notte",
         "url": "https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 230250,
       "name": "Maledetta Quella Notte",
       "url": "https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+        "name": "Ka Rica-Tar",
+        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
       },
       "artists": [
         {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
         }
       ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
+      "duration_ms": 195652,
+      "name": "Kingdom of D'mt",
+      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -1347,22 +1363,6 @@
       "duration_ms": 228000,
       "name": "Mal\u00eca",
       "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
-        "name": "Ka Rica-Tar",
-        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Kingdom of D'mt",
-      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
+        "name": "Me Chama De Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 252959,
+      "name": "Electric Fish",
+      "url": "https://open.spotify.com/track/2i90BhQ6Mfvrd8yHRTHyZx"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
         "name": "Alegr\u00eda (Yuksek Remix) - Single",
         "url": "https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 258235,
       "name": "Alegr\u00eda - Yuksek Remix",
       "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
-        "name": "Me Chama De Gato Que Eu Sou Sua",
-        "url": "https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 252959,
-      "name": "Electric Fish",
-      "url": "https://open.spotify.com/track/2i90BhQ6Mfvrd8yHRTHyZx"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "satsuma",
-      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
         "name": "Porque Yo",
         "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
       },
@@ -1735,6 +1719,38 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "satsuma",
+      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
+        "name": "Tropicoso",
+        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Comencemos (Let's Start)",
+      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
         "name": "Wave It",
         "url": "https://open.spotify.com/album/2SJIeajpOusEz5B2kM59pG"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 151456,
       "name": "Wave It",
       "url": "https://open.spotify.com/track/2BRuJJKdlV3YBH6o5yPB8M"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
-        "name": "Tropicoso",
-        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Comencemos (Let's Start)",
-      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
         "name": "Calentita",
         "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 200991,
       "name": "Calentita",
       "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
-      },
-      "artists": [
-        {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
         "name": "Visceras",
         "url": "https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 101066,
       "name": "Baile Infinito",
       "url": "https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+      },
+      "artists": [
+        {
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 175632,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
         "name": "\u015eatellites",
         "url": "https://open.spotify.com/album/7olTOjGQOUzJxugpToyPMK"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 222250,
       "name": "Olurmu Dersin",
       "url": "https://open.spotify.com/track/68qlHuj9jmAzXUAI4glkA0"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 343841,
+      "name": "Silence is Golden",
+      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
         "name": "Look at My Soul: The Latin Shade of Texas Soul",
         "url": "https://open.spotify.com/album/4VGl3MuJnLbgLrHqPxArX8"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 250813,
       "name": "One Woman Man",
       "url": "https://open.spotify.com/track/24WvIL9vk5fI5GmacZbtf4"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 343841,
-      "name": "Silence is Golden",
-      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -2271,18 +2271,18 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
+        "name": "Voulez Vous",
+        "url": "https://open.spotify.com/album/5yqNOJhoE5q6NLqBNa6Cg8"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
         }
       ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+      "duration_ms": 235853,
+      "name": "Voulez Vous",
+      "url": "https://open.spotify.com/track/4c0S9uhGublmkcgeUhC1yT"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Voulez Vous",
-        "url": "https://open.spotify.com/album/5yqNOJhoE5q6NLqBNa6Cg8"
+        "name": "Chichala",
+        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
       },
       "artists": [
         {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 235853,
-      "name": "Voulez Vous",
-      "url": "https://open.spotify.com/track/4c0S9uhGublmkcgeUhC1yT"
+      "duration_ms": 173148,
+      "name": "Chichala",
+      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -2379,26 +2379,6 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Tropical Man",
-        "url": "https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        },
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Tropical Man",
-      "url": "https://open.spotify.com/track/7lkqxAoVA5OGYFQ19IGUfK"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
         "name": "Water of Life",
         "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
       },
@@ -2419,34 +2399,22 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "The Age of Aquarius",
-        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
+        "name": "Tropical Man",
+        "url": "https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW"
       },
       "artists": [
         {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 368108,
-      "name": "Sh\u0113nzhou V.",
-      "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
-      },
-      "artists": [
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
         {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
         }
       ],
-      "duration_ms": 134720,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
+      "duration_ms": 226653,
+      "name": "Tropical Man",
+      "url": "https://open.spotify.com/track/7lkqxAoVA5OGYFQ19IGUfK"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -2471,6 +2439,22 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
         "name": "Mam Yinne Wa",
         "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
       },
@@ -2483,6 +2467,46 @@
       "duration_ms": 235250,
       "name": "Mam Yinne Wa",
       "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
+        "name": "The Age of Aquarius",
+        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 368108,
+      "name": "Sh\u0113nzhou V.",
+      "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
+        "name": "ELCANO",
+        "url": "https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Monstruos del Ma\u00f1ana",
+          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
+        },
+        {
+          "name": "Melisa Castellanos",
+          "url": "https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC"
+        }
+      ],
+      "duration_ms": 298826,
+      "name": "Negro Santo",
+      "url": "https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -2523,30 +2547,6 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "ELCANO",
-        "url": "https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Monstruos del Ma\u00f1ana",
-          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
-        },
-        {
-          "name": "Melisa Castellanos",
-          "url": "https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC"
-        }
-      ],
-      "duration_ms": 298826,
-      "name": "Negro Santo",
-      "url": "https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
       },
@@ -2559,22 +2559,6 @@
       "duration_ms": 353109,
       "name": "Somos",
       "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
-        "name": "Whaya",
-        "url": "https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 226404,
-      "name": "Whaya",
-      "url": "https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s"
     },
     {
       "added_at": "2024-12-12 23:01:32",
@@ -2615,6 +2599,22 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
+        "name": "Whaya",
+        "url": "https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 226404,
+      "name": "Whaya",
+      "url": "https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
         "name": "Dejate Llevar",
         "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
       },
@@ -2651,22 +2651,6 @@
     {
       "added_at": "2024-12-12 23:01:32",
       "album": {
-        "name": "Guajirando",
-        "url": "https://open.spotify.com/album/18wajZarjucF8FNEExQdGY"
-      },
-      "artists": [
-        {
-          "name": "Mito y Comadre",
-          "url": "https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H"
-        }
-      ],
-      "duration_ms": 238236,
-      "name": "Guajirando",
-      "url": "https://open.spotify.com/track/5SMo4jNE0KldSYzhgQuxdx"
-    },
-    {
-      "added_at": "2024-12-12 23:01:32",
-      "album": {
         "name": "It's a Joke",
         "url": "https://open.spotify.com/album/1iMYQwnbZ9ruhWRwbzrL04"
       },
@@ -2687,6 +2671,22 @@
       "duration_ms": 256470,
       "name": "It's a Joke",
       "url": "https://open.spotify.com/track/20nb4i2WWyPDXhiQTZqlrV"
+    },
+    {
+      "added_at": "2024-12-12 23:01:32",
+      "album": {
+        "name": "Felony / Rile 'Em Up",
+        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        }
+      ],
+      "duration_ms": 197172,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
     }
   ],
   "unique_name": "Global Groove",

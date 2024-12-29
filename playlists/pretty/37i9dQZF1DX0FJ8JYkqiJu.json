@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 396189,
+  "num_followers": 396260,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "ALL MY LOVE (PNAU x Coldplay)",
+        "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "ALL MY LOVE - PNAU x Coldplay",
+      "url": "https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "ten",
         "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
       },
@@ -67,22 +87,18 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "ALL MY LOVE (PNAU x Coldplay)",
-        "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
+        "name": "There is no Neil Frances",
+        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 194560,
-      "name": "ALL MY LOVE - PNAU x Coldplay",
-      "url": "https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN"
+      "duration_ms": 174213,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -99,22 +115,6 @@
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "There is no Neil Frances",
-        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "dancing",
-      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -227,6 +227,26 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "duration_ms": 188739,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "Save My Soul",
         "url": "https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 333658,
       "name": "3 Days Later",
       "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 188739,
-      "name": "Shout It Out",
-      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "Lifetime (KASSIN Remix)",
         "url": "https://open.spotify.com/album/40VYumgeItn0xMNP5pp1eM"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 321815,
       "name": "Lifetime - KASSIN Remix",
       "url": "https://open.spotify.com/track/1x8T63Txd5UnTvHUKlN4x0"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "All Dancing Under The Same Sky",
-        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "All Dancing Under The Same Sky - Edit",
-      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 136666,
       "name": "Body",
       "url": "https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "All Dancing Under The Same Sky",
+        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "All Dancing Under The Same Sky - Edit",
+      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "some kind of peace",
+        "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Loom (feat. Bonobo)",
+      "url": "https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 190000,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "some kind of peace",
-        "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Loom (feat. Bonobo)",
-      "url": "https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "A.M",
-        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
+        "name": "malo okoma",
+        "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
       },
       "artists": [
         {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+        },
+        {
+          "name": "Theresa Ng'ambi",
+          "url": "https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI"
         }
       ],
-      "duration_ms": 209849,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
+      "duration_ms": 245437,
+      "name": "malo okoma - Radio Edit",
+      "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
     }
   ],
   "unique_name": "Just Chill",

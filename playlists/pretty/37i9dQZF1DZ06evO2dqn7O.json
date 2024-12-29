@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 55354,
+  "num_followers": 55358,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAADhCY83GLjtyZGqvpZF4b8n",
+  "snapshot_id": "Z23uAAAAAACzptvZp4ZEvwVKOfssmHt3",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5txx1olGftHbwwArf49YPX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
         "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
       },
@@ -447,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
       },
       "artists": [
         {
@@ -456,9 +440,25 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
+      "duration_ms": 179666,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5txx1olGftHbwwArf49YPX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 177839,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 177839,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Oxygen",
+        "url": "https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 305093,
+      "name": "American Oxygen",
+      "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "why does everything make me cry?",
         "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 184666,
       "name": "give me hell",
       "url": "https://open.spotify.com/track/2VAMExmfFMj4XC3swc9AD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Oxygen",
-        "url": "https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 305093,
-      "name": "American Oxygen",
-      "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "Sunoco",
+      "url": "https://open.spotify.com/track/4y5lApjfksaQ35CdhVjvL5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "could've been you",
         "url": "https://open.spotify.com/album/2zz2EbtweE5Msv4Af94UQA"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 187826,
       "name": "could've been you",
       "url": "https://open.spotify.com/track/5yPf9XMC1O1VG7IQ6O6jhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Sunoco",
-      "url": "https://open.spotify.com/track/4y5lApjfksaQ35CdhVjvL5"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "Upstate Boys",
-      "url": "https://open.spotify.com/track/69uKWbuh2iSwLlRDvR8OX2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "why does everything make me cry?",
         "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 181306,
       "name": "leave flowers",
       "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "Upstate Boys",
+      "url": "https://open.spotify.com/track/69uKWbuh2iSwLlRDvR8OX2"
     }
   ],
   "unique_name": "This Is X Ambassadors",

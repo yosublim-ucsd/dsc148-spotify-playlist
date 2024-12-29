@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hodari",
-  "num_followers": 372602,
+  "num_followers": 372587,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,22 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Joga Pra Lua",
-        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
+        "name": "Amor Blindado",
+        "url": "https://open.spotify.com/album/3GLGVjoaqz6JE1HoIZIPPs"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         },
         {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 125108,
-      "name": "Joga Pra Lua",
-      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
+      "duration_ms": 192969,
+      "name": "Amor Blindado",
+      "url": "https://open.spotify.com/track/4ppc4QcyrXPisRHliNZz9x"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -327,22 +323,26 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Amor Blindado",
-        "url": "https://open.spotify.com/album/3GLGVjoaqz6JE1HoIZIPPs"
+        "name": "Joga Pra Lua",
+        "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
       },
       "artists": [
         {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
-      "duration_ms": 192969,
-      "name": "Amor Blindado",
-      "url": "https://open.spotify.com/track/4ppc4QcyrXPisRHliNZz9x"
+      "duration_ms": 125108,
+      "name": "Joga Pra Lua",
+      "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Nuvem de Testemunhas - Spotify Singles",
-        "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 93377,
-      "name": "Nuvem de Testemunhas - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "N\u00e3o Posso",
         "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 147015,
       "name": "N\u00e3o Posso",
       "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Nuvem de Testemunhas - Spotify Singles",
+        "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 93377,
+      "name": "Nuvem de Testemunhas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Busco Romance Love Show",
-        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 159999,
-      "name": "passarela",
-      "url": "https://open.spotify.com/track/052FrvNDco0zbAgZh3Zasz"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 181714,
       "name": "Vis\u00e3o",
       "url": "https://open.spotify.com/track/3p2YlNzAOy0guPZBO5ANFD"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "passarela",
+      "url": "https://open.spotify.com/track/052FrvNDco0zbAgZh3Zasz"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
+        "name": "F.O.D.A.",
+        "url": "https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 179954,
+      "name": "F.O.D.A.",
+      "url": "https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
         "name": "Frio e Vento",
         "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 201559,
       "name": "FAMOSA",
       "url": "https://open.spotify.com/track/1VGsxchOpxgC1n2O8HY4lZ"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
-        "name": "F.O.D.A.",
-        "url": "https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 179954,
-      "name": "F.O.D.A.",
-      "url": "https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1055,30 +1055,6 @@
       "duration_ms": 162240,
       "name": "Sem Ar",
       "url": "https://open.spotify.com/track/6pPvyR6XrMkJysTugwPos7"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
-        "name": "Busco Romance Love Show",
-        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Francci",
-          "url": "https://open.spotify.com/artist/0ibBJyHUgpYajGcBAm8bbF"
-        }
-      ],
-      "duration_ms": 234820,
-      "name": "NECTAR",
-      "url": "https://open.spotify.com/track/0SsWDp8RTI6hNAGcukBbr8"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1183,6 +1159,30 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Francci",
+          "url": "https://open.spotify.com/artist/0ibBJyHUgpYajGcBAm8bbF"
+        }
+      ],
+      "duration_ms": 234820,
+      "name": "NECTAR",
+      "url": "https://open.spotify.com/track/0SsWDp8RTI6hNAGcukBbr8"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
         "name": "ANJO",
         "url": "https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng"
       },
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "Aditivada",
         "url": "https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 149385,
       "name": "Aditivada",
       "url": "https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Cena 1",
-        "url": "https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        }
-      ],
-      "duration_ms": 202549,
-      "name": "INFAME",
-      "url": "https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "Encontros",
         "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 201000,
       "name": "Encontros",
       "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Cena 1",
+        "url": "https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        }
+      ],
+      "duration_ms": 202549,
+      "name": "INFAME",
+      "url": "https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq"
     },
     {
       "added_at": "2024-12-23 19:38:15",

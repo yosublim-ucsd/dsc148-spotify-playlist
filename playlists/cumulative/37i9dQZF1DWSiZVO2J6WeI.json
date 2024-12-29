@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "A Lotus Life",
+        "url": "https://open.spotify.com/album/55XiQKhbIIjBT1zQYFQAjX"
+      },
+      "artists": [
+        {
+          "name": "Oceanic Voices",
+          "url": "https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "A Lotus Life",
+      "url": "https://open.spotify.com/track/6X2WDWzucPkXOaRm7LjSjn"
+    },
+    {
+      "album": {
         "name": "Peaceful Binaural",
         "url": "https://open.spotify.com/album/5M1CSEAJN5d8N9RxinRRPo"
       },
@@ -3456,7 +3474,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 142019,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T"

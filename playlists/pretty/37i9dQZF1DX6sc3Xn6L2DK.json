@@ -279,22 +279,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
-      },
-      "artists": [
-        {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Let's Move To The Country",
-      "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "The Dead Don't Die",
         "url": "https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 231373,
       "name": "The Dead Don't Die",
       "url": "https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
+      },
+      "artists": [
+        {
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Let's Move To The Country",
+      "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Until We Meet Again",
-        "url": "https://open.spotify.com/album/0rTbmVftdBHOiEvRyjEuub"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 181745,
-      "name": "Until We Meet Again",
-      "url": "https://open.spotify.com/track/66ttkjHJsfNXTot9SgIere"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Smalltown Boy (Spotify Singles)",
         "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 317729,
       "name": "Smalltown Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/0rTbmVftdBHOiEvRyjEuub"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 181745,
+      "name": "Until We Meet Again",
+      "url": "https://open.spotify.com/track/66ttkjHJsfNXTot9SgIere"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "GP",
-        "url": "https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf"
-      },
-      "artists": [
-        {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        }
-      ],
-      "duration_ms": 301266,
-      "name": "She - 2002 Remaster",
-      "url": "https://open.spotify.com/track/7DK9shWJm361lm1ks32axt"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "The Gilded Palace Of Sin",
         "url": "https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 217333,
       "name": "Hot Burrito #1",
       "url": "https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "GP",
+        "url": "https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf"
+      },
+      "artists": [
+        {
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
+        }
+      ],
+      "duration_ms": 301266,
+      "name": "She - 2002 Remaster",
+      "url": "https://open.spotify.com/track/7DK9shWJm361lm1ks32axt"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -523,6 +523,22 @@
       "duration_ms": 237727,
       "name": "Dream of You",
       "url": "https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "No Glory in the West",
+        "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "No Glory in the West",
+      "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -571,22 +587,6 @@
       "duration_ms": 230560,
       "name": "Murmur of Yearning",
       "url": "https://open.spotify.com/track/2JaOVb7WJCcpAe1JRRLTl3"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "No Glory in the West",
-        "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "No Glory in the West",
-      "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "American Love Song",
+        "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "America",
+      "url": "https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
         "url": "https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 204000,
       "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
       "url": "https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "American Love Song",
-        "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "America",
-      "url": "https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "The Happiest Times I Ever Ignored",
-        "url": "https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9"
-      },
-      "artists": [
-        {
-          "name": "Hayden Pedigo",
-          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Looking at the Fish",
-      "url": "https://open.spotify.com/track/6nsCfDkYAVHvd3ZmqYhUaP"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Oh, Sister [Feat. Courtney Marie Andrews]",
         "url": "https://open.spotify.com/album/3xXjZu3KT8TFfb9ObBmx9P"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 220699,
       "name": "Oh, Sister [Feat. Courtney Marie Andrews]",
       "url": "https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "The Happiest Times I Ever Ignored",
+        "url": "https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9"
+      },
+      "artists": [
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "Looking at the Fish",
+      "url": "https://open.spotify.com/track/6nsCfDkYAVHvd3ZmqYhUaP"
     },
     {
       "added_at": "2024-08-23 04:00:00",

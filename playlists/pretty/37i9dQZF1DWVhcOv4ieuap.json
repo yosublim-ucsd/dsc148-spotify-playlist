@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1028070,
+  "num_followers": 1028088,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-12-19 10:03:02",
       "album": {
-        "name": "Ve y Diles",
-        "url": "https://open.spotify.com/album/4qHt1TJRKfOT7fGvry69XJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Ve y Diles",
-      "url": "https://open.spotify.com/track/3bcyUjU6QHY5iFcWhJbRSF"
-    },
-    {
-      "added_at": "2024-12-19 10:03:02",
-      "album": {
         "name": "Fantasi",
         "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 158080,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
+    },
+    {
+      "added_at": "2024-12-19 10:03:02",
+      "album": {
+        "name": "Ve y Diles",
+        "url": "https://open.spotify.com/album/4qHt1TJRKfOT7fGvry69XJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Ve y Diles",
+      "url": "https://open.spotify.com/track/3bcyUjU6QHY5iFcWhJbRSF"
     },
     {
       "added_at": "2024-12-19 10:03:02",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2024-12-19 10:03:02",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs"
+        "name": "Te Imaginaba",
+        "url": "https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
         }
       ],
-      "duration_ms": 215709,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz"
+      "duration_ms": 158815,
+      "name": "Te Imaginaba",
+      "url": "https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo"
     },
     {
       "added_at": "2024-12-19 10:03:02",
@@ -1703,18 +1699,22 @@
     {
       "added_at": "2024-12-19 10:03:02",
       "album": {
-        "name": "Te Imaginaba",
-        "url": "https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU"
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs"
       },
       "artists": [
         {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 158815,
-      "name": "Te Imaginaba",
-      "url": "https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo"
+      "duration_ms": 215709,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz"
     },
     {
       "added_at": "2024-12-19 10:03:02",

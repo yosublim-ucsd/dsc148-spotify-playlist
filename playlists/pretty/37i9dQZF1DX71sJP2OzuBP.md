@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,071 likes - 117 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,066 likes - 117 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 23 | [有天會再相見](https://open.spotify.com/track/4BZlQdwkgUuaj5xbUHwUl8) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [有天會再相見](https://open.spotify.com/album/3euhcHkOosfai4FG0UXzp1) | 4:35 |
 | 24 | [妥协](https://open.spotify.com/track/0FduRtdtCZwAlQdmEjcEiU) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [妥协](https://open.spotify.com/album/6i4e4s8wp9zZX4DQ3VAClW) | 3:29 |
 | 25 | [如果你還愛著他](https://open.spotify.com/track/6vJl41zqBEOcyILAj08r6F) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [如果你還愛著他](https://open.spotify.com/album/5HygT5BkS0Vji1MlvjM6YY) | 3:11 |
-| 26 | [寧願 \- 戲劇《全面管控》片尾曲](https://open.spotify.com/track/2ECRsfLHIZNGEMGbJciHEV) | [盧學叡](https://open.spotify.com/artist/6741WxQXaxHj7uXDH7Y5IY) | [寧願 \(戲劇《全面管控》片尾曲\)](https://open.spotify.com/album/0iWbzwdMVGAzCBYbJOyHg6) | 4:04 |
+| 26 | [寧願 \- 戲劇《全面管控》片尾曲](https://open.spotify.com/track/2ECRsfLHIZNGEMGbJciHEV) | [盧學叡](https://open.spotify.com/artist/6741WxQXaxHj7uXDH7Y5IY), [卢学睿](https://open.spotify.com/artist/3lCHec0F2lXdKNFKRFTKbX) | [寧願 \(戲劇《全面管控》片尾曲\)](https://open.spotify.com/album/0iWbzwdMVGAzCBYbJOyHg6) | 4:04 |
 | 27 | [相望不相離 \- 影視劇《與君無別離》片尾曲](https://open.spotify.com/track/1EJcM9roHqne3C5pwD4sTt) | [晨悠 CHENYO](https://open.spotify.com/artist/69HAncV59CvB16M51q77AI) | [相望不相離 \(影視劇《與君無別離》片尾曲\)](https://open.spotify.com/album/7D7R2BgLrV2rEQnqanKowl) | 3:01 |
 | 28 | [趕路的蝴蝶](https://open.spotify.com/track/4s71TaD93ieBhmuTBscIWR) | [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD), [李佳隆](https://open.spotify.com/artist/2QK3cWfiTfJ8mpefEGeJwm) | [趕路的蝴蝶](https://open.spotify.com/album/0yXpzRkCFuyxcsxJajaNrf) | 3:48 |
 | 29 | [未完待續 \( 飲冰室茶集為愛發聲 創作曲 \)](https://open.spotify.com/track/64qnAIAkkKjLfJcxaopwzv) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [未完待續 \( 飲冰室茶集為愛發聲 創作曲 \)](https://open.spotify.com/album/0JkH98SX1EUFyhk8J9bElw) | 4:23 |

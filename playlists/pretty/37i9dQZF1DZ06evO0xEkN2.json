@@ -1,33 +1,13 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 222199,
+  "num_followers": 222226,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAABMzpHvZknms7A6Gmu01RLM",
+  "snapshot_id": "Z23uAAAAAABpJQozdu3JNSSH8Hd0vB/O",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Ranchera",
-        "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 187744,
-      "name": "La Ranchera",
-      "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
-    },
     {
       "added_at": null,
       "album": {
@@ -72,9 +52,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+      "duration_ms": 206600,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
     },
     {
       "added_at": null,
@@ -144,9 +124,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 206600,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": null,
@@ -255,22 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piel A Piel",
-        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
+        "name": "La Ranchera",
+        "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
       "artists": [
         {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 286733,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u"
+      "duration_ms": 187744,
+      "name": "La Ranchera",
+      "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
     },
     {
       "added_at": null,
@@ -291,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+        "name": "Piel A Piel",
+        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
       },
       "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 240186,
-      "name": "Viernes de Webeo - En Vivo",
-      "url": "https://open.spotify.com/track/4htoV9pXQmKENfn3LIKvVW"
+      "duration_ms": 286733,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
       "duration_ms": 221640,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 240186,
+      "name": "Viernes de Webeo - En Vivo",
+      "url": "https://open.spotify.com/track/4htoV9pXQmKENfn3LIKvVW"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
-      },
-      "artists": [
-        {
-          "name": "Camiseta 22",
-          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 248371,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Todos los Rumberos",
         "url": "https://open.spotify.com/album/69M76iFB13orBTuymkmh4M"
       },
@@ -847,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Carne Ni Pescado",
-        "url": "https://open.spotify.com/album/04HBP9fEv4mvhtBV0DPrm6"
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
       },
       "artists": [
+        {
+          "name": "Camiseta 22",
+          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
+        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 199693,
-      "name": "Quiero Bailar Contigo",
-      "url": "https://open.spotify.com/track/43uYpVAeYnZF7XCED74Mbx"
+      "duration_ms": 248371,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
     },
     {
       "added_at": null,
@@ -879,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+        "name": "Ni Carne Ni Pescado",
+        "url": "https://open.spotify.com/album/04HBP9fEv4mvhtBV0DPrm6"
       },
       "artists": [
         {
@@ -888,9 +872,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 276906,
-      "name": "C.D.A.",
-      "url": "https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8"
+      "duration_ms": 199693,
+      "name": "Quiero Bailar Contigo",
+      "url": "https://open.spotify.com/track/43uYpVAeYnZF7XCED74Mbx"
     }
   ],
   "unique_name": "This Is Panteon Rococo",

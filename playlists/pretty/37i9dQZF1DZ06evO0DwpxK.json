@@ -1,29 +1,13 @@
 {
   "description": "This is HUMBE. The essential tracks, all in one playlist.",
-  "num_followers": 235262,
+  "num_followers": 235458,
   "original_name": "This Is HUMBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAADdt6YsN0GNAYxfM4DbLBsF",
+  "snapshot_id": "Z23uAAAAAABNPcD11AkTjkeVyREE715o",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "ARMAGED\u00d3N",
-        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 370700,
-      "name": "1960",
-      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
-    },
     {
       "added_at": null,
       "album": {
@@ -236,9 +220,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 164434,
-      "name": "BANDERA",
-      "url": "https://open.spotify.com/track/1RjKGXhBFlhANSZ95rc0wb"
+      "duration_ms": 370700,
+      "name": "1960",
+      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
     },
     {
       "added_at": null,
@@ -304,9 +288,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 225642,
-      "name": "SAGITARIO A*",
-      "url": "https://open.spotify.com/track/5wdqVslmjPk5nl4EmTeyEJ"
+      "duration_ms": 164434,
+      "name": "BANDERA",
+      "url": "https://open.spotify.com/track/1RjKGXhBFlhANSZ95rc0wb"
     },
     {
       "added_at": null,
@@ -372,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 227428,
-      "name": "TINTO DE VERANO",
-      "url": "https://open.spotify.com/track/1yf4iiJDoxC0il1ymYNWue"
+      "duration_ms": 225642,
+      "name": "SAGITARIO A*",
+      "url": "https://open.spotify.com/track/5wdqVslmjPk5nl4EmTeyEJ"
     },
     {
       "added_at": null,
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 227940,
-      "name": "armaged\u00f3n",
-      "url": "https://open.spotify.com/track/5RIcOnCoAAzjhXkpgOAkiY"
+      "duration_ms": 227428,
+      "name": "TINTO DE VERANO",
+      "url": "https://open.spotify.com/track/1yf4iiJDoxC0il1ymYNWue"
     },
     {
       "added_at": null,

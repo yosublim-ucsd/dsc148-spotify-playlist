@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,155 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,182 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 72 | [Cuppa Tea](https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Cuppa Tea](https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU) | 3:26 |
 | 73 | [Hang Up The Mic](https://open.spotify.com/track/2yQX3c895hXfHD2slRYLuH) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Hologram](https://open.spotify.com/artist/4tzD4sC3DiY1aKA0I0ixJw), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [Hang Up The Mic](https://open.spotify.com/album/12wwjeKSvfuWFk7FLLWO7B) | 2:49 |
 | 74 | [Wasted Youth \(feat\. Cat Burns\) \- \[IVY\] Remix](https://open.spotify.com/track/0bJV0wJnOCHNGetX12UX9t) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [Wasted Youth \(feat\. Cat Burns\) \[\[IVY\] Remix\]](https://open.spotify.com/album/4skDqItwjbLSSLQlp5IdvE) | 3:09 |
-| 75 | [Sprinta \(Bad Bad\)](https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [KIPPO](https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N) | [Sprinta \(Bad Bad\)](https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV) | 3:19 |
+| 75 | [Stop Talking](https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF) | [Stop Talking](https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz) | 3:46 |
 
 Snapshot ID: `Z27rTAAAAADJREGy0FxFDK8b5XGzr2y0`

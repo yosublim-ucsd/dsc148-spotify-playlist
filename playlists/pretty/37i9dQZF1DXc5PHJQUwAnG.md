@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. OPYI en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,909 likes - 68 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,926 likes - 68 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

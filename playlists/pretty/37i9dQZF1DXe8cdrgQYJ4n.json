@@ -27,18 +27,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 173431,
-      "name": "1-800-hot-n-fun",
-      "url": "https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc"
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -75,18 +75,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 180066,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+      "duration_ms": 173431,
+      "name": "1-800-hot-n-fun",
+      "url": "https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 170315,
-      "name": "Pierrot",
-      "url": "https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -219,38 +203,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "KILL THIS LOVE",
-        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 191050,
-      "name": "Kill This Love",
-      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
-        "name": "The Most Beautiful Moment in Life: Young Forever",
-        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 203351,
-      "name": "Burning Up (Fire)",
-      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "Hello Bitches",
         "url": "https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG"
       },
@@ -267,8 +219,24 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 191050,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
       },
       "artists": [
         {
@@ -276,9 +244,25 @@
           "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 156354,
-      "name": "Good Parts (when the quality is bad but I am)",
-      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
+      "duration_ms": 170315,
+      "name": "Pierrot",
+      "url": "https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 203351,
+      "name": "Burning Up (Fire)",
+      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -315,22 +299,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 235779,
-      "name": "Go Go",
-      "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "Cold Blooded",
         "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
       },
@@ -347,18 +315,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 201122,
-      "name": "Pretty Savage",
-      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
+      "duration_ms": 156354,
+      "name": "Good Parts (when the quality is bad but I am)",
+      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -375,6 +343,22 @@
       "duration_ms": 150269,
       "name": "I \u2260 DOLL",
       "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Pretty Savage",
+      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -415,22 +399,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 185796,
-      "name": "BIRTHDAY",
-      "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -451,6 +419,54 @@
       "duration_ms": 203066,
       "name": "Hula Hoops",
       "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 235779,
+      "name": "Go Go",
+      "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 185796,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "What Type of X",
+        "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "What Type of X",
+      "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -487,18 +503,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "What Type of X",
-        "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
       "artists": [
         {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
         }
       ],
-      "duration_ms": 198173,
-      "name": "What Type of X",
-      "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -603,22 +619,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
       },
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 192577,
-      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
-      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
       },
@@ -743,18 +723,22 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Live My Life",
-      "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -787,6 +771,22 @@
       "duration_ms": 217595,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Wish You Hell - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
         }
       ],
-      "duration_ms": 170360,
-      "name": "Wish You Hell",
-      "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
+      "duration_ms": 176000,
+      "name": "Drink it, Girls!",
+      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Drink it, Girls!",
-      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
+      "duration_ms": 170360,
+      "name": "Wish You Hell",
+      "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
     },
     {
       "added_at": "2024-10-08 11:00:53",

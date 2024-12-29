@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música tradicional y deliciosa! 🍅🌶️🍲🎵👩‍🍳
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,083 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,091 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 27 | [Tengo La Voz](https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sessions Vol\. 3](https://open.spotify.com/album/1mzRcscMBM7SRphpWA6g8T) | 3:44 |
 | 28 | [Dame Tu Querer](https://open.spotify.com/track/3SQauyf4T2j5XCTZxZ3gxY) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [3 AM \(In Beats We Trust\)](https://open.spotify.com/album/5SG03amThdGbDpvOufQLev) | 4:22 |
 | 29 | [Coffee Bean / Calabash Annie](https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Soul Of The Drums](https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0) | 2:15 |
-| 30 | [Bonita](https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2) | [Germán Valdéz](https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l), [Tintan](https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4) | [Solo para Románticos \- de Mujer a Mujer](https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc) | 2:23 |
-| 31 | [Papayas](https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Papayas](https://open.spotify.com/album/2yicqz18D45XpgeHAL2692) | 5:37 |
+| 30 | [Papayas](https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Papayas](https://open.spotify.com/album/2yicqz18D45XpgeHAL2692) | 5:37 |
+| 31 | [Bonita](https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2) | [Germán Valdéz](https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l), [Tintan](https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4) | [Solo para Románticos \- de Mujer a Mujer](https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc) | 2:23 |
 | 32 | [Señor Presidente](https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [No Tiene Fin](https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox) | 2:47 |
 | 33 | [Merecumbé del cantinero](https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 |
 | 34 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 |

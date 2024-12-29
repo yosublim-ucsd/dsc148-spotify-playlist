@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 114863,
+  "num_followers": 114906,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAD0aTqnFShFixF/XH8PL6Ve",
+  "snapshot_id": "Z23uAAAAAACUMe+wovIdq9MQVdUz8pyu",
   "tracks": [
     {
       "added_at": null,
@@ -751,46 +751,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Misi\u00f3n (Episodio 4)",
-        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
+        "name": "El Bols\u00f3n",
+        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
       },
       "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 293325,
-      "name": "La Misi\u00f3n (Episodio 4)",
-      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
+      "duration_ms": 231177,
+      "name": "El Bols\u00f3n",
+      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
       "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
+      "duration_ms": 246533,
+      "name": "Te Gustan Malos",
+      "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
     },
     {
       "added_at": null,
@@ -827,58 +819,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
       },
       "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 246533,
-      "name": "Te Gustan Malos",
-      "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
     },
     {
       "added_at": null,
       "album": {
-        "name": "El Bols\u00f3n",
-        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
+        "name": "La Misi\u00f3n (Episodio 4)",
+        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
       },
       "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
         {
           "name": "C-Kan",
           "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 231177,
-      "name": "El Bols\u00f3n",
-      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Escapatoria",
-        "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
         },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 205060,
-      "name": "Sin Escapatoria",
-      "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
+      "duration_ms": 293325,
+      "name": "La Misi\u00f3n (Episodio 4)",
+      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
     },
     {
       "added_at": null,
@@ -899,6 +879,26 @@
       "duration_ms": 206726,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Escapatoria",
+        "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 205060,
+      "name": "Sin Escapatoria",
+      "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "El After Porky",
+      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "#LQMQ",
         "url": "https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 211440,
       "name": "#LQMQ",
       "url": "https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "El After Porky",
-      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
     },
     {
       "added_at": null,

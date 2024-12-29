@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1142192,
+  "num_followers": 1142245,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Soda Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Te Hacen Falta Vitaminas - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/3caBCFURBMGqZYrZUc7j8s"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Algo mejor",
         "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 201773,
       "name": "Mi enfermedad",
       "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Te Hacen Falta Vitaminas - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3caBCFURBMGqZYrZUc7j8s"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "La Grasa de las Capitales: Edici\u00f3n 40\u00ba Aniversario (2019 Remasterizado)",
-        "url": "https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 265312,
-      "name": "Viernes, 3AM - 2019 Remasterizado",
-      "url": "https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
         "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 377399,
       "name": "Mujer Amante - Vivo",
       "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La Grasa de las Capitales: Edici\u00f3n 40\u00ba Aniversario (2019 Remasterizado)",
+        "url": "https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 265312,
+      "name": "Viernes, 3AM - 2019 Remasterizado",
+      "url": "https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Necesito",
-      "url": "https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 197746,
       "name": "Barro Tal Vez",
       "url": "https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Necesito",
+      "url": "https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 223532,
-      "name": "Ya No Mires Atr\u00e1s",
-      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Mensajes Del Alma",
         "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 362240,
       "name": "Los Salieris De Charly",
       "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 223532,
+      "name": "Ya No Mires Atr\u00e1s",
+      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "La M\u00e1quina De Hacer P\u00e1jaros",
-        "url": "https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw"
-      },
-      "artists": [
-        {
-          "name": "La Maquina De Hacer P\u00e1jaros",
-          "url": "https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Como Mata el Viento Norte",
-      "url": "https://open.spotify.com/track/7BbpLe12HpkoZJcJs1A3SP"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Los Gatos",
         "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 176000,
       "name": "La Balsa",
       "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La M\u00e1quina De Hacer P\u00e1jaros",
+        "url": "https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw"
+      },
+      "artists": [
+        {
+          "name": "La Maquina De Hacer P\u00e1jaros",
+          "url": "https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Como Mata el Viento Norte",
+      "url": "https://open.spotify.com/track/7BbpLe12HpkoZJcJs1A3SP"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -827,6 +827,22 @@
       "duration_ms": 258403,
       "name": "Solo Se Trata de Vivir",
       "url": "https://open.spotify.com/track/4vKvCed2EoxBl4DFSqSUH8"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Viento Dile a la Lluvia",
+        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 169120,
+      "name": "Viento, Dile a la Lluvia",
+      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Viento Dile a la Lluvia",
-        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 169120,
-      "name": "Viento, Dile a la Lluvia",
-      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "PorSuiGieco",
         "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Treinta Minutos de Vida",
-        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
       "artists": [
         {
-          "name": "Moris",
-          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
         }
       ],
-      "duration_ms": 463666,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/5zR2HBjuNk68vpMDUutZ7r"
+      "duration_ms": 130213,
+      "name": "Ayer Nom\u00e1s",
+      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Treinta Minutos de Vida",
+        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
+      },
+      "artists": [
+        {
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
+        }
+      ],
+      "duration_ms": 463666,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/5zR2HBjuNk68vpMDUutZ7r"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Time Fate Love (Remastered 2019)",
         "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 349260,
       "name": "Regtest (Happy Valley Rock)",
       "url": "https://open.spotify.com/track/7o1z5DyXMpgug1NCCDCmky"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Los Gatos",
-        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 130213,
-      "name": "Ayer Nom\u00e1s",
-      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
     },
     {
       "added_at": "2024-11-11 16:58:11",

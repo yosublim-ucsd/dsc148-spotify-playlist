@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Corrella
 
-216 songs - 12 hr 18 min
+217 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Ease](https://open.spotify.com/track/2HvffwR0uYWNC8ha31BlJp) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Ease](https://open.spotify.com/album/3Cmmi0B9mnT1cXT5olINFu) | 3:20 | 2024-05-20 | 2024-11-08 |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-08-15 |  |
 | [English Boy](https://open.spotify.com/track/5yUqq4zRde80gTdorwhJ67) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [English Boy](https://open.spotify.com/album/1SAdTzSO67ccsq0V1urqBf) | 3:01 | 2024-12-05 |  |
+| [Every Drop](https://open.spotify.com/track/4OLXa4APPfBYiOg2bVLjkq) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Every Drop](https://open.spotify.com/album/3EmDnBg1u0pVaWoQRPL8kA) | 4:04 | 2024-12-19 |  |
 | [Eyes On Me](https://open.spotify.com/track/1mECl3Zcm5Yp0APfuW5qfi) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Eyes On Me](https://open.spotify.com/album/5oStuVQ3cIli57rHOqi42c) | 3:43 | 2024-05-20 | 2024-11-08 |
 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 | 2024-10-18 |  |
 | [Faithfully](https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Faithfully](https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31) | 4:11 | 2024-05-20 | 2024-08-16 |
@@ -164,7 +165,7 @@
 | [Poster Child](https://open.spotify.com/track/4sDjLipNP96jVxQHUcHUdy) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Poster Child](https://open.spotify.com/album/5IFuUoLgYyVAWR9BJp7Ytn) | 3:22 | 2024-09-19 | 2024-11-08 |
 | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Feels Like Home](https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB) | 2:43 | 2024-08-15 |  |
 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 | 2024-05-20 |  |
-| [Problem](https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [AP](https://open.spotify.com/artist/1RlUsc2blY82KdHokhpxOm) | [Problem](https://open.spotify.com/album/4eI5jnzb7fizU3FheBlo97) | 3:12 | 2024-10-24 |  |
+| [Problem](https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [AP](https://open.spotify.com/artist/1RlUsc2blY82KdHokhpxOm) | [Problem](https://open.spotify.com/album/4eI5jnzb7fizU3FheBlo97) | 3:12 | 2024-10-24 | 2024-12-29 |
 | [Read Receipts](https://open.spotify.com/track/4vNtMNmb1bMVWQ29sSzMEb) | [Ella Minehan](https://open.spotify.com/artist/73WeJhBBrjJ8MhWBz0jtDU) | [Read Receipts](https://open.spotify.com/album/0ev9T3dsXGzWvvZt4hToyn) | 2:41 | 2024-05-20 | 2024-11-08 |
 | [Red Flags](https://open.spotify.com/track/4oVfK5seoKHJ96NUBjIav3) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [Red Flags](https://open.spotify.com/album/2V2up0Y0UEQpIANq68oZip) | 3:05 | 2024-05-20 | 2024-11-08 |
 | [Remedy](https://open.spotify.com/track/6Fh6kIGeGO9cBQQ2h5loQ1) | [Wet Denim](https://open.spotify.com/artist/2Y9WUWDMvkHFmeEH3HfbFg) | [Remedy](https://open.spotify.com/album/1rnGeMuSDzwHtkgOfycPds) | 3:20 | 2024-05-20 | 2024-08-16 |

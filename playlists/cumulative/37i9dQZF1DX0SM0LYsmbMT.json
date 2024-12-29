@@ -23471,6 +23471,28 @@
     },
     {
       "album": {
+        "name": "Fairfax",
+        "url": "https://open.spotify.com/album/4pPgKwWG9sHLzeXmXwUhyA"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Fairfax",
+      "url": "https://open.spotify.com/track/5iwzPhf6AGvIzWwsZJv1Y3"
+    },
+    {
+      "album": {
         "name": "Fairytale",
         "url": "https://open.spotify.com/album/7uyCNTRk6s3OXCYGj3x6FW"
       },
@@ -65600,7 +65622,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 120000,
       "name": "Short Nap",
       "url": "https://open.spotify.com/track/3wpsrPokpTVnWF96tKhiVz"

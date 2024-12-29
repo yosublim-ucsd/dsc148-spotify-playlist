@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29070,
+  "num_followers": 29072,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAABSceWRCAMbCurTotesxJ/I",
+  "snapshot_id": "Z23uAAAAAAAcZFTH0Z4R/MZWmP5lk42n",
   "tracks": [
     {
       "added_at": null,
@@ -762,15 +762,11 @@
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Jeon",
-          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
         }
       ],
-      "duration_ms": 192926,
-      "name": "Est\u00e1s",
-      "url": "https://open.spotify.com/track/190oPZ25kanU2CRpgi801e"
+      "duration_ms": 198112,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2"
     },
     {
       "added_at": null,
@@ -906,11 +902,15 @@
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
         }
       ],
-      "duration_ms": 198112,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2"
+      "duration_ms": 192926,
+      "name": "Est\u00e1s",
+      "url": "https://open.spotify.com/track/190oPZ25kanU2CRpgi801e"
     },
     {
       "added_at": null,

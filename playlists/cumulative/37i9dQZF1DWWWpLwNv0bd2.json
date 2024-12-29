@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 280810,
       "name": "Ae Pulla (From \"Lal Salaam\")",
       "url": "https://open.spotify.com/track/0Qe8uzIYTnnz4BOJw4Hki7"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 228249,
       "name": "Amudha Amudha",
       "url": "https://open.spotify.com/track/23OqqSKCL20P1RYbcskEvF"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 177567,
       "name": "Apple Crumble - From \"Lover\"",
       "url": "https://open.spotify.com/track/1C72T6JjexqbzIVrpIdIXi"
@@ -1337,6 +1337,40 @@
     },
     {
       "album": {
+        "name": "Dhop (From \"Game Changer\") (Tamil)",
+        "url": "https://open.spotify.com/album/3Q4buHByrXMybfhycOIg1J"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Aditi Shankar",
+          "url": "https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8"
+        },
+        {
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+        },
+        {
+          "name": "Sruthi Ranjani",
+          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291834,
+      "name": "Dhop (From \"Game Changer\") (Tamil)",
+      "url": "https://open.spotify.com/track/0d8qcb1FslP7TFgUifInjl"
+    },
+    {
+      "album": {
         "name": "Edho Solla (From \"Murungakkai Chips\")",
         "url": "https://open.spotify.com/album/6IY7I0TUaDMbrGxlm55Vpf"
       },
@@ -1852,7 +1886,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 197884,
       "name": "Jingrudha Dhanga",
       "url": "https://open.spotify.com/track/2uOBQMz765cr8gnLwPPMv1"
@@ -1978,7 +2012,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 304000,
       "name": "Kaatrodu Pattam Pola (From \"Ayothi\")",
       "url": "https://open.spotify.com/track/4IFO83LPKiQ42X6gT3H1Px"
@@ -2987,6 +3021,32 @@
     },
     {
       "album": {
+        "name": "Viduthalai 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/43DKHyWZW4n0YOGwn4AfIw"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Sanjay Subrahmanyan",
+          "url": "https://open.spotify.com/artist/3Q215HSlFN5mIwiwgAiLu8"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Manasula",
+      "url": "https://open.spotify.com/track/6Fo8GFG8jVMyRu5oRfMQY4"
+    },
+    {
+      "album": {
         "name": "Mayakirriye - Single",
         "url": "https://open.spotify.com/album/3SPqv6jQCx2HoaO3qna0A5"
       },
@@ -3246,7 +3306,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 272310,
       "name": "Miss Oruthi - From \"Once More\"",
       "url": "https://open.spotify.com/track/2my27SnsDdLtouVfT7S71X"
@@ -3276,6 +3336,28 @@
       "duration_ms": 288666,
       "name": "Mittai Mittai (From \"Anel Meley Pani Thuli\")",
       "url": "https://open.spotify.com/track/0yV1ttdm79H1jvaFLGFOB3"
+    },
+    {
+      "album": {
+        "name": "Vanangaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PFQFkLYmV0aTo9nE2c6ES"
+      },
+      "artists": [
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Mounam Pole",
+      "url": "https://open.spotify.com/track/2AUMBf2OyuGZH0f88JPYGQ"
     },
     {
       "album": {
@@ -3850,7 +3932,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 274871,
       "name": "Netru Varai (From \"Siren\")",
       "url": "https://open.spotify.com/track/7DfmRbjVcjgHP6e5HViYXD"
@@ -4892,7 +4974,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 231222,
       "name": "So Many",
       "url": "https://open.spotify.com/track/4m0REwcKIQtf8jBy01wViq"
@@ -4918,6 +5000,32 @@
       "duration_ms": 134204,
       "name": "Sol (From \"Ponniyin Selvan Part-1\")",
       "url": "https://open.spotify.com/track/0XosgadxA79fBBV6meKDAs"
+    },
+    {
+      "album": {
+        "name": "Pushpa 2 The Rule [TAMIL]",
+        "url": "https://open.spotify.com/album/2QKBADDj77SOJ5CUriLjzk"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260134,
+      "name": "Soodaana",
+      "url": "https://open.spotify.com/track/5ipqR3HkMPmCguFgQ5kHB1"
     },
     {
       "album": {
@@ -6162,6 +6270,36 @@
       "duration_ms": 202888,
       "name": "Velagaadha - From \"Lover\"",
       "url": "https://open.spotify.com/track/0KTyfuhoHpgiC9KMyQ4uMg"
+    },
+    {
+      "album": {
+        "name": "Amaran (Tamil)",
+        "url": "https://open.spotify.com/album/1xONf0eKTmlbuy13uaStDJ"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Vennilavu Saaral",
+      "url": "https://open.spotify.com/track/79Aa3LFIeZpMWTXs8y3Qgk"
     },
     {
       "album": {

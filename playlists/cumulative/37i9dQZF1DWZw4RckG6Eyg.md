@@ -4,7 +4,7 @@
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-311 songs - 17 hr 31 min
+312 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 | 2022-11-30 | 2023-11-30 |
 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 | 2023-11-29 | 2024-12-05 |
 | [How](https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi) | [Wooly Aziz](https://open.spotify.com/artist/4c7j9jUzYSNDKdNBb0W2P1), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [How](https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4) | 2:38 | 2022-11-30 | 2023-11-30 |
+| [How Can I Love Her More?](https://open.spotify.com/track/5aR0Zrg6Oq0EulyTZPwAxG) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 2:47 | 2024-12-04 |  |
 | [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 | 2023-11-29 | 2024-12-05 |
 | [How many miles](https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:21 | 2023-11-29 | 2024-12-05 |
 | [Huh](https://open.spotify.com/track/2Dy7ZKdu40oGTkv8FwVyew) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Huh](https://open.spotify.com/album/79rY7sqFQLxLGePOOkaUXR) | 2:26 | 2023-11-29 | 2024-04-15 |
@@ -161,7 +162,7 @@
 | [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 | 2023-11-29 | 2024-12-05 |
 | [Jelsy](https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Jelsy](https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn) | 3:48 | 2023-11-29 | 2024-12-05 |
 | [Joel Roberts](https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Joel Roberts](https://open.spotify.com/album/5TXRKDKP9MG4gSUBRxcxwh) | 4:11 | 2024-12-04 | 2024-12-11 |
-| [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 | 2024-12-04 |  |
+| [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 | 2024-12-04 | 2024-12-29 |
 | [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-11-29 | 2024-12-05 |
 | [Kepko](https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Dennis](https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s) | 3:12 | 2024-12-04 | 2024-12-20 |
 | [KiSeKi](https://open.spotify.com/track/2wrcTquPKyQoMmGeVX1vhZ) | [Sho Takahashi](https://open.spotify.com/artist/642xssKVEVaV5IJXySEUsh) | [KiSeKi](https://open.spotify.com/album/4riJBNvT3yhoUO1Y7LTlcB) | 5:15 | 2022-11-30 | 2023-11-30 |

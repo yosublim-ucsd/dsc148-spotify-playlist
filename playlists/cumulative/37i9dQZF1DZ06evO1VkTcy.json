@@ -36,7 +36,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 517894,
       "name": "1910",
       "url": "https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF"
@@ -730,10 +730,32 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 289122,
       "name": "Na Areia",
       "url": "https://open.spotify.com/track/4QSJih5h33jWDru2efAhly"
+    },
+    {
+      "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289122,
+      "name": "Na Areia",
+      "url": "https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3"
     },
     {
       "album": {

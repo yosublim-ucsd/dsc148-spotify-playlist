@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256774,
+  "num_followers": 256787,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "LQMGDT",
+        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Weeknd<3",
+      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Mi Novio Tiene Novia (W Sound 02)",
         "url": "https://open.spotify.com/album/18DIWERxEIXRxekX8aPYMW"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 162207,
       "name": "Mi Novio Tiene Novia - W Sound 02",
       "url": "https://open.spotify.com/track/3tl2XUAf62E3wes6ksknHb"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "LQMGDT",
-        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Weeknd<3",
-      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "CUANDO HACEMOS EL AMOR",
+      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Besitos BB 2.0",
         "url": "https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "CUANDO HACEMOS EL AMOR",
-      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "PARA AMARTE A TI",
         "url": "https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT"
       },
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "CAE LA NOCHE",
-        "url": "https://open.spotify.com/album/3PZisBJfF9PJBt9AcX7AMX"
-      },
-      "artists": [
-        {
-          "name": "Anthony",
-          "url": "https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "CAE LA NOCHE",
-      "url": "https://open.spotify.com/track/45u8AYilUFXep0i2eomu7F"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "EN EL GHETTO #3 (Par de cosas)",
         "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 215000,
       "name": "EN EL GHETTO #3 (Par de cosas)",
       "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "CAE LA NOCHE",
+        "url": "https://open.spotify.com/album/3PZisBJfF9PJBt9AcX7AMX"
+      },
+      "artists": [
+        {
+          "name": "Anthony",
+          "url": "https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "CAE LA NOCHE",
+      "url": "https://open.spotify.com/track/45u8AYilUFXep0i2eomu7F"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Dej\u00e9 de Amarte",
-        "url": "https://open.spotify.com/album/1ozcTQkwntJtQlB6ZWJobm"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Dej\u00e9 de Amarte",
-      "url": "https://open.spotify.com/track/4keqsGMfZx9nDqljpXzpvv"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "NO HAY QUE PREGUNTAR",
         "url": "https://open.spotify.com/album/0vXcwRCCcIDgdVpaIReZFC"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 202173,
       "name": "NO HAY QUE PREGUNTAR",
       "url": "https://open.spotify.com/track/4NhicasWolYAelOoWgeCrI"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "Dej\u00e9 de Amarte",
+        "url": "https://open.spotify.com/album/1ozcTQkwntJtQlB6ZWJobm"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Dej\u00e9 de Amarte",
+      "url": "https://open.spotify.com/track/4keqsGMfZx9nDqljpXzpvv"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "LA PRIMERA VEZ",
-        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "LA PRIMERA VEZ",
-      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Hablas",
         "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
       },
@@ -1511,22 +1491,6 @@
       "duration_ms": 156013,
       "name": "Hablas",
       "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1547,6 +1511,42 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "CONF\u00cdO",
+        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "CONF\u00cdO",
+      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Calles De Madrid",
-        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
-      },
-      "artists": [
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Calles De Madrid",
-      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "1UNAMORSUPREMO",
         "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "CONF\u00cdO",
-        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+        "name": "Calles De Madrid",
+        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
         }
       ],
-      "duration_ms": 179645,
-      "name": "CONF\u00cdO",
-      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
+      "duration_ms": 179986,
+      "name": "Calles De Madrid",
+      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "ahora A.K.A NAO",
-        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Mi Piscis",
-      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Le hac\u00e9s falta vos",
         "url": "https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp"
       },
@@ -1779,6 +1763,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "ahora A.K.A NAO",
+        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Mi Piscis",
+      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "SANDRO",
         "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
       },
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Caballo Negro",
-        "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 177548,
-      "name": "Caballo Negro",
-      "url": "https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "SIN PERDER, NUNK CUENTA",
         "url": "https://open.spotify.com/album/50LHRqNoAFdauzswqXWajX"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 131200,
       "name": "SIN PERDER, NUNK CUENTA",
       "url": "https://open.spotify.com/track/6UsEb9zlBkbU6ZMMFkgkdE"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "Caballo Negro",
+        "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 177548,
+      "name": "Caballo Negro",
+      "url": "https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6"
     },
     {
       "added_at": "2024-12-27 06:00:18",

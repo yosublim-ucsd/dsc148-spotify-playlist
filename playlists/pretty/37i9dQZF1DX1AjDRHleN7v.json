@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 344565,
+  "num_followers": 345389,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,26 @@
     {
       "added_at": "2024-12-27 20:42:37",
       "album": {
+        "name": "vida leve",
+        "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "vida leve",
+      "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
+    },
+    {
+      "added_at": "2024-12-27 20:42:37",
+      "album": {
         "name": "O Mundo Diz Que N\u00e3o",
         "url": "https://open.spotify.com/album/7kZ5JyVWYTLnCt0nwvs3Gi"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 193411,
       "name": "O Mundo Diz Que N\u00e3o",
       "url": "https://open.spotify.com/track/4fGBndf26VOuEwcrQ7Cd7u"
-    },
-    {
-      "added_at": "2024-12-27 20:42:37",
-      "album": {
-        "name": "vida leve",
-        "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
-      },
-      "artists": [
-        {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        },
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 156909,
-      "name": "vida leve",
-      "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
     },
     {
       "added_at": "2024-12-27 20:42:37",
@@ -379,18 +379,22 @@
     {
       "added_at": "2024-12-27 20:42:37",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER",
-        "url": "https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD"
+        "name": "O que \u00e9 teu te encontra",
+        "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 190026,
-      "name": "Ficar de Leve",
-      "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
+      "duration_ms": 151386,
+      "name": "O que \u00e9 teu te encontra",
+      "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
     },
     {
       "added_at": "2024-12-27 20:42:37",
@@ -415,22 +419,18 @@
     {
       "added_at": "2024-12-27 20:42:37",
       "album": {
-        "name": "O que \u00e9 teu te encontra",
-        "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
+        "name": "TUDO VAI SER COMO DEVE SER",
+        "url": "https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD"
       },
       "artists": [
         {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 151386,
-      "name": "O que \u00e9 teu te encontra",
-      "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
+      "duration_ms": 190026,
+      "name": "Ficar de Leve",
+      "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
     },
     {
       "added_at": "2024-12-27 20:42:37",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-12-27 20:42:37",
       "album": {
-        "name": "Tropical",
-        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 230016,
-      "name": "Paradis\u00edaca",
-      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
-    },
-    {
-      "added_at": "2024-12-27 20:42:37",
-      "album": {
         "name": "Flor de Aruanda",
         "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 183146,
       "name": "Flor de Aruanda",
       "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
+    },
+    {
+      "added_at": "2024-12-27 20:42:37",
+      "album": {
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 230016,
+      "name": "Paradis\u00edaca",
+      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
     },
     {
       "added_at": "2024-12-27 20:42:37",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-12-27 20:42:37",
       "album": {
-        "name": "Entre Borboletas e Avi\u00f5es",
-        "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 207808,
-      "name": "Rede no Coqueiro",
-      "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
-    },
-    {
-      "added_at": "2024-12-27 20:42:37",
-      "album": {
         "name": "Olha Pra Mim",
         "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 177535,
       "name": "Olha Pra Mim",
       "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
+    },
+    {
+      "added_at": "2024-12-27 20:42:37",
+      "album": {
+        "name": "Entre Borboletas e Avi\u00f5es",
+        "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 207808,
+      "name": "Rede no Coqueiro",
+      "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
     },
     {
       "added_at": "2024-12-27 20:42:37",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-12-27 20:42:37",
       "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
-    },
-    {
-      "added_at": "2024-12-27 20:42:37",
-      "album": {
         "name": "Uma Noite E 1/2",
         "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 170608,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
+    },
+    {
+      "added_at": "2024-12-27 20:42:37",
+      "album": {
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-12-27 20:42:37",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-12-27 20:42:37",
       "album": {
-        "name": "Amor Bom",
-        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 197834,
-      "name": "Amor Bom",
-      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
-    },
-    {
-      "added_at": "2024-12-27 20:42:37",
-      "album": {
         "name": "Toda Noite",
         "url": "https://open.spotify.com/album/5ZSiRjfNCBEyF20FtrEL6j"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 174622,
       "name": "Cai\u00e7ara",
       "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2024-12-27 20:42:37",
+      "album": {
+        "name": "Amor Bom",
+        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 197834,
+      "name": "Amor Bom",
+      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
     },
     {
       "added_at": "2024-12-27 20:42:37",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-12-27 20:42:37",
       "album": {
-        "name": "Eu e Voc\u00ea",
-        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 185597,
-      "name": "Eu e Voc\u00ea",
-      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
-    },
-    {
-      "added_at": "2024-12-27 20:42:37",
-      "album": {
         "name": "Terra do Sol",
         "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 254858,
       "name": "Na Jornada - Remasterizado",
       "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+    },
+    {
+      "added_at": "2024-12-27 20:42:37",
+      "album": {
+        "name": "Eu e Voc\u00ea",
+        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 185597,
+      "name": "Eu e Voc\u00ea",
+      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
     },
     {
       "added_at": "2024-12-27 20:42:37",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-12-27 20:42:37",
       "album": {
-        "name": "Pra Que Fazer Assim? (Vers\u00e3o Instrumental)",
-        "url": "https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf"
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
       },
       "artists": [
         {
-          "name": "Mateus Menezes",
-          "url": "https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Pra Que Fazer Assim? - Vers\u00e3o Instrumental",
-      "url": "https://open.spotify.com/track/2JHOyiQHkUsIhr75VdCDaT"
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     }
   ],
   "unique_name": "Praiana",

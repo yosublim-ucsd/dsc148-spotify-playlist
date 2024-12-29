@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 25 min
+51 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Fool \- 2021 Version](https://open.spotify.com/track/3WQ94WkALajwI5HDkwkZaj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [w.hateverm](https://open.spotify.com/artist/1uREPVdK2MvzaV52XCD40R) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:01 | 2024-12-14 |  |
 | [fragments of your presence](https://open.spotify.com/track/0mYw7Se3zNLlTVQwwWrCdq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [fragments of your presence](https://open.spotify.com/album/1dv9nkQRXLJOwLShUvxuiP) | 2:52 | 2024-12-14 |  |
 | [Futile](https://open.spotify.com/track/6xikCzoVRP5knZLZKszqsX) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/4917GZU57YmatuEbuvZRcW) | 4:20 | 2024-12-14 |  |
+| [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 | 2024-12-29 |  |
 | [Halcyon](https://open.spotify.com/track/3eAMZYxihi4IQomVVBqDep) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [N E H O C](https://open.spotify.com/artist/5r2xS9xwGZzfuXovIyrm8f), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:40 | 2024-12-14 |  |
 | [haunting](https://open.spotify.com/track/07uHH6Qq1cqNLmKxa0ceZt) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [haunting](https://open.spotify.com/album/6UeeVUS6zYu9fhqTIMe3g4) | 2:51 | 2024-12-15 |  |
 | [I Feel It](https://open.spotify.com/track/2spKRxUBwrc4pMBBJpPnCC) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [I Feel It](https://open.spotify.com/album/1PfYmdUoCZK9JfQu4z3Vy0) | 4:57 | 2024-12-14 |  |

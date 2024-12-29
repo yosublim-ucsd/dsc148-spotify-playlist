@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kV7MLy24Ug.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: LA NUEVA ESCUELA
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,593 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,606 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 原子邦妮 \(Astro Bunny\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,594 likes - 74 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,604 likes - 74 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 5 | [啾一個 \(動畫《妞妞星世界》主題曲\)](https://open.spotify.com/track/2qYn2UIaVBdi8TrLGpuVaI) | [閃閃閃閃](https://open.spotify.com/artist/3v1lQb5de2uc8TzkIsMVQj) | [啾一個 \(動畫《妞妞星世界》主題曲\)](https://open.spotify.com/album/6506XgFAtzKjCwV0dF1vqP) | 2:44 |
 | 6 | [南北大道](https://open.spotify.com/track/5w4Nh8Cs2QDK9MOOBSh8Gp) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [南北大道](https://open.spotify.com/album/5wE5SEf4sRYOw89E7txLMz) | 4:21 |
 | 7 | [野风](https://open.spotify.com/track/3ZBRf9eMvMkRKYNCHYb5CT) | [鹿先森乐队](https://open.spotify.com/artist/4SklOYXOJe2H6R1Vz2gc0F) | [野风](https://open.spotify.com/album/0NtLwhJKBJD5Jftkfze0XV) | 5:27 |
-| 8 | [Found me](https://open.spotify.com/track/71mf7Rd6XwQvPmmYEHVIDF) | [Plutato](https://open.spotify.com/artist/3A3zuAop7uM5dY6Vs41dsR) | [Ctrl+Z](https://open.spotify.com/album/63qLX0ZafYEXOHIEFDmDt6) | 3:43 |
+| 8 | [Found me \- 原生基因型](https://open.spotify.com/track/71mf7Rd6XwQvPmmYEHVIDF) | [Plutato](https://open.spotify.com/artist/3A3zuAop7uM5dY6Vs41dsR) | [Ctrl+Z](https://open.spotify.com/album/63qLX0ZafYEXOHIEFDmDt6) | 3:43 |
 | 9 | [島的對面](https://open.spotify.com/track/6XFEJgFLehGDLCr2wX1Qjm) | [無先生](https://open.spotify.com/artist/4FOONCzxfCMQ0RrLCdbEXp) | [島的對面](https://open.spotify.com/album/65gS9OnYlkGc5poLkn82j8) | 3:36 |
 | 10 | [黃紅青白](https://open.spotify.com/track/5b9f6VVdtvAfPRhcxrMzDu) | [山狗大後生樂團](https://open.spotify.com/artist/4mtyIx9iTq1hI9a6wCgZAp) | [洄游](https://open.spotify.com/album/5kp1SNMRIHv5dg1zVHUK39) | 3:15 |
 | 11 | [心碎的你和他](https://open.spotify.com/track/1QpBRoKeOYAakLXpq3rUVS) | [John and Bands](https://open.spotify.com/artist/5w0rdm9cOfpneWzbxrczH4) | [Chronos](https://open.spotify.com/album/0c9XHilHFwPgYeCRJnQ64z) | 4:16 |

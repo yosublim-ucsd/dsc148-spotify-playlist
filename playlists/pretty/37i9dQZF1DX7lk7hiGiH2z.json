@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 49212,
+  "num_followers": 49207,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-12-09 10:01:19",
       "album": {
+        "name": "Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
+      },
+      "artists": [
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 161698,
+      "name": "Das Lied der Wichtel",
+      "url": "https://open.spotify.com/track/53gMRf5oKm8n34LOlzY5MQ"
+    },
+    {
+      "added_at": "2024-12-09 10:01:19",
+      "album": {
         "name": "Giraffenaffen 4 - Winterzeit",
         "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 152546,
       "name": "Weihnachtszeit, Kinderzeit",
       "url": "https://open.spotify.com/track/0IHclLb62TS7CauAJJ4SU5"
-    },
-    {
-      "added_at": "2024-12-09 10:01:19",
-      "album": {
-        "name": "Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
-      },
-      "artists": [
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 161698,
-      "name": "Das Lied der Wichtel",
-      "url": "https://open.spotify.com/track/53gMRf5oKm8n34LOlzY5MQ"
     },
     {
       "added_at": "2024-12-09 10:01:19",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-12-09 10:01:19",
       "album": {
+        "name": "Das gr\u00fcne Album",
+        "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
+      },
+      "artists": [
+        {
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
+        }
+      ],
+      "duration_ms": 122120,
+      "name": "Winterzeit",
+      "url": "https://open.spotify.com/track/5hrDo5pej0NZIc6IZIWME5"
+    },
+    {
+      "added_at": "2024-12-09 10:01:19",
+      "album": {
         "name": "Unter meinem Bett. Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 281440,
       "name": "Gute Zeit",
       "url": "https://open.spotify.com/track/5wBerfXTuVnEvLJ3M36H1g"
-    },
-    {
-      "added_at": "2024-12-09 10:01:19",
-      "album": {
-        "name": "Das gr\u00fcne Album",
-        "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
-      },
-      "artists": [
-        {
-          "name": "Nilsen",
-          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
-        }
-      ],
-      "duration_ms": 122120,
-      "name": "Winterzeit",
-      "url": "https://open.spotify.com/track/5hrDo5pej0NZIc6IZIWME5"
     },
     {
       "added_at": "2024-12-09 10:01:19",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-12-09 10:01:19",
       "album": {
-        "name": "Wo wohnt der Weihnachtsmann",
-        "url": "https://open.spotify.com/album/2PYGBTAHOwk6aYT3fHxAZ5"
-      },
-      "artists": [
-        {
-          "name": "Axel Fischer",
-          "url": "https://open.spotify.com/artist/1bVXntDWimvB7WNTAzhOOR"
-        },
-        {
-          "name": "Kinderlieder SonnenStimmen",
-          "url": "https://open.spotify.com/artist/547EcHyUepKvcA6KGkr50W"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Wo wohnt der Weihnachtsmann",
-      "url": "https://open.spotify.com/track/15xIwpdEjDBeVU0u51NAeh"
-    },
-    {
-      "added_at": "2024-12-09 10:01:19",
-      "album": {
         "name": "Tanzbare Weihnachtslieder f\u00fcr Kinder",
         "url": "https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 129640,
       "name": "Backe, Backe Kuchen",
       "url": "https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ"
+    },
+    {
+      "added_at": "2024-12-09 10:01:19",
+      "album": {
+        "name": "Wo wohnt der Weihnachtsmann",
+        "url": "https://open.spotify.com/album/2PYGBTAHOwk6aYT3fHxAZ5"
+      },
+      "artists": [
+        {
+          "name": "Axel Fischer",
+          "url": "https://open.spotify.com/artist/1bVXntDWimvB7WNTAzhOOR"
+        },
+        {
+          "name": "Kinderlieder SonnenStimmen",
+          "url": "https://open.spotify.com/artist/547EcHyUepKvcA6KGkr50W"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Wo wohnt der Weihnachtsmann",
+      "url": "https://open.spotify.com/track/15xIwpdEjDBeVU0u51NAeh"
     },
     {
       "added_at": "2024-12-09 10:01:19",

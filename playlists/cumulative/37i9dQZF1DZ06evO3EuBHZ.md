@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-183 songs - 10 hr 19 min
+184 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Big Mama's Coming Home](https://open.spotify.com/track/6ZIyqkFrDMSRG6SAWqzTMF) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [The Hi\-Tones](https://open.spotify.com/artist/1md4BcYSyUClBBj0Xt6KM1) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:27 | 2024-03-27 | 2024-07-03 |
 | [Big Mama's New Love](https://open.spotify.com/track/4iodRZymyDaCqX4746CZEV) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 3:36 | 2022-08-05 | 2024-02-28 |
 | [Big Mama's Shuffle](https://open.spotify.com/track/1MsBIf9kuuVsTujZlDxz6w) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 3:38 | 2022-09-11 | 2024-07-20 |
+| [Big Mamas Coming Home \- Remastered](https://open.spotify.com/track/3iq0LrBTXbfQEBrqKDXmLE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Anthology: Her Golden Years \(Remastered\)](https://open.spotify.com/album/62orITUXb62uB9JoYrW6qc) | 2:23 | 2024-12-29 |  |
 | [Black Rat \- Take 4](https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 2:52 | 2022-08-05 |  |
 | [Born Under A Bad Sign](https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:47 | 2022-08-05 |  |
 | [Chauffeur Blues](https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:07 | 2022-08-05 |  |
@@ -102,7 +103,7 @@
 | [Little Red Rooster](https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 4:28 | 2022-08-05 |  |
 | [Looking the World Over](https://open.spotify.com/track/3quA3vwMpCEFWdfFZg5yRu) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 2:12 | 2022-10-16 | 2024-07-20 |
 | [Lost City](https://open.spotify.com/track/3WGHCI52pWHbcVPTouKbOK) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Complete Vanguard Recordings](https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD) | 4:52 | 2023-01-24 |  |
-| [Me and My Chauffeur](https://open.spotify.com/track/6BN7PhWrFyoKUFeInzG8i7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [New Breed R&B](https://open.spotify.com/album/6dTkg4o7AufsHMxdK1X6VJ) | 2:29 | 2024-03-12 | 2024-11-27 |
+| [Me and My Chauffeur](https://open.spotify.com/track/6BN7PhWrFyoKUFeInzG8i7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [New Breed R&B](https://open.spotify.com/album/6dTkg4o7AufsHMxdK1X6VJ) | 2:29 | 2024-03-12 |  |
 | [Mischievous Boogie](https://open.spotify.com/track/43h9Q81HlWhbEgXTxWXDj3) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:34 | 2022-08-08 | 2022-10-07 |
 | [Mischievous Boogie](https://open.spotify.com/track/4dYtzSs5aYnwec44vkTI2m) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:34 | 2024-02-19 | 2024-07-11 |
 | [Mischievous Boogie](https://open.spotify.com/track/6tzb9BII2Q8M0DrjLETwvz) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [The Joe Scott Orchestra](https://open.spotify.com/artist/4Rh5i0t7SMGdzk7UkvGMR7) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:34 | 2023-07-28 | 2023-07-30 |

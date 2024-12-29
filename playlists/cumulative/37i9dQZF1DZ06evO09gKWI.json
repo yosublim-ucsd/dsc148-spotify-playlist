@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 164809,
       "name": "Ela Joga",
       "url": "https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 318139,
       "name": "Eu Avisei",
       "url": "https://open.spotify.com/track/6WEZWKz0Z6Qgb3nZ32OY8a"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 156353,
       "name": "Ta\u00e7as",
       "url": "https://open.spotify.com/track/76JB7GfUO9vDuFra3IHlka"
@@ -1756,6 +1756,32 @@
       "duration_ms": 129440,
       "name": "Tira Uma Foto",
       "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
+    },
+    {
+      "album": {
+        "name": "Ascens\u00e3o",
+        "url": "https://open.spotify.com/album/7rQtbf7JlqKD1MKOsvx3z2"
+      },
+      "artists": [
+        {
+          "name": "Emcee L\u00ea",
+          "url": "https://open.spotify.com/artist/4aFEXSiTxPRYbIgBk59LGX"
+        },
+        {
+          "name": "PROD.VAGO",
+          "url": "https://open.spotify.com/artist/6CqNKE6Y7qRpFpHAGwVPtb"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Turn Up",
+      "url": "https://open.spotify.com/track/73BhnOavq94xYttMTa7Hbq"
     },
     {
       "album": {

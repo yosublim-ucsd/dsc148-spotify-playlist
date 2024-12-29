@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260 likes - 129 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 129 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 107 | [When the Night Is Over](https://open.spotify.com/track/3u5JhMHnFrkNlROhDYgqSP) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:37 |
 | 108 | [Forever](https://open.spotify.com/track/3AiyGGOgTyx6QmzQUrXJeO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Forever](https://open.spotify.com/album/1t96mIM5YRX4sowjHXRt9I) | 2:53 |
 | 109 | [Hold On](https://open.spotify.com/track/1Bj286OtRqZeE87Y4JHS2U) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Hold On](https://open.spotify.com/album/03t57S3XQ8hJEOvlcqxbry) | 2:54 |
-| 110 | [Are You With Me?](https://open.spotify.com/track/1EjxFbCPnKL84gXL2CGTRv) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:45 |
-| 111 | [I Want To Feel](https://open.spotify.com/track/0Um0sGHLnktSqGcyKW5PNJ) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:32 |
+| 110 | [I Want To Feel](https://open.spotify.com/track/0Um0sGHLnktSqGcyKW5PNJ) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:32 |
+| 111 | [Are You With Me?](https://open.spotify.com/track/1EjxFbCPnKL84gXL2CGTRv) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:45 |
 | 112 | [Enemy](https://open.spotify.com/track/5pYgx7mS2aReFggKs1XEZ9) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Shaded](https://open.spotify.com/album/606voFlzDUI4Ozt1VUqACG) | 3:45 |
 | 113 | [CMND CNTRL \(feat\. FEYI\)](https://open.spotify.com/track/2nx4zXquY958X4LKNlHD6X) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [My House My Rules](https://open.spotify.com/album/3yqp5I9jxG7smLaqjVdbvl) | 3:41 |
 | 114 | [Never Let You Go](https://open.spotify.com/track/5yQzLPrsfpPW4OjlacvJgF) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Never Let You Go](https://open.spotify.com/album/0OtpU10W9Ce2winkVNcoTh) | 4:14 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 128 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 129 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AblSwAAAAABW21W98Uj8l6CvJKCbVZd8`
+Snapshot ID: `AblYkgAAAACaIfzOLADNnngorSZaPFYP`

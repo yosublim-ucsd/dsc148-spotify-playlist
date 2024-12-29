@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 246295,
+  "num_followers": 246314,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAD0cHS0vZsYo0vaa+/JjZhj",
+  "snapshot_id": "Z23uAAAAAADi2WgUcJTvcaLmsqlOoYAd",
   "tracks": [
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "Shania: The Queen Of Country Pop",
+        "url": "https://open.spotify.com/album/0Lyu4QtTnVUC7vVycP5l4J"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 270026,
-      "name": "(If You're Not In It For Love) I'm Outta Here!",
-      "url": "https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw"
+      "duration_ms": 212640,
+      "name": "Party For Two - Country Version With Intro",
+      "url": "https://open.spotify.com/track/2jGUPNSCOkqiX6yRnAoO8w"
     },
     {
       "added_at": null,
@@ -379,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shania: The Queen Of Country Pop",
-        "url": "https://open.spotify.com/album/0Lyu4QtTnVUC7vVycP5l4J"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Party For Two - Country Version With Intro",
-      "url": "https://open.spotify.com/track/2jGUPNSCOkqiX6yRnAoO8w"
+      "duration_ms": 270026,
+      "name": "(If You're Not In It For Love) I'm Outta Here!",
+      "url": "https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw"
     },
     {
       "added_at": null,

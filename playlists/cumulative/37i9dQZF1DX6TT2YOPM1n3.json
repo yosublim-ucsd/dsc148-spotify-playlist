@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Home to Pakistani Hits. Cover: Talha Anjum",
+  "description": "Home to Pakistani Hits. Cover: Bayaan",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 302306,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3dhEu1ux3U7wwoQr5xFO6h"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 288000,
       "name": "Andaz E Karam",
       "url": "https://open.spotify.com/track/5z8KuGkXVelJFPxtpzyXJf"
@@ -780,6 +780,28 @@
       "duration_ms": 274570,
       "name": "Blockbuster",
       "url": "https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6OBfhob2INheouZ1RGW91s"
+      },
+      "artists": [
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169902,
+      "name": "BTDT (Been There Done That)",
+      "url": "https://open.spotify.com/track/2jJHEFJG33RYeVhCZEbZ8u"
     },
     {
       "album": {
@@ -1200,6 +1222,28 @@
       "duration_ms": 256000,
       "name": "Downers At Dusk",
       "url": "https://open.spotify.com/track/5qolX8ncpZ8R6TfKbvTzbA"
+    },
+    {
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/66sgvYGlzFD9QyMzHYFqRh"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Downers at Dusk",
+      "url": "https://open.spotify.com/track/5yqr66QIdRvhh5cxjgpkJh"
     },
     {
       "album": {
@@ -1704,7 +1748,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 116046,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0"
@@ -1952,7 +1996,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 168537,
       "name": "Just Us",
       "url": "https://open.spotify.com/track/3wm5N6UAVYLF1lRQMW8t0C"
@@ -2142,7 +2186,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 269409,
       "name": "Kaun Talha",
       "url": "https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu"
@@ -2456,6 +2500,32 @@
       "duration_ms": 180800,
       "name": "love lost",
       "url": "https://open.spotify.com/track/6yaF2WzaQpY00JnKPtOEB0"
+    },
+    {
+      "album": {
+        "name": "Safar",
+        "url": "https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C"
+      },
+      "artists": [
+        {
+          "name": "Bayaan",
+          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Maand",
+      "url": "https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc"
     },
     {
       "album": {
@@ -2832,6 +2902,28 @@
       "duration_ms": 276000,
       "name": "O Yaara",
       "url": "https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR WITHOUT A GUITAR",
+        "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "OBVIOUS (feat. Hasan Raheem)",
+      "url": "https://open.spotify.com/track/40MgoUXdjPRk27R1Fp7EAp"
     },
     {
       "album": {
@@ -3418,7 +3510,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 196932,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/6FqF5CMHIMreHf11oZJSZo"
@@ -3874,7 +3966,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 221538,
       "name": "Udh Di Phiran",
       "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
@@ -4034,7 +4126,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 244862,
       "name": "Yaadein Teri",
       "url": "https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri"

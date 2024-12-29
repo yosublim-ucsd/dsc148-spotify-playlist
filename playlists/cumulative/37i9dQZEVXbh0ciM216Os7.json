@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 509840,
       "name": "A Broken Man",
       "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 164296,
       "name": "A Christmas Deal",
       "url": "https://open.spotify.com/track/0VpStwwLCPulSovgFphOgy"
@@ -18054,7 +18054,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 202937,
       "name": "Hymn to Virgil",
       "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
@@ -19090,7 +19090,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 237871,
       "name": "In Da Field",
       "url": "https://open.spotify.com/track/3lLZ0lysKTvL0Teu0YCcGy"
@@ -19740,7 +19740,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 249000,
       "name": "It's Christmas",
       "url": "https://open.spotify.com/track/3CDuJCa3NEJplspA0eKpZJ"
@@ -23016,7 +23016,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Live In Love",
       "url": "https://open.spotify.com/track/6ZBiQ0S0ZCHTOcflZAEfVd"
@@ -32791,6 +32791,24 @@
     },
     {
       "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
+    },
+    {
+      "album": {
         "name": "Route 66 (Live at the Blue Note Chicago)",
         "url": "https://open.spotify.com/album/12wze2sZgUJ52p8mwcAPcK"
       },
@@ -36310,6 +36328,28 @@
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7zkz7Y2mYNg6rWxQDUQM2J"
+    },
+    {
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
       "album": {

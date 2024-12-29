@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-328 songs - 18 hr 55 min
+329 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Slide](https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:23 | 2022-11-11 | 2024-04-19 |
 | [Smile](https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 4:17 | 2024-04-11 |  |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-11-11 | 2024-04-19 |
-| [sol](https://open.spotify.com/track/2d7tlqzWe9GmRuMiS5BUPW) | [xicu](https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6), [Júlia Serrasolsas](https://open.spotify.com/artist/2PoChqQI0BlpZZOJNJiVKm) | [sol](https://open.spotify.com/album/0Dhk03mSlZ734FYSVCFzH5) | 3:17 | 2024-09-24 |  |
+| [sol](https://open.spotify.com/track/2d7tlqzWe9GmRuMiS5BUPW) | [xicu](https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6), [Júlia Serrasolsas](https://open.spotify.com/artist/2PoChqQI0BlpZZOJNJiVKm) | [sol](https://open.spotify.com/album/0Dhk03mSlZ734FYSVCFzH5) | 3:17 | 2024-09-24 | 2024-12-29 |
 | [Someone You Loved](https://open.spotify.com/track/3dCC7aodARJimlvDnlh1mo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [NOW That's What I Call Music, Vol\. 71](https://open.spotify.com/album/6Xo8vxClsqZvYUXCgPuEcB) | 2:59 | 2023-12-28 | 2024-01-29 |
 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2022-11-11 |  |
 | [Song For You](https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:58 | 2022-11-11 |  |
@@ -310,6 +310,7 @@
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2022-11-11 |  |
 | [Tu](https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Tu](https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS) | 2:43 | 2024-06-06 |  |
 | [tu fan \(with salem ilese\)](https://open.spotify.com/track/1xW2DTaGSxrLCiequZitXQ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [tu fan \(with salem ilese\)](https://open.spotify.com/album/248tuXXYvIE268RIT0rYxJ) | 3:54 | 2024-03-15 | 2024-03-24 |
+| [tu película](https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [tu película](https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1) | 2:54 | 2024-12-23 |  |
 | [tu piel me ha besado](https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M) | [Cariatydes](https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W) | [tu piel me ha besado](https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx) | 3:42 | 2024-06-06 | 2024-08-03 |
 | [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 | 2023-07-06 | 2024-03-15 |
 | [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-06-09 | 2023-08-18 |

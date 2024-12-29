@@ -453,6 +453,28 @@
     },
     {
       "album": {
+        "name": "NEVER CATCH THE LIGHT",
+        "url": "https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211343,
+      "name": "GRACE MY EYES",
+      "url": "https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd"
+    },
+    {
+      "album": {
         "name": "HALCYON",
         "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,252 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,263 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [DUBTSOVA](https://open.spotify.com/track/260wUp5DqP8RtsUVFK5EJn) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [Меньше чем три](https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k) | 2:42 |
 | 50 | [мило материшься](https://open.spotify.com/track/0BryMsuHUY9EK5wC45PggL) | [volhey](https://open.spotify.com/artist/6BHwpXJsWpRi3aIzmAgGu8) | [мило материшься](https://open.spotify.com/album/4CE3mitKe51HAvMQjwgZ2G) | 2:00 |
 
-Snapshot ID: `LwIVyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LwNpoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

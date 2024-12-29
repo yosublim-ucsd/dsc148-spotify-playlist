@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 8435,
+  "num_followers": 8443,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAAgjJzK254ToMm1DNa6LNtK",
+  "snapshot_id": "Z23uAAAAAADAGvl9Hze7ReSjr90xla1v",
   "tracks": [
     {
       "added_at": null,
@@ -34,15 +34,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "James Francies",
-          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
         }
       ],
-      "duration_ms": 286730,
-      "name": "Autumn Leaves (feat. James Francies)",
-      "url": "https://open.spotify.com/track/4A4BdAB3MPQhLn7MZZOSmW"
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
     },
     {
       "added_at": null,
@@ -114,11 +110,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "James Francies",
+          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
         }
       ],
-      "duration_ms": 313311,
-      "name": "Raat Ki Rani",
-      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
+      "duration_ms": 286730,
+      "name": "Autumn Leaves (feat. James Francies)",
+      "url": "https://open.spotify.com/track/4A4BdAB3MPQhLn7MZZOSmW"
     },
     {
       "added_at": null,
@@ -200,13 +200,13 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Darian Donovan Thomas",
-          "url": "https://open.spotify.com/artist/4hJmlJAgDI3ivZouvwnCEJ"
+          "name": "Badi Assad",
+          "url": "https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs"
         }
       ],
-      "duration_ms": 404261,
-      "name": "Baghon Main",
-      "url": "https://open.spotify.com/track/4VGFLMTNy3jr4Q1JLqV5LL"
+      "duration_ms": 340041,
+      "name": "Diya Hai",
+      "url": "https://open.spotify.com/track/5kxJ6PiADtz7kxMr9mBYBS"
     },
     {
       "added_at": null,
@@ -276,13 +276,13 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Badi Assad",
-          "url": "https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs"
+          "name": "Darian Donovan Thomas",
+          "url": "https://open.spotify.com/artist/4hJmlJAgDI3ivZouvwnCEJ"
         }
       ],
-      "duration_ms": 340041,
-      "name": "Diya Hai",
-      "url": "https://open.spotify.com/track/5kxJ6PiADtz7kxMr9mBYBS"
+      "duration_ms": 404261,
+      "name": "Baghon Main",
+      "url": "https://open.spotify.com/track/4VGFLMTNy3jr4Q1JLqV5LL"
     },
     {
       "added_at": null,

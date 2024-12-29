@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vl8XKmpwdM.md) - [plain]
 
 > Dance Machi Dance<br/>Cover : NEEK
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,961 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,211 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Golden Sparrow \(From "Nilavuku En Mel Ennadi Kobam"\)](https://open.spotify.com/track/3dHP1GUSR19PB1baWz37LN) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Golden Sparrow \(From "Nilavuku En Mel Ennadi Kobam"\)](https://open.spotify.com/album/09Wjf3AwDGRQrKqddhqHKa) | 3:50 |
-| 2 | [Sawadeeka \(From "Vidaamuyarchi"\)](https://open.spotify.com/track/0Vh3jGxKhm9KxzQgnfnIV6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Sawadeeka \(From "Vidaamuyarchi"\)](https://open.spotify.com/album/3J9YX3ayznkSAV2XecdDzT) | 3:24 |
+| 2 | [Sawadeeka \(From "Vidaamuyarchi"\)](https://open.spotify.com/track/0Vh3jGxKhm9KxzQgnfnIV6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Sawadeeka \(From "Vidaamuyarchi"\)](https://open.spotify.com/album/3J9YX3ayznkSAV2XecdDzT) | 3:24 |
 | 3 | [Yennai Izhukkuthadi \(From "Kadhalikka Neramillai"\)](https://open.spotify.com/track/7qw72jXJNBeqIMsqzvBft5) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Yennai Izhukkuthadi \(From "Kadhalikka Neramillai"\)](https://open.spotify.com/album/3cLJAPVZYNc3dBESRtSQwc) | 3:48 |
 | 4 | [Manasilaayo \(From "Vettaiyan"\)](https://open.spotify.com/track/7KB0zREYCrQU3refE5x0M3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Yugendran Vasudevan](https://open.spotify.com/artist/3UVLcqHc3pOMsWiZv2MeIZ) | [Manasilaayo \(From "Vettaiyan"\)](https://open.spotify.com/album/1EWbkJ8zew7sXQnCbKI0Xz) | 3:55 |
 | 5 | [Paiya Dei \- From "Think Indie"](https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di) | [Paiya Dei \(From "Think Indie"\)](https://open.spotify.com/album/64rBaqo05hIvSgN2cDMT40) | 2:35 |

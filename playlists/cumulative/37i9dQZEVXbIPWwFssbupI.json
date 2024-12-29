@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
@@ -4060,7 +4060,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 201951,
       "name": "Bah Ouais - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
@@ -7370,6 +7370,28 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/5o0osRx8kYJTOqlOSggr9Z"
+    },
+    {
+      "album": {
+        "name": "CARR\u00c9 OK",
+        "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160628,
+      "name": "CARR\u00c9 OK",
+      "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
     },
     {
       "album": {
@@ -21602,7 +21624,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -29248,7 +29270,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/33ee2rByDAPDqYwPeXvhYY"
@@ -29266,7 +29288,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/6m6DLvkfxlezevfiD8qD4B"
@@ -31592,7 +31614,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 219584,
       "name": "PROBATION",
       "url": "https://open.spotify.com/track/75j42uvZCRoUxBcGsEP9Mk"

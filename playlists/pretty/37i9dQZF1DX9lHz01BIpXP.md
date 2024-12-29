@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,138 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,139 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 40 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
 | 41 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
 | 42 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
-| 43 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 |
-| 44 | [Smaak Vir Rap](https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd) | [JÜS](https://open.spotify.com/artist/4xWdHkhjQ6CD2ggPUUffU4), [LIMPO.G.O.D](https://open.spotify.com/artist/5dGKeyMOT7XJOlfceJfJHT) | [Vry & Jonk](https://open.spotify.com/album/4q6QPDCUyLC3DpOQ2w8Psh) | 2:17 |
+| 43 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
+| 44 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 |
 | 45 | [Stalaza Gedrik](https://open.spotify.com/track/6TnLVVsoFFcN1lPYbLAp9s) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Stalaza Gedrik](https://open.spotify.com/album/5i4wNu9pjANht2ln7xBkh7) | 2:29 |
-| 46 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
+| 46 | [Smaak Vir Rap](https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd) | [JÜS](https://open.spotify.com/artist/4xWdHkhjQ6CD2ggPUUffU4), [LIMPO.G.O.D](https://open.spotify.com/artist/5dGKeyMOT7XJOlfceJfJHT) | [Vry & Jonk](https://open.spotify.com/album/4q6QPDCUyLC3DpOQ2w8Psh) | 2:17 |
 | 47 | [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 |
 | 48 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
 | 49 | [Dinge](https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Dinge](https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB) | 2:12 |

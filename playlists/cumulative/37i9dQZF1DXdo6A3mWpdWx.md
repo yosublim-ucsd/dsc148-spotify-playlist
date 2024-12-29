@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Aqua.
 
-362 songs - 1 day 0 hr 42 min
+363 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 | 2021-09-08 |  |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Da Ya Think I'm Sexy?](https://open.spotify.com/album/1pXHEk0IX0foNN22eCe1h6) | 4:22 | 2021-09-08 | 2022-07-25 |
 | [Dance The Night Away](https://open.spotify.com/track/1N67xd3y9s23vitoiP3Zv5) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [Trampoline](https://open.spotify.com/album/2JG2T3NBIs5HDWFX7CPysZ) | 4:22 | 2021-09-08 | 2022-07-29 |
-| [Dear Jessie](https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu) | [Rollergirl](https://open.spotify.com/artist/4OA1c70ANsRopn5bWmJ0Rk) | [Now I'm Singin'..\. \(And the Party Keeps on Rollin'\)](https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs) | 3:34 | 2021-09-08 |  |
+| [Dear Jessie](https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu) | [Rollergirl](https://open.spotify.com/artist/4OA1c70ANsRopn5bWmJ0Rk) | [Now I'm Singin'..\. \(And the Party Keeps on Rollin'\)](https://open.spotify.com/album/1CRIidVn4zBI4qCIuSEMFs) | 3:34 | 2021-09-08 | 2024-12-29 |
 | [Do You See the Light? \(Looking For\) \[feat\. Niki Haris\] \- 7" Edit](https://open.spotify.com/track/1ClsTc9ppIu8aU3KaGAB0g) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx), [Niki Haris](https://open.spotify.com/artist/6AKDBd8dDnM715jeUivRm1) | [SNAP! The Power Greatest Hits](https://open.spotify.com/album/0f7ZSi2EcurDJU0UeKFjuZ) | 4:14 | 2021-09-08 | 2022-07-27 |
 | [Doctor Jones](https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:23 | 2021-09-08 |  |
 | [Don't Give Me Your Life \- Radio Version](https://open.spotify.com/track/6zTUlTbwdSVC61yrNY0SfS) | [Alex Party](https://open.spotify.com/artist/41VxAgbLRHo2ZYZEq5P1mD) | [Alex Party](https://open.spotify.com/album/0fYJIhjxCdKwWSYcF8Po99) | 3:17 | 2021-03-22 | 2022-07-29 |
@@ -286,6 +286,7 @@
 | [Step Back in Time](https://open.spotify.com/track/3J9604GDguYw2c3YvMJQ2a) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Rhythm of Love](https://open.spotify.com/album/7ys9DH0Xjll3wlNduBv2p5) | 3:05 | 2021-09-08 | 2022-07-26 |
 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 | 2021-03-22 |  |
 | [Step On \- 2007 Remaster](https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 5:18 | 2021-09-08 | 2022-08-10 |
+| [Strike It Up](https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:58 | 2024-07-12 |  |
 | [Strong Enough](https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:44 | 2021-09-08 |  |
 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 | 2021-09-08 |  |
 | [Sunchyme](https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunchyme](https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2) | 3:55 | 2021-09-08 |  |

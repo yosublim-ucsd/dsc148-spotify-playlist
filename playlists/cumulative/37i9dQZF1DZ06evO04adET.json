@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 182133,
       "name": "En Corto",
       "url": "https://open.spotify.com/track/6PlLiHoRcjCgK5som2T3ph"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 172360,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO"
@@ -960,6 +960,32 @@
       "duration_ms": 198440,
       "name": "Kilos De H (En Vivo)",
       "url": "https://open.spotify.com/track/2f0k21XMQxO7ekccaAUo25"
+    },
+    {
+      "album": {
+        "name": "LA PERLA (V. ELECTRO-CORRIDO)",
+        "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Yay",
+          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182584,
+      "name": "LA PERLA (V. ELECTRO-CORRIDO)",
+      "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
     },
     {
       "album": {

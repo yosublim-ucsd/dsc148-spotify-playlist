@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Matt Redman",
-  "num_followers": 332667,
+  "num_followers": 332782,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Run To The Father",
-        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 393200,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/5KXVeVXTMuCJnkK8YSC3FC"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 323866,
       "name": "Voice of Truth",
       "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Run To The Father",
+        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 393200,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/5KXVeVXTMuCJnkK8YSC3FC"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 297640,
+      "name": "Praise You In This Storm",
+      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
         "name": "Great Are You Lord EP",
         "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 232379,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1211,18 +1211,34 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Lifesong",
-        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 297640,
-      "name": "Praise You In This Storm",
-      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Still Believe (Live)",
+        "url": "https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 382573,
+      "name": "Spirit Break Out - Live",
+      "url": "https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1243,22 +1259,6 @@
       "duration_ms": 316250,
       "name": "Take You At Your Word (with Benjamin William Hastings) - Live",
       "url": "https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Still Believe (Live)",
-        "url": "https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 382573,
-      "name": "Spirit Break Out - Live",
-      "url": "https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Christ Be Magnified",
-        "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 302011,
-      "name": "Christ Be Magnified",
-      "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 295400,
       "name": "He Reigns",
       "url": "https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Christ Be Magnified",
+        "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 302011,
+      "name": "Christ Be Magnified",
+      "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Everything And Nothing Less (Live)",
         "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Let the Praises Ring: The Best of Lincoln Brewster",
-        "url": "https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE"
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
       },
       "artists": [
         {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
         }
       ],
-      "duration_ms": 287434,
-      "name": "Everlasting God",
-      "url": "https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI"
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1567,6 +1551,22 @@
       "duration_ms": 217866,
       "name": "No Impossible with You",
       "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Let the Praises Ring: The Best of Lincoln Brewster",
+        "url": "https://open.spotify.com/album/4YI4aVaQzJhT9XZdLpPBHE"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "duration_ms": 287434,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/6eYawsVsCvja8wXmcshtdI"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Yet Not I",
-        "url": "https://open.spotify.com/album/4FJlpbrkDo1JJymeNEjHJT"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 331297,
-      "name": "Yet Not I but Through Christ in Me",
-      "url": "https://open.spotify.com/track/7sxPwx9sBZVD6LR4oEwnc6"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Hallelujah For The Cross (Live)",
         "url": "https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 331998,
       "name": "Hallelujah For The Cross - Live",
       "url": "https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Yet Not I",
+        "url": "https://open.spotify.com/album/4FJlpbrkDo1JJymeNEjHJT"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 331297,
+      "name": "Yet Not I but Through Christ in Me",
+      "url": "https://open.spotify.com/track/7sxPwx9sBZVD6LR4oEwnc6"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "The Rock Won't Move",
-        "url": "https://open.spotify.com/album/0DW4DEU7uY3yxFxUfhyiqk"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 260839,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/1d2LyEJ1zZ0gWtlxyZQpDE"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "The Power of Your Name",
         "url": "https://open.spotify.com/album/11ERH4AY90y6lkIn5HwJrb"
       },
@@ -2131,22 +2115,18 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Church Volume One (Live)",
-        "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
+        "name": "The Rock Won't Move",
+        "url": "https://open.spotify.com/album/0DW4DEU7uY3yxFxUfhyiqk"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
         }
       ],
-      "duration_ms": 516373,
-      "name": "More Than Enough - Live",
-      "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"
+      "duration_ms": 260839,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/1d2LyEJ1zZ0gWtlxyZQpDE"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2163,6 +2143,26 @@
       "duration_ms": 390800,
       "name": "You Reign - Live",
       "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Church Volume One (Live)",
+        "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 516373,
+      "name": "More Than Enough - Live",
+      "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Worship With Don Moen",
-        "url": "https://open.spotify.com/album/4t2n1gHda7XMuUa3bxgiT5"
-      },
-      "artists": [
-        {
-          "name": "Don Moen",
-          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "I Worship You Almighty God",
-      "url": "https://open.spotify.com/track/0JG48Th3ip08g9y5x5qDNl"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 290133,
       "name": "Even The Impossible - Live",
       "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Worship With Don Moen",
+        "url": "https://open.spotify.com/album/4t2n1gHda7XMuUa3bxgiT5"
+      },
+      "artists": [
+        {
+          "name": "Don Moen",
+          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "I Worship You Almighty God",
+      "url": "https://open.spotify.com/track/0JG48Th3ip08g9y5x5qDNl"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2363,26 +2363,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Death Was Arrested",
-        "url": "https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 314242,
-      "name": "Death Was Arrested",
-      "url": "https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Gold (Live)",
         "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
       },
@@ -2399,6 +2379,26 @@
       "duration_ms": 499053,
       "name": "Gold - Live",
       "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Death Was Arrested",
+        "url": "https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 314242,
+      "name": "Death Was Arrested",
+      "url": "https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28"
     },
     {
       "added_at": "2024-12-11 10:16:32",

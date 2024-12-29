@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 91379,
+  "num_followers": 91386,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAAR3UuxusaavXtPpeGvCQEl",
+  "snapshot_id": "Z23uAAAAAAC1gTv2pnpx1V8LOvapp8Yh",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Una Pantera",
-        "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
       "artists": [
-        {
-          "name": "Hermanos Siqueiros",
-          "url": "https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C"
-        },
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 170492,
-      "name": "Como Una Pantera",
-      "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
+      "duration_ms": 148344,
+      "name": "La Fiesta Ya Empezo",
+      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
     },
     {
       "added_at": null,
@@ -703,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+        "name": "Como Una Pantera",
+        "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
       },
       "artists": [
+        {
+          "name": "Hermanos Siqueiros",
+          "url": "https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C"
+        },
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 148344,
-      "name": "La Fiesta Ya Empezo",
-      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+      "duration_ms": 170492,
+      "name": "Como Una Pantera",
+      "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
     },
     {
       "added_at": null,

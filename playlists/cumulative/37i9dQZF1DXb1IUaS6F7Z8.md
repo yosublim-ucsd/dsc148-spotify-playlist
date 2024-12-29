@@ -4,7 +4,7 @@
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-137 songs - 7 hr 38 min
+138 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Sainted Millions](https://open.spotify.com/track/7LmBfdrRNRZrDnEICN8AjX) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sainted Millions](https://open.spotify.com/album/1EJ0Kd7zPTP12eetg4W1tI) | 3:35 | 2022-03-18 | 2022-07-29 |
 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 | 2022-03-18 |  |
 | [Salty Dog](https://open.spotify.com/track/5cttYnhe480emw7rofGZQ6) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 2:21 | 2024-02-06 |  |
+| [Selfish Man](https://open.spotify.com/track/2cfAdgkeebxKImAFOekwde) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 2:54 | 2024-02-06 |  |
 | [Seven Deadly Sins](https://open.spotify.com/track/0Zaj8UBGB5AfwRfnr29gjD) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within A Mile Of Home](https://open.spotify.com/album/3dTWUxyDbFbPIxYe8CDSZC) | 2:50 | 2022-03-18 | 2022-07-29 |
 | [Seven Deadly Sins](https://open.spotify.com/track/66jfY0gvhfylkoocCEyhv0) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 2:50 | 2022-03-18 | 2024-04-19 |
 | [Seven Deadly Sins](https://open.spotify.com/track/7DpMB4j8Ye6PGU6owqQmfm) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/1YkpNe3f9MctcZSMoGz1ah) | 2:50 | 2022-03-18 | 2022-07-30 |
@@ -130,7 +131,7 @@
 | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/track/7IOrBMvRcXDg7cbYN925xk) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Anthem](https://open.spotify.com/album/24bp5VFAICVJ2ZXRuDUCJP) | 4:13 | 2022-03-18 | 2023-11-06 |
 | [This Is Our Day](https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr) | [The Roughneck Riot](https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi) | [This Is Our Day](https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ) | 3:23 | 2022-03-18 | 2024-02-07 |
 | [This Is Our Day](https://open.spotify.com/track/7cvkeq1Pjnbryp9gEXNggb) | [The Roughneck Riot](https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi) | [This Is Our Day](https://open.spotify.com/album/2AZk5BiFgrZT8w2NbcZhPK) | 3:23 | 2022-03-18 | 2022-07-29 |
-| [Tobacco Island](https://open.spotify.com/track/7cv7U6KO9uSCCw5JE7GEMS) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 5:17 | 2024-02-06 |  |
+| [Tobacco Island](https://open.spotify.com/track/7cv7U6KO9uSCCw5JE7GEMS) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 5:17 | 2024-02-06 | 2024-12-29 |
 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 | 2022-03-18 |  |
 | [Turn Up That Dial](https://open.spotify.com/track/2d05ApT2Mg3dss41OBhXRe) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial](https://open.spotify.com/album/7a6NzWEOQMUJZcPXyWMmDo) | 3:42 | 2022-03-18 | 2022-07-29 |
 | [Uncle Tommy](https://open.spotify.com/track/5UqIk0AUqq3AMrdk2cYiCJ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 2:34 | 2024-02-06 |  |

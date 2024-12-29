@@ -5381,6 +5381,32 @@
     },
     {
       "album": {
+        "name": "LA PERLA (V. ELECTRO-CORRIDO)",
+        "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Yay",
+          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182584,
+      "name": "LA PERLA (V. ELECTRO-CORRIDO)",
+      "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
+    },
+    {
+      "album": {
         "name": "La Plata Los Culos",
         "url": "https://open.spotify.com/album/58RdZIXAYJODfBjh1QwNXk"
       },

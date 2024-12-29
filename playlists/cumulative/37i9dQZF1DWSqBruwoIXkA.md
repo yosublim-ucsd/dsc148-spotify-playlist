@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. cover: d4vd
 
-843 songs - 1 day 22 hr 25 min
+844 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [18](https://open.spotify.com/track/3bXTpnBUoU4hJvkRQiZQrs) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [18](https://open.spotify.com/album/6lMeuUVkmw1ZtlH7S9LjT2) | 3:38 | 2023-12-08 | 2023-12-30 |
 | [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 | 2023-04-28 | 2023-05-06 |
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 | 2024-03-16 |
+| [25](https://open.spotify.com/track/5lDv9IAnprD7TPjq367YzE) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [25](https://open.spotify.com/album/0C92Qrku2KYDLNlTmLdaKX) | 2:51 | 2024-12-06 |  |
 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2023-11-10 |  |
 | [3 Months](https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap) | [Lily Kincade](https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c) | [3 Months](https://open.spotify.com/album/37Gx1RWOu7T6O2QmU3j0Yj) | 4:30 | 2023-02-03 | 2023-02-18 |
 | [3 Moods](https://open.spotify.com/track/3n9ok4Eyi26VSubDdVLA1E) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [3 Moods](https://open.spotify.com/album/5eWV4nxVgx850XQp3ZJSEn) | 3:08 | 2021-12-17 | 2022-05-20 |
@@ -759,7 +760,7 @@
 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 | 2022-03-18 | 2022-05-19 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2024-09-14 |
 | [Twenty\-Two](https://open.spotify.com/track/42Jl9YIutlOqAAAAOWGetE) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Twenty\-Two](https://open.spotify.com/album/6XwUfDJzqfYgxo6PSAFUHh) | 3:10 | 2022-05-27 | 2022-06-17 |
-| [Twentysomethings](https://open.spotify.com/track/5Nf9yOpnskwYFRz7S4uwx0) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:42 | 2024-06-28 |  |
+| [Twentysomethings](https://open.spotify.com/track/5Nf9yOpnskwYFRz7S4uwx0) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:42 | 2024-06-28 | 2024-12-29 |
 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-17 | 2023-12-30 |
 | [Two Places at Once](https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once \(Part I\)](https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v) | 3:19 | 2022-09-09 | 2022-12-17 |
 | [Two Week Notice](https://open.spotify.com/track/4Dv0LIwnRPMPCgKJEwEG3c) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Two Week Notice](https://open.spotify.com/album/0hefDitXRWRRoVQ8G9NyzV) | 3:58 | 2021-12-17 | 2022-07-29 |

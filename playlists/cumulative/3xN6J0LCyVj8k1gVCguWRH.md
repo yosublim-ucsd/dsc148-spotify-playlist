@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,348 songs - 10 day 3 hr 40 min
+4,349 songs - 10 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Another Drink](https://open.spotify.com/track/190IjzLs01Y4BKiszBVSIk) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Another Drink](https://open.spotify.com/album/2mAeaskwXDpkHBpaEGqWor) | 3:06 | 2019-12-16 | 2021-06-20 |
 | [Another Galaxy](https://open.spotify.com/track/0EpP85hoxbDzSJ15dDgTsE) | [publicsoda](https://open.spotify.com/artist/2NVAyHALqWCdcEMDrD7zxw), [Sally Stardust](https://open.spotify.com/artist/06fxTEXGMBU9ynQxBdAn3r), [Sign E](https://open.spotify.com/artist/6h2XsiUvdP6jXF9EzxXf1X) | [Another Galaxy](https://open.spotify.com/album/7gkgtiPuiWiseImjfXWhtJ) | 3:08 | 2023-03-17 | 2023-04-09 |
 | [Another Lover](https://open.spotify.com/track/6z4k7IPAWULrxSnDY0kIKZ) | [Joh Chase](https://open.spotify.com/artist/7K2Ko4xHFZjmtM20rUrV6P) | [Another Lover](https://open.spotify.com/album/3h0AoGNgnedGaQmMuIllEU) | 2:55 | 2023-06-23 | 2023-07-14 |
+| [Another Side of Paradise](https://open.spotify.com/track/5OMh3RCJnw4yjTwzONiWac) | [Adam James](https://open.spotify.com/artist/64SgbzDDbzg2dZPZZpmizk), [Steve Stout](https://open.spotify.com/artist/13xgeb7Gr4pPS03s5gcvie) | [Another Side of Paradise](https://open.spotify.com/album/1SSguXEVEQ02ZCbvfmnM4H) | 4:22 | 2024-12-28 |  |
 | [Another Star](https://open.spotify.com/track/31B3aXOVem4hH2bO45VkXl) | [Earthquake Lights](https://open.spotify.com/artist/1ZhXMVV5iZrnrKUIMEhuFW) | [Another Star](https://open.spotify.com/album/4de6UhKBrZmBacJKSV3J3B) | 4:54 | 2022-07-09 | 2022-07-27 |
 | [Another Try!](https://open.spotify.com/track/3HHUG30u4zmSBnMw5WyvC9) | [Cayla Casler](https://open.spotify.com/artist/1JOzM2PSSxpD3MXKoaqiFZ) | [Another Try!](https://open.spotify.com/album/7uCWGkYj0RLP2p66MQ59R8) | 2:51 | 2024-09-06 | 2024-09-18 |
 | [ANTHEM](https://open.spotify.com/track/3cCfCaMqeAnTekr6sf2rX6) | [Not Who I Am](https://open.spotify.com/artist/4IRkyMgtRsmfmowSyl4OIX), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [ANTHEM](https://open.spotify.com/album/4AoeQekkgGdvWP7EWSboug) | 2:41 | 2020-01-14 | 2020-02-08 |
@@ -1342,7 +1343,7 @@
 | [for a minute](https://open.spotify.com/track/1aInpA0MK66NqNEG4kPvlW) | [ilselena](https://open.spotify.com/artist/4080n5KoGfdo3p93orsGIo) | [for a minute](https://open.spotify.com/album/5OCyynWAD251PMaICcI6UL) | 4:27 | 2021-11-20 | 2021-12-11 |
 | [For Love](https://open.spotify.com/track/7zSS9Z6V4Mwvx9xcaCdeHf) | [Antone](https://open.spotify.com/artist/1oNWLC92WftObvYoV5HpYN) | [For Love](https://open.spotify.com/album/526A6Ct8ixrJWodK2OdqYl) | 4:36 | 2023-08-22 | 2023-09-01 |
 | [For Nothing](https://open.spotify.com/track/4sqwWXsA2J2V4OIkX4d1FZ) | [Nakima](https://open.spotify.com/artist/3fZKCj6O0KB0A2OHl3mT4z) | [For Nothing](https://open.spotify.com/album/31MSaR45YmVHjkbitDDjc3) | 2:45 | 2024-08-09 | 2024-08-20 |
-| [For The Children](https://open.spotify.com/track/1Xv1V2oJLuwqSTK857bu8S) | [Bench Playazz](https://open.spotify.com/artist/4I0RUzBDtpbgFsb6QWU1Eo), [Dan Amozig](https://open.spotify.com/artist/1cS3HtoL7qTOOLQrIc349t), [Vin's Da Cuero](https://open.spotify.com/artist/51Vz8wPWLm0d2qynon3pwm) | [For The Children](https://open.spotify.com/album/4fKKhl9Cgdk5HNFP7YvsZD) | 3:50 | 2024-12-16 |  |
+| [For The Children](https://open.spotify.com/track/1Xv1V2oJLuwqSTK857bu8S) | [Bench Playazz](https://open.spotify.com/artist/4I0RUzBDtpbgFsb6QWU1Eo), [Dan Amozig](https://open.spotify.com/artist/1cS3HtoL7qTOOLQrIc349t), [Vin's Da Cuero](https://open.spotify.com/artist/51Vz8wPWLm0d2qynon3pwm) | [For The Children](https://open.spotify.com/album/4fKKhl9Cgdk5HNFP7YvsZD) | 3:50 | 2024-12-16 | 2024-12-29 |
 | [For The Money](https://open.spotify.com/track/2dGYoVUGSIJXwhV8yHbXWp) | [Jaymie Deville](https://open.spotify.com/artist/18JfXVpoIu9X7IDN9u5Jwx) | [For The Money](https://open.spotify.com/album/6T2suPHv0O76sz2JCt6WhV) | 2:53 | 2020-05-08 | 2020-05-24 |
 | [For What It's Worth](https://open.spotify.com/track/2ZBwoldduPeQoXBWePnrYV) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [For What It's Worth](https://open.spotify.com/album/4pNtsSNcYf87OeQPUALNaR) | 3:10 | 2020-08-20 | 2023-08-28 |
 | [For What?](https://open.spotify.com/track/1yKDheHjRsMOugDSA2edJn) | [Anais Chantal](https://open.spotify.com/artist/053jjj6s5jNLvPEA4HblcU) | [Recipe](https://open.spotify.com/album/1jvJ40I0ioAVt2IziPKnm0) | 3:15 | 2024-08-01 | 2024-08-13 |
@@ -2475,7 +2476,7 @@
 | [miss my flight](https://open.spotify.com/track/5nE25XQ9GiS0JxhoSBkZ8q) | [Yana Rose](https://open.spotify.com/artist/5pC28dnohJ0RhlvlZkYJQ5) | [miss my flight](https://open.spotify.com/album/5NAi7nNYLEx4KuGCs7ctUt) | 3:10 | 2024-10-25 | 2024-11-07 |
 | [Miss Seattle](https://open.spotify.com/track/47SCGQbh4NIkKjkyNupVuD) | [DALE](https://open.spotify.com/artist/06wUJg0I0A4Eda5TxDqxvF) | [Miss Seattle](https://open.spotify.com/album/5wiIvtiqIWCbo2ZVj1BrLA) | 3:36 | 2020-12-18 | 2021-02-20 |
 | [miss u more](https://open.spotify.com/track/0lbZrjIH9UwPbE0I5OTiv5) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3), [hanyu](https://open.spotify.com/artist/79sPGzeNK45ZAMGXJCcL0L) | [miss u more](https://open.spotify.com/album/7uGZBcrELxw5Qud2SKmsfr) | 3:15 | 2023-09-22 | 2023-12-14 |
-| [Missed Call](https://open.spotify.com/track/3kN8eP9bJLdlFrB82TMld4) | [Jack DeNicola](https://open.spotify.com/artist/2Kb1e1SXdaNvd1ICwQTBK3) | [Missed Call](https://open.spotify.com/album/18ANJa0wJjddOPwUsZ5EcD) | 2:31 | 2024-06-07 | 2024-10-10 |
+| [Missed Call](https://open.spotify.com/track/3kN8eP9bJLdlFrB82TMld4) | [Jack DeNicola](https://open.spotify.com/artist/2Kb1e1SXdaNvd1ICwQTBK3) | [Missed Call](https://open.spotify.com/album/18ANJa0wJjddOPwUsZ5EcD) | 2:31 | 2024-06-07 |  |
 | [Mistakes](https://open.spotify.com/track/1cw7s88GHd1ghC4hDg639f) | [Morgan Taylor](https://open.spotify.com/artist/6aaFMlrrpvM8drt4IjyNph) | [Mistakes](https://open.spotify.com/album/5nNzfh7aMlxBtQMcGayXSe) | 3:10 | 2024-05-03 | 2024-05-17 |
 | [MISTAKES](https://open.spotify.com/track/2oW2fHVySMw0qfqbXmsq6f) | [Steven Xia](https://open.spotify.com/artist/3jiV4fghGpdlbvtOTuQYtS) | [I DIGRESS](https://open.spotify.com/album/7fbyv5cwWxkRbv0aUspySd) | 2:06 | 2021-05-14 | 2021-05-30 |
 | [MISTLETOE](https://open.spotify.com/track/7fiSWTplZdt2lCE21by8TI) | [SPIKY](https://open.spotify.com/artist/5XVlvlIGLB8sHvzYXrm9Xo) | [MISTLETOE](https://open.spotify.com/album/2obQlk8qHhYzlM49ModkRp) | 3:25 | 2024-12-12 | 2024-12-24 |

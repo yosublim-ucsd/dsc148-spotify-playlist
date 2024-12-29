@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aCIGeSe3p4.md) - [plain]
 
 > perdón, pero yo no forzo el amor, tú dime si quieres estar o no 🥺💔🥀 Cosechando los éxitos del internet 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,025 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,151 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

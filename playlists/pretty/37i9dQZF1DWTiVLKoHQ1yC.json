@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 227016,
+  "num_followers": 227129,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "My Reflection",
+        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 257608,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Running In A Dream",
         "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 292156,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "My Reflection",
-        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 257608,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Running In A Dream",
-        "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        },
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 269221,
-      "name": "Running In A Dream",
-      "url": "https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Highest Love",
         "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
       },
@@ -1215,6 +1191,30 @@
       "duration_ms": 188608,
       "name": "Been There Before",
       "url": "https://open.spotify.com/track/6unWfD9WVxx7e0ue3MYX15"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Ice Moon",
+        "url": "https://open.spotify.com/album/4ZFwY8augL822xcvrf0LL2"
+      },
+      "artists": [
+        {
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+        },
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+        }
+      ],
+      "duration_ms": 154153,
+      "name": "Ice Moon",
+      "url": "https://open.spotify.com/track/1Vv4jqn3EZZw0BThJqjhJD"
     }
   ],
   "unique_name": "Melodic & Euphoric",

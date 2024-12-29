@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Every Drop",
+        "url": "https://open.spotify.com/album/3EmDnBg1u0pVaWoQRPL8kA"
+      },
+      "artists": [
+        {
+          "name": "Josh Wawa",
+          "url": "https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244665,
+      "name": "Every Drop",
+      "url": "https://open.spotify.com/track/4OLXa4APPfBYiOg2bVLjkq"
+    },
+    {
+      "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/5oStuVQ3cIli57rHOqi42c"
       },
@@ -2992,7 +3010,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 192125,
       "name": "Problem",
       "url": "https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6"

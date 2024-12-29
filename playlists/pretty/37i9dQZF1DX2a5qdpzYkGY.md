@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,503 likes - 75 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,506 likes - 75 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 10 | [Dream State](https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Dream State](https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK) | 8:39 |
 | 11 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
 | 12 | [Got Me](https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 2:20 |
-| 13 | [Spoken](https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago](https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG) | 5:44 |
-| 14 | [Soft Power](https://open.spotify.com/track/3PPBJ6mj7Tzze05XGCCW07) | [Ezra Feinberg](https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J), [David Lackner](https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS) | [Soft Power](https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5) | 5:58 |
+| 13 | [Soft Power](https://open.spotify.com/track/3PPBJ6mj7Tzze05XGCCW07) | [Ezra Feinberg](https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J), [David Lackner](https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS) | [Soft Power](https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5) | 5:58 |
+| 14 | [Spoken](https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago](https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG) | 5:44 |
 | 15 | [Constant Fear](https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 6:27 |
 | 16 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
 | 17 | [Mexico Edit](https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Hardy Boys](https://open.spotify.com/album/58ocne0PjbMjQN4iIXCxNv) | 2:17 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 65 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |
 | 66 | [Spiral Era](https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [Pyramid](https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B) | 8:08 |
 | 67 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 |
-| 68 | [Stuck T](https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI) | [Sharko](https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5) | [Sharko III](https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8) | 1:16 |
-| 69 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
+| 68 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
+| 69 | [Stuck T](https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI) | [Sharko](https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5) | [Sharko III](https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8) | 1:16 |
 | 70 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 |
 | 71 | [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 |
 | 72 | [Hell To The Liars \(feat\. NATURE\)](https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Hell To The Liars \(feat\. NATURE\)](https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc) | 9:31 |
 | 73 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
-| 74 | [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 |
-| 75 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
+| 74 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
+| 75 | [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 |
 
 Snapshot ID: `Z05QugAAAADNMAd+zTlgblKkCooJYF8g`

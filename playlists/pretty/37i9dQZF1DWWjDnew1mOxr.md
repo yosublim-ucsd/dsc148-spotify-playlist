@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Sam Fender
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,406 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,421 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 62 | [Does Only God Know That We're Lonely?](https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq) | 3:02 |
 | 63 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
 | 64 | [Mr & Mrs Human Race](https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Mr & Mrs Human Race](https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H) | 2:55 |
-| 65 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 |
-| 66 | [Twist and Turn](https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Cardinals](https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp) | 3:14 |
+| 65 | [Twist and Turn](https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Cardinals](https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp) | 3:14 |
+| 66 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 |
 | 67 | [Adrenaline](https://open.spotify.com/track/2fgktVdVpJnMcsrCtkzGm0) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Ballad Of A Bystander](https://open.spotify.com/album/3tbVVoG2U5m4IAnJTF3YyZ) | 3:00 |
 | 68 | [Fever Dream](https://open.spotify.com/track/0GYauYXRLca27TmK3VsiVK) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Fever Dream](https://open.spotify.com/album/1eceK22Ob6mCkjz4yYrFWM) | 3:24 |
-| 69 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 |
-| 70 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
+| 69 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
+| 70 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 |
 | 71 | [Better Day](https://open.spotify.com/track/0UG7NIRTR70z5rd7Nii1tl) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS), [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [10 For The People](https://open.spotify.com/album/79ARqZZ3ciUJVsJaIqh4N2) | 4:12 |
 | 72 | [Save Yourself](https://open.spotify.com/track/0tE7RnJ6CdPyHf752zKlmA) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H), [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Save Yourself](https://open.spotify.com/album/37KryKnqgxzrKPesMxGrcd) | 3:24 |
 | 73 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 83 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 |
 | 84 | [All Kinds of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 |
 | 85 | [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 |
-| 86 | [Don't Stop Me](https://open.spotify.com/track/6oTczJENNzHA6MHmX8yyiT) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Once Upon A Weekend](https://open.spotify.com/album/4Atbyz2PyX0mdtH9J2lZYW) | 3:16 |
-| 87 | [Chalet 47](https://open.spotify.com/track/7imqXMxp4iG3TTpUxSvktB) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [What's Inside is More Than Just Ham](https://open.spotify.com/album/7rXyBtUygLS401qrgO9KzS) | 3:43 |
+| 86 | [Chalet 47](https://open.spotify.com/track/7imqXMxp4iG3TTpUxSvktB) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [What's Inside is More Than Just Ham](https://open.spotify.com/album/7rXyBtUygLS401qrgO9KzS) | 3:43 |
+| 87 | [Don't Stop Me](https://open.spotify.com/track/6oTczJENNzHA6MHmX8yyiT) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Once Upon A Weekend](https://open.spotify.com/album/4Atbyz2PyX0mdtH9J2lZYW) | 3:16 |
 | 88 | [Alright](https://open.spotify.com/track/1YtDiUfVAR54jdvCD9UfRe) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Alright](https://open.spotify.com/album/1G87Kj047fGnnuyy9TSgIZ) | 3:28 |
 | 89 | [F Up](https://open.spotify.com/track/5w1iJq7RB2Mnzr0k8L3MtU) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [F Up](https://open.spotify.com/album/3MeTTSjSAjXF5mnkh4xsB4) | 3:14 |
 | 90 | [Yesterday Is Gone](https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Yesterday Is Gone](https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo) | 3:16 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 94 | [Dirty White](https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Dirty White Lies](https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0) | 2:59 |
 | 95 | [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 |
 | 96 | [Stay Up](https://open.spotify.com/track/7i2ZntdYyNmcGnptw8Dhbw) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Stay Up](https://open.spotify.com/album/5J7fJeUi0ouBt8y4QWJYyY) | 3:17 |
-| 97 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 |
-| 98 | [Hello](https://open.spotify.com/track/50avOa0LBFsU1nAahTRlMZ) | [The Kites](https://open.spotify.com/artist/3ozhwCsC7L5vosnIQrX1jy) | [Hello](https://open.spotify.com/album/4q41CEqg6BbETmU5N7Cp8S) | 2:39 |
+| 97 | [Hello](https://open.spotify.com/track/50avOa0LBFsU1nAahTRlMZ) | [The Kites](https://open.spotify.com/artist/3ozhwCsC7L5vosnIQrX1jy) | [Hello](https://open.spotify.com/album/4q41CEqg6BbETmU5N7Cp8S) | 2:39 |
+| 98 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 |
 | 99 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 |
 | 100 | [Nothing Compares To Nineteen](https://open.spotify.com/track/7GQwcstzhZd6GNFp0LJqEt) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Nothing Compares To Nineteen](https://open.spotify.com/album/3aiDUv877OWq4i6t9jI9cD) | 2:48 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 魏如萱 \(Waa Wei\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,284 likes - 151 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,293 likes - 151 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 4 | [飛去長灘島 aka 馬上買機票](https://open.spotify.com/track/5en1eE7RVSoswHTW6w900x) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [飛去長灘島 aka 馬上買機票](https://open.spotify.com/album/0tvTCdPgVr3BnLFkSihOyl) | 2:56 |
 | 5 | [Zan“讚”](https://open.spotify.com/track/7v0mO9hTJzhWMrYcMnZt03) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ), [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [Zan“讚”](https://open.spotify.com/album/0LDIKGg05W5vXotyHy6iiy) | 3:13 |
 | 6 | [啾一個 \(動畫《妞妞星世界》主題曲\)](https://open.spotify.com/track/2qYn2UIaVBdi8TrLGpuVaI) | [閃閃閃閃](https://open.spotify.com/artist/3v1lQb5de2uc8TzkIsMVQj) | [啾一個 \(動畫《妞妞星世界》主題曲\)](https://open.spotify.com/album/6506XgFAtzKjCwV0dF1vqP) | 2:44 |
-| 7 | [Found me](https://open.spotify.com/track/71mf7Rd6XwQvPmmYEHVIDF) | [Plutato](https://open.spotify.com/artist/3A3zuAop7uM5dY6Vs41dsR) | [Ctrl+Z](https://open.spotify.com/album/63qLX0ZafYEXOHIEFDmDt6) | 3:43 |
+| 7 | [Found me \- 原生基因型](https://open.spotify.com/track/71mf7Rd6XwQvPmmYEHVIDF) | [Plutato](https://open.spotify.com/artist/3A3zuAop7uM5dY6Vs41dsR) | [Ctrl+Z](https://open.spotify.com/album/63qLX0ZafYEXOHIEFDmDt6) | 3:43 |
 | 8 | [聚少離多](https://open.spotify.com/track/5klmdDVKSLwMnCQMp8KGEs) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [聚少離多](https://open.spotify.com/album/68tN9z2Y55AmnYS2xst9Cc) | 3:33 |
 | 9 | [睡 \(feat\. 冼佩瑾\)](https://open.spotify.com/track/2EEGBQE0ffcaIIFYCdpZhJ) | [柯朋宇](https://open.spotify.com/artist/5vWQyCpjh2KpM8DWR7OiYP), [Celeste Syn](https://open.spotify.com/artist/5iDUKJ7OHv9qOmvxAbLnHK) | [清醒夢](https://open.spotify.com/album/54EKBIZFRE9FyV7yGNhZKL) | 4:28 |
 | 10 | [風箏](https://open.spotify.com/track/78YtnIo9lFcufVeVNQbbEJ) | [王謙Goatak](https://open.spotify.com/artist/1CH4dO170qpIfqWdndWoUx) | [Memo](https://open.spotify.com/album/1uGYXx3g1bw80DXDIUdB3d) | 3:46 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 113 | [惡口](https://open.spotify.com/track/6yHsCfnCexPas4uyyq7Sf8) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [惡口](https://open.spotify.com/album/7EPgyEjXHsN65o6BT8iK4l) | 3:46 |
 | 114 | [2HII](https://open.spotify.com/track/4zj41U06wJ0Q4F6HKQTP2l) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA), [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [2HII](https://open.spotify.com/album/2sYRcSfLpSpC5CCNNnlwtz) | 2:37 |
 | 115 | [Don’t be the best ft\. Feeeleven](https://open.spotify.com/track/331nS3h0uuoe2J0OlYHxEJ) | [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl), [Feeeleven](https://open.spotify.com/artist/7FTLlX3ud1oW8eqdVucD9h) | [好聲豪氣](https://open.spotify.com/album/7bxNTtm9J3J3Op7Ms2ltkV) | 2:44 |
-| 116 | [寧願 \- 戲劇《全面管控》片尾曲](https://open.spotify.com/track/2ECRsfLHIZNGEMGbJciHEV) | [盧學叡](https://open.spotify.com/artist/6741WxQXaxHj7uXDH7Y5IY) | [寧願 \(戲劇《全面管控》片尾曲\)](https://open.spotify.com/album/0iWbzwdMVGAzCBYbJOyHg6) | 4:04 |
+| 116 | [寧願 \- 戲劇《全面管控》片尾曲](https://open.spotify.com/track/2ECRsfLHIZNGEMGbJciHEV) | [盧學叡](https://open.spotify.com/artist/6741WxQXaxHj7uXDH7Y5IY), [卢学睿](https://open.spotify.com/artist/3lCHec0F2lXdKNFKRFTKbX) | [寧願 \(戲劇《全面管控》片尾曲\)](https://open.spotify.com/album/0iWbzwdMVGAzCBYbJOyHg6) | 4:04 |
 | 117 | [白樹](https://open.spotify.com/track/428XtGuhYhUSk02xpsPQuz) | [袁語笙](https://open.spotify.com/artist/3J2ufQTqU0OKM6yCd7KVzy) | [白樹](https://open.spotify.com/album/1K8R8r8QxSRftLrbTEFi18) | 2:30 |
 | 118 | [why you gotta do me like that?](https://open.spotify.com/track/0kiGmBggN09ikIElc6gQlC) | [RYOTA 片山凉太](https://open.spotify.com/artist/4AqWE3RWMUveYgB48txw9y), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [what am i to you?](https://open.spotify.com/album/67VAWpThoyTiaVNd1EAIuK) | 3:01 |
 | 119 | [DaleleSaririMa](https://open.spotify.com/track/56UEswqhq3olOWMxFAHeSp) | [PG LIU](https://open.spotify.com/artist/7pWhfTv5RxJOwBk61w1HoK) | [DaleleSaririMa](https://open.spotify.com/album/53UJ7EE5zt7P1RBlfRlMwQ) | 2:31 |

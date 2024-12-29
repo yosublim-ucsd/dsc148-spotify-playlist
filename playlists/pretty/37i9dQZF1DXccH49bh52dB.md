@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,333 likes - 140 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,578 likes - 140 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 98 | [Dreams](https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Dreams](https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI) | 3:55 |
 | 99 | [Bad Ideas](https://open.spotify.com/track/0uNU2DnGjyjzqeaK3z5rSi) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Music Is My Best Friend](https://open.spotify.com/album/6Y9pKRKhOZ3t1ILhEFDXuZ) | 2:46 |
 | 100 | [Lost My Mind \(Wake Up\)](https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Lost My Mind \(Wake Up\)](https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw) | 2:27 |
-| 101 | [Is U](https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:48 |
-| 102 | [Coming Over \(feat\. James Hersey\)](https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [This Mixtape is Fire.](https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed) | 2:58 |
+| 101 | [Coming Over \(feat\. James Hersey\)](https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [This Mixtape is Fire.](https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed) | 2:58 |
+| 102 | [Is U](https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:48 |
 | 103 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 |
 | 104 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 |
 | 105 | [What Do You Love](https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love](https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN) | 3:31 |

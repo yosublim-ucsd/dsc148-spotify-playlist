@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf42",
-  "num_followers": 133515,
+  "num_followers": 133525,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+      "duration_ms": 233133,
+      "name": "Nous apr\u00e8s nous",
+      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 233133,
-      "name": "Nous apr\u00e8s nous",
-      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 138026,
-      "name": "Rosier-douleur",
-      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
-    },
-    {
-      "added_at": "2024-12-27 15:48:27",
-      "album": {
         "name": "Solitudes",
         "url": "https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 248306,
       "name": "Solitudes",
       "url": "https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR"
+    },
+    {
+      "added_at": "2024-12-27 15:48:27",
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 138026,
+      "name": "Rosier-douleur",
+      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -867,18 +867,22 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+        "name": "it takes 2",
+        "url": "https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
         }
       ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+      "duration_ms": 220677,
+      "name": "it takes 2",
+      "url": "https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -899,22 +903,18 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "it takes 2",
-        "url": "https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        },
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 220677,
-      "name": "it takes 2",
-      "url": "https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 141509,
-      "name": "Go Get It",
-      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
-    },
-    {
-      "added_at": "2024-12-27 15:48:27",
-      "album": {
         "name": "Encounter",
         "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 167920,
       "name": "Nous sommes",
       "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+    },
+    {
+      "added_at": "2024-12-27 15:48:27",
+      "album": {
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 141509,
+      "name": "Go Get It",
+      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1215,38 +1215,6 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Kindergarten Heart",
-        "url": "https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC"
-      },
-      "artists": [
-        {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
-        }
-      ],
-      "duration_ms": 177843,
-      "name": "Kindergarten Heart",
-      "url": "https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO"
-    },
-    {
-      "added_at": "2024-12-27 15:48:27",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
-      },
-      "artists": [
-        {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
-        }
-      ],
-      "duration_ms": 242653,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
-    },
-    {
-      "added_at": "2024-12-27 15:48:27",
-      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1267,6 +1235,38 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
+        "name": "Sun and Time",
+        "url": "https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "duration_ms": 250747,
+      "name": "Sun and Time",
+      "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
+    },
+    {
+      "added_at": "2024-12-27 15:48:27",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "duration_ms": 242653,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
+    },
+    {
+      "added_at": "2024-12-27 15:48:27",
+      "album": {
         "name": "C'est Plus Comme Avant (Version Acoustique)",
         "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 166306,
       "name": "C'est Plus Comme Avant - Version Acoustique",
       "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
-    },
-    {
-      "added_at": "2024-12-27 15:48:27",
-      "album": {
-        "name": "The Paradise Club",
-        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "1000 Bornes",
-      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1315,22 +1299,18 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+        "name": "The Paradise Club",
+        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
         }
       ],
-      "duration_ms": 222177,
-      "name": "Wildflower and Barley (feat. Allison Russell)",
-      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
+      "duration_ms": 184680,
+      "name": "1000 Bornes",
+      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1351,18 +1331,18 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Sun and Time",
-        "url": "https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx"
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
       "artists": [
         {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 250747,
-      "name": "Sun and Time",
-      "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1387,18 +1367,22 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+      "duration_ms": 222177,
+      "name": "Wildflower and Barley (feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Me semble que c'est facile",
-        "url": "https://open.spotify.com/album/79oVShReMrIa4ACzMTX990"
+        "name": "Kindergarten Heart",
+        "url": "https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC"
       },
       "artists": [
         {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
         }
       ],
-      "duration_ms": 203586,
-      "name": "Me semble que c'est facile",
-      "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
+      "duration_ms": 177843,
+      "name": "Kindergarten Heart",
+      "url": "https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1455,6 +1439,22 @@
       "duration_ms": 187800,
       "name": "Tu ne seras jamais l\u00e0",
       "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
+    },
+    {
+      "added_at": "2024-12-27 15:48:27",
+      "album": {
+        "name": "Me semble que c'est facile",
+        "url": "https://open.spotify.com/album/79oVShReMrIa4ACzMTX990"
+      },
+      "artists": [
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Me semble que c'est facile",
+      "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
-    },
-    {
-      "added_at": "2024-12-27 15:48:27",
-      "album": {
         "name": "SESSION LIVE H2T",
         "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Conif\u00e8re",
-        "url": "https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
       },
       "artists": [
         {
-          "name": "Conif\u00e8re",
-          "url": "https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 230773,
-      "name": "Les travaux",
-      "url": "https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ"
+      "duration_ms": 179773,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1623,6 +1607,22 @@
       "duration_ms": 231906,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+    },
+    {
+      "added_at": "2024-12-27 15:48:27",
+      "album": {
+        "name": "Conif\u00e8re",
+        "url": "https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv"
+      },
+      "artists": [
+        {
+          "name": "Conif\u00e8re",
+          "url": "https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "Les travaux",
+      "url": "https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ"
     },
     {
       "added_at": "2024-12-27 15:48:27",

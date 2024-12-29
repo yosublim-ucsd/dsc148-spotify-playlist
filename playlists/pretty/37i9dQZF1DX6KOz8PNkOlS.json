@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 487690,
+  "num_followers": 487786,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
       "artists": [
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2023-09-25 03:06:06",
@@ -767,22 +771,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
       },
       "artists": [
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2023-06-07 16:02:09",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
-      "added_at": "2022-12-07 04:04:10",
-      "album": {
-        "name": "head down",
-        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
-      },
-      "artists": [
-        {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
-        }
-      ],
-      "duration_ms": 148304,
-      "name": "head down",
-      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
-    },
-    {
       "added_at": "2024-04-18 18:10:45",
       "album": {
         "name": "PHASOR",
@@ -911,6 +895,22 @@
       "duration_ms": 224845,
       "name": "Colores Del Mar",
       "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
+    },
+    {
+      "added_at": "2022-12-07 04:04:10",
+      "album": {
+        "name": "head down",
+        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+      },
+      "artists": [
+        {
+          "name": "Habe",
+          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "head down",
+      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
       "added_at": "2023-04-05 03:20:02",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
-      "added_at": "2024-07-09 04:55:40",
-      "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Spotlight",
@@ -959,6 +943,22 @@
       "duration_ms": 252693,
       "name": "Spotlight - Single Edit",
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
+    },
+    {
+      "added_at": "2024-07-09 04:55:40",
+      "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2022-09-09 13:33:50",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
     },
     {
-      "added_at": "2023-12-20 03:34:06",
-      "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Run A Red Light",
-      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
-    },
-    {
       "added_at": "2022-01-12 18:14:24",
       "album": {
         "name": "ocean tales",
@@ -1079,6 +1063,22 @@
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
+    },
+    {
+      "added_at": "2023-12-20 03:34:06",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Run A Red Light",
+      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
     },
     {
       "added_at": "2023-01-04 01:09:50",
@@ -1233,20 +1233,20 @@
       "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-12-20 03:28:07",
       "album": {
-        "name": "Je t'aime encore",
-        "url": "https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ"
+        "name": "If You Could See Me Now",
+        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
       },
       "artists": [
         {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
         }
       ],
-      "duration_ms": 217230,
-      "name": "Je t'aime encore",
-      "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
+      "duration_ms": 161229,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1265,20 +1265,20 @@
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
-      "added_at": "2023-12-20 03:28:07",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "If You Could See Me Now",
-        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
+        "name": "Je t'aime encore",
+        "url": "https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ"
       },
       "artists": [
         {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
         }
       ],
-      "duration_ms": 161229,
-      "name": "If You Could See Me Now",
-      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
+      "duration_ms": 217230,
+      "name": "Je t'aime encore",
+      "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
     },
     {
       "added_at": "2023-06-02 01:19:32",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     },
     {
-      "added_at": "2023-03-22 17:53:19",
-      "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
-    },
-    {
       "added_at": "2024-06-26 18:41:25",
       "album": {
         "name": "Love Potion",
@@ -1487,6 +1471,22 @@
       "duration_ms": 166000,
       "name": "Love Potion",
       "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
+    },
+    {
+      "added_at": "2023-03-22 17:53:19",
+      "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2023-04-11 00:45:41",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Sinking",
+        "url": "https://open.spotify.com/album/4D8EIm8LytFmaEkFRCNTOJ"
+      },
+      "artists": [
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Srigala",
+          "url": "https://open.spotify.com/artist/3lBNI625YjN4YIk4bmD79a"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Sinking",
+      "url": "https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "pop songs 2020",
         "url": "https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF"
       },
@@ -1599,26 +1619,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Sinking",
-        "url": "https://open.spotify.com/album/4D8EIm8LytFmaEkFRCNTOJ"
-      },
-      "artists": [
-        {
-          "name": "Elisa Imperilee",
-          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
-        },
-        {
-          "name": "Srigala",
-          "url": "https://open.spotify.com/artist/3lBNI625YjN4YIk4bmD79a"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Sinking",
-      "url": "https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
       },
@@ -1631,22 +1631,6 @@
       "duration_ms": 172320,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
-    },
-    {
-      "added_at": "2024-01-11 02:15:10",
-      "album": {
-        "name": "SCARY WORLD",
-        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
-      },
-      "artists": [
-        {
-          "name": "Could Ever",
-          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
-        }
-      ],
-      "duration_ms": 104072,
-      "name": "NOBODY WANTS TO BE MY FRIEND",
-      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
     },
     {
       "added_at": "2023-09-13 16:09:15",
@@ -1663,6 +1647,22 @@
       "duration_ms": 250000,
       "name": "Grass is Grass",
       "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
+    },
+    {
+      "added_at": "2024-01-11 02:15:10",
+      "album": {
+        "name": "SCARY WORLD",
+        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
+      },
+      "artists": [
+        {
+          "name": "Could Ever",
+          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
+        }
+      ],
+      "duration_ms": 104072,
+      "name": "NOBODY WANTS TO BE MY FRIEND",
+      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
     },
     {
       "added_at": "2021-10-15 03:01:31",

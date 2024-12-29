@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60909,
+  "num_followers": 60912,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-12-23 01:28:43",
       "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 238442,
-      "name": "Tomorrow Is Closed",
-      "url": "https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS"
-    },
-    {
-      "added_at": "2024-12-23 01:28:43",
-      "album": {
         "name": "Twisters: The Album",
         "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 152133,
       "name": "Dead End Road",
       "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
+    },
+    {
+      "added_at": "2024-12-23 01:28:43",
+      "album": {
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 238442,
+      "name": "Tomorrow Is Closed",
+      "url": "https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS"
     },
     {
       "added_at": "2024-12-23 01:28:43",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-12-23 01:28:43",
       "album": {
+        "name": "Good Side",
+        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 164286,
+      "name": "Good Side",
+      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
+    },
+    {
+      "added_at": "2024-12-23 01:28:43",
+      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2024-12-23 01:28:43",
       "album": {
-        "name": "Good Side",
-        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 164286,
-      "name": "Good Side",
-      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
-    },
-    {
-      "added_at": "2024-12-23 01:28:43",
-      "album": {
         "name": "POS",
         "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 133882,
       "name": "POS",
       "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
+    },
+    {
+      "added_at": "2024-12-23 01:28:43",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
     },
     {
       "added_at": "2024-12-23 01:28:43",
@@ -867,22 +883,6 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
-    },
-    {
-      "added_at": "2024-12-23 01:28:43",
-      "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148459,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
     },
     {
       "added_at": "2024-12-23 01:28:43",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-12-23 01:28:43",
       "album": {
-        "name": "Blood On The Hospital Floor",
-        "url": "https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Blood On The Hospital Floor",
-      "url": "https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ"
-    },
-    {
-      "added_at": "2024-12-23 01:28:43",
-      "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 178600,
       "name": "Dumbstruck Dumbf**k",
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
+    },
+    {
+      "added_at": "2024-12-23 01:28:43",
+      "album": {
+        "name": "Blood On The Hospital Floor",
+        "url": "https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Blood On The Hospital Floor",
+      "url": "https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ"
     },
     {
       "added_at": "2024-12-23 01:28:43",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-12-23 01:28:43",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/785hSUKzozAGvKU8jQ6C0u"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
         }
       ],
-      "duration_ms": 191963,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
+      "duration_ms": 153684,
+      "name": "Optimist",
+      "url": "https://open.spotify.com/track/5I1opogpl6oOEKmXRDXSEO"
     },
     {
       "added_at": "2024-12-23 01:28:43",

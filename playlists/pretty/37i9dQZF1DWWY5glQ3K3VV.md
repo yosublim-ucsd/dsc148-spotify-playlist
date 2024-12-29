@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > 🔊canzoni rap da pomparti fino all'alba! 🔊Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,274 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,276 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 75 | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H) | 2:25 |
 | 76 | [Dorado \(feat\. Sfera Ebbasta & Feid\)](https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Dorado \(feat\. Sfera Ebbasta & Feid\)](https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF) | 2:58 |
 | 77 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
-| 78 | [SPLASH \(feat\. Enzo Dong\)](https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [HOURS](https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE) | 2:52 |
-| 79 | [Louboutin](https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Louboutin](https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU) | 4:00 |
+| 78 | [Louboutin](https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Louboutin](https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU) | 4:00 |
+| 79 | [SPLASH \(feat\. Enzo Dong\)](https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [HOURS](https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE) | 2:52 |
 | 80 | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5) | 3:00 |
 | 81 | [In Piazza](https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kermit](https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK) | [In Piazza](https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6) | 3:03 |
 | 82 | [No JoJo](https://open.spotify.com/track/0OelH7xDuz74pBuypCpOpS) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 3:17 |

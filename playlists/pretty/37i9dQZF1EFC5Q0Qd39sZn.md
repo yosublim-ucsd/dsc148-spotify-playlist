@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,549 likes - 567 songs - 1 day 15 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,556 likes - 567 songs - 1 day 15 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 92 | [Whenever You Remember](https://open.spotify.com/track/5cwt3fRFqMCuxP5mhA1N7k) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:47 |
 | 93 | [Nada](https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:15 |
 | 94 | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/track/0Vf1E9i3cK9O6KZyPynDHg) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/album/1X5UxEFIFdJUm2m9fwerDH) | 3:44 |
-| 95 | [These Are the Special Times](https://open.spotify.com/track/6HGf1xWwfRXPrjsRRygAPX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:07 |
-| 96 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
+| 95 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
+| 96 | [These Are the Special Times](https://open.spotify.com/track/6HGf1xWwfRXPrjsRRygAPX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:07 |
 | 97 | [I Promise](https://open.spotify.com/track/0EhqdgtayZ43jlzYTpHLdi) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Stacie Orrico](https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t) | 4:17 |
 | 98 | [Leave While I'm Not Looking](https://open.spotify.com/track/2aiey41vnKkRbmqaTZunbJ) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:53 |
 | 99 | [Show Me The Way Back To Your Heart](https://open.spotify.com/track/4YcXc551uqE3IpHf3iZiYM) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 3:55 |
@@ -486,8 +486,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 476 | [Tell It To The Moon](https://open.spotify.com/track/6VBDF1Q6du1T7p8LhyiblP) | [Martha Davis](https://open.spotify.com/artist/2ioCVuqjcRCoQPhEYY0kmg) | [Policy](https://open.spotify.com/album/3LYSK5WS0E3QigUu1mu0fs) | 4:11 |
 | 477 | [You Didn't Have to Hurt Me](https://open.spotify.com/track/3yWKP4fPa26IKOh4N3q2bP) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4jbmIiX2zGMDOqYpVNsS5J) | 4:04 |
 | 478 | [Bitches Gotta Get Paid](https://open.spotify.com/track/4CiUatiN7HTtqRb9LjmOQ0) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love](https://open.spotify.com/album/6gzrKLDkaYEyUknqeS4aFW) | 3:33 |
-| 479 | [Strong, Strong Wind](https://open.spotify.com/track/6I1QlCOW4mDHMeoC0MOVxL) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [All About Love](https://open.spotify.com/album/5SYykL0icXn141kHKSQ6Os) | 4:25 |
-| 480 | [My Heart Stops \- Rare 1991 Single](https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [And Now, Eric Carmen: The Arista Archive](https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr) | 3:25 |
+| 479 | [My Heart Stops \- Rare 1991 Single](https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [And Now, Eric Carmen: The Arista Archive](https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr) | 3:25 |
+| 480 | [Strong, Strong Wind](https://open.spotify.com/track/6I1QlCOW4mDHMeoC0MOVxL) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [All About Love](https://open.spotify.com/album/5SYykL0icXn141kHKSQ6Os) | 4:25 |
 | 481 | [Love Found Me](https://open.spotify.com/track/4Hr7JlMioKQK8SFjT4l5ea) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Bad Girls](https://open.spotify.com/album/6U8lKtn8JrqnUsnE3tTP6r) | 4:39 |
 | 482 | [Sempre Estarei Ai](https://open.spotify.com/track/4xMUHevynslj3eQ94Blpj9) | [Edilson Maia](https://open.spotify.com/artist/7IzGAGiDnAL0ivcZPquZew) | [Abra O Coração](https://open.spotify.com/album/6SgosvbIxHuasBJKe1ff6I) | 4:33 |
 | 483 | [Tears in the Rain](https://open.spotify.com/track/5ATdlQnIyhLMLEDNm3DpOB) | [Aegis](https://open.spotify.com/artist/65kpH75MFCBJhLy7qvVl6A) | [Back to Love](https://open.spotify.com/album/5ekYZejvueCKVNHC3CSnan) | 4:51 |
@@ -576,4 +576,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 566 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 | 567 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 
-Snapshot ID: `AblSrAAAAABfz8wJx3ij0CCd3eKmOY8a`
+Snapshot ID: `AblYiAAAAABAQh78VqMPPJNbcu95Rd3Z`

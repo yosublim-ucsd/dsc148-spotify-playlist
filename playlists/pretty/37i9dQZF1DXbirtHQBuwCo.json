@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: Jimmy Brown(\uc9c0\ubbf8 \ube0c\ub77c\uc6b4))",
-  "num_followers": 1018835,
+  "num_followers": 1018802,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-24 02:10:33",
       "album": {
-        "name": "R.E.M",
-        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "R.E.M",
-      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
-    },
-    {
-      "added_at": "2024-12-24 02:10:33",
-      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 205101,
       "name": "Shoong! (feat. LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
+    },
+    {
+      "added_at": "2024-12-24 02:10:33",
+      "album": {
+        "name": "R.E.M",
+        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "R.E.M",
+      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
     },
     {
       "added_at": "2024-12-24 02:10:33",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-12-24 02:10:33",
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 211250,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
+    },
+    {
+      "added_at": "2024-12-24 02:10:33",
+      "album": {
         "name": "HOPE ON THE STREET VOL.1",
         "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 183149,
       "name": "i don't know (with HUH YUNJIN of LE SSERAFIM)",
       "url": "https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ"
-    },
-    {
-      "added_at": "2024-12-24 02:10:33",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 211250,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
     },
     {
       "added_at": "2024-12-24 02:10:33",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-12-24 02:10:33",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 4",
-        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 204229,
-      "name": "Your Existence",
-      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
-    },
-    {
-      "added_at": "2024-12-24 02:10:33",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
+    },
+    {
+      "added_at": "2024-12-24 02:10:33",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 4",
+        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 204229,
+      "name": "Your Existence",
+      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
     },
     {
       "added_at": "2024-12-24 02:10:33",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-12-24 02:10:33",
       "album": {
-        "name": "Moodswings In This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Nerves",
-      "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
-    },
-    {
-      "added_at": "2024-12-24 02:10:33",
-      "album": {
         "name": "J - The 1st Album",
         "url": "https://open.spotify.com/album/1kQ1X0S06kqh4k2818bc5J"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 169533,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/5TvEmwYx56gqksISSMqgzk"
+    },
+    {
+      "added_at": "2024-12-24 02:10:33",
+      "album": {
+        "name": "Moodswings In This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Nerves",
+      "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
     },
     {
       "added_at": "2024-12-24 02:10:33",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-12-24 02:10:33",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+        "name": "Horizon - NCT LAB",
+        "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
         }
       ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+      "duration_ms": 222706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
     },
     {
       "added_at": "2024-12-24 02:10:33",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-12-24 02:10:33",
       "album": {
-        "name": "Horizon - NCT LAB",
-        "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
       "artists": [
         {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 222706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
     },
     {
       "added_at": "2024-12-24 02:10:33",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-12-24 02:10:33",
       "album": {
-        "name": "Moodswings In This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Dope Lovers",
-      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
-    },
-    {
-      "added_at": "2024-12-24 02:10:33",
-      "album": {
         "name": "Know me",
         "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 221680,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr"
+    },
+    {
+      "added_at": "2024-12-24 02:10:33",
+      "album": {
+        "name": "Moodswings In This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Dope Lovers",
+      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
     },
     {
       "added_at": "2024-12-24 02:10:33",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-12-24 02:10:33",
       "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
-    },
-    {
-      "added_at": "2024-12-24 02:10:33",
-      "album": {
         "name": "Moodswings In This Order",
         "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
+    },
+    {
+      "added_at": "2024-12-24 02:10:33",
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
     }
   ],
   "unique_name": "TrenChill K-R&B",

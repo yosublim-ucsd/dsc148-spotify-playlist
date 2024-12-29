@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,421 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,470 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 43 | [Say "Shava Shava"](https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3) | [Aadesh Shrivastava](https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q), [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Kabhi Khushi Kabhie Gham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh) | 6:48 |
 | 44 | [Chaand Taare](https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:49 |
 | 45 | [Ae Mere Humsafar](https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:33 |
-| 46 | [Mere Mehboob Mere Sanam](https://open.spotify.com/track/77QP3sduboWcEh7aypoz66) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Duplicate](https://open.spotify.com/album/4cBp5HxpaOQ6G444YSM4Bc) | 6:59 |
+| 46 | [Ruk Ja O Dil Deewane](https://open.spotify.com/track/3LllvNPZFMxJ4vLWuUBAHG) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 5:10 |
 | 47 | [Tu Mere Samne](https://open.spotify.com/track/2FArWjBAnAmh4IpxWQGCpq) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr](https://open.spotify.com/album/0SSsQAifKHIRj0ezX88QzS) | 6:06 |
 | 48 | [Woh To Hai Albela](https://open.spotify.com/track/5hHmEV1M2pbiI0Me6tqrij) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Devaki Pandit](https://open.spotify.com/artist/72JL3bSQJnzr6HYgEbfw6S) | [Kabhi Haan Kabhi Naa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bW1RcnpO5GNXNLo6qCgrh) | 5:09 |
 | 49 | [Phir Milenge Chalte Chalte](https://open.spotify.com/track/00slEv0AYGnW85H84XsmGz) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Rab Ne Bana Di Jodi](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 6:34 |

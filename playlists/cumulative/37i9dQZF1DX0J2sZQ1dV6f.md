@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Grupo Marca Registrada, Luis Pablo Lopez, Mike Mejia.
 
-498 songs - 1 day 1 hr 37 min
+499 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [La Mentira](https://open.spotify.com/track/59xZZeF6Ve0ZfCd7AcFvXr) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [La Mentira](https://open.spotify.com/album/0aJnvIUn5ut1mv2UhggEc3) | 3:17 | 2022-04-19 | 2022-04-26 |
 | [La Mini](https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Mini](https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc) | 3:33 | 2022-12-30 | 2023-05-26 |
 | [La Niña II](https://open.spotify.com/track/6Wjc5mi3MN9IAJeOcImYl3) | [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe) | [La Niña II](https://open.spotify.com/album/2aFDwJXGlSJhHS6SzHOik9) | 2:45 | 2024-09-20 |  |
+| [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa) | 3:02 | 2024-12-28 |  |
 | [La Plata Los Culos](https://open.spotify.com/track/70GXNLAHVHD9Tzp2HGSIDP) | [JUANPORDIOS!](https://open.spotify.com/artist/4DVSIgIIO92h4OdSSBBJlg), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Plata Los Culos](https://open.spotify.com/album/58RdZIXAYJODfBjh1QwNXk) | 3:11 | 2022-03-21 | 2022-04-20 |
 | [La Rumba](https://open.spotify.com/track/0BPSGtYuoqoqQcNanivyuI) | [Jr Mafiah](https://open.spotify.com/artist/7vJ1LdKNTD1ujuimg1o6v5), [LEGION LV](https://open.spotify.com/artist/0rFgS2RDBSBsclsx6eWRVT) | [La Rumba](https://open.spotify.com/album/6yog8FZzFXCjEsdZ5SaK1z) | 2:54 | 2024-03-18 | 2024-08-08 |
 | [La Salle](https://open.spotify.com/track/5BEhlzgBIPNouG3ba980oY) | [Jrkv](https://open.spotify.com/artist/6gtPHrlXI20tdloiCVrsMn), [Young Chong](https://open.spotify.com/artist/2WLn0KkvIIAn7xcFmcOoOB), [Mikebøi](https://open.spotify.com/artist/0lVNQEG85cu3cc6J3hAE3c) | [La Salle](https://open.spotify.com/album/4muTlAdWQDqDO5dKz8DS02) | 3:46 | 2024-03-29 | 2024-05-11 |

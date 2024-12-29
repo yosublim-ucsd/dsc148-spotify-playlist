@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,579 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,558 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 70 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 |
 | 71 | [PE$O](https://open.spotify.com/track/5o0r8QqEH6AR5OOrBVrKxr) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PE$O](https://open.spotify.com/album/2XoyikKhNxe9XLRloDLRC7) | 2:36 |
 | 72 | [At Night](https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz), [Baron Von Trax](https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT) | [At Night EP](https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA) | 3:58 |
-| 73 | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C) | 3:08 |
-| 74 | [ibiza2024](https://open.spotify.com/track/1GHh01GXmueglhP5jbZuJJ) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [ibiza2024](https://open.spotify.com/album/3XuLHIwHVAHvNQW3QSsLAx) | 3:12 |
+| 73 | [ibiza2024](https://open.spotify.com/track/1GHh01GXmueglhP5jbZuJJ) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [ibiza2024](https://open.spotify.com/album/3XuLHIwHVAHvNQW3QSsLAx) | 3:12 |
+| 74 | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C) | 3:08 |
 | 75 | [A Feeling](https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [A Feeling](https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe) | 2:38 |
 | 76 | [Every Morning](https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [Every Morning](https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF) | 3:43 |
 | 77 | [Bota Bota](https://open.spotify.com/track/6btglV5XNwzpOtDmOclBwI) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv) | [Bota Bota](https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV) | 3:12 |

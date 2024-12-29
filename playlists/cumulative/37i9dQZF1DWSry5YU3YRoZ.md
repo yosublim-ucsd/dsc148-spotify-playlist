@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-90 songs - 5 hr 50 min
+91 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [I don't know](https://open.spotify.com/track/1izlxYnH96m4nsGXiSUit6) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 4:08 | 2023-11-03 | 2024-04-19 |
 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 | 2023-11-03 |  |
 | [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 | 2023-11-03 |  |
+| [in the distant future \(feat\. 김수연\)](https://open.spotify.com/track/58QzsbkjVv7wLTGObf93X4) | [이채영](https://open.spotify.com/artist/4KkY5U8jueUnYwQYMpW17C), [김수연](https://open.spotify.com/artist/6CyQWURcslZ0dbnTb4x6Fx) | [in the distant future](https://open.spotify.com/album/2Ll8eOUs9BGFmiGJA1g2ct) | 3:15 | 2024-11-29 |  |
 | [In Your Mind](https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:07 | 2023-11-03 | 2024-04-19 |
 | [It Won't Be Anything Anyway \(with deulrejang\)](https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 5:14 | 2024-03-08 |  |
 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 | 2023-11-03 |  |
@@ -55,7 +56,7 @@
 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 | 2023-11-03 |  |
 | [Listen And Sleep](https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Would You Sleep?](https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF) | 4:37 | 2023-11-03 | 2024-04-19 |
 | [Long long night](https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [Long long night](https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy) | 2:46 | 2024-03-08 |  |
-| [love letter](https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs) | [RYU MIN HEE](https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg) | [love letter](https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW) | 3:17 | 2024-03-08 |  |
+| [love letter](https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs) | [RYU MIN HEE](https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg) | [love letter](https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW) | 3:17 | 2024-03-08 | 2024-12-29 |
 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 | 2023-11-03 |  |
 | [Lullaby](https://open.spotify.com/track/6cmdeeOEeyZG9YaJ1WRhnJ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [A Day](https://open.spotify.com/album/23anuZwn9s0ezFWgmywqL9) | 3:19 | 2023-11-03 |  |
 | [Lullaby](https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:24 | 2024-03-08 |  |

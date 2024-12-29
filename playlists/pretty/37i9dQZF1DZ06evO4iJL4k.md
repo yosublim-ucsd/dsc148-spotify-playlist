@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,046 likes - 43 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,219 likes - 42 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,6 +50,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 40 | [Chefe do Crime Perfeito](https://open.spotify.com/track/6MVFI8t52RU5ESYQyLp5MI) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Cidinho](https://open.spotify.com/artist/6jiipNBcxUvaKPyxU7nBv7) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:36 |
 | 41 | [Faça Você Mesmo](https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:47 |
 | 42 | [Sonho Dos Cria](https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:23 |
-| 43 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/5GflWMue0Hausplsa02rLr) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8) | 4:02 |
 
-Snapshot ID: `Z2ycgAAAAADbtOIwY8mh+HNs2He2L1M5`
+Snapshot ID: `Z23uAAAAAABpriOoBzbKqEf2Dr7UzpEV`

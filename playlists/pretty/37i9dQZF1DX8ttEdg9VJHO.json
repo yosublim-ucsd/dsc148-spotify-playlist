@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 354661,
+  "num_followers": 354641,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -619,18 +619,22 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+        "name": "Bad For Me (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
       "artists": [
         {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
+      "duration_ms": 213283,
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -651,22 +655,18 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Bad For Me (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
         }
       ],
-      "duration_ms": 213283,
-      "name": "Bad For Me (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+      "duration_ms": 169400,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Love U Again",
-        "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 166343,
-      "name": "Love U Again",
-      "url": "https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "Kreise",
         "url": "https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 221533,
       "name": "Kreise",
       "url": "https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Love U Again",
+        "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 166343,
+      "name": "Love U Again",
+      "url": "https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Sweethoneylove",
-        "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
-      },
-      "artists": [
-        {
-          "name": "Baba Blakes",
-          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
-        }
-      ],
-      "duration_ms": 150540,
-      "name": "Sweethoneylove",
-      "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "Thrill Of It All",
         "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 203603,
       "name": "Thrill Of It All",
       "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Sweethoneylove",
+        "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
+      },
+      "artists": [
+        {
+          "name": "Baba Blakes",
+          "url": "https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq"
+        }
+      ],
+      "duration_ms": 150540,
+      "name": "Sweethoneylove",
+      "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
     },
     {
       "added_at": "2024-12-11 08:10:11",

@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 320530,
+  "num_followers": 320554,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "A Fleur De Toi",
-        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "A fleur de toi",
-      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 219973,
       "name": "Elle a les yeux revolver",
       "url": "https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "A Fleur De Toi",
+        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "A fleur de toi",
+      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
     },
     {
       "added_at": "2024-10-15 19:50:17",

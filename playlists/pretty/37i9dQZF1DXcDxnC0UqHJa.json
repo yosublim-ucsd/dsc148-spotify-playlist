@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
-  "num_followers": 462920,
+  "num_followers": 462955,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -971,18 +971,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+        "name": "...but i'd rather be with you, too",
+        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
       "artists": [
         {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
+      "duration_ms": 197790,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "...but i'd rather be with you, too",
-        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
         }
       ],
-      "duration_ms": 197790,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Young Brigham",
         "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 304693,
       "name": "If I Were A Carpenter",
       "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Coming Around Again",
-        "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 214625,
-      "name": "Coming Around Again",
-      "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "The Circle Game [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 317133,
       "name": "The Circle Game - 2008 Remaster",
       "url": "https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Coming Around Again",
+        "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 214625,
+      "name": "Coming Around Again",
+      "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "All The Good Times",
         "url": "https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 212308,
       "name": "Jackson",
       "url": "https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Little Hands",
-        "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Simpson",
-          "url": "https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9"
-        }
-      ],
-      "duration_ms": 367333,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "A Long December",
         "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 260812,
       "name": "A Long December",
       "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Little Hands",
+        "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Simpson",
+          "url": "https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9"
+        }
+      ],
+      "duration_ms": 367333,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Isumagijunnaitaungituq (The Unforgiven)",
-        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "To Ramona",
         "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 217586,
       "name": "To Ramona",
       "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
       "added_at": "2024-11-22 05:00:00",

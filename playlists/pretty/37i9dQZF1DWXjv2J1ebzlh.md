@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,694 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,729 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,13 +91,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 81 | [Do Leme Ao Pontal](https://open.spotify.com/track/7k9lIvJqUOpo3JDCipLKoE) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/59NOU4R72nphHRtwQlGfjJ) | 3:12 |
 | 82 | [Sr\. Tigre \- French Braids Rework](https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp) | 3:32 |
 | 83 | [Lotus 72 D](https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:12 |
-| 84 | [Come On Home](https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC) | 5:14 |
+| 84 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
 | 85 | [Dari Demou'ek](https://open.spotify.com/track/4WkKXTTZuAr9QgIeTAmA6w) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:41 |
-| 86 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
+| 86 | [Come On Home](https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC) | 5:14 |
 | 87 | [Djal Bai Si Camin](https://open.spotify.com/track/68mOFQIOQhT0Lq8p6GyiOX) | [António dos Santos](https://open.spotify.com/artist/2o2ADjRCEAkByBSrzncXXc) | ["Space Echo" \- The mystery behind the "Cosmic Sound” of Cabo Verde finally revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/6QUlQVT0P1zqsIfyWTjxVt) | 7:20 |
-| 88 | [Lágrimas Negras \(feat\. Omara Portuondo\)](https://open.spotify.com/track/32NzVi6ne2G51sgmEeuGzl) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj) | 4:04 |
+| 88 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
 | 89 | [I Need Somebody To Love Tonight](https://open.spotify.com/track/0wotnD2zTSOUDwVBN863fi) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 4:02 |
-| 90 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
+| 90 | [Lágrimas Negras \(feat\. Omara Portuondo\)](https://open.spotify.com/track/32NzVi6ne2G51sgmEeuGzl) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj) | 4:04 |
 | 91 | [Pontos De Luz](https://open.spotify.com/track/4ABzNwtzvzvXsQMBIrdF39) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [India](https://open.spotify.com/album/7bxZ0kvGIbJRvBGFrKooub) | 2:41 |
 | 92 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
 | 93 | [Goca Dünya](https://open.spotify.com/track/7jnJSw2SKsNibByy0PeYLC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Goca Dünya](https://open.spotify.com/album/29PYALK2CuniRSxZQdeU1G) | 3:57 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 95 | [País Tropical](https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 4:10 |
 | 96 | [007 \(Shanty Town\)](https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [007 Shanty Town](https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl) | 2:34 |
 | 97 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 |
-| 98 | [İkimiz Bir Fidanız](https://open.spotify.com/track/1rRHrIgrPPHUYD97oYAgli) | [Kamuran Akkor](https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR) | [İkimiz Bir Fidanız \(45'lik\)](https://open.spotify.com/album/3IkS5E4iTSOdTiufaoNx0Q) | 3:30 |
+| 98 | [Nem Vem Que Não Tem](https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh) | 2:32 |
 | 99 | [Qui c'est celui\-là ?](https://open.spotify.com/track/2ssvhHib70zuzp3PBWoNnL) | [Pierre Vassiliu](https://open.spotify.com/artist/49NlklXdh2UFIW4VUu4fPx) | [Qui C'Est Celui\-La](https://open.spotify.com/album/0lOjw1NmPKzLz8on5WnU65) | 4:35 |
-| 100 | [Nem Vem Que Não Tem](https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh) | 2:32 |
+| 100 | [İkimiz Bir Fidanız](https://open.spotify.com/track/1rRHrIgrPPHUYD97oYAgli) | [Kamuran Akkor](https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR) | [İkimiz Bir Fidanız \(45'lik\)](https://open.spotify.com/album/3IkS5E4iTSOdTiufaoNx0Q) | 3:30 |
 
 Snapshot ID: `Zr9QHgAAAAD3lpsH2OGUcZ+lw2N/a9sx`

@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10401,
+  "num_followers": 10411,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
+        "name": "how can i do",
+        "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "YooJeong",
+          "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
+        }
+      ],
+      "duration_ms": 169599,
+      "name": "how can i do (Feat. YooJeong)",
+      "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
         "name": "Unintentional Love Story Original Televion Soundtrack Pt. 3",
         "url": "https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS"
       },
@@ -787,22 +807,22 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
-        "name": "how can i do",
-        "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
+        "name": "I Say Ya! You Say Yeah!",
+        "url": "https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN"
       },
       "artists": [
         {
-          "name": "soowoo",
-          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
         },
         {
-          "name": "YooJeong",
-          "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
         }
       ],
-      "duration_ms": 169599,
-      "name": "how can i do (Feat. YooJeong)",
-      "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
+      "duration_ms": 230293,
+      "name": "I Say Ya! You Say Yeah! (feat. Kyoung Seo)",
+      "url": "https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F"
     },
     {
       "added_at": "2024-11-29 09:47:19",
@@ -835,26 +855,6 @@
       "duration_ms": 187083,
       "name": "Domino",
       "url": "https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
-        "name": "I Say Ya! You Say Yeah!",
-        "url": "https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN"
-      },
-      "artists": [
-        {
-          "name": "Yun DDanDDan",
-          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
-        },
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 230293,
-      "name": "I Say Ya! You Say Yeah! (feat. Kyoung Seo)",
-      "url": "https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F"
     },
     {
       "added_at": "2024-11-29 09:47:19",

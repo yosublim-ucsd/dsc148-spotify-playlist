@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,406 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,408 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 8 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 |
 | 9 | [Right Here](https://open.spotify.com/track/0S9laeO22k8rgM1PqZtgAA) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:59 |
 | 10 | [Good Bi](https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Good Bi](https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo) | 3:14 |
-| 11 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 |
-| 12 | [saving flowers](https://open.spotify.com/track/5s54Ts1rJwUwaxQqoTC4jQ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 3:30 |
+| 11 | [saving flowers](https://open.spotify.com/track/5s54Ts1rJwUwaxQqoTC4jQ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 3:30 |
+| 12 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 |
 | 13 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 |
 | 14 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
 | 15 | [B.I.L.L.S.](https://open.spotify.com/track/1doyPSKlfeIyA6s4NSwXPn) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 2:14 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 29 | [Thank Goodness](https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT) | 3:20 |
 | 30 | [You Know What You’ve Done](https://open.spotify.com/track/4xlXrO4n68KEfAJK1JDux5) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:11 |
 | 31 | [alone](https://open.spotify.com/track/1v7LEUvEgss8nm2Ix0Y4Qv) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [early twenties](https://open.spotify.com/album/5GCKgRtjoKHzgxLS8tk6HC) | 2:52 |
-| 32 | [Is It Cold In The Water?](https://open.spotify.com/track/7m9ZK3DmPbA5IY3FpVaMIq) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:55 |
-| 33 | [Dancing star](https://open.spotify.com/track/3UUnDEpvIEJrYNVESeEVR4) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 3:01 |
+| 32 | [Dancing star](https://open.spotify.com/track/3UUnDEpvIEJrYNVESeEVR4) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 3:01 |
+| 33 | [Is It Cold In The Water?](https://open.spotify.com/track/7m9ZK3DmPbA5IY3FpVaMIq) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:55 |
 | 34 | [Why Am I Like This?](https://open.spotify.com/track/2SSnrpEz16w4bvdLqcG2Ze) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:26 |
 | 35 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 |
 | 36 | [Jennifer's Body](https://open.spotify.com/track/4LAvOwuLHkr13HseCOmGQ9) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1U4Mcmu6Lvbw9rruv9yGJO) | 1:57 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 67 | [RIDE](https://open.spotify.com/track/12RWoYcPeMb42JOLu7Xzp8) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [RIDE](https://open.spotify.com/album/4kUR2d4Y8Do3wInxBxMFnk) | 2:05 |
 | 68 | [Paint Me Like A Woman](https://open.spotify.com/track/6uFOrSpwGRFrSCCZIwaVrY) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Paint Me Like A Woman](https://open.spotify.com/album/2wuTuT0PhsusCx1kk8fEMY) | 4:44 |
 | 69 | [we2assume2many2roles](https://open.spotify.com/track/3dr4RVjksmZV0wS28aRGot) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:18 |
-| 70 | [Balcony Floor](https://open.spotify.com/track/5nrEBwM2iNBj62MLnC2HIY) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK) | 3:13 |
-| 71 | [QUIET](https://open.spotify.com/track/1fnVKNuin6baQbZFEx3jHJ) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [QUIET](https://open.spotify.com/album/4pj0upnE34RrH2kPicwPGS) | 3:20 |
+| 70 | [QUIET](https://open.spotify.com/track/1fnVKNuin6baQbZFEx3jHJ) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [QUIET](https://open.spotify.com/album/4pj0upnE34RrH2kPicwPGS) | 3:20 |
+| 71 | [Balcony Floor](https://open.spotify.com/track/5nrEBwM2iNBj62MLnC2HIY) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK) | 3:13 |
 | 72 | [Quick Fix](https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Quick Fix](https://open.spotify.com/album/4Zki0CQv6Bx2J1o4bJkDRn) | 4:18 |
 | 73 | [Maybe It's You](https://open.spotify.com/track/4GkP2kKB9X10bsdbaZwdRi) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Read My Lips](https://open.spotify.com/album/4NrKAV8WSg7t6EAHP27hdx) | 3:01 |
 | 74 | [Sexed & Sexual](https://open.spotify.com/track/0moUJB9Nwoh7cKv1uF3noz) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Circumnavigating Georgia](https://open.spotify.com/album/4tjWjbosU01aQaIUw53GE6) | 2:54 |

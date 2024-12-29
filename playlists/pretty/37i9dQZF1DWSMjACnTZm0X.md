@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Cyfred, Young Jonn, Scotts Maphuma
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,761 likes - 58 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,765 likes - 58 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

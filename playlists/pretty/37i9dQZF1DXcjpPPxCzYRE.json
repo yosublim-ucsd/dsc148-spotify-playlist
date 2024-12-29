@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 414686,
+  "num_followers": 414755,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Lowdown",
-        "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 195070,
-      "name": "Lowdown (part i)",
-      "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Marvin The Album - 21st Anniversary Edition",
         "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 119813,
       "name": "Bizarre Love Triangle - 2014 Remaster",
       "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Lowdown",
+        "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 195070,
+      "name": "Lowdown (part i)",
+      "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 307172,
-      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Wilco (The Album)",
         "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 204706,
       "name": "You and I",
       "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 307172,
+      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z"
-      },
-      "artists": [
-        {
-          "name": "kenai white",
-          "url": "https://open.spotify.com/artist/6vHokTOepZ7bishDD5owjJ"
-        }
-      ],
-      "duration_ms": 206823,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/5RNrbe8maAu8sk0BuZQ2Zf"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Sin Miedo a Vivir",
         "url": "https://open.spotify.com/album/5ORbR8fXaWWTnJss0QG5bI"
       },
@@ -1143,18 +1127,34 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Pudo haber sido",
-        "url": "https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z"
       },
       "artists": [
         {
-          "name": "Lucas Marcos",
-          "url": "https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO"
+          "name": "kenai white",
+          "url": "https://open.spotify.com/artist/6vHokTOepZ7bishDD5owjJ"
         }
       ],
-      "duration_ms": 184712,
-      "name": "Pudo haber sido",
-      "url": "https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ"
+      "duration_ms": 206823,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/5RNrbe8maAu8sk0BuZQ2Zf"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
+        "name": "Pudo haber sido",
+        "url": "https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK"
       },
       "artists": [
         {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+          "name": "Lucas Marcos",
+          "url": "https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO"
         }
       ],
-      "duration_ms": 252293,
-      "name": "The Great Unknown",
-      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
+      "duration_ms": 184712,
+      "name": "Pudo haber sido",
+      "url": "https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
+        "name": "El Noi de la Mare",
+        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+        }
+      ],
+      "duration_ms": 243020,
+      "name": "El Noi de la Mare",
+      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e"
       },
@@ -1423,26 +1443,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Todo Lo Que No Est\u00e1",
-        "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sobral",
-          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
-        }
-      ],
-      "duration_ms": 216661,
-      "name": "Todo Lo Que No Est\u00e1",
-      "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
       },
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "El Noi de la Mare",
-        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
+        "name": "Todo Lo Que No Est\u00e1",
+        "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
       },
       "artists": [
         {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+          "name": "Lu\u00edsa Sobral",
+          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
         },
         {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
         }
       ],
-      "duration_ms": 243020,
-      "name": "El Noi de la Mare",
-      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+      "duration_ms": 216661,
+      "name": "Todo Lo Que No Est\u00e1",
+      "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Equilibri",
-        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
-      },
-      "artists": [
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 236462,
-      "name": "Equilibri",
-      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Cruzando el Charco",
         "url": "https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 190502,
       "name": "Cruzando el Charco",
       "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Equilibri",
+        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
+      },
+      "artists": [
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 236462,
+      "name": "Equilibri",
+      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
@@ -1675,26 +1691,6 @@
       "duration_ms": 220031,
       "name": "Dos L\u00e1grimas, Dos Peces",
       "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/0Dhk03mSlZ734FYSVCFzH5"
-      },
-      "artists": [
-        {
-          "name": "xicu",
-          "url": "https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6"
-        },
-        {
-          "name": "J\u00falia Serrasolsas",
-          "url": "https://open.spotify.com/artist/2PoChqQI0BlpZZOJNJiVKm"
-        }
-      ],
-      "duration_ms": 197328,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/2d7tlqzWe9GmRuMiS5BUPW"
     }
   ],
   "unique_name": "Relax en casa",

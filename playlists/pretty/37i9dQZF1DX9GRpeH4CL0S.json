@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Phoenix",
-  "num_followers": 761086,
+  "num_followers": 761205,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 269373,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Mellow Gold",
         "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 193373,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 243586,
       "name": "Mysterious Ways",
       "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Cold Hard Bitch",
-      "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "We Started Nothing",
         "url": "https://open.spotify.com/album/1aWIPcWf3fDEZT6geXjCfU"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 310573,
       "name": "That's Not My Name",
       "url": "https://open.spotify.com/track/2DNdEpV9UnsYjL6w1Dp1aS"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Cold Hard Bitch",
+      "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -2735,6 +2735,22 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
         "name": "Megalithic Symphony Deluxe",
         "url": "https://open.spotify.com/album/6dMfMvS3hyk3ZCl4yljEDD"
       },
@@ -2763,22 +2779,6 @@
       "duration_ms": 237039,
       "name": "Time is Running Out",
       "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Tell All Your Friends (Re-Issue)",
-        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Cute Without the \"E\" (Cut From the Team)",
-      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 200400,
       "name": "Banquet",
       "url": "https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Tell All Your Friends (Re-Issue)",
+        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Cute Without the \"E\" (Cut From the Team)",
+      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Everything All The Time",
-        "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 322173,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/6Gv1zpuMsO4XfWSw22YQhP"
       },
@@ -2987,6 +2971,22 @@
       "duration_ms": 121306,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/4F64QXRV1EGHSm5jIeMmcQ"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Everything All The Time",
+        "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 322173,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -3007,22 +3007,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 373306,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn"
       },
@@ -3035,6 +3019,22 @@
       "duration_ms": 202666,
       "name": "Unbelievers",
       "url": "https://open.spotify.com/track/7psPPGwhFzP3pyOcb3ivcT"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 373306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -3087,18 +3087,18 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Deep Cuts",
-        "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
       },
       "artists": [
         {
-          "name": "The Knife",
-          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
         }
       ],
-      "duration_ms": 231853,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -3119,6 +3119,22 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
+      },
+      "artists": [
+        {
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+        }
+      ],
+      "duration_ms": 231853,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
@@ -3131,22 +3147,6 @@
       "duration_ms": 328293,
       "name": "House Of Cards",
       "url": "https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -3199,18 +3199,18 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Kid A",
-        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
+        "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
+        "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 309093,
-      "name": "Idioteque",
-      "url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE"
+      "duration_ms": 289559,
+      "name": "Don't Look Back In Anger (Remastered)",
+      "url": "https://open.spotify.com/track/7CVYxHq1L0Z4G84jTDS6Jl"
     }
   ],
   "unique_name": "Essential Alternative",

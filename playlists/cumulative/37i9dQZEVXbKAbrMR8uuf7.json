@@ -69,6 +69,32 @@
     },
     {
       "album": {
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/21T5FRuobVn8fjuPZ7jA3I"
+      },
+      "artists": [
+        {
+          "name": "The Melodico",
+          "url": "https://open.spotify.com/artist/4vKdAdCbGteLVf1kP409kJ"
+        },
+        {
+          "name": "Nigel",
+          "url": "https://open.spotify.com/artist/1CEX09QFQGNdyIzFLKYksf"
+        },
+        {
+          "name": "Arod",
+          "url": "https://open.spotify.com/artist/7eET77U1axBuZ0zdc1VAHB"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162564,
+      "name": "1,2,3",
+      "url": "https://open.spotify.com/track/5ItXWRPBuzLrhaVxRJs3bZ"
+    },
+    {
+      "album": {
         "name": "100 Bands",
         "url": "https://open.spotify.com/album/5uwP0s0S5drvKpEWfyTJ4b"
       },
@@ -1974,7 +2000,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 125087,
       "name": "Ante",
       "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
@@ -5044,7 +5070,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 129334,
       "name": "Cierra La Puerta",
       "url": "https://open.spotify.com/track/4jz9oKHdzwfNZAJXGN3GuZ"
@@ -6240,7 +6266,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 158241,
       "name": "Cuero Caro",
       "url": "https://open.spotify.com/track/7axxLnHLlcHeXkc4Si82zN"
@@ -10794,7 +10820,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
@@ -17188,7 +17214,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 98399,
       "name": "LO MALO MALO MALO",
       "url": "https://open.spotify.com/track/7mkAnbBANmsJtLs06lUDJt"
@@ -17694,7 +17720,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -21352,6 +21378,24 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
+    },
+    {
+      "album": {
+        "name": "No Cap",
+        "url": "https://open.spotify.com/album/03yedU8oCgRiD0aqPqjDsH"
+      },
+      "artists": [
+        {
+          "name": "La Frecuencia",
+          "url": "https://open.spotify.com/artist/0UjaWVlAXWCdpJdt0WpIbp"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165433,
+      "name": "No Cap",
+      "url": "https://open.spotify.com/track/1eOjepEdokoqSzrmFqCPd7"
     },
     {
       "album": {
@@ -25648,7 +25692,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 137760,
       "name": "Que linda",
       "url": "https://open.spotify.com/track/1FExEHMPs4J1qLZTPFOuaX"
@@ -26152,7 +26196,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 254517,
       "name": "QU\u00c9 QUIERES DE MI? (feat. Eladio Carrion)",
       "url": "https://open.spotify.com/track/6w1eQ7AxYB8Y6YQGJR9jBT"
@@ -27854,7 +27898,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
@@ -34294,6 +34338,24 @@
       "duration_ms": 185806,
       "name": "VOLVER",
       "url": "https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y"
+    },
+    {
+      "album": {
+        "name": "Volver a Sentir",
+        "url": "https://open.spotify.com/album/7ohLIH9lmEjeVAVzUqDRcb"
+      },
+      "artists": [
+        {
+          "name": "Ross LB",
+          "url": "https://open.spotify.com/artist/1jJqEHmAxSxFBav9JAzFWY"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "Volver a Sentir",
+      "url": "https://open.spotify.com/track/7bEOpukjaoWzmKgfSGw6Fi"
     },
     {
       "album": {

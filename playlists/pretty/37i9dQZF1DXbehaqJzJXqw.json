@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 510819,
+  "num_followers": 511325,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
       "artists": [
         {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
       "artists": [
         {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
         }
       ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Quelqu'un M'a Dit",
-        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "Chanson triste",
-      "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Chambre avec vue",
         "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 203066,
       "name": "Jazz M\u00e9diterran\u00e9e",
       "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Quelqu'un M'a Dit",
+        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Deux",
-        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
-      },
-      "artists": [
-        {
-          "name": "Enzo Enzo",
-          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Juste quelqu'un de bien",
-      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Le Temps D'un Jazz",
         "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 233653,
       "name": "Le Temps D'Un Jazz",
       "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Deux",
+        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
+      },
+      "artists": [
+        {
+          "name": "Enzo Enzo",
+          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Juste quelqu'un de bien",
+      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Little French Songs (Deluxe Version Without Videos)",
-        "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 216282,
-      "name": "Libert\u00e9",
-      "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Soir\u00e9e",
         "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 189026,
       "name": "Vous Qui Passez Sans Me Voir",
       "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Little French Songs (Deluxe Version Without Videos)",
+        "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 216282,
+      "name": "Libert\u00e9",
+      "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Merle Noir",
-        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
-      },
-      "artists": [
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
-        }
-      ],
-      "duration_ms": 289413,
-      "name": "Menilmontant",
-      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Song, Song, Song",
         "url": "https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd"
       },
@@ -775,22 +759,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Le monde de la chanson, Vol. 27: Charles Aznavour, Vol. 2 \"O toi la vie!\"",
-        "url": "https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk"
+        "name": "Merle Noir",
+        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
       },
       "artists": [
         {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        },
-        {
-          "name": "L'Orchestre Paul Mauriat",
-          "url": "https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy"
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
         }
       ],
-      "duration_ms": 219204,
-      "name": "Tu t'laissez aller",
-      "url": "https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX"
+      "duration_ms": 289413,
+      "name": "Menilmontant",
+      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -807,6 +787,26 @@
       "duration_ms": 238893,
       "name": "Le chien d'avant garde",
       "url": "https://open.spotify.com/track/3xNsHKqsBYt4aV90Bp4l5Y"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Le monde de la chanson, Vol. 27: Charles Aznavour, Vol. 2 \"O toi la vie!\"",
+        "url": "https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "L'Orchestre Paul Mauriat",
+          "url": "https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy"
+        }
+      ],
+      "duration_ms": 219204,
+      "name": "Tu t'laissez aller",
+      "url": "https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "O\u00f9 veux-tu aller ?",
+      "url": "https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
         "name": "La javanaise",
         "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 193586,
       "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
       "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "A Fraction Of You",
-        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
-      },
-      "artists": [
-        {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "O\u00f9 veux-tu aller ?",
-      "url": "https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Les jeux sont faits",
+      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
         "name": "10 chansons pour l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 123078,
       "name": "Mon Amie La Rose",
       "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "A Fraction Of You",
-        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
-      },
-      "artists": [
-        {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Les jeux sont faits",
-      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
     },
     {
       "added_at": "2024-06-03 11:39:48",

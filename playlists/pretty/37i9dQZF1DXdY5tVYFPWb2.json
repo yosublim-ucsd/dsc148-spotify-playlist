@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 168809,
+  "num_followers": 168829,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "Black Humor",
-        "url": "https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "MOON NIGHT",
-      "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
         "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
+        "name": "Black Humor",
+        "url": "https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
         }
       ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
+      "duration_ms": 190906,
+      "name": "MOON NIGHT",
+      "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -627,6 +611,22 @@
       "duration_ms": 275973,
       "name": "\u9769\u547d\u524d\u591c",
       "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "Season",
         "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "\u604b\u6a19",
-        "url": "https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3"
-      },
-      "artists": [
-        {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
-        }
-      ],
-      "duration_ms": 212418,
-      "name": "\u604b\u6a19",
-      "url": "https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
         "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 241680,
       "name": "Rainy Runway",
       "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "\u604b\u6a19",
+        "url": "https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 212418,
+      "name": "\u604b\u6a19",
+      "url": "https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "noidleap",
-        "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 203863,
-      "name": "Noidleap",
-      "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "RIDE ON TIME",
         "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+        "name": "noidleap",
+        "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+      "duration_ms": 203863,
+      "name": "Noidleap",
+      "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1351,6 +1335,22 @@
       "duration_ms": 304266,
       "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "Once Upon a Night",
-        "url": "https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 223395,
-      "name": "Once Upon a Night",
-      "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "Grow apart",
         "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 216204,
       "name": "\u3044\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "Once Upon a Night",
+        "url": "https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 223395,
+      "name": "Once Upon a Night",
+      "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "STARLIGHT",
-        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "STARLIGHT",
-      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "FEEL GOOD",
         "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 305760,
       "name": "LOOP",
       "url": "https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 275935,
+      "name": "Document",
+      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
         "name": "City Girl",
         "url": "https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 249254,
       "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
       "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
-        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
-        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 275935,
-      "name": "Document",
-      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
     },
     {
       "added_at": "2024-09-25 04:21:27",

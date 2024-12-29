@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 10072,
+  "num_followers": 10080,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -255,8 +255,8 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Welcome to the Kicako House",
-        "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
+        "name": "Rainy day",
+        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
       },
       "artists": [
         {
@@ -264,17 +264,17 @@
           "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
         },
         {
-          "name": "Jayci yucca",
-          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         },
         {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
         }
       ],
-      "duration_ms": 195375,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1"
+      "duration_ms": 218250,
+      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
+      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -451,8 +451,8 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Rainy day",
-        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
+        "name": "Welcome to the Kicako House",
+        "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
       },
       "artists": [
         {
@@ -460,17 +460,17 @@
           "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
         },
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
         },
         {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
         }
       ],
-      "duration_ms": 218250,
-      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
-      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
+      "duration_ms": 195375,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 186019,
-      "name": "Candy (Feat. Zion.T)",
-      "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 249317,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 186019,
+      "name": "Candy (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
         "name": "Double-sidedness",
         "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
@@ -959,6 +959,26 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
+        "name": "20th Anniversary Edition \u2018Dark Hole\u2019",
+        "url": "https://open.spotify.com/album/5NybffqVfTXwACqsc1GUT7"
+      },
+      "artists": [
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        },
+        {
+          "name": "Jamie",
+          "url": "https://open.spotify.com/artist/7pKlS8U7Bi4QEYmPEazFyN"
+        }
+      ],
+      "duration_ms": 270906,
+      "name": "Sick enough to die (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
         "name": "Fix you",
         "url": "https://open.spotify.com/album/0GltVnMpJLoHv1xjzqSqHv"
       },
@@ -975,30 +995,6 @@
       "duration_ms": 176012,
       "name": "if i die (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0DEoLBczhPmawtTrfnWp8F"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
-        "name": "EVERYWHERE",
-        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 182300,
-      "name": "Sunday (feat. HEIZE, Jay Park)",
-      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

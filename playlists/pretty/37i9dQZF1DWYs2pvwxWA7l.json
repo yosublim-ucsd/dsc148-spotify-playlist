@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Zuchu",
-  "num_followers": 590294,
+  "num_followers": 590455,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-20 08:54:36",
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q"
+    },
+    {
+      "added_at": "2024-12-20 08:54:36",
+      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 182142,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
-    },
-    {
-      "added_at": "2024-12-20 08:54:36",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q"
     },
     {
       "added_at": "2024-12-20 08:54:36",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-12-20 08:54:36",
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
+    },
+    {
+      "added_at": "2024-12-20 08:54:36",
+      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -1103,38 +1119,6 @@
     {
       "added_at": "2024-12-20 08:54:36",
       "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
-    },
-    {
-      "added_at": "2024-12-20 08:54:36",
-      "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
-    },
-    {
-      "added_at": "2024-12-20 08:54:36",
-      "album": {
         "name": "Hard Guy Confessions",
         "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 234767,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
+    },
+    {
+      "added_at": "2024-12-20 08:54:36",
+      "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2024-12-20 08:54:36",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-12-20 08:54:36",
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 140166,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
+    },
+    {
+      "added_at": "2024-12-20 08:54:36",
+      "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 231213,
       "name": "Le contrat",
       "url": "https://open.spotify.com/track/3WJ8cQFEBFBUbU1yl3lVMA"
-    },
-    {
-      "added_at": "2024-12-20 08:54:36",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 140166,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
     },
     {
       "added_at": "2024-12-20 08:54:36",

@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 43031,
+  "num_followers": 43039,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAACb6CFRIX8WXdX+tIc7LCxy",
+  "snapshot_id": "Z23uAAAAAAB9Hj46fVZJlwSw31cjwpRO",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 243664,
-      "name": "Rock & Roll",
-      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
+      "duration_ms": 325291,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imminent Redemption",
-        "url": "https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi"
+        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
+        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Imminent Redemption",
-      "url": "https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B"
+      "duration_ms": 326520,
+      "name": "Sympathy for the Devil - from Sons of Anarchy",
+      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 325291,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
+      "duration_ms": 243664,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
-        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
+        "name": "Imminent Redemption",
+        "url": "https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 326520,
-      "name": "Sympathy for the Devil - from Sons of Anarchy",
-      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
+      "duration_ms": 184761,
+      "name": "Imminent Redemption",
+      "url": "https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B"
     },
     {
       "added_at": null,

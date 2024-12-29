@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 454820,
+  "num_followers": 454832,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Worcestershire dreaming",
-        "url": "https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj"
-      },
-      "artists": [
-        {
-          "name": "Low Couture",
-          "url": "https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Worcestershire dreaming",
-      "url": "https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Memories & Notes",
         "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 113357,
       "name": "Memories & Notes",
       "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Worcestershire dreaming",
+        "url": "https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj"
+      },
+      "artists": [
+        {
+          "name": "Low Couture",
+          "url": "https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Worcestershire dreaming",
+      "url": "https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "soft plushies",
-        "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
-      },
-      "artists": [
-        {
-          "name": "Blue Noodles",
-          "url": "https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq"
-        }
-      ],
-      "duration_ms": 144005,
-      "name": "soft plushies",
-      "url": "https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "superabundance",
         "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 139738,
       "name": "superabundance",
       "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "soft plushies",
+        "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
+      },
+      "artists": [
+        {
+          "name": "Blue Noodles",
+          "url": "https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq"
+        }
+      ],
+      "duration_ms": 144005,
+      "name": "soft plushies",
+      "url": "https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "soul",
-        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
-      },
-      "artists": [
-        {
-          "name": "Tatami Construct",
-          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
-        }
-      ],
-      "duration_ms": 215713,
-      "name": "memory",
-      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Snoozy Stardust",
         "url": "https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 218666,
       "name": "Snoozy Stardust",
       "url": "https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "soul",
+        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
+      },
+      "artists": [
+        {
+          "name": "Tatami Construct",
+          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
+        }
+      ],
+      "duration_ms": 215713,
+      "name": "memory",
+      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Slow Drive",
-        "url": "https://open.spotify.com/album/0W0nfFZYXahtnhO8I3LL9i"
+        "name": "Stay In Bed",
+        "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
       },
       "artists": [
         {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+          "name": "Zap Strap",
+          "url": "https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Slow Drive",
-      "url": "https://open.spotify.com/track/0gUiGhcwij43cJ3WMTIKwy"
+      "duration_ms": 124821,
+      "name": "Stay In Bed",
+      "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Stay In Bed",
-        "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
+        "name": "Slow Drive",
+        "url": "https://open.spotify.com/album/0W0nfFZYXahtnhO8I3LL9i"
       },
       "artists": [
         {
-          "name": "Zap Strap",
-          "url": "https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN"
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
         }
       ],
-      "duration_ms": 124821,
-      "name": "Stay In Bed",
-      "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
+      "duration_ms": 128000,
+      "name": "Slow Drive",
+      "url": "https://open.spotify.com/track/0gUiGhcwij43cJ3WMTIKwy"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Silent Sky",
-        "url": "https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV"
-      },
-      "artists": [
-        {
-          "name": "Lofi Leif",
-          "url": "https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N"
-        }
-      ],
-      "duration_ms": 139723,
-      "name": "Silent Sky",
-      "url": "https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "kyoto dreams",
         "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "call me when ur lonely",
-        "url": "https://open.spotify.com/album/5ypeVEv4lRQhg3wXZKaIf5"
+        "name": "Silent Sky",
+        "url": "https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV"
       },
       "artists": [
         {
-          "name": "sumthin",
-          "url": "https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd"
+          "name": "Lofi Leif",
+          "url": "https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N"
         }
       ],
-      "duration_ms": 82962,
-      "name": "sad music",
-      "url": "https://open.spotify.com/track/1mZDmX2U780ucdnGB78Qzr"
+      "duration_ms": 139723,
+      "name": "Silent Sky",
+      "url": "https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -955,6 +939,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "call me when ur lonely",
+        "url": "https://open.spotify.com/album/5ypeVEv4lRQhg3wXZKaIf5"
+      },
+      "artists": [
+        {
+          "name": "sumthin",
+          "url": "https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd"
+        }
+      ],
+      "duration_ms": 82962,
+      "name": "sad music",
+      "url": "https://open.spotify.com/track/1mZDmX2U780ucdnGB78Qzr"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "clear blue atmosphere",
         "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
       },
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "No I'm Not",
-        "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
-      },
-      "artists": [
-        {
-          "name": "Imfinenow",
-          "url": "https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy"
-        }
-      ],
-      "duration_ms": 117196,
-      "name": "No I'm Not",
-      "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Through My Window",
         "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 150955,
       "name": "Through My Window",
       "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "No I'm Not",
+        "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
+      },
+      "artists": [
+        {
+          "name": "Imfinenow",
+          "url": "https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy"
+        }
+      ],
+      "duration_ms": 117196,
+      "name": "No I'm Not",
+      "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
     },
     {
       "added_at": "2024-09-03 08:14:22",

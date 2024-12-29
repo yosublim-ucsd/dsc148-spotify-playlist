@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,916 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,917 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 54 | [Umaextrapunkprumextrafunk](https://open.spotify.com/track/469zFH0iu9p9MtGAkuJG27) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:48 |
 | 55 | [Eu Tiro É Onda \- Remix](https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Eu Tiro É Onda \(Remix\)](https://open.spotify.com/album/46mzP0WCiw6q1zbd31AWoa) | 2:54 |
 | 56 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 |
-| 57 | [NDDN](https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [No Dia dos Nossos](https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu) | 2:44 |
-| 58 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 |
+| 57 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 |
+| 58 | [NDDN](https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [No Dia dos Nossos](https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu) | 2:44 |
 | 59 | [O Céu É o Limite](https://open.spotify.com/track/1iDARoNb186UAnHvZ6w0gv) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [O Céu É o Limite](https://open.spotify.com/album/1hY230xXMYPnMDAWLASSV2) | 5:41 |
 | 60 | [Lágrimas do Palhaço](https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | ["...Entre..."](https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX) | 3:54 |
 

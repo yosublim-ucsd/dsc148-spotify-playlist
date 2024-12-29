@@ -1,6 +1,6 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 30197,
+  "num_followers": 30214,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,18 @@
     {
       "added_at": "2023-05-05 14:11:37",
       "album": {
-        "name": "Mar Dulce",
-        "url": "https://open.spotify.com/album/21FV8HUlwM4hlPvSRtULVf"
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ"
       },
       "artists": [
         {
-          "name": "Bajofondo",
-          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 275040,
-      "name": "El Mareo",
-      "url": "https://open.spotify.com/track/3AlcdhlEh1n9zzymRNXGfi"
+      "duration_ms": 181266,
+      "name": "Yira Yira",
+      "url": "https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam"
     }
   ],
   "unique_name": "Tango Rock",

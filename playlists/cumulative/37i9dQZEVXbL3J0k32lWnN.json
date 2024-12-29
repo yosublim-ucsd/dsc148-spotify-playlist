@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "2 Stepper Freestyle",
+        "url": "https://open.spotify.com/album/3R1WXSHdUszaP4eL8yQrQy"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200916,
+      "name": "2 Stepper Freestyle",
+      "url": "https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N"
+    },
+    {
+      "album": {
         "name": "Still Sleep?",
         "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
       },
@@ -602,7 +624,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 157630,
       "name": "555 (feat. KESI)",
       "url": "https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi"
@@ -700,7 +722,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 161570,
       "name": "911",
       "url": "https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14"
@@ -1144,7 +1166,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 178366,
       "name": "Alt Det (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
@@ -2322,6 +2344,24 @@
       "duration_ms": 210000,
       "name": "BAGL\u00c6NS",
       "url": "https://open.spotify.com/track/5pHKhwqzcjNZ6orNRKXZY6"
+    },
+    {
+      "album": {
+        "name": "Sytten",
+        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189917,
+      "name": "Bagl\u00e6ns",
+      "url": "https://open.spotify.com/track/5O2NovuSaij0nsULxUt8V5"
     },
     {
       "album": {
@@ -3658,7 +3698,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 123628,
       "name": "Booty Up",
       "url": "https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m"
@@ -4406,7 +4446,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 176190,
       "name": "B\u00f8rn Af Natten (Hola Bonita)",
       "url": "https://open.spotify.com/track/3ZNTae1ZOrSaURxMZAVFq6"
@@ -5112,7 +5152,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 153084,
       "name": "Chicagenhagen",
       "url": "https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH"
@@ -5370,7 +5410,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "CLEOPATRA",
       "url": "https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB"
@@ -6174,7 +6214,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 174642,
       "name": "Dark Room (feat. ICEKIID)",
       "url": "https://open.spotify.com/track/1eA6vc394WJF2l4lHLqJ2B"
@@ -6420,7 +6460,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 208934,
       "name": "De Her Timer",
       "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
@@ -6630,7 +6670,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 195466,
       "name": "Den Himmelbl\u00e5",
       "url": "https://open.spotify.com/track/5rS90wydFupYLiw0Tqs1eM"
@@ -6800,7 +6840,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 215731,
       "name": "Der' Noget I December",
       "url": "https://open.spotify.com/track/0wm3wOmYpTILjqyHzDDJIp"
@@ -6942,7 +6982,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 201863,
       "name": "Det Modsatte",
       "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
@@ -7510,7 +7550,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -7716,7 +7756,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 148758,
       "name": "Dopamin",
       "url": "https://open.spotify.com/track/0tDh78JNlubuGDJfkv8Juk"
@@ -7908,7 +7948,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -8130,6 +8170,28 @@
       "duration_ms": 155251,
       "name": "Du G\u00f8r Det Godt (feat. Johnson & HEDEGAARD)",
       "url": "https://open.spotify.com/track/1DlHOKshj1ITeV7GlI8ciV"
+    },
+    {
+      "album": {
+        "name": "Du Ligner Din Mor",
+        "url": "https://open.spotify.com/album/3F9tNqTRRrq7l5ZlLuGfL0"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hav",
+          "url": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+        },
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186110,
+      "name": "Du Ligner Din Mor",
+      "url": "https://open.spotify.com/track/5wmH2yEMgerF4bGh87TQZA"
     },
     {
       "album": {
@@ -8441,7 +8503,7 @@
     },
     {
       "album": {
-        "name": "DINE VENNER",
+        "name": "Dine Venner",
         "url": "https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2"
       },
       "artists": [
@@ -8452,7 +8514,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 202453,
       "name": "Elsker Dig S\u00e5 Meget",
       "url": "https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j"
@@ -9104,7 +9166,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -11518,7 +11580,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 193712,
       "name": "F\u00f8rste Dag",
       "url": "https://open.spotify.com/track/2XxRgaOO73AtKS3bPciDSL"
@@ -12682,7 +12744,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 227023,
       "name": "Guld Jul",
       "url": "https://open.spotify.com/track/2rui6bCZAz3yJ7YFQeyWMq"
@@ -13142,7 +13204,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 133950,
       "name": "Har H\u00f8rt Dig",
       "url": "https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v"
@@ -14594,7 +14656,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 194660,
       "name": "Hun",
       "url": "https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR"
@@ -15536,7 +15598,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 204946,
       "name": "I En Stjerneregn Af Sne - Fra julekalenderen 'Tvillingerne og Julemanden'",
       "url": "https://open.spotify.com/track/2MHiE76HdeJznaQtrLwBug"
@@ -16856,7 +16918,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -16928,7 +16990,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 151933,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
@@ -17164,7 +17226,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 242960,
       "name": "Jesus & Josefine",
       "url": "https://open.spotify.com/track/0IhL5sXNR9b12DR0h9vxKa"
@@ -17288,7 +17350,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -17468,7 +17530,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 239200,
       "name": "Jul i Angora",
       "url": "https://open.spotify.com/track/4LTUBsLeIn8qcopkFwhwK9"
@@ -17530,7 +17592,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 266893,
       "name": "Jul P\u00e5 Vesterbro",
       "url": "https://open.spotify.com/track/20oNCyFVv55xDpXGIw0QEs"
@@ -18207,6 +18269,24 @@
     },
     {
       "album": {
+        "name": "\u00c6kte Vare",
+        "url": "https://open.spotify.com/album/2ESc204TZmoBLPDfqNVYFY"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245729,
+      "name": "Knokler H\u00e5rdt",
+      "url": "https://open.spotify.com/track/5RR4sBH4TRqyFp386kf99d"
+    },
+    {
+      "album": {
         "name": "Knuser Hjerter",
         "url": "https://open.spotify.com/album/5XmVWR5o42BWlXZ9o6fhvg"
       },
@@ -18520,7 +18600,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 170986,
       "name": "Kongespil - Tinka og Kongespillet",
       "url": "https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH"
@@ -18818,6 +18898,28 @@
       "duration_ms": 164047,
       "name": "K\u00f8benhavn (feat. Suspekt & Benjamin Hav)",
       "url": "https://open.spotify.com/track/5NjehIS8G8xWKsIJCiQov8"
+    },
+    {
+      "album": {
+        "name": "Hotel Cabana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
     },
     {
       "album": {
@@ -19240,7 +19342,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -19300,7 +19402,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 294626,
       "name": "Let Love Be Love",
       "url": "https://open.spotify.com/track/6PTn6uJPekoEtfikiudUv7"
@@ -19894,7 +19996,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 208188,
       "name": "Lille Store Verden",
       "url": "https://open.spotify.com/track/4ZmaxcxpEmzZgsMZPRdLIG"
@@ -20180,7 +20282,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -20827,6 +20929,28 @@
     },
     {
       "album": {
+        "name": "BABA BUSINESS 3 (DELUXE)",
+        "url": "https://open.spotify.com/album/4JITSDwkgMxh2VK5ScfMEl"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138341,
+      "name": "MADNESS (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/2WuXxMvcuRqrfXAMXtXM9s"
+    },
+    {
+      "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
@@ -21260,7 +21384,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/0hz5PNF2wejwUKCMpesQWt"
@@ -21300,7 +21424,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -21590,7 +21714,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 174620,
       "name": "Min Bror",
       "url": "https://open.spotify.com/track/50XScTYQGylJMD55jXpjgJ"
@@ -21782,7 +21906,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -22702,7 +22826,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 255400,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
@@ -23748,7 +23872,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 180482,
       "name": "Nu Er Det Jul (Nissebanden)",
       "url": "https://open.spotify.com/track/5Jqo99jKKbaSYKQ7P0SM54"
@@ -26598,7 +26722,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -27160,7 +27284,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -27576,7 +27700,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 154565,
       "name": "Sent",
       "url": "https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N"
@@ -28562,7 +28686,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 198388,
       "name": "Smelter Under M\u00e5nen",
       "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
@@ -28730,7 +28854,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -29450,7 +29574,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -30678,7 +30802,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 155511,
       "name": "Tak For Sidst",
       "url": "https://open.spotify.com/track/1UTeDUAusifkVapsAZxbSc"
@@ -30864,7 +30988,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -31278,7 +31402,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -31782,7 +31906,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 232478,
       "name": "Tidsrejsen",
       "url": "https://open.spotify.com/track/5jl2ASpLH6ch4vkD4xcpyq"
@@ -31804,7 +31928,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 213588,
       "name": "Tidsrejsen 2 (Fra DRs Julekalender)",
       "url": "https://open.spotify.com/track/6GYyME16S63CNvpx75DkTu"
@@ -31968,7 +32092,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -33100,7 +33224,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -33404,7 +33528,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 181507,
       "name": "Valdes Jul",
       "url": "https://open.spotify.com/track/4dv9FqitPO8aBiV3faXtZw"

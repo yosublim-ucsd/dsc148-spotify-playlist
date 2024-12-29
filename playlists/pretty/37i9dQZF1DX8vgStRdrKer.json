@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=iMXNw6ajR7CLOUWYr1j2YQ>Malcolm Rue</a>",
-  "num_followers": 11898,
+  "num_followers": 11905,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -81,22 +81,6 @@
       "url": "https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651"
     },
     {
-      "added_at": "2024-11-15 00:01:00",
-      "album": {
-        "name": "Holy Spirit",
-        "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 351666,
-      "name": "Holy Spirit",
-      "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
-    },
-    {
       "added_at": "2024-06-07 00:01:00",
       "album": {
         "name": "Give Me Chance",
@@ -115,6 +99,22 @@
       "duration_ms": 255735,
       "name": "Give Me Chance",
       "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
+    },
+    {
+      "added_at": "2024-11-15 00:01:00",
+      "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 351666,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
     },
     {
       "added_at": "2024-11-15 00:01:00",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
     },
     {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/6aJJ3GRPM2S8rfK1gNUUuT"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 507857,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn"
+    },
+    {
       "added_at": "2024-10-25 00:01:00",
       "album": {
         "name": "Shekinah",
@@ -551,22 +567,6 @@
       "duration_ms": 420025,
       "name": "Shekinah",
       "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/6aJJ3GRPM2S8rfK1gNUUuT"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 507857,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn"
     },
     {
       "added_at": "2024-10-11 00:01:00",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Yeshua (Worship Rendition)",
-        "url": "https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 216962,
-      "name": "Yeshua (Worship Rendition)",
-      "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
-    },
-    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "Jesus, Lamb Of God (Live)",
@@ -821,22 +805,6 @@
       "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
-    },
-    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "Higher",
@@ -855,6 +823,38 @@
       "duration_ms": 162223,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Yeshua (Worship Rendition)",
+        "url": "https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 216962,
+      "name": "Yeshua (Worship Rendition)",
+      "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -911,22 +911,6 @@
       "duration_ms": 167225,
       "name": "Tout nouveau tout beau",
       "url": "https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "added_at": "2024-10-04 00:01:00",
@@ -999,6 +983,26 @@
       "duration_ms": 192000,
       "name": "M'manja Mwanu",
       "url": "https://open.spotify.com/track/7qsuw2hbLEAW8dzQx7nRhP"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "Agb\u00e1ra \u1eccl\u1ecd\u0301run P\u1ecd\u0300 (Live)",
+        "url": "https://open.spotify.com/album/0E0Nu2k6iUQhAQXYxDXs2B"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Yetunde Are",
+          "url": "https://open.spotify.com/artist/4MSflz0Vh6ezIXyfnwwnEh"
+        }
+      ],
+      "duration_ms": 376048,
+      "name": "Agb\u00e1ra \u1eccl\u1ecd\u0301run P\u1ecd\u0300 (Live)",
+      "url": "https://open.spotify.com/track/6RatjnXFpxZJUIm4GJh124"
     }
   ],
   "unique_name": "Redeemed",

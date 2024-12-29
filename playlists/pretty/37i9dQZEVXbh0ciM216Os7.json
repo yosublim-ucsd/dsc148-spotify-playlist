@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACSTImtnFcC/0MRPbb5mkOp",
+  "snapshot_id": "AAAAAAAAAADjAQdf+J/47goaDyFEV2Zn",
   "tracks": [
     {
       "added_at": "2024-12-27 05:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "'N Da West(Re-Up)",
+        "url": "https://open.spotify.com/album/1NrPgRGSsGQjwKkUapYCLY"
+      },
+      "artists": [
+        {
+          "name": "Ghetto-T.",
+          "url": "https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 181100,
+      "name": "'N Da West(Re-Up)",
+      "url": "https://open.spotify.com/track/2jEu93RJvowPtloVED2zQI"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -91,26 +111,6 @@
       "duration_ms": 286020,
       "name": "Zoo - Original",
       "url": "https://open.spotify.com/track/3KYyXPUc4B65DXnqTFEgoF"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "'N Da West(Re-Up)",
-        "url": "https://open.spotify.com/album/1NrPgRGSsGQjwKkUapYCLY"
-      },
-      "artists": [
-        {
-          "name": "Ghetto-T.",
-          "url": "https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 181100,
-      "name": "'N Da West(Re-Up)",
-      "url": "https://open.spotify.com/track/2jEu93RJvowPtloVED2zQI"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -231,42 +231,22 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
       },
       "artists": [
         {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         },
         {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "Whole Lotta Gang Shit",
-        "url": "https://open.spotify.com/album/6UJPFGGqDBc3xoIg80P6oT"
-      },
-      "artists": [
-        {
-          "name": "Tyler Cassidy",
-          "url": "https://open.spotify.com/artist/0PzvHyRUSw6pCcWi9BYfKk"
-        }
-      ],
-      "duration_ms": 208515,
-      "name": "Whole Lotta Gang Shit",
-      "url": "https://open.spotify.com/track/4BG0UryKdTnp60E53G61TT"
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -295,6 +275,78 @@
       "duration_ms": 213739,
       "name": "Gunz N Smoke (feat. 50 Cent & Eminem)",
       "url": "https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "Unreal Unearth: Unending",
+        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 202937,
+      "name": "Hymn to Virgil",
+      "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "Whole Lotta Gang Shit",
+        "url": "https://open.spotify.com/album/6UJPFGGqDBc3xoIg80P6oT"
+      },
+      "artists": [
+        {
+          "name": "Tyler Cassidy",
+          "url": "https://open.spotify.com/artist/0PzvHyRUSw6pCcWi9BYfKk"
+        }
+      ],
+      "duration_ms": 208515,
+      "name": "Whole Lotta Gang Shit",
+      "url": "https://open.spotify.com/track/4BG0UryKdTnp60E53G61TT"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -375,38 +427,6 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "A Broken Man",
-        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 509840,
-      "name": "A Broken Man",
-      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "We Like It Here (Remixed + Remastered + Reimagined)",
-        "url": "https://open.spotify.com/album/1yQ4KgE3eTVDhEBsnfADCY"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 578202,
-      "name": "Lingus - Alternate Take",
-      "url": "https://open.spotify.com/track/5jKq0VCeyGhvk8VxneKc2F"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
         "name": "The Art of War 2.0",
         "url": "https://open.spotify.com/album/1hgoedH8YqRiPqw7ldIl3o"
       },
@@ -435,6 +455,42 @@
       "duration_ms": 313391,
       "name": "The Art of War 2.0",
       "url": "https://open.spotify.com/track/2nxULEDxFEcPJQCazokXlS"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "We Like It Here (Remixed + Remastered + Reimagined)",
+        "url": "https://open.spotify.com/album/1yQ4KgE3eTVDhEBsnfADCY"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 578202,
+      "name": "Lingus - Alternate Take",
+      "url": "https://open.spotify.com/track/5jKq0VCeyGhvk8VxneKc2F"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "Viking Juice (The Butcher Mix)",
+        "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Joe The Butcher",
+          "url": "https://open.spotify.com/artist/4MNFkawz8pQQpLuzVBtyPe"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Viking Juice - The Butcher Mix",
+      "url": "https://open.spotify.com/track/2ndjLJiYVXaqNUTSm8MuA0"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -479,26 +535,6 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "Viking Juice (The Butcher Mix)",
-        "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        },
-        {
-          "name": "Joe The Butcher",
-          "url": "https://open.spotify.com/artist/4MNFkawz8pQQpLuzVBtyPe"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Viking Juice - The Butcher Mix",
-      "url": "https://open.spotify.com/track/2ndjLJiYVXaqNUTSm8MuA0"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
         "name": "Frozyn Reign 2",
         "url": "https://open.spotify.com/album/5aA92FyDJgjWZV2PdLicM9"
       },
@@ -536,9 +572,9 @@
           "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 249000,
-      "name": "It's Christmas",
-      "url": "https://open.spotify.com/track/3CDuJCa3NEJplspA0eKpZJ"
+      "duration_ms": 219000,
+      "name": "Live In Love",
+      "url": "https://open.spotify.com/track/6ZBiQ0S0ZCHTOcflZAEfVd"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -559,46 +595,6 @@
       "duration_ms": 203506,
       "name": "Benjamin B",
       "url": "https://open.spotify.com/track/2LbaDVLXucsYtUdPGWshfG"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "In Da Field",
-        "url": "https://open.spotify.com/album/0WiDnX1yXEuZW5SqWR0KmF"
-      },
-      "artists": [
-        {
-          "name": "Big Cam Da Bully",
-          "url": "https://open.spotify.com/artist/7KBARLVYhgglvhZz7LcHqH"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 237871,
-      "name": "In Da Field",
-      "url": "https://open.spotify.com/track/3lLZ0lysKTvL0Teu0YCcGy"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "A Christmas Deal",
-        "url": "https://open.spotify.com/album/5DKgen4eQXpDSLxMlioCia"
-      },
-      "artists": [
-        {
-          "name": "AUDG",
-          "url": "https://open.spotify.com/artist/35eWmMW0ZgBUT7375GJtoC"
-        },
-        {
-          "name": "Josh Augustin",
-          "url": "https://open.spotify.com/artist/2dYrni0Ip1lY2KYPzwCCVW"
-        }
-      ],
-      "duration_ms": 164296,
-      "name": "A Christmas Deal",
-      "url": "https://open.spotify.com/track/0VpStwwLCPulSovgFphOgy"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

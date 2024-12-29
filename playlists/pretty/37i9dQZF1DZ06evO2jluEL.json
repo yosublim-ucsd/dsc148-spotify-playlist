@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 23263,
+  "num_followers": 23266,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAACfcOnZ900p+h/i5huy3Awu",
+  "snapshot_id": "Z23uAAAAAACns3QVPndS0NcJ7gKOGFsM",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "No Meio de uma Tempestade",
-      "url": "https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "No Meio de uma Tempestade",
+      "url": "https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
         "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 340373,
       "name": "O Verdadeiro Amor",
       "url": "https://open.spotify.com/track/6k8I0zBxqa5V3hTIWCRTFw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "Senhor que Cura",
+      "url": "https://open.spotify.com/track/5ty5iPKPaNepDPSauxGuIR"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 391586,
       "name": "Orar e Adorar (feat. David Quinlan)",
       "url": "https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Me Alegrar",
-        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "Senhor que Cura",
-      "url": "https://open.spotify.com/track/5ty5iPKPaNepDPSauxGuIR"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adora\u00e7\u00e3o 7 - Filho do Homem",
+        "url": "https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 201430,
+      "name": "Totalmente aos Teus P\u00e9s",
+      "url": "https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rastros de Amor (ao Vivo)",
         "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 227013,
       "name": "Jesus, A Rocha Eterna - Ao Vivo",
       "url": "https://open.spotify.com/track/0J97poNV4fN5atj0hgjTXi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o 7 - Filho do Homem",
-        "url": "https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Koinonya de Louvor",
-          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 201430,
-      "name": "Totalmente aos Teus P\u00e9s",
-      "url": "https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob"
     },
     {
       "added_at": null,

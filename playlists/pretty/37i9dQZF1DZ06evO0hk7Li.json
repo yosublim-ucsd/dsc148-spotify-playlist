@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 38473,
+  "num_followers": 38474,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAA05c/c0WSz3GWH9lt/vzyc",
+  "snapshot_id": "Z23uAAAAAACXOZSzhze575LET2sL4KMK",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+        "name": "Lundi M\u00e9chant",
+        "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
       },
       "artists": [
         {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Ga\u00ebl Faye",
+          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
         },
         {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 219626,
-      "name": "Diddy Bop (x Louis The Child)",
-      "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
+      "duration_ms": 231213,
+      "name": "Only Way Is Up",
+      "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
     },
     {
       "added_at": null,
@@ -415,22 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lundi M\u00e9chant",
-        "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
       "artists": [
         {
-          "name": "Ga\u00ebl Faye",
-          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
-        },
-        {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
         }
       ],
-      "duration_ms": 231213,
-      "name": "Only Way Is Up",
-      "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
+      "duration_ms": 219626,
+      "name": "Diddy Bop (x Louis The Child)",
+      "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
     },
     {
       "added_at": null,

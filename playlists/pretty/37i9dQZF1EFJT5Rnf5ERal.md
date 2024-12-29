@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537 likes - 263 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,536 likes - 263 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 147 | [Hooters](https://open.spotify.com/track/6TCz9dPTN2FjSrHYg2RpwS) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Still My Moment](https://open.spotify.com/album/3M683oGfLgaL300rp3xIT2) | 2:50 |
 | 148 | [No Chorus Pt\. 10](https://open.spotify.com/track/0OGTaYJGsB7yj14sp40dNi) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Who Am I 3](https://open.spotify.com/album/5vCT8VY0nSeLUZge8NRVMZ) | 3:05 |
 | 149 | [City On Lock](https://open.spotify.com/track/6DDNOwpA8MHEylWVQdyVFq) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:18 |
-| 150 | [Batman](https://open.spotify.com/track/4nt3Zn8CqmVTEVQuYToMqy) | [Ugly God](https://open.spotify.com/artist/3Fdm9TFJQCLmC3AWMuGExi) | [Bumps & Bruises \(Deluxe\)](https://open.spotify.com/album/4jrtlSzTql4HkG8e4LVGyo) | 2:53 |
-| 151 | [Smoke \(with EST Gee\)](https://open.spotify.com/track/1jr4IuubT6GD9KpkNFcKcn) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:08 |
+| 150 | [Smoke \(with EST Gee\)](https://open.spotify.com/track/1jr4IuubT6GD9KpkNFcKcn) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:08 |
+| 151 | [Batman](https://open.spotify.com/track/4nt3Zn8CqmVTEVQuYToMqy) | [Ugly God](https://open.spotify.com/artist/3Fdm9TFJQCLmC3AWMuGExi) | [Bumps & Bruises \(Deluxe\)](https://open.spotify.com/album/4jrtlSzTql4HkG8e4LVGyo) | 2:53 |
 | 152 | [Nike Swoosh \(feat\. YG\)](https://open.spotify.com/track/36Sw1oAj6mI17Ro5NShpXS) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Simi](https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S) | 2:31 |
 | 153 | [Winter](https://open.spotify.com/track/7iLsC6yFhe6Bw68HFhtYB2) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Winter](https://open.spotify.com/album/0UP6JBzXhj0nGzWNmwkRpl) | 3:32 |
 | 154 | [38 \(feat\. Pressa\)](https://open.spotify.com/track/5Ai52oUV3qH4mY2HzoZSwq) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Buy or Bye 2](https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF) | 2:37 |
@@ -211,8 +211,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 201 | [On Me](https://open.spotify.com/track/4kKp3nTC76Zi7TaowLqLkg) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Fuck Everybody](https://open.spotify.com/album/0nb45XEdKWSFgq0tdPUwnH) | 2:57 |
 | 202 | [Hot Sauce](https://open.spotify.com/track/1EnIek7hbwKtCW6wJcDg1U) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Same Energy](https://open.spotify.com/album/46MkI0hKIr16SzcdZQ0TPW) | 2:07 |
 | 203 | [TOAST](https://open.spotify.com/track/5PkN8WUr8NIivKX6uNo61r) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 3:30 |
-| 204 | [Outro](https://open.spotify.com/track/2CMxhRS1MSXTSfE0EPWsdl) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Simi](https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S) | 3:35 |
-| 205 | [Brick or Sum \(Tripstar, Yo Gotti feat\. Tay Keith\)](https://open.spotify.com/track/5d9hYby2SaUb92okASuIo3) | [Tripstar](https://open.spotify.com/artist/6CHFq8hiVCpHsNKsP2aMw2), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:07 |
+| 204 | [Brick or Sum \(Tripstar, Yo Gotti feat\. Tay Keith\)](https://open.spotify.com/track/5d9hYby2SaUb92okASuIo3) | [Tripstar](https://open.spotify.com/artist/6CHFq8hiVCpHsNKsP2aMw2), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:07 |
+| 205 | [Outro](https://open.spotify.com/track/2CMxhRS1MSXTSfE0EPWsdl) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Simi](https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S) | 3:35 |
 | 206 | [This Time Around](https://open.spotify.com/track/6fveZbfaioqsGCZDaCEUqV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:55 |
 | 207 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 |
 | 208 | [Mosh Pit](https://open.spotify.com/track/6U1PuS5d1FzwmiNKpfJPfi) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Blac Sheep 2](https://open.spotify.com/album/5NTVmrFFTFpEQ75W69UbHW) | 2:25 |
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 262 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 263 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AblStgAAAABedFMOrNtUcJMqAoF//5Mf`
+Snapshot ID: `AblYVgAAAAAIiO4COnKG/NacN8e0YzEu`

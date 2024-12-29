@@ -1263,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/0dWXN6tsNvIKTDVfhN3tkg"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189055,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/3CLx7KyeDo3OLGKk87Pikp"
+    },
+    {
+      "album": {
         "name": "Todo Gracias Al Se\u00f1or",
         "url": "https://open.spotify.com/album/7AJ5n8CY216ToSbc9MhICq"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 226122,
+  "num_followers": 226219,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAADXSRWGLKu4sCYm56HDvVGv",
+  "snapshot_id": "Z23uAAAAAABOr2jAQG/L4017XkXIKgrx",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 185165,
-      "name": "Father Bird, Mother Bird",
-      "url": "https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Universe Smiles Upon You",
         "url": "https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 298439,
       "name": "Mr. White",
       "url": "https://open.spotify.com/track/7pdfs3Tnc5tSg3z5jnInvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 185165,
+      "name": "Father Bird, Mother Bird",
+      "url": "https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp"
     },
     {
       "added_at": null,

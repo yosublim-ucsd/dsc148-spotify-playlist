@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,362 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,399 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 72 | [LOVE POTION](https://open.spotify.com/track/72KHps8mMNjGwrgpylXVhP) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [LOVE POTION](https://open.spotify.com/album/6gRcRXz1b8wjUPc1PTwYeN) | 3:19 |
 | 73 | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/track/648h77piOsFhlzniWDHqBo) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab) | 4:03 |
 | 74 | [CRAZY](https://open.spotify.com/track/2orP9huOYuU3PvcPTfZHh8) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [EAST KISS](https://open.spotify.com/artist/2cPSokmCvfZskC180zAoZr) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 2:50 |
-| 75 | [Streets](https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What Happens After](https://open.spotify.com/album/374kRLUEswPACwvirpCPG1) | 2:30 |
-| 76 | [Awolowo](https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3) | 2:15 |
+| 75 | [Awolowo](https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3) | 2:15 |
+| 76 | [Streets](https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What Happens After](https://open.spotify.com/album/374kRLUEswPACwvirpCPG1) | 2:30 |
 | 77 | [Nicely](https://open.spotify.com/track/4ePxXsCU2HjgKmKxzHYQrM) | [DJ FiiFii](https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn) | [Nicely](https://open.spotify.com/album/7txg8RD9bbUDFUrq8lVnPV) | 2:42 |
 | 78 | [TOYL \(Time Of Your Life\)](https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [TOYL \(Time Of Your Life\)](https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN) | 3:45 |
 | 79 | [Take Control](https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [Take Control](https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo) | 3:15 |

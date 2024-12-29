@@ -5778,7 +5778,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Bad Girls Like You",
       "url": "https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8"
@@ -8212,7 +8212,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
@@ -23959,6 +23959,28 @@
     },
     {
       "album": {
+        "name": "My Terrible Mind",
+        "url": "https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Heartbreak Kid",
+      "url": "https://open.spotify.com/track/1ktAfHym69UrvWIgx2qPPm"
+    },
+    {
+      "album": {
         "name": "HEAT STICK",
         "url": "https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w"
       },
@@ -25378,7 +25400,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 268911,
       "name": "How to Make Gravy",
       "url": "https://open.spotify.com/track/76wswZbVlavetSoQhvlxYj"
@@ -43084,7 +43106,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 344006,
       "name": "Olha pra Minha Cara N\u00e3o",
       "url": "https://open.spotify.com/track/1sIg2HURWNfucJ8PPUCSJ4"
@@ -55296,7 +55318,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 176360,
       "name": "Stop The Cavalry",
       "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
@@ -60170,7 +60192,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -65560,6 +65582,28 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
+    },
+    {
+      "album": {
+        "name": "YANKI X \u0130NT\u0130HAR",
+        "url": "https://open.spotify.com/album/5ldopWpksuXdFaKyvQP7gr"
+      },
+      "artists": [
+        {
+          "name": "Ozan Bayra\u015fa",
+          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
+        },
+        {
+          "name": "SNOW",
+          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151512,
+      "name": "YANKI X \u0130NT\u0130HAR",
+      "url": "https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie"
     },
     {
       "album": {

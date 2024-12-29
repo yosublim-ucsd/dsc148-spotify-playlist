@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: MOROHA
 
-2,050 songs - 5 day 7 hr 44 min
+2,052 songs - 5 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-20 | 2023-09-25 |
 | [Garakuta](https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Garakuta](https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark) | 2:58 | 2023-03-03 | 2023-03-29 |
 | [Garden](https://open.spotify.com/track/6S3zXTgua8IH8y0UXG2o5z) | [Mariana in our Heads](https://open.spotify.com/artist/4sa4uFNUGC2SH8a4Rj710I) | [Landscapes](https://open.spotify.com/album/13pufn8mYgJ4A6w2zkUlQF) | 4:10 | 2023-07-04 | 2023-07-12 |
-| [Garden of Remembrance](https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [「Garden of Remembrance」劇中曲](https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz) | 7:16 | 2024-11-05 |  |
+| [Garden of Remembrance](https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [「Garden of Remembrance」劇中曲](https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz) | 7:16 | 2024-11-05 | 2024-12-29 |
 | [garden.](https://open.spotify.com/track/3FQGrW0IsZ0HKewjwq8bgQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [CHAPTER I: MEMENTO MOLLY](https://open.spotify.com/album/6D3UFoo05uS97YwuW8En48) | 3:35 | 2023-03-30 | 2023-04-28 |
 | [Gene](https://open.spotify.com/track/0Gh6U25xKdfiiPzNzAwsBM) | [Stone Flower Blooms](https://open.spotify.com/artist/4xrufp4lvhwz4DwmPNUICF) | [Gene](https://open.spotify.com/album/7MKF8cJtx42bxaFcEe0MI8) | 3:19 | 2023-09-26 | 2023-10-04 |
 | [Gene](https://open.spotify.com/track/1lx8OEz37PCZmcOkSYDbNV) | [Stone Flower Blooms](https://open.spotify.com/artist/4xrufp4lvhwz4DwmPNUICF) | [Gene](https://open.spotify.com/album/4gc5c2BtolLfv1Fii7cIZf) | 3:19 | 2023-09-26 | 2023-09-28 |
@@ -1305,6 +1305,7 @@
 | [≒](https://open.spotify.com/track/7LybGUDc1gZSsuimbyWZKV) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [≒](https://open.spotify.com/album/4V7WJHk2Qssi5X0aNd0tCa) | 4:46 | 2024-01-11 | 2024-05-08 |
 | [◯ \- 8+3<¥¥ ¥\\+ 3%6=](https://open.spotify.com/track/1kTDi3VNS16kDChrTftuM4) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [◯ \- 8+3<¥¥ ¥\\+ 3%6=](https://open.spotify.com/album/6mYcCx374J3fHWVKo8pWFt) | 3:07 | 2024-05-28 | 2024-06-12 |
 | [あいしてる](https://open.spotify.com/track/6trUP516D5vXLLBrNgyn2Y) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [あいしてる](https://open.spotify.com/album/28LObq2FDfWvs8tAvQy9L4) | 5:39 | 2024-11-13 |  |
+| [あけないひみつ](https://open.spotify.com/track/3ufoRksbgnm36Yj9jX0C4X) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM) | [あけないひみつ](https://open.spotify.com/album/608QksoNbIViwjp15kbj1q) | 4:37 | 2024-12-24 |  |
 | [あけぼの \- 2023](https://open.spotify.com/track/7oIebM3d43QEtaQkpKKPRr) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [あけぼの \(2023\)](https://open.spotify.com/album/7DEvmHRVHWr0g4eFyKuW87) | 5:27 | 2023-06-29 | 2023-07-01 |
 | [あこがれ](https://open.spotify.com/track/3Q4836EU8FkGpjR5WbkE67) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [あこがれ](https://open.spotify.com/album/4DTZkr6ieYJUi9gzDXpHiB) | 3:59 | 2023-12-12 | 2023-12-15 |
 | [あたしぐらいは願うたび](https://open.spotify.com/track/5iRQF5xQElpi1Lh2vuqiZT) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [あたしぐらいは願うたび](https://open.spotify.com/album/5maSrfcqMRsXIlwoQo6YzQ) | 4:20 | 2024-01-09 | 2024-01-25 |
@@ -1849,7 +1850,7 @@
 | [景色一空](https://open.spotify.com/track/3CfgUhEuuWhwQRkj60SjbY) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/6gyGX7WrIQKwOWGZHFHgJu) | 4:47 | 2023-10-10 | 2023-11-22 |
 | [晴れたらいいのに](https://open.spotify.com/track/3EezqIHiYHPvz8YAS1TMzT) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [晴れたらいいのに](https://open.spotify.com/album/4E5sFh5YG22nmVE1t8NAxF) | 4:37 | 2023-09-19 | 2023-09-27 |
 | [晴れるな](https://open.spotify.com/track/2YTSYQPXLljftwle3Q6Jom) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [晴れるな](https://open.spotify.com/album/3ghXwssaEDLOwvzMXYCHgS) | 3:08 | 2023-06-27 | 2024-01-12 |
-| [暁](https://open.spotify.com/track/2thg7ZioIVn94vRNd2DPFF) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [暁](https://open.spotify.com/album/7LDSIiU7mTQS6Dgm8viwBA) | 4:09 | 2024-12-24 |  |
+| [暁](https://open.spotify.com/track/2thg7ZioIVn94vRNd2DPFF) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [暁](https://open.spotify.com/album/7LDSIiU7mTQS6Dgm8viwBA) | 4:09 | 2024-12-24 | 2024-12-29 |
 | [暗闇で踊ろう](https://open.spotify.com/track/3RXmwuZJxvKqXNTJYNpGwW) | [THE NUGGETS](https://open.spotify.com/artist/0fOhZsgOFCjPpNVKAaO7EC) | [暗闇で踊ろう](https://open.spotify.com/album/4DXDVUrNypg4sBR4ce1ALI) | 4:18 | 2023-08-01 | 2023-08-09 |
 | [曇りくらいが丁度いい](https://open.spotify.com/track/6xA7IXaV1u3c3WAzZC7Vsm) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [曇りくらいが丁度いい](https://open.spotify.com/album/0juzJ32rR3Ub6qyq23uim4) | 3:40 | 2023-08-15 | 2023-08-17 |
 | [書きたい](https://open.spotify.com/track/7xXGFsnwMAaJWysKQrweo3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Sweet.ep](https://open.spotify.com/album/2fgcE8yz8GWI7pCUWD0puM) | 3:44 | 2023-04-11 | 2023-04-13 |
@@ -2054,6 +2055,7 @@
 | [餞](https://open.spotify.com/track/4151sPJDAMGChnHnxY1BJ1) | [Odd Donuts](https://open.spotify.com/artist/7rflUhNjhxlITzPI54XTzg) | [餞](https://open.spotify.com/album/3Uzgj9qUBnGJnLhOLAHdYU) | 3:35 | 2023-08-01 | 2023-08-09 |
 | [馬鹿ぼんど](https://open.spotify.com/track/2vbwQO1RKweAt3YBgYQUO7) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [ほうむめいど・かうぼうい](https://open.spotify.com/album/3zxSwsZ82bsuYPSKlLJnDN) | 3:07 | 2023-09-26 | 2023-10-04 |
 | [駄叉](https://open.spotify.com/track/0qYFLPgDBTCF4jCNM5tImu) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [駄叉](https://open.spotify.com/album/5qTt4dRAWF5PZt7jxk79I9) | 4:13 | 2024-07-09 | 2024-09-18 |
+| [魔法使いになりたくて](https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [HAPPY BIRTHDAY](https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj) | 3:06 | 2024-12-24 |  |
 | [魚 \_ 魚](https://open.spotify.com/track/0iReJwnfIhYXmdGKN1OgB2) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [魚 \_ 魚](https://open.spotify.com/album/4X1929ex2VAoBiJ0M5eYkk) | 4:55 | 2023-08-01 | 2023-08-09 |
 | [鯛みくじ\-Paper Fortune\-](https://open.spotify.com/track/0QSK81yBuznDfaHVCrh6ig) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [窪田 真佑子](https://open.spotify.com/artist/3LYFe3DAQ1pDror0Na2bbT), [Duke Fujino](https://open.spotify.com/artist/7oaq1iLvQBAsTYqawz9H1F) | [鯛みくじ\-Paper Fortune\-](https://open.spotify.com/album/1NgZv2QeuJ1dBCDzmug62x) | 3:27 | 2024-07-02 | 2024-07-10 |
 | [鯨の巣](https://open.spotify.com/track/1jOsiKMmpkYuGm2tW9v72h) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [鯨の巣](https://open.spotify.com/album/04Yint2Re3tPB4unUxosFG) | 3:42 | 2024-03-12 | 2024-04-06 |

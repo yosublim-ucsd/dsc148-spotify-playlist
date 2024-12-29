@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 59242,
+  "num_followers": 59249,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAADP60C6HZ0jqNnctgzjDWjM",
+  "snapshot_id": "Z23uAAAAAADm6nzLQ2xJkxBKCOY81UBe",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 373533,
-      "name": "A Thousand Lies",
-      "url": "https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 304381,
       "name": "Bastards",
       "url": "https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 373533,
+      "name": "A Thousand Lies",
+      "url": "https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unto the Locust (Special Edition)",
-        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 387840,
-      "name": "Darkness Within",
-      "url": "https://open.spotify.com/track/0bHYX16vAFaFhtEqKhCeqg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The More Things Change...",
         "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 259693,
       "name": "Take My Scars",
       "url": "https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unto The Locust",
+        "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 387842,
+      "name": "Darkness Within",
+      "url": "https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unto the Locust (Special Edition)",
-        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 371480,
-      "name": "This Is the End",
-      "url": "https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq"
+      "duration_ms": 636800,
+      "name": "Clenching the Fists of Dissent",
+      "url": "https://open.spotify.com/track/7ao9MKmhkjeFxw0alndkdM"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 371480,
+      "name": "This Is the End",
+      "url": "https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Through the Ashes of Empires",
         "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 201506,
       "name": "Bite the Bullet",
       "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blackening",
-        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 636800,
-      "name": "Clenching the Fists of Dissent",
-      "url": "https://open.spotify.com/track/7ao9MKmhkjeFxw0alndkdM"
     },
     {
       "added_at": null,

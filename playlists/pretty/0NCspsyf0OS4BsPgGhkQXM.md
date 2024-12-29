@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,663 likes - 139 songs - 7 hr 16 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,573 likes - 139 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 5 | [The Machine](https://open.spotify.com/track/19ItuvrZfTudwC6S5lkDH3) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [The Machine](https://open.spotify.com/album/0cDcH04KfQpQe5cEo6agvL) | 3:12 |
 | 6 | [Everything Black](https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [Everything Black](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz) | 3:48 |
 | 7 | [We Rise](https://open.spotify.com/track/7uSZPbd8DxdkmSauCKnITY) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [We Rise](https://open.spotify.com/album/1fgSS7d1R3fin79TUkhuxW) | 4:26 |
-| 8 | [we r who we r \(glitter on my eyes\)](https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz) | [pk](https://open.spotify.com/artist/2sdEBoxNYMB610EyPA0CcS) | [we r who we r \(glitter on my eyes\)](https://open.spotify.com/album/1f8xq5C1WDAbmKVAlZCQnj) | 3:31 |
-| 9 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
+| 8 | [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 |
+| 9 | [we r who we r \(glitter on my eyes\)](https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz) | [pk](https://open.spotify.com/artist/2sdEBoxNYMB610EyPA0CcS) | [we r who we r \(glitter on my eyes\)](https://open.spotify.com/album/1f8xq5C1WDAbmKVAlZCQnj) | 3:31 |
 | 10 | [Don't Let Me Down \- Illenium Remix](https://open.spotify.com/track/15BlympuVSfZFROojEMY2M) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Don't Let Me Down \(Remixes\)](https://open.spotify.com/album/5yhNY3zM1Vx1oaL3GYTWIZ) | 3:38 |
 | 11 | [My Name](https://open.spotify.com/track/33wXe2PIOqYZ4lI0eNRTdW) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [My Name](https://open.spotify.com/album/77ykc4hJTGuICmMOjovmXt) | 3:50 |
 | 12 | [Keep It Mello \(feat\. Omar LinX\)](https://open.spotify.com/track/0Q3SC6kEhxYagDP3bFe5K9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Omar LinX](https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6) | [Joytime](https://open.spotify.com/album/6opKASPALOkPwCfHvqIS9H) | 4:03 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 138 | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y) | 4:14 |
 | 139 | [Embers](https://open.spotify.com/track/67lyxsvzzzHKSKfh0rSSMo) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 3:33 |
 
-Snapshot ID: `AAA510snq4cX/ZBLxnzs2uG+DGt6OFAv`
+Snapshot ID: `AAA52td5xhXbueC61eiECZ8I1pkXrB3K`

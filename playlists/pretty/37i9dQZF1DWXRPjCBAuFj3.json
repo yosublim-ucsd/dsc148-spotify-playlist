@@ -1,6 +1,6 @@
 {
   "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Cover: Kendrick Lamar",
-  "num_followers": 208839,
+  "num_followers": 208842,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "Tailor Swif",
-        "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 155391,
-      "name": "Tailor Swif",
-      "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "act ii: date @ 8 (feat. Drake) [remix]",
         "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
+        "name": "Tailor Swif",
+        "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 155391,
+      "name": "Tailor Swif",
+      "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
-        "name": "Noid",
-        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 284363,
-      "name": "Noid",
-      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1087,6 +1071,22 @@
       "duration_ms": 143266,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "Noid",
+        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "Moi",
-        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Moi",
-      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 158980,
       "name": "PROMOTION",
       "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "Moi",
+        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "KMT",
-        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "DIE",
-      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 179266,
       "name": "One By One",
       "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "DIE",
+      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "Ruby Rosary (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 256786,
-      "name": "Ruby Rosary (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "Active",
         "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 172597,
       "name": "Active",
       "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "Ruby Rosary (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 256786,
+      "name": "Ruby Rosary (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "De Nada",
-        "url": "https://open.spotify.com/album/2oAnbOCNanNsnm0Nft5vZf"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "De Nada",
-      "url": "https://open.spotify.com/track/30ChOVQ2BaVmEPsNxc752q"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
+        "name": "De Nada",
+        "url": "https://open.spotify.com/album/2oAnbOCNanNsnm0Nft5vZf"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "De Nada",
+      "url": "https://open.spotify.com/track/30ChOVQ2BaVmEPsNxc752q"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
         "name": "Bolide Noir",
         "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
       },
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "HIND'S HALL",
-        "url": "https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        }
-      ],
-      "duration_ms": 168941,
-      "name": "HIND'S HALL",
-      "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 160000,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "HIND'S HALL",
+        "url": "https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 168941,
+      "name": "HIND'S HALL",
+      "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1935,30 +1935,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 176034,
-      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "HVN ON EARTH",
         "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
       },
@@ -2011,6 +1987,30 @@
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 176034,
+      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
     },
     {
       "added_at": "2024-12-19 11:22:19",

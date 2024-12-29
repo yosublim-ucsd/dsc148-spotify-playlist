@@ -415,6 +415,40 @@
     },
     {
       "album": {
+        "name": "Licuado",
+        "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134583,
+      "name": "Licuado",
+      "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
+    },
+    {
+      "album": {
         "name": "Los Esquivel En Vivo Desde Cadereyta",
         "url": "https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr"
       },

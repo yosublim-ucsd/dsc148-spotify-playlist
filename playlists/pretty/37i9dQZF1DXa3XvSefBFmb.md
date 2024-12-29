@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > As melhores canções da EQUAL Portugal 2024, escolhidas pelos nossos editores\. Cover: iolanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,403 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,410 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

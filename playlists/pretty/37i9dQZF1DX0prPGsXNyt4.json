@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kekel",
-  "num_followers": 84165,
+  "num_followers": 84170,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -51,30 +51,6 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
-        "name": "Saturno",
-        "url": "https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
         "name": "\u00c9 o Trem!",
         "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
       },
@@ -95,6 +71,30 @@
       "duration_ms": 120046,
       "name": "N\u00e3o faz isso Comigo n\u00e3o",
       "url": "https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
+        "name": "Saturno",
+        "url": "https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
     },
     {
       "added_at": "2024-12-13 16:53:30",
@@ -255,6 +255,38 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
+        "name": "Google da Minha Vida",
+        "url": "https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "Google da Minha Vida",
+      "url": "https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
+        "name": "Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/43VVnPjqU6Hhsb5agEAYUB"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/59xgceM6ACWSn4vcdOzjJ0"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -279,38 +311,6 @@
       "duration_ms": 168205,
       "name": "Jogo",
       "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
-        "name": "Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/43VVnPjqU6Hhsb5agEAYUB"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/59xgceM6ACWSn4vcdOzjJ0"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
-        "name": "Google da Minha Vida",
-        "url": "https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 137872,
-      "name": "Google da Minha Vida",
-      "url": "https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4"
     },
     {
       "added_at": "2024-12-13 16:53:30",

@@ -2656,7 +2656,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223840,
-      "name": "Found me",
+      "name": "Found me - \u539f\u751f\u57fa\u56e0\u578b",
       "url": "https://open.spotify.com/track/71mf7Rd6XwQvPmmYEHVIDF"
     },
     {
@@ -14048,6 +14048,10 @@
         {
           "name": "\u76e7\u5b78\u53e1",
           "url": "https://open.spotify.com/artist/6741WxQXaxHj7uXDH7Y5IY"
+        },
+        {
+          "name": "\u5362\u5b66\u777f",
+          "url": "https://open.spotify.com/artist/3lCHec0F2lXdKNFKRFTKbX"
         }
       ],
       "date_added": "2024-12-19",

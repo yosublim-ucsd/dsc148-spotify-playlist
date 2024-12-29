@@ -1,37 +1,13 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 319861,
+  "num_followers": 319993,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAACPi1kd1OJGZRtaARoQV+zJ",
+  "snapshot_id": "Z23uAAAAAABDeG+QFHdKnm53bChW46WZ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diablos",
-        "url": "https://open.spotify.com/album/04Vo5Ym1DvutxZm8PuVj4G"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Luis Pablo Lopez",
-          "url": "https://open.spotify.com/artist/242y3NutnWpdBORlwQnbDP"
-        },
-        {
-          "name": "Mike Mejia",
-          "url": "https://open.spotify.com/artist/3kSS4tP1eMfKE1Z7MZJZYR"
-        }
-      ],
-      "duration_ms": 190092,
-      "name": "Diablos",
-      "url": "https://open.spotify.com/track/6sSXi0TxT2Mnz3IfH8ACxu"
-    },
     {
       "added_at": null,
       "album": {
@@ -183,6 +159,30 @@
       "duration_ms": 186709,
       "name": "Solo Me Dejaste",
       "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diablos",
+        "url": "https://open.spotify.com/album/04Vo5Ym1DvutxZm8PuVj4G"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis Pablo Lopez",
+          "url": "https://open.spotify.com/artist/242y3NutnWpdBORlwQnbDP"
+        },
+        {
+          "name": "Mike Mejia",
+          "url": "https://open.spotify.com/artist/3kSS4tP1eMfKE1Z7MZJZYR"
+        }
+      ],
+      "duration_ms": 190092,
+      "name": "Diablos",
+      "url": "https://open.spotify.com/track/6sSXi0TxT2Mnz3IfH8ACxu"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El Audi",
-        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "En El Audi",
-      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -779,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+        "name": "En El Audi",
+        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
       "artists": [
         {
@@ -788,13 +768,13 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 195608,
-      "name": "La Sand\u00eda",
-      "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
+      "duration_ms": 198545,
+      "name": "En El Audi",
+      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
       "duration_ms": 306538,
       "name": "Sigan Atentos",
       "url": "https://open.spotify.com/track/4BRyqWvTTL74cJSpYKBZAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 195608,
+      "name": "La Sand\u00eda",
+      "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
     },
     {
       "added_at": null,
@@ -979,22 +979,6 @@
       "duration_ms": 189754,
       "name": "El N\u00famero",
       "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 124166,
-      "name": "Intro: THE GOAT",
-      "url": "https://open.spotify.com/track/7s0YftbAtOPmkyWKjq6HA0"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,063 likes - 100 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,121 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pangarepan](https://open.spotify.com/track/3yto6d6wGziiz1f2GnkeU1) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Pangarepan](https://open.spotify.com/album/5jjN6DXX5wDtagk2Sgnohu) | 5:47 |
-| 2 | [Bojo 2](https://open.spotify.com/track/3cmdzW5tEQq9lll8qq8Dib) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53), [Agil Tina](https://open.spotify.com/artist/67Ck7HjvvGLb3LnJORxpnC) | [Bojo 2](https://open.spotify.com/album/6N29382lQlir1YF9UIAS47) | 4:38 |
+| 2 | [Bojo Loro](https://open.spotify.com/track/3cmdzW5tEQq9lll8qq8Dib) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53), [Agil Tina](https://open.spotify.com/artist/67Ck7HjvvGLb3LnJORxpnC) | [Bojo Loro](https://open.spotify.com/album/6N29382lQlir1YF9UIAS47) | 4:38 |
 | 3 | [SALAHKU](https://open.spotify.com/track/7i3W1HGWMhEJOUcLbSCasd) | [Miqbal GA](https://open.spotify.com/artist/4Fze9hgN2zqkdoLgXYIyCu), [Tadeus Lavora](https://open.spotify.com/artist/4fpDardVw4cIf577YhcYMm), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [SALAHKU](https://open.spotify.com/album/3eo9y5U0aPWmG1PYGgZz0C) | 4:56 |
 | 4 | [Ora Ngemis Bali](https://open.spotify.com/track/2COVYtcGF8dXR048GoKmFE) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ratih SDE](https://open.spotify.com/artist/3hA9id8iAytOj6P8c2F6d8) | [Ora Ngemis Bali](https://open.spotify.com/album/4G4I1f98sSWGxGabviKsQ5) | 5:32 |
 | 5 | [Segara Madu](https://open.spotify.com/track/4kMtihSvVqRhr45eK5uz39) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Segara Madu](https://open.spotify.com/album/1KljrA6Su3zWyhLPZt9byR) | 4:41 |

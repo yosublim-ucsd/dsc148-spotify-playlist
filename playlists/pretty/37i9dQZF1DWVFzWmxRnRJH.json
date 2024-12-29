@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 302067,
+  "num_followers": 302280,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 235426,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Teach Your Children",
-      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "The Boys Are Back",
         "url": "https://open.spotify.com/album/0kTRamepqCsedBSwPvaWJz"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 173280,
       "name": "The Race Is On",
       "url": "https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Teach Your Children",
+      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Major Moves",
-        "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "All My Rowdy Friends Are Coming Over Tonight",
-      "url": "https://open.spotify.com/track/7h7XMOl4r8WzehsUlHyuO1"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 200960,
       "name": "Bye-Bye",
       "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Major Moves",
+        "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "All My Rowdy Friends Are Coming Over Tonight",
+      "url": "https://open.spotify.com/track/7h7XMOl4r8WzehsUlHyuO1"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Coal Miner's Daughter",
-        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Coal Miner's Daughter - Single Version",
-      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 205733,
       "name": "Next To You, Next To Me",
       "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
     },
     {
       "added_at": "2024-06-01 02:04:50",

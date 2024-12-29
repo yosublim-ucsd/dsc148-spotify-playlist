@@ -42,7 +42,7 @@
 | [Mónica](https://open.spotify.com/track/1eU86kHbVXWop774OQRKfi) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs) | 4:51 | 2023-08-23 |  |
 | [Nena Rescátame](https://open.spotify.com/track/2tbmgpfmLQCC9EP1ec9wel) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 2:45 | 2023-08-23 |  |
 | [No Es Tan Fácil](https://open.spotify.com/track/6P1Fsr66GfD5IAsKd2mDJt) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a) | 3:11 | 2023-08-23 |  |
-| [No Hay Ley](https://open.spotify.com/track/2y4u8ZEXHE0kn3KCcNPEsA) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 3:23 | 2023-08-23 | 2024-12-28 |
+| [No Hay Ley](https://open.spotify.com/track/2y4u8ZEXHE0kn3KCcNPEsA) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 3:23 | 2023-08-23 |  |
 | [No Me Cabe Duda](https://open.spotify.com/track/6yMRSurr1MAlIhGhEPYFTv) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs) | 3:34 | 2023-08-23 |  |
 | [No Puedes Olvidarme](https://open.spotify.com/track/1CaSi8VaKW1Icp7TzIbueM) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS) | 2:34 | 2023-08-23 |  |
 | [No Quiero Verte Más](https://open.spotify.com/track/7siVuRZAlqTw0qG1cyN2tG) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl) | 4:20 | 2023-08-23 |  |
@@ -67,6 +67,6 @@
 | [Vacío](https://open.spotify.com/track/2uoOUpIOBMnBxtaJGQIDZg) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug) | 3:10 | 2023-08-23 |  |
 | [Ventana](https://open.spotify.com/track/3zcXkcT0sDOn67WpJV9QsR) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS) | 3:38 | 2023-08-23 |  |
 | [Y Lloro](https://open.spotify.com/track/1SZ405ZIT4oblNyiKrA3VP) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug) | 3:44 | 2023-08-23 |  |
-| [¡Vamos a Volver!](https://open.spotify.com/track/0BTZkWXBFc6UyW5DeDnvjj) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/1HGzNIjYoZvUi3XjlkW3sV) | 2:59 | 2023-08-23 |  |
+| [¡Vamos a Volver!](https://open.spotify.com/track/0BTZkWXBFc6UyW5DeDnvjj) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/1HGzNIjYoZvUi3XjlkW3sV) | 2:59 | 2023-08-23 | 2024-12-29 |
 
 \*This playlist was first scraped on 2023-08-24. Prior content cannot be recovered.

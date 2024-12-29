@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Se Termin\u00f3",
+        "url": "https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "Se Termin\u00f3",
+      "url": "https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR"
+    },
+    {
+      "album": {
         "name": "Serendipia",
         "url": "https://open.spotify.com/album/5otbd1pbveK9HktRULJnis"
       },

@@ -11628,7 +11628,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 195293,
       "name": "Deportivo",
       "url": "https://open.spotify.com/track/5uYAJlNp8ZmGPdkrhMwmLM"
@@ -16583,6 +16583,24 @@
     },
     {
       "album": {
+        "name": "El Tigre Sabanero",
+        "url": "https://open.spotify.com/album/13VraXPSoOwY6aHom9pe6Z"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214896,
+      "name": "Fiesta Cumbiambera",
+      "url": "https://open.spotify.com/track/4qAsi5lsY60Sw3VFjGIkz9"
+    },
+    {
+      "album": {
         "name": "Fiesta en el desierto (la la la)",
         "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
       },
@@ -21214,7 +21232,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -21894,7 +21912,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 196603,
       "name": "Joven De La Sierra",
       "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
@@ -24440,6 +24458,24 @@
       "duration_ms": 187358,
       "name": "Lejos de la Ciudad - con Camilo",
       "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+    },
+    {
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI"
     },
     {
       "album": {
@@ -37716,7 +37752,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 179093,
       "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
       "url": "https://open.spotify.com/track/163giDjTwAwnIb9ME3zZl4"
@@ -46756,7 +46792,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 190337,
       "name": "Tu para Mi",
       "url": "https://open.spotify.com/track/2ieGF9be4S5JGwHfnnTCPY"
@@ -47236,7 +47272,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 289131,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"

@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 178857,
+  "num_followers": 178899,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "\u00dcbermorgen",
+        "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
+      },
+      "artists": [
+        {
+          "name": "Mark Forster",
+          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
+        }
+      ],
+      "duration_ms": 163275,
+      "name": "\u00dcbermorgen",
+      "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "UDOPIUM - Das Beste (Special Edition)",
         "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 204291,
       "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
       "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "\u00dcbermorgen",
-        "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
-      },
-      "artists": [
-        {
-          "name": "Mark Forster",
-          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
-        }
-      ],
-      "duration_ms": 163275,
-      "name": "\u00dcbermorgen",
-      "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
-      },
-      "artists": [
-        {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
-        },
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        }
-      ],
-      "duration_ms": 207501,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Halleluja (Remastered)",
         "url": "https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48"
       },
@@ -783,6 +763,26 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
+      },
+      "artists": [
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        },
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "duration_ms": 207501,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Du Fehlst",
         "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Das gr\u00f6\u00dfte Kompliment",
-        "url": "https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "duration_ms": 148248,
-      "name": "Das gr\u00f6\u00dfte Kompliment",
-      "url": "https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 254080,
       "name": "Liebes Lied",
       "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Das gr\u00f6\u00dfte Kompliment",
+        "url": "https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 148248,
+      "name": "Das gr\u00f6\u00dfte Kompliment",
+      "url": "https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9"
     },
     {
       "added_at": "2024-11-09 06:24:53",

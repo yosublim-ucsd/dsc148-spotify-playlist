@@ -819,6 +819,22 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
+        "name": "HOW YOU FEEL?",
+        "url": "https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW"
+      },
+      "artists": [
+        {
+          "name": "cott (\ucf67)",
+          "url": "https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs"
+        }
+      ],
+      "duration_ms": 164575,
+      "name": "HOW YOU FEEL?",
+      "url": "https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
         "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
         "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 209240,
       "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
-        "name": "HOW YOU FEEL?",
-        "url": "https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW"
-      },
-      "artists": [
-        {
-          "name": "cott (\ucf67)",
-          "url": "https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs"
-        }
-      ],
-      "duration_ms": 164575,
-      "name": "HOW YOU FEEL?",
-      "url": "https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o"
     },
     {
       "added_at": "2024-08-09 09:24:09",

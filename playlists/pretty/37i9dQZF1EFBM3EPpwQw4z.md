@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 96 | [Toothbrush Time](https://open.spotify.com/track/74PbbRXfYrw2FpIar3v8p3) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:48 |
 | 97 | [Abajo Road](https://open.spotify.com/track/2Xh3xEyPRXFXcprbUsE2Ex) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:18 |
 | 98 | [Straight Hair Curly Hair](https://open.spotify.com/track/0Bx5ia4iDyFtp4nGaG2rXJ) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:23 |
-| 99 | [Roll With It](https://open.spotify.com/track/08BK7wNuAYHsyX1niooAF8) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Revolution](https://open.spotify.com/album/1YMdBR2ZOZKHOkp1CoivzD) | 3:01 |
-| 100 | [Closer](https://open.spotify.com/track/7yO6s90XJGvMTpb2ZIPp1N) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Closer](https://open.spotify.com/album/7gFbABIINSSKKftlkOR1bf) | 4:19 |
+| 99 | [Closer](https://open.spotify.com/track/7yO6s90XJGvMTpb2ZIPp1N) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Closer](https://open.spotify.com/album/7gFbABIINSSKKftlkOR1bf) | 4:19 |
+| 100 | [Roll With It](https://open.spotify.com/track/08BK7wNuAYHsyX1niooAF8) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Revolution](https://open.spotify.com/album/1YMdBR2ZOZKHOkp1CoivzD) | 3:01 |
 | 101 | [Medicine](https://open.spotify.com/track/6X7yev8AOYCxhRIWXSLjS4) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Medicine](https://open.spotify.com/album/0Kfkm4MFAZhMKjveL3wXDK) | 3:02 |
 | 102 | [Lately](https://open.spotify.com/track/1Z6RuYFWKqNaEKUrkgVJHT) | [WZA](https://open.spotify.com/artist/2TqOxk4tzOGX9ns3feBXU7), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Lately](https://open.spotify.com/album/2eO58FVIBNoEjGgJ6OrjFU) | 3:16 |
 | 103 | [Jungle Gym](https://open.spotify.com/track/239JsGOqqmnTnvi0m8z95r) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:41 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 124 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
 | 125 | [Find A Way](https://open.spotify.com/track/09ByoZ1zkCc9AGP3teaEoo) | [Tella Bandz](https://open.spotify.com/artist/7pzc8WQrOwyz1aU1A7VLXR), [Mykal Ren](https://open.spotify.com/artist/4WS16pmkuXtDE0D3sqGEK5), [Big Walt](https://open.spotify.com/artist/4QfIdKIrWkKYQv0m52rsYd), [Anna Dee](https://open.spotify.com/artist/2fnLbwPHW4uCvaFeWhU4Bo) | [Bandz On TheBeat \(PartOne\)](https://open.spotify.com/album/21IrvciCKnhlo5C0Jp868R) | 4:03 |
 
-Snapshot ID: `AblSrAAAAADfU/kDdxQqKiEcJISVcjZ2`
+Snapshot ID: `AblYfgAAAABVtsdchQ/eHntmiYPpbcx7`

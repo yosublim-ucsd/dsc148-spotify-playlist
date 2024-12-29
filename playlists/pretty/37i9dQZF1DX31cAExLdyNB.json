@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 70805,
+  "num_followers": 70847,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -159,42 +159,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "405 - Metronomy x Biig Piig",
-        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 265505,
-      "name": "405 - Metronomy x Biig Piig",
-      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -215,6 +179,42 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "405 - Metronomy x Biig Piig",
+        "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 265505,
+      "name": "405 - Metronomy x Biig Piig",
+      "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -691,8 +691,8 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Viento",
-        "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
         }
       ],
-      "duration_ms": 168613,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
+      "duration_ms": 198880,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -807,8 +807,8 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8"
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
         }
       ],
-      "duration_ms": 198880,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i"
+      "duration_ms": 168613,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
     },
     {
       "added_at": "2024-06-28 21:13:36",

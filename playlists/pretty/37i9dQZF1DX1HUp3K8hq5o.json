@@ -1,6 +1,6 @@
 {
   "description": "Big rock tracks from 2017. Cover: Imagine Dragons",
-  "num_followers": 66370,
+  "num_followers": 66403,
   "original_name": "Best of Rock: 2017",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "For Crying Out Loud (Deluxe)",
-        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "You're in Love with a Psycho",
-      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
         "name": "The Attractions Of Youth",
         "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 168853,
       "name": "Hellfire",
       "url": "https://open.spotify.com/track/00RI7b6oZDjx6IQC2eH6bh"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
+        "name": "For Crying Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "You're in Love with a Psycho",
+      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -527,6 +527,22 @@
       "duration_ms": 261372,
       "name": "One Foot",
       "url": "https://open.spotify.com/track/0iQ77tSa7ncj7zBPtVx6cU"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Kicks",
+      "url": "https://open.spotify.com/track/274tSPavv09i163nBnYrCU"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -604,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 195173,
-      "name": "Kicks",
-      "url": "https://open.spotify.com/track/274tSPavv09i163nBnYrCU"
+      "duration_ms": 190360,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -675,18 +691,18 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
       },
       "artists": [
         {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv"
+      "duration_ms": 228720,
+      "name": "The Violence",
+      "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -703,22 +719,6 @@
       "duration_ms": 226587,
       "name": "&Run",
       "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "The Violence",
-      "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
     },
     {
       "added_at": "2022-12-29 20:46:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Valeria Lynch en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,585 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,596 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 28 | [Y Qué Más](https://open.spotify.com/track/5AUAwAIe2eoZfHsfUrmQqQ) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Y Qué Más](https://open.spotify.com/album/0iq7409w2SDI4sbHa7Sn9q) | 3:40 |
 | 29 | [Con las Alas del Alma](https://open.spotify.com/track/4nhUFP07qW1F9vRj7P27wC) | [Julia Zenko](https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP) | [Así Va la Vida](https://open.spotify.com/album/5MCASHhLENAnfsv0FlWFux) | 5:12 |
 | 30 | [Honrar La Vida](https://open.spotify.com/track/7weF1x9KRb9qX0QQvAIGtE) | [Eladia Blázquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Serie De Oro](https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi) | 2:56 |
-| 31 | [Déjate Querer](https://open.spotify.com/track/6Vf2r5R4mT0r96lUhY4cZX) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD) | [Déjate Querer](https://open.spotify.com/album/6TeJ81LaIGx9AciXOBHX6d) | 4:06 |
-| 32 | [Amiga](https://open.spotify.com/track/780CvxO4voF82hZKdWXKZa) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Cariño y ternura](https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa) | 2:37 |
+| 31 | [Amiga](https://open.spotify.com/track/780CvxO4voF82hZKdWXKZa) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Cariño y ternura](https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa) | 2:37 |
+| 32 | [Déjate Querer](https://open.spotify.com/track/6Vf2r5R4mT0r96lUhY4cZX) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD) | [Déjate Querer](https://open.spotify.com/album/6TeJ81LaIGx9AciXOBHX6d) | 4:06 |
 | 33 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
 | 34 | [Azúcar del Estero](https://open.spotify.com/track/6KVOOiZ0QWZiYbwHVzncru) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:29 |
 | 35 | [Caserón De Tejas](https://open.spotify.com/track/6296wbH11ICNfzVfApZoEC) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG) | [Nivel Internacional](https://open.spotify.com/album/0KUI6V7xOWBR44owqIXC1o) | 2:54 |
-| 36 | [Cuenta Conmigo](https://open.spotify.com/track/472pTs7hDhDWzZ9qxG3rqa) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [A Chico Novarro, Conmigo](https://open.spotify.com/album/4tL671BY55i9DQLPWHSn6Z) | 2:59 |
-| 37 | [La Flor del Jazmín](https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Abrazo](https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ) | 2:46 |
+| 36 | [La Flor del Jazmín](https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Abrazo](https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ) | 2:46 |
+| 37 | [Cuenta Conmigo](https://open.spotify.com/track/472pTs7hDhDWzZ9qxG3rqa) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [A Chico Novarro, Conmigo](https://open.spotify.com/album/4tL671BY55i9DQLPWHSn6Z) | 2:59 |
 | 38 | [El Surco](https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Las Flores Buenas](https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q) | 3:04 |
 | 39 | [Sol y Tierra](https://open.spotify.com/track/5PDckWEqyCxC1E0Wl5Lmc6) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Sue](https://open.spotify.com/album/4bDC7q9gIVO0iodIjnThkT) | 3:53 |
 | 40 | [Adios Nonino](https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo) | [Eladia Blázquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Serie De Oro](https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi) | 4:46 |
-| 41 | [Se Dice de Mi](https://open.spotify.com/track/4XYqgPfv3169DGLnkM9aKH) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Morir de Amor](https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo) | 2:27 |
-| 42 | [Odio despertar](https://open.spotify.com/track/1OSDzIcMo3zvVnp90GzHJn) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Cariño y ternura](https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa) | 4:27 |
+| 41 | [Odio despertar](https://open.spotify.com/track/1OSDzIcMo3zvVnp90GzHJn) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Cariño y ternura](https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa) | 4:27 |
+| 42 | [Se Dice de Mi](https://open.spotify.com/track/4XYqgPfv3169DGLnkM9aKH) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Morir de Amor](https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo) | 2:27 |
 | 43 | [Alfonsina y el Mar](https://open.spotify.com/track/6leMNz3SPymTNACEFogR6x) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Julia Zenko](https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP), [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx), [Dulce Pontes](https://open.spotify.com/artist/3d5RmASP3q3rt8izEWDt8w) | [Mercedes Florecida](https://open.spotify.com/album/6TNLGCfPxkO3FEoZsoO2sm) | 5:54 |
 | 44 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
 | 45 | [Quisiera Que Salga un Tigre](https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Canciones Brotadas de Mi Raíz](https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL) | 2:51 |

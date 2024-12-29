@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 161140,
+  "num_followers": 161144,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAACaFTNkJ9zLOyCOPOao9tb0",
+  "snapshot_id": "Z23uAAAAAADIHQdPiQMuIkgEHOOekkX1",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+      "duration_ms": 209666,
+      "name": "Deus do Imposs\u00edvel",
+      "url": "https://open.spotify.com/track/7MVRoaHJX8xOo8Rt4vwcRB"
     },
     {
       "added_at": null,
@@ -279,22 +275,6 @@
       "duration_ms": 283653,
       "name": "Renova-Me - Ao Vivo",
       "url": "https://open.spotify.com/track/5fytDMLCSDAxEyITCy2YZR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "Deus do Imposs\u00edvel",
-      "url": "https://open.spotify.com/track/7MVRoaHJX8xOo8Rt4vwcRB"
     },
     {
       "added_at": null,
@@ -319,6 +299,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reino",
         "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Poder do Teu Amor",
-        "url": "https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Ao \u00danico",
-      "url": "https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adorai (Os Melhores Momentos)",
         "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 286373,
       "name": "Bem Mais Que Tudo",
       "url": "https://open.spotify.com/track/6MeYawJ2Iaapjfq3Ncxkz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Poder do Teu Amor",
+        "url": "https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Ao \u00danico",
+      "url": "https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 307250,
+      "name": "Refinador (Refiner)",
+      "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aline Barros e Cia",
         "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 202106,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 307250,
-      "name": "Refinador (Refiner)",
-      "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "Sem Limites",
+      "url": "https://open.spotify.com/track/0ipoF7Fraw4gW6QQf2bZcs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Som de Adoradores",
         "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 167137,
       "name": "Homenzinho Torto",
       "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "Sem Limites",
-      "url": "https://open.spotify.com/track/0ipoF7Fraw4gW6QQf2bZcs"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som de Adoradores",
-        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 368454,
-      "name": "Bem-Aventurado (Blessed)",
-      "url": "https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 250682,
       "name": "Lugar Seguro",
       "url": "https://open.spotify.com/track/37BbleCLexY8yNcN3SpVSF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Som de Adoradores",
+        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 368454,
+      "name": "Bem-Aventurado (Blessed)",
+      "url": "https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo"
     },
     {
       "added_at": null,

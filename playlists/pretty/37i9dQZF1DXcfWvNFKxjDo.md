@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Klaas, Neptunica
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,111 likes - 79 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,172 likes - 79 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

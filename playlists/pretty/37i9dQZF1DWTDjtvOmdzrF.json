@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 557157,
+  "num_followers": 557145,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-12-09 08:16:48",
       "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 240882,
-      "name": "Resah",
-      "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
-    },
-    {
-      "added_at": "2024-12-09 08:16:48",
-      "album": {
         "name": "Hari Baru",
         "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 268866,
       "name": "Dekat Di Hati",
       "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+    },
+    {
+      "added_at": "2024-12-09 08:16:48",
+      "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 240882,
+      "name": "Resah",
+      "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
     },
     {
       "added_at": "2024-12-09 08:16:48",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-12-09 08:16:48",
       "album": {
-        "name": "Ruang Tunggu",
-        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 329865,
-      "name": "Di Atas Meja",
-      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
-    },
-    {
-      "added_at": "2024-12-09 08:16:48",
-      "album": {
         "name": "8 Tahun",
         "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 287453,
       "name": "Sesuatu Di Jogja",
       "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
+    },
+    {
+      "added_at": "2024-12-09 08:16:48",
+      "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 393072,
+      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
     },
     {
       "added_at": "2024-12-09 08:16:48",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-12-09 08:16:48",
       "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+        "name": "Ruang Tunggu",
+        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
       },
       "artists": [
         {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 393072,
-      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
+      "duration_ms": 329865,
+      "name": "Di Atas Meja",
+      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
     },
     {
       "added_at": "2024-12-09 08:16:48",

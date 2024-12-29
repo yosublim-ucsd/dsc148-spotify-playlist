@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 like - 603 songs - 1 day 6 hr 36 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 like - 613 songs - 1 day 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -611,5 +611,15 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 601 | [RUPEES](https://open.spotify.com/track/0j9oiXBhKY3UkXdtV3U6Oj) | [SAIGA12](https://open.spotify.com/artist/0F49Yj7KAapV4PV8rZtVbl), [BlUE SKUll](https://open.spotify.com/artist/6qwccsxQTHlg5hD7R1kQoY) | [SKINNY DIPPIN AT THA MOTEL 6](https://open.spotify.com/album/3QHyPYp0SBoEsUUqtsWfKj) | 2:37 |
 | 602 | [2319](https://open.spotify.com/track/4gzfkilB3jDuOwWlUghq6x) | [SAIGA12](https://open.spotify.com/artist/0F49Yj7KAapV4PV8rZtVbl), [BlUE SKUll](https://open.spotify.com/artist/6qwccsxQTHlg5hD7R1kQoY) | [SKINNY DIPPIN AT THA MOTEL 6](https://open.spotify.com/album/3QHyPYp0SBoEsUUqtsWfKj) | 2:20 |
 | 603 | [FROSTYTHESNOWBITCH \- Joshua Lanuarii Remix](https://open.spotify.com/track/3WJzEtDS5yqvS28LKCQVDs) | [SAIGA12](https://open.spotify.com/artist/0F49Yj7KAapV4PV8rZtVbl), [BlUE SKUll](https://open.spotify.com/artist/6qwccsxQTHlg5hD7R1kQoY), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [SKINNY DIPPIN AT THA MOTEL 6](https://open.spotify.com/album/3QHyPYp0SBoEsUUqtsWfKj) | 3:40 |
+| 604 | [Worker Seeks Security](https://open.spotify.com/track/7FzjxVFNj1DFACbKNBfMd1) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Worker Seeks Security](https://open.spotify.com/album/759hFGXOgWxpcxpnltwGCM) | 7:26 |
+| 605 | [The Beginning](https://open.spotify.com/track/6TkHfuyPBV4mQmp42kjunn) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 3:45 |
+| 606 | [Timeless Original](https://open.spotify.com/track/35IudRKovK0NhTPKV2zrxs) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 4:11 |
+| 607 | [Opportunites](https://open.spotify.com/track/11Hc1IDnXMPGruRoiaYpn1) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 4:06 |
+| 608 | [Timeless V2](https://open.spotify.com/track/0yCXIZqay4NfiyrmSKeSfa) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 4:11 |
+| 609 | [Lost \(Rejected FNAF 6 Song\)](https://open.spotify.com/track/36DcKGlvU8VA36iGOfiHjM) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 5:07 |
+| 610 | [Pure Ease](https://open.spotify.com/track/008jPeVblCyoy7kVr2nUM2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 2:28 |
+| 611 | [Euphoria](https://open.spotify.com/track/0zVXBTsal8paC6ziqpLlp8) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 3:16 |
+| 612 | [\[Bonus\] Beat I Made in School](https://open.spotify.com/track/6ZelFWdwyGBc4TC8ylCkkf) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 3:16 |
+| 613 | [Evolution](https://open.spotify.com/track/0ODdK5xGQqUpU3gDoagBFk) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Evolution](https://open.spotify.com/album/2IANCg2U3yAsQL1PbzWnXz) | 2:12 |
 
-Snapshot ID: `AAABedGcIqzdcTUWO3EhHQhkThNZRPMY`
+Snapshot ID: `AAABfKSFTSl5Lx8oRvXGw52fptPEGBjj`

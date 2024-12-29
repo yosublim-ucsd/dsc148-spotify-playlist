@@ -1,6 +1,6 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 95300,
+  "num_followers": 95320,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "adjustment",
-        "url": "https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz"
-      },
-      "artists": [
-        {
-          "name": "Ryder 003",
-          "url": "https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "adjustment",
-      "url": "https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Under the Moon",
         "url": "https://open.spotify.com/album/1FIsq8iNelMqHuXctToihT"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 126000,
       "name": "Under the Moon",
       "url": "https://open.spotify.com/track/2f1ksx2y6I207HVlilYBBZ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "adjustment",
+        "url": "https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz"
+      },
+      "artists": [
+        {
+          "name": "Ryder 003",
+          "url": "https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "adjustment",
+      "url": "https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "swell",
+        "url": "https://open.spotify.com/album/7jMae8djh5QVwubpedOIjo"
+      },
+      "artists": [
+        {
+          "name": "jpegdonn",
+          "url": "https://open.spotify.com/artist/1CiD9BpiNWQ6XzwQ1z2LLw"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "swell",
+      "url": "https://open.spotify.com/track/2Is19Hcy0tSoCUNCJSdRRE"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "rem junction",
         "url": "https://open.spotify.com/album/4shkxp3tX0u92EFMnjDGpp"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 141918,
       "name": "Drowsy Delight",
       "url": "https://open.spotify.com/track/7BxIPN6c4yp0aM9BPGDwsq"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "swell",
-        "url": "https://open.spotify.com/album/7jMae8djh5QVwubpedOIjo"
-      },
-      "artists": [
-        {
-          "name": "jpegdonn",
-          "url": "https://open.spotify.com/artist/1CiD9BpiNWQ6XzwQ1z2LLw"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "swell",
-      "url": "https://open.spotify.com/track/2Is19Hcy0tSoCUNCJSdRRE"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Heroic",
-        "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
+        "name": "typewriter",
+        "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
       },
       "artists": [
         {
-          "name": "rwethree",
-          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
+          "name": "shawn pink",
+          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
         }
       ],
-      "duration_ms": 132236,
-      "name": "Heroic",
-      "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
+      "duration_ms": 123500,
+      "name": "typewriter",
+      "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "typewriter",
-        "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
+        "name": "Heroic",
+        "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
       },
       "artists": [
         {
-          "name": "shawn pink",
-          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
+          "name": "rwethree",
+          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
         }
       ],
-      "duration_ms": 123500,
-      "name": "typewriter",
-      "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
+      "duration_ms": 132236,
+      "name": "Heroic",
+      "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "gradual",
+        "url": "https://open.spotify.com/album/22KxorNZHmgpoS6XOBgme2"
+      },
+      "artists": [
+        {
+          "name": "Sleepr Cell",
+          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "gradual",
+      "url": "https://open.spotify.com/track/2BsIIaj2hJ7rw8yFWMiL0A"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "blue bird",
         "url": "https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "gradual",
-        "url": "https://open.spotify.com/album/22KxorNZHmgpoS6XOBgme2"
-      },
-      "artists": [
-        {
-          "name": "Sleepr Cell",
-          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "gradual",
-      "url": "https://open.spotify.com/track/2BsIIaj2hJ7rw8yFWMiL0A"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "melatones",
         "url": "https://open.spotify.com/album/0QsPZmEl9Gcrupo5kwMjKp"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Will-O-Wisp",
-        "url": "https://open.spotify.com/album/55AtXtIgnt45wGa2122dbA"
-      },
-      "artists": [
-        {
-          "name": "Kuma",
-          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
-        }
-      ],
-      "duration_ms": 154772,
-      "name": "Will-O-Wisp",
-      "url": "https://open.spotify.com/track/5lxlQXt8CadUQR4ARnSLep"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "cabin in the woods",
         "url": "https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 122740,
       "name": "cabin in the woods",
       "url": "https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Will-O-Wisp",
+        "url": "https://open.spotify.com/album/55AtXtIgnt45wGa2122dbA"
+      },
+      "artists": [
+        {
+          "name": "Kuma",
+          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
+        }
+      ],
+      "duration_ms": 154772,
+      "name": "Will-O-Wisp",
+      "url": "https://open.spotify.com/track/5lxlQXt8CadUQR4ARnSLep"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "duplicated",
+        "url": "https://open.spotify.com/album/1M1MJjpxKpr3xC9fCbOATA"
+      },
+      "artists": [
+        {
+          "name": "gamuri shun",
+          "url": "https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "duplicated",
+      "url": "https://open.spotify.com/track/58AWkT7R6szgzK9nin9oUv"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "questa terra",
         "url": "https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 147230,
       "name": "questa terra",
       "url": "https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "duplicated",
-        "url": "https://open.spotify.com/album/1M1MJjpxKpr3xC9fCbOATA"
-      },
-      "artists": [
-        {
-          "name": "gamuri shun",
-          "url": "https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N"
-        }
-      ],
-      "duration_ms": 135093,
-      "name": "duplicated",
-      "url": "https://open.spotify.com/track/58AWkT7R6szgzK9nin9oUv"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Through the Portal",
-        "url": "https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F"
-      },
-      "artists": [
-        {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
-        }
-      ],
-      "duration_ms": 115233,
-      "name": "Through the Portal",
-      "url": "https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "slow move",
         "url": "https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 142081,
       "name": "slow move",
       "url": "https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Through the Portal",
+        "url": "https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "duration_ms": 115233,
+      "name": "Through the Portal",
+      "url": "https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "bedtime routine",
-        "url": "https://open.spotify.com/album/42uT33NjFrZrbqketUVeae"
-      },
-      "artists": [
-        {
-          "name": "henry loops",
-          "url": "https://open.spotify.com/artist/15pHVeLU2nmaUkhMoremIO"
-        }
-      ],
-      "duration_ms": 139598,
-      "name": "bedtime routine",
-      "url": "https://open.spotify.com/track/1cQviOhLzFFBY9ETXqlYZN"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "infinity",
         "url": "https://open.spotify.com/album/5zm0jfovige3nobvXRGuAg"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 145499,
       "name": "infinity",
       "url": "https://open.spotify.com/track/7psacqXXypqDByQk9iLD0J"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "bedtime routine",
+        "url": "https://open.spotify.com/album/42uT33NjFrZrbqketUVeae"
+      },
+      "artists": [
+        {
+          "name": "henry loops",
+          "url": "https://open.spotify.com/artist/15pHVeLU2nmaUkhMoremIO"
+        }
+      ],
+      "duration_ms": 139598,
+      "name": "bedtime routine",
+      "url": "https://open.spotify.com/track/1cQviOhLzFFBY9ETXqlYZN"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/5IRa5BvZPCPnWwjzj3KfOe"
+      },
+      "artists": [
+        {
+          "name": "SLOWIFI",
+          "url": "https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm"
+        }
+      ],
+      "duration_ms": 158719,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2udu8PBjGpmWh8iHYcKYQh"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "polaris",
         "url": "https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 120374,
       "name": "polaris",
       "url": "https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/5IRa5BvZPCPnWwjzj3KfOe"
-      },
-      "artists": [
-        {
-          "name": "SLOWIFI",
-          "url": "https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm"
-        }
-      ],
-      "duration_ms": 158719,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/2udu8PBjGpmWh8iHYcKYQh"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "roadtrip",
-        "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
-      },
-      "artists": [
-        {
-          "name": "Trixie Muff",
-          "url": "https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "roadtrip",
-      "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "The City Weeps",
         "url": "https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 149119,
       "name": "Warm Weather",
       "url": "https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "roadtrip",
+        "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
+      },
+      "artists": [
+        {
+          "name": "Trixie Muff",
+          "url": "https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "roadtrip",
+      "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "LEVITATE",
-        "url": "https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk"
-      },
-      "artists": [
-        {
-          "name": "Mel Atonin",
-          "url": "https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "LEVITATE",
-      "url": "https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "PWR nApp",
         "url": "https://open.spotify.com/album/1zR6taWfZRZ05iY68d1pJf"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/2qBou21EABjntC15p7h3cz"
+        "name": "LEVITATE",
+        "url": "https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk"
       },
       "artists": [
         {
-          "name": "Soib\u00fa",
-          "url": "https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI"
+          "name": "Mel Atonin",
+          "url": "https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g"
         }
       ],
-      "duration_ms": 143339,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3"
+      "duration_ms": 139591,
+      "name": "LEVITATE",
+      "url": "https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 192727,
       "name": "keep it rollin'",
       "url": "https://open.spotify.com/track/3P1JkE4mXTXZyua1mIKBWf"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2qBou21EABjntC15p7h3cz"
+      },
+      "artists": [
+        {
+          "name": "Soib\u00fa",
+          "url": "https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI"
+        }
+      ],
+      "duration_ms": 143339,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "the eagle",
-        "url": "https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd"
-      },
-      "artists": [
-        {
-          "name": "karlaplan.",
-          "url": "https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "the eagle",
-      "url": "https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "falling behind",
         "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 137812,
       "name": "falling behind",
       "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "the eagle",
+        "url": "https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd"
+      },
+      "artists": [
+        {
+          "name": "karlaplan.",
+          "url": "https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "the eagle",
+      "url": "https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2403,6 +2403,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Pixels",
+        "url": "https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Park",
+          "url": "https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Pixels",
+      "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "walk in the park",
         "url": "https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ"
       },
@@ -2431,26 +2451,6 @@
       "duration_ms": 106727,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/5m0yoVmVM1RbqhDHOmtYFc"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Pixels",
-        "url": "https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb"
-      },
-      "artists": [
-        {
-          "name": "Anatomy Park",
-          "url": "https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN"
-        },
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Pixels",
-      "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"
     }
   ],
   "unique_name": "lofi cool down",

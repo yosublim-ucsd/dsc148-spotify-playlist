@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 24623,
+  "num_followers": 24782,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/5lnCypJsQ39undAOrvqLNP"
     },
     {
-      "added_at": "2024-12-04 13:59:39",
-      "album": {
-        "name": "Machines",
-        "url": "https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 246798,
-      "name": "Machines",
-      "url": "https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "ghost",
@@ -631,6 +615,22 @@
       "duration_ms": 213904,
       "name": "Van Goes",
       "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+    },
+    {
+      "added_at": "2024-12-04 13:59:39",
+      "album": {
+        "name": "Machines",
+        "url": "https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 246798,
+      "name": "Machines",
+      "url": "https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "There Goes The Neighbourhood",
-        "url": "https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/3iiyx5CpyeeUmouLCMEf1w"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Counting Sheep",
         "url": "https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC"
       },
@@ -767,18 +751,34 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Suck The Cherry",
-        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
+        "name": "There Goes The Neighbourhood",
+        "url": "https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb"
       },
       "artists": [
         {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
         }
       ],
-      "duration_ms": 183246,
-      "name": "Suck The Cherry",
-      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
+      "duration_ms": 219720,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3iiyx5CpyeeUmouLCMEf1w"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ATTENTION",
+        "url": "https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 178770,
+      "name": "ATTENTION",
+      "url": "https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ATTENTION",
-        "url": "https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM"
+        "name": "Suck The Cherry",
+        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
       },
       "artists": [
         {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
         }
       ],
-      "duration_ms": 178770,
-      "name": "ATTENTION",
-      "url": "https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj"
+      "duration_ms": 183246,
+      "name": "Suck The Cherry",
+      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o"
+      },
+      "artists": [
+        {
+          "name": "Witch Post",
+          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+        }
+      ],
+      "duration_ms": 168551,
+      "name": "Chill Out",
+      "url": "https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "lightweight",
         "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 195303,
       "name": "Dull (feat. Softcult)",
       "url": "https://open.spotify.com/track/62zUR9KtxLb9h0ytBPjZWG"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o"
-      },
-      "artists": [
-        {
-          "name": "Witch Post",
-          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
-        }
-      ],
-      "duration_ms": 168551,
-      "name": "Chill Out",
-      "url": "https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Under The Skin",
-        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Under The Skin",
-      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Brighter Lights",
         "url": "https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 229920,
       "name": "Brighter Lights",
       "url": "https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Under The Skin",
+        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Under The Skin",
+      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Jacked",
-        "url": "https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn"
-      },
-      "artists": [
-        {
-          "name": "Heartworms",
-          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
-        }
-      ],
-      "duration_ms": 267504,
-      "name": "Jacked",
-      "url": "https://open.spotify.com/track/7KciyHD7RzGnihFZVwHjmc"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Unbelonging",
         "url": "https://open.spotify.com/album/2BFkJStiIJzPeDGLpQ5CYU"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 210711,
       "name": "Unbelonging",
       "url": "https://open.spotify.com/track/39Lwc0RPO0H9Mx5gAQAsD3"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Jacked",
+        "url": "https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn"
+      },
+      "artists": [
+        {
+          "name": "Heartworms",
+          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
+        }
+      ],
+      "duration_ms": 267504,
+      "name": "Jacked",
+      "url": "https://open.spotify.com/track/7KciyHD7RzGnihFZVwHjmc"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Power Trip",
-        "url": "https://open.spotify.com/album/37OnzPfxo28Jfcgd9hVdan"
-      },
-      "artists": [
-        {
-          "name": "LEAP",
-          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
-        }
-      ],
-      "duration_ms": 195595,
-      "name": "Power Trip",
-      "url": "https://open.spotify.com/track/4YKtcfUPgEU7TEIA9HqrCo"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Dulling The Horns",
         "url": "https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 223146,
       "name": "Sprinter Brain",
       "url": "https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Power Trip",
+        "url": "https://open.spotify.com/album/37OnzPfxo28Jfcgd9hVdan"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "duration_ms": 195595,
+      "name": "Power Trip",
+      "url": "https://open.spotify.com/track/4YKtcfUPgEU7TEIA9HqrCo"
     }
   ],
   "unique_name": "2024 Rock songs you may have missed",

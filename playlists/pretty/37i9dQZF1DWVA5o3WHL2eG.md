@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlighting the best of EQUAL GSA 2024\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,529 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,538 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,20 +40,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [run away girl](https://open.spotify.com/track/40u9iNseTtvSRyex9Ahifo) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron II](https://open.spotify.com/album/1A2gkTi9kGet1na5o3IWTZ) | 3:50 |
 | 31 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 |
 | 32 | [Lesbisch](https://open.spotify.com/track/0D06S3nyednNqqrh2eclGB) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [FC Chaya](https://open.spotify.com/album/6YjjxfyfqL874e6tKJoT0L) | 3:23 |
-| 33 | [Chaos im Kopf](https://open.spotify.com/track/1uv4wwbrfidYZxAr3tWuNL) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Chaos im Kopf](https://open.spotify.com/album/3ChVHWhOm3QGmYXGxNWZiO) | 2:05 |
-| 34 | [Schweinegeld](https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Schweinegeld](https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby) | 2:08 |
+| 33 | [Schweinegeld](https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Schweinegeld](https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby) | 2:08 |
+| 34 | [Chaos im Kopf](https://open.spotify.com/track/1uv4wwbrfidYZxAr3tWuNL) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Chaos im Kopf](https://open.spotify.com/album/3ChVHWhOm3QGmYXGxNWZiO) | 2:05 |
 | 35 | [Frag für ne Freundin](https://open.spotify.com/track/4XcC60aHv6XrbcXIH6a9mz) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Frag für ne Freundin](https://open.spotify.com/album/0aAnxAv2lfiALp1hLeXrRh) | 2:30 |
 | 36 | [In Denial](https://open.spotify.com/track/1wvS4ezPVmuxNgn9O6BaDG) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Invader](https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk) | 4:25 |
 | 37 | [Ruf mich nicht mehr an](https://open.spotify.com/track/3CmEeNWeRSjGImTGzEiWCQ) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ruf mich nicht mehr an](https://open.spotify.com/album/4y3gjV3njXIaxUt5fEG94N) | 2:34 |
 | 38 | [Victoria](https://open.spotify.com/track/5CkhyCtC9h6dlhgbYTDngg) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Victoria](https://open.spotify.com/album/3fFlaIr9zh0AK3BwEP9i7x) | 2:12 |
 | 39 | [6 Foot](https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [6 Foot](https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q) | 2:38 |
-| 40 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 |
-| 41 | [yesterday I was in London](https://open.spotify.com/track/0Kl3aryDqrFj1IK0wsDJoL) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [yesterday I was in London // homesick](https://open.spotify.com/album/5fNyW1wWzLjsY4ycan9Xb5) | 2:37 |
-| 42 | [Schlaf Dich Hoch](https://open.spotify.com/track/3YvzJlNZfaTU0F4lVDmfkT) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Schlaf Dich Hoch](https://open.spotify.com/album/284GShxfTNaLbX2omcs5L9) | 2:00 |
+| 40 | [Schlaf Dich Hoch](https://open.spotify.com/track/3YvzJlNZfaTU0F4lVDmfkT) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Schlaf Dich Hoch](https://open.spotify.com/album/284GShxfTNaLbX2omcs5L9) | 2:00 |
+| 41 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 |
+| 42 | [yesterday I was in London](https://open.spotify.com/track/0Kl3aryDqrFj1IK0wsDJoL) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [yesterday I was in London // homesick](https://open.spotify.com/album/5fNyW1wWzLjsY4ycan9Xb5) | 2:37 |
 | 43 | [Der Moment archiviert](https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Der Moment archiviert](https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1) | 2:36 |
 | 44 | [nie vorbei](https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [nie vorbei](https://open.spotify.com/album/4rbLFikPvtb3QhoAmjE6no) | 2:36 |
-| 45 | [ABC](https://open.spotify.com/track/5J44WjLWlXDhs9re4YO2f1) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/6ofT3KprM5LncrA2RQy3AG) | 2:39 |
-| 46 | [Es zieht im Paradies](https://open.spotify.com/track/12FETuFeRi2BwCa3L1R2rY) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I) | 3:06 |
+| 45 | [Es zieht im Paradies](https://open.spotify.com/track/12FETuFeRi2BwCa3L1R2rY) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I) | 3:06 |
+| 46 | [ABC](https://open.spotify.com/track/5J44WjLWlXDhs9re4YO2f1) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/6ofT3KprM5LncrA2RQy3AG) | 2:39 |
 | 47 | [No Regrets](https://open.spotify.com/track/2PcIrMvSc1GwokYR7EHDxY) | [HARD CANDY](https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O) | [No Regrets](https://open.spotify.com/album/2Cn8UBI1tyhLsuGLsAXK3I) | 2:54 |
 | 48 | [Gleichgewicht](https://open.spotify.com/track/4h9j2wJyX7DbhXOao5453j) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Auszeit](https://open.spotify.com/album/0jjRLSkPAyPAqLEkhtfJj1) | 2:34 |
 | 49 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |

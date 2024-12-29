@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 301822,
+  "num_followers": 301879,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAADvEWMV9qNNQrE9ePzilVb3",
+  "snapshot_id": "Z23uAAAAAAA3wlpy954aoqZ4W25YdaRO",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jogando em Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK"
+      },
+      "artists": [
+        {
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 219939,
+      "name": "J\u00e1 Tentei - Ao Vivo",
+      "url": "https://open.spotify.com/track/6JIhgAuKTkKsvJkFUGmoRU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sua Preferida",
         "url": "https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 151636,
       "name": "Sua Preferida",
       "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jogando em Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK"
-      },
-      "artists": [
-        {
-          "name": "Vou pro Sereno",
-          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 219939,
-      "name": "J\u00e1 Tentei - Ao Vivo",
-      "url": "https://open.spotify.com/track/6JIhgAuKTkKsvJkFUGmoRU"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
       "duration_ms": 148800,
       "name": "Sintomas de Prazer",
       "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Whine",
-      "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
     },
     {
       "added_at": null,

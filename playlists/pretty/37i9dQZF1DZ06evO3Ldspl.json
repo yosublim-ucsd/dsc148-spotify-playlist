@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 9328,
+  "num_followers": 9340,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAADkm+lf7bJhHpMmpUqmqZ/O",
+  "snapshot_id": "Z23uAAAAAABnL4xNRHJ8/aO93osH1weG",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clase Aparte",
+        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Dime Pajarito",
+      "url": "https://open.spotify.com/track/5P13I9rbPcLOkEJSvCLDCA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los 30 Mejores",
         "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 231066,
       "name": "Esa",
       "url": "https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clase Aparte",
-        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Dime Pajarito",
-      "url": "https://open.spotify.com/track/5P13I9rbPcLOkEJSvCLDCA"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 230520,
-      "name": "Decid\u00ed Cambiar",
-      "url": "https://open.spotify.com/track/0CbIG518lOhdBN79aOEGuP"
+      "duration_ms": 278267,
+      "name": "Como Te Quiero",
+      "url": "https://open.spotify.com/track/1P5kF1wReUPrrtUYLKB4Nl"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "La Gustadera",
-      "url": "https://open.spotify.com/track/5AaFsIGgYNGyklOMnHNJ1l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Lo Alto",
         "url": "https://open.spotify.com/album/0Cf0Q1ZyT4jiamI2P58nIs"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "La Gustadera",
+      "url": "https://open.spotify.com/track/5AaFsIGgYNGyklOMnHNJ1l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
       },
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 278267,
-      "name": "Como Te Quiero",
-      "url": "https://open.spotify.com/track/1P5kF1wReUPrrtUYLKB4Nl"
+      "duration_ms": 230520,
+      "name": "Decid\u00ed Cambiar",
+      "url": "https://open.spotify.com/track/0CbIG518lOhdBN79aOEGuP"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
+        "name": "Los Elegidos",
+        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 200333,
-      "name": "Seguir\u00e9 Penando",
-      "url": "https://open.spotify.com/track/2ktHd52hiL6M6eehVL0DvM"
+      "duration_ms": 266480,
+      "name": "Te Lo Dije Mujer",
+      "url": "https://open.spotify.com/track/4OyfotY7zWw75v94xygq5s"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Elegidos",
-        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 266480,
-      "name": "Te Lo Dije Mujer",
-      "url": "https://open.spotify.com/track/4OyfotY7zWw75v94xygq5s"
+      "duration_ms": 200333,
+      "name": "Seguir\u00e9 Penando",
+      "url": "https://open.spotify.com/track/2ktHd52hiL6M6eehVL0DvM"
     }
   ],
   "unique_name": "This Is Binomio de Oro",

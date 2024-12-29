@@ -9821,6 +9821,40 @@
     },
     {
       "album": {
+        "name": "DOUBLE CUP",
+        "url": "https://open.spotify.com/album/766o4yefeGg3La2beUguih"
+      },
+      "artists": [
+        {
+          "name": "Tanto",
+          "url": "https://open.spotify.com/artist/2mn8rZRXusYSE0pwQkVN7t"
+        },
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Block 93",
+          "url": "https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo"
+        },
+        {
+          "name": "mi368",
+          "url": "https://open.spotify.com/artist/5WpPX5v61a9sDy6lXDkQiK"
+        },
+        {
+          "name": "Papetas",
+          "url": "https://open.spotify.com/artist/0A1VYGL7ERtvbDs7ywQXQT"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133480,
+      "name": "DOUBLE CUP",
+      "url": "https://open.spotify.com/track/08H1bNha1eTyqEPEdFC6FM"
+    },
+    {
+      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -14422,6 +14456,32 @@
       "duration_ms": 221596,
       "name": "Gia Sena",
       "url": "https://open.spotify.com/track/38doLxZXMnFU2rwImjshPY"
+    },
+    {
+      "album": {
+        "name": "Gia Sena",
+        "url": "https://open.spotify.com/album/0xh2nXqadeywn61LgjmOe7"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Grandbois",
+          "url": "https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177567,
+      "name": "Gia Sena",
+      "url": "https://open.spotify.com/track/5DfPEPrd3BoWL0NnwPlpTw"
     },
     {
       "album": {
@@ -19568,7 +19628,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -35006,7 +35066,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 145788,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/4j9wksjhBvSuRq1ibXUfAK"
@@ -36994,7 +37054,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 205202,
       "name": "To Viografiko",
       "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
@@ -40282,7 +40342,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"

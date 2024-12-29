@@ -15245,6 +15245,24 @@
     },
     {
       "album": {
+        "name": "Sick Tamburo",
+        "url": "https://open.spotify.com/album/0xI1Jy3cIKl9jWGIDBBgbO"
+      },
+      "artists": [
+        {
+          "name": "Sick Tamburo",
+          "url": "https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183346,
+      "name": "Parlami per sempre",
+      "url": "https://open.spotify.com/track/3S4eaBOxCBPtlnnyEx59TH"
+    },
+    {
+      "album": {
         "name": "Parlarti Male",
         "url": "https://open.spotify.com/album/5Xc8pxJSfJ8N4OJgDLyW2e"
       },

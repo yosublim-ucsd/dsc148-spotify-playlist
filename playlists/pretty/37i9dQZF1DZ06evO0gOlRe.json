@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 33539,
+  "num_followers": 33544,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAABCwNAG1cP3H9Ly5KWqzpTO",
+  "snapshot_id": "Z23uAAAAAACa+MC7nQ5hrpbQnMmMRPAC",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Put You First",
-        "url": "https://open.spotify.com/album/68oLkuSbS2IYOFSbX6aLQd"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "Put You First",
-      "url": "https://open.spotify.com/track/3q0DAFFiVacfGS4TuWiEdx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "if you only knew",
         "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 162146,
       "name": "if you only knew",
       "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Put You First",
+        "url": "https://open.spotify.com/album/68oLkuSbS2IYOFSbX6aLQd"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "Put You First",
+      "url": "https://open.spotify.com/track/3q0DAFFiVacfGS4TuWiEdx"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 161430,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 214285,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 161430,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa"
     },
     {
       "added_at": null,

@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 182773,
       "name": "Compa Alfredito",
       "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 173638,
       "name": "El M.P.",
       "url": "https://open.spotify.com/track/2ZThthZbJ4QwHmenUQIJcG"
@@ -1389,6 +1389,28 @@
     },
     {
       "album": {
+        "name": "Diverso",
+        "url": "https://open.spotify.com/album/3aZHL0BsqDyrlwePDd1JH9"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159782,
+      "name": "La Tambora Va a Sonar",
+      "url": "https://open.spotify.com/track/34cDaMb6Sb60r8C13P2SlO"
+    },
+    {
+      "album": {
         "name": "La Tambora Va A Sonar",
         "url": "https://open.spotify.com/album/2g95Xdn4llprlryyEPqTMw"
       },
@@ -1404,7 +1426,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 159782,
       "name": "La Tambora Va A Sonar",
       "url": "https://open.spotify.com/track/5THowR37eGWTSo8FWhBNRd"

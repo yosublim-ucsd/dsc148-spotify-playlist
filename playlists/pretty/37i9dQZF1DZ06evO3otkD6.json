@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 71959,
+  "num_followers": 71969,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAACrRCa6EcbBfV+E3oHA+ivy",
+  "snapshot_id": "Z23uAAAAAADzKUemzLbFzrjeRL6Iohqa",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LAS 12",
+        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "LAS 12",
+      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LAS 12",
-        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "LAS 12",
-      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "\u00c1ngel - Once in Your Lifetime",
-      "url": "https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Detector De Metal",
         "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 250866,
       "name": "Muriendo Lento (feat. Belinda)",
       "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "\u00c1ngel - Once in Your Lifetime",
+      "url": "https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G"
     },
     {
       "added_at": null,
@@ -903,42 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cheetah Girls 2",
-        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
-      },
-      "artists": [
-        {
-          "name": "The Cheetah Girls",
-          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Amigas Cheetahs",
-      "url": "https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Lolita",
-      "url": "https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv"
       },
@@ -959,6 +923,42 @@
       "duration_ms": 260017,
       "name": "Sue\u00f1o de Ti",
       "url": "https://open.spotify.com/track/0lLygnowX78lFphF2235qe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cheetah Girls 2",
+        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
+      },
+      "artists": [
+        {
+          "name": "The Cheetah Girls",
+          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Amigas Cheetahs",
+      "url": "https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cheetah Girls 2",
         "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 192146,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
     },
     {
       "added_at": null,
@@ -1075,6 +1075,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Alguien Mas",
+      "url": "https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Quiero Maxi Single",
         "url": "https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 205775,
       "name": "Te Quiero (feat. Belinda) - Spanglish",
       "url": "https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Alguien Mas",
-      "url": "https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ"
     },
     {
       "added_at": null,

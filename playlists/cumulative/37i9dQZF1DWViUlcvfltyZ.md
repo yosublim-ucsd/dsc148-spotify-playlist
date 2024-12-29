@@ -4,7 +4,7 @@
 
 > Rock, indie, e punk dall'Italia 🎸 GIIN in cover
 
-1,241 songs - 2 day 21 hr 3 min
+1,242 songs - 2 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,6 +826,7 @@
 | [Paradiso](https://open.spotify.com/track/0YpDlYL7utoVSUu5BEXuJn) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Paradiso](https://open.spotify.com/album/2N9GsEvu9wLlZRvqdRLhpb) | 3:30 | 2024-04-18 | 2024-06-21 |
 | [Paranoia Park](https://open.spotify.com/track/3Vbw1LXY0RK8fQVRqomPWs) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Paranoia Park](https://open.spotify.com/album/2EL20laugXPLGG4rDjC43y) | 2:32 | 2023-12-21 | 2024-03-01 |
 | [Parlami](https://open.spotify.com/track/6EgGe4PI3Y9EWPD5Wpv6iE) | [Asia Ghergo](https://open.spotify.com/artist/0TPUlnIZtGxkM27FIgl39N) | [Parlami](https://open.spotify.com/album/5yLLr1dLk439zVforZ4zZw) | 3:52 | 2022-06-30 | 2022-08-05 |
+| [Parlami per sempre](https://open.spotify.com/track/3S4eaBOxCBPtlnnyEx59TH) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Sick Tamburo](https://open.spotify.com/album/0xI1Jy3cIKl9jWGIDBBgbO) | 3:03 | 2024-12-28 |  |
 | [Parlarti Male](https://open.spotify.com/track/4IGuX25K5IVaUOaBmg3IfQ) | [Alibi](https://open.spotify.com/artist/6vtDqOkppg14GMh5jq7tQv) | [Parlarti Male](https://open.spotify.com/album/5Xc8pxJSfJ8N4OJgDLyW2e) | 3:07 | 2023-05-18 | 2023-07-28 |
 | [Parole a mezz'aria](https://open.spotify.com/track/1ButxTgOpGtcCMZOqyWm2y) | [Andrea Poggio](https://open.spotify.com/artist/3Mv7eyRJ31gsg4IZqRJ3oj) | [Parole a mezz'aria](https://open.spotify.com/album/6H01BF9TixXXsqDOkjq3G2) | 2:13 | 2023-04-06 | 2023-04-21 |
 | [Parole D'Odio](https://open.spotify.com/track/08Lf3i2zHNZmLLnceXA24k) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Parole D'Odio](https://open.spotify.com/album/52gMCMOrYOIkHVviiTXLor) | 3:03 | 2023-03-16 | 2023-03-26 |

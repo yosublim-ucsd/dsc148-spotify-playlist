@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 161640,
+  "num_followers": 161662,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAADqRDruHkp7CjRaHVYs4/Fx",
+  "snapshot_id": "Z23uAAAAAABckS7BNclEtLS6T2dWmwba",
   "tracks": [
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panini",
-        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
+        "name": "7",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
       "artists": [
         {
@@ -210,7 +210,7 @@
       ],
       "duration_ms": 114893,
       "name": "Panini",
-      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
+      "url": "https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUN GOES DOWN",
+        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "SUN GOES DOWN",
+      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 158706,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUN GOES DOWN",
-        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "SUN GOES DOWN",
-      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
       "duration_ms": 141986,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 131706,
-      "name": "Bring U Down",
-      "url": "https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D"
     }
   ],
   "unique_name": "This Is Lil Nas X",

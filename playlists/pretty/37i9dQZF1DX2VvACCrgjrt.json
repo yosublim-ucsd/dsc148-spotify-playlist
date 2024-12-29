@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Malaa",
-  "num_followers": 451701,
+  "num_followers": 451761,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1197,26 +1197,6 @@
       "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "What You Looking For",
-        "url": "https://open.spotify.com/album/0xpzEqmImstaRCOo64kOta"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 182343,
-      "name": "What You Looking For",
-      "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Backstage Baddies",
@@ -1235,6 +1215,26 @@
       "duration_ms": 181818,
       "name": "Backstage Baddies",
       "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "What You Looking For",
+        "url": "https://open.spotify.com/album/0xpzEqmImstaRCOo64kOta"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "What You Looking For",
+      "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1301,26 +1301,6 @@
       "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
     },
     {
-      "added_at": "2024-10-02 17:18:50",
-      "album": {
-        "name": "Danny Phantom",
-        "url": "https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
-        }
-      ],
-      "duration_ms": 200077,
-      "name": "Danny Phantom",
-      "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Enemy",
@@ -1341,20 +1321,24 @@
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-10-02 17:18:50",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/2m06bkOopa7O0bFUz7ba7Z"
+        "name": "Danny Phantom",
+        "url": "https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU"
       },
       "artists": [
         {
-          "name": "BAN DELLO",
-          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
         }
       ],
-      "duration_ms": 180923,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/1Hu5RNkiSLE4ntYZcwfzUr"
+      "duration_ms": 200077,
+      "name": "Danny Phantom",
+      "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1375,6 +1359,22 @@
       "duration_ms": 236129,
       "name": "Hit The Wax",
       "url": "https://open.spotify.com/track/5fe0BWkTfPEgjbA0PZkii1"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2m06bkOopa7O0bFUz7ba7Z"
+      },
+      "artists": [
+        {
+          "name": "BAN DELLO",
+          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/1Hu5RNkiSLE4ntYZcwfzUr"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1605,6 +1605,22 @@
       "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
+    },
+    {
       "added_at": "2024-06-28 14:01:45",
       "album": {
         "name": "Twin Fang",
@@ -1623,22 +1639,6 @@
       "duration_ms": 198857,
       "name": "Twin Fang",
       "url": "https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1793,26 +1793,6 @@
       "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "My Mind",
-        "url": "https://open.spotify.com/album/7aneBfOjpEOtzBReiowj3u"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        },
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        }
-      ],
-      "duration_ms": 184857,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/6PHkTkDcRZsp2WbZBZZbNe"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Get Hype",
@@ -1849,6 +1829,26 @@
       "url": "https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/7aneBfOjpEOtzBReiowj3u"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 184857,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/6PHkTkDcRZsp2WbZBZZbNe"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Take Control",
@@ -1867,22 +1867,6 @@
       "duration_ms": 169783,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/0zaa2DnLFJHgP6YmtKAh0K"
-    },
-    {
-      "added_at": "2024-09-30 15:01:28",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/32i2Un2VvdasxuHnYwxZ3c"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        }
-      ],
-      "duration_ms": 229846,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/4KqaqznKWEHQPed6LHSvP8"
     },
     {
       "added_at": "2024-11-30 00:47:45",
@@ -1907,6 +1891,22 @@
       "duration_ms": 158888,
       "name": "LOST CONTROL",
       "url": "https://open.spotify.com/track/40HmXWOyB7r2FcTZw4Z9fg"
+    },
+    {
+      "added_at": "2024-09-30 15:01:28",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/32i2Un2VvdasxuHnYwxZ3c"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 229846,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/4KqaqznKWEHQPed6LHSvP8"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2005,22 +2005,6 @@
       "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Mud Season",
-        "url": "https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Mud Season",
-      "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "AUTOMATIC",
@@ -2035,6 +2019,22 @@
       "duration_ms": 194285,
       "name": "AUTOMATIC",
       "url": "https://open.spotify.com/track/1geATcpIabznNvS0GSTFEm"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Mud Season",
+        "url": "https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Mud Season",
+      "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2169,10 +2169,10 @@
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/2uSn3D50io4hcQAOzWl03d"
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
       },
       "artists": [
         {
@@ -2180,17 +2180,13 @@
           "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
         },
         {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "PARIS.",
-          "url": "https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE"
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
         }
       ],
-      "duration_ms": 165173,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3wzq3bEn6b3KiBDREjencM"
+      "duration_ms": 173571,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2261,10 +2257,10 @@
       "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "BAD",
-        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/2uSn3D50io4hcQAOzWl03d"
       },
       "artists": [
         {
@@ -2272,13 +2268,17 @@
           "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
         },
         {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "PARIS.",
+          "url": "https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE"
         }
       ],
-      "duration_ms": 173571,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
+      "duration_ms": 165173,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3wzq3bEn6b3KiBDREjencM"
     },
     {
       "added_at": "2024-08-09 04:00:00",

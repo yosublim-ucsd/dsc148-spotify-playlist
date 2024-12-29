@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Taylor Acorn",
-  "num_followers": 145915,
+  "num_followers": 145953,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Oh No :: He Said What?",
-        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 228138,
-      "name": "Oh No :: He Said What?",
-      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/0keyZeyshU2953FCfoQAq3"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 128323,
       "name": "K.O.",
       "url": "https://open.spotify.com/track/0SbcrlSSBXJUnm1cT4E4GQ"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 142533,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -1015,6 +999,38 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 142533,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 173836,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "ONE MORE TIME...",
         "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 138460,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133678,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1099,22 +1115,6 @@
       "duration_ms": 179000,
       "name": "sail away",
       "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 133678,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
-      },
-      "artists": [
-        {
-          "name": "The Scarlet Opera",
-          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Those Were The Days",
         "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 143995,
       "name": "Those Were The Days",
       "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
+      },
+      "artists": [
+        {
+          "name": "The Scarlet Opera",
+          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Hello Sunlight!",
-        "url": "https://open.spotify.com/album/0suk8ywa1BqFDgvOAJXaPJ"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 157715,
-      "name": "Hello Sunlight!",
-      "url": "https://open.spotify.com/track/6qooW7dURSGYBJIm7eSacn"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Under the Influence(r)",
         "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Hello Sunlight!",
+        "url": "https://open.spotify.com/album/0suk8ywa1BqFDgvOAJXaPJ"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 157715,
+      "name": "Hello Sunlight!",
+      "url": "https://open.spotify.com/track/6qooW7dURSGYBJIm7eSacn"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "SOULSUCKER",
-        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 146620,
-      "name": "SOULSUCKER",
-      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "STRANGERS",
         "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 223176,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "SOULSUCKER",
+        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 146620,
+      "name": "SOULSUCKER",
+      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "SOMETHING IN THE WATER",
-        "url": "https://open.spotify.com/album/60cDTexJ5atkd4g9Rv0abO"
-      },
-      "artists": [
-        {
-          "name": "Kami Kehoe",
-          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
-        }
-      ],
-      "duration_ms": 203795,
-      "name": "SOMETHING IN THE WATER",
-      "url": "https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "nobody",
         "url": "https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB"
       },
@@ -2203,18 +2187,18 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "DUMB",
-        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
+        "name": "SOMETHING IN THE WATER",
+        "url": "https://open.spotify.com/album/60cDTexJ5atkd4g9Rv0abO"
       },
       "artists": [
         {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
         }
       ],
-      "duration_ms": 205933,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
+      "duration_ms": 203795,
+      "name": "SOMETHING IN THE WATER",
+      "url": "https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2231,6 +2215,22 @@
       "duration_ms": 197877,
       "name": "Crazy Again",
       "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2555,18 +2555,18 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
+        "name": "internet baby",
+        "url": "https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc"
       },
       "artists": [
         {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 145454,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
+      "duration_ms": 157070,
+      "name": "internet baby",
+      "url": "https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N"
     }
   ],
   "unique_name": "Pop Rock",

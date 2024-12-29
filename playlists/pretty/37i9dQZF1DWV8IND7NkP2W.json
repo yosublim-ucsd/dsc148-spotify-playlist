@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 434604,
+  "num_followers": 434652,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,22 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
+        "name": "night sky",
+        "url": "https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf"
       },
       "artists": [
         {
-          "name": "DJ Ryow a.k.a. Smooth Current",
-          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        },
+        {
+          "name": "Kanzas-City",
+          "url": "https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD"
         }
       ],
-      "duration_ms": 189902,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
+      "duration_ms": 106400,
+      "name": "night sky",
+      "url": "https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -271,22 +275,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "night sky",
-        "url": "https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf"
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
       },
       "artists": [
         {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        },
-        {
-          "name": "Kanzas-City",
-          "url": "https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD"
+          "name": "DJ Ryow a.k.a. Smooth Current",
+          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
         }
       ],
-      "duration_ms": 106400,
-      "name": "night sky",
-      "url": "https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4"
+      "duration_ms": 189902,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -327,26 +327,6 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "and sleep.",
-        "url": "https://open.spotify.com/album/3rjnPBQyCgaRP8EKFP5j0T"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
-          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
-        },
-        {
-          "name": "\u4e00\u670dtrack",
-          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
-        }
-      ],
-      "duration_ms": 239178,
-      "name": "and sleep.",
-      "url": "https://open.spotify.com/track/0YRJFUpukTWMsUFBY2neaP"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 128000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "and sleep.",
+        "url": "https://open.spotify.com/album/3rjnPBQyCgaRP8EKFP5j0T"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        },
+        {
+          "name": "\u4e00\u670dtrack",
+          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
+        }
+      ],
+      "duration_ms": 239178,
+      "name": "and sleep.",
+      "url": "https://open.spotify.com/track/0YRJFUpukTWMsUFBY2neaP"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -807,22 +807,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "World's Famous",
-        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
+        "name": "The Black Cat",
+        "url": "https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H"
       },
       "artists": [
         {
-          "name": "DJ KOCO aka SHIMOKITA",
-          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
-        },
-        {
-          "name": "45trio",
-          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
         }
       ],
-      "duration_ms": 191747,
-      "name": "World's Famous",
-      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
+      "duration_ms": 112421,
+      "name": "The Black Cat",
+      "url": "https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -843,18 +839,22 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "The Black Cat",
-        "url": "https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H"
+        "name": "World's Famous",
+        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
       },
       "artists": [
         {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+          "name": "DJ KOCO aka SHIMOKITA",
+          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
+        },
+        {
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
         }
       ],
-      "duration_ms": 112421,
-      "name": "The Black Cat",
-      "url": "https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe"
+      "duration_ms": 191747,
+      "name": "World's Famous",
+      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Carol",
-        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
-      },
-      "artists": [
-        {
-          "name": "ord minami",
-          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
         "name": "City Creatures",
         "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 184670,
       "name": "City Creatures",
       "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Night Step",
-        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Night Step",
-      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
         "name": "MORAL",
         "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
       },
@@ -1075,26 +1059,6 @@
       "duration_ms": 201842,
       "name": "MORAL",
       "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
-      },
-      "artists": [
-        {
-          "name": "Akio Watanabe",
-          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
-        },
-        {
-          "name": "AYG",
-          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1123,6 +1087,42 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
+        "name": "Night Step",
+        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Night Step",
+      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
+      },
+      "artists": [
+        {
+          "name": "Akio Watanabe",
+          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
+        },
+        {
+          "name": "AYG",
+          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
         "name": "Milk Shake",
         "url": "https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 140000,
       "name": "Milk Shake",
       "url": "https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "oak",
+        "url": "https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "duration_ms": 130920,
+      "name": "oak",
+      "url": "https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1167,22 +1183,6 @@
       "duration_ms": 138913,
       "name": "Cross the Bridge",
       "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
-        "name": "oak",
-        "url": "https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg"
-      },
-      "artists": [
-        {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
-        }
-      ],
-      "duration_ms": 130920,
-      "name": "oak",
-      "url": "https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/0CvGOPTPDXYWUtTdnHw6up"
+        "name": "Cold Concrete",
+        "url": "https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV"
       },
       "artists": [
         {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
         }
       ],
-      "duration_ms": 125707,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2S3neOQV87GmDIQiaYE5Sh"
+      "duration_ms": 191860,
+      "name": "Cold Concrete",
+      "url": "https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Cold Concrete",
-        "url": "https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0CvGOPTPDXYWUtTdnHw6up"
       },
       "artists": [
         {
-          "name": "DJ FRIP a.k.a. BeatLab",
-          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
         }
       ],
-      "duration_ms": 191860,
-      "name": "Cold Concrete",
-      "url": "https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks"
+      "duration_ms": 125707,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2S3neOQV87GmDIQiaYE5Sh"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1311,22 +1311,6 @@
       "duration_ms": 136426,
       "name": "SPICA",
       "url": "https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
-        "name": "kokoro",
-        "url": "https://open.spotify.com/album/61O3OR2eHp9oJUbQGcZK0B"
-      },
-      "artists": [
-        {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
-        }
-      ],
-      "duration_ms": 131520,
-      "name": "kokoro",
-      "url": "https://open.spotify.com/track/1xIhftSWn47k5e7wqRUwJ6"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1371,6 +1355,22 @@
       "duration_ms": 154520,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "kokoro",
+        "url": "https://open.spotify.com/album/61O3OR2eHp9oJUbQGcZK0B"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "duration_ms": 131520,
+      "name": "kokoro",
+      "url": "https://open.spotify.com/track/1xIhftSWn47k5e7wqRUwJ6"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
+        "name": "Sparkler",
+        "url": "https://open.spotify.com/album/06Kr3FDqY6YjzkT40DDggB"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Kondo",
+          "url": "https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS"
+        }
+      ],
+      "duration_ms": 172602,
+      "name": "Sparkler",
+      "url": "https://open.spotify.com/track/7Hk8r6JTa9O1PU5h0I3QzM"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/1S1AbWfx3pPhpSTvtOd32P"
       },
@@ -1507,18 +1523,22 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Sparkler",
-        "url": "https://open.spotify.com/album/06Kr3FDqY6YjzkT40DDggB"
+        "name": "Warp Haze",
+        "url": "https://open.spotify.com/album/1aCSsgMvDI8Fv2xXjp8oef"
       },
       "artists": [
         {
-          "name": "Hiroyuki Kondo",
-          "url": "https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS"
+          "name": "Ill Sugi",
+          "url": "https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c"
+        },
+        {
+          "name": "BudaMunk",
+          "url": "https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC"
         }
       ],
-      "duration_ms": 172602,
-      "name": "Sparkler",
-      "url": "https://open.spotify.com/track/7Hk8r6JTa9O1PU5h0I3QzM"
+      "duration_ms": 127854,
+      "name": "Pretty Shadows",
+      "url": "https://open.spotify.com/track/6kZGPpmm4viIlgLCGuA6BW"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1563,26 +1583,6 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Warp Haze",
-        "url": "https://open.spotify.com/album/1aCSsgMvDI8Fv2xXjp8oef"
-      },
-      "artists": [
-        {
-          "name": "Ill Sugi",
-          "url": "https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c"
-        },
-        {
-          "name": "BudaMunk",
-          "url": "https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC"
-        }
-      ],
-      "duration_ms": 127854,
-      "name": "Pretty Shadows",
-      "url": "https://open.spotify.com/track/6kZGPpmm4viIlgLCGuA6BW"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
         "name": "Night Cruising",
         "url": "https://open.spotify.com/album/0u5sIKkyupnEQoeTHeG7W0"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+        "name": "samurai champloo music record impression",
+        "url": "https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS"
       },
       "artists": [
         {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+          "name": "Force Of Nature",
+          "url": "https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
+      "duration_ms": 235900,
+      "name": "just forget",
+      "url": "https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+      },
+      "artists": [
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY"
       },
@@ -1655,38 +1671,6 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "The Way of the Rain",
-        "url": "https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "The Way of the Rain",
-      "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
-        "name": "samurai champloo music record impression",
-        "url": "https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS"
-      },
-      "artists": [
-        {
-          "name": "Force Of Nature",
-          "url": "https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj"
-        }
-      ],
-      "duration_ms": 235900,
-      "name": "just forget",
-      "url": "https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 146014,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "The Way of the Rain",
+        "url": "https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "The Way of the Rain",
+      "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1755,18 +1755,22 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Organic Lo-fi Beats",
-        "url": "https://open.spotify.com/album/3GnW7ujq82WPxlwNHphRrJ"
+        "name": "Syn Fonia II",
+        "url": "https://open.spotify.com/album/0aPWrX9kGHRxVrNgilogbn"
       },
       "artists": [
         {
-          "name": "COFFLENO",
-          "url": "https://open.spotify.com/artist/7kZkMzWv1hRkn17qIk9yOk"
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
         }
       ],
-      "duration_ms": 103436,
-      "name": "only you",
-      "url": "https://open.spotify.com/track/5h50BO3oUBoOh5HjG871S5"
+      "duration_ms": 202083,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/1inTIFMEfPy4FoPVo0e8OS"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

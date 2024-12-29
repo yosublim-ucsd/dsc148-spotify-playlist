@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like this. cover: d4vd",
-  "num_followers": 2069817,
+  "num_followers": 2069732,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -745,6 +745,22 @@
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
     },
     {
+      "added_at": "2024-12-13 05:00:33",
+      "album": {
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+    },
+    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Love Is Gone (Acoustic)",
@@ -779,22 +795,6 @@
       "duration_ms": 133478,
       "name": "Dumb & Poetic",
       "url": "https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR"
-    },
-    {
-      "added_at": "2024-12-13 05:00:33",
-      "album": {
-        "name": "Chest Pain (I Love)",
-        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
       "added_at": "2024-12-20 05:00:39",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 202001,
+      "name": "Lie To Girls",
+      "url": "https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 202001,
-      "name": "Lie To Girls",
-      "url": "https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 146751,
+      "name": "Great Gatsby",
+      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "I'd Rather Pretend (with d4vd)",
         "url": "https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 184560,
       "name": "I'd Rather Pretend (with d4vd)",
       "url": "https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 146751,
-      "name": "Great Gatsby",
-      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "girl in new york",
-        "url": "https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 177140,
-      "name": "girl in new york",
-      "url": "https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "i wish u knew",
         "url": "https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 193429,
       "name": "i wish u knew",
       "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "girl in new york",
+        "url": "https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 177140,
+      "name": "girl in new york",
+      "url": "https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD"
     },
     {
       "added_at": "2024-10-04 04:04:16",
@@ -2277,22 +2277,6 @@
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "I Never Loved You",
-        "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 249530,
-      "name": "I Never Loved You",
-      "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Left on McKinney",
@@ -2307,6 +2291,22 @@
       "duration_ms": 176289,
       "name": "Get There When I Get There",
       "url": "https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "I Never Loved You",
+        "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 249530,
+      "name": "I Never Loved You",
+      "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2461,20 +2461,20 @@
       "url": "https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "C,XOXO",
-        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
+        "name": "25",
+        "url": "https://open.spotify.com/album/0C92Qrku2KYDLNlTmLdaKX"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
         }
       ],
-      "duration_ms": 162106,
-      "name": "Twentysomethings",
-      "url": "https://open.spotify.com/track/5Nf9yOpnskwYFRz7S4uwx0"
+      "duration_ms": 171318,
+      "name": "25",
+      "url": "https://open.spotify.com/track/5lDv9IAnprD7TPjq367YzE"
     }
   ],
   "unique_name": "sad hour",

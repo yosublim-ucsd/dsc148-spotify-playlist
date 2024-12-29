@@ -1,6 +1,6 @@
 {
   "description": "Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland. Cover: SOPHIE",
-  "num_followers": 32406,
+  "num_followers": 32408,
   "original_name": "Best of GLOW UK & Ireland 2024",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "TRUE MAGIC",
         "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 210785,
       "name": "saving flowers",
       "url": "https://open.spotify.com/track/5s54Ts1rJwUwaxQqoTC4jQ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Nonetheless",
+        "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 181959,
+      "name": "Dancing star",
+      "url": "https://open.spotify.com/track/3UUnDEpvIEJrYNVESeEVR4"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 235000,
       "name": "Is It Cold In The Water?",
       "url": "https://open.spotify.com/track/7m9ZK3DmPbA5IY3FpVaMIq"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Nonetheless",
-        "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 181959,
-      "name": "Dancing star",
-      "url": "https://open.spotify.com/track/3UUnDEpvIEJrYNVESeEVR4"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Die Happy",
-        "url": "https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK"
-      },
-      "artists": [
-        {
-          "name": "Emily Burns",
-          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
-        }
-      ],
-      "duration_ms": 193793,
-      "name": "Balcony Floor",
-      "url": "https://open.spotify.com/track/5nrEBwM2iNBj62MLnC2HIY"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "QUIET",
         "url": "https://open.spotify.com/album/4pj0upnE34RrH2kPicwPGS"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 200403,
       "name": "QUIET",
       "url": "https://open.spotify.com/track/1fnVKNuin6baQbZFEx3jHJ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Die Happy",
+        "url": "https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK"
+      },
+      "artists": [
+        {
+          "name": "Emily Burns",
+          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "Balcony Floor",
+      "url": "https://open.spotify.com/track/5nrEBwM2iNBj62MLnC2HIY"
     },
     {
       "added_at": "2024-12-04 12:15:00",

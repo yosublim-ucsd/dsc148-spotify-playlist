@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 207800,
       "name": "He Wants It All",
       "url": "https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS"
@@ -4794,6 +4794,24 @@
       "duration_ms": 215613,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
+    },
+    {
+      "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200227,
+      "name": "Running Back To You",
+      "url": "https://open.spotify.com/track/6Kfd3XrgqJ0M50O3Z5KN9c"
     },
     {
       "album": {

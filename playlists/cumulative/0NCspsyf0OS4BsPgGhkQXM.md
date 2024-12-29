@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,106 songs - 2 day 9 hr 2 min
+1,107 songs - 2 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,7 @@
 | [Montagem Coral Killer](https://open.spotify.com/track/72btxTXqmlgNz6aMBub60l) | [1HXSX](https://open.spotify.com/artist/11pkkllIaYm8iO0W9cUTJY) | [Montagem Coral Killer](https://open.spotify.com/album/2iBFtnCIEcqIQKvTvurK5b) | 2:18 | 2024-01-29 | 2024-05-15 |
 | [MONTAGEM DO H](https://open.spotify.com/track/6SaXGy6CqDqEgvOuhWAXoP) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO) | [MONTAGEM DO H](https://open.spotify.com/album/704NgQhNJixiWHJn2KUC8i) | 1:50 | 2023-11-10 | 2023-12-19 |
 | [Montagem Euphoria Game](https://open.spotify.com/track/0CJ6EVnM3df8fzMcDROVmN) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Euphoria Game](https://open.spotify.com/album/1M7M3rVXKfP2zk23fvlVPD) | 1:21 | 2024-02-02 | 2024-11-07 |
-| [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2023-12-05 |  |
+| [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2023-12-05 | 2024-12-29 |
 | [MOOGTOPIA](https://open.spotify.com/track/2xStfjvbjUGfqu0IZJVy3z) | [Grav3](https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e) | [MOOGTOPIA](https://open.spotify.com/album/2FGW5ppcSgCZ0kawkIUC31) | 2:28 | 2023-11-08 | 2024-01-30 |
 | [MOOGTOPIA \- Instrumental](https://open.spotify.com/track/0CrYuSEjndTCPCB0PRw0M4) | [Grav3](https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e) | [MOOGTOPIA \(Instrumental\)](https://open.spotify.com/album/2XQcKEDvB1p66FLp1GXKCK) | 2:25 | 2023-11-08 | 2024-01-30 |
 | [Moonbeams](https://open.spotify.com/track/1bgoe4DClcoRvDapWU68CK) | [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Moonbeams](https://open.spotify.com/album/3klnFBO7TxwcQkzcuM5yVI) | 3:56 | 2022-01-14 | 2022-02-05 |
@@ -1000,6 +1000,7 @@
 | [Turn It Up](https://open.spotify.com/track/5Wn8iDP15VZtdY4MBHB9tm) | [Haterade](https://open.spotify.com/artist/57mNUYCvfPsEKFMrA678JH), [Pozy](https://open.spotify.com/artist/1nCX4ojjdscBRbiCdUqfY0), [Nyukyung](https://open.spotify.com/artist/2Fy5gf1UQY332twQmg1gfw) | [Turn It Up](https://open.spotify.com/album/2GGEaprMylPPPFUI6lqi7v) | 2:21 | 2022-08-17 | 2022-10-08 |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-11-22 | 2023-02-22 |
 | [twilight](https://open.spotify.com/track/1pr7gWtTcQgUi7i5WKV96K) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Sace](https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA), [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu) | [twilight](https://open.spotify.com/album/0OmHq8R5hJWBb06CdFYBoY) | 2:11 | 2024-05-17 |  |
+| [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 | 2024-12-29 |  |
 | [Two Face \(Dark Version\)](https://open.spotify.com/track/3qFz4Yl3L2USyP7EfbVFQy) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Two Face \(Dark Version\)](https://open.spotify.com/album/21HSZwwUJvYRIGt595DQza) | 2:35 | 2022-03-18 | 2022-04-19 |
 | [Two Face \(Omido Remix\)](https://open.spotify.com/track/3lXNIytpQCrM77Ul6ev03T) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh), [Omido](https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh) | [Two Face \(Omido Remix\)](https://open.spotify.com/album/4OCnAlV40y5U5uFRtNFzpq) | 2:32 | 2022-08-26 | 2022-10-08 |
 | [UCLA](https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:12 | 2022-11-22 |  |

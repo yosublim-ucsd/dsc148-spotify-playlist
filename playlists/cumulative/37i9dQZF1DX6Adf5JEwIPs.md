@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: T3R Elemento
 
-6,536 songs - 14 day 3 hr 18 min
+6,537 songs - 14 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3243,6 +3243,7 @@
 | [La Pelota](https://open.spotify.com/track/5dZ6SutInSiwz8BR5ro986) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5) | [La Pelota](https://open.spotify.com/album/4jEaiKHklgGpEvuwm3hY5o) | 2:41 | 2024-03-29 | 2024-04-06 |
 | [LA PEOPLE II](https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5) | [LA PEOPLE II](https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c) | 2:21 | 2024-03-22 | 2024-03-30 |
 | [La Perla](https://open.spotify.com/track/7AEoF9yFVvSiNOyXhgFuK4) | [Alexis Riovar](https://open.spotify.com/artist/6mHy8OOEaqtBS7v2Ley3ql) | [La Perla](https://open.spotify.com/album/64jWfutlMw2TtMaTg9TZCC) | 3:01 | 2024-12-27 |  |
+| [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa) | 3:02 | 2024-12-28 |  |
 | [La Perrada de la R](https://open.spotify.com/track/2rfhYUlnrj8d9NvOMfiAl4) | [Proceder Elegante](https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO) | [La Perrada de la R](https://open.spotify.com/album/3mEa2RTqTJF4oMJ2UpwocX) | 2:50 | 2024-07-05 | 2024-07-13 |
 | [La Persecucion \- En Vivo](https://open.spotify.com/track/1HVp4y9dSF7UlgGv0w2kth) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [La Persecucion \- En Vivo](https://open.spotify.com/album/7ai5b1AhmFB7C2oPmzBSE5) | 3:04 | 2024-09-13 | 2024-09-21 |
 | [La Picare \(En Vivo\)](https://open.spotify.com/track/73JnG6DvSoKWsRXxmaxNPH) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [La Picare \(En Vivo\)](https://open.spotify.com/album/4D9UkdKMa1mLLCvsKzwBYP) | 2:45 | 2022-11-25 | 2022-12-03 |
@@ -6517,7 +6518,7 @@
 | [¿Qué Pasó Ayer?](https://open.spotify.com/track/0aDdzzPlhsbIuveJAM0mOw) | [El Mesía](https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Palm Street Music, Vol\. 1](https://open.spotify.com/album/7fwncJsgC0MNq75dIOb6Yg) | 2:55 | 2023-12-08 | 2023-12-16 |
 | [¿Qué Pasó Con Nuestro Amor?](https://open.spotify.com/track/6R5AJPv9aEyrpJXTgpqET2) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [La Tropa Chicana](https://open.spotify.com/artist/438inxhXA6h5CIpc9iVS3M) | [¿Qué Pasó Con Nuestro Amor?](https://open.spotify.com/album/2ktzaVGT4mFB6tMlFMH9xV) | 3:25 | 2024-07-19 | 2024-07-27 |
 | [¿Qué Pasó?](https://open.spotify.com/track/4Cy74DGQEGNJFtjimJ6oSz) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [¿Qué Pasó?](https://open.spotify.com/album/6NFi8fT74C6x2sebQkcHG1) | 3:19 | 2023-09-08 | 2023-09-16 |
-| [¿Qué Puedes Perder? \(En Vivo\)](https://open.spotify.com/track/4XC08iW7MDM7zEyctHTWSM) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Haciendo Caminito \(En Vivo\)](https://open.spotify.com/album/3Ne5dpgjKBICSbDHyUnEb9) | 2:58 | 2024-12-20 |  |
+| [¿Qué Puedes Perder? \(En Vivo\)](https://open.spotify.com/track/4XC08iW7MDM7zEyctHTWSM) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Haciendo Caminito \(En Vivo\)](https://open.spotify.com/album/3Ne5dpgjKBICSbDHyUnEb9) | 2:58 | 2024-12-20 | 2024-12-29 |
 | [¿Qué Se Siente?](https://open.spotify.com/track/4160uHuO33PVowET0ZZfON) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [¿Qué Se Siente?](https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9) | 2:56 | 2024-01-26 | 2024-02-10 |
 | [¿Qué Se Te Quitó?](https://open.spotify.com/track/2VaHYCxdN3xpNAQdPzIqkG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [¿Qué Se Te Quitó?](https://open.spotify.com/album/0IHTlF1XZDLBtiGKiULBuW) | 1:27 | 2023-03-31 | 2023-04-09 |
 | [¿Qué Será De Mi Ex?](https://open.spotify.com/track/0gCfxoxgd6RhJdbHV48ft4) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [On The Road](https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ) | 2:32 | 2024-05-17 | 2024-05-25 |

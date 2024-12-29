@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 38053,
+  "num_followers": 38056,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Italian Classics: Fred Bongusto, Vol. 1",
-        "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
-      },
-      "artists": [
-        {
-          "name": "Fred Bongusto",
-          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
-        }
-      ],
-      "duration_ms": 168642,
-      "name": "Una rotonda sul mare",
-      "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Edoardo Vianello",
         "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 149600,
       "name": "Abbronzatissima",
       "url": "https://open.spotify.com/track/6OIZN7iSLdw6ml70zRlAUu"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Italian Classics: Fred Bongusto, Vol. 1",
+        "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
+      },
+      "artists": [
+        {
+          "name": "Fred Bongusto",
+          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
+        }
+      ],
+      "duration_ms": 168642,
+      "name": "Una rotonda sul mare",
+      "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Edoardo Vianello",
+        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Guarda Come Dondolo",
+      "url": "https://open.spotify.com/track/5cnBqPh3jlnKCsYi3BeBsQ"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Riccardo Del Turco",
         "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 252786,
       "name": "Legata a un granello di sabbia",
       "url": "https://open.spotify.com/track/6LlthKltcBuc1tOIeUUtI1"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Edoardo Vianello",
-        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Guarda Come Dondolo",
-      "url": "https://open.spotify.com/track/5cnBqPh3jlnKCsYi3BeBsQ"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Stessa spiaggia stesso mare",
-        "url": "https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK"
-      },
-      "artists": [
-        {
-          "name": "Piero Focaccia",
-          "url": "https://open.spotify.com/artist/0lJodOFdgKJsP8TWJlhVjK"
-        }
-      ],
-      "duration_ms": 180333,
-      "name": "Stessa spiaggia stesso mare",
-      "url": "https://open.spotify.com/track/30FSOhZMMbmbBvWHKO1zRH"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Nico Fidenco",
         "url": "https://open.spotify.com/album/3BodpekIovNHAQdlArIVjA"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 160346,
       "name": "Con Te Sulla Spiaggia",
       "url": "https://open.spotify.com/track/5qL9G387FzVFVgV92WU34K"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Stessa spiaggia stesso mare",
+        "url": "https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK"
+      },
+      "artists": [
+        {
+          "name": "Piero Focaccia",
+          "url": "https://open.spotify.com/artist/0lJodOFdgKJsP8TWJlhVjK"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "Stessa spiaggia stesso mare",
+      "url": "https://open.spotify.com/track/30FSOhZMMbmbBvWHKO1zRH"
     },
     {
       "added_at": "2024-08-02 00:01:00",

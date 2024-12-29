@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 33412,
+  "num_followers": 33420,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAA2oK6Kdzlt2YvQ/oD65sr2",
+  "snapshot_id": "Z23uAAAAAAAHRisKY9D0ptgZcElOXJSt",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "My Own Way",
-      "url": "https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ollie Ollie Oxen Free",
         "url": "https://open.spotify.com/album/4MBEuKyxcVRFFMtXIWlRH1"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 132466,
       "name": "Don't Tear Me Down",
       "url": "https://open.spotify.com/track/5mSr9lvz9wQkSX0L2kUs50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "My Own Way",
+      "url": "https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Final Day - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1IbACCa6rZ9fTuI6YYS1cF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 146333,
       "name": "The World",
       "url": "https://open.spotify.com/track/2WD64H3EBdbIisfP34X0ea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "Final Day - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1IbACCa6rZ9fTuI6YYS1cF"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Won't Give Up The Fight",
+      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 158080,
       "name": "No Reason Why - 2005 Remaster",
       "url": "https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 131480,
-      "name": "American Lies",
-      "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 131480,
+      "name": "American Lies",
+      "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 85946,
       "name": "Rules - 2005 Remaster",
       "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Won't Give Up The Fight",
-      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
     },
     {
       "added_at": null,

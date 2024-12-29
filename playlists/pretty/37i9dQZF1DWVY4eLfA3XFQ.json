@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Chris Lorenzo \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 641454,
+  "num_followers": 641532,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1981,42 +1981,6 @@
       "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
     },
     {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
-      },
-      "artists": [
-        {
-          "name": "Meck",
-          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 215540,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Weekend / Control the Media",
-        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 178921,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Jet Setter",
@@ -2035,6 +1999,42 @@
       "duration_ms": 174890,
       "name": "Jet Setter",
       "url": "https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Weekend / Control the Media",
+        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 178921,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
+      },
+      "artists": [
+        {
+          "name": "Meck",
+          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 215540,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2153,30 +2153,6 @@
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/4J5YT80bIX48JsmtlKnhIB"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        },
-        {
-          "name": "AK RENNY",
-          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "212",
-      "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
-    },
-    {
       "added_at": "2024-11-29 05:26:04",
       "album": {
         "name": "Rockstar",
@@ -2211,6 +2187,30 @@
       "duration_ms": 178500,
       "name": "Carry Out",
       "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "212",
+        "url": "https://open.spotify.com/album/4J5YT80bIX48JsmtlKnhIB"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "212",
+      "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2325,6 +2325,22 @@
       "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Disco Bus",
+        "url": "https://open.spotify.com/album/2e6d7OALNSuqyNZCodHTf6"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Disco Bus",
+      "url": "https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "D.A.N.C.E",
@@ -2339,30 +2355,6 @@
       "duration_ms": 157142,
       "name": "D.A.N.C.E",
       "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
-    },
-    {
-      "added_at": "2024-11-29 05:26:04",
-      "album": {
-        "name": "Go Deep",
-        "url": "https://open.spotify.com/album/6c69kxdg4BMAS50DqA1lL2"
-      },
-      "artists": [
-        {
-          "name": "James Haskell",
-          "url": "https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Gene Farris",
-          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
-        }
-      ],
-      "duration_ms": 190161,
-      "name": "Go Deep",
-      "url": "https://open.spotify.com/track/2wMaAledVg5K34rwel94lv"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2389,24 +2381,28 @@
       "url": "https://open.spotify.com/track/7tpEzAYTGYdDGQJ1MQtoII"
     },
     {
-      "added_at": "2024-12-13 05:00:15",
+      "added_at": "2024-11-29 05:26:04",
       "album": {
-        "name": "Girl In The Club",
-        "url": "https://open.spotify.com/album/2KbLzrMKim1Gg3Kd4z2sHt"
+        "name": "Go Deep",
+        "url": "https://open.spotify.com/album/6c69kxdg4BMAS50DqA1lL2"
       },
       "artists": [
         {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+          "name": "James Haskell",
+          "url": "https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj"
         },
         {
-          "name": "Robert Flott",
-          "url": "https://open.spotify.com/artist/2YwN2tSu8mKglhQjmzmjQo"
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
         }
       ],
-      "duration_ms": 182343,
-      "name": "Girl In The Club",
-      "url": "https://open.spotify.com/track/2X0I1Ky8BOxJ6a4ZC9x8QX"
+      "duration_ms": 190161,
+      "name": "Go Deep",
+      "url": "https://open.spotify.com/track/2wMaAledVg5K34rwel94lv"
     }
   ],
   "unique_name": "Tech House Operator",

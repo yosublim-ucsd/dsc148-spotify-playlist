@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Cardellino.",
-  "num_followers": 751477,
+  "num_followers": 751448,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
-        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
-        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "pero me estoy acabando.",
-      "url": "https://open.spotify.com/track/4UcnP64mbjBbjSDgSv5YYT"
-    },
-    {
-      "added_at": "2024-12-16 19:07:35",
-      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 181546,
       "name": "Ay No Puedo",
       "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY"
+    },
+    {
+      "added_at": "2024-12-16 19:07:35",
+      "album": {
+        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
+        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "pero me estoy acabando.",
+      "url": "https://open.spotify.com/track/4UcnP64mbjBbjSDgSv5YYT"
     },
     {
       "added_at": "2024-12-16 19:07:35",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
-        "name": "Pienso En Vos",
-        "url": "https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Pienso En Vos",
-      "url": "https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ"
-    },
-    {
-      "added_at": "2024-12-16 19:07:35",
-      "album": {
         "name": "que no te falte de na",
         "url": "https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 202546,
       "name": "par d ni\u00f1os",
       "url": "https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28"
+    },
+    {
+      "added_at": "2024-12-16 19:07:35",
+      "album": {
+        "name": "Pienso En Vos",
+        "url": "https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Pienso En Vos",
+      "url": "https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ"
     },
     {
       "added_at": "2024-12-16 19:07:35",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-16 19:07:35",
       "album": {
-        "name": "CONF\u00cdO",
-        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "CONF\u00cdO",
-      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
-    },
-    {
-      "added_at": "2024-12-16 19:07:35",
-      "album": {
         "name": "Hablas",
         "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 156013,
       "name": "Hablas",
       "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
+    },
+    {
+      "added_at": "2024-12-16 19:07:35",
+      "album": {
+        "name": "CONF\u00cdO",
+        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "CONF\u00cdO",
+      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
     },
     {
       "added_at": "2024-12-16 19:07:35",

@@ -722,7 +722,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 509840,
       "name": "A Broken Man",
       "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
@@ -5188,7 +5188,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 231186,
       "name": "Blood Dynasty",
       "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
@@ -5650,7 +5650,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 210731,
       "name": "Buler\u00eda (feat. Matiah Chinaski)",
       "url": "https://open.spotify.com/track/0g5oUUZpgPE1zMznLdgdf8"
@@ -7557,6 +7557,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n de Im\u00e1n (Homenaje a Medell\u00edn)",
+        "url": "https://open.spotify.com/album/3h3ErEec09J09JoWPrTadq"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128899,
+      "name": "Coraz\u00f3n de Im\u00e1n (Homenaje a Medell\u00edn)",
+      "url": "https://open.spotify.com/track/3KdfkucMpM4qIFHTYRXNKM"
+    },
+    {
+      "album": {
         "name": "Corona Flow",
         "url": "https://open.spotify.com/album/2f5T5nSAJusaNRTmEAhJYb"
       },
@@ -7918,7 +7936,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 187512,
       "name": "Creepshow",
       "url": "https://open.spotify.com/track/3KsjjnHF7vwp4RLz4eAy98"
@@ -10594,7 +10612,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 163865,
       "name": "El Chucu Chucu",
       "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
@@ -11590,7 +11608,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 184341,
       "name": "Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/0nzNlCjPhTMWBABJVljRc5"
@@ -21558,7 +21576,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 214626,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
@@ -24644,7 +24662,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 176432,
       "name": "Navidad De Locos",
       "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
@@ -28190,7 +28208,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 312546,
       "name": "Premonition",
       "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
@@ -29264,7 +29282,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 174288,
       "name": "Ra\u00edces",
       "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
@@ -29888,7 +29906,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 237647,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/7kxKxF9WUqhN9wF288xje4"
@@ -32608,7 +32626,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 223933,
       "name": "Sky Restaurant",
       "url": "https://open.spotify.com/track/2pUGlOapqG010nqQoH0p8C"

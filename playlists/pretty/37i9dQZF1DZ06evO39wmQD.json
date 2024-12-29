@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 2839,
+  "num_followers": 2841,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAC9jD4Smc+6zOhpmcYpUAnz",
+  "snapshot_id": "Z23uAAAAAADRfZ8+sl6ggm9WS73s0wO9",
   "tracks": [
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whispering (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Whispering - Rise Cast Version",
-      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
         "url": "https://open.spotify.com/album/5VY1W3g3rveouscdB7FqDy"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 207000,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/17FXdKgMlXaRey3MPkLhN2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whispering (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Whispering - Rise Cast Version",
+      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
     },
     {
       "added_at": null,

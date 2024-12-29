@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,851 songs - 1 day 13 hr 57 min
+1,853 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Calm Again](https://open.spotify.com/track/1m7IGe5lBiVTk8ipPJBvNg) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Calm Again](https://open.spotify.com/album/3QCjXnrnfxVIxCaFYdz6L8) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Calm Answers](https://open.spotify.com/track/2DUR3GrTmuRWjst4TdMdZm) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Calm Breeze](https://open.spotify.com/track/133xZ19H5RUZwpBz7DYuIG) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Warmth](https://open.spotify.com/album/7kifavgLRswEIoUyTH8anB) | 1:49 | 2024-01-29 |  |
+| [Calm Day](https://open.spotify.com/track/1WQmPDq5Hdn8uAEp1QT2cT) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Calm Day](https://open.spotify.com/album/569aBV3mPwaxb0E37SKNfg) | 1:00 | 2024-12-28 |  |
 | [Calm Flow By The River](https://open.spotify.com/track/0eJ6oMn3Uu83hmYzbdRd9Y) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Orange Glow](https://open.spotify.com/album/1UZ3SSDvDCCQQKUxZjIzLk) | 1:01 | 2022-02-24 |  |
 | [Calm Flow Of The River \- Cello Version](https://open.spotify.com/track/5z69YyGPFEqNZUlGi57Fn6) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Calm Flow Of The River](https://open.spotify.com/album/18BvwAHqy0s7ggYAte95dy) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Calm Flow Of The River \- Strings Version](https://open.spotify.com/track/2BV6JqhpuPkT8WuTApdiBV) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Flow Of The River \(Strings Version\)](https://open.spotify.com/album/6hkGpiFvnQqSTJlQ96QfL9) | 1:00 | 2024-01-15 | 2024-02-13 |
@@ -870,6 +871,7 @@
 | [Itsy Bitsy Spider \- Cello Version](https://open.spotify.com/track/53fN9LU443iNUzgvbjmjq4) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Itsy Bitsy Spider \(Cello Version\)](https://open.spotify.com/album/7b6YCFcQlMidxUr5eI38c9) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Jack And Jill Arr\. For Cello](https://open.spotify.com/track/5iBnwWLOr2XVSAn3OV9dJk) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Jack And Jill Arr\. For Cello](https://open.spotify.com/album/7D3XCWIkSJR2sbxJj0KCYP) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [January \- Cello Version](https://open.spotify.com/track/1jyUZF5c3qDO0p8Rfb2aYR) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [January Melody](https://open.spotify.com/album/0vXU5TUY60rCoUg75Alqwn) | 1:02 | 2023-04-08 | 2024-02-13 |
+| [January Lullaby](https://open.spotify.com/track/1aqnsG9hLnMYKjKPrdbXqz) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [January Lullaby](https://open.spotify.com/album/171f0QYgGvQGfuSHctLMEY) | 1:00 | 2024-12-28 |  |
 | [Join](https://open.spotify.com/track/70ScDxDyS7RTTWd2wLVfUa) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Join](https://open.spotify.com/album/7nYU5m1WzGeMg45dKkEQAK) | 1:00 | 2024-10-09 |  |
 | [Joining Hands](https://open.spotify.com/track/3ZmoYJ81eKaVn891ZpZwBE) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [July \- Piano Lullaby Version](https://open.spotify.com/track/2h7Q2XEUSz8mzM37JhWj9v) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [July](https://open.spotify.com/album/607WQQDShvtBHRf6oEA0HW) | 1:00 | 2024-04-18 |  |

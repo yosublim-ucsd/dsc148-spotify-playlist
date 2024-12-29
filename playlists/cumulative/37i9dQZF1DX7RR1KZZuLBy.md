@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-332 songs - 1 day 6 hr 36 min
+333 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [He Keeps on Doing \- Live](https://open.spotify.com/track/3W4cz3OHnncxrl0Oyl1eq1) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Victorious in His Presence](https://open.spotify.com/album/3f4jEnTgYErjDKNdmYtBWP) | 8:06 | 2018-09-23 | 2023-11-03 |
 | [He Keeps on Doing \- Live](https://open.spotify.com/track/7MPTAGwPRQ4wymqL3pHD71) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Victorious in His Presence \(Live\)](https://open.spotify.com/album/4QykhBdI1H5g8dUYjmTBz0) | 8:06 | 2018-09-23 | 2022-10-28 |
 | [He Sees You](https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd) | 3:37 | 2024-05-31 |  |
-| [He Wants It All](https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS) | [Forever Jones](https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q) | [Get Ready](https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6) | 3:27 | 2023-09-26 |  |
+| [He Wants It All](https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS) | [Forever Jones](https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q) | [Get Ready](https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6) | 3:27 | 2023-09-26 | 2024-12-29 |
 | [He Who Is To Come](https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [He Who Is To Come](https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or) | 6:50 | 2023-12-15 | 2024-05-24 |
 | [Healing Power](https://open.spotify.com/track/1PrDPNPRhZvHyXaM2UxGea) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 7:07 | 2023-11-03 | 2023-11-10 |
 | [Hello God](https://open.spotify.com/track/5vCmQ3GFBY338mNytXxXaB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Overcomer](https://open.spotify.com/album/6pqXXcSmkHmuODhcFLfNuQ) | 4:19 | 2024-08-08 | 2024-08-16 |
@@ -236,6 +236,7 @@
 | [Raise a Hallelujah \- Live](https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 7:50 | 2020-03-31 | 2024-08-09 |
 | [Red Dirt Church \(feat\. NEEDTOBREATHE\)](https://open.spotify.com/track/2Dm1IoIlLaa0rIjMBLfk0a) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [The Afterparty Deluxe](https://open.spotify.com/album/1w19pMaq0hP50uuhc8fHP4) | 2:58 | 2023-11-03 | 2023-12-30 |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2024-07-05 |  |
+| [Running Back To You](https://open.spotify.com/track/6Kfd3XrgqJ0M50O3Z5KN9c) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:20 | 2024-05-31 |  |
 | [Sedi Laka](https://open.spotify.com/track/55R6ZfzE8M1dVlZc9gC0lo) | [OKAY GOD](https://open.spotify.com/artist/2hFJOQgC6LBgvQKudZBXFH), [Zito Mowa](https://open.spotify.com/artist/3Dk9FD41zSgiSrJYgmhmRj) | [Sedi Laka](https://open.spotify.com/album/3KNfJeqQpZkKDgKyAfqJKt) | 4:08 | 2023-09-22 | 2023-11-03 |
 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 | 2020-03-31 |  |
 | [Set Our Hearts On You](https://open.spotify.com/track/0p9ZAOl4zccCzLuG8Zu5Kq) | [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [Set Our Hearts On You](https://open.spotify.com/album/3SMVBmid1i45wkKam94eW6) | 4:22 | 2020-11-12 | 2023-06-23 |

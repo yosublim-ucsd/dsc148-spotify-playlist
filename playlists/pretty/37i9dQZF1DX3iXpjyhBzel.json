@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Drops INA",
-  "num_followers": 1105599,
+  "num_followers": 1105837,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Toda Terra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 519302,
-      "name": "Toda Terra - Ao Vivo",
-      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
         "name": "Santo Pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 312219,
       "name": "Santo Pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Si\u00e3o / Derrama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 508733,
-      "name": "Si\u00e3o / Derrama - Ao Vivo",
-      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -923,6 +903,26 @@
       "duration_ms": 411745,
       "name": "Estou Te Esperando (Ao Vivo)",
       "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
+        "name": "Si\u00e3o / Derrama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 508733,
+      "name": "Si\u00e3o / Derrama - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7CDUMKg8F0ZYHhfItP6W3O"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
         "name": "O Poder da Ora\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3tXpZLOyWPrNxIaiccqr6Y"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 287520,
       "name": "O Poder da Ora\u00e7\u00e3o (Ao Vivo)",
       "url": "https://open.spotify.com/track/2sJPK9cbeZ6ScCA3R8MvgB"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
+        "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7CDUMKg8F0ZYHhfItP6W3O"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 438080,
-      "name": "N\u00f3s Te Adoramos - Ao Vivo",
-      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
         "name": "Mem\u00f3ri4s Groove (Ao Vivo)",
         "url": "https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 277777,
       "name": "Santo, Santo, Santo - Ao Vivo",
       "url": "https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
+        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 438080,
+      "name": "N\u00f3s Te Adoramos - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "\u00c9 Sobre Ele (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
       "artists": [
         {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 354250,
-      "name": "A Melhor Parte - Ao Vivo",
-      "url": "https://open.spotify.com/track/4eEVADJvhubm7mSCAt9jz2"
+      "duration_ms": 320186,
+      "name": "Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -1579,6 +1579,22 @@
       "duration_ms": 378498,
       "name": "Merecedor da Gl\u00f3ria (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KrMGcI7P8lZIGMlqYeJC9"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
+        "name": "\u00c9 Sobre Ele (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 354250,
+      "name": "A Melhor Parte - Ao Vivo",
+      "url": "https://open.spotify.com/track/4eEVADJvhubm7mSCAt9jz2"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -1615,22 +1631,6 @@
       "duration_ms": 330921,
       "name": "Fidelidade (Ao Vivo)",
       "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
-        "name": "Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
     },
     {
       "added_at": "2024-12-27 03:01:07",

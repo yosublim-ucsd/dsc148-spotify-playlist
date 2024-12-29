@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAABtrbCqoNvOn+ZXyaMEdQr/",
+  "snapshot_id": "Z23uAAAAAACIfqTakwhypK3g1gbM9R0Y",
   "tracks": [
     {
       "added_at": null,
@@ -351,30 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pe\u00e7a Final",
-        "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
       },
       "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Proibido",
-      "url": "https://open.spotify.com/track/3F9y4nfxXCkt8KFr3DuC1H"
+      "duration_ms": 193052,
+      "name": "S\u00f3 Lamento",
+      "url": "https://open.spotify.com/track/6OT7k19AcCujMXzYaIYmFa"
     },
     {
       "added_at": null,
@@ -407,22 +399,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+        "name": "A Pe\u00e7a Final",
+        "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
       },
       "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         }
       ],
-      "duration_ms": 193052,
-      "name": "S\u00f3 Lamento",
-      "url": "https://open.spotify.com/track/6OT7k19AcCujMXzYaIYmFa"
+      "duration_ms": 136615,
+      "name": "Proibido",
+      "url": "https://open.spotify.com/track/3F9y4nfxXCkt8KFr3DuC1H"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 155889,
-      "name": "Ranger Preta",
-      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Vida De Uma Gostosa",
         "url": "https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 157200,
       "name": "A Vida De Uma Gostosa",
       "url": "https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 155889,
+      "name": "Ranger Preta",
+      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
     },
     {
       "added_at": null,
@@ -999,22 +999,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mete Mac Vol 1",
-        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
+        "name": "Ele Me Trata Com Carinho",
+        "url": "https://open.spotify.com/album/3zOy2RcOCukG7hkQMAedfq"
       },
       "artists": [
+        {
+          "name": "Dj Lc",
+          "url": "https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY"
+        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "Complexo dos Hits",
+          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
         }
       ],
-      "duration_ms": 224500,
-      "name": "Olha Beb\u00ea",
-      "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
+      "duration_ms": 128307,
+      "name": "Ele Me Trata Com Carinho",
+      "url": "https://open.spotify.com/track/3D8yus8dn7Yz13QTOyhQwZ"
     },
     {
       "added_at": null,
@@ -1039,6 +1047,26 @@
       "duration_ms": 108000,
       "name": "Eu Vou Te Levar pro C\u00e9u",
       "url": "https://open.spotify.com/track/7DS4Wlph55hKpYKHK5FDb1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mete Mac Vol 1",
+        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Olha Beb\u00ea",
+      "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
     },
     {
       "added_at": null,
@@ -1083,34 +1111,6 @@
       "duration_ms": 170000,
       "name": "Avenida Brasil",
       "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Me Trata Com Carinho",
-        "url": "https://open.spotify.com/album/3zOy2RcOCukG7hkQMAedfq"
-      },
-      "artists": [
-        {
-          "name": "Dj Lc",
-          "url": "https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Mc Pretchako",
-          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
-        },
-        {
-          "name": "Complexo dos Hits",
-          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
-        }
-      ],
-      "duration_ms": 128307,
-      "name": "Ele Me Trata Com Carinho",
-      "url": "https://open.spotify.com/track/3D8yus8dn7Yz13QTOyhQwZ"
     },
     {
       "added_at": null,

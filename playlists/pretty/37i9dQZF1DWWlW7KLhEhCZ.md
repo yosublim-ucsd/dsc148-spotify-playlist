@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Mattyahu
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,029 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,010 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 52 | [Tentei](https://open.spotify.com/track/0Bx1xUinWUMVRbKICzvNsC) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T) | [Tentei](https://open.spotify.com/album/2KttO7mQz9KR0Oe0v7xPyI) | 2:34 |
 | 53 | [Esse Cara Sou Eu](https://open.spotify.com/track/1AaUta1cp8c3Lzf6URLWyr) | [CARTE](https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Esse Cara Sou Eu](https://open.spotify.com/album/5KEDaXAMqePvDVf1e00LlZ) | 2:14 |
 | 54 | [Jogando Fácil](https://open.spotify.com/track/2euUKEVv7cDFcsfvG3UA5T) | [Rugal Rg](https://open.spotify.com/artist/59WdFVctlryL9Av3twmeEM), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Jogando Fácil](https://open.spotify.com/album/3BB93998oT9yAcIS0KEv6u) | 2:34 |
-| 55 | [DOT](https://open.spotify.com/track/4yP1jaoSAFzcfMm4uAbnzs) | [FyeBwoii](https://open.spotify.com/artist/1TqnOc6Peow4jowVNp4DZm), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [DOT](https://open.spotify.com/album/5MMOY8QodxVK4eHbYlKBDr) | 2:51 |
+| 55 | [DOT](https://open.spotify.com/track/4yP1jaoSAFzcfMm4uAbnzs) | [FYE](https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [DOT](https://open.spotify.com/album/5MMOY8QodxVK4eHbYlKBDr) | 2:51 |
 | 56 | [Preferida](https://open.spotify.com/track/3kpEQXGrj867JLYVHF27Tv) | [LsZ](https://open.spotify.com/artist/3J0O2NqXOIiL8NKdOAGIsF), [Dazzen](https://open.spotify.com/artist/0Ak2qPeQmHnUH8gT54f4zr), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [Thurts](https://open.spotify.com/artist/0Gt2Yy7O5Dgf3PheRhZghi) | [Preferida](https://open.spotify.com/album/03oud2CBIVHjwd8J65YVOd) | 2:32 |
 | 57 | [CALVIN KLEIN](https://open.spotify.com/track/2SxnF7ibCTxMihwyiW7znz) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [F\*\*K SONGS](https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi) | 2:55 |
 | 58 | [Tão Diferente](https://open.spotify.com/track/7DlGrDlvWgCo57Krgi0PW7) | [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [LV](https://open.spotify.com/artist/3f6CmIIWksZbvLr5Of18BY) | [Tão Diferente](https://open.spotify.com/album/5nRkCwlT8hoDnB9ZzxqAJD) | 3:04 |

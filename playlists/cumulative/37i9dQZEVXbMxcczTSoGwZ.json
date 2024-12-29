@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -11308,7 +11308,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 163330,
       "name": "Haloo",
       "url": "https://open.spotify.com/track/1iBB1eaWLm2B70LqUCdMZi"
@@ -15772,7 +15772,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 278786,
       "name": "Joulun kanssas jaan (feat. Cantores Minores)",
       "url": "https://open.spotify.com/track/3RCxl6HWK4ADOzMbY8FZCw"
@@ -20266,7 +20266,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -22490,7 +22490,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 139171,
       "name": "Maa ilman vett\u00e4",
       "url": "https://open.spotify.com/track/5gFVdvBQ0wVIZPYqrMSM8m"
@@ -27905,6 +27905,24 @@
     },
     {
       "album": {
+        "name": "N\u00e4ihin hommiin ei synnyt\u00e4",
+        "url": "https://open.spotify.com/album/1fgrqR1FWrPEhiDatGo1gL"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "N\u00e4ihin hommiin ei synnyt\u00e4",
+      "url": "https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR"
+    },
+    {
+      "album": {
         "name": "N\u00e4iss\u00e4 juhlissa ei itket\u00e4 / Linnut lent\u00e4v\u00e4t takaisin",
         "url": "https://open.spotify.com/album/4i9HOk6yXneDqveIZENvDx"
       },
@@ -29384,7 +29402,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 220082,
       "name": "Painava syd\u00e4n",
       "url": "https://open.spotify.com/track/6Sgm8FkveMWMOKExKX0Q46"
@@ -32952,7 +32970,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -33916,7 +33934,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 160106,
       "name": "Satama",
       "url": "https://open.spotify.com/track/3uFYqmo1tBXqITBLsnHsUx"
@@ -35778,7 +35796,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -38676,7 +38694,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 197027,
       "name": "Taulut (feat. Costi)",
       "url": "https://open.spotify.com/track/6ts28afrgkAWqSAbhkN01U"
@@ -45220,7 +45238,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 148472,
       "name": "Yks Kaks",
       "url": "https://open.spotify.com/track/16Wa4Kq12iWEOgj1TC2FXn"

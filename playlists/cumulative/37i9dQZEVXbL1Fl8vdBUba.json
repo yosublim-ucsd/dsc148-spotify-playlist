@@ -166,7 +166,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 187045,
       "name": "Adonay",
       "url": "https://open.spotify.com/track/4yzEzfJRG2KpT6JBed7Wzw"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 189453,
       "name": "Adonay",
       "url": "https://open.spotify.com/track/6aMhENDm72fgzbg3HkGExn"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 226730,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 230306,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
@@ -981,6 +981,28 @@
     },
     {
       "album": {
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
+    },
+    {
+      "album": {
         "name": "De Peligro",
         "url": "https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k"
       },
@@ -996,7 +1018,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 200666,
       "name": "Daniela",
       "url": "https://open.spotify.com/track/4eMjJ98X5b5bu4wzdW4U6l"
@@ -1340,7 +1362,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 173386,
       "name": "El Hijo Ausente",
       "url": "https://open.spotify.com/track/3TqgsPZFuI33G3939uyQ1v"
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 173386,
       "name": "El Hijo Ausente",
       "url": "https://open.spotify.com/track/0MylXcqKagwOrtMNQDyj1B"
@@ -2656,7 +2678,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 287146,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz"
@@ -2678,10 +2700,32 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos los Corraleros de Majagual",
+        "url": "https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX"
+      },
+      "artists": [
+        {
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        },
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158515,
+      "name": "Los Sabanales",
+      "url": "https://open.spotify.com/track/07LEfeN7VeSRQJ9Ejn2ZQ3"
     },
     {
       "album": {
@@ -2700,7 +2744,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 162826,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
@@ -4295,6 +4339,24 @@
     },
     {
       "album": {
+        "name": "Listos para Bailar",
+        "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219498,
+      "name": "Se Va la Vida",
+      "url": "https://open.spotify.com/track/5ayLeELVP0BNklcdHvSiDj"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Ch\u00e9vere",
         "url": "https://open.spotify.com/album/4wDJkHIq0hCqnmO3mqamJC"
       },
@@ -4310,7 +4372,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-29",
       "duration_ms": 218920,
       "name": "Se V\u00e1 la Vida",
       "url": "https://open.spotify.com/track/7o2YP2J1ygAv9ebgCPjxhs"

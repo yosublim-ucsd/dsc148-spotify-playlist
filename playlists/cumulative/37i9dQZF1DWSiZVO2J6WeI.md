@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-413 songs - 21 hr 5 min
+414 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [528 Hz Seraphic Waves](https://open.spotify.com/track/2vAOQNm009ERHXW1uclwg0) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528 Hz Seraphic Waves](https://open.spotify.com/album/4cEtf9VE8UVNhvGgfJTLTq) | 2:51 | 2024-01-17 |  |
 | [741 Hz Pure Expression](https://open.spotify.com/track/48R0qTAVmLRyTxxT8PhUA9) | [Floating On Clouds](https://open.spotify.com/artist/0A6cVdn2JhwPmYnBQrXRSK) | [741 Hz Pure Expression](https://open.spotify.com/album/3R1ahXku6SNrnXE5xVThif) | 3:02 | 2024-10-15 |  |
 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 | 2022-01-12 | 2024-05-21 |
+| [A Lotus Life](https://open.spotify.com/track/6X2WDWzucPkXOaRm7LjSjn) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [A Lotus Life](https://open.spotify.com/album/55XiQKhbIIjBT1zQYFQAjX) | 3:10 | 2024-12-17 |  |
 | [Aarshedh](https://open.spotify.com/track/5Y6o3Nq4bKwMovfImGrgpP) | [Alm Bark](https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG) | [Peaceful Binaural](https://open.spotify.com/album/5M1CSEAJN5d8N9RxinRRPo) | 3:53 | 2022-04-13 | 2022-04-21 |
 | [Aeterna](https://open.spotify.com/track/5PFe4q5VmBRaYUnXSeZ6EX) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Aeterna](https://open.spotify.com/album/1qlIcbSfHK3qmZUgT2vADm) | 3:08 | 2024-01-17 | 2024-02-08 |
 | [Aeternus](https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Aeternus](https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad) | 3:06 | 2024-01-17 |  |
@@ -198,7 +199,7 @@
 | [Idyllical](https://open.spotify.com/track/18mMg1h2pxTKpQSLvPKzWU) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Idyllical](https://open.spotify.com/album/3JcxvzCmYNp0ts3MmQcgS9) | 2:46 | 2024-01-17 |  |
 | [illecebrous](https://open.spotify.com/track/0d7cx0ApKrKqpB1LCI0gja) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [illecebrous](https://open.spotify.com/album/44ustRoAmDpgAd8RyrvfiD) | 2:25 | 2024-01-17 |  |
 | [Immersion](https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [String Of Light](https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR) | 2:49 | 2022-01-12 | 2024-05-21 |
-| [In Dreams](https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [In Dreams](https://open.spotify.com/album/03N395vFQrSeex8iFMShkg) | 2:22 | 2023-12-01 |  |
+| [In Dreams](https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [In Dreams](https://open.spotify.com/album/03N395vFQrSeex8iFMShkg) | 2:22 | 2023-12-01 | 2024-12-29 |
 | [In the Midst](https://open.spotify.com/track/3lQoTHU4TdBM3VGW70ZV1x) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [In the Midst](https://open.spotify.com/album/3yBxReys742ya4rB2ow3bt) | 3:29 | 2024-05-20 |  |
 | [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 | 2022-06-16 |  |
 | [Inevitably \- Deep Sleep Edit](https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inevitably](https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2) | 3:37 | 2022-01-12 | 2024-05-11 |

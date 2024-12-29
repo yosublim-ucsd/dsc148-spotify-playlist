@@ -5057,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Calm Day",
+        "url": "https://open.spotify.com/album/569aBV3mPwaxb0E37SKNfg"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60234,
+      "name": "Calm Day",
+      "url": "https://open.spotify.com/track/1WQmPDq5Hdn8uAEp1QT2cT"
+    },
+    {
+      "album": {
         "name": "Orange Glow",
         "url": "https://open.spotify.com/album/1UZ3SSDvDCCQQKUxZjIzLk"
       },
@@ -15562,6 +15580,24 @@
       "duration_ms": 62463,
       "name": "January - Cello Version",
       "url": "https://open.spotify.com/track/1jyUZF5c3qDO0p8Rfb2aYR"
+    },
+    {
+      "album": {
+        "name": "January Lullaby",
+        "url": "https://open.spotify.com/album/171f0QYgGvQGfuSHctLMEY"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2024-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60467,
+      "name": "January Lullaby",
+      "url": "https://open.spotify.com/track/1aqnsG9hLnMYKjKPrdbXqz"
     },
     {
       "album": {

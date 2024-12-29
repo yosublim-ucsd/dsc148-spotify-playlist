@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2024\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,926 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,297 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 94 | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C) | 3:08 |
 | 95 | [The Cure \(feat\. Chloe Paige\)](https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Chloe Paige](https://open.spotify.com/artist/5829bCNnWiHYQQvF5lMxWq) | [The Cure \(feat\. Chloe Paige\)](https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV) | 3:54 |
 | 96 | [That Sound \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [That Sound \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj) | 2:46 |
-| 97 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 |
-| 98 | [Every Morning](https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [Every Morning](https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF) | 3:43 |
+| 97 | [Every Morning](https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [Every Morning](https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF) | 3:43 |
+| 98 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 |
 | 99 | [Locomotiva Ibiza 2099 feat\. VTSS](https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Locomotiva Ibiza 2099 I](https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm) | 6:39 |
 | 100 | [Planet Blue](https://open.spotify.com/track/5MvfAqLuOzuJ46quLvHhwn) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Cleo Simone](https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne) | [Planet Blue](https://open.spotify.com/album/60JACgI9pZoolSzyl1yCTL) | 2:55 |
 

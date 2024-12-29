@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 92846,
+  "num_followers": 92836,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
+        "name": "Lykke te",
+        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Lykke te",
+      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 226666,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "Lykke te",
-        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Lykke te",
-      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
       "artists": [
         {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -595,6 +595,22 @@
       "duration_ms": 210807,
       "name": "Milk and honey",
       "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ"
+      },
+      "artists": [
+        {
+          "name": "Sivert H\u00f8yem",
+          "url": "https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ"
-      },
-      "artists": [
-        {
-          "name": "Sivert H\u00f8yem",
-          "url": "https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "TORRES TIVOLI",
         "url": "https://open.spotify.com/album/1W3jGggBsdahWy19uKxYMj"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "ok",
-      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
         "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 135480,
       "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
       "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -751,62 +751,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
-        "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        },
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 195929,
-      "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
-      "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "henda i v\u00e6ret",
-        "url": "https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        },
-        {
-          "name": "Daniela Rathana",
-          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
-        }
-      ],
-      "duration_ms": 161667,
-      "name": "henda i v\u00e6ret",
-      "url": "https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "DIASPORA DREAMS (THE QUICK STYLE SELECTION)",
         "url": "https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV"
       },
@@ -831,6 +775,82 @@
       "duration_ms": 229334,
       "name": "Meri Jaan - LePark Studio, Milan",
       "url": "https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "henda i v\u00e6ret",
+        "url": "https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        },
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        }
+      ],
+      "duration_ms": 161667,
+      "name": "henda i v\u00e6ret",
+      "url": "https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
+        "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        },
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 195929,
+      "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
+      "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "reasons why u should text me. (+1 (818) 643-6885)",
+        "url": "https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 147950,
+      "name": "shine.",
+      "url": "https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -919,26 +939,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "reasons why u should text me. (+1 (818) 643-6885)",
-        "url": "https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi"
-      },
-      "artists": [
-        {
-          "name": "will hyde",
-          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
-        },
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 147950,
-      "name": "shine.",
-      "url": "https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "Keeps Me Going",
         "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Glem meg, men jeg glemmer aldri",
-        "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
+        "name": "Over Deg",
+        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
       },
       "artists": [
         {
-          "name": "William Gamborg",
-          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
         }
       ],
-      "duration_ms": 142263,
-      "name": "Glem meg, men jeg glemmer aldri",
-      "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
+      "duration_ms": 147093,
+      "name": "Over Deg",
+      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Over Deg",
-        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
+        "name": "Glem meg, men jeg glemmer aldri",
+        "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
       },
       "artists": [
         {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+          "name": "William Gamborg",
+          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
         }
       ],
-      "duration_ms": 147093,
-      "name": "Over Deg",
-      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
+      "duration_ms": 142263,
+      "name": "Glem meg, men jeg glemmer aldri",
+      "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "B\u00f8lger",
-        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
-      },
-      "artists": [
-        {
-          "name": "3TOS",
-          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
-        }
-      ],
-      "duration_ms": 133875,
-      "name": "B\u00f8lger",
-      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "December (honey, honey)",
         "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 175392,
       "name": "December (honey, honey)",
       "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "B\u00f8lger",
+        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
+      },
+      "artists": [
+        {
+          "name": "3TOS",
+          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
+        }
+      ],
+      "duration_ms": 133875,
+      "name": "B\u00f8lger",
+      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Indre liv",
-        "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
+        "name": "Marilyn Monroe",
+        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
       },
       "artists": [
         {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 151893,
-      "name": "Ikke lenger din",
-      "url": "https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P"
+      "duration_ms": 174014,
+      "name": "Marilyn Monroe",
+      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Marilyn Monroe",
-        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
+        "name": "Indre liv",
+        "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
         }
       ],
-      "duration_ms": 174014,
-      "name": "Marilyn Monroe",
-      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
+      "duration_ms": 151893,
+      "name": "Ikke lenger din",
+      "url": "https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Som sommaren",
-        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
+        "name": "D\u00e5rlig id\u00e9",
+        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
         }
       ],
-      "duration_ms": 228624,
-      "name": "Som sommaren",
-      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
+      "duration_ms": 132616,
+      "name": "D\u00e5rlig id\u00e9",
+      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

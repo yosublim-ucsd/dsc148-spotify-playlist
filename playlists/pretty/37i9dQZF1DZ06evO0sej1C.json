@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 42213,
+  "num_followers": 42231,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAACxiYT+TNRWVj3UHm6B7YZl",
+  "snapshot_id": "Z23uAAAAAAA/cXb+SX8QUfN2CyVQH5RZ",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
       "duration_ms": 189600,
       "name": "Blunt",
       "url": "https://open.spotify.com/track/6QIZZAq8DnZ3ull7MW167v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Termin\u00f3",
+        "url": "https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 213900,
+      "name": "Se Termin\u00f3",
+      "url": "https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR"
     },
     {
       "added_at": null,
@@ -331,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Dijeron",
-        "url": "https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 187768,
-      "name": "No Me Dijeron",
-      "url": "https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROMA",
         "url": "https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW"
       },
@@ -371,6 +367,26 @@
       "duration_ms": 228292,
       "name": "No quiero que amanezca",
       "url": "https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Me Dijeron",
+        "url": "https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 187768,
+      "name": "No Me Dijeron",
+      "url": "https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J"
     },
     {
       "added_at": null,
@@ -711,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Quiero Verte",
+        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Ya No Quiero Verte",
+      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -731,26 +767,6 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Quiero Verte",
-        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Ya No Quiero Verte",
-      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e1melo",
         "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 183529,
       "name": "D\u00e1melo",
       "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": null,
@@ -963,22 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Qued\u00f3",
-        "url": "https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 207464,
-      "name": "Lo Que Qued\u00f3",
-      "url": "https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So\u00f1ar",
         "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 209000,
       "name": "So\u00f1ar",
       "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS"
     },
     {
       "added_at": null,
@@ -1099,22 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meow",
-        "url": "https://open.spotify.com/album/5UpOHlfix5UCaa5zjaT3O8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Ando Hasta La Nube",
-      "url": "https://open.spotify.com/track/6tZwAhUPp6SzRgsewipHDd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1KsikoVZSgJNztXBMjolgc"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 188501,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/0DNvAkAwLRecq9iZmnK5Wg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meow",
+        "url": "https://open.spotify.com/album/5UpOHlfix5UCaa5zjaT3O8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Ando Hasta La Nube",
+      "url": "https://open.spotify.com/track/6tZwAhUPp6SzRgsewipHDd"
     },
     {
       "added_at": null,

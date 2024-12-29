@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 118826,
+  "num_followers": 118889,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Hasta La Luna - EN VIVO LUNA PARK",
-        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 275845,
-      "name": "Adonde Est\u00e1n",
-      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "No Era Cierto - En Vivo En Argentina",
         "url": "https://open.spotify.com/album/6pwut5VJt6jFHkPNhDyVaP"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 258083,
       "name": "No Era Cierto - En Vivo En Argentina",
       "url": "https://open.spotify.com/track/6WkbvEq0p1lwLk9HiWET7x"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Hasta La Luna - EN VIVO LUNA PARK",
+        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 275845,
+      "name": "Adonde Est\u00e1n",
+      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Luna en Obras (En Vivo)",
+        "url": "https://open.spotify.com/album/66DKPufdxOw4bYcshbAjl4"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        }
+      ],
+      "duration_ms": 163014,
+      "name": "O No? - En Vivo",
+      "url": "https://open.spotify.com/track/5sncjhKWpdlgwQDJtWTvDA"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Solito Vas (En Vivo Movistar Arena)",
         "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
       },
@@ -1051,38 +1071,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Luna en Obras (En Vivo)",
-        "url": "https://open.spotify.com/album/66DKPufdxOw4bYcshbAjl4"
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
         }
       ],
-      "duration_ms": 163014,
-      "name": "O No? - En Vivo",
-      "url": "https://open.spotify.com/track/5sncjhKWpdlgwQDJtWTvDA"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Veinticirco La Gira (En Vivo)",
-        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 249742,
-      "name": "Kil\u00f3metros - En Vivo",
-      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+        "name": "Veinticirco La Gira (En Vivo)",
+        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
       },
       "artists": [
         {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+      "duration_ms": 249742,
+      "name": "Kil\u00f3metros - En Vivo",
+      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1139,22 +1139,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
-        "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
+        "name": "Vivire Viajando",
+        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
         }
       ],
-      "duration_ms": 294334,
-      "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
-      "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
+      "duration_ms": 253733,
+      "name": "Arde la ciudad",
+      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1183,18 +1179,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Vivire Viajando",
-        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
+        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
       },
       "artists": [
         {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Arde la ciudad",
-      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+      "duration_ms": 383040,
+      "name": "Espejismo - En Vivo",
+      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1215,22 +1211,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
-        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
-      },
-      "artists": [
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Espejismo - En Vivo",
-      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1243,6 +1223,42 @@
       "duration_ms": 304386,
       "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
+        "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 294334,
+      "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
+      "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Vivo X la 25",
+        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Solo Voy - En Vivo",
+      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1263,22 +1279,6 @@
       "duration_ms": 278984,
       "name": "Nada Salvaje (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Vivo X la 25",
-        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Solo Voy - En Vivo",
-      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Trascenlace (Vivo en Obras)",
-        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
+        "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
+        "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
       },
       "artists": [
         {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 317005,
-      "name": "El Riesgo - Vivo en Obras",
-      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
+      "duration_ms": 244360,
+      "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
+      "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1375,6 +1379,22 @@
       "duration_ms": 205080,
       "name": "Carol - Vivo",
       "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Trascenlace (Vivo en Obras)",
+        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 317005,
+      "name": "El Riesgo - Vivo en Obras",
+      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1399,6 +1419,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Espejo Roto (Ac\u00fastico Gran Rex Vol. 2)",
+        "url": "https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 269911,
+      "name": "Espejo Roto - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
         "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
       },
@@ -1415,42 +1451,6 @@
       "duration_ms": 333394,
       "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
       "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
-        "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        },
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
-      "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Espejo Roto (Ac\u00fastico Gran Rex Vol. 2)",
-        "url": "https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 269911,
-      "name": "Espejo Roto - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK"
     },
     {
       "added_at": "2024-12-20 03:00:01",

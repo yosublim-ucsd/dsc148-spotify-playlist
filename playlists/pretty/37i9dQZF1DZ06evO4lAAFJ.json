@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 636693,
+  "num_followers": 636760,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAADotYsS/2n65+P+3ntIJrht",
+  "snapshot_id": "Z23uAAAAAABPrUrNM1pSi8yTOnPpzyOB",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 161266,
       "name": "LA COMBI VERSACE",
       "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LLYLM",
-        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "LLYLM",
-      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
     },
     {
       "added_at": null,
@@ -847,26 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black is Beltza (Soinu-banda)",
-        "url": "https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE"
+        "name": "Aunque Es De Noche",
+        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
       },
       "artists": [
-        {
-          "name": "Ra\u00fcl Refree",
-          "url": "https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy"
-        },
-        {
-          "name": "Fermin Muguruza",
-          "url": "https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk"
-        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 57586,
-      "name": "Catalina en Gran V\u00eda",
-      "url": "https://open.spotify.com/track/1annUblrvMjiWM5ab0lMNH"
+      "duration_ms": 253108,
+      "name": "Aunque Es De Noche",
+      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
     },
     {
       "added_at": null,
@@ -887,18 +879,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque Es De Noche",
-        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
+        "name": "Black is Beltza (Soinu-banda)",
+        "url": "https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE"
       },
       "artists": [
+        {
+          "name": "Ra\u00fcl Refree",
+          "url": "https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy"
+        },
+        {
+          "name": "Fermin Muguruza",
+          "url": "https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk"
+        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 253108,
-      "name": "Aunque Es De Noche",
-      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
+      "duration_ms": 57586,
+      "name": "Catalina en Gran V\u00eda",
+      "url": "https://open.spotify.com/track/1annUblrvMjiWM5ab0lMNH"
     },
     {
       "added_at": null,

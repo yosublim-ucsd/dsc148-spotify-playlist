@@ -1,29 +1,13 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 480742,
+  "num_followers": 481349,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAAwPbSpM660n+uFziA53gw8",
+  "snapshot_id": "Z23uAAAAAADkMpnKl38ULpRc1tKC52Gk",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "fruitcake",
-        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 153099,
-      "name": "A Nonsense Christmas",
-      "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
-    },
     {
       "added_at": null,
       "album": {

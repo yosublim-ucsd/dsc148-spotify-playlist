@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 1338,
+  "num_followers": 1341,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAA+txzzZmJAHQGBVkignLVi",
+  "snapshot_id": "Z23uAAAAAAAXGCy2fsXtNKc5l636Parv",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Licuado",
+        "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 134583,
+      "name": "Licuado",
+      "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adiamantado",
         "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
       },
@@ -644,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 226330,
-      "name": "Como Jordan - En Vivo",
-      "url": "https://open.spotify.com/track/1yjQtocovqKgWlHUeW9pKW"
+      "duration_ms": 147141,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
     },
     {
       "added_at": null,
@@ -672,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 147141,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
+      "duration_ms": 226330,
+      "name": "Como Jordan - En Vivo",
+      "url": "https://open.spotify.com/track/1yjQtocovqKgWlHUeW9pKW"
     },
     {
       "added_at": null,

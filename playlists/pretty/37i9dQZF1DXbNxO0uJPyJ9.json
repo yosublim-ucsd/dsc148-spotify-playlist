@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 721756,
+  "num_followers": 721936,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Private Dancer (30th Anniversary Issue)",
-        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 341893,
-      "name": "I Can't Stand the Rain - Extended 12\" Remix; 2015 Remaster",
-      "url": "https://open.spotify.com/track/1vyPz26Qiew0MjlJtpsvN2"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "The Twelve Inch Mixes",
         "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 385000,
       "name": "Only When You Leave - 12\" Version",
       "url": "https://open.spotify.com/track/361rlvSrfbIxEPqIipaGjw"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 341893,
+      "name": "I Can't Stand the Rain - Extended 12\" Remix; 2015 Remaster",
+      "url": "https://open.spotify.com/track/1vyPz26Qiew0MjlJtpsvN2"
     },
     {
       "added_at": "2024-02-06 15:45:26",

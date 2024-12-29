@@ -4,7 +4,7 @@
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 49 min
+94 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,13 +69,14 @@
 | [Life's A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Life’s A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR) | 3:26 | 2024-07-03 | 2024-09-05 |
 | [Lightyears \(with Young Thug\)](https://open.spotify.com/track/6vVzKCUfA6LzEU9wH0xNUR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Lightyears \(with Young Thug\)](https://open.spotify.com/album/5WAhisFRMfSACOZUyxuWsB) | 3:12 | 2024-11-04 | 2024-12-02 |
 | [Lightyears \(with Young Thug\)](https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 3:12 | 2024-09-12 | 2024-11-04 |
-| [Love Letter](https://open.spotify.com/track/0B8N3M6SaJGwP9upZCpuWz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:39 | 2024-12-13 |  |
+| [Love Letter](https://open.spotify.com/track/0B8N3M6SaJGwP9upZCpuWz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:39 | 2024-12-13 | 2024-12-29 |
 | [Love Letter](https://open.spotify.com/track/50OMAX7jvslUk8MbBZVIFY) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-12-02 | 2024-12-13 |
 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 | 2024-07-03 |  |
 | [Make Believe](https://open.spotify.com/track/1goNZsIE8w3NQOzlP40veh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:22 | 2024-07-03 | 2024-12-01 |
 | [Man Of The Year](https://open.spotify.com/track/7AvprzMsRJpybaalckaT8c) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 2:16 | 2024-07-04 | 2024-07-23 |
 | [Maze](https://open.spotify.com/track/55XOUxXsBBbC07PD3Zml3F) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:24 | 2024-07-03 |  |
-| [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-12-01 |  |
+| [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-12-01 | 2024-12-29 |
+| [Misfit](https://open.spotify.com/track/4oFhT5d5TDTJnkc22hiczk) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:39 | 2024-12-29 |  |
 | [Not Enough](https://open.spotify.com/track/55ZNNY6D8FkNFAlVceAwIZ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 2:51 | 2024-07-03 | 2024-09-22 |
 | [Nuketown \(feat\. Juice WRLD\)](https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:46 | 2024-07-03 |  |
 | [Oxycodone](https://open.spotify.com/track/0KBqEBwJUHTZ4ZhmEeuSZt) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:40 | 2024-12-13 | 2024-12-14 |

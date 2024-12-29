@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 140440,
+  "num_followers": 140460,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ycgAAAAAD39tw+R1fxGhZcOV1ypI3P",
+  "snapshot_id": "Z23uAAAAAABMh+uXVtiV0Kz+i3H35xOV",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songbird: The Best Of Kenny G",
-        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "The Champion's Theme",
-      "url": "https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullaby Tres",
         "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 124976,
       "name": "Lullaby Tres",
       "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songbird: The Best Of Kenny G",
+        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "The Champion's Theme",
+      "url": "https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 207757,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amore (Remastered)",
         "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 214572,
       "name": "Mi manchi",
       "url": "https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 207757,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD"
     },
     {
       "added_at": null,
