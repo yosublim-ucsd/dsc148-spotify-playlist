@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- Aditya Rikhari",
-  "num_followers": 124256,
+  "num_followers": 124270,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,26 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
+        "name": "Meri Banogi Kya",
+        "url": "https://open.spotify.com/album/0cpuLQbNPdQtnKsjbu6NsW"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "duration_ms": 215035,
+      "name": "Meri Banogi Kya",
+      "url": "https://open.spotify.com/track/6gprR0rGv59wALbBU7yZkl"
+    },
+    {
+      "added_at": "2024-12-20 07:33:11",
+      "album": {
         "name": "Alfaazo",
         "url": "https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju"
       },
@@ -383,26 +403,6 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
-        "name": "Meri Banogi Kya",
-        "url": "https://open.spotify.com/album/0cpuLQbNPdQtnKsjbu6NsW"
-      },
-      "artists": [
-        {
-          "name": "Rito Riba",
-          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
-        },
-        {
-          "name": "Rajat Nagpal",
-          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
-        }
-      ],
-      "duration_ms": 215035,
-      "name": "Meri Banogi Kya",
-      "url": "https://open.spotify.com/track/6gprR0rGv59wALbBU7yZkl"
-    },
-    {
-      "added_at": "2024-12-20 07:33:11",
-      "album": {
         "name": "Uljhan",
         "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
-        "name": "Sahiba",
-        "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        }
-      ],
-      "duration_ms": 190098,
-      "name": "Sahiba",
-      "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
-    },
-    {
-      "added_at": "2024-12-20 07:33:11",
-      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m"
       },
@@ -499,22 +483,6 @@
       "duration_ms": 269650,
       "name": "Tu hai kahan (feat. ZAYN)",
       "url": "https://open.spotify.com/track/7K6RLbkpqZI4OaoSnLcBiU"
-    },
-    {
-      "added_at": "2024-12-20 07:33:11",
-      "album": {
-        "name": "Muskurahat",
-        "url": "https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1"
-      },
-      "artists": [
-        {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
-        }
-      ],
-      "duration_ms": 258716,
-      "name": "Muskurahat",
-      "url": "https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8"
     },
     {
       "added_at": "2024-12-20 07:33:11",
@@ -567,26 +535,34 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
-        "name": "Jaana",
-        "url": "https://open.spotify.com/album/2VNjjiOf1WNiYJcjuk88it"
+        "name": "Muskurahat",
+        "url": "https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "duration_ms": 258716,
+      "name": "Muskurahat",
+      "url": "https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8"
+    },
+    {
+      "added_at": "2024-12-20 07:33:11",
+      "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
       },
       "artists": [
         {
           "name": "Aditya Rikhari",
           "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        },
-        {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
-        },
-        {
-          "name": "Alan Sampson",
-          "url": "https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96"
         }
       ],
-      "duration_ms": 155624,
-      "name": "Dil Na Lage",
-      "url": "https://open.spotify.com/track/48gCcasMHX3AtrDO8HmHFl"
+      "duration_ms": 190098,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
     },
     {
       "added_at": "2024-12-20 07:33:11",
@@ -651,6 +627,30 @@
       "duration_ms": 198000,
       "name": "Barse More Naina",
       "url": "https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON"
+    },
+    {
+      "added_at": "2024-12-20 07:33:11",
+      "album": {
+        "name": "Jaana",
+        "url": "https://open.spotify.com/album/2VNjjiOf1WNiYJcjuk88it"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Alan Sampson",
+          "url": "https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Dil Na Lage",
+      "url": "https://open.spotify.com/track/48gCcasMHX3AtrDO8HmHFl"
     },
     {
       "added_at": "2024-12-20 07:33:11",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
-        "name": "Raaton",
-        "url": "https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        }
-      ],
-      "duration_ms": 200237,
-      "name": "Raaton",
-      "url": "https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB"
-    },
-    {
-      "added_at": "2024-12-20 07:33:11",
-      "album": {
         "name": "Dariya",
         "url": "https://open.spotify.com/album/5waD3IDJagOpwrRfGggHBV"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 216107,
       "name": "Dariya",
       "url": "https://open.spotify.com/track/6pvpFQ2jaI6oXAswo3GSUW"
+    },
+    {
+      "added_at": "2024-12-20 07:33:11",
+      "album": {
+        "name": "Raaton",
+        "url": "https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "duration_ms": 200237,
+      "name": "Raaton",
+      "url": "https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB"
     },
     {
       "added_at": "2024-12-20 07:33:11",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
-        "name": "Mann",
-        "url": "https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup"
-      },
-      "artists": [
-        {
-          "name": "The Yellow Diary",
-          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
-        }
-      ],
-      "duration_ms": 191015,
-      "name": "Mann",
-      "url": "https://open.spotify.com/track/3euf8ftyX9tjpqXJgF5NlM"
-    },
-    {
-      "added_at": "2024-12-20 07:33:11",
-      "album": {
         "name": "Shaan",
         "url": "https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 225391,
       "name": "Pahadon Mein",
       "url": "https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO"
+    },
+    {
+      "added_at": "2024-12-20 07:33:11",
+      "album": {
+        "name": "Mann",
+        "url": "https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "duration_ms": 191015,
+      "name": "Mann",
+      "url": "https://open.spotify.com/track/3euf8ftyX9tjpqXJgF5NlM"
     },
     {
       "added_at": "2024-12-20 07:33:11",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
-        "name": "Lage Nahi Man",
-        "url": "https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR"
-      },
-      "artists": [
-        {
-          "name": "Vismay Patel",
-          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
-        }
-      ],
-      "duration_ms": 191770,
-      "name": "Lage Nahi Man",
-      "url": "https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy"
-    },
-    {
-      "added_at": "2024-12-20 07:33:11",
-      "album": {
         "name": "Jaadugari",
         "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 153882,
       "name": "Jaadugari",
       "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
+    },
+    {
+      "added_at": "2024-12-20 07:33:11",
+      "album": {
+        "name": "Lage Nahi Man",
+        "url": "https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR"
+      },
+      "artists": [
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        }
+      ],
+      "duration_ms": 191770,
+      "name": "Lage Nahi Man",
+      "url": "https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy"
     },
     {
       "added_at": "2024-12-20 07:33:11",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
-        "name": "Aisi Raaton",
-        "url": "https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R"
-      },
-      "artists": [
-        {
-          "name": "Anupam Roy",
-          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
-        }
-      ],
-      "duration_ms": 218930,
-      "name": "Aisi Raaton",
-      "url": "https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7"
-    },
-    {
-      "added_at": "2024-12-20 07:33:11",
-      "album": {
         "name": "Awaara Ho",
         "url": "https://open.spotify.com/album/5S42rvQq7Ix5LvUZNCu1Qu"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 209142,
       "name": "Awaara Ho",
       "url": "https://open.spotify.com/track/1wYzvT6Ek0rJSyVu848CzN"
+    },
+    {
+      "added_at": "2024-12-20 07:33:11",
+      "album": {
+        "name": "Aisi Raaton",
+        "url": "https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R"
+      },
+      "artists": [
+        {
+          "name": "Anupam Roy",
+          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
+        }
+      ],
+      "duration_ms": 218930,
+      "name": "Aisi Raaton",
+      "url": "https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7"
     },
     {
       "added_at": "2024-12-20 07:33:11",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
-        "name": "Shehron Ke Raaz",
-        "url": "https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Shehron Ke Raaz",
-      "url": "https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY"
-    },
-    {
-      "added_at": "2024-12-20 07:33:11",
-      "album": {
         "name": "Udd Chala",
         "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 158400,
       "name": "O Re Saavan",
       "url": "https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1"
+    },
+    {
+      "added_at": "2024-12-20 07:33:11",
+      "album": {
+        "name": "Shehron Ke Raaz",
+        "url": "https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Shehron Ke Raaz",
+      "url": "https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY"
     },
     {
       "added_at": "2024-12-20 07:33:11",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
+        "name": "Neendein",
+        "url": "https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Neendein",
+      "url": "https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP"
+    },
+    {
+      "added_at": "2024-12-20 07:33:11",
+      "album": {
         "name": "Doob Rahe",
         "url": "https://open.spotify.com/album/0KILWgIiuzqtP99zanSeFB"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 143111,
       "name": "Doob Rahe",
       "url": "https://open.spotify.com/track/1WRDp1AySdILhmOmMNx20r"
-    },
-    {
-      "added_at": "2024-12-20 07:33:11",
-      "album": {
-        "name": "Neendein",
-        "url": "https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63"
-      },
-      "artists": [
-        {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Neendein",
-      "url": "https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP"
     },
     {
       "added_at": "2024-12-20 07:33:11",
@@ -1819,22 +1819,26 @@
     {
       "added_at": "2024-12-20 07:33:11",
       "album": {
-        "name": "Bohot Bechain",
-        "url": "https://open.spotify.com/album/43GiOUSgHdwyo9PD6Bh6ZI"
+        "name": "Kaise",
+        "url": "https://open.spotify.com/album/3PIVEeI66FaG2u0IFiSHpa"
       },
       "artists": [
         {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+          "name": "Last Minute India",
+          "url": "https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg"
         },
         {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+          "name": "Kuldeep Pattanaik",
+          "url": "https://open.spotify.com/artist/4O5bANbDjtd46vk1f7oR85"
+        },
+        {
+          "name": "Swarup Chattopadhyay",
+          "url": "https://open.spotify.com/artist/1yatlDm4IYtiBSR7EtOh2Y"
         }
       ],
-      "duration_ms": 231111,
-      "name": "Bohot Bechain",
-      "url": "https://open.spotify.com/track/3GtNTPRVYv86zXqrnLctlo"
+      "duration_ms": 176127,
+      "name": "Kaise",
+      "url": "https://open.spotify.com/track/6VDTCXo6ploQGtGUFckjv8"
     }
   ],
   "unique_name": "hIndies",

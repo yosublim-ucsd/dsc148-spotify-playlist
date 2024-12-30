@@ -4122,7 +4122,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 373750,
       "name": "Free (My Mind)",
       "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
@@ -6386,6 +6386,28 @@
       "duration_ms": 462774,
       "name": "Last Song",
       "url": "https://open.spotify.com/track/6pvI93SNbtPTaWQ3OvvFmV"
+    },
+    {
+      "album": {
+        "name": "Lean Into Light",
+        "url": "https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "pinkpirate",
+          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Lean Into Light",
+      "url": "https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq"
     },
     {
       "album": {

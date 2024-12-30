@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 414755,
+  "num_followers": 414868,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Still In Love",
-        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 161164,
-      "name": "Still In Love",
-      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+      "duration_ms": 228373,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         }
       ],
-      "duration_ms": 228373,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Un Cielo Azul",
-        "url": "https://open.spotify.com/album/1sIMLCiNQY9KbN2G0SbuDI"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Un Cielo Azul",
-      "url": "https://open.spotify.com/track/09LcdYR2CzdPromG5h9BQ5"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Nat \"King\" Cole & Me (Deluxe)",
         "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 257533,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Un Cielo Azul",
+        "url": "https://open.spotify.com/album/1sIMLCiNQY9KbN2G0SbuDI"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Un Cielo Azul",
+      "url": "https://open.spotify.com/track/09LcdYR2CzdPromG5h9BQ5"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z"
-      },
-      "artists": [
-        {
-          "name": "kenai white",
-          "url": "https://open.spotify.com/artist/6vHokTOepZ7bishDD5owjJ"
-        }
-      ],
-      "duration_ms": 206823,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/5RNrbe8maAu8sk0BuZQ2Zf"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z"
+      },
+      "artists": [
+        {
+          "name": "kenai white",
+          "url": "https://open.spotify.com/artist/6vHokTOepZ7bishDD5owjJ"
+        }
+      ],
+      "duration_ms": 206823,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/5RNrbe8maAu8sk0BuZQ2Zf"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
         "name": "Sanadoras Voluntades",
         "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 164956,
       "name": "Sanadoras Voluntades",
       "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "Pudo haber sido",
-        "url": "https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK"
-      },
-      "artists": [
-        {
-          "name": "Lucas Marcos",
-          "url": "https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO"
-        }
-      ],
-      "duration_ms": 184712,
-      "name": "Pudo haber sido",
-      "url": "https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Endlings",
-        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
-      },
-      "artists": [
-        {
-          "name": "The Well Pennies",
-          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "The Echo & The Shadow",
-      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
       },
@@ -1247,34 +1215,18 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
       },
       "artists": [
         {
-          "name": "Treadlights",
-          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
         }
       ],
-      "duration_ms": 151119,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "Una y otra vez",
-        "url": "https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T"
-      },
-      "artists": [
-        {
-          "name": "Lou Cornago",
-          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
-        }
-      ],
-      "duration_ms": 190754,
-      "name": "Una y otra vez",
-      "url": "https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ"
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1295,18 +1247,50 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+        "name": "Una y otra vez",
+        "url": "https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T"
       },
       "artists": [
         {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+          "name": "Lou Cornago",
+          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
+      "duration_ms": 190754,
+      "name": "Una y otra vez",
+      "url": "https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+      },
+      "artists": [
+        {
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+        }
+      ],
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Pudo haber sido",
+        "url": "https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK"
+      },
+      "artists": [
+        {
+          "name": "Lucas Marcos",
+          "url": "https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO"
+        }
+      ],
+      "duration_ms": 184712,
+      "name": "Pudo haber sido",
+      "url": "https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1323,6 +1307,22 @@
       "duration_ms": 217360,
       "name": "Hold Your Head Up High",
       "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "La ventanita",
-        "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
-      },
-      "artists": [
-        {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
-        }
-      ],
-      "duration_ms": 255168,
-      "name": "La ventanita",
-      "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "El Noi de la Mare",
         "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 243020,
       "name": "El Noi de la Mare",
       "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "La ventanita",
+        "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+        }
+      ],
+      "duration_ms": 255168,
+      "name": "La ventanita",
+      "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1479,38 +1479,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
-      },
-      "artists": [
-        {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Time (For You)",
-      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "No es el momento",
-        "url": "https://open.spotify.com/album/2ITDn2tR0KFmRwZAh0gmMd"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Parrado",
-          "url": "https://open.spotify.com/artist/41sqYvXOn3ATsAQ65G1zx6"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "No es el momento",
-      "url": "https://open.spotify.com/track/5xOfDQ6Tiao8QXBEN49KSM"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Cruzando el Charco",
         "url": "https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N"
       },
@@ -1527,6 +1495,22 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+      },
+      "artists": [
+        {
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
         "name": "Equilibri",
         "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 236462,
       "name": "Equilibri",
       "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "No es el momento",
+        "url": "https://open.spotify.com/album/2ITDn2tR0KFmRwZAh0gmMd"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Parrado",
+          "url": "https://open.spotify.com/artist/41sqYvXOn3ATsAQ65G1zx6"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "No es el momento",
+      "url": "https://open.spotify.com/track/5xOfDQ6Tiao8QXBEN49KSM"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1571,6 +1571,22 @@
       "duration_ms": 151027,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1623,22 +1639,6 @@
       "duration_ms": 202886,
       "name": "Ojos de Miel",
       "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "tu pel\u00edcula",
-        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 174467,
-      "name": "tu pel\u00edcula",
-      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
     },
     {
       "added_at": "2024-12-23 11:06:32",

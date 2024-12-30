@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mnKbIkppDf.md) - [plain]
 
 > De winnaars en genomineerden van de Edisons Pop 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,507 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,506 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

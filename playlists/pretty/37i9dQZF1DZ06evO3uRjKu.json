@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 70490,
+  "num_followers": 70511,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAAAN7WzS0Pc9a9bYtQGIXGOz",
+  "snapshot_id": "Z28/gAAAAAAa+H8ii0rESnaGahlRo9gY",
   "tracks": [
     {
       "added_at": null,
@@ -551,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Siento Loco",
-        "url": "https://open.spotify.com/album/3ROyBUPRhkhFWjiFPIfD6b"
+        "name": "Bailalo",
+        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
       },
       "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 243185,
-      "name": "Me Siento Loco",
-      "url": "https://open.spotify.com/track/4VzSXSEjrjdO7hWoJyE5Pm"
+      "duration_ms": 162285,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
     },
     {
       "added_at": null,
@@ -583,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailalo",
-        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
+        "name": "Me Siento Loco",
+        "url": "https://open.spotify.com/album/3ROyBUPRhkhFWjiFPIfD6b"
       },
       "artists": [
-        {
-          "name": "Agus Cassano",
-          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 162285,
-      "name": "Bailalo",
-      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
+      "duration_ms": 243185,
+      "name": "Me Siento Loco",
+      "url": "https://open.spotify.com/track/4VzSXSEjrjdO7hWoJyE5Pm"
     },
     {
       "added_at": null,

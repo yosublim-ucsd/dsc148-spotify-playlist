@@ -1,6 +1,6 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 86581,
+  "num_followers": 86620,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "The Second Time Around",
+        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Fool That I Am",
+      "url": "https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "Samara Joy",
         "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 235760,
       "name": "If I Should Lose You",
       "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "The Second Time Around",
-        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Fool That I Am",
-      "url": "https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -239,26 +239,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "I Got It Bad (And That Ain't Good)",
-      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 199423,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -319,42 +319,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Nina Simone & Piano (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 289080,
-      "name": "I Get Along Without You Very Well (Except Sometimes)",
-      "url": "https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "Cheek To Cheek (Deluxe)",
-        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244080,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/5CxkNGZFfG7eiWNWhvUC9A"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Billie Holiday",
         "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
       },
@@ -371,18 +335,18 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Lonely And Blue",
-        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+        "name": "Nina Simone & Piano (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 202866,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
+      "duration_ms": 289080,
+      "name": "I Get Along Without You Very Well (Except Sometimes)",
+      "url": "https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -407,6 +371,42 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/5CxkNGZFfG7eiWNWhvUC9A"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Lonely And Blue",
+        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "If You Go Away / Ne me quitte pas",
+        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 295148,
+      "name": "If You Go Away",
+      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "It Had To be You... The Great American Songbook",
         "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
       },
@@ -439,6 +455,22 @@
       "duration_ms": 257226,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -475,22 +507,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "If You Go Away / Ne me quitte pas",
-        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 295148,
-      "name": "If You Go Away",
-      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Songs from the Heart (Remastered 2013)",
         "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 264617,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 186560,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "The Thrill Is Gone",
         "url": "https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 290426,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Around Midnight",
-        "url": "https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/2P3V9N2u2JNGDKXbDU0weF"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 204479,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/4EyL9JMzL8TPBWqGiPfgtQ"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Around Midnight",
+        "url": "https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 148560,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "The Voice That Is!",
         "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 219733,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 148560,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "Crazy And Mixed Up",
+        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "The War Years (1941-1947)",
         "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
@@ -1239,38 +1255,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "When Harry Met Sally... (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/7CJpztvC4VeiklEHgoFvQ7"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "But Not for Me",
-      "url": "https://open.spotify.com/track/26Yy1v1icj6mYLNYUIj4LV"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "Crazy And Mixed Up",
-        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "In Love In Vain",
-      "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Time To Swing",
         "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 154760,
       "name": "Baby, Don't You Cry",
       "url": "https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "When Harry Met Sally... (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/7CJpztvC4VeiklEHgoFvQ7"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "But Not for Me",
+      "url": "https://open.spotify.com/track/26Yy1v1icj6mYLNYUIj4LV"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Just One More Chance - 1931 Single Version",
+      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "The Complete Piano Duets",
         "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 297866,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Just One More Chance - 1931 Single Version",
-      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Jazz Masters",
-        "url": "https://open.spotify.com/album/3KMfI5xTOhcuwOSN8OvZhD"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 198360,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/2I5ldN3uVqEx5h87xxDmVo"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "The Complete Columbia Recordings (Swedish Jazz Masters)",
         "url": "https://open.spotify.com/album/1kxArdHwv0FZwYGsVfKj9h"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 134173,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/232xRyJH3MqaD7pumWRCWH"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Jazz Masters",
+        "url": "https://open.spotify.com/album/3KMfI5xTOhcuwOSN8OvZhD"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 198360,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/2I5ldN3uVqEx5h87xxDmVo"
     }
   ],
   "unique_name": "Heartbreak Jazz",

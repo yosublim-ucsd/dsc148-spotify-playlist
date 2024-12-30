@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAADS3jAur6hni0iBzwuypLNC",
+  "snapshot_id": "Z28/gAAAAABpbHnMiiDwT0ghOSIMezK9",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/69AH8JXzq2Tf3VTkAoEPjT"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Toxic - Explicit Album Version",
-      "url": "https://open.spotify.com/track/3sWbIVUEdY2YyXzJoNj2zs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Ones Standing",
         "url": "https://open.spotify.com/album/5bThYTbH1HTYZKMCjxNstm"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 144818,
       "name": "GlitchGang (Remix)",
       "url": "https://open.spotify.com/track/5RI73C2BN902ytbrFkXhm2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/69AH8JXzq2Tf3VTkAoEPjT"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Toxic - Explicit Album Version",
+      "url": "https://open.spotify.com/track/3sWbIVUEdY2YyXzJoNj2zs"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 227794,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Decorated",
-      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 181909,
-      "name": "Trigger Happy",
-      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
+      "duration_ms": 234022,
+      "name": "99 Bottles",
+      "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
+      "duration_ms": 186293,
+      "name": "Decorated",
+      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 234022,
-      "name": "99 Bottles",
-      "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
+      "duration_ms": 181909,
+      "name": "Trigger Happy",
+      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
     },
     {
       "added_at": null,

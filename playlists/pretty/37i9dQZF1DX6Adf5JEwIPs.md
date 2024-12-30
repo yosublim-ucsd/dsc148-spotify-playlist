@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: T3R Elemento
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,109 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,193 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 7 | [La Perla](https://open.spotify.com/track/7AEoF9yFVvSiNOyXhgFuK4) | [Alexis Riovar](https://open.spotify.com/artist/6mHy8OOEaqtBS7v2Ley3ql) | [La Perla](https://open.spotify.com/album/64jWfutlMw2TtMaTg9TZCC) | 3:01 |
 | 8 | [El G17](https://open.spotify.com/track/3XFJqERn78K4VZFuNcnNfC) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [El G17](https://open.spotify.com/album/3SUTxZHAPFN0KI7mdOKBHk) | 3:06 |
 | 9 | [Mi Tesoro](https://open.spotify.com/track/0F8IUQBnqkHGjnjYr7k188) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv) | [Mi Tesoro](https://open.spotify.com/album/01JxifAgPlZSnIuY3pYFhw) | 3:08 |
-| 10 | [El Rayo](https://open.spotify.com/track/5Bxpl6JLicyjM4W8qsdZiW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Rayo](https://open.spotify.com/album/33CwQFjErZn91NdIgH1WDk) | 2:48 |
+| 10 | [Los Sierra](https://open.spotify.com/track/5Bxpl6JLicyjM4W8qsdZiW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Los Sierra](https://open.spotify.com/album/33CwQFjErZn91NdIgH1WDk) | 2:48 |
 | 11 | [La Oveja Negra](https://open.spotify.com/track/6bA5RoXzQE1M4BhiJreCBQ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Capitulo 2: El Año Del Dragon](https://open.spotify.com/album/038xP0ZpQuao8QBXZ14qAQ) | 3:02 |
 | 12 | [ME JALO](https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:32 |
 | 13 | [Aquí No Acaba El Brillo](https://open.spotify.com/track/2k62RkN51wO1kb38EKbuQi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Robertito Salas](https://open.spotify.com/artist/65Z2GMIKoRjQcXpedrtpcs) | [Aquí No Acaba El Brillo](https://open.spotify.com/album/7BY3LYKRbW2ZVRFPGsCu8G) | 3:25 |

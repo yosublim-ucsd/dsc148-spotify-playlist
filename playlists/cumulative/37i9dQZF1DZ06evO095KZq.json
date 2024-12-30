@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Pa' Los Recuerdos, Vol. 7",
+        "url": "https://open.spotify.com/album/20Cz9LvOYACPBOZWXl1czM"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170822,
+      "name": "Ambici\u00f3n",
+      "url": "https://open.spotify.com/track/1gXdaUUIZDIDnFnKQ3qh7P"
+    },
+    {
+      "album": {
         "name": "Apenas es Martes",
         "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 165971,
       "name": "Aqu\u00ed en Jalisco",
       "url": "https://open.spotify.com/track/2K6h6Zn0E3InwawnRdEzLB"

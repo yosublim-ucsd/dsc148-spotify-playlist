@@ -1,6 +1,6 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 536187,
+  "num_followers": 536212,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-11-28 11:08:10",
       "album": {
+        "name": "Midnight Dynamos",
+        "url": "https://open.spotify.com/album/31dfhTOccGyCwz2oRTSMfy"
+      },
+      "artists": [
+        {
+          "name": "Matchbox",
+          "url": "https://open.spotify.com/artist/1TZLeOYelnAiEkOJnofWrj"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Midnight Dynamos",
+      "url": "https://open.spotify.com/track/0AX3dBr7hRTDjy1O2s4N6u"
+    },
+    {
+      "added_at": "2024-11-28 11:08:10",
+      "album": {
         "name": "The Best Of Eddie Cochran",
         "url": "https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 116560,
       "name": "C\u2019Mon Everybody",
       "url": "https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU"
-    },
-    {
-      "added_at": "2024-11-28 11:08:10",
-      "album": {
-        "name": "The Playmate",
-        "url": "https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb"
-      },
-      "artists": [
-        {
-          "name": "Francine",
-          "url": "https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY"
-        }
-      ],
-      "duration_ms": 234293,
-      "name": "Goodbye Forever",
-      "url": "https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ"
     },
     {
       "added_at": "2024-11-28 11:08:10",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-11-28 11:08:10",
       "album": {
-        "name": "Midnight Dynamos",
-        "url": "https://open.spotify.com/album/31dfhTOccGyCwz2oRTSMfy"
+        "name": "The Playmate",
+        "url": "https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb"
       },
       "artists": [
         {
-          "name": "Matchbox",
-          "url": "https://open.spotify.com/artist/1TZLeOYelnAiEkOJnofWrj"
+          "name": "Francine",
+          "url": "https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY"
         }
       ],
-      "duration_ms": 186413,
-      "name": "Midnight Dynamos",
-      "url": "https://open.spotify.com/track/0AX3dBr7hRTDjy1O2s4N6u"
+      "duration_ms": 234293,
+      "name": "Goodbye Forever",
+      "url": "https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ"
     },
     {
       "added_at": "2024-11-28 11:08:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-28 11:08:10",
       "album": {
-        "name": "From the Waist Down",
-        "url": "https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit Slim",
-          "url": "https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI"
-        }
-      ],
-      "duration_ms": 121253,
-      "name": "Rock-a-Cha",
-      "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
-    },
-    {
-      "added_at": "2024-11-28 11:08:10",
-      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 188739,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6"
+    },
+    {
+      "added_at": "2024-11-28 11:08:10",
+      "album": {
+        "name": "From the Waist Down",
+        "url": "https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj"
+      },
+      "artists": [
+        {
+          "name": "Jack Rabbit Slim",
+          "url": "https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI"
+        }
+      ],
+      "duration_ms": 121253,
+      "name": "Rock-a-Cha",
+      "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
     },
     {
       "added_at": "2024-11-28 11:08:10",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-11-28 11:08:10",
       "album": {
-        "name": "Cock Tales",
-        "url": "https://open.spotify.com/album/0R9uSz4xu1Vxqpxp5sK52O"
-      },
-      "artists": [
-        {
-          "name": "Cat Lee King & His Cocks",
-          "url": "https://open.spotify.com/artist/0TW61xr4ymSp2KxgiBXRJT"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "Far Too Far Away",
-      "url": "https://open.spotify.com/track/26LN2TRg48VT6qKVo5O7Wt"
-    },
-    {
-      "added_at": "2024-11-28 11:08:10",
-      "album": {
         "name": "Stray Cats",
         "url": "https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 181493,
       "name": "Wild Saxophone",
       "url": "https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU"
+    },
+    {
+      "added_at": "2024-11-28 11:08:10",
+      "album": {
+        "name": "Cock Tales",
+        "url": "https://open.spotify.com/album/0R9uSz4xu1Vxqpxp5sK52O"
+      },
+      "artists": [
+        {
+          "name": "Cat Lee King & His Cocks",
+          "url": "https://open.spotify.com/artist/0TW61xr4ymSp2KxgiBXRJT"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "Far Too Far Away",
+      "url": "https://open.spotify.com/track/26LN2TRg48VT6qKVo5O7Wt"
     },
     {
       "added_at": "2024-11-28 11:08:10",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-28 11:08:10",
       "album": {
-        "name": "Rockabilly Classics",
-        "url": "https://open.spotify.com/album/57iN9SJYBZ7CkbVYATSDLG"
-      },
-      "artists": [
-        {
-          "name": "Sanford Clark",
-          "url": "https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/4DGWTmh53h5Qm68FboVSMF"
-    },
-    {
-      "added_at": "2024-11-28 11:08:10",
-      "album": {
         "name": "Tennessee Stomp",
         "url": "https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 133693,
       "name": "Debt With the Devil",
       "url": "https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q"
+    },
+    {
+      "added_at": "2024-11-28 11:08:10",
+      "album": {
+        "name": "Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry",
+        "url": "https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn"
+      },
+      "artists": [
+        {
+          "name": "Warren Smith",
+          "url": "https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5"
+        }
+      ],
+      "duration_ms": 170084,
+      "name": "Rock 'n' Roll Ruby",
+      "url": "https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs"
     }
   ],
   "unique_name": "Rockabilly Mania",

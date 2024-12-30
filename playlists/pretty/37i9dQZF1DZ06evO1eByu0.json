@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 161144,
+  "num_followers": 161152,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAADIHQdPiQMuIkgEHOOekkX1",
+  "snapshot_id": "Z28/gAAAAACm8Lr0Qj1g9y0NwEdRUCN6",
   "tracks": [
     {
       "added_at": null,
@@ -247,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
+        "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
+        "url": "https://open.spotify.com/album/2zWbRGUOKL6S39wFpdd5zW"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 209666,
-      "name": "Deus do Imposs\u00edvel",
-      "url": "https://open.spotify.com/track/7MVRoaHJX8xOo8Rt4vwcRB"
+      "duration_ms": 427365,
+      "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
+      "url": "https://open.spotify.com/track/2ei5FBkatI52VChwfJjRPC"
     },
     {
       "added_at": null,
@@ -279,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
-        "url": "https://open.spotify.com/album/2zWbRGUOKL6S39wFpdd5zW"
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 427365,
-      "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
-      "url": "https://open.spotify.com/track/2ei5FBkatI52VChwfJjRPC"
+      "duration_ms": 209666,
+      "name": "Deus do Imposs\u00edvel",
+      "url": "https://open.spotify.com/track/7MVRoaHJX8xOo8Rt4vwcRB"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Bem Mais Que Tudo",
-      "url": "https://open.spotify.com/track/6MeYawJ2Iaapjfq3Ncxkz6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Poder do Teu Amor",
         "url": "https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL"
       },
@@ -367,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
       },
       "artists": [
         {
@@ -376,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 256441,
-      "name": "Primeira Ess\u00eancia (Jardim Particular)",
-      "url": "https://open.spotify.com/track/4jWePuDwi4Mho9u5kpoYrj"
+      "duration_ms": 286373,
+      "name": "Bem Mais Que Tudo",
+      "url": "https://open.spotify.com/track/6MeYawJ2Iaapjfq3Ncxkz6"
     },
     {
       "added_at": null,
@@ -399,6 +383,22 @@
       "duration_ms": 311515,
       "name": "Luz da Esperan\u00e7a",
       "url": "https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 256441,
+      "name": "Primeira Ess\u00eancia (Jardim Particular)",
+      "url": "https://open.spotify.com/track/4jWePuDwi4Mho9u5kpoYrj"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Vit\u00f3ria no Deserto",
-      "url": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Se Move",
         "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 341717,
       "name": "Ele Se Move",
       "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Vit\u00f3ria no Deserto",
+      "url": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firme Fundamento",
-        "url": "https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 297082,
-      "name": "1 Cor\u00edntios 13",
-      "url": "https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 368454,
       "name": "Bem-Aventurado (Blessed)",
       "url": "https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Firme Fundamento",
+        "url": "https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 297082,
+      "name": "1 Cor\u00edntios 13",
+      "url": "https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y"
     },
     {
       "added_at": null,

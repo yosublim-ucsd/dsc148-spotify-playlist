@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAACTWwHEd/ORWvzDhY2an63e",
+  "snapshot_id": "Z28/gAAAAAD54V3QN+da3PIKCth+Velr",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All the Things You'd Ruin (Sad Girl Version)",
+        "url": "https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 179260,
+      "name": "All the Things You'd Ruin (Sad Girl Version)",
+      "url": "https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 164213,
       "name": "Sideways (feat. Meg Smith)",
       "url": "https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All the Things You'd Ruin (Sad Girl Version)",
-        "url": "https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 179260,
-      "name": "All the Things You'd Ruin (Sad Girl Version)",
-      "url": "https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "guitar center",
         "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 187839,
       "name": "guitar center",
       "url": "https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cross My Heart I Hope U Die",
         "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 165250,
       "name": "Why Do I Keep Playing It",
       "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
     },
     {
       "added_at": null,

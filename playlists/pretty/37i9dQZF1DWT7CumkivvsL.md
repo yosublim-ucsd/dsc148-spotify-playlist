@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 
 > Their unstoppable attraction continues to grow...Listen to the official playlist for Culpa Mia and Culpa Tuya, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,280 likes - 36 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,952 likes - 36 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

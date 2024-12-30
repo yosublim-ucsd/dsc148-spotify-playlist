@@ -4,7 +4,7 @@
 
 > 2021
 
-81 songs - 5 hr 15 min
+82 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Roman Holiday](https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:28 | 2024-12-27 |  |
 | [Romantic Flight \- From How To Train Your Dragon Music From The Motion Picture](https://open.spotify.com/track/51v7yO07BdGgP6hv0OaDe2) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [How To Train Your Dragon \(Music From The Motion Picture\)](https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU) | 1:56 | 2023-04-02 |  |
 | [Running Up That Hill \- triple j Like A Version](https://open.spotify.com/track/61p3K3niYEzmiX96aC9U8R) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Running Up That Hill \(triple j Like A Version\)](https://open.spotify.com/album/5PHg3laVWVohsOVpiehZQl) | 3:15 | 2022-12-13 |  |
-| [Sh\-Boom](https://open.spotify.com/track/1jeQT4ymqWO7TJr4Ei8NLz) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 2:25 | 2023-03-30 |  |
+| [Sh\-Boom](https://open.spotify.com/track/1jeQT4ymqWO7TJr4Ei8NLz) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 2:25 | 2023-03-30 | 2024-12-30 |
 | [Slide Away \- Live For Teenage Cancer Trust](https://open.spotify.com/track/2vNwVso4GsvITfeKHdhCcv) | [Noel Gallagher](https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l) | [The Dreams We Have As Children \(Live For Teenage Cancer Trust\)](https://open.spotify.com/album/15MpS74sqhUZtvtXmoST5y) | 6:15 | 2024-09-26 |  |
 | [Something in the Water](https://open.spotify.com/track/3fAPSHaCcVLsAUIvrawN4y) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:27 | 2024-02-27 |  |
 | [Sparks](https://open.spotify.com/track/3G7ZiXrSPvRRQMMIuLnFS9) | [The Family Crest](https://open.spotify.com/artist/44CB1c0W2h1XR2vB7AKpa7) | [Prelude to War](https://open.spotify.com/album/15l8KKdAMflVwdqZsNkZJR) | 3:58 | 2023-10-11 |  |
@@ -79,6 +79,7 @@
 | [Stuck on the puzzle](https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:31 | 2023-03-29 |  |
 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 | 2022-06-27 |  |
 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 | 2023-08-17 |  |
+| [take it away](https://open.spotify.com/track/2A4HxXDATkfT6GJYF2nNaF) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [Below The Waste](https://open.spotify.com/album/1Jyr6ZID2DRvvj4FLQ7Sxa) | 2:30 | 2024-12-29 |  |
 | [The A Team](https://open.spotify.com/track/1XpYodsD36XN7ygcdF7mJJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:18 | 2023-05-13 |  |
 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:25 | 2022-10-25 |  |
 | [Those Eyes](https://open.spotify.com/track/1EstYSjIaL8l203EfVvY9T) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Those Eyes](https://open.spotify.com/album/5mvPjMGElKVYz6NtL4O8e5) | 3:38 | 2023-12-18 |  |

@@ -1893,6 +1893,28 @@
     },
     {
       "album": {
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180693,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
+    },
+    {
+      "album": {
         "name": "Ambition",
         "url": "https://open.spotify.com/album/5wqyGDQq3vlDMbbujsxJAA"
       },
@@ -2514,7 +2536,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 157500,
       "name": "Asteroids - Redux",
       "url": "https://open.spotify.com/track/6lXZ19zGWK3EFkZ3UL6Eu3"
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 228364,
       "name": "Bekhauf (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb"
@@ -5804,6 +5826,28 @@
       "duration_ms": 368240,
       "name": "Burn for You - Extended Remix",
       "url": "https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ"
+    },
+    {
+      "album": {
+        "name": "Burning Down (with Joe Jonas)",
+        "url": "https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179437,
+      "name": "Burning Down (with Joe Jonas)",
+      "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
     },
     {
       "album": {
@@ -11593,6 +11637,40 @@
     },
     {
       "album": {
+        "name": "Private Suite (Vol. 2)",
+        "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462561,
+      "name": "ETA - RMX",
+      "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
+    },
+    {
+      "album": {
         "name": "TMG II",
         "url": "https://open.spotify.com/album/3XBPJBGtH4FIucLfPt81VF"
       },
@@ -14821,6 +14899,24 @@
     },
     {
       "album": {
+        "name": "gervonta",
+        "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167367,
+      "name": "gervonta",
+      "url": "https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN"
+    },
+    {
+      "album": {
         "name": "Evil Eye / Get A Grip",
         "url": "https://open.spotify.com/album/0DItQKhgUwLv6oWRcUeskz"
       },
@@ -16072,7 +16168,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 173062,
       "name": "Hamleypa",
       "url": "https://open.spotify.com/track/0oZazkqmH6WIHvyj4JYJTg"
@@ -22746,7 +22842,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 578202,
       "name": "Lingus - Alternate Take",
       "url": "https://open.spotify.com/track/5jKq0VCeyGhvk8VxneKc2F"
@@ -23176,7 +23272,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 200563,
       "name": "Lonely Road (feat. Terrace Martin)",
       "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
@@ -23344,6 +23440,24 @@
       "duration_ms": 223862,
       "name": "Lost in Your Eyes (Solo Piano)",
       "url": "https://open.spotify.com/track/6hqXMeSe9Ecjvcj5Jj6gZe"
+    },
+    {
+      "album": {
+        "name": "Louie",
+        "url": "https://open.spotify.com/album/0w7cMkI0AS1S5w1cUGd5EI"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176042,
+      "name": "Louie",
+      "url": "https://open.spotify.com/track/4Zkc8H2hkbpzEgUPGx3Y9m"
     },
     {
       "album": {
@@ -32107,6 +32221,28 @@
     },
     {
       "album": {
+        "name": "Resenha do Arrocha",
+        "url": "https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354857,
+      "name": "Resenha do Arrocha",
+      "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
+    },
+    {
+      "album": {
         "name": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
         "url": "https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s"
       },
@@ -38236,7 +38372,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 164666,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/5M2gEWB0q7TPKFTroTpbPi"
@@ -40908,6 +41044,24 @@
       "duration_ms": 312587,
       "name": "Tower - Piano Version",
       "url": "https://open.spotify.com/track/3kStUgF2mJMtlRHmri3JI2"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "album": {
@@ -45800,7 +45954,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 286020,
       "name": "Zoo - Original",
       "url": "https://open.spotify.com/track/3KYyXPUc4B65DXnqTFEgoF"

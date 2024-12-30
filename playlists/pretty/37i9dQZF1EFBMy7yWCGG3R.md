@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,239 likes - 255 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,241 likes - 255 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,8 +245,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 235 | [Hold On To Me](https://open.spotify.com/track/64cNNOHp4pXPgpS7ZRRUS1) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 3:04 |
 | 236 | [24/7](https://open.spotify.com/track/2SazF0oi8emUImGEWiP5G9) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [24/7](https://open.spotify.com/album/6snWMXAOzS6cKTsPxhq079) | 3:17 |
 | 237 | [Lights Out](https://open.spotify.com/track/2bbzwRSbPi32yMuy3v3HWf) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Unbound 02](https://open.spotify.com/album/3jQM4aPSN3pOqkIdQIZJqW) | 3:27 |
-| 238 | [Slow Hands \- Instrumental](https://open.spotify.com/track/7weMaORKMrHPCwWDvUaTdY) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Top 20 Acoustic Tracks Spring 2017 \(Instrumental\)](https://open.spotify.com/album/2Hk5df6x1J4YhlwPFhx0JG) | 3:00 |
-| 239 | [In the Name of Love](https://open.spotify.com/track/7F1Ph1i1dLl7K8zt2piaxW) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:04 |
+| 238 | [In the Name of Love](https://open.spotify.com/track/7F1Ph1i1dLl7K8zt2piaxW) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:04 |
+| 239 | [Slow Hands \- Instrumental](https://open.spotify.com/track/7weMaORKMrHPCwWDvUaTdY) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Top 20 Acoustic Tracks Spring 2017 \(Instrumental\)](https://open.spotify.com/album/2Hk5df6x1J4YhlwPFhx0JG) | 3:00 |
 | 240 | [Phantom Feelings](https://open.spotify.com/track/5nh69T8C54CmPc2NQY5zDA) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:52 |
 | 241 | [Life is What You Make It](https://open.spotify.com/track/6dXeMpc5L2K5qP3AQwdbvI) | [Joachim Svare](https://open.spotify.com/artist/6VtnSg3EHyN9oHdQcr6cl1), [Joleen Belle](https://open.spotify.com/artist/3eNku0rb4CP4FAgtKHViMV), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Robert Anthony Navarro](https://open.spotify.com/artist/6RW2KUdSmY3lWRPEw6i2ct) | [Burn Series: Ultra Stylish Dance Pop](https://open.spotify.com/album/3AnUHRS91N2h8Q02aE1dH9) | 3:03 |
 | 242 | [Count On Me](https://open.spotify.com/track/5Wpa1JNwrpxJdtVKYI0Ax0) | [GR€Y](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [For What It's Worth](https://open.spotify.com/album/7F7QklQ3dOt5TqteXqCQMb) | 3:11 |
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 254 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 255 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `AblYiAAAAADQcnxXm0i/Vhupo9W5jucw`
+Snapshot ID: `Abld7AAAAAB/xtdknXHsvsRMyWV49aqU`

@@ -1,6 +1,6 @@
 {
   "description": "Bright, sunny, catchy tunes put a smile on your face. Cover - Baar Baar Dekho",
-  "num_followers": 372423,
+  "num_followers": 372723,
   "original_name": "Happy Vibes ",
   "owner": {
     "name": "Spotify",
@@ -891,17 +891,21 @@
     {
       "added_at": "2024-12-13 08:52:09",
       "album": {
-        "name": "Sang Rahiyo",
+        "name": "Sang Rahiyo (feat. Ujjwal Kashyap)",
         "url": "https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ"
       },
       "artists": [
         {
           "name": "Jasleen Royal",
           "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Ujjwal Kashyap",
+          "url": "https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq"
         }
       ],
       "duration_ms": 213288,
-      "name": "Sang Rahiyo",
+      "name": "Sang Rahiyo (feat. Ujjwal Kashyap)",
       "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
     },
     {

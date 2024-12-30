@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3057566,
+  "num_followers": 3058053,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -460,22 +460,6 @@
       },
       "artists": [
         {
-          "name": "Peter Tosh",
-          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/0ee3Dr3rH7NSxOVcmlbsHJ"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
-      },
-      "artists": [
-        {
           "name": "Tony Rebel",
           "url": "https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E"
         },
@@ -535,6 +519,22 @@
       "duration_ms": 163538,
       "name": "Eastern Standard Time",
       "url": "https://open.spotify.com/track/04cCYxaUC2LObYVTGlRYBX"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/0ee3Dr3rH7NSxOVcmlbsHJ"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
+        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Funkey Funkey Reggay",
+      "url": "https://open.spotify.com/track/1TnIDb52hYg5P5kHLUyTqX"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "The Sleepwalking Society",
         "url": "https://open.spotify.com/album/6QXQyG4RvihMqXqCl7muS4"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 185333,
       "name": "The Upsetter",
       "url": "https://open.spotify.com/track/2oU3L7aXP2ohVQBWMN71H9"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
-        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Funkey Funkey Reggay",
-      "url": "https://open.spotify.com/track/1TnIDb52hYg5P5kHLUyTqX"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
+        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "duration_ms": 183576,
+      "name": "Street Corner",
+      "url": "https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Total Reggae: Classic Roots",
         "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 172600,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/5VOrFGEXCJMT5aiDL5Iiaa"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
-        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        }
-      ],
-      "duration_ms": 183576,
-      "name": "Street Corner",
-      "url": "https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Total Reggae: Classic Roots",
-        "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
-      },
-      "artists": [
-        {
-          "name": "Leroy Smart",
-          "url": "https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Ballistic Affair",
-      "url": "https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
         "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 175360,
       "name": "Dr. Dekker",
       "url": "https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Total Reggae: Classic Roots",
+        "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
+      },
+      "artists": [
+        {
+          "name": "Leroy Smart",
+          "url": "https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0"
+        }
+      ],
+      "duration_ms": 193520,
+      "name": "Ballistic Affair",
+      "url": "https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1252,22 +1252,6 @@
       },
       "artists": [
         {
-          "name": "The Jamaicans",
-          "url": "https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5"
-        }
-      ],
-      "duration_ms": 167173,
-      "name": "Things You Say You Love",
-      "url": "https://open.spotify.com/track/0jr4UlOgvaKOGWIWXKu5RX"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
           "name": "Clancy Eccles",
           "url": "https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v"
         }
@@ -1284,6 +1268,22 @@
       },
       "artists": [
         {
+          "name": "The Jamaicans",
+          "url": "https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5"
+        }
+      ],
+      "duration_ms": 167173,
+      "name": "Things You Say You Love",
+      "url": "https://open.spotify.com/track/0jr4UlOgvaKOGWIWXKu5RX"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
           "name": "The Three Tops",
           "url": "https://open.spotify.com/artist/79kei1hSypfSpVCg1tutz8"
         }
@@ -1291,38 +1291,6 @@
       "duration_ms": 148480,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/2JROlfSYAfoMYYOPfgOPbS"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "The Uniques",
-          "url": "https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/4t5ARSYWg1wBOAXh6Yvr9g"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Queen Majesty (aka Minstrel and Queen)",
-      "url": "https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1359,6 +1327,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "The Uniques",
+          "url": "https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/4t5ARSYWg1wBOAXh6Yvr9g"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Blazzin' Fire",
         "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
       },
@@ -1371,6 +1355,54 @@
       "duration_ms": 229374,
       "name": "Bad Boys (Theme from COPS)",
       "url": "https://open.spotify.com/track/0qeKzbUsW0V4ZWRJrHNiD3"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Queen Majesty (aka Minstrel and Queen)",
+      "url": "https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "The Hot Shots",
+          "url": "https://open.spotify.com/artist/6aXiMZrt4avAeA5fO4HDiP"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Snoopy vs. The Red Baron",
+      "url": "https://open.spotify.com/track/7qKTh0SeTxq5GECRoCMQcV"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "The Melodians",
+          "url": "https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Rivers of Babylon",
+      "url": "https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1391,6 +1423,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Murder She Wrote Single",
         "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
       },
@@ -1407,22 +1455,6 @@
       "duration_ms": 247133,
       "name": "Murder She Wrote (Original Mix)",
       "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1459,6 +1491,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Bad To The Bone",
+        "url": "https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 226546,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
         "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
@@ -1491,54 +1539,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "The Definitive Collection: You Can Get It If You Really Want",
-        "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Israelites",
-      "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Bad To The Bone",
-        "url": "https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 226546,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "The Harder They Come",
-        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
-      "url": "https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Legend (The Definitive Remasters)",
         "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 256493,
       "name": "Waiting In Vain",
       "url": "https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "The Definitive Collection: You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Israelites",
+      "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1587,6 +1603,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "The Harder They Come",
+        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
+      "url": "https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Ska & Reggae Classics",
         "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
@@ -1599,38 +1631,6 @@
       "duration_ms": 225493,
       "name": "Everything I Own",
       "url": "https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Police And Thieves",
-        "url": "https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt"
-      },
-      "artists": [
-        {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
-        }
-      ],
-      "duration_ms": 244306,
-      "name": "Police & Thieves",
-      "url": "https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "On the Beach: The Anthology",
-        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
-      },
-      "artists": [
-        {
-          "name": "The Paragons",
-          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "The Tide Is High - Stereo Version",
-      "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
     }
   ],
   "unique_name": "Reggae Classics",

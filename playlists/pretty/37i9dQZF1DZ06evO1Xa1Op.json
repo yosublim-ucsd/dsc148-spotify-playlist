@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAAAslxqYe6iBtSHc0Z9GCaPq",
+  "snapshot_id": "Z28/gAAAAADmhDamaalmG4HoaeorWWmH",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "Instrumental",
-      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 380973,
       "name": "Ai Bine",
       "url": "https://open.spotify.com/track/0dtl6YQbvXjBQ0I18270zR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "Ali's Here",
-      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 358626,
       "name": "Heygana",
       "url": "https://open.spotify.com/track/3Oip7ZTE83W11hcHLqyrWS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "Ali's Here",
+      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 271280,
-      "name": "Allah Uya",
-      "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Mali",
         "url": "https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 290693,
       "name": "Yer Mali Gakoyoyo",
       "url": "https://open.spotify.com/track/2Wy19zQQAwnOykhdA5RZzI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "Allah Uya",
+      "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 279080,
-      "name": "Soya (2019 - Remaster)",
-      "url": "https://open.spotify.com/track/2mRUFnV4bo5F8JKLniCenA"
+      "duration_ms": 198013,
+      "name": "Ledi Coumbe (2019 - Remaster)",
+      "url": "https://open.spotify.com/track/3nquFBD7IS3N8CQ24HxzDS"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 198013,
-      "name": "Ledi Coumbe (2019 - Remaster)",
-      "url": "https://open.spotify.com/track/3nquFBD7IS3N8CQ24HxzDS"
+      "duration_ms": 279080,
+      "name": "Soya (2019 - Remaster)",
+      "url": "https://open.spotify.com/track/2mRUFnV4bo5F8JKLniCenA"
     },
     {
       "added_at": null,

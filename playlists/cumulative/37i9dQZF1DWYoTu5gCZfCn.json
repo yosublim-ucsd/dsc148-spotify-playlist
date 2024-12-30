@@ -95,6 +95,42 @@
     },
     {
       "album": {
+        "name": "Change the Game",
+        "url": "https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208901,
+      "name": "Change The Game",
+      "url": "https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc"
+    },
+    {
+      "album": {
+        "name": "Crossing Lines",
+        "url": "https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "Crossing Lines",
+      "url": "https://open.spotify.com/track/1BuwcJ4WYxvKsIG3nZeGn3"
+    },
+    {
+      "album": {
         "name": "Vincent Neil Emerson",
         "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
       },
@@ -308,6 +344,24 @@
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "album": {
+        "name": "Goin' 50",
+        "url": "https://open.spotify.com/album/3iCffsNF6mYOY87PWhhqcp"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "La Grange - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1MVqP6dzp0EZ2T4TpAxWnS"
     },
     {
       "album": {

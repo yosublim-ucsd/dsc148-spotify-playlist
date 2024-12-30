@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,853 songs - 1 day 13 hr 59 min
+1,856 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [Hope](https://open.spotify.com/track/0Sbs7D0nJ8ooHZNHywdy7X) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Hope And Love](https://open.spotify.com/album/6HL9vMR76QDapjg6W9lZDm) | 1:00 | 2024-10-23 |  |
 | [Hope](https://open.spotify.com/track/4rJpaLxW4D9WD5CHTprinQ) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Hope](https://open.spotify.com/album/3p3HAfox0gdHD2ytaSQ4mx) | 3:45 | 2022-01-12 | 2022-10-21 |
 | [Hope And Peace](https://open.spotify.com/track/4X34K91bhS4fHYogBQq70K) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Hope And Peace](https://open.spotify.com/album/1TKSEHhPYQYlgfUITrnoq0) | 1:02 | 2022-08-31 |  |
+| [Hope In Winter](https://open.spotify.com/track/1JTo4FF3aLExGUvWlIXYb1) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Hope In Winter](https://open.spotify.com/album/4xXdaM9DEG3zA28BacIMeR) | 1:00 | 2024-12-29 |  |
 | [Hope Is True](https://open.spotify.com/track/2YiNveOYT0UOl5wRzYPSsQ) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:06 | 2022-03-03 |  |
 | [Hope Together](https://open.spotify.com/track/15mcPR1p3hWTcjKTxHdXEy) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Hope Together](https://open.spotify.com/album/6rkocIimpyqAeyHVj2Du8t) | 1:01 | 2023-04-08 | 2024-02-13 |
 | [Hope Together \- Cello Version](https://open.spotify.com/track/3hzF7FLgkjpPjLxDlPLANM) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Hope Together](https://open.spotify.com/album/30S1OLCemh9TXRv1Z2sghX) | 1:01 | 2023-09-06 | 2024-02-13 |
@@ -1263,6 +1264,7 @@
 | [Quiet Again](https://open.spotify.com/track/0XWS1EBtMbtk36iZEGGF4a) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge, Vol\. 2](https://open.spotify.com/album/0BZhEnYxY5sZJs54ZYOCmX) | 1:03 | 2022-01-12 |  |
 | [Quiet Joy](https://open.spotify.com/track/1FJAimeQsvhQB95NTGpG60) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Autumn Rain](https://open.spotify.com/album/0JsMeQCTqpoV07HsE6QVC0) | 1:47 | 2022-01-20 |  |
 | [Quiet Love](https://open.spotify.com/track/3s6VZYDAJ7GfqIflkxqy1t) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Quiet Love](https://open.spotify.com/album/5FOLujx57ozchoLQGmFouU) | 1:01 | 2022-03-21 | 2024-01-30 |
+| [Quiet Night](https://open.spotify.com/track/4qmaxSnrzUYqDIZcrJZ4ia) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Quiet Night](https://open.spotify.com/album/6s8kzeG3p0BnRRKgs6v3gL) | 1:00 | 2024-12-29 |  |
 | [Quiet Night Melody](https://open.spotify.com/track/4dKFTaModWbW8kiG5LpZEJ) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Calming Piano Melodies](https://open.spotify.com/album/2AwrLqSXZuZna6B3SfsKHc) | 0:59 | 2022-08-25 | 2024-01-30 |
 | [Quiet Place Arr\. For Cello And Violin](https://open.spotify.com/track/59DelPzezDrHzco3wqu0VE) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Vista With Strings](https://open.spotify.com/album/1z1RTwjsaXZTvQvgPJ2QEz) | 0:59 | 2024-02-09 | 2024-02-13 |
 | [Quiet Plains](https://open.spotify.com/track/6lDPsGIVPEAnqYMU3Tbt6f) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Hope Returns](https://open.spotify.com/album/2C0XsBRLNZ8vFdiy6XmqdC) | 1:01 | 2024-02-09 | 2024-02-13 |
@@ -1371,6 +1373,7 @@
 | [Sand](https://open.spotify.com/track/3PKPZWGXdjCAnzN59OGaNK) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sand](https://open.spotify.com/album/63xOTmw7JRt6g139rismm1) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Sand Arr\. For Cello And Felt Piano](https://open.spotify.com/track/14ii5C03mrEyYoOFlVsOcL) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sand Arr\. For Cello And Felt Piano](https://open.spotify.com/album/3CVFHbJXPmIXtvQd5BvQCn) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Sand Castles](https://open.spotify.com/track/1zpQvJV1pWZAWgUrGHbxIA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Near](https://open.spotify.com/album/4gEyJJ0yLUrkTz0WAz1TkO) | 1:22 | 2022-01-15 |  |
+| [Sanguine](https://open.spotify.com/track/14iPgFaZ1l9JA3MtJOm9zj) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sanguine](https://open.spotify.com/album/6gc53rn3psv7QAocpK0OQB) | 1:00 | 2024-12-29 |  |
 | [Saturday Night Stars](https://open.spotify.com/track/6bfRhRKJjmuKPQLi7k6Oph) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace](https://open.spotify.com/album/79RFghU00Bo4qMQOfx8ygk) | 1:08 | 2022-01-12 |  |
 | [Saturday Sunrise](https://open.spotify.com/track/2wTuyBCFGZtUn0Wm5rQBrM) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Saturday Sunrise](https://open.spotify.com/album/4V2lNdfrQB9Mu0R6NfIAFj) | 2:01 | 2022-05-20 | 2024-02-13 |
 | [Saturn](https://open.spotify.com/track/2ss7QQYRcRKnbhSWFUWJQT) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [The Planets](https://open.spotify.com/album/7ljRCBTVAkXyyDmZ2qNOgT) | 1:11 | 2022-01-12 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Dec 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Dec 14:02 UTC.",
   "num_followers": 86,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAOMCay0m0/bm48LhPf5Ka8CakU4LSQ",
+  "snapshot_id": "AAAOMzjfwP9FQZdsbUODPjixRRxojPP4",
   "tracks": [
     {
       "added_at": "2024-12-28 19:02:40",
@@ -75,6 +75,26 @@
       "duration_ms": 206627,
       "name": "PIToRRO DE COCO",
       "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
+    },
+    {
+      "added_at": "2024-12-29 14:02:42",
+      "album": {
+        "name": "Pink Dreads",
+        "url": "https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "duration_ms": 120412,
+      "name": "Pink Dreads",
+      "url": "https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh"
     },
     {
       "added_at": "2024-12-25 09:02:43",
@@ -887,22 +907,6 @@
       "duration_ms": 130909,
       "name": "Push Me To The Edge",
       "url": "https://open.spotify.com/track/2hXoTaKAdsx2hhTpUxEGbK"
-    },
-    {
-      "added_at": "2024-12-20 09:03:15",
-      "album": {
-        "name": "Bachata sin Pijama",
-        "url": "https://open.spotify.com/album/2ZfhC7pNzBkMp4XKbW23Wo"
-      },
-      "artists": [
-        {
-          "name": "LUNA KI",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Bachata sin Pijama",
-      "url": "https://open.spotify.com/track/07JIcb9YdwPMSdMCQOR5RM"
     }
   ],
   "unique_name": "New Singles Now",

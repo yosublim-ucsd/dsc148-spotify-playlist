@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 32748,
+  "num_followers": 32857,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/3V4YnhfgH5M3zuUGHXiAXb"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/7fb4Qp5YoT4BKFdbj1Xu8r"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 227466,
       "name": "Hey Driver (feat. The War and Treaty)",
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/3V4YnhfgH5M3zuUGHXiAXb"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/7fb4Qp5YoT4BKFdbj1Xu8r"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -243,38 +243,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Faye Webster",
-        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "I Know You",
-      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "I Was Born To Love You",
         "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
       },
@@ -291,6 +259,22 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Faye Webster",
+        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -315,22 +299,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Western Swing & Waltzes and Other Punchy Songs",
-        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Cowpoke",
-      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Kindness, A Rebel",
         "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
       },
@@ -343,6 +311,22 @@
       "duration_ms": 195126,
       "name": "Motel 6",
       "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -363,6 +347,22 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
+        "name": "Western Swing & Waltzes and Other Punchy Songs",
+        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Cowpoke",
+      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 124000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0YWVOgUZl59PurjohaioRw"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/0oOY4xChdxmGgpyQrY2FBz"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -407,22 +423,6 @@
       "duration_ms": 221245,
       "name": "Through The Echoes",
       "url": "https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/0YWVOgUZl59PurjohaioRw"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/0oOY4xChdxmGgpyQrY2FBz"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Cardinal",
-      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 239240,
       "name": "Angel from Montgomery - 2008 Remaster",
       "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Paranoid Cocoon",
-        "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
-      },
-      "artists": [
-        {
-          "name": "Cotton Jones",
-          "url": "https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "Blood Red Sentimental Blues",
-      "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "In Dreams (Alternative Version)",
         "url": "https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 163149,
       "name": "In Dreams - Alternative Version",
       "url": "https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Paranoid Cocoon",
+        "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
+      },
+      "artists": [
+        {
+          "name": "Cotton Jones",
+          "url": "https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "Blood Red Sentimental Blues",
+      "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
+        "name": "Trail Of Flowers",
+        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 257297,
+      "name": "American Dreaming",
+      "url": "https://open.spotify.com/track/00cGNx0otxcMeD4GZHAJtq"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
         "name": "If I Should Go Before You",
         "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Ivory Castanets",
-        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         }
       ],
-      "duration_ms": 213866,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
+      "duration_ms": 215744,
+      "name": "$10 Cowboy",
+      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -919,6 +935,22 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
+        "name": "Ivory Castanets",
+        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
         "name": "Luke Grimes",
         "url": "https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2"
       },
@@ -931,38 +963,6 @@
       "duration_ms": 159640,
       "name": "Playin' On The Tracks",
       "url": "https://open.spotify.com/track/3xQj5vb8MBhaHctYXILqWl"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
-        "name": "Trail Of Flowers",
-        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 257297,
-      "name": "American Dreaming",
-      "url": "https://open.spotify.com/track/00cGNx0otxcMeD4GZHAJtq"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
-        "name": "$10 Cowboy",
-        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 215744,
-      "name": "$10 Cowboy",
-      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Where My Wild Things Are",
-        "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 237781,
-      "name": "Where My Wild Things Are",
-      "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Gone as It Gets",
         "url": "https://open.spotify.com/album/20fMYYeUFcB6KQglhdgA4l"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 185920,
       "name": "When You Miss Someone",
       "url": "https://open.spotify.com/track/0WTMkjTjqKy2KnNQYGfQI5"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Where My Wild Things Are",
+        "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 237781,
+      "name": "Where My Wild Things Are",
+      "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
     }
   ],
   "unique_name": "Americana Drive ",

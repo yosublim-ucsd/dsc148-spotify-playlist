@@ -41492,24 +41492,6 @@
     {
       "album": {
         "name": "El Rayo",
-        "url": "https://open.spotify.com/album/33CwQFjErZn91NdIgH1WDk"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "date_added": "2024-12-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168672,
-      "name": "El Rayo",
-      "url": "https://open.spotify.com/track/5Bxpl6JLicyjM4W8qsdZiW"
-    },
-    {
-      "album": {
-        "name": "El Rayo",
         "url": "https://open.spotify.com/album/5rSuBhI8nkaBTwrf38bdeh"
       },
       "artists": [
@@ -71158,6 +71140,24 @@
       "duration_ms": 149298,
       "name": "Los Radios Y El Tiro Arriba",
       "url": "https://open.spotify.com/track/5T2jCd2odZ9oG6qQVyUFbH"
+    },
+    {
+      "album": {
+        "name": "Los Sierra",
+        "url": "https://open.spotify.com/album/33CwQFjErZn91NdIgH1WDk"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168672,
+      "name": "Los Sierra",
+      "url": "https://open.spotify.com/track/5Bxpl6JLicyjM4W8qsdZiW"
     },
     {
       "album": {

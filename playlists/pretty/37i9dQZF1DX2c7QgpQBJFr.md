@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > ELASI in cover della playlist del nuovo pop italiano ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,444 likes - 95 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,443 likes - 95 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

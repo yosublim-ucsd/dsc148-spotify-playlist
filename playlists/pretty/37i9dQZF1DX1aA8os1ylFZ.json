@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 244036,
+  "num_followers": 244035,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Souled Out: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6QTeUgt8uTcABIg3UZFpwY"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Beautiful Ruin",
-      "url": "https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "Truth Be Told",
         "url": "https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 200920,
       "name": "It's All There (Secrets)",
       "url": "https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "Souled Out: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6QTeUgt8uTcABIg3UZFpwY"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Beautiful Ruin",
+      "url": "https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Space and Pussy",
-        "url": "https://open.spotify.com/album/03GodmV6v7GWeXW1vGEUHw"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 154578,
-      "name": "Space and Pussy",
-      "url": "https://open.spotify.com/track/0uExujZlh2J2XxNRn6ZJBu"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "FYS",
         "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 209202,
       "name": "FYS",
       "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "Space and Pussy",
+        "url": "https://open.spotify.com/album/03GodmV6v7GWeXW1vGEUHw"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 154578,
+      "name": "Space and Pussy",
+      "url": "https://open.spotify.com/track/0uExujZlh2J2XxNRn6ZJBu"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "2 Sides of a Rose",
-        "url": "https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn"
-      },
-      "artists": [
-        {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Quite Like Me",
-      "url": "https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "Boys Like U",
         "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 155000,
       "name": "Boys Like U",
       "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "2 Sides of a Rose",
+        "url": "https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Quite Like Me",
+      "url": "https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB"
-      },
-      "artists": [
-        {
-          "name": "RAY BLK",
-          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "COMING HOME (Expanded Edition)",
         "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 211644,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB"
+      },
+      "artists": [
+        {
+          "name": "RAY BLK",
+          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Spinn On You",
-        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 140663,
-      "name": "Spinn On You",
-      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "10%",
         "url": "https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 177760,
       "name": "LOML",
       "url": "https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 133534,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
         "name": "Gone Girl",
         "url": "https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 147790,
       "name": "Today",
       "url": "https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 133534,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
     },
     {
       "added_at": "2024-12-05 10:25:46",

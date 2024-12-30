@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 78398,
+  "num_followers": 78420,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,6 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Malice",
-          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
         "name": "Straight To The Brain",
         "url": "https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q"
       },
@@ -223,6 +203,26 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
+        "name": "Hardcore Life",
+        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "Hardcore Life",
+      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
         "name": "In Synergy",
         "url": "https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T"
       },
@@ -235,6 +235,26 @@
       "duration_ms": 166800,
       "name": "In Synergy",
       "url": "https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -283,22 +303,18 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
+        "name": "Can You Feel My Heart",
+        "url": "https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF"
       },
       "artists": [
         {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
         }
       ],
-      "duration_ms": 168003,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
+      "duration_ms": 152093,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -319,38 +335,22 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Hardcore Life",
-        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
       },
       "artists": [
         {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         },
         {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
         }
       ],
-      "duration_ms": 165176,
-      "name": "Hardcore Life",
-      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Can You Feel My Heart",
-        "url": "https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF"
-      },
-      "artists": [
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S"
+      "duration_ms": 168003,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Straight From Holland",
-        "url": "https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        }
-      ],
-      "duration_ms": 121128,
-      "name": "Straight From Holland",
-      "url": "https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
         "name": "Ratata",
         "url": "https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM"
       },
@@ -535,6 +515,26 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
+        "name": "Straight From Holland",
+        "url": "https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 121128,
+      "name": "Straight From Holland",
+      "url": "https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
         "name": "Know Me Like",
         "url": "https://open.spotify.com/album/4g6jfqwpgyGh52gQzSdbGO"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 159292,
       "name": "Know Me Like",
       "url": "https://open.spotify.com/track/1sYXnmfLdX0EtaMm7pphX3"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Someone To Understand",
+        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Someone To Understand",
+      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -579,22 +595,6 @@
       "duration_ms": 158750,
       "name": "F.R.E.N.C.H.C.O.R.E.",
       "url": "https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Someone To Understand",
-        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Someone To Understand",
-      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
         "name": "Trip to Defqon.1",
         "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 222116,
       "name": "Trip to Defqon.1",
       "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/0qGcJ4UEz2E3mH1I3mIWBn"
-      },
-      "artists": [
-        {
-          "name": "Imperial",
-          "url": "https://open.spotify.com/artist/2qx5TM5UVg3th3ZQ9Vkj2X"
-        },
-        {
-          "name": "Lumex",
-          "url": "https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi"
-        }
-      ],
-      "duration_ms": 207290,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/7MSgHpQ6jEIecruihONovW"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
         "name": "Hide Away",
         "url": "https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 212000,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/0qGcJ4UEz2E3mH1I3mIWBn"
+      },
+      "artists": [
+        {
+          "name": "Imperial",
+          "url": "https://open.spotify.com/artist/2qx5TM5UVg3th3ZQ9Vkj2X"
+        },
+        {
+          "name": "Lumex",
+          "url": "https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi"
+        }
+      ],
+      "duration_ms": 207290,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/7MSgHpQ6jEIecruihONovW"
     },
     {
       "added_at": "2024-12-19 23:00:36",

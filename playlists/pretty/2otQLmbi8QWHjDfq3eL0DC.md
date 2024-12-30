@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 ### [HOUSE MUSIC 2025 \| TOP 100 DANCE HITS 2024](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2024 2025!
+> The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,341,435 likes - 97 songs - 4 hr 32 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,341,343 likes - 97 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 96 | [Calling](https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Calling](https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab) | 3:29 |
 | 97 | [Hot In It](https://open.spotify.com/track/0Y7dShDPqlnaz4pjmajQpe) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:09 |
 
-Snapshot ID: `AAAOtYnSO8oeQZuaKoQu6I+WtyYnBhvQ`
+Snapshot ID: `AAAOuf14BmVTmixY2z1EmAYkJ91c0ddz`

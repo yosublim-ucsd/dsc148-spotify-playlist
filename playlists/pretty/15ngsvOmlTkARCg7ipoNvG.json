@@ -6,7 +6,7 @@
     "name": "IW Music",
     "url": "https://open.spotify.com/user/ikwong1979"
   },
-  "snapshot_id": "AAAlPlJZtkKGjxFOSzwMBH4pIuBkvTEv",
+  "snapshot_id": "AAAlP2Q+22Eu8HYAV+EwoZOML+4Xeg6p",
   "tracks": [
     {
       "added_at": "2024-02-12 06:27:00",
@@ -2263,6 +2263,54 @@
       "duration_ms": 60494,
       "name": "Improvisation In The Garden",
       "url": "https://open.spotify.com/track/6T4OGVTDAG36o3s6KZVDEw"
+    },
+    {
+      "added_at": "2024-12-29 16:56:49",
+      "album": {
+        "name": "Hope In Winter",
+        "url": "https://open.spotify.com/album/4xXdaM9DEG3zA28BacIMeR"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "duration_ms": 60445,
+      "name": "Hope In Winter",
+      "url": "https://open.spotify.com/track/1JTo4FF3aLExGUvWlIXYb1"
+    },
+    {
+      "added_at": "2024-12-29 16:56:49",
+      "album": {
+        "name": "Quiet Night",
+        "url": "https://open.spotify.com/album/6s8kzeG3p0BnRRKgs6v3gL"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "duration_ms": 60309,
+      "name": "Quiet Night",
+      "url": "https://open.spotify.com/track/4qmaxSnrzUYqDIZcrJZ4ia"
+    },
+    {
+      "added_at": "2024-12-29 16:56:49",
+      "album": {
+        "name": "Sanguine",
+        "url": "https://open.spotify.com/album/6gc53rn3psv7QAocpK0OQB"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "duration_ms": 60303,
+      "name": "Sanguine",
+      "url": "https://open.spotify.com/track/14iPgFaZ1l9JA3MtJOm9zj"
     },
     {
       "added_at": "2024-06-25 23:30:06",

@@ -4,7 +4,7 @@
 
 > Rock, indie, e punk dall'Italia 🎸 GIIN in cover
 
-1,242 songs - 2 day 21 hr 7 min
+1,243 songs - 2 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Cinema](https://open.spotify.com/track/3dmDKB9fmskXEjZcMniFh8) | [Balto](https://open.spotify.com/artist/2u3GEhLf7fYa480zQ7e0bZ) | [Cinema](https://open.spotify.com/album/51PNUR52FSQVhkxnRGp8dJ) | 2:47 | 2024-11-07 | 2024-11-22 |
 | [Circular](https://open.spotify.com/track/4iokmKzHidikwb92wvK2pz) | [Klidas](https://open.spotify.com/artist/2hR1G6mVtRjuPOHEPutdtP) | [No Harmony](https://open.spotify.com/album/1gyRigtJgj31N9ohUfn9I1) | 5:09 | 2023-06-01 | 2023-07-14 |
 | [Città foresta](https://open.spotify.com/track/4GPeaXpFwD2ju3fwnfZQ2Z) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Città foresta](https://open.spotify.com/album/7Mb7CHDVdLUflxd9pKX21w) | 3:53 | 2022-07-21 | 2023-01-27 |
+| [città invisibili](https://open.spotify.com/track/6EEH2FcKNxgJa25jvtk6mO) | [chiaroscuro](https://open.spotify.com/artist/3RpKCTfi3pinilWNgrX7B2) | [città invisibili](https://open.spotify.com/album/50Biz58nmFD7skWEDFUpTt) | 3:51 | 2024-12-29 |  |
 | [Claudio](https://open.spotify.com/track/1FCZL1dhHzXjNQ41PudYm0) | [Turbetto](https://open.spotify.com/artist/5RMf5E5n45iyMgwo8uQQyA) | [Claudio](https://open.spotify.com/album/1dRqIynMDy4rKbG8mus1Tp) | 2:15 | 2023-04-27 | 2023-05-12 |
 | [COCKTAIL DI GAMBERI](https://open.spotify.com/track/33vOPQa2XqAjPPTrj6uVGK) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [COCKTAIL DI GAMBERI](https://open.spotify.com/album/57d3CXrTKi7iX7G0G9vDZq) | 2:40 | 2024-04-18 | 2024-06-01 |
 | [Coldblooded](https://open.spotify.com/track/6ttVgUvfahHGsuyROn3vfB) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [Coldblooded](https://open.spotify.com/album/2cozkJTxZVl5OmftKW5Toj) | 2:03 | 2022-12-15 | 2023-01-27 |

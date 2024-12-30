@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: iiso(\uc774\uc18c))",
-  "num_followers": 27396,
+  "num_followers": 27405,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -315,30 +315,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "My Universe (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 199135,
-      "name": "My Universe - David Guetta Remix",
-      "url": "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "Seven (Weekend Ver.)",
         "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 173733,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "My Universe (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 199135,
+      "name": "My Universe - David Guetta Remix",
+      "url": "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -539,38 +539,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
-        "name": "Find The Way",
-        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Find The Way",
-      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -587,6 +555,22 @@
       "duration_ms": 208780,
       "name": "SCIENTIST (R3HAB Remix)",
       "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -647,6 +631,22 @@
       "duration_ms": 165000,
       "name": "Keep My Light On",
       "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "Find The Way",
+        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Find The Way",
+      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -839,6 +839,26 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
+        "name": "STARDUST",
+        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
+      },
+      "artists": [
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        },
+        {
+          "name": "XIAOJUN",
+          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "STARDUST",
+      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
         "name": "Good Night Good Morning (GNGM) [minlee Remix]",
         "url": "https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO"
       },
@@ -863,26 +883,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "STARDUST",
-        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
-      },
-      "artists": [
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        },
-        {
-          "name": "XIAOJUN",
-          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "STARDUST",
-      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "Too Far",
         "url": "https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc"
       },
@@ -899,6 +899,26 @@
       "duration_ms": 143622,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "iScreaM Vol.10 : Next Level Remixes",
+        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Next Level - IMLAY Remix",
+      "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -939,26 +959,6 @@
       "duration_ms": 310952,
       "name": "Re: searchlight",
       "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
-        "name": "iScreaM Vol.10 : Next Level Remixes",
-        "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Next Level - IMLAY Remix",
-      "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1035,46 +1035,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "The Feels",
-        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 185218,
-      "name": "The Feels (Benny Benassi Remix)",
-      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
-        "name": "Useless",
-        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        },
-        {
-          "name": "Noisy Choice",
-          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Useless",
-      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "iScreaM Vol.14 : Peaches Remixes",
         "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
       },
@@ -1115,6 +1075,26 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
+        "name": "Useless",
+        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Noisy Choice",
+          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Useless",
+      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
         "name": "iScreaM Vol.32 : Impossible Remix",
         "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 211818,
       "name": "Impossible - Darius Remix",
       "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "The Feels",
+        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 185218,
+      "name": "The Feels (Benny Benassi Remix)",
+      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "taalthechoi",
-          "url": "https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Breakthrough - taalthechoi Remix",
-      "url": "https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "iScreaM Vol.24 : Perfume Remixes",
         "url": "https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc"
       },
@@ -1191,6 +1171,22 @@
       "duration_ms": 168973,
       "name": "Perfume - Jafunk Remix",
       "url": "https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "Love Crime",
+        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
+      },
+      "artists": [
+        {
+          "name": "Rockett",
+          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
+        }
+      ],
+      "duration_ms": 154712,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1251,18 +1247,22 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "Love Crime",
-        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
       },
       "artists": [
         {
-          "name": "Rockett",
-          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "taalthechoi",
+          "url": "https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C"
         }
       ],
-      "duration_ms": 154712,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
+      "duration_ms": 202586,
+      "name": "Breakthrough - taalthechoi Remix",
+      "url": "https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "TROUBLE (arcon Remix)",
-        "url": "https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T"
-      },
-      "artists": [
-        {
-          "name": "EVNNE",
-          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
-        },
-        {
-          "name": "arcon",
-          "url": "https://open.spotify.com/artist/2waVRu4A7Ugq6PFNgDgjtw"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "TROUBLE - arcon Remix",
-      "url": "https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
         "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 274761,
       "name": "28 Reasons - LOOZBONE Remix",
       "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "TROUBLE (arcon Remix)",
+        "url": "https://open.spotify.com/album/0u2Xj3tQyzjagfpSZzmh6T"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        },
+        {
+          "name": "arcon",
+          "url": "https://open.spotify.com/artist/2waVRu4A7Ugq6PFNgDgjtw"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "TROUBLE - arcon Remix",
+      "url": "https://open.spotify.com/track/2nxfuUbTMIqL0YsMB38wKU"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Make A Wish (Birthday Song) - Wuki Remix",
+      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
         "name": "iScreaM Vol.25 : Red Flavor Remix",
         "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
       },
@@ -1475,22 +1495,18 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
-        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+        "name": "<Queendom2> Part.1-2",
+        "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
       },
       "artists": [
         {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        },
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
         }
       ],
-      "duration_ms": 194146,
-      "name": "Make A Wish (Birthday Song) - Wuki Remix",
-      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
+      "duration_ms": 227493,
+      "name": "Chi Mat Ba Ram+Rollin\u2019 - Remix",
+      "url": "https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1523,22 +1539,6 @@
       "duration_ms": 153520,
       "name": "Without You (Alok Remix) (Radio Edit)",
       "url": "https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
-        "name": "<Queendom2> Part.1-2",
-        "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Chi Mat Ba Ram+Rollin\u2019 - Remix",
-      "url": "https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1663,46 +1663,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.8 : Bambi Remixes",
-        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        },
-        {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
-        }
-      ],
-      "duration_ms": 240004,
-      "name": "Bambi - h4rdy Remix",
-      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Minit",
-          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "BOOM - Minit Remix, Bonus Track",
-      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1723,6 +1683,26 @@
       "duration_ms": 203720,
       "name": "Don't Call Me - Fox Stevenson Remix",
       "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "iScreaM Vol.8 : Bambi Remixes",
+        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+        }
+      ],
+      "duration_ms": 240004,
+      "name": "Bambi - h4rdy Remix",
+      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1791,22 +1771,22 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.8 : Bambi Remixes",
-        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         },
         {
-          "name": "BRLLNT",
-          "url": "https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt"
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
         }
       ],
-      "duration_ms": 171940,
-      "name": "Bambi - BRLLNT Remix",
-      "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
+      "duration_ms": 197538,
+      "name": "BOOM - Minit Remix, Bonus Track",
+      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1847,6 +1827,26 @@
       "duration_ms": 244992,
       "name": "Phantom - Pierre Blanche Remix",
       "url": "https://open.spotify.com/track/2sqOAZK3yegHFbab4Z4479"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "iScreaM Vol.8 : Bambi Remixes",
+        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "BRLLNT",
+          "url": "https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "Bambi - BRLLNT Remix",
+      "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "Amerindio",
-        "url": "https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv"
-      },
-      "artists": [
-        {
-          "name": "JUNTARO",
-          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
-        }
-      ],
-      "duration_ms": 180495,
-      "name": "Amerindio",
-      "url": "https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "iScreaM Vol.23 : Phantom Remixes",
         "url": "https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 190968,
       "name": "Phantom - IMLAY Remix",
       "url": "https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "Amerindio",
+        "url": "https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv"
+      },
+      "artists": [
+        {
+          "name": "JUNTARO",
+          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
+        }
+      ],
+      "duration_ms": 180495,
+      "name": "Amerindio",
+      "url": "https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7"
     }
   ],
   "unique_name": "Electronii'K",

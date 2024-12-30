@@ -4,7 +4,7 @@
 
 > 
 
-1,933 songs - 4 day 6 hr 53 min
+1,934 songs - 4 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Collateral Damage](https://open.spotify.com/track/4UrGKyxub8OwFEErQnVSjG) | [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD), [DMRC](https://open.spotify.com/artist/4KU7E8U1N4jXyhNhhjLNoO), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Collateral Damage](https://open.spotify.com/album/6VXNb985ERLDF1aDbgumWb) | 2:46 | 2024-08-17 |  |
 | [Colorblind](https://open.spotify.com/track/4QuLvVp76ztgtugmHQ3AoM) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Colorblind](https://open.spotify.com/album/77cInQFumMTB0g5W5WlMSa) | 2:57 | 2024-07-30 |  |
 | [Colorful Beat \(feat\. Yume \(CV:Oda Karin\) & Yu \(CV:Takatsuki Miyuu\)\)](https://open.spotify.com/track/2hMi08697bmdUVXOxabQ88) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Yume\(CV:Oda Karin\)](https://open.spotify.com/artist/0IzBLBBVUBC37eOywLJnJq), [Yu\(CV:Takatsuki Miyuu\)](https://open.spotify.com/artist/3EV38xC3L5KAeKyQjhoEv3) | [Colorful Beat](https://open.spotify.com/album/7Eb3aFzgBo2pap0rpMMfQ3) | 2:16 | 2023-11-13 |  |
+| [Colours](https://open.spotify.com/track/5DpIva4yqRr7TRqEOzpWg8) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m) | [Colours](https://open.spotify.com/album/2zFGIOMWzoPcmst3YUoVDb) | 3:19 | 2024-12-29 |  |
 | [COME 2 DADDY](https://open.spotify.com/track/6sxm18D8ySWK1c0NZX00k5) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [COME 2 DADDY](https://open.spotify.com/album/0ZNypRPkBYqmA9dLSXr8PJ) | 2:42 | 2024-06-10 |  |
 | [Come Alive](https://open.spotify.com/track/1YlZ6MetMORMdsrwWXLV85) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Come Alive](https://open.spotify.com/album/2AMzGsyHFKzWVJ86BLBxUg) | 4:10 | 2023-09-22 |  |
 | [COME ALIVE \- JIYAGI EDIT](https://open.spotify.com/track/4Bu7PkBbLqsilSMrV7RYo2) | [rub3n](https://open.spotify.com/artist/7bFoS8Lg3cESdfFEVn6aNZ), [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [COME ALIVE \(JIYAGI EDIT\)](https://open.spotify.com/album/3aTBXE90njc6oUvkPhkXfR) | 2:20 | 2024-03-26 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Split Chain (pictured), OVERSIZE, Teenage Wrist, Superheaven and more.",
+  "description": "The shape of noise to come with Head Cloud (pictured), Day Saints, Present, trauma ray and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -3230,6 +3230,24 @@
       "duration_ms": 190322,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT"
+    },
+    {
+      "album": {
+        "name": "Hard To Exist",
+        "url": "https://open.spotify.com/album/4uQLlofCSNpWRfinInFzVJ"
+      },
+      "artists": [
+        {
+          "name": "Head Cloud",
+          "url": "https://open.spotify.com/artist/1zjQss5oxe4XMJ2mH2ZPP6"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "Dare I Say",
+      "url": "https://open.spotify.com/track/3x4GmIoBoi6AKOcnTihKMe"
     },
     {
       "album": {
@@ -8686,7 +8704,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 121533,
       "name": "Not Just Yet",
       "url": "https://open.spotify.com/track/2TmzblnommV2fLhFWipdfg"
@@ -9892,7 +9910,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 286500,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/790xizyegqSM8C5eGDR0ob"
@@ -11070,6 +11088,24 @@
       "duration_ms": 296133,
       "name": "Spit",
       "url": "https://open.spotify.com/track/1oEfleGYXYIOeej1EJW1uE"
+    },
+    {
+      "album": {
+        "name": "Standalone+1",
+        "url": "https://open.spotify.com/album/3AavCvQYJLFv7qmSgyLbHt"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68234,
+      "name": "Standalone",
+      "url": "https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o"
     },
     {
       "album": {
@@ -12595,6 +12631,28 @@
     },
     {
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        },
+        {
+          "name": "Distressor",
+          "url": "https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264566,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n"
+    },
+    {
+      "album": {
         "name": "Torched",
         "url": "https://open.spotify.com/album/1hRNwx5co2OS2a2XEVDxky"
       },
@@ -12966,7 +13024,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 235863,
       "name": "Verano",
       "url": "https://open.spotify.com/track/1LLMCNwviNpkuKQfIpMxO0"

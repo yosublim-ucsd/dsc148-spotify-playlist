@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 441792,
+  "num_followers": 441936,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
+        "name": "Paths",
+        "url": "https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC"
+      },
+      "artists": [
+        {
+          "name": "Silje M\u00f8rk",
+          "url": "https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP"
+        }
+      ],
+      "duration_ms": 172595,
+      "name": "Paths",
+      "url": "https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
         "name": "A tale to tell",
         "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Paths",
-        "url": "https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC"
-      },
-      "artists": [
-        {
-          "name": "Silje M\u00f8rk",
-          "url": "https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP"
-        }
-      ],
-      "duration_ms": 172595,
-      "name": "Paths",
-      "url": "https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Air from Air",
         "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 199428,
       "name": "Air from Air",
       "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
-        "name": "Muse Of History",
-        "url": "https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi"
-      },
-      "artists": [
-        {
-          "name": "Roland Toubin",
-          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
-        }
-      ],
-      "duration_ms": 141814,
-      "name": "Muse Of History",
-      "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -427,6 +411,22 @@
       "duration_ms": 158000,
       "name": "Archipelago",
       "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Muse Of History",
+        "url": "https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi"
+      },
+      "artists": [
+        {
+          "name": "Roland Toubin",
+          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
+        }
+      ],
+      "duration_ms": 141814,
+      "name": "Muse Of History",
+      "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
+        "name": "Lisser",
+        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
+      },
+      "artists": [
+        {
+          "name": "Miran",
+          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
+        }
+      ],
+      "duration_ms": 125041,
+      "name": "Lisser",
+      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
         "name": "Le Recueillement",
         "url": "https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
-        "name": "Lisser",
-        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
-      },
-      "artists": [
-        {
-          "name": "Miran",
-          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
-        }
-      ],
-      "duration_ms": 125041,
-      "name": "Lisser",
-      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -719,38 +719,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Nordanvind",
-        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
-      },
-      "artists": [
-        {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Nordanvind",
-      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
-        "name": "Fiume",
-        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 140124,
-      "name": "Fiume",
-      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Brume Matinale",
         "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
       },
@@ -783,18 +751,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Diaphanous",
-        "url": "https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS"
+        "name": "Nordanvind",
+        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
       },
       "artists": [
         {
-          "name": "Arden Brooks",
-          "url": "https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m"
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
         }
       ],
-      "duration_ms": 173520,
-      "name": "Diaphanous",
-      "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
+      "duration_ms": 127000,
+      "name": "Nordanvind",
+      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -815,18 +783,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Countryside Mansion",
-        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
+        "name": "Fiume",
+        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
       },
       "artists": [
         {
-          "name": "Joanne Gardiner",
-          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
         }
       ],
-      "duration_ms": 182213,
-      "name": "Countryside Mansion",
-      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
+      "duration_ms": 140124,
+      "name": "Fiume",
+      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -847,6 +815,22 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
+        "name": "Diaphanous",
+        "url": "https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS"
+      },
+      "artists": [
+        {
+          "name": "Arden Brooks",
+          "url": "https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m"
+        }
+      ],
+      "duration_ms": 173520,
+      "name": "Diaphanous",
+      "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
         "name": "Onward",
         "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 134000,
       "name": "Onward",
       "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Countryside Mansion",
+        "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
+      },
+      "artists": [
+        {
+          "name": "Joanne Gardiner",
+          "url": "https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "Countryside Mansion",
+      "url": "https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
-      },
-      "artists": [
-        {
-          "name": "Linn Hope",
-          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
-        }
-      ],
-      "duration_ms": 157860,
-      "name": "Bona Fide",
-      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "When It\u00b4s Love",
         "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 162047,
       "name": "When It\u00b4s Love",
       "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+      },
+      "artists": [
+        {
+          "name": "Linn Hope",
+          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
+        }
+      ],
+      "duration_ms": 157860,
+      "name": "Bona Fide",
+      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Come close",
-        "url": "https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6"
-      },
-      "artists": [
-        {
-          "name": "Korey Banks",
-          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Come close",
-      "url": "https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Ellie",
         "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 178000,
       "name": "Ellie",
       "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Come close",
+        "url": "https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6"
+      },
+      "artists": [
+        {
+          "name": "Korey Banks",
+          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Come close",
+      "url": "https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
+        "name": "Under",
+        "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
         "name": "Sound Of Mind",
         "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
       },
@@ -1227,6 +1243,22 @@
       "duration_ms": 122998,
       "name": "Sound Of Mind",
       "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Kalmte",
+        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
+      },
+      "artists": [
+        {
+          "name": "Barry Hudson-Taylor",
+          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
+        }
+      ],
+      "duration_ms": 141736,
+      "name": "Languor",
+      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1263,38 +1295,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Under",
-        "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
-        "name": "Kalmte",
-        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
-      },
-      "artists": [
-        {
-          "name": "Barry Hudson-Taylor",
-          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
-        }
-      ],
-      "duration_ms": 141736,
-      "name": "Languor",
-      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 151829,
       "name": "Stille Sj\u00f8",
       "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Lofoten",
+        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "duration_ms": 161913,
+      "name": "Lofoten",
+      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Lofoten",
-        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
+        "name": "Eclipsis",
+        "url": "https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t"
       },
       "artists": [
         {
-          "name": "Otto Noir",
-          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
         }
       ],
-      "duration_ms": 161913,
-      "name": "Lofoten",
-      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
+      "duration_ms": 146079,
+      "name": "Eclipsis",
+      "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 135344,
       "name": "Peggy's Cove",
       "url": "https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
-        "name": "Eclipsis",
-        "url": "https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t"
-      },
-      "artists": [
-        {
-          "name": "Ryley Moss",
-          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
-        }
-      ],
-      "duration_ms": 146079,
-      "name": "Eclipsis",
-      "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
     },
     {
       "added_at": "2024-07-10 03:01:00",

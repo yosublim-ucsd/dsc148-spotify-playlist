@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Roc Marciano",
-  "num_followers": 1591456,
+  "num_followers": 1591415,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,18 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
-        "name": "Saturday Mornings (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
       },
       "artists": [
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 262573,
-      "name": "Saturday Mornings (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
       "added_at": "2024-12-20 04:00:16",
@@ -287,8 +283,8 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
-        "name": "euphoria",
-        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+        "name": "meet the grahams",
+        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
       },
       "artists": [
         {
@@ -296,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 383639,
-      "name": "euphoria",
-      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+      "duration_ms": 392138,
+      "name": "meet the grahams",
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
     },
     {
       "added_at": "2024-12-20 04:00:16",
@@ -335,6 +331,26 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
+        "name": "Saturday Mornings (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Saturday Mornings (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
         "name": "Studio Fit Riddim",
         "url": "https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv"
       },
@@ -347,50 +363,6 @@
       "duration_ms": 102765,
       "name": "Studio Fit Riddim",
       "url": "https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
-        "name": "BLAH",
-        "url": "https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        },
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "BLAH",
-      "url": "https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
-        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
     },
     {
       "added_at": "2024-12-20 04:00:16",
@@ -435,6 +407,46 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Stickz N Stonez",
+      "url": "https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
+        "name": "BLAH",
+        "url": "https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "BLAH",
+      "url": "https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
         "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
         "url": "https://open.spotify.com/album/2hGVmhbARvihNo7UQsna9W"
       },
@@ -455,6 +467,26 @@
       "duration_ms": 169560,
       "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
       "url": "https://open.spotify.com/track/6dD6xEnhXhLWZTZAFVwmQK"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
+        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
     },
     {
       "added_at": "2024-12-20 04:00:16",
@@ -483,18 +515,38 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
-        "name": "meet the grahams",
-        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 392138,
-      "name": "meet the grahams",
-      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+      "duration_ms": 242000,
+      "name": "Brick Fees",
+      "url": "https://open.spotify.com/track/375ioxOx42RJEbfE5mo4Dy"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": "2024-12-20 04:00:16",
@@ -508,25 +560,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 200786,
-      "name": "Stickz N Stonez",
-      "url": "https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
-        "name": "You Only Die 1nce",
-        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Brick Fees",
-      "url": "https://open.spotify.com/track/375ioxOx42RJEbfE5mo4Dy"
+      "duration_ms": 157853,
+      "name": "3001",
+      "url": "https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW"
     },
     {
       "added_at": "2024-12-20 04:00:16",
@@ -567,26 +603,6 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
         "name": "Soul Burger",
         "url": "https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 157853,
-      "name": "3001",
-      "url": "https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
         "name": "Define My Name",
         "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 190693,
       "name": "Define My Name",
       "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Palaces",
-      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
     },
     {
       "added_at": "2024-12-20 04:00:16",
@@ -683,46 +667,6 @@
       "duration_ms": 164656,
       "name": "Raw (feat. Lil Wayne & Niko Brim)",
       "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
-        "name": "You Only Die 1nce",
-        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Steel Doors",
-      "url": "https://open.spotify.com/track/2GygHVLLlzbWVHlejhSIZU"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Daylyt",
-          "url": "https://open.spotify.com/artist/573vxT6vzhNRzTVIuVRnLj"
-        },
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 354773,
-      "name": "Pi (feat. Daylyt & Ab-Soul)",
-      "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
     },
     {
       "added_at": "2024-12-20 04:00:16",
@@ -767,6 +711,22 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Steel Doors",
+      "url": "https://open.spotify.com/track/2GygHVLLlzbWVHlejhSIZU"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
         "name": "The Genuine Articulate",
         "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
       },
@@ -787,6 +747,46 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Daylyt",
+          "url": "https://open.spotify.com/artist/573vxT6vzhNRzTVIuVRnLj"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 354773,
+      "name": "Pi (feat. Daylyt & Ab-Soul)",
+      "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Palaces",
+      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
         "name": "shadowbox",
         "url": "https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 128780,
       "name": "grindstone",
       "url": "https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
+        "name": "The Skeleton Key",
+        "url": "https://open.spotify.com/album/3o97J40gRWIoGO2Hnyez52"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Cryotherapy",
+      "url": "https://open.spotify.com/track/0A83vW4q1Gzb23gg5QuHy6"
     },
     {
       "added_at": "2024-12-20 04:00:16",
@@ -831,26 +851,6 @@
       "duration_ms": 160543,
       "name": "CELiNE iN THE TRAP (B)",
       "url": "https://open.spotify.com/track/4QCQPFD0RFyVey0x9wUmK3"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
-        "name": "The Skeleton Key",
-        "url": "https://open.spotify.com/album/3o97J40gRWIoGO2Hnyez52"
-      },
-      "artists": [
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Cryotherapy",
-      "url": "https://open.spotify.com/track/0A83vW4q1Gzb23gg5QuHy6"
     },
     {
       "added_at": "2024-12-20 04:00:16",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
+        "name": "Moving Day",
+        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "Moving Day",
+      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
         "name": "Once In A Blue Moon",
         "url": "https://open.spotify.com/album/3SXOskfMS4s97wcmyirHmF"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 189689,
       "name": "Northside",
       "url": "https://open.spotify.com/track/0OtIhBOZpVAvLg2CzqA3Ny"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
-        "name": "Moving Day",
-        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Moving Day",
-      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
     }
   ],
   "unique_name": "Spilled Ink",

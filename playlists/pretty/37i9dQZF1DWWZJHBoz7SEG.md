@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Feliz 2025! Celebra las fiestas en compañía de Luis R\. Conriquez y TRAKAS, Hijos de su próspero Año Nuevo 🪅
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,415 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,554 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 18 | [REHÉN](https://open.spotify.com/track/4YwbO3lZnM5F6lbeHISMLh) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3) | [REHÉN](https://open.spotify.com/album/3kfGQDYPTjBUA1wa6cWQRF) | 2:01 |
 | 19 | [La Liga de Las Sombras](https://open.spotify.com/track/4LMhQOtTfFXCOea3BpzRuK) | [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD), [Ese O](https://open.spotify.com/artist/1xUAA18wZbJHRHhSOIJgyU) | [Punchline City, Vol\. 1](https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz) | 1:56 |
 | 20 | [Tierra De Nadie](https://open.spotify.com/track/27SJxiwWLOc7bDW8xcgsIo) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1) | [Vértigo](https://open.spotify.com/album/3m4PQ5L4unLUgyMvNZj9Vw) | 2:36 |
-| 21 | [Nada Enserio](https://open.spotify.com/track/0XySMMNypLHFlOowMzf6BS) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [Nada Enserio](https://open.spotify.com/album/6IigObivM5fZeJMCZtblW2) | 3:42 |
+| 21 | [Nada En Serio](https://open.spotify.com/track/0XySMMNypLHFlOowMzf6BS) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [Nada En Serio](https://open.spotify.com/album/6IigObivM5fZeJMCZtblW2) | 3:42 |
 | 22 | [FIDG](https://open.spotify.com/track/5Hc8HfWXbBv6XLKxK0XQVd) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Shroom](https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG) | [Trufas \(Deluxe Version\)](https://open.spotify.com/album/3QceyMAL3KlXG5mCCiRFgJ) | 2:48 |
 | 23 | [Ferragamo](https://open.spotify.com/track/5ihdLIpOc4zgTRTVar1xN4) | [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Ferragamo](https://open.spotify.com/album/0jLU2VTNMurRMFhvmZZf25) | 2:31 |
 | 24 | [REMEMBER](https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [REMEMBER](https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY) | 3:39 |

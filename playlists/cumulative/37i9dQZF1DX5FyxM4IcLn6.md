@@ -4,7 +4,7 @@
 
 > The official playlist for the 65th GRAMMY Awards.
 
-748 songs - 2 day 2 hr 43 min
+749 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,7 +612,7 @@
 | [String Quartet No\. 3 "Glitter, Doom, Shards, Memory": II\. Menace](https://open.spotify.com/track/7DUhxHHukb4JHmXPk1Oe6w) | [Shulamit Ran](https://open.spotify.com/artist/6XywJ4a9JsY1EgGY6huQJ5), [Pacifica Quartet](https://open.spotify.com/artist/5GjkcqIydny9jzY75qdutt) | [Contemporary Voices](https://open.spotify.com/album/1r4VvBkkWFqiXU6uPVgPGp) | 3:11 | 2021-03-10 | 2022-03-30 |
 | [Stringmusic: II\. Tango \(Live\)](https://open.spotify.com/track/6D2XoYEyg4xmaoayO1bZqd) | [Morton Gould](https://open.spotify.com/artist/27vUIN5n6wAIoug4KMJZHp), [Oregon Symphony](https://open.spotify.com/artist/1nRwfB25PsQC0TdQlKeaqE), [Carlos Kalmar](https://open.spotify.com/artist/7vCXB9OfeSE8rSOpylPrxa) | [Aspects of America: Pulitzer Edition \(Live\)](https://open.spotify.com/album/7nkBNvc9TxkdpcBowoOTVW) | 4:10 | 2021-03-10 | 2022-03-30 |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2023-11-10 | 2024-11-09 |
-| [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 | 2024-11-08 |  |
+| [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 | 2024-11-08 | 2024-12-30 |
 | [Suddenly Seymour](https://open.spotify.com/track/0kjCT2l86GTuNwxfouBoLf) | [Tammy Blanchard](https://open.spotify.com/artist/41BsSiToqwYBTW1TQ0S1SF), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Little Shop of Horrors Off\-Broadway Revival Company](https://open.spotify.com/artist/579F8Wqp8fzlCTbDQ4V6Wc) | [Little Shop of Horrors \(The New Off\-Broadway Cast Album\)](https://open.spotify.com/album/7Cag7tktEaptbKO2PhtUJ0) | 3:45 | 2021-03-10 | 2022-03-30 |
 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 | 2024-11-08 |  |
 | [Sugar Coat](https://open.spotify.com/track/61nt5bb4mX4ve9BAE1x6kn) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:39 | 2021-03-10 | 2022-03-30 |
@@ -695,6 +695,7 @@
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-03-29 | 2022-11-24 |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-11-10 | 2024-11-09 |
 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 | 2021-03-10 | 2022-03-30 |
+| [Underestimate Me](https://open.spotify.com/track/3zO4DFfpvGh8CXfN8nhiG0) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/30XLu62xz6MZPVHC64ZY7T) | 3:08 | 2024-11-25 |  |
 | [Underneath](https://open.spotify.com/track/5GgaD59RBCvreyQuwfGnal) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Underneath](https://open.spotify.com/album/70kThssMOMBi4GyBPCk0Gu) | 4:39 | 2021-03-10 | 2022-03-23 |
 | [Uneventful Days](https://open.spotify.com/track/1vlkeO1XsX11gdo1tYgslg) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Hyperspace](https://open.spotify.com/album/4ZUryKKDhiMXcD4fluAEhl) | 3:17 | 2021-03-10 | 2022-03-30 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-11-24 | 2023-11-11 |

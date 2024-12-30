@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Dec 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Dec 14:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 195000,
       "name": "Bachata sin Pijama",
       "url": "https://open.spotify.com/track/07JIcb9YdwPMSdMCQOR5RM"
@@ -48662,6 +48662,28 @@
       "duration_ms": 190026,
       "name": "PINK CLOUD",
       "url": "https://open.spotify.com/track/5UhjW4sOyoi5vwYRj6l8C3"
+    },
+    {
+      "album": {
+        "name": "Pink Dreads",
+        "url": "https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120412,
+      "name": "Pink Dreads",
+      "url": "https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh"
     },
     {
       "album": {

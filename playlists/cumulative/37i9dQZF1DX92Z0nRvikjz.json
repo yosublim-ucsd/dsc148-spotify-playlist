@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "\u4efb\u6027",
+        "url": "https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI"
+      },
+      "artists": [
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "\u4efb\u6027 (\u96fb\u8996\u5287\u300a\u96e3\u54c4\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr"
+    },
+    {
+      "album": {
         "name": "\u81ea\u50b3",
         "url": "https://open.spotify.com/album/4hg4cR8QMbE0xuvoxoA6DX"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 272921,
       "name": "\u4efb\u610f\u9580",
       "url": "https://open.spotify.com/track/7zShjmnls29Ie3DnrwsGfT"
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 210222,
       "name": "\u4f60\u7684\u795e\u66f2",
       "url": "https://open.spotify.com/track/0YgeOKbm6RmVoqjnzR8u3J"
@@ -326,7 +344,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 291705,
       "name": "\u51e1\u4eba\u6b4c",
       "url": "https://open.spotify.com/track/3M6DkD5SjZ140lf7V6OxPz"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 278413,
       "name": "\u52c7\u6562",
       "url": "https://open.spotify.com/track/4qibMqelt1dLxc2hurrq1y"
@@ -424,7 +442,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 264055,
       "name": "\u56e0\u70ba\u4f60 \u6240\u4ee5\u6211",
       "url": "https://open.spotify.com/track/5anEXdOY2vfilYfIkzbnGf"
@@ -478,7 +496,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 250480,
       "name": "\u591c\u8a2a\u5438\u8840\u9b3c",
       "url": "https://open.spotify.com/track/3IH7EYnDqcK8f878UaYRTx"
@@ -640,7 +658,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 252530,
       "name": "\u5b6b\u609f\u7a7a",
       "url": "https://open.spotify.com/track/1BDT9iGVq3l8tiRvDYza41"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 285271,
       "name": "\u5f8c\u4f86\u7684\u6211\u5011 - (\u96fb\u5f71\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u7247\u540d\u66f2)\u773c\u6dda\u672a\u4e7e\u7248",
       "url": "https://open.spotify.com/track/40VgImIgnTfkwtGoR9hW36"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 307133,
       "name": "\u611b\u60c5\u7684\u6a21\u6a23",
       "url": "https://open.spotify.com/track/3KONyxbmy3yLWEZBegFNCW"
@@ -788,7 +806,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 311177,
       "name": "\u611b\u60c5\u7684\u6a21\u6a23 Life Live",
       "url": "https://open.spotify.com/track/4b1SzvKg74EQ8ftVH0ke8Z"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 307611,
       "name": "\u6210\u540d\u5728\u671b",
       "url": "https://open.spotify.com/track/42I0KSHHaN51Q9KgQ0MhPT"
@@ -932,7 +950,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 233786,
       "name": "\u6211\u53c8\u521d\u6200\u4e86",
       "url": "https://open.spotify.com/track/2a3hn45q4wCgAnLbGl91vd"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 250833,
       "name": "\u760b\u72c2\u4e16\u754c #MaydayBlue20th",
       "url": "https://open.spotify.com/track/4bnNDIyxj9xpTc7dl91gwW"
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 282453,
       "name": "\u76db\u590f\u5149\u5e74",
       "url": "https://open.spotify.com/track/3MwPlR0x7eIvigySjVw2qu"
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 313040,
       "name": "\u77e5\u8db3(07'\u6700\u77e5\u8db3\u7248)",
       "url": "https://open.spotify.com/track/0LfJz5nmfKopvdwm5rV1l2"
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 270768,
       "name": "\u7a81\u7136\u597d\u60f3\u4f60 live in the sky",
       "url": "https://open.spotify.com/track/4cQcxj5mQ04SXEVnONBmRj"
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 271086,
       "name": "\u7d14\u771f #MaydayBlue20th",
       "url": "https://open.spotify.com/track/5nS7OpMVSxXm5p9FbZ9aJH"
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 189160,
       "name": "\u7d42\u7d50\u5b64\u55ae",
       "url": "https://open.spotify.com/track/3k5cmt6XDrwGqrGMni8xu2"
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 222333,
       "name": "\u8aaa\u597d\u4e0d\u54ed",
       "url": "https://open.spotify.com/track/3JBhAAnxUDssrBQC9DUT99"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 255438,
       "name": "\u9752\u7a7a\u672a\u4f86",
       "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"

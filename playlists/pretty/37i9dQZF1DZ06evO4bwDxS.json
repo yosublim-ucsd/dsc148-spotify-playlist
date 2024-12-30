@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 481349,
+  "num_followers": 481972,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAADkMpnKl38ULpRc1tKC52Gk",
+  "snapshot_id": "Z28/gAAAAABj85dpFk6Q7/GeOSea3C+K",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 233617,
       "name": "I Knew You Were Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 138453,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honeymoon Fades",
         "url": "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 195161,
       "name": "Honeymoon Fades",
       "url": "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 138453,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "We'll Be The Stars",
+      "url": "https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tricky (Sped Up)",
         "url": "https://open.spotify.com/album/4b3ATqkc7kdVSdqGmkhFvy"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 132013,
       "name": "Tricky - Sped Up",
       "url": "https://open.spotify.com/track/5ncSBBGWH1yfHqHI2CU3Kc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "We'll Be The Stars",
-      "url": "https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs"
     },
     {
       "added_at": null,

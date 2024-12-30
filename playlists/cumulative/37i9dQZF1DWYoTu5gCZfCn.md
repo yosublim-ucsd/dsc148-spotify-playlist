@@ -4,7 +4,7 @@
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-35 songs - 2 hr 11 min
+38 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,8 @@
 | [Another Bad Apple](https://open.spotify.com/track/5DXkH66yHd6nTMlby8AwHD) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB) | 3:03 | 2024-11-17 |  |
 | [Bad Medicine](https://open.spotify.com/track/08tIZEQ7lyJQv4tqhxUXx4) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs) | 5:12 | 2024-11-17 |  |
 | [Boomtown](https://open.spotify.com/track/30Qd2fAamvGXHhoZKAgObe) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 3:20 | 2024-11-17 |  |
+| [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 | 2024-12-29 |  |
+| [Crossing Lines](https://open.spotify.com/track/1BuwcJ4WYxvKsIG3nZeGn3) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu) | 2:50 | 2024-12-29 |  |
 | [Debtor's Blues](https://open.spotify.com/track/3lRCvKMyA4wNAJas7wQLvQ) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:37 | 2024-11-17 |  |
 | [Empty As A Drum](https://open.spotify.com/track/2KfEpp0z0v9lDs04ZfQlBA) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 3:29 | 2024-12-01 |  |
 | [Everlasting Lover \- 2023](https://open.spotify.com/track/4vCPFDnjp7yDhPc2K0tKJm) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Everlasting Lover / Chemistry \(2023\)](https://open.spotify.com/album/6idQ2nraBCN25i7JrKvz54) | 3:06 | 2024-11-17 |  |
@@ -25,6 +27,7 @@
 | [If Today Doesn't Do Me In](https://open.spotify.com/track/1zpEaer4WQnovwP4OfOOE8) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 3:57 | 2024-12-15 |  |
 | [Keep Up With Jones](https://open.spotify.com/track/0EkhflOs3xn0pPnn9fGawo) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 | 2024-12-22 |  |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-11-17 |  |
+| [La Grange \- 2019 Remaster](https://open.spotify.com/track/1MVqP6dzp0EZ2T4TpAxWnS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Goin' 50](https://open.spotify.com/album/3iCffsNF6mYOY87PWhhqcp) | 3:52 | 2024-12-29 |  |
 | [Lord Bury Me In Texas](https://open.spotify.com/track/3CD7XIqytaQJgaLtt6xwOe) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Lord Bury Me In Texas](https://open.spotify.com/album/1XS1br0MnEWSPoufPujJkV) | 3:49 | 2024-11-24 |  |
 | [Make Me Wanna Smoke](https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:02 | 2024-11-17 |  |
 | [Mean Old Sun](https://open.spotify.com/track/1DFAVRFF65zqaOUQtLoEtx) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 4:08 | 2024-11-17 |  |

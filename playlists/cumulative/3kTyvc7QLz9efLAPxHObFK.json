@@ -6523,6 +6523,24 @@
     },
     {
       "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/2zFGIOMWzoPcmst3YUoVDb"
+      },
+      "artists": [
+        {
+          "name": "Avi8",
+          "url": "https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199754,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5DpIva4yqRr7TRqEOzpWg8"
+    },
+    {
+      "album": {
         "name": "COME 2 DADDY",
         "url": "https://open.spotify.com/album/0ZNypRPkBYqmA9dLSXr8PJ"
       },

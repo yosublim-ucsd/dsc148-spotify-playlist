@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Corrella",
-  "num_followers": 18645,
+  "num_followers": 18648,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
     },
     {
+      "added_at": "2024-12-12 13:00:02",
+      "album": {
+        "name": "Crazy Dream (Edit)",
+        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 178062,
+      "name": "Crazy Dream - Edit",
+      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "The Loop",
@@ -369,22 +385,6 @@
       "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
     },
     {
-      "added_at": "2024-12-12 13:00:02",
-      "album": {
-        "name": "Crazy Dream (Edit)",
-        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 178062,
-      "name": "Crazy Dream - Edit",
-      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
-    },
-    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "Rubicon",
@@ -417,6 +417,22 @@
       "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"
     },
     {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Chantilly",
+        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 213459,
+      "name": "Chantilly",
+      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Leisurevision",
@@ -431,6 +447,22 @@
       "duration_ms": 214440,
       "name": "Above Me",
       "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -481,38 +513,6 @@
       "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
     },
     {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Chantilly",
-        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 213459,
-      "name": "Chantilly",
-      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 260088,
-      "name": "Ocean Demon",
-      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Under One Roof",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
-      },
-      "artists": [
-        {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "One More Chance (feat. Savage)",
         "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Follow (Edit)",
+        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 157843,
+      "name": "Follow - Edit",
+      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "My Dawgs",
         "url": "https://open.spotify.com/album/0nEqfJEHXr4QWbMSliFzqJ"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
-      },
-      "artists": [
-        {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
-        }
-      ],
-      "duration_ms": 191812,
-      "name": "Forever Is A Charm",
-      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "RNZ\u014c SZN",
         "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
       },
@@ -659,34 +643,34 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "In The Shade",
-        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
+        "name": "distance",
+        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
       },
       "artists": [
         {
-          "name": "Bean Magazine",
-          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         }
       ],
-      "duration_ms": 193987,
-      "name": "Don't You Die",
-      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
+      "duration_ms": 142000,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Follow (Edit)",
-        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
         }
       ],
-      "duration_ms": 157843,
-      "name": "Follow - Edit",
-      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 175294,
       "name": "It's You - Remix",
       "url": "https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "In The Shade",
+        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
+      },
+      "artists": [
+        {
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+        }
+      ],
+      "duration_ms": 193987,
+      "name": "Don't You Die",
+      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 107232,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "I DID IT (w/ Kanii & Anycia)",
         "url": "https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
+        "name": "Commit",
+        "url": "https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo"
       },
       "artists": [
         {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
         }
       ],
-      "duration_ms": 107232,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
+      "duration_ms": 201580,
+      "name": "Commit",
+      "url": "https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -855,22 +871,6 @@
       "duration_ms": 197328,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Commit",
-        "url": "https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo"
-      },
-      "artists": [
-        {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
-        }
-      ],
-      "duration_ms": 201580,
-      "name": "Commit",
-      "url": "https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
     },
     {
+      "added_at": "2024-12-12 13:00:02",
+      "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/5HGaHnQ16xG7Xd0pyefVf2"
+      },
+      "artists": [
+        {
+          "name": "Coast Arcade",
+          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+        }
+      ],
+      "duration_ms": 204031,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/0BzXYvt2u33TaSbDxHdfFI"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Harmless",
@@ -1081,20 +1097,20 @@
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
-      "added_at": "2024-12-12 13:00:02",
+      "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Afterthought",
-        "url": "https://open.spotify.com/album/5HGaHnQ16xG7Xd0pyefVf2"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5Vh9pZaNAC4mTCZwUKymlI"
       },
       "artists": [
         {
-          "name": "Coast Arcade",
-          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
         }
       ],
-      "duration_ms": 204031,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/0BzXYvt2u33TaSbDxHdfFI"
+      "duration_ms": 221884,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/7gljHcBRrik5wrP6SCUvOY"
     },
     {
       "added_at": "2024-11-07 11:00:00",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5Vh9pZaNAC4mTCZwUKymlI"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 221884,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/7gljHcBRrik5wrP6SCUvOY"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Bigger",
         "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 193600,
       "name": "Sugar Like That",
       "url": "https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Just Don't Know",
+        "url": "https://open.spotify.com/album/1zzwqgeeOuzSIjzoFVRQrc"
+      },
+      "artists": [
+        {
+          "name": "Summer Thieves",
+          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
+        }
+      ],
+      "duration_ms": 187038,
+      "name": "Just Don't Know",
+      "url": "https://open.spotify.com/track/67CX9hiqAJtGjDIyhOPoEf"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1213,20 +1229,36 @@
       "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
     },
     {
-      "added_at": "2024-11-28 13:00:00",
+      "added_at": "2024-12-19 13:00:21",
       "album": {
-        "name": "Just Don't Know",
-        "url": "https://open.spotify.com/album/1zzwqgeeOuzSIjzoFVRQrc"
+        "name": "Every Drop",
+        "url": "https://open.spotify.com/album/3EmDnBg1u0pVaWoQRPL8kA"
       },
       "artists": [
         {
-          "name": "Summer Thieves",
-          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
+          "name": "Josh Wawa",
+          "url": "https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz"
         }
       ],
-      "duration_ms": 187038,
-      "name": "Just Don't Know",
-      "url": "https://open.spotify.com/track/67CX9hiqAJtGjDIyhOPoEf"
+      "duration_ms": 244665,
+      "name": "Every Drop",
+      "url": "https://open.spotify.com/track/4OLXa4APPfBYiOg2bVLjkq"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Moneypenny",
+        "url": "https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6"
+      },
+      "artists": [
+        {
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
+        }
+      ],
+      "duration_ms": 258191,
+      "name": "Moneypenny",
+      "url": "https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1247,22 +1279,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Hell Of A Night",
-        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
-      },
-      "artists": [
-        {
-          "name": "LA WOMEN",
-          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Hell Of A Night",
-      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Catacombs",
         "url": "https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 175494,
       "name": "Catacombs",
       "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
-    },
-    {
-      "added_at": "2024-12-19 13:00:21",
-      "album": {
-        "name": "Every Drop",
-        "url": "https://open.spotify.com/album/3EmDnBg1u0pVaWoQRPL8kA"
-      },
-      "artists": [
-        {
-          "name": "Josh Wawa",
-          "url": "https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz"
-        }
-      ],
-      "duration_ms": 244665,
-      "name": "Every Drop",
-      "url": "https://open.spotify.com/track/4OLXa4APPfBYiOg2bVLjkq"
     }
   ],
   "unique_name": "The Local List Aotearoa",

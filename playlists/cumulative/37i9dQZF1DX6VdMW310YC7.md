@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,711 songs - 4 day 21 hr 3 min
+1,712 songs - 4 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -840,6 +840,7 @@
 | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/track/0oB9964bp22Bmok0Dmxlzb) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V) | 3:19 | 2020-04-12 | 2021-01-11 |
 | [Lay Your Head On Me \(feat\. Marcus Mumford\) \- Myd Remix](https://open.spotify.com/track/60bCA90w6Hem8xvuyoIPdD) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/album/4iKjDvjQqOOWy1OttAoP24) | 4:36 | 2020-07-18 | 2020-10-09 |
 | [Layers](https://open.spotify.com/track/1Co87j3ixt0r5M4M0JUa5A) | [MARTIN $KY](https://open.spotify.com/artist/0iK1U5DGAdiqJvL1vq858A), [Autumn Keys](https://open.spotify.com/artist/3jba4wdNDJnqnb96NeotTo) | [Layers](https://open.spotify.com/album/5T8qdkIVrkHt28lvChdBKX) | 2:44 | 2020-03-20 | 2021-01-16 |
+| [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 | 2024-12-20 |  |
 | [Leave](https://open.spotify.com/track/5W94pLhDF7UsAY1UKe6uNJ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Return Flight](https://open.spotify.com/album/3cDzRwvrbEqcaLOGJ7GOGc) | 6:56 | 2020-03-17 | 2021-03-06 |
 | [Leave A Trace \- Goldroom Remix](https://open.spotify.com/track/5Lt0L3Hc2eSZXPIOGWXcd8) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [Leave A Trace \(Goldroom Remix\)](https://open.spotify.com/album/66nNUID6ottsK8z046mMwb) | 4:59 | 2020-05-18 | 2020-07-03 |
 | [Leave Me Low](https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Leave Me Low](https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f) | 2:58 | 2021-01-13 | 2023-09-09 |
@@ -1194,7 +1195,7 @@
 | [POV \(with NEVRMIND\)](https://open.spotify.com/track/63fzBjCtxxS0peGMkyTfVP) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [POV \(with NEVRMIND\)](https://open.spotify.com/album/3cHmRL9soTP6s1XFJNkUyo) | 2:34 | 2022-02-04 | 2022-02-09 |
 | [Pray for Us](https://open.spotify.com/track/49X931MF0VVnHFkhVU3M5r) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:46 | 2020-04-03 | 2020-10-09 |
 | [Pretty Good](https://open.spotify.com/track/07aFPwkdNSvNZvPg8B4dHs) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 3:10 | 2022-08-26 | 2022-09-10 |
-| [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-02-09 |  |
+| [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-02-09 | 2024-12-30 |
 | [Private Island \(coldbrew Remix\)](https://open.spotify.com/track/3zcUZg6MoJPHPjt7vM1wx7) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [Private Island \(coldbrew Remix\)](https://open.spotify.com/album/7JjYuptyDfJSIeGIZtiUr5) | 2:13 | 2020-08-06 | 2022-01-13 |
 | [Priviet](https://open.spotify.com/track/3e66lQYqNYhZX1X2mBeO4L) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Keeping the Little Things](https://open.spotify.com/album/1pT7zb48i6eE1YHC76IcLQ) | 4:55 | 2020-08-20 | 2020-10-09 |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-05 | 2022-10-13 |

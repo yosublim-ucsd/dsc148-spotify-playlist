@@ -6,23 +6,39 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADCb0dha4kZgKrp+3kGhSKI",
+  "snapshot_id": "AAAAAAAAAAAq8WxzPZKHmvmqxhM7l3fL",
   "tracks": [
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "Black Dress",
-        "url": "https://open.spotify.com/album/2aUjq0qPnlQz9J9INQg7Jv"
+        "name": "The Phoenix",
+        "url": "https://open.spotify.com/album/1Us2yOOioRTXT0v8XWIBUS"
       },
       "artists": [
         {
-          "name": "Nemesea",
-          "url": "https://open.spotify.com/artist/0KV2B2b0q24rEawMkFmQvD"
+          "name": "Edgar Allan Poets",
+          "url": "https://open.spotify.com/artist/5mZdIbYWNKUrLTf0lbrKg4"
         }
       ],
-      "duration_ms": 233787,
-      "name": "Black Dress",
-      "url": "https://open.spotify.com/track/3yMxNa2Kawz9k4cMpxvWT4"
+      "duration_ms": 277913,
+      "name": "The Phoenix",
+      "url": "https://open.spotify.com/track/43SBY0qX3cK0nZaMcpjGSf"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Sapphic Sorcery",
+        "url": "https://open.spotify.com/album/03Tit1BY1PNZH47jHjQ3xr"
+      },
+      "artists": [
+        {
+          "name": "Vampyress",
+          "url": "https://open.spotify.com/artist/43iKv4D8cCjd7HO1dka4x1"
+        }
+      ],
+      "duration_ms": 296472,
+      "name": "Undead Legion MKII",
+      "url": "https://open.spotify.com/track/3dRPfBUmjDFiJGqjteuHeX"
     },
     {
       "added_at": "2024-12-27 03:00:00",
@@ -47,6 +63,218 @@
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
+        "name": "The View From a Memorial Bench",
+        "url": "https://open.spotify.com/album/439Shb8IHASJxTKw59fsJo"
+      },
+      "artists": [
+        {
+          "name": "Martyrs",
+          "url": "https://open.spotify.com/artist/39WNEIrCYtDyQHRb7x3oqt"
+        }
+      ],
+      "duration_ms": 256290,
+      "name": "The View From a Memorial Bench",
+      "url": "https://open.spotify.com/track/2NOZ9sYYbGXEZraWrxlfSB"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Old Time Rock & Roll",
+        "url": "https://open.spotify.com/album/5nTQxVDqTIzp38lkS7kbdM"
+      },
+      "artists": [
+        {
+          "name": "Catej Molic",
+          "url": "https://open.spotify.com/artist/0OHQDEOAfim7hPLfOYgLS1"
+        },
+        {
+          "name": "Savage Sons",
+          "url": "https://open.spotify.com/artist/1YEEbHKA7t5pYoNnjtHSzP"
+        }
+      ],
+      "duration_ms": 158695,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/03zsLaNpPyZfnCK5WUqISR"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Dr\u00f6m S\u00e5ng",
+        "url": "https://open.spotify.com/album/6GJP356Q51HkTjm7jjJ1nO"
+      },
+      "artists": [
+        {
+          "name": "K\u00ebkht Ar\u00e4kh",
+          "url": "https://open.spotify.com/artist/72unU2j2vnNWFiITlvx2nv"
+        }
+      ],
+      "duration_ms": 267232,
+      "name": "Dr\u00f6m S\u00e5ng",
+      "url": "https://open.spotify.com/track/4KPHDL1uSjvjFiXcCWkKQq"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "A Broken Man",
+        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 509840,
+      "name": "A Broken Man",
+      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Return of the Phantom",
+        "url": "https://open.spotify.com/album/1FD3WXBSpxvElNJC3I11c7"
+      },
+      "artists": [
+        {
+          "name": "Void",
+          "url": "https://open.spotify.com/artist/1QwNq37mhFd5nCDSAMzyU4"
+        }
+      ],
+      "duration_ms": 291426,
+      "name": "Return of the Phantom",
+      "url": "https://open.spotify.com/track/7BlvGNn7f81huOCnThtFUd"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Shattered Chains",
+        "url": "https://open.spotify.com/album/6S0J3Zh39ofHlSmYpgwqNP"
+      },
+      "artists": [
+        {
+          "name": "Karnage Through Crossing",
+          "url": "https://open.spotify.com/artist/30ep5EKRT5KRTTfUJ1BkME"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "Crimson",
+      "url": "https://open.spotify.com/track/5NWd5V1ryOMsqfP26wWJsw"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Anges & Mouches",
+        "url": "https://open.spotify.com/album/0C6418FqRjId93SRnaQoHC"
+      },
+      "artists": [
+        {
+          "name": "Amantique",
+          "url": "https://open.spotify.com/artist/1gUDo746RvvVVY3lbL2r7N"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "Anges & Mouches",
+      "url": "https://open.spotify.com/track/4PZTugrv7yFuvzKgTq3rVP"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Let Down",
+        "url": "https://open.spotify.com/album/0NOimiOa3t97Bni73bJoYs"
+      },
+      "artists": [
+        {
+          "name": "Lynwood",
+          "url": "https://open.spotify.com/artist/4wdUsy7OMjLdEAIz877kqk"
+        }
+      ],
+      "duration_ms": 260226,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/5GBYdzlL9j9EqI9YMo8zQ8"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/6ezIO2UfX5FmpiyIKGehPo"
+      },
+      "artists": [
+        {
+          "name": "RICKY MANKIND",
+          "url": "https://open.spotify.com/artist/643hc2LfOrTXwMIUYjBz40"
+        }
+      ],
+      "duration_ms": 159081,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/4KGqFIl4YOYA00mNZCuDs3"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Kind",
+        "url": "https://open.spotify.com/album/1XZG62JIUS4NRnbc48b51J"
+      },
+      "artists": [
+        {
+          "name": "Sum and Substance",
+          "url": "https://open.spotify.com/artist/79uIgIQRwj6esdWI6uqRfD"
+        }
+      ],
+      "duration_ms": 275027,
+      "name": "Kind",
+      "url": "https://open.spotify.com/track/54xUdNShXZNrZynHd2TRQj"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Mozzarella",
+        "url": "https://open.spotify.com/album/6BWRLO7dTZLf6X6tmPmRWq"
+      },
+      "artists": [
+        {
+          "name": "Servants of Ruse",
+          "url": "https://open.spotify.com/artist/3Pi7uNcPXLqRd5BYKeQn1d"
+        }
+      ],
+      "duration_ms": 214465,
+      "name": "Her Blood",
+      "url": "https://open.spotify.com/track/15tyWQ1NoRQmrQjLIdoKrp"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "How To Be Cool EP",
+        "url": "https://open.spotify.com/album/5aI1Q4uLlN1YwicmMvU8i5"
+      },
+      "artists": [
+        {
+          "name": "Vargskelethor",
+          "url": "https://open.spotify.com/artist/3jB3OijUBuhQcSFnKCB8Wd"
+        }
+      ],
+      "duration_ms": 267919,
+      "name": "Bill & Sperm",
+      "url": "https://open.spotify.com/track/40vE3zdI5Xbtd3sfBTs54z"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/60J8tjkCY57konJ94nUGUj"
+      },
+      "artists": [
+        {
+          "name": "Candide",
+          "url": "https://open.spotify.com/artist/1byMEHFKiMOUqkLi7tdEkD"
+        }
+      ],
+      "duration_ms": 159625,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/4n2wwK6Z0trduyaM7Om1uU"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
         "name": "Spider Lilly",
         "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
       },
@@ -63,50 +291,34 @@
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "Mentalidad Televisiva (Versi\u00f3n 1984)",
-        "url": "https://open.spotify.com/album/5LrwnGdu7Q23LqLjkQIY6u"
+        "name": "Love On The Loose",
+        "url": "https://open.spotify.com/album/1cJKQlWPzrDYVpI06IvGSb"
       },
       "artists": [
         {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          "name": "Willie J's 6v6s",
+          "url": "https://open.spotify.com/artist/1j2F9Cq5YAuNmlhGfWTzRX"
         }
       ],
-      "duration_ms": 269701,
-      "name": "Mentalidad Televisiva - Versi\u00f3n 1984",
-      "url": "https://open.spotify.com/track/3TyjcfHmZpZgjaOwm6hONT"
+      "duration_ms": 197000,
+      "name": "Love On The Loose",
+      "url": "https://open.spotify.com/track/3SucvnB6hahCPYlP1g39Wj"
     },
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "Du bist alles was ich will",
-        "url": "https://open.spotify.com/album/6oKTf4HIhkzvPN0ftQO1xe"
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/1D4o2u5em0y5oUJEPV4iy5"
       },
       "artists": [
         {
-          "name": "Lacrimosa",
-          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
+          "name": "SAINT PEETER",
+          "url": "https://open.spotify.com/artist/4hjV3O67SYeyzxGIUxQSqm"
         }
       ],
-      "duration_ms": 341546,
-      "name": "Du bist alles was ich will",
-      "url": "https://open.spotify.com/track/2NPeM9G213JoNkna1TdtpE"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "copy/paste, vol. 1 (abridged)",
-        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 281212,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
+      "duration_ms": 299047,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/5PqMOeK2pa76obgJUiP6PN"
     },
     {
       "added_at": "2024-12-27 03:00:00",
@@ -123,22 +335,6 @@
       "duration_ms": 218453,
       "name": "In The Grey",
       "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Some Dreams",
-        "url": "https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 288005,
-      "name": "Some Dreams",
-      "url": "https://open.spotify.com/track/49iWkFT4uK14pzDS6uAR7z"
     },
     {
       "added_at": "2024-12-27 03:00:00",
@@ -163,54 +359,18 @@
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "Your Name In Lights",
-        "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
+        "name": "Some Dreams",
+        "url": "https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx"
       },
       "artists": [
         {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
         }
       ],
-      "duration_ms": 219733,
-      "name": "Your Name In Lights",
-      "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "White Bikes",
-        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "White Bikes",
-      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
+      "duration_ms": 288005,
+      "name": "Some Dreams",
+      "url": "https://open.spotify.com/track/49iWkFT4uK14pzDS6uAR7z"
     },
     {
       "added_at": "2024-12-27 03:00:00",
@@ -287,46 +447,6 @@
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "Sail with the Dead (Orchestral Version)",
-        "url": "https://open.spotify.com/album/7JvvaFsJjCnmEr4OdjEd5v"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 282257,
-      "name": "Sail with the Dead - Orchestral Version",
-      "url": "https://open.spotify.com/track/5XVxbwNbYzDU4hhmQm7LJC"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Downfall (Dialective, Protoss & Short Circuit Remix)",
-        "url": "https://open.spotify.com/album/2XbitQOjmcsWqiWZo4hqDZ"
-      },
-      "artists": [
-        {
-          "name": "Silent Killer",
-          "url": "https://open.spotify.com/artist/3inayuwqelcAnYCacc19zX"
-        },
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        },
-        {
-          "name": "Short Circuit",
-          "url": "https://open.spotify.com/artist/7t7yU2xOoYhHj8ZIX1SLoa"
-        }
-      ],
-      "duration_ms": 312237,
-      "name": "Downfall (Short Circuit Remix)",
-      "url": "https://open.spotify.com/track/3eQNql669vVuDGXRwILxX2"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
         "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
         "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
       },
@@ -339,26 +459,6 @@
       "duration_ms": 245373,
       "name": "Ring Out Solstice Bells - 2024 Remix",
       "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Vida (Remixes)",
-        "url": "https://open.spotify.com/album/6Ct1mQa8DwYATBFDQuJYUG"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        },
-        {
-          "name": "DJ TEE",
-          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Ni\u00f1x - DJ TEE Remix",
-      "url": "https://open.spotify.com/track/6J9EqqULWhgtV8B9CzodIh"
     },
     {
       "added_at": "2024-12-27 03:00:00",
@@ -391,182 +491,6 @@
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "\u8ee2\u304c\u308b\u5ca9\u3001\u541b\u306b\u671d\u304c\u964d\u308b - From THE FIRST TAKE",
-        "url": "https://open.spotify.com/album/7yCKZEfFik3HVtIIpqfno2"
-      },
-      "artists": [
-        {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
-        }
-      ],
-      "duration_ms": 306202,
-      "name": "\u8ee2\u304c\u308b\u5ca9\u3001\u541b\u306b\u671d\u304c\u964d\u308b - From THE FIRST TAKE",
-      "url": "https://open.spotify.com/track/335mREcIWAsekmrCZuuIJQ"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Saskimood",
-        "url": "https://open.spotify.com/album/7e4zVsqu6RtoTGhBob9hD0"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Saski",
-          "url": "https://open.spotify.com/artist/5j1KobiQU5nFxg2oU94psG"
-        },
-        {
-          "name": "Nosecuenta",
-          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
-        }
-      ],
-      "duration_ms": 182954,
-      "name": "Astronom\u00eda",
-      "url": "https://open.spotify.com/track/2vKPkKlZ7pbaF0PJUAYuIF"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3ENnlgcMHOzyNrwBY8uqS4"
-      },
-      "artists": [
-        {
-          "name": "Rene Puente",
-          "url": "https://open.spotify.com/artist/6IxRJcjeiHKi4d4m9klWAA"
-        },
-        {
-          "name": "Don Mauri",
-          "url": "https://open.spotify.com/artist/7rirqjuOu3gNatUfJBNOMk"
-        },
-        {
-          "name": "Huevito Rey",
-          "url": "https://open.spotify.com/artist/1iWvFn2wP4gAwZEZyvtusU"
-        },
-        {
-          "name": "Albert Andr\u00e9s",
-          "url": "https://open.spotify.com/artist/4On5KWzUkafTns5R7PVVEn"
-        },
-        {
-          "name": "Angel Parra",
-          "url": "https://open.spotify.com/artist/4zVtp9LhWzT5n1w27c0f6l"
-        },
-        {
-          "name": "Artistas Telet\u00f3n",
-          "url": "https://open.spotify.com/artist/2nt1mTWr5GbX9IeepwGaYd"
-        },
-        {
-          "name": "Arqui",
-          "url": "https://open.spotify.com/artist/5PKJBLTDwkesQ8fRxV0gyM"
-        },
-        {
-          "name": "Corxea",
-          "url": "https://open.spotify.com/artist/0O3pssdiXuyXjb18NcMc0S"
-        },
-        {
-          "name": "Daniel Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/2R0KuBcEcUp6thf2HHLElR"
-        },
-        {
-          "name": "Dj Kuri",
-          "url": "https://open.spotify.com/artist/21DWCfZWbG67Ycuh3efqN6"
-        },
-        {
-          "name": "Edwin minder",
-          "url": "https://open.spotify.com/artist/2jc5ZnunsHg6OXzGMRn7R0"
-        },
-        {
-          "name": "Grupo Karicia",
-          "url": "https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og"
-        },
-        {
-          "name": "Los Picantes",
-          "url": "https://open.spotify.com/artist/2yvZnt3TKXoYhdcbQi6vpO"
-        },
-        {
-          "name": "Ze Carre\u00f1o Kogal Dize",
-          "url": "https://open.spotify.com/artist/5yiA8oigrK0NPdxax8t5cB"
-        },
-        {
-          "name": "Luis Dimas",
-          "url": "https://open.spotify.com/artist/6GiuMj37ySz4NQxtKOTE19"
-        },
-        {
-          "name": "Buddy Richard",
-          "url": "https://open.spotify.com/artist/6qSkZrS7Xdje9DVRXlNmpE"
-        },
-        {
-          "name": "ColoColo",
-          "url": "https://open.spotify.com/artist/5S6vzc5aVKUqHhIe9yHbJw"
-        },
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        }
-      ],
-      "duration_ms": 190747,
-      "name": "Feliz Navidad (Me Imagino Tu Cuchu)",
-      "url": "https://open.spotify.com/track/6DE1LqLfUovcJiArC9wrRo"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Breathless (Warren Remix)",
-        "url": "https://open.spotify.com/album/5p432Akx3FOjYQSY39A21E"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        },
-        {
-          "name": "Warren",
-          "url": "https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY"
-        }
-      ],
-      "duration_ms": 189418,
-      "name": "Breathless - Warren Remix",
-      "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Coraz\u00f3n de Im\u00e1n (Homenaje a Medell\u00edn)",
-        "url": "https://open.spotify.com/album/3h3ErEec09J09JoWPrTadq"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 128899,
-      "name": "Coraz\u00f3n de Im\u00e1n (Homenaje a Medell\u00edn)",
-      "url": "https://open.spotify.com/track/3KdfkucMpM4qIFHTYRXNKM"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Run Rudolph Run",
-        "url": "https://open.spotify.com/album/5CTYJVLTBiLDmK9JY9W3uk"
-      },
-      "artists": [
-        {
-          "name": "The Philly Specials",
-          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
-        },
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 236213,
-      "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/6h3ss6XbugN9NoaJsBTy9n"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
         "name": "Swan Lake (Drill Version)",
         "url": "https://open.spotify.com/album/3WB9nEETWciPiejMAZzLtE"
       },
@@ -587,62 +511,18 @@
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "PROFE",
-        "url": "https://open.spotify.com/album/1meRwsCIUwhOUI1RrYdymw"
+        "name": "Coraz\u00f3n de Im\u00e1n (Homenaje a Medell\u00edn)",
+        "url": "https://open.spotify.com/album/3h3ErEec09J09JoWPrTadq"
       },
       "artists": [
         {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "didgo",
-          "url": "https://open.spotify.com/artist/1f6DEHCnkjWvmLBeMIyfe5"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 119192,
-      "name": "Pareciera",
-      "url": "https://open.spotify.com/track/7nmTxkvOlpU537aJoLAJex"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Angels In The Snow (Discotastique! Mix)",
-        "url": "https://open.spotify.com/album/0cOvFW5oKEicU2q1Cd02ma"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 193623,
-      "name": "Angels In The Snow - Discotastique! Mix",
-      "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Jamnapaari (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7baTlfJtlvZGlpNq4IjXmZ"
-      },
-      "artists": [
-        {
-          "name": "Xyro",
-          "url": "https://open.spotify.com/artist/7jywk3r81OA5bX5Lv0ONp4"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 129289,
-      "name": "Naya Maal",
-      "url": "https://open.spotify.com/track/1t7chQjHm7jFoVGxHNk6AP"
+      "duration_ms": 128899,
+      "name": "Coraz\u00f3n de Im\u00e1n (Homenaje a Medell\u00edn)",
+      "url": "https://open.spotify.com/track/3KdfkucMpM4qIFHTYRXNKM"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

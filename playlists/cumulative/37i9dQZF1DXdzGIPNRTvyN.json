@@ -4175,6 +4175,24 @@
     },
     {
       "album": {
+        "name": "Silver Stream",
+        "url": "https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX"
+      },
+      "artists": [
+        {
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154134,
+      "name": "Silver Stream",
+      "url": "https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc"
+    },
+    {
+      "album": {
         "name": "Skoog",
         "url": "https://open.spotify.com/album/73Jo8b1BCPoWAVetF4H52N"
       },
@@ -4924,7 +4942,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 122969,
       "name": "Unity",
       "url": "https://open.spotify.com/track/6rHtt54jKCbXRiJtEqJ0Lw"

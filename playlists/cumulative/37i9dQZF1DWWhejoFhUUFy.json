@@ -2613,20 +2613,24 @@
     },
     {
       "album": {
-        "name": "Sang Rahiyo",
+        "name": "Sang Rahiyo (feat. Ujjwal Kashyap)",
         "url": "https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ"
       },
       "artists": [
         {
           "name": "Jasleen Royal",
           "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Ujjwal Kashyap",
+          "url": "https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq"
         }
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213288,
-      "name": "Sang Rahiyo",
+      "name": "Sang Rahiyo (feat. Ujjwal Kashyap)",
       "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
     },
     {

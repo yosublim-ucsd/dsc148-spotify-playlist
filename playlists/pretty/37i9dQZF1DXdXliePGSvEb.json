@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 67902,
+  "num_followers": 67983,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,26 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "RB3",
-        "url": "https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8"
+        "name": "tell me (K edit)",
+        "url": "https://open.spotify.com/album/4ZEesICUq2i6oqoTuvI1lr"
       },
       "artists": [
         {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         },
         {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
         }
       ],
-      "duration_ms": 239890,
-      "name": "RB3",
-      "url": "https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC"
+      "duration_ms": 163532,
+      "name": "tell me",
+      "url": "https://open.spotify.com/track/5czEMyVO87hXKDHT2DGCex"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -659,26 +663,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "tell me (K edit)",
-        "url": "https://open.spotify.com/album/4ZEesICUq2i6oqoTuvI1lr"
+        "name": "RB3",
+        "url": "https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         },
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
         }
       ],
-      "duration_ms": 163532,
-      "name": "tell me",
-      "url": "https://open.spotify.com/track/5czEMyVO87hXKDHT2DGCex"
+      "duration_ms": 239890,
+      "name": "RB3",
+      "url": "https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC"
     },
     {
       "added_at": "2024-12-04 12:15:00",

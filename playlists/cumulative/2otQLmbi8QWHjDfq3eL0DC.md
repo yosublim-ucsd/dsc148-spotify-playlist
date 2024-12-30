@@ -2,7 +2,7 @@
 
 ### [HOUSE MUSIC 2025 \| TOP 100 DANCE HITS 2024](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2024 2025!
+> The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
 273 songs - 13 hr 13 min
 

@@ -4,14 +4,14 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-416 songs - 21 hr 52 min
+417 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Trust Me Now\) I'm Fine](https://open.spotify.com/track/13B8K60ppDcg8MjlvN0Bb9) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [\(Trust Me Now\) I'm Fine](https://open.spotify.com/album/6bfXbubGntyDwedi7dlq5N) | 3:16 | 2024-01-08 | 2024-01-15 |
 | [15 Again](https://open.spotify.com/track/0VY3xLQo9sXjhIaLrVdIAt) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [15 Again](https://open.spotify.com/album/0ERg12fJXEAe5uVfs6wXzu) | 3:24 | 2022-08-08 | 2022-08-16 |
 | [20 something](https://open.spotify.com/track/3xpuHGQZMXiR8j9aCIOO8C) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [20 something](https://open.spotify.com/album/5xoHpRnnxIH33pFgPXtYTf) | 2:40 | 2024-04-01 | 2024-04-08 |
-| [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 | 2022-11-07 |  |
+| [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 | 2022-11-07 | 2024-12-30 |
 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-09-04 | 2023-09-11 |
 | [AHHH](https://open.spotify.com/track/6FuKGUQdfjtLOX3PTLtiFM) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [AHHH](https://open.spotify.com/album/3IcK2G3DQi8K1eOctzBbl5) | 3:44 | 2022-11-07 | 2022-11-15 |
 | [Ain't Nobody's Baby](https://open.spotify.com/track/1fTuWEkpSr2MyKxR8ifack) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Ain't Nobody's Baby](https://open.spotify.com/album/35MQYWJLe9qhbgTIWGqsGJ) | 2:29 | 2022-07-18 | 2022-07-25 |
@@ -40,6 +40,7 @@
 | [BLENDER](https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:27 | 2022-10-10 | 2022-12-02 |
 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-25 | 2022-09-26 |
 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 | 2024-11-25 |  |
+| [Blood Red Heart](https://open.spotify.com/track/33AVQadDICfdLSxmv6rsr6) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Blood Red Heart](https://open.spotify.com/album/6rY89ErMOwDPPqTsGiAiSm) | 2:24 | 2024-12-30 |  |
 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 | 2022-07-25 | 2024-04-19 |
 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 | 2022-06-13 | 2022-09-05 |
 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-01-22 |  |

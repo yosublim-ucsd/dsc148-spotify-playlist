@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAACauJzIkw/ol2Dhn53gT9lw",
+  "snapshot_id": "Z28/gAAAAAA1DY18rlhEKY+lZu0Qq5fG",
   "tracks": [
     {
       "added_at": null,
@@ -220,7 +220,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 220840,
-      "name": "Right There With You",
-      "url": "https://open.spotify.com/track/7fQr8pR6fIjlmnM5BNz62T"
+      "duration_ms": 215960,
+      "name": "Replicate",
+      "url": "https://open.spotify.com/track/3VvWADtitcT75nZvKtfS7Q"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Savanna",
-      "url": "https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k"
+      "duration_ms": 214573,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
+      "duration_ms": 190266,
+      "name": "Savanna",
+      "url": "https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k"
     },
     {
       "added_at": null,
@@ -348,7 +348,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
+        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 215960,
-      "name": "Replicate",
-      "url": "https://open.spotify.com/track/3VvWADtitcT75nZvKtfS7Q"
+      "duration_ms": 220840,
+      "name": "Right There With You",
+      "url": "https://open.spotify.com/track/7fQr8pR6fIjlmnM5BNz62T"
     },
     {
       "added_at": null,

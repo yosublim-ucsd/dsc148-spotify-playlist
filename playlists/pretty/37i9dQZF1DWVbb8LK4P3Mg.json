@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: ONEWE(\uc6d0\uc704))",
-  "num_followers": 152164,
+  "num_followers": 152144,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
+        "name": "The Winter's Tale",
+        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 259030,
+      "name": "The Winter's Tale",
+      "url": "https://open.spotify.com/track/2vB31lIPJPHBfjOkgW1CQr"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -475,34 +491,18 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
-        "name": "The Winter's Tale",
-        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
       },
       "artists": [
         {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 259030,
-      "name": "The Winter's Tale",
-      "url": "https://open.spotify.com/track/2vB31lIPJPHBfjOkgW1CQr"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 204554,
-      "name": "Candy Cane",
-      "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
+      "duration_ms": 225426,
+      "name": "My Christmas Sweet Love",
+      "url": "https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy"
     },
     {
       "added_at": "2024-12-24 02:08:31",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "My Christmas Sweet Love",
-      "url": "https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
         "name": "White",
         "url": "https://open.spotify.com/album/2kHbfJSatQE5KAglEKS4dA"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 236026,
       "name": "White",
       "url": "https://open.spotify.com/track/3x2WPJdU4Rl2UOgYZyTJje"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204554,
+      "name": "Candy Cane",
+      "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
     },
     {
       "added_at": "2024-12-24 02:08:31",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Jazz Bar (Carol ver.)",
+      "url": "https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
         "name": "PINK CHRISTMAS",
         "url": "https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 259339,
       "name": "Christmas without You",
       "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "Jazz Bar (Carol ver.)",
-      "url": "https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP"
     },
     {
       "added_at": "2024-12-24 02:08:31",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 215101,
-      "name": "\uaca8\uc6b8\ub098\ubb34 I\u2019m all ears",
-      "url": "https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi"
+      "duration_ms": 197160,
+      "name": "Wonderland (Carol ver.)",
+      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
     },
     {
       "added_at": "2024-12-24 02:08:31",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Wonderland (Carol ver.)",
-      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
         "name": "Everyday Christmas",
         "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 188493,
       "name": "Everyday Christmas",
       "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 215101,
+      "name": "\uaca8\uc6b8\ub098\ubb34 I\u2019m all ears",
+      "url": "https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi"
     },
     {
       "added_at": "2024-12-24 02:08:31",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
+        "name": "X-MAS TREE",
+        "url": "https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "X-MAS TREE",
+      "url": "https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
         "name": "My Winter Trip",
         "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
       },
@@ -1099,6 +1115,22 @@
       "duration_ms": 227825,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "PRESENT",
+      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
     },
     {
       "added_at": "2024-12-24 02:08:31",
@@ -1151,22 +1183,6 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
-        "name": "X-MAS TREE",
-        "url": "https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 256653,
-      "name": "X-MAS TREE",
-      "url": "https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
         "name": "The Christmas Number 12",
         "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 159835,
       "name": "The Christmas Number 12",
       "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "PRESENT",
-      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
     },
     {
       "added_at": "2024-12-24 02:08:31",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
-        "name": "Christmas Love",
-        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
-      },
-      "artists": [
-        {
-          "name": "A.C.E",
-          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Christmas Love",
-      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
         "name": "Will You Be My Home",
         "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 210653,
       "name": "Will You Be My Home",
       "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
+        "name": "Christmas Love",
+        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
+      },
+      "artists": [
+        {
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
     },
     {
       "added_at": "2024-12-24 02:08:31",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
-        "name": "Another Sad Love Song",
-        "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 184772,
-      "name": "Let Me Know - Bonus Track",
-      "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
         "name": "Hot December",
         "url": "https://open.spotify.com/album/66n3HeqKGthEETsuBIK6dO"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 201786,
       "name": "Hot December",
       "url": "https://open.spotify.com/track/1cUtKpkuZFgrjIYNrs98u9"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
+        "name": "Another Sad Love Song",
+        "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 184772,
+      "name": "Let Me Know - Bonus Track",
+      "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
     },
     {
       "added_at": "2024-12-24 02:08:31",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
-        "name": "Christmas Dance",
-        "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
-      },
-      "artists": [
-        {
-          "name": "ROCKY",
-          "url": "https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ"
-        }
-      ],
-      "duration_ms": 244173,
-      "name": "Christmas Dance",
-      "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
         "name": "Maybe Christmas (Orchestra Version)",
         "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 303297,
       "name": "Maybe Christmas - Orchestra Version",
       "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
+        "name": "Christmas Dance",
+        "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
+      },
+      "artists": [
+        {
+          "name": "ROCKY",
+          "url": "https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ"
+        }
+      ],
+      "duration_ms": 244173,
+      "name": "Christmas Dance",
+      "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
     },
     {
       "added_at": "2024-12-24 02:08:31",
@@ -1759,38 +1759,6 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/3PFHvIgasKNnheKQIHjvuf"
-      },
-      "artists": [
-        {
-          "name": "Sunnie",
-          "url": "https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5"
-        }
-      ],
-      "duration_ms": 176460,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/1vGmp9NNslDEbB53GR1sEi"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "D-day",
-      "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
-    },
-    {
-      "added_at": "2024-12-24 02:08:31",
-      "album": {
         "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
         "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
       },
@@ -1811,6 +1779,38 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "D-day",
+      "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/3PFHvIgasKNnheKQIHjvuf"
+      },
+      "artists": [
+        {
+          "name": "Sunnie",
+          "url": "https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5"
+        }
+      ],
+      "duration_ms": 176460,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/1vGmp9NNslDEbB53GR1sEi"
+    },
+    {
+      "added_at": "2024-12-24 02:08:31",
+      "album": {
         "name": "MIDNIGHT CHRISTMAS",
         "url": "https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13"
       },
@@ -1827,22 +1827,18 @@
     {
       "added_at": "2024-12-24 02:08:31",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+        "name": "This Is Your Winter Song",
+        "url": "https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy"
       },
       "artists": [
         {
-          "name": "\uc8e0\uc9c0",
-          "url": "https://open.spotify.com/artist/0MoN0PUslF5GIOPK5f7bfr"
-        },
-        {
-          "name": "\uce04(Chuu)",
-          "url": "https://open.spotify.com/artist/2rEkanqYeFOVdPNUhNCkDL"
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
+      "duration_ms": 164500,
+      "name": "This Is Your Winter Song",
+      "url": "https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

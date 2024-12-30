@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 66626,
+  "num_followers": 66645,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Burn This Disco Out",
-      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Music Speaks Louder Than Words",
-        "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 209826,
-      "name": "Nights on Broadway",
-      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
+      "duration_ms": 221026,
+      "name": "Burn This Disco Out",
+      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -407,6 +391,22 @@
       "duration_ms": 274560,
       "name": "It's My House",
       "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Music Speaks Louder Than Words",
+        "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Nights on Broadway",
+      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 501466,
+      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Ready To Roll",
         "url": "https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 590986,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Dance, Dance, Dance: The Best of Chic",
-        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 501466,
-      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
-      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Love, Luther",
         "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 340493,
       "name": "In The Navy - Single Version",
       "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Reddy",
-        "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
-      },
-      "artists": [
-        {
-          "name": "Helen Reddy",
-          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
-        }
-      ],
-      "duration_ms": 399200,
-      "name": "Make Love To Me",
-      "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Northern Soul Keep the Faith",
         "url": "https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 192240,
       "name": "24 Hours a Day",
       "url": "https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Reddy",
+        "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
+      },
+      "artists": [
+        {
+          "name": "Helen Reddy",
+          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
+        }
+      ],
+      "duration_ms": 399200,
+      "name": "Make Love To Me",
+      "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"
     },
     {
       "added_at": "2024-09-07 16:02:33",

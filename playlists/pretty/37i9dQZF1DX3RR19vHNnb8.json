@@ -1,6 +1,6 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 25273,
+  "num_followers": 25290,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,30 @@
     {
       "added_at": "2024-11-21 18:32:49",
       "album": {
+        "name": "TECHNICIAN",
+        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
+      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
+    },
+    {
+      "added_at": "2024-11-21 18:32:49",
+      "album": {
         "name": "Docteur (Spotify Singles)",
         "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
       },
@@ -415,30 +439,6 @@
     {
       "added_at": "2024-11-21 18:32:49",
       "album": {
-        "name": "TECHNICIAN",
-        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
-      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
-    },
-    {
-      "added_at": "2024-11-21 18:32:49",
-      "album": {
         "name": "NDI IKE",
         "url": "https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4"
       },
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-11-21 18:32:49",
       "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
+    },
+    {
+      "added_at": "2024-11-21 18:32:49",
+      "album": {
         "name": "Jack",
         "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2024-11-21 18:32:49",
       "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j"
+        "name": "Born in Hell",
+        "url": "https://open.spotify.com/album/75ypH24gbGXUjhJWYDw4XG"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
+      "duration_ms": 135203,
+      "name": "Born In Hell",
+      "url": "https://open.spotify.com/track/5XybdUjJjvjjw1sezKvK1T"
     },
     {
       "added_at": "2024-11-21 18:32:49",
@@ -515,18 +531,22 @@
     {
       "added_at": "2024-11-21 18:32:49",
       "album": {
-        "name": "Born in Hell",
-        "url": "https://open.spotify.com/album/75ypH24gbGXUjhJWYDw4XG"
+        "name": "100 MILLION",
+        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
       },
       "artists": [
         {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 135203,
-      "name": "Born In Hell",
-      "url": "https://open.spotify.com/track/5XybdUjJjvjjw1sezKvK1T"
+      "duration_ms": 136000,
+      "name": "100 MILLION (feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
     },
     {
       "added_at": "2024-11-21 18:32:49",
@@ -559,22 +579,6 @@
     {
       "added_at": "2024-11-21 18:32:49",
       "album": {
-        "name": "Like Ice Spice / Bezos",
-        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 123434,
-      "name": "LIKE ICE SPICE",
-      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
-    },
-    {
-      "added_at": "2024-11-21 18:32:49",
-      "album": {
         "name": "Take Care of Yourself Blacko",
         "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
       },
@@ -587,6 +591,22 @@
       "duration_ms": 193381,
       "name": "YAYA",
       "url": "https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP"
+    },
+    {
+      "added_at": "2024-11-21 18:32:49",
+      "album": {
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 123434,
+      "name": "LIKE ICE SPICE",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
     },
     {
       "added_at": "2024-11-21 18:32:49",
@@ -607,26 +627,6 @@
       "duration_ms": 186906,
       "name": "My Bro",
       "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
-    },
-    {
-      "added_at": "2024-11-21 18:32:49",
-      "album": {
-        "name": "100 MILLION",
-        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "100 MILLION (feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
     },
     {
       "added_at": "2024-11-21 18:32:49",
@@ -719,38 +719,6 @@
     {
       "added_at": "2024-11-21 18:32:49",
       "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
-    },
-    {
-      "added_at": "2024-11-21 18:32:49",
-      "album": {
-        "name": "Do I",
-        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 155044,
-      "name": "Do I",
-      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
-    },
-    {
-      "added_at": "2024-11-21 18:32:49",
-      "album": {
         "name": "Kpe Paso",
         "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
       },
@@ -767,6 +735,22 @@
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2024-11-21 18:32:49",
+      "album": {
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
       "added_at": "2024-11-21 18:32:49",
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-11-21 18:32:49",
       "album": {
+        "name": "Do I",
+        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 155044,
+      "name": "Do I",
+      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
+    },
+    {
+      "added_at": "2024-11-21 18:32:49",
+      "album": {
         "name": "The Prophecy",
         "url": "https://open.spotify.com/album/6RlIFWszpqQnDTiBW9ZmTQ"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-11-21 18:32:49",
       "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "I Don't Wanna Die",
-      "url": "https://open.spotify.com/track/0Ha71IjOuY5K1mbTvXk1XY"
-    },
-    {
-      "added_at": "2024-11-21 18:32:49",
-      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 144168,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP"
+    },
+    {
+      "added_at": "2024-11-21 18:32:49",
+      "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "I Don't Wanna Die",
+      "url": "https://open.spotify.com/track/0Ha71IjOuY5K1mbTvXk1XY"
     },
     {
       "added_at": "2024-11-21 18:32:49",

@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 203590,
+  "num_followers": 203603,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAACyO7hXLMYskTGN7Xl471US",
+  "snapshot_id": "Z28/gAAAAABTsTyrbR+9RySSm0QSqfrU",
   "tracks": [
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coldplay",
-        "url": "https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Coldplay",
-      "url": "https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 174433,
       "name": "Me Quedo",
       "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coldplay",
+        "url": "https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Coldplay",
+      "url": "https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX"
     },
     {
       "added_at": null,
@@ -1015,22 +1015,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sus Canciones (Operaci\u00f3n Triunfo 2017)",
-        "url": "https://open.spotify.com/album/3zpnroZbKfkLpCdOoeQAN6"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
       "artists": [
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
         }
       ],
-      "duration_ms": 168493,
-      "name": "Con Las Ganas",
-      "url": "https://open.spotify.com/track/6wlThRyC93GEyCVE9AwONd"
+      "duration_ms": 189030,
+      "name": "Nada Sale Mal",
+      "url": "https://open.spotify.com/track/51ltTOzVJWp3BUHzYrRxEa"
     }
   ],
   "unique_name": "This Is Aitana",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 177 songs - 8 hr 46 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 181 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,5 +185,9 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 175 | [Trap It Out](https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:17 |
 | 176 | [Hater Shit](https://open.spotify.com/track/05GDlYBejzsmn3diyYWpHW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:04 |
 | 177 | [Really Real](https://open.spotify.com/track/7jLhffXVyuXTcLvmSIOj2t) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery Reloaded](https://open.spotify.com/album/2ICKltX9OGtxTfHVYtpzCH) | 3:07 |
+| 178 | [Lucky](https://open.spotify.com/track/4GHaRpbH1lC8KplhOKc2QQ) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Where You Wanna Go](https://open.spotify.com/album/4iw4a3R3UIDLCjWqvloUNV) | 3:03 |
+| 179 | [Lunchroom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/76IRVRGJ62UpI7VfFrxi2G) | [Desto](https://open.spotify.com/artist/7jIkJnHkuofGofuYydpDpX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lunchroom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/31O75v8ASWvNeUYCMBlYvN) | 3:29 |
+| 180 | [I'm Just Sayin](https://open.spotify.com/track/2XIH9awIr6pWaO7o2W68Np) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:39 |
+| 181 | [KickDoe](https://open.spotify.com/track/7mhfizYrxgcpYq1IQjBZFI) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Can't Tame Us](https://open.spotify.com/album/2Rl6vSmXW8PicPAfxScT87) | 2:04 |
 
-Snapshot ID: `AAAd0o9s8In2W4Xpm3M7cKMGPxwfhb7Y`
+Snapshot ID: `AAAd1iDEz9H4E2bqXaDQkbkR90FLfUwG`

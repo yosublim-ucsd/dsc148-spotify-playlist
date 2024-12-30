@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 220611,
+  "num_followers": 220654,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAACO6Mxcb5zXjQj9cIPOTz8k",
+  "snapshot_id": "Z28/gAAAAACdL0jcdidYygWQKO5evitJ",
   "tracks": [
     {
       "added_at": null,
@@ -939,18 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Historia",
-        "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
       "artists": [
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
         }
       ],
-      "duration_ms": 212156,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue"
+      "duration_ms": 208493,
+      "name": "De Mis Pasos (Unplugged) (En Vivo) (with Juan Son)",
+      "url": "https://open.spotify.com/track/6SjCCvEeJvxWfTsSkoL1DR"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

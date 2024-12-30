@@ -9985,6 +9985,24 @@
     },
     {
       "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251803,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
+    },
+    {
+      "album": {
         "name": "Mogolu (Major Lazer Remix)",
         "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
       },
@@ -17172,7 +17190,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 199687,
       "name": "Why",
       "url": "https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL"

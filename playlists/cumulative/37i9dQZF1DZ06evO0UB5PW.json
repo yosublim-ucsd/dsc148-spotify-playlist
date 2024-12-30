@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239893,
+      "name": "Dry Bone Valley",
+      "url": "https://open.spotify.com/track/3ozDffAKu3Y6aahqAUZr83"
+    },
+    {
+      "album": {
         "name": "Once More 'Round the Sun",
         "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
       },

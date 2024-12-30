@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAABdp11kbA9M947Zlsdi7J9y",
+  "snapshot_id": "Z28/gAAAAABcdKaJk0QojcojOme/+Tdk",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STYLE",
-        "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
+        "name": "Style",
+        "url": "https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 259000,
-      "name": "\u541b\u306e\u82b1\u3092\u7948\u308d\u3046",
-      "url": "https://open.spotify.com/track/0ME3fGpjFjsZ1avHbZ2Lin"
+      "duration_ms": 245200,
+      "name": "Dear My Distance",
+      "url": "https://open.spotify.com/track/2Hskil6dTjYz6bHF0WUIw9"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Style",
-        "url": "https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P"
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Dear My Distance",
-      "url": "https://open.spotify.com/track/2Hskil6dTjYz6bHF0WUIw9"
+      "duration_ms": 259000,
+      "name": "\u541b\u306e\u82b1\u3092\u7948\u308d\u3046",
+      "url": "https://open.spotify.com/track/0ME3fGpjFjsZ1avHbZ2Lin"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Velvet - from CrosSing",
-        "url": "https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh"
+        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
+        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 234653,
-      "name": "Blue Velvet - from CrosSing",
-      "url": "https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z"
+      "duration_ms": 258866,
+      "name": "\u30c8\u30a6\u30e1\u30a4\u30ca\u30e6\u30e1",
+      "url": "https://open.spotify.com/track/6VNvK8OTmrrw4TJ3mKuEX5"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
-        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
+        "name": "Blue Velvet - from CrosSing",
+        "url": "https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh"
       },
       "artists": [
         {
@@ -388,41 +388,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 258866,
-      "name": "\u30c8\u30a6\u30e1\u30a4\u30ca\u30e6\u30e1",
-      "url": "https://open.spotify.com/track/6VNvK8OTmrrw4TJ3mKuEX5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "BYERONY",
-      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desire Again",
-        "url": "https://open.spotify.com/album/3V5PD4Kz8oFjW9WLmd15Vr"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/46DQR62IXSiU9ssucbeARZ"
+      "duration_ms": 234653,
+      "name": "Blue Velvet - from CrosSing",
+      "url": "https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z"
     },
     {
       "added_at": null,
@@ -443,6 +411,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "BYERONY",
+      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Star Arc",
+      "url": "https://open.spotify.com/track/4rVJe6WIRlmH808XDC3rYq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give Me Five!",
         "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STYLE",
-        "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Always Going My Way",
-      "url": "https://open.spotify.com/track/1E2hCcuow0owPXhYaMmvHr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magie\u00d7Magie",
         "url": "https://open.spotify.com/album/5Nymj45jme7PoBC6z8FCGU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 244053,
       "name": "\u30a2\u30d5\u30bf\u30fc\u30b0\u30ed\u30a6",
       "url": "https://open.spotify.com/track/4JGiODNnchXeUpbyWwk9nG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire Again",
+        "url": "https://open.spotify.com/album/3V5PD4Kz8oFjW9WLmd15Vr"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/46DQR62IXSiU9ssucbeARZ"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 232053,
-      "name": "\u30b0\u30c3\u30c9\u30e2\u30fc\u30cb\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/1vzmw0eSU8IWoUp7VDxRIY"
+      "duration_ms": 308786,
+      "name": "Esquisse",
+      "url": "https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 308786,
-      "name": "Esquisse",
-      "url": "https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P"
+      "duration_ms": 232053,
+      "name": "\u30b0\u30c3\u30c9\u30e2\u30fc\u30cb\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1vzmw0eSU8IWoUp7VDxRIY"
     },
     {
       "added_at": null,

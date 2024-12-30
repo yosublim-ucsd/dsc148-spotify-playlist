@@ -4107,6 +4107,24 @@
     },
     {
       "album": {
+        "name": "citt\u00e0 invisibili",
+        "url": "https://open.spotify.com/album/50Biz58nmFD7skWEDFUpTt"
+      },
+      "artists": [
+        {
+          "name": "chiaroscuro",
+          "url": "https://open.spotify.com/artist/3RpKCTfi3pinilWNgrX7B2"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231241,
+      "name": "citt\u00e0 invisibili",
+      "url": "https://open.spotify.com/track/6EEH2FcKNxgJa25jvtk6mO"
+    },
+    {
+      "album": {
         "name": "Claudio",
         "url": "https://open.spotify.com/album/1dRqIynMDy4rKbG8mus1Tp"
       },

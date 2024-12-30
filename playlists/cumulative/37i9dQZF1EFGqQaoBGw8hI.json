@@ -7871,6 +7871,24 @@
     },
     {
       "album": {
+        "name": "Musica (Instrumental)",
+        "url": "https://open.spotify.com/album/1axvSUn9vbzIbnSTVq8cB8"
+      },
+      "artists": [
+        {
+          "name": "Saxophone Rufus",
+          "url": "https://open.spotify.com/artist/252rReS6Vt8eAzlmLaG7zs"
+        }
+      ],
+      "date_added": "2024-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150675,
+      "name": "Rocketman",
+      "url": "https://open.spotify.com/track/0TPfk5iv5oWGp2H7kHno8W"
+    },
+    {
+      "album": {
         "name": "Musica Instrumental",
         "url": "https://open.spotify.com/album/64ceXCPruwANJ0ZRNEo9tX"
       },
@@ -7918,7 +7936,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 150675,
       "name": "Rocketman",
       "url": "https://open.spotify.com/track/4DBMDmr4WsLuO7olca2YNS"

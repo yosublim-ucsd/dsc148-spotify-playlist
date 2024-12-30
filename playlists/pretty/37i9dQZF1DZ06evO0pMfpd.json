@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 73838,
+  "num_followers": 73854,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAADAQ1W5S3HIiOfP4IScQ47Q",
+  "snapshot_id": "Z28/gAAAAADDvdiJ2KFYo6x/WucmSjMK",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 241870,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Serie",
         "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 179768,
       "name": "Ay\u00fadame",
       "url": "https://open.spotify.com/track/0Z8Jg2ji4tKeaGWpBidTxv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 214987,
-      "name": "Mambo Lupita",
-      "url": "https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Serie",
         "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 216409,
       "name": "D\u00f3nde Estar\u00e1s",
       "url": "https://open.spotify.com/track/3WRkzHhVlfcedC9EHtKBTF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 214987,
+      "name": "Mambo Lupita",
+      "url": "https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'que Lo Bailes",
-        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 224875,
-      "name": "El Tiki Ta",
-      "url": "https://open.spotify.com/track/2Ogr9pqWfrEKh7PGGvC56I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Serie",
         "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 249840,
       "name": "Ma, Me, Mi, Mo, Mu",
       "url": "https://open.spotify.com/track/2gprKrCyLXFEYV80FvvgYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 224875,
+      "name": "El Tiki Ta",
+      "url": "https://open.spotify.com/track/2Ogr9pqWfrEKh7PGGvC56I"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'que Lo Bailes",
-        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 182369,
-      "name": "Pa' Que Lo Bailes",
-      "url": "https://open.spotify.com/track/3mOJJ4cpkQNr9oAhARg9T6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Serie",
         "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 205310,
       "name": "Esta Cobard\u00eda",
       "url": "https://open.spotify.com/track/76yq6AVKspVBgAbGUDelHY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 182369,
+      "name": "Pa' Que Lo Bailes",
+      "url": "https://open.spotify.com/track/3mOJJ4cpkQNr9oAhARg9T6"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'que Lo Bailes",
-        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 201607,
-      "name": "La Negrita",
-      "url": "https://open.spotify.com/track/2siuIOyoD8BPb3UB754kJP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 248987,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/114fP40CgaxcCgWN5vVekB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 201607,
+      "name": "La Negrita",
+      "url": "https://open.spotify.com/track/2siuIOyoD8BPb3UB754kJP"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 220723,
-      "name": "La Chinita",
-      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 223410,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/6Kmb4Ev2Zf2xBKvNW9KzWk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 220723,
+      "name": "La Chinita",
+      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 220641,
-      "name": "La Cuca",
-      "url": "https://open.spotify.com/track/6f5rIK5usr8AueDudM81y7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 207725,
       "name": "Fue Su Voz",
       "url": "https://open.spotify.com/track/2gmplUqmPHJ1jPvznz5zyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 220641,
+      "name": "La Cuca",
+      "url": "https://open.spotify.com/track/6f5rIK5usr8AueDudM81y7"
     },
     {
       "added_at": null,

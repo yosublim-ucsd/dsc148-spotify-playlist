@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 74545,
+  "num_followers": 74658,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Bruno & The Birds",
-        "url": "https://open.spotify.com/album/5ssOVy0sVJdr9CZGYFJFQD"
-      },
-      "artists": [
-        {
-          "name": "Jullian Gomes",
-          "url": "https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi"
-        },
-        {
-          "name": "Sabrina Chyld",
-          "url": "https://open.spotify.com/artist/1n8Uva7Ya0TGB7hJoAOopU"
-        }
-      ],
-      "duration_ms": 397627,
-      "name": "How ?",
-      "url": "https://open.spotify.com/track/3uafTF3JxwQOJVQAg4FJw0"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 220800,
       "name": "Sensitive (feat. Lily McKenzie)",
       "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Bruno & The Birds",
+        "url": "https://open.spotify.com/album/5ssOVy0sVJdr9CZGYFJFQD"
+      },
+      "artists": [
+        {
+          "name": "Jullian Gomes",
+          "url": "https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi"
+        },
+        {
+          "name": "Sabrina Chyld",
+          "url": "https://open.spotify.com/artist/1n8Uva7Ya0TGB7hJoAOopU"
+        }
+      ],
+      "duration_ms": 397627,
+      "name": "How ?",
+      "url": "https://open.spotify.com/track/3uafTF3JxwQOJVQAg4FJw0"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -491,18 +491,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Feel Good EP",
-        "url": "https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a"
+        "name": "Lost In Me",
+        "url": "https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH"
       },
       "artists": [
         {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Keziah Tehillah",
+          "url": "https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo"
         }
       ],
-      "duration_ms": 392855,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t"
+      "duration_ms": 387236,
+      "name": "Lost In Me",
+      "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -527,22 +531,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Lost In Me",
-        "url": "https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH"
+        "name": "Feel Good EP",
+        "url": "https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a"
       },
       "artists": [
         {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        },
-        {
-          "name": "Keziah Tehillah",
-          "url": "https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo"
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
         }
       ],
-      "duration_ms": 387236,
-      "name": "Lost In Me",
-      "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
+      "duration_ms": 392855,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Jewels",
+        "url": "https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        }
+      ],
+      "duration_ms": 440330,
+      "name": "Jewels",
+      "url": "https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Take Me Somewhere",
         "url": "https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy"
       },
@@ -591,6 +607,26 @@
       "duration_ms": 325929,
       "name": "Take Me Somewhere",
       "url": "https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/5sLHd3Dha1l5Fjj8TTFNlC"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Donald Sheffey",
+          "url": "https://open.spotify.com/artist/681WjFB6kXJEkYFL24hHdo"
+        }
+      ],
+      "duration_ms": 435672,
+      "name": "Happy Ending - Main Mix",
+      "url": "https://open.spotify.com/track/7z1Aaj0TgXx7YpQOhfiDTS"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -623,26 +659,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Happy Ending",
-        "url": "https://open.spotify.com/album/5sLHd3Dha1l5Fjj8TTFNlC"
-      },
-      "artists": [
-        {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Donald Sheffey",
-          "url": "https://open.spotify.com/artist/681WjFB6kXJEkYFL24hHdo"
-        }
-      ],
-      "duration_ms": 435672,
-      "name": "Happy Ending - Main Mix",
-      "url": "https://open.spotify.com/track/7z1Aaj0TgXx7YpQOhfiDTS"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Little Me",
         "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 437415,
       "name": "Little Me - Extended Mix",
       "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Jewels",
-        "url": "https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5"
-      },
-      "artists": [
-        {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        }
-      ],
-      "duration_ms": 440330,
-      "name": "Jewels",
-      "url": "https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Lomthwalo",
-        "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
-      },
-      "artists": [
-        {
-          "name": "Mandaba",
-          "url": "https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8"
-        },
-        {
-          "name": "Griffith Malo",
-          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
-        }
-      ],
-      "duration_ms": 366206,
-      "name": "Lo'Mthwalo - Original Mix",
-      "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Breathe (Remixes)",
         "url": "https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 402056,
       "name": "Breathe - Ed-ward Remix",
       "url": "https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Lomthwalo",
+        "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
+      },
+      "artists": [
+        {
+          "name": "Mandaba",
+          "url": "https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8"
+        },
+        {
+          "name": "Griffith Malo",
+          "url": "https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ"
+        }
+      ],
+      "duration_ms": 366206,
+      "name": "Lo'Mthwalo - Original Mix",
+      "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
     },
     {
       "added_at": "2024-10-31 23:00:00",

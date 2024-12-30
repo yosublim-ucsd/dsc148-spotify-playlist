@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 776695,
+  "num_followers": 776691,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAADXPRehlj1h19XU78+tjXJe",
+  "snapshot_id": "Z28/gAAAAAB1h3Aq/1nFzkM7pldCgk9D",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 153653,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5VL7pScLlKe4MbB8EAivgA"
+      "duration_ms": 265333,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 265333,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs"
+      "duration_ms": 153653,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5VL7pScLlKe4MbB8EAivgA"
     },
     {
       "added_at": null,

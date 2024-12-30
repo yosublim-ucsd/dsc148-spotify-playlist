@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-283 songs - 13 hr 22 min
+284 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Signs Of Life](https://open.spotify.com/track/0UDoXifu2rd9J25FgbYiSJ) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Signs Of Life](https://open.spotify.com/album/3pm52kadp5DClaRVbLMW2S) | 2:55 | 2024-03-05 |  |
 | [Silva](https://open.spotify.com/track/5MMZaDi79Qma47pWO6Uotv) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Silva](https://open.spotify.com/album/5BlwN0E9wy8Ky4DvYcbaJk) | 2:28 | 2024-06-03 |  |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-02-13 | 2024-07-17 |
+| [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 |  |
 | [Skoog](https://open.spotify.com/track/51Z0L8e5Wk1EUHfHHBY8lu) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Skoog](https://open.spotify.com/album/73Jo8b1BCPoWAVetF4H52N) | 3:27 | 2024-12-04 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-12-18 |  |
 | [Sogno Illuminum](https://open.spotify.com/track/0xAvs3yyfYZOmzJorbPIwq) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/51zrublZgSNFIMIrjM7Kjd) | 2:29 | 2023-04-06 |  |
@@ -280,7 +281,7 @@
 | [Trees and Birds](https://open.spotify.com/track/5pxc7awYBhXmhDaM2tUwLl) | [Tundriunas](https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z) | [Trees and Birds](https://open.spotify.com/album/0CNZyLHT6HBiDn1rgYUYVe) | 2:04 | 2023-05-19 | 2024-10-04 |
 | [Under The Tabla](https://open.spotify.com/track/5RmZaQr8u7VZWg6kX7ADGB) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Under The Tabla](https://open.spotify.com/album/5aPaMWN5dirBrt6stMvrZL) | 3:14 | 2023-04-24 | 2024-06-04 |
 | [Unfound](https://open.spotify.com/track/4KwXtiXE4aNAjzEoWybjnP) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Unfound](https://open.spotify.com/album/4MpFqknGk8oGkEC1WDapzE) | 3:11 | 2024-12-04 | 2024-12-21 |
-| [Unity](https://open.spotify.com/track/6rHtt54jKCbXRiJtEqJ0Lw) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Unity](https://open.spotify.com/album/6tFoXQoZLEz3myMSNL1fgh) | 2:02 | 2024-12-20 |  |
+| [Unity](https://open.spotify.com/track/6rHtt54jKCbXRiJtEqJ0Lw) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Unity](https://open.spotify.com/album/6tFoXQoZLEz3myMSNL1fgh) | 2:02 | 2024-12-20 | 2024-12-30 |
 | [Unité](https://open.spotify.com/track/1XNuWRKQ8EoadsOq0nGtuI) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Unité](https://open.spotify.com/album/2arwW4mufgnvXDiPYIT6ze) | 2:38 | 2023-03-13 | 2024-12-05 |
 | [Upstream](https://open.spotify.com/track/2AczRHkxLS55yTDtyy5Hrr) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Upstream](https://open.spotify.com/album/2PLOlM8ygtam36gb7MOYMI) | 2:38 | 2023-08-21 | 2024-08-23 |
 | [Volans In Silva](https://open.spotify.com/track/00KRNJUSfPviEiGgV09vq3) | [Bo Beauve](https://open.spotify.com/artist/6WhIXLtC2VSVq70ZepAKel) | [Volans In Silva](https://open.spotify.com/album/7icpgFKWyNPsM0P93bXhCG) | 3:06 | 2023-03-13 | 2024-06-04 |

@@ -1,6 +1,6 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: Dillom",
-  "num_followers": 179714,
+  "num_followers": 179732,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "9 de Julio",
-      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
       },
@@ -155,6 +139,38 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Todo Sigue Igual",
+      "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
         "name": "Esp\u00edritu",
         "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 202360,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 276573,
-      "name": "El Final Es En Donde Part\u00ed",
-      "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -207,18 +207,34 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
       "artists": [
         {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 214600,
-      "name": "Todo Sigue Igual",
-      "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
+      "duration_ms": 226746,
+      "name": "9 de Julio",
+      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 276573,
+      "name": "El Final Es En Donde Part\u00ed",
+      "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -235,22 +251,6 @@
       "duration_ms": 269011,
       "name": "Fuiste lo mejor",
       "url": "https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "Rocanroles Sin Destino",
-        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
+        "name": "Rocanroles Sin Destino",
+        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 263653,
       "name": "Homero",
       "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
+        "name": "Seremos",
+        "url": "https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop"
+      },
+      "artists": [
+        {
+          "name": "Salta La Banca",
+          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -415,38 +431,6 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "Seremos",
-        "url": "https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop"
-      },
-      "artists": [
-        {
-          "name": "Salta La Banca",
-          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
-        "name": "A Donde Me Lleva La Vida",
-        "url": "https://open.spotify.com/album/5f86DyUHkazyikoFVWb237"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 307386,
-      "name": "Triste Canci\u00f3n De Amor",
-      "url": "https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
         "name": "El Origen",
         "url": "https://open.spotify.com/album/0S6egWzUaW2gR2MX16UKHb"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
+        "name": "Gladiadores del rock",
+        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 269331,
+      "name": "Sacrificio y Rock N' Roll",
+      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
       },
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
+        "name": "A Donde Me Lleva La Vida",
+        "url": "https://open.spotify.com/album/5f86DyUHkazyikoFVWb237"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 307386,
+      "name": "Triste Canci\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 226586,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
-        "name": "Gladiadores del rock",
-        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 269331,
-      "name": "Sacrificio y Rock N' Roll",
-      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "La Renga",
-        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 295773,
-      "name": "Cuando Est\u00e9s Ac\u00e1",
-      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
         "name": "Incompleto - 20 Rocanroles 20",
         "url": "https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 198385,
+      "name": "Se\u00f1or Kioskero",
+      "url": "https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
         "name": "Ya No Somos Dos Ahora",
         "url": "https://open.spotify.com/album/3Vb3asHz7rDa6Q55jol7Vt"
       },
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+        "name": "La Renga",
+        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 198385,
-      "name": "Se\u00f1or Kioskero",
-      "url": "https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d"
+      "duration_ms": 295773,
+      "name": "Cuando Est\u00e9s Ac\u00e1",
+      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
+        "name": "Siglo P\u00e1nico",
+        "url": "https://open.spotify.com/album/27UchZoSpi0sOom9YSaOS4"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1o de Pescado",
+          "url": "https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1"
+        }
+      ],
+      "duration_ms": 188220,
+      "name": "Pude",
+      "url": "https://open.spotify.com/track/5ZOrGZETv1hh25Rik6I8qF"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
         "name": "Probame (Demo)",
         "url": "https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 306079,
       "name": "La ilusi\u00f3n que me condena",
       "url": "https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
-        "name": "Siglo P\u00e1nico",
-        "url": "https://open.spotify.com/album/27UchZoSpi0sOom9YSaOS4"
-      },
-      "artists": [
-        {
-          "name": "Sue\u00f1o de Pescado",
-          "url": "https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1"
-        }
-      ],
-      "duration_ms": 188220,
-      "name": "Pude",
-      "url": "https://open.spotify.com/track/5ZOrGZETv1hh25Rik6I8qF"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -879,34 +879,18 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "Sacrificio y Rock N\u00b4Roll",
-        "url": "https://open.spotify.com/album/2u93GKmDeIBJAxk95uuCVM"
+        "name": "Venganza Primavera",
+        "url": "https://open.spotify.com/album/7bbgqwZ32fIFfvvhmzpYu0"
       },
       "artists": [
         {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        },
-        {
-          "name": "Toti Iglesias",
-          "url": "https://open.spotify.com/artist/2B106N6sZ5SeN8fYZl3DmE"
-        },
-        {
-          "name": "Maximiliano Tymczyszyn",
-          "url": "https://open.spotify.com/artist/6jUpz1NJBC2yX07MW2hbg9"
-        },
-        {
-          "name": "Walter Sidotti",
-          "url": "https://open.spotify.com/artist/01gEiG8Qqr24wBUdJZ8qlc"
-        },
-        {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+          "name": "Sue\u00f1o de Pescado",
+          "url": "https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1"
         }
       ],
-      "duration_ms": 241775,
-      "name": "Sacrificio y Rock N\u00b4Roll",
-      "url": "https://open.spotify.com/track/5vFBQCqiP7cRnvH88o4Ecx"
+      "duration_ms": 223627,
+      "name": "Probaste un Buen Dolor",
+      "url": "https://open.spotify.com/track/6vEuaYdwI95ClE5zaIn5Ji"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -963,34 +947,50 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "Venganza Primavera",
-        "url": "https://open.spotify.com/album/7bbgqwZ32fIFfvvhmzpYu0"
+        "name": "C\u00f3mo Evitar Que Sangremos",
+        "url": "https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5"
       },
       "artists": [
         {
-          "name": "Sue\u00f1o de Pescado",
-          "url": "https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1"
+          "name": "La Perra Que Los Pari\u00f3",
+          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
         }
       ],
-      "duration_ms": 223627,
-      "name": "Probaste un Buen Dolor",
-      "url": "https://open.spotify.com/track/6vEuaYdwI95ClE5zaIn5Ji"
+      "duration_ms": 269931,
+      "name": "Esa Gente",
+      "url": "https://open.spotify.com/track/449Ed1jOxFMqlP0gzDuqDM"
     },
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "No Me Dejes Caer",
-        "url": "https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR"
+        "name": "Sacrificio y Rock N\u00b4Roll",
+        "url": "https://open.spotify.com/album/2u93GKmDeIBJAxk95uuCVM"
       },
       "artists": [
         {
           "name": "Pier",
           "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        },
+        {
+          "name": "Toti Iglesias",
+          "url": "https://open.spotify.com/artist/2B106N6sZ5SeN8fYZl3DmE"
+        },
+        {
+          "name": "Maximiliano Tymczyszyn",
+          "url": "https://open.spotify.com/artist/6jUpz1NJBC2yX07MW2hbg9"
+        },
+        {
+          "name": "Walter Sidotti",
+          "url": "https://open.spotify.com/artist/01gEiG8Qqr24wBUdJZ8qlc"
+        },
+        {
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
         }
       ],
-      "duration_ms": 258540,
-      "name": "No Me Dejes Caer",
-      "url": "https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd"
+      "duration_ms": 241775,
+      "name": "Sacrificio y Rock N\u00b4Roll",
+      "url": "https://open.spotify.com/track/5vFBQCqiP7cRnvH88o4Ecx"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -1007,22 +1007,6 @@
       "duration_ms": 305213,
       "name": "Veredas",
       "url": "https://open.spotify.com/track/1iv3txvY78PROSNk2AxW3t"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
-        "name": "C\u00f3mo Evitar Que Sangremos",
-        "url": "https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5"
-      },
-      "artists": [
-        {
-          "name": "La Perra Que Los Pari\u00f3",
-          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
-        }
-      ],
-      "duration_ms": 269931,
-      "name": "Esa Gente",
-      "url": "https://open.spotify.com/track/449Ed1jOxFMqlP0gzDuqDM"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -1063,38 +1047,6 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "De Sangre Caliente",
-        "url": "https://open.spotify.com/album/54L6YD2YIuEGajL1v3RIs1"
-      },
-      "artists": [
-        {
-          "name": "Revanchistas",
-          "url": "https://open.spotify.com/artist/0doxvsFqliwpll9oqvUGEQ"
-        }
-      ],
-      "duration_ms": 266834,
-      "name": "Sangrecaliente",
-      "url": "https://open.spotify.com/track/6fkCxYCuTdwS9vAmGE9TYy"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
-        "name": "Al filo del abismo",
-        "url": "https://open.spotify.com/album/2D6YBzqSQMWltoe3GcNmZj"
-      },
-      "artists": [
-        {
-          "name": "Ojos locos",
-          "url": "https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6"
-        }
-      ],
-      "duration_ms": 255106,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/51eCvEz5gqQWWQvejliy2Q"
-    },
-    {
-      "added_at": "2024-11-21 19:47:26",
-      "album": {
         "name": "El disco maldito",
         "url": "https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN"
       },
@@ -1107,6 +1059,22 @@
       "duration_ms": 231936,
       "name": "En otra vida",
       "url": "https://open.spotify.com/track/29lDXSXYcHIbcD6rasVEXO"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
+        "name": "No Me Dejes Caer",
+        "url": "https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 258540,
+      "name": "No Me Dejes Caer",
+      "url": "https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd"
     },
     {
       "added_at": "2024-11-21 19:47:26",
@@ -1127,6 +1095,38 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
+        "name": "Al filo del abismo",
+        "url": "https://open.spotify.com/album/2D6YBzqSQMWltoe3GcNmZj"
+      },
+      "artists": [
+        {
+          "name": "Ojos locos",
+          "url": "https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6"
+        }
+      ],
+      "duration_ms": 255106,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/51eCvEz5gqQWWQvejliy2Q"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
+        "name": "De Sangre Caliente",
+        "url": "https://open.spotify.com/album/54L6YD2YIuEGajL1v3RIs1"
+      },
+      "artists": [
+        {
+          "name": "Revanchistas",
+          "url": "https://open.spotify.com/artist/0doxvsFqliwpll9oqvUGEQ"
+        }
+      ],
+      "duration_ms": 266834,
+      "name": "Sangrecaliente",
+      "url": "https://open.spotify.com/track/6fkCxYCuTdwS9vAmGE9TYy"
+    },
+    {
+      "added_at": "2024-11-21 19:47:26",
+      "album": {
         "name": "Mi\u00e9rcoles",
         "url": "https://open.spotify.com/album/6H15jq7KmVKCSo6RvPuIjK"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-11-21 19:47:26",
       "album": {
-        "name": "Siempre Original",
-        "url": "https://open.spotify.com/album/0WbNHKbPfRhV2OFbHzbOLR"
+        "name": "3 Acordes",
+        "url": "https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR"
       },
       "artists": [
         {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+          "name": "Caras Extra\u00f1as",
+          "url": "https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP"
         }
       ],
-      "duration_ms": 221593,
-      "name": "Siempre Original",
-      "url": "https://open.spotify.com/track/2MMZSjxnqveB0is7N6JU4h"
+      "duration_ms": 192891,
+      "name": "3 Acordes",
+      "url": "https://open.spotify.com/track/69OeKslZFI2RPaYDQUGFHh"
     }
   ],
   "unique_name": "Rock Barrial",

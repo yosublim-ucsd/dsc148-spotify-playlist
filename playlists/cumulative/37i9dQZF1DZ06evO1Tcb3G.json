@@ -987,6 +987,24 @@
     },
     {
       "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236883,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2DT29yY6D5Ko07qMohmuGe"
+    },
+    {
+      "album": {
         "name": "Wilder Mind",
         "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
       },

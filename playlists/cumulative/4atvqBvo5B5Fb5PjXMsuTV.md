@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 29 Dec 23:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 29 Dec 14:02 UTC.
 
-3,865 songs - 8 day 22 hr 40 min
+3,866 songs - 8 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Baby, Don't Cry（人魚的眼淚）](https://open.spotify.com/track/1yUgSij0m8GTyBy2cgstwB) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Nana Ou\-Yang](https://open.spotify.com/artist/22JbAaWA5Abf5esf6N4PHY) | [Baby, Don't Cry（人魚的眼淚）](https://open.spotify.com/album/1Lu7Uy5BoIGsuAslABy7MQ) | 3:32 | 2024-12-14 | 2024-12-21 |
 | [Babydoll](https://open.spotify.com/track/0nOcVU90N2FpL81eW9FU3W) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl Forever](https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF) | 4:11 | 2024-11-25 | 2024-11-30 |
 | [Babylon](https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Babylon](https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB) | 3:33 | 2024-08-22 | 2024-08-24 |
-| [Bachata sin Pijama](https://open.spotify.com/track/07JIcb9YdwPMSdMCQOR5RM) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bachata sin Pijama](https://open.spotify.com/album/2ZfhC7pNzBkMp4XKbW23Wo) | 3:15 | 2024-12-20 |  |
+| [Bachata sin Pijama](https://open.spotify.com/track/07JIcb9YdwPMSdMCQOR5RM) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bachata sin Pijama](https://open.spotify.com/album/2ZfhC7pNzBkMp4XKbW23Wo) | 3:15 | 2024-12-20 | 2024-12-30 |
 | [Back 4 More](https://open.spotify.com/track/0ymDs2NQkgt5wJGjE3RVhg) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Back 4 More](https://open.spotify.com/album/3bGzO7VWcrzxFDoqX3vxVe) | 3:01 | 2024-09-11 | 2024-09-13 |
 | [Back In The Mix](https://open.spotify.com/track/1ijaIrjWWKFH5WlCcNUIvr) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Back In The Mix](https://open.spotify.com/album/76QLVPqGXHm146HMMTq3yR) | 2:28 | 2024-07-11 | 2024-07-13 |
 | [BACK ON](https://open.spotify.com/track/77bCvwZqXZJLfLBG7iGvjE) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [BACK ON](https://open.spotify.com/album/0fF0wqKHPa6G1wYpgsXPyG) | 3:21 | 2024-07-03 | 2024-07-06 |
@@ -2526,6 +2526,7 @@
 | [Pieces Of A Dream](https://open.spotify.com/track/2HBjPMwy9yAoMkUB1cSg2p) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Pieces Of A Dream](https://open.spotify.com/album/7uCnCAztzPYMtlNOEBLjqM) | 2:38 | 2024-10-18 | 2024-10-22 |
 | [Pink Cactus Café](https://open.spotify.com/track/7wG9eW4Gdhrvnw1b3r0shg) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Pink Cactus Café](https://open.spotify.com/album/0tX1nXVVy096AzQfQApY4s) | 3:25 | 2024-09-12 | 2024-09-14 |
 | [PINK CLOUD](https://open.spotify.com/track/5UhjW4sOyoi5vwYRj6l8C3) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [nrv](https://open.spotify.com/album/3dpGk03xqeTM8ZRb6NUg1g) | 3:10 | 2024-11-09 | 2024-11-26 |
+| [Pink Dreads](https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A) | 2:00 | 2024-12-29 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2024-05-27 |
 | [Pink Sky](https://open.spotify.com/track/3JARzxcCGXCuxXESPhbuuv) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Pink Sky](https://open.spotify.com/album/49cUxYFCjaYtakVTjuTgJc) | 3:20 | 2024-05-15 | 2024-05-18 |
 | [PINK!](https://open.spotify.com/track/4bmlGixi0hvRrgYxU2PdYP) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PINK!](https://open.spotify.com/album/1ZGMooaMB45vQCthgyTOpm) | 1:46 | 2024-12-20 | 2024-12-29 |

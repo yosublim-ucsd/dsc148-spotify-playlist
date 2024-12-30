@@ -1,13 +1,29 @@
 {
   "description": "The playlist made for furries, by furries. | Request songs @ Furrest.Online",
-  "num_followers": 412,
+  "num_followers": 413,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADBkIPxV2mRgZm6QzSqXhaE3PcROMG",
+  "snapshot_id": "AAADCV+iuFSTDNb+V2oLZauRUMnJ7Gw+",
   "tracks": [
+    {
+      "added_at": "2024-12-30 00:46:36",
+      "album": {
+        "name": "Reach For The Stars",
+        "url": "https://open.spotify.com/album/1kd8yT5qBKTOFz0e0aYMBv"
+      },
+      "artists": [
+        {
+          "name": "Verplex",
+          "url": "https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Reach For The Stars",
+      "url": "https://open.spotify.com/track/0Cw2Zt0R16TtMz64rewS1G"
+    },
     {
       "added_at": "2024-12-16 20:09:16",
       "album": {

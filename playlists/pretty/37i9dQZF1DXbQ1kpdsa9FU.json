@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: MercyMe",
-  "num_followers": 625797,
+  "num_followers": 625898,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -535,42 +535,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Chain Breaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Chain Breaker",
-      "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -599,6 +563,42 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
         "name": "Holy Forever",
         "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+        "name": "Chain Breaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
       },
       "artists": [
         {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
         }
       ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
+      "duration_ms": 196466,
+      "name": "Chain Breaker",
+      "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Rescue Story",
-        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 237338,
-      "name": "Rescue Story",
-      "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
@@ -787,6 +771,38 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 237338,
+      "name": "Rescue Story",
+      "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/5SVARIypUactzhS79rk6x8"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
         "name": "Saved",
         "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
       },
@@ -819,6 +835,22 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
+        "name": "Double Take - Chris Tomlin",
+        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Amazing Grace (My Chains Are Gone)",
+      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
@@ -839,34 +871,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Double Take - Chris Tomlin",
-        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
+        "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 267066,
-      "name": "Amazing Grace (My Chains Are Gone)",
-      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/5SVARIypUactzhS79rk6x8"
+      "duration_ms": 215933,
+      "name": "Fix My Eyes",
+      "url": "https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -903,6 +919,22 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Just Be Held",
+      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
         "name": "Restart",
         "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
       },
@@ -915,42 +947,6 @@
       "duration_ms": 261693,
       "name": "We Believe",
       "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Fix My Eyes",
-      "url": "https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "Lead Us Back: Songs of Worship",
-        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
-      },
-      "artists": [
-        {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
-        },
-        {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
-      "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -987,18 +983,22 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+        "name": "Lead Us Back: Songs of Worship",
+        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+        },
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
         }
       ],
-      "duration_ms": 221080,
-      "name": "Just Be Held",
-      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
+      "duration_ms": 197706,
+      "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
+      "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Overcomer",
-        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Overcomer",
-      "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/0RqGqJYEYyDhgeSiZVoXfH"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 223426,
       "name": "Hello, My Name Is",
       "url": "https://open.spotify.com/track/2XEdrmqNM9ZQQ24ViuceB0"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Overcomer",
+        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Overcomer",
+      "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Speaking Louder Than Before",
-        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 279440,
-      "name": "There Will Be A Day",
-      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "The Beginning & Everything After",
         "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 202480,
       "name": "I Will Fear No More",
       "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Speaking Louder Than Before",
+        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 279440,
+      "name": "There Will Be A Day",
+      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1603,38 +1603,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "These Simple Truths",
-        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "The Words I Would Say",
-      "url": "https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "My Paper Heart",
-        "url": "https://open.spotify.com/album/0b8SYUXuokh2t2ZzvKEIpc"
-      },
-      "artists": [
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Free to Be Me",
-      "url": "https://open.spotify.com/track/5TXwU5dCw3h6Tsr0UC3APQ"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Strong Tower",
         "url": "https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB"
       },
@@ -1647,6 +1615,22 @@
       "duration_ms": 238946,
       "name": "Strong Tower",
       "url": "https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "These Simple Truths",
+        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "The Words I Would Say",
+      "url": "https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1679,6 +1663,22 @@
       "duration_ms": 206626,
       "name": "Dream Small",
       "url": "https://open.spotify.com/track/3tIosTCaD7OxaqMmNMqK39"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "My Paper Heart",
+        "url": "https://open.spotify.com/album/0b8SYUXuokh2t2ZzvKEIpc"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Free to Be Me",
+      "url": "https://open.spotify.com/track/5TXwU5dCw3h6Tsr0UC3APQ"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Prize Worth Fighting For",
-        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
-      },
-      "artists": [
-        {
-          "name": "Jamie Kimmett",
-          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Prize Worth Fighting For",
-      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Peace Like A River: The Hymns Project",
         "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O"
+        "name": "Prize Worth Fighting For",
+        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
       },
       "artists": [
         {
-          "name": "Rhett Walker",
-          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+          "name": "Jamie Kimmett",
+          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
         }
       ],
-      "duration_ms": 202943,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV"
+      "duration_ms": 200520,
+      "name": "Prize Worth Fighting For",
+      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1783,6 +1767,22 @@
       "duration_ms": 240173,
       "name": "Place In This World",
       "url": "https://open.spotify.com/track/0PKTBeN87JYJ1mRzrq5Aog"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O"
+      },
+      "artists": [
+        {
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+        }
+      ],
+      "duration_ms": 202943,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
+        "name": "Heed the Call",
+        "url": "https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P"
+      },
+      "artists": [
+        {
+          "name": "The Imperials",
+          "url": "https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf"
+        }
+      ],
+      "duration_ms": 215426,
+      "name": "Praise the Lord",
+      "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
         "name": "The Glorious Unfolding",
         "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 242933,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/12vwgyg4SZcwe5h77Uf7YJ"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "Heed the Call",
-        "url": "https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P"
-      },
-      "artists": [
-        {
-          "name": "The Imperials",
-          "url": "https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf"
-        }
-      ],
-      "duration_ms": 215426,
-      "name": "Praise the Lord",
-      "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Benny from Here",
-        "url": "https://open.spotify.com/album/48vIX0dteo2c9niPazAXEj"
-      },
-      "artists": [
-        {
-          "name": "Benny Hester",
-          "url": "https://open.spotify.com/artist/03CAU4k3sKX2o210ir9dRo"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "When God Ran",
-      "url": "https://open.spotify.com/track/4DEJa4TcaYUEVuiVX3PB5U"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Beyond A Dream",
         "url": "https://open.spotify.com/album/6AgCHYULVFNDheiZtOpMxA"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 345693,
       "name": "God Is In Control",
       "url": "https://open.spotify.com/track/5EBozQIT1SrEskijMLfevl"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Benny from Here",
+        "url": "https://open.spotify.com/album/48vIX0dteo2c9niPazAXEj"
+      },
+      "artists": [
+        {
+          "name": "Benny Hester",
+          "url": "https://open.spotify.com/artist/03CAU4k3sKX2o210ir9dRo"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "When God Ran",
+      "url": "https://open.spotify.com/track/4DEJa4TcaYUEVuiVX3PB5U"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
+        "name": "The Father's House",
+        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 253640,
+      "name": "The Father's House - Studio",
+      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
         "name": "Welcome to the New",
         "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
       },
@@ -2291,6 +2307,26 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Stand In Your Love - Radio Version",
+      "url": "https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
         "name": "Fresh Start",
         "url": "https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC"
       },
@@ -2331,58 +2367,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "The Father's House",
-        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 253640,
-      "name": "The Father's House - Studio",
-      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "Stand In Your Love (Radio Version)",
-        "url": "https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Stand In Your Love - Radio Version",
-      "url": "https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust In You",
-      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/37b7Y7ow9J8eHcRyEtqaWY"
       },
@@ -2415,6 +2399,46 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 373691,
+      "name": "No Longer Slaves (Live)",
+      "url": "https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/7IXpRlAYAxi2mIQlDldGdi"
       },
@@ -2427,6 +2451,22 @@
       "duration_ms": 198986,
       "name": "Reason",
       "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2463,22 +2503,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "God Is In This Story",
         "url": "https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3"
       },
@@ -2499,42 +2523,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm"
+        "name": "A Way To See In The Dark",
+        "url": "https://open.spotify.com/album/3E7uWZAn35nbYiwAHuya2l"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 373691,
-      "name": "No Longer Slaves (Live)",
-      "url": "https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Come Alive (Dry Bones)",
-      "url": "https://open.spotify.com/track/725WUW2kYMV93UM3NVt8DI"
+      "duration_ms": 227266,
+      "name": "Remind Me Who I Am",
+      "url": "https://open.spotify.com/track/5eqz8gTDU13s7x2DZKiQA9"
     }
   ],
   "unique_name": "Christian Classics",

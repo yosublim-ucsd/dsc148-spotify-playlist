@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 161182,
+  "num_followers": 161203,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,42 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
+        "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+        "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Trigga",
+          "url": "https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
+        }
+      ],
+      "duration_ms": 177291,
+      "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+      "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
         "name": "Bombalaya (Blooom Remix)",
         "url": "https://open.spotify.com/album/0Pn7tCMEM2cJINrr1gSTbE"
       },
@@ -155,22 +191,6 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
         "name": "Enter The Rave",
         "url": "https://open.spotify.com/album/1OuvSxsDAzDpt9J2FwQCpC"
       },
@@ -191,22 +211,18 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
-        "name": "Gunfinger (Salute)",
-        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
       },
       "artists": [
         {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
         }
       ],
-      "duration_ms": 166896,
-      "name": "Gunfinger (Salute)",
-      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
+      "duration_ms": 215172,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -295,38 +311,22 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
-        "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
-        "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
+        "name": "Gunfinger (Salute)",
+        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
       },
       "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        },
         {
           "name": "IRAH",
           "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
         },
         {
-          "name": "Trigga",
-          "url": "https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb"
-        },
-        {
-          "name": "Takura",
-          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
         }
       ],
-      "duration_ms": 177291,
-      "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
-      "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+      "duration_ms": 166896,
+      "name": "Gunfinger (Salute)",
+      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
+        "name": "Lose Control (feat. Grace Barton)",
+        "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 191725,
+      "name": "Lose Control (feat. Grace Barton)",
+      "url": "https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
         "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
         "url": "https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 169655,
       "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
       "url": "https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
-        "name": "Lose Control (feat. Grace Barton)",
-        "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
-        }
-      ],
-      "duration_ms": 191725,
-      "name": "Lose Control (feat. Grace Barton)",
-      "url": "https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
-        "name": "Beamin\u2019",
-        "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 140724,
-      "name": "Beamin\u2019",
-      "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/7JQUqf7ujvuBWwvSxhHNbC"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 240344,
       "name": "Cry",
       "url": "https://open.spotify.com/track/19PNwoHLzMO5oCHxHWqMqq"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
+        "name": "Beamin\u2019",
+        "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 140724,
+      "name": "Beamin\u2019",
+      "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
+        "name": "Home In That Bass",
+        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        }
+      ],
+      "duration_ms": 189310,
+      "name": "Home In That Bass",
+      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
         "name": "Dubplate SZN",
         "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 190344,
       "name": "Dubplate SZN",
       "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
-        "name": "Home In That Bass",
-        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
-      },
-      "artists": [
-        {
-          "name": "Andy C",
-          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
-        }
-      ],
-      "duration_ms": 189310,
-      "name": "Home In That Bass",
-      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
         "name": "Underground Supply",
         "url": "https://open.spotify.com/album/2STP67R8BdZVgTc7BTiwuj"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 252607,
       "name": "Underground Supply",
       "url": "https://open.spotify.com/track/3qWBUddWrpUPcoYGqLxhyM"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -1395,30 +1395,6 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
-        "name": "RAW!",
-        "url": "https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj"
-      },
-      "artists": [
-        {
-          "name": "Watch the Ride",
-          "url": "https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        },
-        {
-          "name": "Scorpio MC",
-          "url": "https://open.spotify.com/artist/5FPIKRbEw5qcI7KJaQv1c1"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "RAW!",
-      "url": "https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
         "name": "Polygon (Circadian Remix)",
         "url": "https://open.spotify.com/album/3vDKBvfbL1AXuFt3utoNjm"
       },
@@ -1439,6 +1415,30 @@
       "duration_ms": 279771,
       "name": "Polygon (Circadian Remix)",
       "url": "https://open.spotify.com/track/54hh0ph7BUeFQIcaCX40Qq"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
+        "name": "RAW!",
+        "url": "https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj"
+      },
+      "artists": [
+        {
+          "name": "Watch the Ride",
+          "url": "https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Scorpio MC",
+          "url": "https://open.spotify.com/artist/5FPIKRbEw5qcI7KJaQv1c1"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "RAW!",
+      "url": "https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -1495,26 +1495,18 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
-        "name": "Hang Up The Mic",
-        "url": "https://open.spotify.com/album/12wwjeKSvfuWFk7FLLWO7B"
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz"
       },
       "artists": [
         {
-          "name": "Degs",
-          "url": "https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG"
-        },
-        {
-          "name": "Hologram",
-          "url": "https://open.spotify.com/artist/4tzD4sC3DiY1aKA0I0ixJw"
-        },
-        {
-          "name": "Ragga Twins",
-          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
         }
       ],
-      "duration_ms": 169755,
-      "name": "Hang Up The Mic",
-      "url": "https://open.spotify.com/track/2yQX3c895hXfHD2slRYLuH"
+      "duration_ms": 226206,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -1543,18 +1535,22 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz"
+        "name": "Sprinta (Bad Bad)",
+        "url": "https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV"
       },
       "artists": [
         {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "KIPPO",
+          "url": "https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE"
+      "duration_ms": 199090,
+      "name": "Sprinta (Bad Bad)",
+      "url": "https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn"
     }
   ],
   "unique_name": "Proper Naughty ",

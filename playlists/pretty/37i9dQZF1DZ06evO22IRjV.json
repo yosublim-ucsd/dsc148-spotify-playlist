@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 30019,
+  "num_followers": 30020,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAAC0GhDZ+wMEFXjTvCKyu1dx",
+  "snapshot_id": "Z28/gAAAAAA6qLPJpI+upZqEFk7Sr2oe",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW ANIME BEST",
-        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 233053,
-      "name": "1/3\u306e\u7d14\u60c5\u306a\u611f\u60c5",
-      "url": "https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GOLD",
         "url": "https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 215485,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW ANIME BEST",
+        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 233053,
+      "name": "1/3\u306e\u7d14\u60c5\u306a\u611f\u60c5",
+      "url": "https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm"
     },
     {
       "added_at": null,
@@ -655,6 +655,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc (Complete Edition)",
+        "url": "https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "O2",
+      "url": "https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "26 a Go Go !!!",
+        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "\u611b\u611b\u611b\u306b\u6483\u305f\u308c\u3066\u30d0\u30a4\u30d0\u30a4\u30d0\u30a4 -Album Mix-",
+      "url": "https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Don't Wanna Die in the Paradise",
         "url": "https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h"
       },
@@ -691,54 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc (Complete Edition)",
-        "url": "https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "O2",
-      "url": "https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "26 a Go Go !!!",
-        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "\u611b\u611b\u611b\u306b\u6483\u305f\u308c\u3066\u30d0\u30a4\u30d0\u30a4\u30d0\u30a4 -Album Mix-",
-      "url": "https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Coast",
-        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAYS",
         "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
       },
@@ -771,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CLOSER",
-        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
       },
       "artists": [
         {
@@ -780,9 +764,25 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 209527,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
+      "duration_ms": 213600,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "\u9065\u304b\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
-        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 242173,
-      "name": "\u9065\u304b\u5f7c\u65b9",
-      "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
+      "duration_ms": 209527,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
     },
     {
       "added_at": null,

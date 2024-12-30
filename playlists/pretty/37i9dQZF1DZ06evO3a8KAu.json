@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 48604,
+  "num_followers": 48606,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAABIV0TELhFnEvnL99F2F1mF",
+  "snapshot_id": "Z28/gAAAAADEQD88XY0J5rFQjuN4Kxy7",
   "tracks": [
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 166751,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 184868,
       "name": "Porque Llegaste Tu",
       "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 166751,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pude Salvarnos",
-        "url": "https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 208436,
-      "name": "No Pude Salvarnos",
-      "url": "https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 155939,
       "name": "Toditos Somos Iguales",
       "url": "https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pude Salvarnos",
+        "url": "https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 208436,
+      "name": "No Pude Salvarnos",
+      "url": "https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn"
     },
     {
       "added_at": null,
@@ -879,22 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Alg\u00fan D\u00eda Te Encuentro",
-        "url": "https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz"
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
       "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        },
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 216503,
-      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
-      "url": "https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR"
+      "duration_ms": 208443,
+      "name": "Como los Vaqueros",
+      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
     }
   ],
   "unique_name": "This Is Ulices Chaidez",

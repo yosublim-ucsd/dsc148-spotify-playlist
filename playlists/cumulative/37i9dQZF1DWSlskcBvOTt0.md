@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-821 songs - 3 day 0 hr 20 min
+822 songs - 3 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW) | 8:23 | 2023-10-13 | 2024-11-09 |
 | [Mirage](https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Mirage](https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU) | 4:39 | 2024-09-13 |  |
 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 | 2023-04-07 | 2023-09-30 |
+| [Mockingbird](https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Mockingbird](https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig) | 4:11 | 2024-12-20 |  |
 | [Mogolu \- Major Lazer Remix](https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Mogolu \(Major Lazer Remix\)](https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK) | 4:43 | 2024-09-27 | 2024-12-03 |
 | [MONTE](https://open.spotify.com/track/37PacxDrLWaHtYMPV8IYse) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Arema Arega](https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C) | [MONTE](https://open.spotify.com/album/7FbQjXpnUM5ZlShOY0xHCt) | 5:21 | 2023-09-01 | 2024-08-10 |
 | [Moogami](https://open.spotify.com/track/3eE1iKxmBVgsQK11Gk4WM9) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [Moogami EP](https://open.spotify.com/album/7dFiAtaxK2FejRLMb9pAfW) | 9:01 | 2021-04-21 | 2022-07-16 |
@@ -808,7 +809,7 @@
 | [Whistleman](https://open.spotify.com/track/386PnZfbszq42M8GprZnVt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:59 | 2021-04-21 | 2023-07-01 |
 | [Who Loves The Sun \- \(Everyone’s Mix\)](https://open.spotify.com/track/2app5d9EcNuXOyYV6s25mg) | [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7), [Jake Hall](https://open.spotify.com/artist/3C6iirSkJ6FZH0XW896WIp) | [Who Loves The Sun \(Everyone’s Mix\)](https://open.spotify.com/album/6gdeYIO69NaDeknC1iMDhU) | 3:51 | 2024-06-28 | 2024-12-15 |
 | [Who's That Girl \- JL & Afterman Mix](https://open.spotify.com/track/0iPwcwbrS0ZMIvqvyQw1Qs) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Afterman](https://open.spotify.com/artist/7bU8y1gp9Kz9zpoMCVENvD), [Jl & Afterman](https://open.spotify.com/artist/4KvIoQiPcOkNMzHfBGO5Oa) | [Who's That Girl \(JL & Afterman Mix\)](https://open.spotify.com/album/2xbVMj7lxxj9ILbKRrq4q7) | 5:20 | 2024-07-12 |  |
-| [Why](https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Why](https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb) | 3:19 | 2024-04-12 |  |
+| [Why](https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Why](https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb) | 3:19 | 2024-04-12 | 2024-12-30 |
 | [Wild Animal](https://open.spotify.com/track/3tt1Tsro73c0EBkj5ZAJtc) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Wild Animal](https://open.spotify.com/album/01xjYoGDdMF7H9RnDmomPv) | 4:40 | 2024-04-12 | 2024-07-14 |
 | [Woe Misik](https://open.spotify.com/track/0kK4Up84ffNYBrmjjMFS3D) | [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS) | [Woe Misik](https://open.spotify.com/album/4L2QwRnQvj6m79glDv4OST) | 5:54 | 2023-03-31 | 2023-04-04 |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-05 |  |

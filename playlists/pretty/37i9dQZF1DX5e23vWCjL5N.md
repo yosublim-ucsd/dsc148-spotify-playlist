@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Marracash
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,478 likes - 86 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,496 likes - 86 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Sophia Vit\u00f3ria, Fabiana Sinfr\u00f4nio ",
-  "num_followers": 124550,
+  "num_followers": 124559,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Deus Te Chama",
-        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
-      },
-      "artists": [
-        {
-          "name": "Samuel Miranda",
-          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
-        }
-      ],
-      "duration_ms": 263918,
-      "name": "Deus Te Chama",
-      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img"
       },
@@ -539,22 +523,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
-      },
-      "artists": [
-        {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
-        }
-      ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 209000,
       "name": "Eterno",
       "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Deus Te Chama",
+        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
+      },
+      "artists": [
+        {
+          "name": "Samuel Miranda",
+          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
+        }
+      ],
+      "duration_ms": 263918,
+      "name": "Deus Te Chama",
+      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+      },
+      "artists": [
+        {
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+        }
+      ],
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
     },
     {
       "added_at": "2024-12-20 03:01:13",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Em Nome de Jesus",
-        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
-        }
-      ],
-      "duration_ms": 307600,
-      "name": "Em Nome de Jesus",
-      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Minha can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 273514,
       "name": "Minha can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Em Nome de Jesus",
+        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
+        }
+      ],
+      "duration_ms": 307600,
+      "name": "Em Nome de Jesus",
+      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
     },
     {
       "added_at": "2024-12-20 03:01:13",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
-        "name": "Andar Sobre as \u00c1guas",
-        "url": "https://open.spotify.com/album/6HQuxLO1rsxml6pIOfl3kA"
-      },
-      "artists": [
-        {
-          "name": "Bia Monteiro",
-          "url": "https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6"
-        }
-      ],
-      "duration_ms": 263260,
-      "name": "Andar Sobre as \u00c1guas",
-      "url": "https://open.spotify.com/track/2omEDUMJcG9Pb1GmWh4LK5"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
         "name": "Cora\u00e7\u00e3o Cansado de Partir",
         "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 291500,
       "name": "Cora\u00e7\u00e3o Cansado de Partir",
       "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
+        "name": "Andar Sobre as \u00c1guas",
+        "url": "https://open.spotify.com/album/6HQuxLO1rsxml6pIOfl3kA"
+      },
+      "artists": [
+        {
+          "name": "Bia Monteiro",
+          "url": "https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6"
+        }
+      ],
+      "duration_ms": 263260,
+      "name": "Andar Sobre as \u00c1guas",
+      "url": "https://open.spotify.com/track/2omEDUMJcG9Pb1GmWh4LK5"
     },
     {
       "added_at": "2024-12-20 03:01:13",

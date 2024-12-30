@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > <a href=’https://open.spotify.com/intl\-de/artist/2P2BXSc0Wxpf10Fpno38rl’>Sofie Royer</a> is taking over the playlist with a New Year's Eve party set!
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,494 likes - 55 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,639 likes - 55 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

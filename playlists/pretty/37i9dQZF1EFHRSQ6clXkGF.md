@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,186 likes - 273 songs - 17 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,187 likes - 273 songs - 17 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 106 | [Banquet](https://open.spotify.com/track/1XRpbhOMzOISE3dDkQ6eZW) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:01 |
 | 107 | [Electricity](https://open.spotify.com/track/3hQgE0k10kcyQaz3V4XjuD) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:01 |
 | 108 | [Sex Kills](https://open.spotify.com/track/7t5K5BG9Z7wIDVHKihrYAX) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 3:57 |
-| 109 | [Shine](https://open.spotify.com/track/4pVMxYJkzPxNOTmadzmsvE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 7:29 |
-| 110 | [See You Sometime](https://open.spotify.com/track/1EFLAcRslOcqis49J3TLGl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 2:56 |
+| 109 | [See You Sometime](https://open.spotify.com/track/1EFLAcRslOcqis49J3TLGl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 2:56 |
+| 110 | [Shine](https://open.spotify.com/track/4pVMxYJkzPxNOTmadzmsvE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 7:29 |
 | 111 | [Lesson in Survival](https://open.spotify.com/track/0Xrrxype3ih2nyfyTdUM6O) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:11 |
 | 112 | [Shadows and Light](https://open.spotify.com/track/1ERoCMfEtN8cs9Yru9leRi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 4:17 |
 | 113 | [Hana](https://open.spotify.com/track/6RLZbip8302BFwcrqatVON) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 3:43 |
@@ -231,8 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 221 | [Joni Improvising](https://open.spotify.com/track/5X1GnwbTtVfTgp0atE6XBV) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 1:32 |
 | 222 | [Loves Cries](https://open.spotify.com/track/3CCnAVDn8jLBYv6N0zOeHo) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Sunny Sunday \(Live on the radio, Glendale CA 25 Oct ‘94\)](https://open.spotify.com/album/2XF1uJH7Slc9faVZoMOahV) | 3:56 |
 | 223 | [Free Darling](https://open.spotify.com/track/0eaq9p3FPBaOEITCpzezLY) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:45 |
-| 224 | [Gift Of The Magi](https://open.spotify.com/track/6x57a6dRA6YyoQXQCUerXv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 4:01 |
-| 225 | [Coyote/Don Juan's Reckless Daughter \- Live at Music Hall, Boston, MA, 2/19/1976](https://open.spotify.com/track/1nOGVP4Mo1ydxLIvFEaWUU) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 4: The Asylum Years \(1976\-1980\)](https://open.spotify.com/album/3h92YLlbhrPmULikdCiuSf) | 9:58 |
+| 224 | [Coyote/Don Juan's Reckless Daughter \- Live at Music Hall, Boston, MA, 2/19/1976](https://open.spotify.com/track/1nOGVP4Mo1ydxLIvFEaWUU) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 4: The Asylum Years \(1976\-1980\)](https://open.spotify.com/album/3h92YLlbhrPmULikdCiuSf) | 9:58 |
+| 225 | [Gift Of The Magi](https://open.spotify.com/track/6x57a6dRA6YyoQXQCUerXv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 4:01 |
 | 226 | [Dr\. Junk](https://open.spotify.com/track/4eRGJCflCflwWIkShl6vHq) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:19 |
 | 227 | [Cara's Castle](https://open.spotify.com/track/3y7J4Ty25jNZ9847MulREM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:03 |
 | 228 | [Introduction \- Live at Canterbury House, Ann Arbor, MI, 3/10/1968](https://open.spotify.com/track/3GerCWcJRohVTPKZCQR0gK) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 1:02 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 272 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 273 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AblYfgAAAABhfqTAFXNe1FuKAgV+4YOC`
+Snapshot ID: `AbleHgAAAAAN2j9n/kwWojXvHsmk56I3`

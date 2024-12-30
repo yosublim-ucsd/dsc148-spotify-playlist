@@ -4919,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "Love Costs",
+        "url": "https://open.spotify.com/album/5gcubcwD8Gvhti1gWvdMuO"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195056,
+      "name": "Love Costs",
+      "url": "https://open.spotify.com/track/7aJDtyNcnlx8a1P60uqmNn"
+    },
+    {
+      "album": {
         "name": "Love You",
         "url": "https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta"
       },
@@ -8302,7 +8320,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 208713,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"

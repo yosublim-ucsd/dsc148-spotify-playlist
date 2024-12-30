@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 97166,
+  "num_followers": 97394,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 166179,
       "name": "Are You Looking Up",
       "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
+        "name": "Back on 74 (Full Crate Remix)",
+        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 174233,
+      "name": "Back On 74 - Full Crate Remix",
+      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 225400,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
-        "name": "Back on 74 (Full Crate Remix)",
-        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 174233,
-      "name": "Back On 74 - Full Crate Remix",
-      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Kingdoms In Colour",
-        "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 225910,
-      "name": "Glasshouses",
-      "url": "https://open.spotify.com/track/7isVqPzG3R5ni6IM4YG0sv"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Mystery Lady (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 228453,
       "name": "Mystery Lady (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Kingdoms In Colour",
+        "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "duration_ms": 225910,
+      "name": "Glasshouses",
+      "url": "https://open.spotify.com/track/7isVqPzG3R5ni6IM4YG0sv"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
     },
     {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
-        "name": "Andromeda",
-        "url": "https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL"
-    },
-    {
       "added_at": "2024-11-25 23:21:46",
       "album": {
         "name": "Heaven Knows",
@@ -1227,6 +1211,22 @@
       "duration_ms": 181920,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "Yesterday's Gone",
-        "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Ain't Nothing Changed",
-      "url": "https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Superclean, Vol. I",
         "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 176599,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "Yesterday's Gone",
+        "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Ain't Nothing Changed",
+      "url": "https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-10-04 17:28:20",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Bonita Applebum",
-      "url": "https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9"
-    },
-    {
-      "added_at": "2024-10-04 17:28:20",
-      "album": {
         "name": "Untitled (Rise)",
         "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 305829,
       "name": "Free",
       "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
+    },
+    {
+      "added_at": "2024-10-04 17:28:20",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Bonita Applebum",
+      "url": "https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9"
     },
     {
       "added_at": "2024-10-04 17:28:20",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
     },
     {
-      "added_at": "2024-11-25 23:21:46",
-      "album": {
-        "name": "Where Are You",
-        "url": "https://open.spotify.com/album/0AO7R74FUnnp5xQC1uG6tR"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Where Are You",
-      "url": "https://open.spotify.com/track/6aa4emYU5yVslynTksTR1Q"
-    },
-    {
       "added_at": "2024-10-04 17:28:20",
       "album": {
         "name": "Cola",
@@ -1459,6 +1443,22 @@
       "duration_ms": 229685,
       "name": "Cola",
       "url": "https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c"
+    },
+    {
+      "added_at": "2024-11-25 23:21:46",
+      "album": {
+        "name": "Where Are You",
+        "url": "https://open.spotify.com/album/0AO7R74FUnnp5xQC1uG6tR"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Where Are You",
+      "url": "https://open.spotify.com/track/6aa4emYU5yVslynTksTR1Q"
     },
     {
       "added_at": "2024-10-04 17:28:20",

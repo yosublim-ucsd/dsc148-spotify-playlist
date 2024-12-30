@@ -4,7 +4,7 @@
 
 > 
 
-865 songs - 1 day 17 hr 46 min
+868 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [i remember you my ex](https://open.spotify.com/track/6614L668d1inUl3d8IBZMl) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:01 | 2023-04-04 | 2023-05-09 |
 | [I Slay Bitches](https://open.spotify.com/track/5VnSJYbKx5bf26vOFaaVgF) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:50 | 2023-01-03 | 2023-12-14 |
 | [i wanna know](https://open.spotify.com/track/2YgvTYJbzUDR1FUXejWGiu) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [K Suave](https://open.spotify.com/artist/5quPjryJ2Pn2qmiPAbGtbz) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 1:59 | 2022-12-21 | 2023-05-09 |
+| [I'm Just Sayin](https://open.spotify.com/track/2XIH9awIr6pWaO7o2W68Np) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:39 | 2024-12-29 |  |
 | [I'm The Plug](https://open.spotify.com/track/6bqtKURdSWkInAJHDkuaL0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:00 | 2023-03-19 | 2023-12-14 |
 | [Ice \(feat\. Gunna & Lil Baby\)](https://open.spotify.com/track/6KCt9V6Lev0M04rFUj8ANC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:57 | 2024-08-22 |  |
 | [Ice Melt](https://open.spotify.com/track/1OPkXWnIK8RYyWTp3NWvM9) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb) | 2:28 | 2024-06-25 | 2024-11-06 |
@@ -404,6 +405,7 @@
 | [Keep K's Around](https://open.spotify.com/track/78ILWhXPA1AMiSlarH2blU) | [TSM Beeezy](https://open.spotify.com/artist/6AdVDVZvw0ZOUiGoQa15pS), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Me Myself & I](https://open.spotify.com/album/13WTY3Gwax7hLHpNhX4vVI) | 1:49 | 2022-08-04 | 2023-04-24 |
 | [Keep My Spirit Alive pt 2](https://open.spotify.com/track/2CxKBeqB9MPl8aT12ukLjF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 3:41 | 2023-10-03 | 2024-03-05 |
 | [Kickback](https://open.spotify.com/track/5HtOazXOK8uc3FNRhDClDg) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Kickback](https://open.spotify.com/album/6chHTU4nfoCUxxKiuO2as0) | 1:58 | 2022-06-19 | 2023-05-09 |
+| [KickDoe](https://open.spotify.com/track/7mhfizYrxgcpYq1IQjBZFI) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Can't Tame Us](https://open.spotify.com/album/2Rl6vSmXW8PicPAfxScT87) | 2:04 | 2024-12-29 |  |
 | [kill em](https://open.spotify.com/track/4QtB7BKYHpFP8xywUyev9g) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Κankan](https://open.spotify.com/artist/2HfEGAJuiD6uQN7xwPoSgh) | [birds.](https://open.spotify.com/album/372OLql24SIHHbLAZgzoow) | 1:52 | 2022-07-28 | 2023-05-09 |
 | [Kills](https://open.spotify.com/track/0PA5vHHfpUq7HWiMA1y5TN) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Dedication](https://open.spotify.com/album/6UmCAaUrpnYdq0tHqeKiXX) | 2:49 | 2023-08-29 | 2024-11-06 |
 | [KitKat](https://open.spotify.com/track/4ZR9C9Ccf1nmEJN9765N2O) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 2:58 | 2022-12-15 | 2023-05-09 |
@@ -450,10 +452,11 @@
 | [Love For The Streets](https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Paper Route Frank](https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S) | 3:06 | 2024-04-28 |  |
 | [Love Hurts \(feat\. Travis Scott\)](https://open.spotify.com/track/3K6U7TamNyVSWcFH8pCQHX) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:00 | 2022-09-01 | 2023-05-09 |
 | [Low Down](https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:24 | 2021-11-13 | 2024-03-05 |
+| [Lucky](https://open.spotify.com/track/4GHaRpbH1lC8KplhOKc2QQ) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Where You Wanna Go](https://open.spotify.com/album/4iw4a3R3UIDLCjWqvloUNV) | 3:03 | 2024-12-29 |  |
 | [Lullaby](https://open.spotify.com/track/0EQGHDMLscIdLtgqHDfnRQ) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti) | 2:31 | 2024-02-16 | 2024-11-06 |
 | [Lunch Meat](https://open.spotify.com/track/4bWByRIq2LZL7Nw7NWihbO) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 2:58 | 2023-02-05 | 2023-05-09 |
 | [Lunchin](https://open.spotify.com/track/2jIU2VR6uIKBCJCpFi3aL4) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Flygod Is An Awesome God](https://open.spotify.com/album/2JUpGYRkV6ymlDOX7UFTL7) | 3:31 | 2024-01-29 | 2024-03-05 |
-| [Lunchroom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/76IRVRGJ62UpI7VfFrxi2G) | [Desto](https://open.spotify.com/artist/7jIkJnHkuofGofuYydpDpX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lunchroom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/31O75v8ASWvNeUYCMBlYvN) | 3:29 | 2022-11-28 | 2023-04-12 |
+| [Lunchroom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/76IRVRGJ62UpI7VfFrxi2G) | [Desto](https://open.spotify.com/artist/7jIkJnHkuofGofuYydpDpX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lunchroom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/31O75v8ASWvNeUYCMBlYvN) | 3:29 | 2022-11-28 |  |
 | [Luv Drunk](https://open.spotify.com/track/0QOXUbu5PXFPEsle2RphS2) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:24 | 2023-01-20 | 2023-04-12 |
 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 | 2023-10-03 | 2024-03-05 |
 | [Luxury](https://open.spotify.com/track/0EXvgyk5LouKWAu1b7Kmgc) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Luxury](https://open.spotify.com/album/7Hl7gnffF0DOf5wPP5lMUx) | 3:10 | 2022-07-27 | 2024-03-05 |

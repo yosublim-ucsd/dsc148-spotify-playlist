@@ -1,12 +1,12 @@
 {
   "description": "This is Hombres G. The essential tracks, all in one playlist.",
-  "num_followers": 282291,
+  "num_followers": 282331,
   "original_name": "This Is Hombres G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAADSp/XBPBKBKvpqOd8kYu7E",
+  "snapshot_id": "Z28/gAAAAACZ+Myt2QMviDYlolDwtLUs",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "30 a\u00f1os y un d\u00eda",
+        "url": "https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "Devu\u00e9lveme a mi chica - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1fAnXKGZR1iRAS9GAfkbIs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
       },
@@ -567,30 +583,6 @@
       "duration_ms": 243880,
       "name": "Hace un a\u00f1o",
       "url": "https://open.spotify.com/track/1IGF8i4TR7VsVFsvcTZUB2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Devu\u00e9lveme a mi chica",
-        "url": "https://open.spotify.com/album/3xNMZpxORpL6Hn1V7YNDKT"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/1rzCNvoVbMC1MKU21rqtGS"
-        },
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 193101,
-      "name": "Devu\u00e9lveme a mi chica",
-      "url": "https://open.spotify.com/track/6aPj6iq1cYfvTbvyYLyQGv"
     },
     {
       "added_at": null,

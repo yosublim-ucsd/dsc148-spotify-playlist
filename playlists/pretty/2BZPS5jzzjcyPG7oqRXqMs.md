@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Christian Soundtracks \(Movie + TV\) 2024 \| &quot;I could never choose to love another, maybe one day I can learn to love you too...&quot; \| Music from Christian Movies and TV that we all know and love! Cover: <a href="https://www.journeytobethlehemmovie.com/">Cast of Journey To Bethlehem</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,459 likes - 98 songs - 6 hr 12 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,456 likes - 98 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Miranda Lambert",
-  "num_followers": 410596,
+  "num_followers": 410611,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "Worry is a Sickness",
-        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 254836,
-      "name": "Worry is a Sickness",
-      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
-    },
-    {
-      "added_at": "2024-12-20 05:00:29",
-      "album": {
         "name": "Handle On You",
         "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 219333,
       "name": "Handle On You",
       "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
+    },
+    {
+      "added_at": "2024-12-20 05:00:29",
+      "album": {
+        "name": "Worry is a Sickness",
+        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 254836,
+      "name": "Worry is a Sickness",
+      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
     },
     {
       "added_at": "2024-12-20 05:00:29",
@@ -511,18 +511,22 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "Two Way Drive",
-        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
+        "name": "Hello Shitty Day",
+        "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
       },
       "artists": [
         {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 222275,
-      "name": "Two Way Drive",
-      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
+      "duration_ms": 264456,
+      "name": "Hello Shitty Day",
+      "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
     },
     {
       "added_at": "2024-12-20 05:00:29",
@@ -575,22 +579,18 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "Hello Shitty Day",
-        "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
+        "name": "Two Way Drive",
+        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
       },
       "artists": [
         {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
         }
       ],
-      "duration_ms": 264456,
-      "name": "Hello Shitty Day",
-      "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
+      "duration_ms": 222275,
+      "name": "Two Way Drive",
+      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
     },
     {
       "added_at": "2024-12-20 05:00:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "Horseback",
-        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
-      },
-      "artists": [
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Horseback",
-      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
-    },
-    {
-      "added_at": "2024-12-20 05:00:29",
-      "album": {
         "name": "Settle for a Beer (with Triston Marez)",
         "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 174327,
       "name": "Settle for a Beer (with Triston Marez)",
       "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
+    },
+    {
+      "added_at": "2024-12-20 05:00:29",
+      "album": {
+        "name": "Horseback",
+        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Horseback",
+      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
     },
     {
       "added_at": "2024-12-20 05:00:29",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "Green Eyes Blue",
-        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
+        "name": "Whole Lotta Lubbock",
+        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 217093,
-      "name": "Green Eyes Blue",
-      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
+      "duration_ms": 192651,
+      "name": "Whole Lotta Lubbock",
+      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
     },
     {
       "added_at": "2024-12-20 05:00:29",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
+    },
+    {
+      "added_at": "2024-12-20 05:00:29",
+      "album": {
         "name": "Never Not Love You",
         "url": "https://open.spotify.com/album/44PWdOc9Ho4uITytJonMFD"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 204933,
       "name": "Whiskey to Work",
       "url": "https://open.spotify.com/track/3sH3FccJtWk2DnTL1Egj3j"
-    },
-    {
-      "added_at": "2024-12-20 05:00:29",
-      "album": {
-        "name": "Whole Lotta Lubbock",
-        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 192651,
-      "name": "Whole Lotta Lubbock",
-      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
     },
     {
       "added_at": "2024-12-20 05:00:29",
@@ -1355,18 +1355,22 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "When My Baby\u2019s In Boots",
-        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
+        "name": "Never Again One More Time",
+        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Walker Montgomery",
+          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
         }
       ],
-      "duration_ms": 183613,
-      "name": "When My Baby\u2019s In Boots",
-      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
+      "duration_ms": 178284,
+      "name": "Never Again One More Time",
+      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
     },
     {
       "added_at": "2024-12-20 05:00:29",
@@ -1387,22 +1391,18 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "Never Again One More Time",
-        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
+        "name": "When My Baby\u2019s In Boots",
+        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
       },
       "artists": [
         {
-          "name": "Walker Montgomery",
-          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
-        },
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 178284,
-      "name": "Never Again One More Time",
-      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+      "duration_ms": 183613,
+      "name": "When My Baby\u2019s In Boots",
+      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
     },
     {
       "added_at": "2024-12-20 05:00:29",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "Angels & Heathens",
-        "url": "https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 198089,
-      "name": "Angels & Heathens",
-      "url": "https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j"
-    },
-    {
-      "added_at": "2024-12-20 05:00:29",
-      "album": {
         "name": "Baker Hotel",
         "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 276280,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+    },
+    {
+      "added_at": "2024-12-20 05:00:29",
+      "album": {
+        "name": "Angels & Heathens",
+        "url": "https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 198089,
+      "name": "Angels & Heathens",
+      "url": "https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j"
     },
     {
       "added_at": "2024-12-20 05:00:29",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2024-12-20 05:00:29",
-      "album": {
         "name": "Outta Dirt",
         "url": "https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
+    },
+    {
+      "added_at": "2024-12-20 05:00:29",
+      "album": {
         "name": "Cigarettes and Milk",
         "url": "https://open.spotify.com/album/0FUGAP7y7d9AZH0pYVt6jx"
       },
@@ -1687,46 +1687,38 @@
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "Love Junkie",
-        "url": "https://open.spotify.com/album/18ObIWQQaixiec3lFv02Qs"
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
       },
       "artists": [
         {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 238386,
-      "name": "Love Junkie",
-      "url": "https://open.spotify.com/track/5mzeAk5H2fHIV1z8dgyt3z"
+      "duration_ms": 204000,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
     },
     {
       "added_at": "2024-12-20 05:00:29",
       "album": {
-        "name": "Running out of Time",
-        "url": "https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf"
+        "name": "Your Bar Now",
+        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
         },
         {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        },
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk"
-        },
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 217899,
-      "name": "Running out of Time",
-      "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"
+      "duration_ms": 214253,
+      "name": "Your Bar Now",
+      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     }
   ],
   "unique_name": "Texas Country Now",

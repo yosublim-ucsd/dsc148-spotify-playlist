@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 111610,
+  "num_followers": 111638,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAABXlI5JmXRdZUbrH0YjRqXI",
+  "snapshot_id": "Z28/gAAAAAAjPuyU8t25fYFIBJ/bRcPq",
   "tracks": [
     {
       "added_at": null,
@@ -547,30 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        }
-      ],
-      "duration_ms": 402811,
-      "name": "Meu Filho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 192402,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        }
+      ],
+      "duration_ms": 402811,
+      "name": "Meu Filho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Preciso Entender - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00c9s Santo",
         "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
       },
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bra\u00e7os de Amor",
-        "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 332333,
-      "name": "Bra\u00e7os de Amor",
-      "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
+      "duration_ms": 237333,
+      "name": "Preciso Entender - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 276080,
       "name": "Em Troca",
       "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bra\u00e7os de Amor",
+        "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Bra\u00e7os de Amor",
+      "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
     },
     {
       "added_at": null,

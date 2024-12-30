@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,341,020 likes - 101 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,341,066 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 92 | [cavalier](https://open.spotify.com/track/3b2ewlfHxNqiXxgOgKY7X9) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [cavalier](https://open.spotify.com/album/1HaFJycK8DGr44jaTQFXtz) | 2:35 |
 | 93 | [gossamer](https://open.spotify.com/track/6fwndkzociIcaO91QH9ROH) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Max He](https://open.spotify.com/artist/7eVdceTmA6EaGW3O5ZoYME) | [michelinman](https://open.spotify.com/album/7DGfUX14MNucTUYGIYGyz4) | 2:37 |
 | 94 | [Free My Dogs](https://open.spotify.com/track/1MAv3UXsamsfgo0CuSHGY7) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Once In A Blue Moon](https://open.spotify.com/album/3SXOskfMS4s97wcmyirHmF) | 3:04 |
-| 95 | [Angels](https://open.spotify.com/track/2hTSBtuYVdSItzhgXQ5O4d) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [The Soulyghost](https://open.spotify.com/artist/5I0MlK68aOYfPGsIdmBrIr) | [The Lotus Child](https://open.spotify.com/album/39FpJp8gjraLFv0HZByz0D) | 3:30 |
+| 95 | [Angels](https://open.spotify.com/track/2hTSBtuYVdSItzhgXQ5O4d) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [The Soulyghost](https://open.spotify.com/artist/5I0MlK68aOYfPGsIdmBrIr) | [The Lotus Child](https://open.spotify.com/album/39FpJp8gjraLFv0HZByz0D) | 3:30 |
 | 96 | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/album/4sAQkEB9HwmyKAd9JNZ7ee) | 3:27 |
 | 97 | [Battlefield](https://open.spotify.com/track/36GWtBcdwjL6XlVe3XhroD) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 3:38 |
 | 98 | [S.A.D\. \(Shit Ain't Deep\)](https://open.spotify.com/track/2tb1WG56z94mRBRh9DXH9u) | [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Osbe Chill](https://open.spotify.com/artist/5uR85BiASPMWtdV8UwYXSD) | [S.A.D\. \(Shit Ain't Deep\)](https://open.spotify.com/album/0t8IRBkkltXHBBZqO87hsT) | 4:27 |

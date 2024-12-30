@@ -4702,7 +4702,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 236144,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/49c9g4DfRP3UODnJgZCkXj"
@@ -11979,6 +11979,24 @@
     },
     {
       "album": {
+        "name": "Spring Dreams",
+        "url": "https://open.spotify.com/album/2PvvV5aObs5AsAuQGSNaCZ"
+      },
+      "artists": [
+        {
+          "name": "Seo Jin Park",
+          "url": "https://open.spotify.com/artist/4TD60P0u4yAHb4fSY3TvSG"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "Spring Dreams",
+      "url": "https://open.spotify.com/track/6aY35KW5lZ5VDGUuubS3iH"
+    },
+    {
+      "album": {
         "name": "'It Turned out to be a Coma' Music Festival Winner's Benefit Song",
         "url": "https://open.spotify.com/album/44I1HV1oISN0sgjWy6Fol7"
       },
@@ -15452,7 +15470,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 215386,
       "name": "You Have Your Own Scent",
       "url": "https://open.spotify.com/track/3cWedKElHdS1FRqRxotCXG"
@@ -15854,7 +15872,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-30",
       "duration_ms": 231453,
       "name": "\uac00\uc2b4\uc774 \ubd80\ub974\ub294 \ub178\ub798",
       "url": "https://open.spotify.com/track/3RLLidlEXlGg9zXQIWrw2I"

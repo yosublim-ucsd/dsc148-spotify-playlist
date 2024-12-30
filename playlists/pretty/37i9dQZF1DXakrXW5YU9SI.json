@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 334530,
+  "num_followers": 334561,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
+        "name": "Ta druga",
+        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Wszystko",
+      "url": "https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
         "name": "Bestie, Move On",
         "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 248000,
       "name": "Mleczna droga",
       "url": "https://open.spotify.com/track/12aZhjbBBFKIm1S9utKiIB"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
-        "name": "Ta druga",
-        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Wszystko",
-      "url": "https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE"
+        "name": "W Domu EP",
+        "url": "https://open.spotify.com/album/3A9JbJcyw7ZLklN2BHkRCJ"
       },
       "artists": [
         {
-          "name": "IGNACY",
-          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
         }
       ],
-      "duration_ms": 215581,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/0NxtOVibuKGLZ8iaF4vUJJ"
+      "duration_ms": 234715,
+      "name": "Na Si\u0142\u0119",
+      "url": "https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "W Domu EP",
-        "url": "https://open.spotify.com/album/3A9JbJcyw7ZLklN2BHkRCJ"
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE"
       },
       "artists": [
         {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
         }
       ],
-      "duration_ms": 234715,
-      "name": "Na Si\u0142\u0119",
-      "url": "https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg"
+      "duration_ms": 215581,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/0NxtOVibuKGLZ8iaF4vUJJ"
     },
     {
       "added_at": "2024-12-19 23:00:53",

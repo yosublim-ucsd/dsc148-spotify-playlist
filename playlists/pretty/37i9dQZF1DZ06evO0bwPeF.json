@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8739,
+  "num_followers": 8745,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z23uAAAAAABwWErq0OsO2TXslgCXUQLf",
+  "snapshot_id": "Z28/gAAAAABzWf4ehDy80kd9HjkknDZ5",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Left",
-        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 101539,
-      "name": "Reprise",
-      "url": "https://open.spotify.com/track/5bMq0jjjS0XF57z4Q09seD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strap It On",
         "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
       },
@@ -667,22 +651,6 @@
       "duration_ms": 206773,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Left",
-        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "Dislocated",
-      "url": "https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA"
     }
   ],
   "unique_name": "This Is Helmet",

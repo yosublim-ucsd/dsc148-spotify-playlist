@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,349 songs - 10 day 3 hr 45 min
+4,352 songs - 10 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [A VECES SE PIERDE \| A VECES SE GANA](https://open.spotify.com/track/76IV0SeSn22UhWtp2Wx8Wc) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [A VECES SE PIERDE \| A VECES SE GANA](https://open.spotify.com/album/3Isetje5C6z12gfyjK5XC4) | 2:37 | 2024-11-20 | 2024-12-02 |
 | [A warm night in NYC](https://open.spotify.com/track/1pBCagbFkWUbqvgPMvXAic) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [A warm night in NYC](https://open.spotify.com/album/7GyKPYUjuEtAgJm6CMJXj1) | 2:29 | 2024-10-04 | 2024-10-17 |
 | [A.I.](https://open.spotify.com/track/3HJQqwpGOxLLW3SKIsrfER) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [A.I.](https://open.spotify.com/album/2W8df3MDLMaN4YJWV13mos) | 3:02 | 2020-05-22 | 2020-06-10 |
+| [A.W.O.A.F.](https://open.spotify.com/track/588VwpGtrgNqQwme8Utk32) | [Louis Davis, Jr.](https://open.spotify.com/artist/32IzM7vK2Tmu2YgLWp2zkF) | [A.W.O.A.F.](https://open.spotify.com/album/2RILmgmiOa4wOOFPFQBmc1) | 3:33 | 2024-12-29 |  |
 | [Aba Warum](https://open.spotify.com/track/2Q32AikYiCIF5DJ6bdJR1X) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [prodbypengg](https://open.spotify.com/artist/5BMnIDhlF7NbpuiNgkyD9b), [beslik meister](https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr) | [Aba Warum](https://open.spotify.com/album/0Bh26JvXXpZbfFdttCqlDy) | 3:17 | 2021-06-26 | 2021-07-11 |
 | [abbi's interlude](https://open.spotify.com/track/52c1zWXAGIR4Uw8r5kexLF) | [inso](https://open.spotify.com/artist/4rQ3CsoaPcAKfYJpKXKRyR) | [imma do me](https://open.spotify.com/album/1su357WOnuFCtNquC3yhzl) | 1:56 | 2023-05-14 | 2023-06-02 |
 | [about a bee](https://open.spotify.com/track/1YPpuDqn6seux3PDCc6q6F) | [Axel Leather Jacket](https://open.spotify.com/artist/5xEGxb8BJXoxqjMmtCWfkI) | [about a bee](https://open.spotify.com/album/7x2RacjyXkbYQcPfZnXjAm) | 2:04 | 2023-06-26 | 2023-07-15 |
@@ -1290,6 +1291,7 @@
 | [Find A Way](https://open.spotify.com/track/6UxL2QDcngbCGZyn8qcmBE) | [Tm2 Ent Presents Nani Babbey](https://open.spotify.com/artist/0lNtvTnB6SsdmXtHW4NdtX) | [Find A Way](https://open.spotify.com/album/44sjjZVpW02Rp47b3AtFl8) | 3:06 | 2023-06-11 | 2023-06-30 |
 | [Find A Way \(feat\. Lil Baby\)](https://open.spotify.com/track/292NnHERQgizPvOY3pCEPK) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Back of My Mind](https://open.spotify.com/album/577SefILL1LFIbsOMP3lm1) | 3:17 | 2021-07-11 | 2024-04-21 |
 | [Find Me](https://open.spotify.com/track/2M6sXJs5fatXCxxDWS22zB) | [51st Avenue](https://open.spotify.com/artist/1lx0CFJ4qkU2ehJ4WwQSdF) | [Find Me](https://open.spotify.com/album/29QFAzXWaVoBE5KMKIuQqT) | 3:19 | 2024-01-16 | 2024-01-24 |
+| [Find Me First](https://open.spotify.com/track/53lyM6K2tbsiBDqRda2BpP) | [Jason Wade](https://open.spotify.com/artist/5Gn9hYd0IJiFntycrJhoIE) | [A Likely Story](https://open.spotify.com/album/1mYE9LYnBDB9HRLL7yD7dI) | 4:00 | 2024-12-29 |  |
 | [Find Me There](https://open.spotify.com/track/36L1ORpoSiMrgTVERAYDfL) | [Laura Lederer](https://open.spotify.com/artist/47utoDVkapeiRXfWPRn187) | [Find Me There](https://open.spotify.com/album/66doGkwxkgdcgsGIqLfBmu) | 3:21 | 2024-09-28 | 2024-10-10 |
 | [Finding Friends](https://open.spotify.com/track/3VsSoZQqBL1rQS4qpo8BaJ) | [John Noble Barrack](https://open.spotify.com/artist/6lrpKE857HFC8ohwObzINB) | [Finding Friends](https://open.spotify.com/album/5cpdeK47tNjNYBGgCZB2ol) | 3:03 | 2022-09-16 | 2022-10-04 |
 | [Finding Home](https://open.spotify.com/track/6SeoZNOlp8yEppdCwL5JX5) | [Hak Black](https://open.spotify.com/artist/7JIRCWz9rVly4v7WIVrPE4) | [Finding Home](https://open.spotify.com/album/0ThydTtBVa0Eb3D6mVAqUw) | 3:23 | 2022-10-04 | 2022-10-29 |
@@ -3395,6 +3397,7 @@
 | [So Long...](https://open.spotify.com/track/5HrqbRBEoGNiYCEEp5MERD) | [Micah Willis](https://open.spotify.com/artist/3n6N43pjBB2dGOjDvsAjMC), [austin payne](https://open.spotify.com/artist/7fkh3T7gYEiJ5M47wIvJMI) | [So Long...](https://open.spotify.com/album/1naGs7l6jvJ0DjuMJQPG4r) | 3:03 | 2020-05-22 | 2020-06-01 |
 | [So Lucky](https://open.spotify.com/track/7g2Zc9YVwVX6mME8gmBv1t) | [Laptop Singers](https://open.spotify.com/artist/2PBpgSfV69qW5sKrLHcF5W) | [Eternal Life](https://open.spotify.com/album/48TcvZvtOlwXYfpPhLkaoT) | 3:03 | 2024-01-16 | 2024-01-24 |
 | [So Plain to See](https://open.spotify.com/track/1k3XUMiF7zFi0O4xcClula) | [KennethB](https://open.spotify.com/artist/74vNAtH9KtlvA4N6AJAk5G) | [So Plain to See](https://open.spotify.com/album/0XhdprRX3gyvcsPJKYo1LV) | 4:00 | 2024-07-05 | 2024-07-16 |
+| [So What If My Best Ain't Good Enough](https://open.spotify.com/track/6aBmLwEaiI2xuMC3ZKDpAu) | [Grady Champion](https://open.spotify.com/artist/1xvmnq8zHu9LhcqBmyqCnc) | [So What If My Best Ain't Good Enough](https://open.spotify.com/album/66HfXkTB2jOD50ixTYK7EX) | 3:24 | 2024-12-29 |  |
 | [so you know](https://open.spotify.com/track/3IPdsAaaI7NLgn8lW3KXIo) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [the runaway](https://open.spotify.com/album/5b3EO3YUcPEgst7phZ2Xmf) | 2:08 | 2022-03-11 | 2022-03-31 |
 | [Sober](https://open.spotify.com/track/2I1DKbI38lcWXxAxwQ6IQf) | [Mike Watts](https://open.spotify.com/artist/3Wx36s9vPKc18yZopjMWPU), [Mikaila](https://open.spotify.com/artist/1mA7Bh4IhIuuUsrATfhEpT) | [Sober](https://open.spotify.com/album/3rN8rtA4haHiPN7v66jhek) | 3:35 | 2020-06-24 | 2020-07-13 |
 | [Sober Brain](https://open.spotify.com/track/1pFLOatIscuyzEtHLueLIz) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [Pretty Picture \(Side A\)](https://open.spotify.com/album/1LsXiKY65aIDClJXI6wno3) | 3:16 | 2021-04-30 | 2021-12-27 |

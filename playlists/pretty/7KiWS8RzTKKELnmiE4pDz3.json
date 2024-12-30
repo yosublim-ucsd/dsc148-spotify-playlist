@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAd0o9s8In2W4Xpm3M7cKMGPxwfhb7Y",
+  "snapshot_id": "AAAd1iDEz9H4E2bqXaDQkbkR90FLfUwG",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -3163,6 +3163,74 @@
       "duration_ms": 187350,
       "name": "Really Real",
       "url": "https://open.spotify.com/track/7jLhffXVyuXTcLvmSIOj2t"
+    },
+    {
+      "added_at": "2024-12-29 15:02:28",
+      "album": {
+        "name": "Where You Wanna Go",
+        "url": "https://open.spotify.com/album/4iw4a3R3UIDLCjWqvloUNV"
+      },
+      "artists": [
+        {
+          "name": "Adrian Milanio",
+          "url": "https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc"
+        }
+      ],
+      "duration_ms": 183070,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4GHaRpbH1lC8KplhOKc2QQ"
+    },
+    {
+      "added_at": "2024-12-29 18:27:10",
+      "album": {
+        "name": "Lunchroom (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/31O75v8ASWvNeUYCMBlYvN"
+      },
+      "artists": [
+        {
+          "name": "Desto",
+          "url": "https://open.spotify.com/artist/7jIkJnHkuofGofuYydpDpX"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 209214,
+      "name": "Lunchroom (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/76IRVRGJ62UpI7VfFrxi2G"
+    },
+    {
+      "added_at": "2024-12-29 20:16:49",
+      "album": {
+        "name": "Yellow Tape",
+        "url": "https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "I'm Just Sayin",
+      "url": "https://open.spotify.com/track/2XIH9awIr6pWaO7o2W68Np"
+    },
+    {
+      "added_at": "2024-12-29 20:46:38",
+      "album": {
+        "name": "Can't Tame Us",
+        "url": "https://open.spotify.com/album/2Rl6vSmXW8PicPAfxScT87"
+      },
+      "artists": [
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        }
+      ],
+      "duration_ms": 124943,
+      "name": "KickDoe",
+      "url": "https://open.spotify.com/track/7mhfizYrxgcpYq1IQjBZFI"
     }
   ],
   "unique_name": "main ",

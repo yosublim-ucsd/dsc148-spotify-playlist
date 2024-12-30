@@ -4,7 +4,7 @@
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: אודיה
 
-143 songs - 7 hr 44 min
+144 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [אחותי כבר לא סובלת אותך](https://open.spotify.com/track/6clAq1cGO4PYimAmzelTmL) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [אחותי כבר לא סובלת אותך](https://open.spotify.com/album/50V1UPWQyk6uGVdIm8WgC5) | 3:01 | 2024-06-20 | 2024-07-19 |
 | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr), [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/album/3e0NsW70ttnopNfVzZ2P6r) | 3:04 | 2024-06-20 |  |
 | [אל תפחד](https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 4:11 | 2024-10-17 |  |
-| [אני](https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אני](https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn) | 2:45 | 2024-07-18 |  |
+| [אני](https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אני](https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn) | 2:45 | 2024-07-18 | 2024-12-30 |
 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-06-20 |  |
 | [בובה](https://open.spotify.com/track/6m6oaAugKIwqZpLhqtOXMX) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [בובה](https://open.spotify.com/album/34QC2WFPIqwoaoUcsCflix) | 3:07 | 2024-06-20 | 2024-07-19 |
 | [בין העיר לפרדס](https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [בין העיר לפרדס](https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU) | 3:52 | 2024-06-20 |  |
@@ -108,6 +108,7 @@
 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 | 2024-11-07 |  |
 | [בנות כמוני לא בוכות](https://open.spotify.com/track/2gwiDHH38cpSXuMU6Iu53d) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [בנות כמוני לא בוכות](https://open.spotify.com/album/7xlUbVX3KggFMOiLFyCrSM) | 2:36 | 2024-06-20 | 2024-09-10 |
 | [דאמ](https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [דאמ](https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo) | 2:49 | 2024-08-15 |  |
+| [האמת](https://open.spotify.com/track/1bd0D0cXcpGeJXsn2Xt8lc) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG) | [האמת](https://open.spotify.com/album/42hRqDyszb7lDxQpZ0Ba7o) | 2:57 | 2024-11-07 |  |
 | [הכל לטובה](https://open.spotify.com/track/0REMSQVoHQU9U1v5m657bx) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [תשובה?](https://open.spotify.com/album/239QSa9yG5pSpwFPIVRqYN) | 2:41 | 2024-06-20 |  |
 | [המים הקדושים](https://open.spotify.com/track/5DqxfeM3LYqSTiiB1NORSu) | [Tohar](https://open.spotify.com/artist/6AGauzgDfrDTQA8ezvCiaS), [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm) | [המים הקדושים](https://open.spotify.com/album/3UvWQrHP5tTPLU9wc36FX0) | 3:45 | 2024-07-04 | 2024-07-19 |
 | [ויני וידי ויצ'י](https://open.spotify.com/track/4RrZdfphKgLiQ6uJJEgIMx) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [ויני וידי ויצ'י](https://open.spotify.com/album/2ZAVMJ0cfMztnaQoPiYv4N) | 2:24 | 2024-06-20 | 2024-10-28 |

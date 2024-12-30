@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 109481,
+  "num_followers": 109508,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
+        "name": "Alarido",
+        "url": "https://open.spotify.com/album/6u1KRaLtj158VGVKycQCjd"
+      },
+      "artists": [
+        {
+          "name": "La Sombra del Grajo",
+          "url": "https://open.spotify.com/artist/7fmqc78do1eu7j750fkiPO"
+        }
+      ],
+      "duration_ms": 228605,
+      "name": "Alarido",
+      "url": "https://open.spotify.com/track/0rG9YumeEcdIjyM6sg2Ap9"
+    },
+    {
+      "added_at": "2024-12-19 23:00:47",
+      "album": {
         "name": "Ni Descanso, Ni Paz!",
         "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "Pura dinamita",
-        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
-      },
-      "artists": [
-        {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
-        }
-      ],
-      "duration_ms": 236888,
-      "name": "Pura dinamita",
-      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
-    },
-    {
-      "added_at": "2024-12-19 23:00:47",
-      "album": {
         "name": "Inadaptados",
         "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 147653,
       "name": "Escupe",
       "url": "https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3"
+    },
+    {
+      "added_at": "2024-12-19 23:00:47",
+      "album": {
+        "name": "Pura dinamita",
+        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
+      },
+      "artists": [
+        {
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+        }
+      ],
+      "duration_ms": 236888,
+      "name": "Pura dinamita",
+      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
     },
     {
       "added_at": "2024-12-19 23:00:47",
@@ -755,22 +771,6 @@
       "duration_ms": 160253,
       "name": "C\u00f3mo Convertirse en Nada",
       "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
-    },
-    {
-      "added_at": "2024-12-19 23:00:47",
-      "album": {
-        "name": "Alarido",
-        "url": "https://open.spotify.com/album/6u1KRaLtj158VGVKycQCjd"
-      },
-      "artists": [
-        {
-          "name": "La Sombra del Grajo",
-          "url": "https://open.spotify.com/artist/7fmqc78do1eu7j750fkiPO"
-        }
-      ],
-      "duration_ms": 228605,
-      "name": "Alarido",
-      "url": "https://open.spotify.com/track/0rG9YumeEcdIjyM6sg2Ap9"
     },
     {
       "added_at": "2024-12-19 23:00:47",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "Punk Latino Vol. 1",
-        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
-      },
-      "artists": [
-        {
-          "name": "La Polla",
-          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Ellos Dicen Mierda (Live)",
-      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
-    },
-    {
-      "added_at": "2024-12-19 23:00:47",
-      "album": {
         "name": "Desnazificant",
         "url": "https://open.spotify.com/album/08qOnRM6t3iraXWtS7qVKP"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
+        "name": "Punk Latino Vol. 1",
+        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
       },
       "artists": [
         {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+          "name": "La Polla",
+          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
         }
       ],
-      "duration_ms": 194192,
-      "name": "El Mes\u00edas",
-      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
+      "duration_ms": 266733,
+      "name": "Ellos Dicen Mierda (Live)",
+      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
     },
     {
       "added_at": "2024-12-19 23:00:47",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 194192,
+      "name": "El Mes\u00edas",
+      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
+    },
+    {
+      "added_at": "2024-12-19 23:00:47",
+      "album": {
         "name": "Otra Partida",
         "url": "https://open.spotify.com/album/6AMSWPbMxR3uAeGqOWhKcq"
       },
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "A Cara de Perro",
-        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
       },
       "artists": [
         {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 165573,
-      "name": "Escupir\u00e9 Jodidos",
-      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
     },
     {
       "added_at": "2024-12-19 23:00:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "Ser Libre",
-        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Ser Libre",
-      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
-    },
-    {
-      "added_at": "2024-12-19 23:00:47",
-      "album": {
         "name": "Despilfarro",
         "url": "https://open.spotify.com/album/5NDYhskqIYn0EEblCeKRxf"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 120644,
       "name": "Despilfarro",
       "url": "https://open.spotify.com/track/7LtzkqD9qcVPFM7vsRIKTN"
+    },
+    {
+      "added_at": "2024-12-19 23:00:47",
+      "album": {
+        "name": "A Cara de Perro",
+        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Escupir\u00e9 Jodidos",
+      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
     },
     {
       "added_at": "2024-12-19 23:00:47",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
+        "name": "Humanos",
+        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "duration_ms": 151134,
+      "name": "Humanos",
+      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+    },
+    {
+      "added_at": "2024-12-19 23:00:47",
+      "album": {
         "name": "Basura",
         "url": "https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg"
       },
@@ -1507,34 +1523,18 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "Esta es una Noche de Rock & Roll",
-        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
+        "name": "Hace falta\u2026?",
+        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
       },
       "artists": [
         {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
         }
       ],
-      "duration_ms": 180444,
-      "name": "Esta es una Noche de Rock & Roll",
-      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
-    },
-    {
-      "added_at": "2024-12-19 23:00:47",
-      "album": {
-        "name": "Humanos",
-        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
-      },
-      "artists": [
-        {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
-        }
-      ],
-      "duration_ms": 151134,
-      "name": "Humanos",
-      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+      "duration_ms": 233000,
+      "name": "La locura - original",
+      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
     },
     {
       "added_at": "2024-12-19 23:00:47",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "Hace falta\u2026?",
-        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
-      },
-      "artists": [
-        {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La locura - original",
-      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
-    },
-    {
-      "added_at": "2024-12-19 23:00:47",
-      "album": {
         "name": "Ahora que se ha ido el sol",
         "url": "https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 240986,
       "name": "Herida de guerra",
       "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
+    },
+    {
+      "added_at": "2024-12-19 23:00:47",
+      "album": {
+        "name": "Esta es una Noche de Rock & Roll",
+        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        }
+      ],
+      "duration_ms": 180444,
+      "name": "Esta es una Noche de Rock & Roll",
+      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
     },
     {
       "added_at": "2024-12-19 23:00:47",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "Ka\u00f1a a los Que Nos Quieren Pisar",
-        "url": "https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06"
+        "name": "Envenenado",
+        "url": "https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK"
       },
       "artists": [
         {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
         }
       ],
-      "duration_ms": 276058,
-      "name": "Ka\u00f1a",
-      "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
+      "duration_ms": 186493,
+      "name": "Nos Enga\u00f1an - original",
+      "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"
     },
     {
       "added_at": "2024-12-19 23:00:47",
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "Semeya de la Rabia",
-        "url": "https://open.spotify.com/album/7k0IbB4wqVVTof6Z8kGG1F"
+        "name": "Ka\u00f1a a los Que Nos Quieren Pisar",
+        "url": "https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06"
       },
       "artists": [
         {
-          "name": "Skontra",
-          "url": "https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi"
-        },
-        {
-          "name": "Odio Visceral",
-          "url": "https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA"
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
         }
       ],
-      "duration_ms": 242320,
-      "name": "Y sigo en pie",
-      "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"
+      "duration_ms": 276058,
+      "name": "Ka\u00f1a",
+      "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

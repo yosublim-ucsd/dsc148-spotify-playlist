@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Ethel Cain",
-  "num_followers": 298014,
+  "num_followers": 298064,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "Espresso (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 184617,
-      "name": "Espresso - triple j Like A Version",
-      "url": "https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "Coastline (Vancouver Sleep Clinic Remix)",
         "url": "https://open.spotify.com/album/1n8JqMqXX3ojKrFCQHMHPR"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 186990,
       "name": "Coastline - Vancouver Sleep Clinic Remix",
       "url": "https://open.spotify.com/track/0zUTBKmEYRpJnNwbILo3mW"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "Espresso (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 184617,
+      "name": "Espresso - triple j Like A Version",
+      "url": "https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "Industry Baby",
-        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 231381,
-      "name": "Industry Baby",
-      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "Dreams Tonite",
         "url": "https://open.spotify.com/album/5QIyja8uXUCy0CgUeFbHAH"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 188746,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/6kFQtqHLGKgSSUEUFBszFU"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "Industry Baby",
+        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Industry Baby",
+      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "Thank You For Being Here",
-        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 125739,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "What You Won't Do for Love",
         "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 193927,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "Thank You For Being Here",
+        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 125739,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
-        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
-      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "Teardrop",
         "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 206000,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
+        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
+      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 226981,
-      "name": "Skinny Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "Bad Religion / A Pair Of Brown Eyes",
         "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 211786,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 226981,
+      "name": "Skinny Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
         "name": "Adam's Song (triple j Like A Version)",
         "url": "https://open.spotify.com/album/0iOMlmeL9Gwe7KmBfLuxLX"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 175500,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/55MleWjJoLiw7k9ruKVP7v"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
       },
       "artists": [
         {
-          "name": "Rona Mac",
-          "url": "https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF"
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
         }
       ],
-      "duration_ms": 163666,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/4Xv25FegSvCe1yLo3GfVwP"
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     }
   ],
   "unique_name": "Indie Covers",

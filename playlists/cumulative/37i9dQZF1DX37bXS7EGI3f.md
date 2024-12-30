@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Nightwish
 
-629 songs - 2 day 0 hr 13 min
+630 songs - 2 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Damages](https://open.spotify.com/track/6XIY8qidGkzWwgcEBQLXam) | [Polarization](https://open.spotify.com/artist/0b24PjWEp3d9m60dzvGeLZ) | [Chasing the Light](https://open.spotify.com/album/7qRvq7Vc5sjM7ESzbYvmzp) | 4:21 | 2022-07-13 | 2022-07-30 |
 | [Damnation Flame](https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Damnation Flame](https://open.spotify.com/album/55jGYMXqdsvmtW7R8cXOgw) | 3:32 | 2023-07-17 | 2024-02-24 |
 | [Damnation Flame](https://open.spotify.com/track/3VZw8hjoUpHXg9k5jbzlcK) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:33 | 2024-02-23 | 2024-04-16 |
+| [Dance Till We Sink](https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm) | [A Wildheart's Tale](https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb) | [Dance Till We Sink](https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt) | 2:58 | 2024-09-20 |  |
 | [Dance with the Devil](https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Dance with the Devil](https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g) | 3:54 | 2024-09-20 |  |
 | [Dancing with the Dead](https://open.spotify.com/track/7KOCjpEPpWhjUQwMhewWy6) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Dancing with the Dead](https://open.spotify.com/album/5mAAQ7KTPsJrny2toIFtn8) | 4:05 | 2021-06-25 | 2022-04-02 |
 | [Dangerous Game](https://open.spotify.com/track/3mCaLSxcSFATJ9jArxm3be) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ), [Henk Poort](https://open.spotify.com/artist/119M7XQ8yohqLeHrIik6vi) | [Dangerous Game](https://open.spotify.com/album/64HaMN4s0RNSjdBILXv2VX) | 3:22 | 2021-06-11 | 2022-02-11 |
@@ -307,7 +308,7 @@
 | [Living Room](https://open.spotify.com/track/4siB4DG9qAUrACMcIJOhGF) | [David Maxim Micic](https://open.spotify.com/artist/0wQa1N4q3HmLwxqkpVcYhs) | [Who Bit the Moon](https://open.spotify.com/album/4XlMNDp7GSFGF56dw5CJG5) | 5:01 | 2022-07-13 | 2022-07-29 |
 | [Load Your Cannons](https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ) | [Saint Deamon](https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG) | [Load Your Cannons](https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j) | 3:30 | 2023-03-24 | 2023-04-21 |
 | [Loki](https://open.spotify.com/track/5p1QCPjzj78AugCNUMsxCi) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Loki](https://open.spotify.com/album/3f3Qg35UJ1vXOU8CJcreMj) | 3:56 | 2020-11-29\* | 2021-02-26 |
-| [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 | 2022-05-27 |  |
+| [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 | 2022-05-27 | 2024-12-30 |
 | [Lonely Tears in Chinatown](https://open.spotify.com/track/3poXKPjtgJdt9Y1WbTsZOv) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Lonely Tears in Chinatown](https://open.spotify.com/album/41wAvfdHHgyW20L37DcYQr) | 3:40 | 2021-10-16 | 2021-11-20 |
 | [Louder Than Hell](https://open.spotify.com/track/4y8jRLVaKNEPx1Ri1uAhaN) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Louder Than Hell](https://open.spotify.com/album/5gtMaHTNhK0VBgFyP8i1uZ) | 4:26 | 2020-11-29\* | 2021-06-04 |
 | [Love Reign O'er Me](https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Love Reign O'er Me](https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce) | 4:00 | 2021-12-11 |  |

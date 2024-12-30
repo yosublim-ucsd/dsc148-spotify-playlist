@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 267545,
+  "num_followers": 267713,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -139,38 +139,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 Valses Instrumentales",
-        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
-      },
-      "artists": [
-        {
-          "name": "Bodas y 15 A\u00f1os",
-          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Say It With Music",
-        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Stranger In Paradise",
-      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Santo & Johnny",
         "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
       },
@@ -183,6 +151,22 @@
       "duration_ms": 130493,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "20 Valses Instrumentales",
+        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
+      },
+      "artists": [
+        {
+          "name": "Bodas y 15 A\u00f1os",
+          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -227,6 +211,38 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Say It With Music",
+        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Stranger In Paradise",
+      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Paul Mauriat. Grandes Exitos",
         "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 193720,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -467,26 +467,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Franck Pourcel : Originals, vol. 8",
-        "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        },
-        {
-          "name": "Fran\u00e7oise Pourcel",
-          "url": "https://open.spotify.com/artist/6DVHogUCliIhG9ZJzjzMfc"
-        }
-      ],
-      "duration_ms": 146407,
-      "name": "Spanish Harlem - Nuits d'Espagne",
-      "url": "https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Temas Prohibidos del Cine",
         "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 234962,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Franck Pourcel : Originals, vol. 8",
+        "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        },
+        {
+          "name": "Fran\u00e7oise Pourcel",
+          "url": "https://open.spotify.com/artist/6DVHogUCliIhG9ZJzjzMfc"
+        }
+      ],
+      "duration_ms": 146407,
+      "name": "Spanish Harlem - Nuits d'Espagne",
+      "url": "https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
     },
     {
+      "added_at": "2021-12-23 15:47:25",
+      "album": {
+        "name": "The Ultimate John Barry",
+        "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
+      },
+      "artists": [
+        {
+          "name": "John Barry",
+          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Midnight Cowboy",
+      "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
+    },
+    {
       "added_at": "2020-12-08 19:02:01",
       "album": {
         "name": "The New Limelight",
@@ -603,22 +619,6 @@
       "duration_ms": 166293,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
-    },
-    {
-      "added_at": "2021-12-23 15:47:25",
-      "album": {
-        "name": "The Ultimate John Barry",
-        "url": "https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j"
-      },
-      "artists": [
-        {
-          "name": "John Barry",
-          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Midnight Cowboy",
-      "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Smooth Jazz",
-        "url": "https://open.spotify.com/album/3YsZrPFpoRt9Q58FEpFkxo"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 124604,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/7GKP7S8RolxzYC7qmvWn4k"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "16 Joyas Del New Age",
         "url": "https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 228213,
       "name": "Aria on Air",
       "url": "https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Smooth Jazz",
+        "url": "https://open.spotify.com/album/3YsZrPFpoRt9Q58FEpFkxo"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 124604,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/7GKP7S8RolxzYC7qmvWn4k"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Exploring New Sounds In Stereo",
-        "url": "https://open.spotify.com/album/6UHuya9o63tCKWr6m55WrG"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "Lazy Bones",
-      "url": "https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "I Love Paris, Holiday In Rome (Two Original Albums on One)",
         "url": "https://open.spotify.com/album/0QUJfvFIgBbund9LcRwI4q"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 147453,
       "name": "Mademoiselle de Paris",
       "url": "https://open.spotify.com/track/3cGMK5oIwTvy4IZNVtWSxc"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Exploring New Sounds In Stereo",
+        "url": "https://open.spotify.com/album/6UHuya9o63tCKWr6m55WrG"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "Lazy Bones",
+      "url": "https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Themes",
+        "url": "https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 211208,
+      "name": "Chariots Of Fire",
+      "url": "https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Music Box Dancer",
-        "url": "https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf"
-      },
-      "artists": [
-        {
-          "name": "Frank Mills",
-          "url": "https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Music Box Dancer",
-      "url": "https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Latin-Esque",
         "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
       },
@@ -1551,34 +1551,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Boogie Nights #2 (More Music From The Original Motion Picture)",
-        "url": "https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb"
+        "name": "Music Box Dancer",
+        "url": "https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf"
       },
       "artists": [
         {
-          "name": "Apollo 100",
-          "url": "https://open.spotify.com/artist/6v0kvTi9pOI2ZFrWGQhdsc"
+          "name": "Frank Mills",
+          "url": "https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS"
         }
       ],
-      "duration_ms": 163826,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/595cpLYdeN3s7C4CqJbZus"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Themes",
-        "url": "https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 211208,
-      "name": "Chariots Of Fire",
-      "url": "https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy"
+      "duration_ms": 192360,
+      "name": "Music Box Dancer",
+      "url": "https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1595,6 +1579,22 @@
       "duration_ms": 457400,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7znZstuIvZjldNIO1E11U4"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Boogie Nights #2 (More Music From The Original Motion Picture)",
+        "url": "https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb"
+      },
+      "artists": [
+        {
+          "name": "Apollo 100",
+          "url": "https://open.spotify.com/artist/6v0kvTi9pOI2ZFrWGQhdsc"
+        }
+      ],
+      "duration_ms": 163826,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/595cpLYdeN3s7C4CqJbZus"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Romantique",
         "url": "https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 157986,
       "name": "Ballade Pour Adeline",
       "url": "https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
     },
     {
       "added_at": "2020-12-08 19:02:01",

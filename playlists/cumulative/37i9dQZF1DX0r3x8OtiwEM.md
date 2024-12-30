@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-672 songs - 2 day 17 hr 49 min
+673 songs - 2 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Follow \(Max Manie Remix\)](https://open.spotify.com/track/6WkkQXnxsahGrqGLv540AI) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Follow \(Max Manie Remix\)](https://open.spotify.com/album/29nHlh98BX8btGwsApWfih) | 4:52 | 2020-12-24 | 2022-11-09 |
 | [Fragile Star](https://open.spotify.com/track/4Jk3JP8LBArLOOJ5tIPRhs) | [Andy Woldman](https://open.spotify.com/artist/0dKdJTpnoDuWIRBS8Ln3dF), [Katrin Souza](https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf) | [Fragile Star](https://open.spotify.com/album/6N3amu01dB54rKemRUS4GV) | 6:25 | 2021-02-22 | 2021-05-28 |
 | [Free](https://open.spotify.com/track/459MLfXwBxrdjLJiLZfEOa) | [Cusp](https://open.spotify.com/artist/1r4hoXpzODB4wkyWba7EkW) | [Cycle / Free](https://open.spotify.com/album/4fa1YvjUQxoLKScqKIhpKT) | 7:32 | 2021-02-22 | 2021-09-11 |
-| [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 | 2024-10-11 |  |
+| [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 | 2024-10-11 | 2024-12-30 |
 | [Frozen \- Short Version](https://open.spotify.com/track/4ZTkGG6r8Ipqax0iAl46Mq) | [Blindsmyth](https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P) | [Frozen EP](https://open.spotify.com/album/1j5DBaJghkpWSnA75sWHPP) | 3:56 | 2019-08-06\* | 2021-01-18 |
 | [Fuel](https://open.spotify.com/track/4eIP1fVBkhXuyDb8qPT4Qw) | [Brandt Brauer Frick](https://open.spotify.com/artist/29TG40TGDvrOFQZM4adBf7) | [Echo](https://open.spotify.com/album/3DuUCCshIj3IJGISFEVa2f) | 5:37 | 2019-08-06\* | 2020-01-14 |
 | [Further \- Hidden Empire Remix](https://open.spotify.com/track/4BkFVCDaobMOvm56XGdnzQ) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Liu Bei](https://open.spotify.com/artist/5g8huPwwthukeiOFPFfvJ8), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Further EP](https://open.spotify.com/album/0VINHQ0UIRod04uCye1PO2) | 7:11 | 2019-08-22 | 2019-12-03 |
@@ -324,6 +324,7 @@
 | [Last Bloom](https://open.spotify.com/track/00om2cgsHAwhdbpACwbAke) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Last Bloom](https://open.spotify.com/album/6UC5SN5ycYhBgNk6Z5SfTT) | 5:53 | 2019-09-19 | 2020-01-04 |
 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 | 2024-05-24 |  |
 | [Last Song](https://open.spotify.com/track/6pvI93SNbtPTaWQ3OvvFmV) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/5Ks5CvTHpCOc7m08HkxVpn) | 7:42 | 2019-08-15 | 2021-03-22 |
+| [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 | 2024-12-20 |  |
 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 | 2023-06-30 | 2024-08-30 |
 | [Lieblingsmensch \- Edit](https://open.spotify.com/track/6CXFxsx3VCNLwRdOn9cXKp) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Lieblingsmensch \(Edit\)](https://open.spotify.com/album/0a7nVpT905t2mcpvMVuxuL) | 3:40 | 2020-01-14 | 2020-07-18 |
 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 |  |

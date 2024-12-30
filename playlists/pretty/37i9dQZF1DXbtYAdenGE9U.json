@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 634522,
+  "num_followers": 634797,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,26 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9"
       },
@@ -183,26 +203,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Encore Une Fois - Future Breeze Edit",
-      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Airwave",
         "url": "https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8"
       },
@@ -235,6 +235,26 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky",
       "url": "https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "La Trec",
+          "url": "https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Stay - Original Single Edit",
+      "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -295,26 +315,6 @@
       "duration_ms": 186066,
       "name": "Operation Blade (7\" Radio Edit)",
       "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "La Trec",
-          "url": "https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Stay - Original Single Edit",
-      "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "One For The Lad's",
+        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Superstring",
         "url": "https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 187520,
       "name": "Superstring - RANK 1's Radio Edit",
       "url": "https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "One For The Lad's",
-        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
+      },
+      "artists": [
+        {
+          "name": "Airbase",
+          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Escape - Radio Edit",
+      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "I Believe / Follow Me",
         "url": "https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 392560,
       "name": "Follow Me - Lange's Club Mix",
       "url": "https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
-      },
-      "artists": [
-        {
-          "name": "Airbase",
-          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Escape - Radio Edit",
-      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Fire Wire",
+        "url": "https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Fire Wire - Radio Edit",
+      "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Synaesthesia (Fly Away)",
         "url": "https://open.spotify.com/album/5VsjT0u49R46HG9kSYsHMz"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 229973,
       "name": "Synaesthesia (Fly Away)",
       "url": "https://open.spotify.com/track/5QdgpcfAw8EbsupH0B6BpI"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Fire Wire",
-        "url": "https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Fire Wire - Radio Edit",
-      "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "7 Colours (The Remixes)",
+        "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
+      },
+      "artists": [
+        {
+          "name": "Lost Witness",
+          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "7 Colours - Radio Edit",
+      "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "The Xpander E.P.",
         "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 209653,
       "name": "Satellite - Above & Beyond Mix (Edit)",
       "url": "https://open.spotify.com/track/29xhHp7I079jDveVcoShIk"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "7 Colours (The Remixes)",
-        "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
-      },
-      "artists": [
-        {
-          "name": "Lost Witness",
-          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "7 Colours - Radio Edit",
-      "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
     },
     {
       "added_at": "2024-07-23 09:55:55",

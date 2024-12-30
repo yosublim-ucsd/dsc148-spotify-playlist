@@ -1,13 +1,61 @@
 {
   "description": "Welcome to the oil business. Listen to the music from Landman, now streaming on Paramount+. ",
-  "num_followers": 15099,
+  "num_followers": 15847,
   "original_name": "Landman Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2eq8AAAAADME8ooNzDw3bgZHc98+xv2",
+  "snapshot_id": "Z3DlegAAAADSvmmwRwVZiBY9sTCRz+Dx",
   "tracks": [
+    {
+      "added_at": "2024-12-29 06:00:25",
+      "album": {
+        "name": "Goin' 50",
+        "url": "https://open.spotify.com/album/3iCffsNF6mYOY87PWhhqcp"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "La Grange - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1MVqP6dzp0EZ2T4TpAxWnS"
+    },
+    {
+      "added_at": "2024-12-29 06:00:25",
+      "album": {
+        "name": "Change the Game",
+        "url": "https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 208901,
+      "name": "Change The Game",
+      "url": "https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc"
+    },
+    {
+      "added_at": "2024-12-29 06:00:25",
+      "album": {
+        "name": "Crossing Lines",
+        "url": "https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Crossing Lines",
+      "url": "https://open.spotify.com/track/1BuwcJ4WYxvKsIG3nZeGn3"
+    },
     {
       "added_at": "2024-12-22 06:00:16",
       "album": {

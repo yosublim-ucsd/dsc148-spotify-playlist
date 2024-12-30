@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-372 songs - 21 hr 50 min
+373 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [5:36am](https://open.spotify.com/track/3D4AfHfei811onW5lJAbyh) | [Naveih](https://open.spotify.com/artist/0xymtqlA5ioTRnQyhd0fCt) | [5:36am](https://open.spotify.com/album/6mgTereFy0CMKaZHYEntzg) | 1:42 | 2021-10-16 |  |
 | [a kind of promise](https://open.spotify.com/track/63VTCOXJjahFIM4HZWugUI) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/0UnY8jxUamnb3hYkUVN8pK) | 2:59 | 2023-01-12 | 2023-02-16 |
 | [A\-001](https://open.spotify.com/track/5NPFeVHOmUrgJhbwZU3Okk) | [Corntuth](https://open.spotify.com/artist/3GFs5bdCNNiBb8wkfgaw88) | [Music To Work To](https://open.spotify.com/album/5psDaEQtmERzgnUGj4HLFK) | 4:17 | 2021-10-16 |  |
-| [Abrázame mucho estos días](https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Abrázame mucho estos días](https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq) | 2:42 | 2022-10-31 |  |
+| [Abrázame mucho estos días](https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Abrázame mucho estos días](https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq) | 2:42 | 2022-10-31 | 2024-12-30 |
 | [acceptances](https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 3:18 | 2022-09-30 |  |
 | [Agujeros Blancos](https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3) | 2:24 | 2021-10-16 | 2023-04-30 |
 | [Agujeros Blancos](https://open.spotify.com/track/7IqNYA6InoqletEJBVrgnm) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY) | 2:24 | 2021-10-16 | 2024-01-28 |
@@ -317,6 +317,7 @@
 | [Sweet Everything](https://open.spotify.com/track/7u9rHpnezNKnNhEf84IehW) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Sleep Tones](https://open.spotify.com/album/7kZiqKwpxTF81kZFmdX9dn) | 3:09 | 2021-10-16 | 2022-06-21 |
 | [Switched\-On](https://open.spotify.com/track/1qW1K1w5J8IpilCwmPvko5) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:35 | 2023-10-23 | 2024-09-19 |
 | [Switched\-On](https://open.spotify.com/track/4cREs51dQyaV23CO8pCguj) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:35 | 2023-10-23 | 2024-02-27 |
+| [Sxs13](https://open.spotify.com/track/73Oxy2zrZMTFgFARikF4UA) | [BXT Aer](https://open.spotify.com/artist/4Ih0m8L9Xc3fksQjlZHiWk) | [Beauty](https://open.spotify.com/album/28B4EwvzIlTy1gT9UlavVa) | 1:25 | 2021-10-16 |  |
 | [Tadpoles](https://open.spotify.com/track/1Y4BfksWNxJkJX5bHL8Amo) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Blooming Spring](https://open.spotify.com/album/1GM55IkCrUsVwsM1vcQwH3) | 5:11 | 2021-10-16 |  |
 | [Tasogare](https://open.spotify.com/track/3STdDTldUC9w03uaCF3JlX) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Yutaka Hirasaka](https://open.spotify.com/artist/3rgTSkiIuwcEVRiik2cDP1) | [Tasogare](https://open.spotify.com/album/1s5yMR7D4xVnz63lGuBptm) | 3:04 | 2021-10-16 |  |
 | [tears \(is this even real?\)](https://open.spotify.com/track/1WiKzAtJ6E1AGjk0VFiT1U) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/45m3UHYn9qrhkjB9Q3y9du) | 2:55 | 2021-10-16 | 2024-09-05 |
