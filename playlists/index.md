@@ -1,4 +1,4 @@
-## Playlists \(8334\)
+## Playlists \(8335\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7118,6 +7118,7 @@
 - [TrenChill K\-Hip Hop](/playlists/pretty/37i9dQZF1DWWvmOXYvR5a6.md)
 - [TrenChill K\-R&B](/playlists/pretty/37i9dQZF1DXbirtHQBuwCo.md)
 - [Trending Now](/playlists/pretty/1pMB5VwjH6fzf8ldHch1IG.md)
+- [Trending Now Malayalam](/playlists/pretty/37i9dQZF1DWTYKFynxp6Fs.md)
 - [Trending Now Telugu](/playlists/pretty/37i9dQZF1DWTt3gMo0DLxA.md)
 - [Trinity Connect](/playlists/pretty/37i9dQZF1DX7efntgEZlGn.md)
 - [Trip Hop](/playlists/pretty/37i9dQZF1DWVXbA4kjkg6G.md)
