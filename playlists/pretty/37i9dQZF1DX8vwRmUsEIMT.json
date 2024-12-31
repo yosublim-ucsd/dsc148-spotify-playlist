@@ -1,6 +1,6 @@
 {
   "description": "All the new music you need to hear right now. Cover: Artemas",
-  "num_followers": 552349,
+  "num_followers": 552368,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 278277,

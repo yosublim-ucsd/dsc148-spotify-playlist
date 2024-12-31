@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-775 songs - 2 day 4 hr 11 min
+777 songs - 2 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Doris](https://open.spotify.com/track/01psXbOBykOM12RHATPCjr) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:50 | 2022-07-04 |  |
 | [DOWN BY LAW](https://open.spotify.com/track/6KlvybbokGa63tRS4J3Uqh) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 3:31 | 2023-06-22 | 2023-06-27 |
 | [Down to the Waterline](https://open.spotify.com/track/0NnuQYRXNIzncgftfbTV3P) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:02 | 2023-08-03 |  |
+| [Downhill](https://open.spotify.com/track/2DkJKUMgylaBK5H5GXPaNc) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Mirror Starts Moving Without Me](https://open.spotify.com/album/0D1VuKK2MQA5d25Nn2gyEK) | 3:06 | 2024-12-30 |  |
 | [drake era](https://open.spotify.com/track/2lHu8kPlCkYID8BeU3EAwz) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [black ben carson](https://open.spotify.com/album/1oDgCslpzVA6zATNLPFo7f) | 3:57 | 2022-01-17 | 2023-07-31 |
 | [Drake Era](https://open.spotify.com/track/3gKtBvLJwuh2dg6x1dLDah) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Black Ben Carson](https://open.spotify.com/album/6Y7UjxYGvWGxY5KZDafQKi) | 3:57 | 2023-07-30 | 2023-08-02 |
 | [Dreaming, backwards](https://open.spotify.com/track/5rYwlaFTyCKfkwOJKbjTp1) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Turbulence](https://open.spotify.com/album/3KgzhcQdPTZOkIXHuxpiYH) | 3:33 | 2024-07-29 | 2024-07-31 |
@@ -615,6 +616,7 @@
 | [Something To Believe In](https://open.spotify.com/track/6IUqxINlPXvKHIkKMeumwY) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Gag Order](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 3:29 | 2024-02-15 |  |
 | [Sorrow Tears and Blood](https://open.spotify.com/track/7GtuZhIQ6EEpBQrJu05nIh) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Sorrow Tears and Blood](https://open.spotify.com/album/6rQL5co6IZLuTGxD5qsBmx) | 10:15 | 2023-06-14 | 2023-06-17 |
 | [Soulo Ho3 \(feat\. Jhene Aiko\)](https://open.spotify.com/track/15acC6GzjmD5NvpoS5jRdN) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Control System](https://open.spotify.com/album/26RLXRJA7aOOffZJGjUaSW) | 3:57 | 2022-12-29 |  |
+| [Soundcheck](https://open.spotify.com/track/3gd9DseTODZJ3jAI43fuJq) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/4jhKUGRhFwUqc2427ydBi3) | 0:51 | 2024-12-30 |  |
 | [Southern Point](https://open.spotify.com/track/6abe1wtVmnCIGRYGAX0Kdl) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 5:02 | 2023-03-31 | 2023-07-02 |
 | [Speed of Life \- 2017 Remaster](https://open.spotify.com/track/7B265QWYkUeqG2ihVEUZ5D) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 2:47 | 2022-07-30 |  |
 | [Spot Dog](https://open.spotify.com/track/2Xtqagt5CH9SSUCinJ9kdy) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:28 | 2023-12-31 |  |

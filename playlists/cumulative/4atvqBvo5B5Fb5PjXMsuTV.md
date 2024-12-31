@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 29 Dec 14:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 30 Dec 09:03 UTC.
 
-3,866 songs - 8 day 22 hr 42 min
+3,867 songs - 8 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1472,6 +1472,7 @@
 | [Hell of a Show](https://open.spotify.com/track/0WnevIEd25dTywBplnFNeY) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hell of a Show](https://open.spotify.com/album/2C5hxtTGObdEG2rZZHVqPn) | 1:47 | 2024-07-10 | 2024-07-13 |
 | [Hell Or High Water](https://open.spotify.com/track/3eFrJnRorDC3BYPPXpbMBF) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Hell Or High Water](https://open.spotify.com/album/02Vv39T1NCVoc5EetX7k1q) | 2:36 | 2024-09-13 | 2024-09-18 |
 | [Hello B\*tch](https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Hello B\*tch](https://open.spotify.com/album/5bWWgmLIujZiZrJUzxbhFn) | 2:19 | 2024-06-07 | 2024-06-12 |
+| [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 | 2024-12-30 |  |
 | [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 | 2024-08-30 | 2024-09-05 |
 | [Her Eyes](https://open.spotify.com/track/6iTYBfAOuy7oSMyppweXc7) | [The Cost](https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Her Eyes](https://open.spotify.com/album/1HlRjRD9b4DZriCMW3WvNg) | 4:44 | 2024-06-03 | 2024-06-06 |
 | [Here for You](https://open.spotify.com/track/4cyZjBiSrxLXJV6K7tsz1P) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Here for You](https://open.spotify.com/album/34TG2UlsQxnH7PbwrpJhBj) | 2:31 | 2024-07-12 | 2024-07-16 |
@@ -2631,7 +2632,7 @@
 | [Pure Smile Snake Venom \- KFR Remix](https://open.spotify.com/track/3yQTatNrFFSYO9u9R0zlK4) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [KFR](https://open.spotify.com/artist/2wyfVm9NWgVasdW7iFbYOK) | [Pure Smile Snake Venom \(KFR Remix\)](https://open.spotify.com/album/7ET2kuAugNEuGgIXLdyrbW) | 4:17 | 2024-12-06 | 2024-12-10 |
 | [Purple Snowflakes](https://open.spotify.com/track/6xsacBkUuy32IMngfVBhXl) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Purple Snowflakes](https://open.spotify.com/album/6iKOSo7BK2upVDTVQiO7QZ) | 3:45 | 2024-11-13 | 2024-11-26 |
 | [Purple Swag](https://open.spotify.com/track/447gSRxOsLQW2gPMawMaIU) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Purple Swag](https://open.spotify.com/album/07wBN4UCWElsEeydUxfZ8K) | 1:57 | 2024-07-12 | 2024-07-17 |
-| [Push Me To The Edge](https://open.spotify.com/track/2hXoTaKAdsx2hhTpUxEGbK) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH) | [Push Me To The Edge](https://open.spotify.com/album/37uvnwNeXtch2rzZ3pTTQp) | 2:10 | 2024-12-20 |  |
+| [Push Me To The Edge](https://open.spotify.com/track/2hXoTaKAdsx2hhTpUxEGbK) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH) | [Push Me To The Edge](https://open.spotify.com/album/37uvnwNeXtch2rzZ3pTTQp) | 2:10 | 2024-12-20 | 2024-12-31 |
 | [Pushing Daisies](https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Pushing Daisies](https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc) | 3:27 | 2024-10-25 | 2024-10-31 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-09-20 | 2024-09-26 |
 | [Put It Down](https://open.spotify.com/track/2o2qzhEatKmbCOZy07nrFh) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [Put It Down](https://open.spotify.com/album/7AbuaLWUhNrDsIQqCS2Ok0) | 3:03 | 2024-12-06 | 2024-12-08 |

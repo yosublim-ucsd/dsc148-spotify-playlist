@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 48021,
+  "num_followers": 48033,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z28/gAAAAADeDWZaY6Vrxj/uVb2vP8FT",
+  "snapshot_id": "Z3CRAAAAAAAeuRxEQhSnZDMflc10fuZt",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 101407,
-      "name": "Out of Control",
-      "url": "https://open.spotify.com/track/5qwuP7ijQePKsUl8zSJUBD"
+      "duration_ms": 96584,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/6akNPd4acqhnBn86tEsfAb"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 96584,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/6akNPd4acqhnBn86tEsfAb"
+      "duration_ms": 101407,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/5qwuP7ijQePKsUl8zSJUBD"
     },
     {
       "added_at": null,

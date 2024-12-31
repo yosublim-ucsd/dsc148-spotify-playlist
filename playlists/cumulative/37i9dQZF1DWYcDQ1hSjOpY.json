@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/053LQzkvsFd6nPdvfsk98r"
+      },
+      "artists": [
+        {
+          "name": "Foreglow",
+          "url": "https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200377,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/0ms3MShIuPvQtHW7aLgg5R"
+    },
+    {
+      "album": {
         "name": "Agreement",
         "url": "https://open.spotify.com/album/2YzjIDe9aM5tq75fApnyRs"
       },
@@ -524,6 +542,24 @@
       "duration_ms": 166012,
       "name": "Alima",
       "url": "https://open.spotify.com/track/60ihi5DukD0bd4kUBvteWe"
+    },
+    {
+      "album": {
+        "name": "All the stars",
+        "url": "https://open.spotify.com/album/37arZEnvnYlXMMxkiRI8Fy"
+      },
+      "artists": [
+        {
+          "name": "Arya Shae",
+          "url": "https://open.spotify.com/artist/5jTigCDuv898J4oTRvco0w"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186581,
+      "name": "All the stars",
+      "url": "https://open.spotify.com/track/3bKCh1q0CTDRZJ0a7OtwkR"
     },
     {
       "album": {
@@ -1193,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Ascendant",
+        "url": "https://open.spotify.com/album/4AEh2VTcwWWO7qccXCXTA0"
+      },
+      "artists": [
+        {
+          "name": "Slow Journey",
+          "url": "https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152549,
+      "name": "Ascendant",
+      "url": "https://open.spotify.com/track/6Di72er06ZXHWWJBX5YiRE"
+    },
+    {
+      "album": {
         "name": "Asha",
         "url": "https://open.spotify.com/album/58vUFNbQpamqvA9qYqPUbO"
       },
@@ -1330,7 +1384,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 158967,
       "name": "Astral Whispers",
       "url": "https://open.spotify.com/track/1VZQxvQXgbRhYhS1XJYnIA"
@@ -1442,7 +1496,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 146000,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3BQOuoVG2PsO8QUY0PndWV"
@@ -2234,7 +2288,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 205944,
       "name": "Caelum",
       "url": "https://open.spotify.com/track/1PtfPf0XqCwJhcT3mJBGhJ"
@@ -2612,7 +2666,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 210000,
       "name": "Chromaticity",
       "url": "https://open.spotify.com/track/4VNfBtsAbadZfGJHbZavU2"
@@ -2652,6 +2706,24 @@
       "duration_ms": 131500,
       "name": "Cirrus Clouds",
       "url": "https://open.spotify.com/track/6sk3KVXxU9welmb8gQEYxF"
+    },
+    {
+      "album": {
+        "name": "Clarify",
+        "url": "https://open.spotify.com/album/6Co30XY2obzBGDs429fPgM"
+      },
+      "artists": [
+        {
+          "name": "Vau Dio",
+          "url": "https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Clarify",
+      "url": "https://open.spotify.com/track/5dnYuaLxgQCzwpbO1qsS0d"
     },
     {
       "album": {
@@ -2720,7 +2792,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 157026,
       "name": "Cloud Whispers",
       "url": "https://open.spotify.com/track/3EH4iguIiQ0YaFMxvd7VFn"
@@ -3710,7 +3782,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 198848,
       "name": "Dioptra",
       "url": "https://open.spotify.com/track/2G0bZcuTI7sRbVjNho9P0D"
@@ -5716,7 +5788,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 194843,
       "name": "Future",
       "url": "https://open.spotify.com/track/7wuyeVnpHutyFX7YqoEwt1"
@@ -8859,6 +8931,24 @@
     },
     {
       "album": {
+        "name": "Must Be Real",
+        "url": "https://open.spotify.com/album/5YdSHKqh4g8XJmYDLJMsYI"
+      },
+      "artists": [
+        {
+          "name": "EMIKO",
+          "url": "https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Must Be Real",
+      "url": "https://open.spotify.com/track/4e9nh4ytV1l6ldBKhaAPxS"
+    },
+    {
+      "album": {
         "name": "My Heartland",
         "url": "https://open.spotify.com/album/4lMEywIVP4PrPT3ZTiZsGc"
       },
@@ -9122,7 +9212,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 175037,
       "name": "Night Shadows",
       "url": "https://open.spotify.com/track/2KSQYtfavJ5aCX5EaEyRgG"
@@ -9212,7 +9302,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 155231,
       "name": "Nimbus",
       "url": "https://open.spotify.com/track/2AltKEhRLuJdpdYSgp1ZpW"
@@ -9849,6 +9939,24 @@
     },
     {
       "album": {
+        "name": "Parabola",
+        "url": "https://open.spotify.com/album/1X6qh4usrOTIZGfcl0WFUW"
+      },
+      "artists": [
+        {
+          "name": "Embertone",
+          "url": "https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Parabola",
+      "url": "https://open.spotify.com/track/6J4InKIcUOJlqhRipZgfRb"
+    },
+    {
+      "album": {
         "name": "Paradox",
         "url": "https://open.spotify.com/album/6yzFtuNu7WopvMMWvgi7Eu"
       },
@@ -10364,7 +10472,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 181333,
       "name": "Proceso Cerebral",
       "url": "https://open.spotify.com/track/1SPcou7w5nN2U9mYSd4Qdr"
@@ -11214,6 +11322,24 @@
       "duration_ms": 168111,
       "name": "Safety",
       "url": "https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs"
+    },
+    {
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/72ezqoxXj5BmMzIdnRu7Oa"
+      },
+      "artists": [
+        {
+          "name": "Draumur",
+          "url": "https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173478,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/5gG5I0GpLKymphvGnCjHci"
     },
     {
       "album": {
@@ -12369,6 +12495,24 @@
     },
     {
       "album": {
+        "name": "Solace in Slow Motion",
+        "url": "https://open.spotify.com/album/5XCL0sehcDMXh7R2UgNh1K"
+      },
+      "artists": [
+        {
+          "name": "Astron",
+          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Solace in Slow Motion",
+      "url": "https://open.spotify.com/track/4ViQRViK5nzlQutdEvipCb"
+    },
+    {
+      "album": {
         "name": "Solar Plexus 528 Hz",
         "url": "https://open.spotify.com/album/2Ko0m904fdmXjFDMBFHI1i"
       },
@@ -12384,6 +12528,24 @@
       "duration_ms": 180000,
       "name": "Solar Plexus 528 Hz",
       "url": "https://open.spotify.com/track/4KDNgNpc0O2AcWhFQKrjpy"
+    },
+    {
+      "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/5RlTOPhCNBnnPmps3A8WIg"
+      },
+      "artists": [
+        {
+          "name": "The Endity",
+          "url": "https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/1cX4n0rto2WCQilz6dlPke"
     },
     {
       "album": {
@@ -12510,6 +12672,24 @@
       "duration_ms": 190833,
       "name": "Soothing Silence",
       "url": "https://open.spotify.com/track/3upcrEDvoH2Bz9i7hZc2Jh"
+    },
+    {
+      "album": {
+        "name": "Soothing Waves",
+        "url": "https://open.spotify.com/album/3l30C3akJJmTjTjut2XOho"
+      },
+      "artists": [
+        {
+          "name": "Insomnian",
+          "url": "https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Soothing Waves",
+      "url": "https://open.spotify.com/track/5XIGgjUyLeqNgt4HCbPAkI"
     },
     {
       "album": {
@@ -13460,7 +13640,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 138000,
       "name": "There Is No Door",
       "url": "https://open.spotify.com/track/0rijE9OzRao288gMiqCHOB"
@@ -13554,6 +13734,24 @@
       "duration_ms": 169500,
       "name": "Time",
       "url": "https://open.spotify.com/track/7qN201S0XYIFbBvl2YETwP"
+    },
+    {
+      "album": {
+        "name": "Time and Tide",
+        "url": "https://open.spotify.com/album/1SYRCVSapdxeZHDsfOM3Yo"
+      },
+      "artists": [
+        {
+          "name": "Red Ripples",
+          "url": "https://open.spotify.com/artist/0j3jW3YwTwnn46zLTuWNhq"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181725,
+      "name": "Time and Tide",
+      "url": "https://open.spotify.com/track/0zthUWrTYO93SwHlmNNwJ0"
     },
     {
       "album": {
@@ -13734,6 +13932,24 @@
       "duration_ms": 189403,
       "name": "True Calm Trees",
       "url": "https://open.spotify.com/track/76HJiGoSk8VHXxfrAkyErG"
+    },
+    {
+      "album": {
+        "name": "Tunnel of Light",
+        "url": "https://open.spotify.com/album/1tlWIMJ72HW7qKPElysrkN"
+      },
+      "artists": [
+        {
+          "name": "Dorian Froste",
+          "url": "https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Tunnel of Light",
+      "url": "https://open.spotify.com/track/53Aj923joqcTQJctzH2Ewl"
     },
     {
       "album": {
@@ -14126,7 +14342,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 173333,
       "name": "Verisimilitude",
       "url": "https://open.spotify.com/track/3hrhxKomuxdXZTL5CGsGgV"
@@ -14584,7 +14800,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 163500,
       "name": "Wider Purpose",
       "url": "https://open.spotify.com/track/4R5tfiuzHBNvUh71998qJM"

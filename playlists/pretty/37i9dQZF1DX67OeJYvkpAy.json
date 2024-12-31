@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: JBEE",
-  "num_followers": 89116,
+  "num_followers": 89118,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "High On Love",
         "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 181044,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "I Wanna Start My Life Again",
-        "url": "https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 150884,
-      "name": "I Wanna Start My Life Again",
-      "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1695,8 +1695,8 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+        "name": "I Wanna Start My Life Again",
+        "url": "https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO"
       },
       "artists": [
         {
@@ -1704,9 +1704,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
+      "duration_ms": 150884,
+      "name": "I Wanna Start My Life Again",
+      "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
     },
     {
       "added_at": "2024-11-22 00:00:00",

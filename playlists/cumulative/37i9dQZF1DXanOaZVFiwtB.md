@@ -2,7 +2,7 @@
 
 ### [Anime Hits 90's](https://open.spotify.com/playlist/37i9dQZF1DXanOaZVFiwtB)
 
-> The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
+> The hottest Anime hits of the 90s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 88 songs - 6 hr 14 min
 

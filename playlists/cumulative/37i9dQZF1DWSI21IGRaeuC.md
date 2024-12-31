@@ -4,7 +4,7 @@
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-456 songs - 1 day 12 hr 15 min
+457 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-06-03 | 2023-11-06 |
 | [Always Talkin Sh!t](https://open.spotify.com/track/1yaAs2qUxamFVX5VotHroG) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Always Talkin Sh!t](https://open.spotify.com/album/7g72cfZ9mi01pZQ99FLvMf) | 7:40 | 2024-05-17 | 2024-09-14 |
 | [Amused](https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Amused EP](https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js) | 3:15 | 2024-02-23 | 2024-08-31 |
+| [Analog Ascent](https://open.spotify.com/track/1HBiN4vgEq75YD0HFvhM7F) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. II\)](https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP) | 3:17 | 2024-12-31 |  |
 | [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 | 2022-07-19 | 2023-07-15 |
 | [Another Chance](https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa) | 7:00 | 2023-08-18 | 2024-04-13 |
 | [Applaud](https://open.spotify.com/track/04wE6fWx2qMQUoA6EFBG8l) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Applaud](https://open.spotify.com/album/0YgUgNFFGKN2fiivbh2wmn) | 6:05 | 2022-07-22 | 2022-07-29 |
@@ -258,7 +259,7 @@
 | [Nasti](https://open.spotify.com/track/0jpHuxJUJKRGZFzVYn77V8) | [Bonilla](https://open.spotify.com/artist/5MLurvYVCnXYeMM4iPFlg5) | [Nasti](https://open.spotify.com/album/53HKrr7ZCEaUoznnkTnB2M) | 3:27 | 2024-09-13 | 2024-12-14 |
 | [New Patterns](https://open.spotify.com/track/4hZ60kAX4dO1tCy2SsQGHe) | [Machine Dion](https://open.spotify.com/artist/4cr8ZFz48eK0A23u4kNU2J) | [New Patterns](https://open.spotify.com/album/1rrlvWlonpuNYpSqN2sPQ3) | 4:17 | 2024-12-06 | 2024-12-24 |
 | [Nights into Mornings \- Joseph Capriati Remix](https://open.spotify.com/track/1w1XIiV4PABYIsRuyMRFmR) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf) | [Nights into Mornings](https://open.spotify.com/album/1JEAxlq89t4yT0wIAMZqaw) | 7:13 | 2023-03-17 | 2023-03-21 |
-| [Nitty Gritty](https://open.spotify.com/track/4Em5t5GCQ5tBf88NklyfFI) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Nitty Gritty](https://open.spotify.com/album/53iJEgg9eViRaJrR3904e4) | 4:56 | 2024-10-25 |  |
+| [Nitty Gritty](https://open.spotify.com/track/4Em5t5GCQ5tBf88NklyfFI) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Nitty Gritty](https://open.spotify.com/album/53iJEgg9eViRaJrR3904e4) | 4:56 | 2024-10-25 | 2024-12-31 |
 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 | 2022-06-03 | 2023-08-26 |
 | [No Bueno \(Extended Mix\)](https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno \(Extended Mix\)](https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u) | 5:50 | 2023-09-08 | 2024-03-09 |
 | [No Me Impolta](https://open.spotify.com/track/5vG4pTCchrIsTlKAsjHuL4) | [Mene](https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8), [ACA \(YU\)](https://open.spotify.com/artist/2sBmYkeeOmp0pIU3M4fMfH) | [No Me Impolta](https://open.spotify.com/album/1X9E0MIGqDHoAPpNYRouPd) | 5:58 | 2023-03-24 | 2023-06-16 |

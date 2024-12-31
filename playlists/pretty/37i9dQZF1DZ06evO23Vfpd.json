@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 35708,
+  "num_followers": 35809,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z28/gAAAAADWGsjPZ6VWKqKt41lEAg7H",
+  "snapshot_id": "Z3CRAAAAAADVPcfKVr1TEnUX8aFUq9Vq",
   "tracks": [
     {
       "added_at": null,
@@ -202,11 +202,15 @@
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 162077,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/15EojPOh5L5oFVTk7x8Vub"
+      "duration_ms": 236020,
+      "name": "My Fault (feat. Noah Cyrus)",
+      "url": "https://open.spotify.com/track/1khLPhobojtGS0jL358B4C"
     },
     {
       "added_at": null,
@@ -270,15 +274,11 @@
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 236020,
-      "name": "My Fault (feat. Noah Cyrus)",
-      "url": "https://open.spotify.com/track/1khLPhobojtGS0jL358B4C"
+      "duration_ms": 162077,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/15EojPOh5L5oFVTk7x8Vub"
     },
     {
       "added_at": null,

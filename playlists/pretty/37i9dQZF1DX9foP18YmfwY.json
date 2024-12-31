@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Ziza Fernandes",
-  "num_followers": 340715,
+  "num_followers": 340777,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-12-20 03:01:13",
       "album": {
+        "name": "\u00d3 Maria Concebida",
+        "url": "https://open.spotify.com/album/5Mn9pjNvcGtEHxCmPCOKIJ"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 183461,
+      "name": "\u00d3 Maria Concebida",
+      "url": "https://open.spotify.com/track/6dc4GllypJnA2sZy4aZXCo"
+    },
+    {
+      "added_at": "2024-12-20 03:01:13",
+      "album": {
         "name": "Minha Voca\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 254964,
       "name": "Minha Voca\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
-    },
-    {
-      "added_at": "2024-12-20 03:01:13",
-      "album": {
-        "name": "\u00d3 Maria Concebida",
-        "url": "https://open.spotify.com/album/5Mn9pjNvcGtEHxCmPCOKIJ"
-      },
-      "artists": [
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 183461,
-      "name": "\u00d3 Maria Concebida",
-      "url": "https://open.spotify.com/track/6dc4GllypJnA2sZy4aZXCo"
     },
     {
       "added_at": "2024-12-20 03:01:13",

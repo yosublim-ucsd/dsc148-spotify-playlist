@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,318 songs - 6 day 20 hr 35 min
+4,319 songs - 6 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -599,7 +599,7 @@
 | [Carefree](https://open.spotify.com/track/2JoldRgAmfsIyCU6UxvtPT) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Carefree](https://open.spotify.com/album/44WqHprpyduzvItokpHTRM) | 2:07 | 2021-12-17 | 2022-07-01 |
 | [Careful](https://open.spotify.com/track/21JzIbHNQOpIrsLqve9M3X) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Careful](https://open.spotify.com/album/6Y7kZO9Q5XHpA71BKp0uKM) | 2:07 | 2021-02-07 | 2021-05-28 |
 | [Carla](https://open.spotify.com/track/36ZfivTaEGVH1W2VfziDf5) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [The Potion of Creativity](https://open.spotify.com/album/5EWwx31Z70eV3TDlFxfEB4) | 2:38 | 2021-07-31 | 2021-09-17 |
-| [Carnaval](https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Carnaval](https://open.spotify.com/album/6kNHBxP6rCv3DNpKc6rEFO) | 1:53 | 2022-08-01 |  |
+| [Carnaval](https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Carnaval](https://open.spotify.com/album/6kNHBxP6rCv3DNpKc6rEFO) | 1:53 | 2022-08-01 | 2024-12-31 |
 | [Carombola](https://open.spotify.com/track/0YYp2tR5zcSvj4Xng6fAhx) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Carombola](https://open.spotify.com/album/1c1FzYnyzhVO4rYzHnfLE8) | 2:32 | 2022-08-18 | 2022-11-21 |
 | [Carombola](https://open.spotify.com/track/3KSfR7RFxDzpXXgVZTpvB2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:32 | 2022-11-17 | 2023-04-07 |
 | [Carpe Diem](https://open.spotify.com/track/3i1cfiDvK3Yg34l7GESQfE) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Carpe Diem](https://open.spotify.com/album/2cSiEfiPKKAbAsCTFYgwH0) | 2:02 | 2021-07-24 | 2021-09-03 |
@@ -2177,6 +2177,7 @@
 | [Love Was When](https://open.spotify.com/track/5mqTQALCuNnIYIP9tk0EOk) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Love Was When](https://open.spotify.com/album/1zFXXoCTbBQPztXGixGDAn) | 1:37 | 2023-12-01 | 2024-01-05 |
 | [Lovebites](https://open.spotify.com/track/4Qil9aFPFjPxo4kUcL7Zym) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Lovebites](https://open.spotify.com/album/6p6lIvpJt7O9t5QNVs8A9u) | 1:33 | 2023-05-11 | 2024-06-01 |
 | [lovedrunk](https://open.spotify.com/track/34Xzv8Mm11LYddFgw6rfdl) | [Hawks](https://open.spotify.com/artist/4ZUNXYwh6gDNwd3IUHdaYw) | [lovedrunk](https://open.spotify.com/album/5ZzQcWkfG8ieikKxos3Nb1) | 1:18 | 2019-11-06 | 2020-03-25 |
+| [Lovely Places](https://open.spotify.com/track/7FdXOLMEnvyyB20WiKWWuT) | [Monkay](https://open.spotify.com/artist/6zmFDLFLjVKcJFgbF6PF6l), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Reveries](https://open.spotify.com/album/2BtiUcWF9zmRoqgPAIJ2QA) | 2:35 | 2024-12-16 |  |
 | [lovers in flux](https://open.spotify.com/track/5rtXyg3iIOKKw52ObwSDh7) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [lovers in flux](https://open.spotify.com/album/59R7HJxZdhDQuJSLQDjp9P) | 2:19 | 2022-02-11 | 2022-04-01 |
 | [lovestruck](https://open.spotify.com/track/3lmcF9RtwCkQQgMSnZCTAT) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [lovestruck](https://open.spotify.com/album/5z4UIWEiQABl6MMtVY9269) | 1:20 | 2024-04-25 | 2024-04-30 |
 | [Loving You Until the Last Breath Leaves Your Body or Mine](https://open.spotify.com/track/44BORf8shyzfw0PSlRvdDi) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Deeply Loved By Someone](https://open.spotify.com/album/5f1FPTXFtugMJ9wVtQ07cF) | 2:03 | 2020-03-10 | 2020-05-29 |

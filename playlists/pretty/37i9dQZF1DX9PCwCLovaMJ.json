@@ -1,6 +1,6 @@
 {
   "description": "Uppt\u00e4ck l\u00e5tar fr\u00e5n 2024 som du kanske har missat.",
-  "num_followers": 1273,
+  "num_followers": 1278,
   "original_name": "2024: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "F\u00f6rl\u00e5t",
-        "url": "https://open.spotify.com/album/5YtfqDGtXxZ8nJpqkEGO9y"
-      },
-      "artists": [
-        {
-          "name": "Vilhelm Nordvall",
-          "url": "https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA"
-        }
-      ],
-      "duration_ms": 166869,
-      "name": "F\u00f6rl\u00e5t",
-      "url": "https://open.spotify.com/track/4TBV7jI6skfgRRHsXtbNn6"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Oh, To Be Cool",
         "url": "https://open.spotify.com/album/76oUHJreCw9z2nr561xwVF"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 198800,
       "name": "Oh, To Be Cool",
       "url": "https://open.spotify.com/track/4AXzAOLaXRJ5fFYlX1F3QG"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "F\u00f6rl\u00e5t",
+        "url": "https://open.spotify.com/album/5YtfqDGtXxZ8nJpqkEGO9y"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Nordvall",
+          "url": "https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA"
+        }
+      ],
+      "duration_ms": 166869,
+      "name": "F\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/4TBV7jI6skfgRRHsXtbNn6"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Den stora fula kavajen",
-        "url": "https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9"
-      },
-      "artists": [
-        {
-          "name": "Huset",
-          "url": "https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Kvar h\u00e4r",
-      "url": "https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "waste",
         "url": "https://open.spotify.com/album/2TypuDjDoHxitguU3Wk4RT"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 145548,
       "name": "waste",
       "url": "https://open.spotify.com/track/7Kn3tgPBG36YPq4rDz6kWN"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Den stora fula kavajen",
+        "url": "https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9"
+      },
+      "artists": [
+        {
+          "name": "Huset",
+          "url": "https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Kvar h\u00e4r",
+      "url": "https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Silk City",
-        "url": "https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV"
+        "name": "devoted",
+        "url": "https://open.spotify.com/album/2sGo4EvvruyJSYKQNdtC59"
       },
       "artists": [
         {
-          "name": "N\u00e1poles",
-          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
+          "name": "Haley Bridge",
+          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
         }
       ],
-      "duration_ms": 195451,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt"
+      "duration_ms": 195000,
+      "name": "devoted",
+      "url": "https://open.spotify.com/track/41tN4yZSKJeVIDXQFdvex9"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "devoted",
-        "url": "https://open.spotify.com/album/2sGo4EvvruyJSYKQNdtC59"
+        "name": "Silk City",
+        "url": "https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV"
       },
       "artists": [
         {
-          "name": "Haley Bridge",
-          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+          "name": "N\u00e1poles",
+          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
         }
       ],
-      "duration_ms": 195000,
-      "name": "devoted",
-      "url": "https://open.spotify.com/track/41tN4yZSKJeVIDXQFdvex9"
+      "duration_ms": 195451,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt"
     },
     {
       "added_at": "2024-12-04 12:15:00",

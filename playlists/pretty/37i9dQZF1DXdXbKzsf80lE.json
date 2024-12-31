@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 258527,
+  "num_followers": 258643,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "Bar Das Coleguinhas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 276386,
+      "name": "Volta Vai - Ao Vivo",
+      "url": "https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "N\u00e3o Manda \u00c1udio",
         "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 194090,
       "name": "N\u00e3o Manda \u00c1udio",
       "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Bar Das Coleguinhas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 276386,
-      "name": "Volta Vai - Ao Vivo",
-      "url": "https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "T\u00e1 Faltando Eu",
-        "url": "https://open.spotify.com/album/20jNvanEVYWQOAisswocMx"
-      },
-      "artists": [
-        {
-          "name": "Luan Estilizado",
-          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
-        }
-      ],
-      "duration_ms": 148284,
-      "name": "T\u00e1 Faltando Eu",
-      "url": "https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
         "name": "Edilene",
         "url": "https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 189634,
       "name": "Edilene",
       "url": "https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "T\u00e1 Faltando Eu",
+        "url": "https://open.spotify.com/album/20jNvanEVYWQOAisswocMx"
+      },
+      "artists": [
+        {
+          "name": "Luan Estilizado",
+          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
+        }
+      ],
+      "duration_ms": 148284,
+      "name": "T\u00e1 Faltando Eu",
+      "url": "https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "Nunca Foi Amor",
+        "url": "https://open.spotify.com/album/7zcWa1hJwzlG4DIdYyN12d"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 164416,
+      "name": "Nunca Foi Amor",
+      "url": "https://open.spotify.com/track/5vVKicXL5lVAUF4zcvscK6"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "Isca",
         "url": "https://open.spotify.com/album/67yOV9EyBXfw1kH5xi8zrv"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 162967,
       "name": "Isca",
       "url": "https://open.spotify.com/track/5zdIuIo9uQ2E8ly4rypcRi"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Nunca Foi Amor",
-        "url": "https://open.spotify.com/album/7zcWa1hJwzlG4DIdYyN12d"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 164416,
-      "name": "Nunca Foi Amor",
-      "url": "https://open.spotify.com/track/5vVKicXL5lVAUF4zcvscK6"
     },
     {
       "added_at": "2024-07-08 18:11:31",

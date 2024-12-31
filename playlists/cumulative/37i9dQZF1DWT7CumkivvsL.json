@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Con Los Nudillos",
+        "url": "https://open.spotify.com/album/3dCNCYpXb0oKR7op1iHKs8"
+      },
+      "artists": [
+        {
+          "name": "Sole\u00e1 Morente",
+          "url": "https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176922,
+      "name": "Con Los Nudillos",
+      "url": "https://open.spotify.com/track/7yrbIk2guPk6fGoy9oOD22"
+    },
+    {
+      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },

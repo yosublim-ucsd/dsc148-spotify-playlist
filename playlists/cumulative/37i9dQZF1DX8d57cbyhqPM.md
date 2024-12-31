@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Tonton Ferre Gola
 
-513 songs - 1 day 5 hr 43 min
+514 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Kin\-Brazza](https://open.spotify.com/track/58v78PuisC6mzn7SUnEAjw) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Bill Clinton](https://open.spotify.com/artist/1Fi0mPF1fjcFrIhm6yhln9), [Tidiane Mario](https://open.spotify.com/artist/7BwDIRZ2sBBVDSrTDQ9Wq4), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [ART](https://open.spotify.com/album/2UGjMioVdRsPg1lvm6dQnW) | 3:36 | 2022-08-26 | 2023-10-14 |
 | [KISAKATA](https://open.spotify.com/track/78Y53jzYNJ8nMU4dVCuapZ) | [Jay Six Abdalah](https://open.spotify.com/artist/0g2qxTx5DMeWH3jQmMtq78), [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [KISAKATA](https://open.spotify.com/album/4Pl8DaJ63mB0SPUerb3AGd) | 3:55 | 2024-07-05 | 2024-12-21 |
 | [Kita](https://open.spotify.com/track/0I4zmOt8SOMvMcJCB4YaIO) | [Djako](https://open.spotify.com/artist/6hJcwkxbYVPFDRZYFDuJv9), [Dé Panama](https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca), [Gettss](https://open.spotify.com/artist/4bkTZCzXEVVHQ1cLmaYd1e) | [Kita](https://open.spotify.com/album/1KxMpI9xFDsrzQ3AXq9Mge) | 3:36 | 2022-08-05 | 2023-03-18 |
+| [Kitisa Motema](https://open.spotify.com/track/1S79olu5FLVCOnbqiw1Let) | [Leplug Music](https://open.spotify.com/artist/1Oo6qac3YXE9nfQHDdehDr), [Kojak](https://open.spotify.com/artist/6F1JWIDx9qYt5NGAQIF1B4) | [Kitisa Motema](https://open.spotify.com/album/4k6xtEfGRAH9y86l0nBj4u) | 4:11 | 2024-12-30 |  |
 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-11-22 |  |
 | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/track/77HDy7Ns5VsRYttIbaTmtY) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/album/2Jis4aVlVx87Xc6Lmd3G1U) | 2:27 | 2022-07-15 | 2023-03-25 |
 | [Kulule](https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Kulule](https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa) | 2:37 | 2024-04-19 | 2024-06-22 |
@@ -275,7 +276,7 @@
 | [L’Afrique en avant](https://open.spotify.com/track/0P0O7KW55TY9Fz6bRRtdr5) | [Barka](https://open.spotify.com/artist/4GOGeatIVTAn3GVsK3yKdc) | [L’Afrique en avant](https://open.spotify.com/album/0cQj38ecACSGaI669TLY1W) | 3:31 | 2023-04-28 | 2023-09-02 |
 | [L’envers du décor](https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [L’envers du décor](https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP) | 2:41 | 2024-10-11 | 2024-11-23 |
 | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:44 | 2024-09-06 | 2024-12-21 |
-| [Ma belleu](https://open.spotify.com/track/48RXBAx41M5dZpRGA7lGQS) | [5 car ecco](https://open.spotify.com/artist/70tsfWFioo72yfJQ4wkk7N), [Cris NG](https://open.spotify.com/artist/2LzADc0SKnGJdz1xfV8iND) | [Ma belleu](https://open.spotify.com/album/3r9NYssLc1CD5a5db9BeM9) | 2:23 | 2024-12-20 |  |
+| [Ma belleu](https://open.spotify.com/track/48RXBAx41M5dZpRGA7lGQS) | [5 car ecco](https://open.spotify.com/artist/70tsfWFioo72yfJQ4wkk7N), [Cris NG](https://open.spotify.com/artist/2LzADc0SKnGJdz1xfV8iND) | [Ma belleu](https://open.spotify.com/album/3r9NYssLc1CD5a5db9BeM9) | 2:23 | 2024-12-20 | 2024-12-31 |
 | [MA MONEY \(feat\. Jungeli, Harley & Mayorkun\)](https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [MA MONEY \(feat\. Jungeli, Harley & Mayorkun\)](https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU) | 3:01 | 2024-05-10 |  |
 | [Maboko Milayi](https://open.spotify.com/track/3oa2Af68PY4x3tvNaqhptZ) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Maboko Milayi](https://open.spotify.com/album/5BwHaXF0mtcqxBjSHyIwvw) | 4:04 | 2023-01-06 | 2023-11-11 |
 | [Made in Congo](https://open.spotify.com/track/7soc4QPUnlZYfMgisPe6Cg) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Made in Congo](https://open.spotify.com/album/4beChSKY6Kus1FUWc5Iazj) | 2:14 | 2023-12-01 | 2024-01-27 |

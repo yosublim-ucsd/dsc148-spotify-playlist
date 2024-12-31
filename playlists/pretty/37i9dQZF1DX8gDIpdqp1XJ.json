@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock, neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 875359,
+  "num_followers": 875519,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvK+AAAAACuXs3pGAXNHEqfJdA2/Jt9",
+  "snapshot_id": "Z3K9owAAAAD616SG610H3BJ72ZByDHnK",
   "tracks": [
     {
       "added_at": "2024-08-02 04:00:00",
@@ -119,6 +119,22 @@
       "duration_ms": 208129,
       "name": "kazekage",
       "url": "https://open.spotify.com/track/6tx0CNndKStm6UqbMpqFA7"
+    },
+    {
+      "added_at": "2024-12-30 15:34:59",
+      "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/3geAstVCMtar1HrVVOvzSn"
+      },
+      "artists": [
+        {
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Nothing Lasts Forever",
+      "url": "https://open.spotify.com/track/4hCdrbscKtHN0nUPYyue5W"
     },
     {
       "added_at": "2024-10-07 22:28:29",
@@ -1675,22 +1691,6 @@
       "duration_ms": 298334,
       "name": "Nothing in the Dark",
       "url": "https://open.spotify.com/track/7ohaAMlkJCeTLTnOhxdeR1"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/7E9tuLXiihUprUwNjpYqbT"
-      },
-      "artists": [
-        {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/4jHDe4YjUYb68wgTWe37Fw"
     }
   ],
   "unique_name": "Modern Psychedelia",

@@ -3763,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "Castillos De Cristal",
+        "url": "https://open.spotify.com/album/1pf6pJVfH0FZZtphKRqQMP"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278133,
+      "name": "Aun Lo Amo",
+      "url": "https://open.spotify.com/track/6rQiv59kQYiG8LqaSYDfWz"
+    },
+    {
+      "album": {
         "name": "Dinero F\u00e1cil",
         "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
       },
@@ -11514,7 +11532,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 268053,
       "name": "Dejame Volver Contigo",
       "url": "https://open.spotify.com/track/7lBTazdXYEZT80sPDtSW8D"
@@ -13300,7 +13318,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 263320,
       "name": "D\u00e9jame Volver Contigo",
       "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
@@ -31410,7 +31428,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 284466,
       "name": "No One Noticed (Extended Spanish)",
       "url": "https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze"
@@ -33240,7 +33258,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 201672,
       "name": "OTROS LUGARES",
       "url": "https://open.spotify.com/track/2UmxXelTCIFuaUF8TGuaJj"
@@ -35728,6 +35746,24 @@
       "duration_ms": 149250,
       "name": "Por Verte Feliz",
       "url": "https://open.spotify.com/track/6dI0iFnBCj9YkcWgXeoRkx"
+    },
+    {
+      "album": {
+        "name": "Me Gusta a Morir",
+        "url": "https://open.spotify.com/album/5pFYzEMynkMmJ8BFnFb5Vk"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291586,
+      "name": "Porque Me Gusta a Morir",
+      "url": "https://open.spotify.com/track/176c9PeEydG3SsDuFNmuOl"
     },
     {
       "album": {
@@ -46147,6 +46183,24 @@
     },
     {
       "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (CD1)",
+        "url": "https://open.spotify.com/album/04YABmDMSBXSYQuFitSdUJ"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Tu Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/1sxwSsqFOhrmc1zl6iJyNn"
+    },
+    {
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/1yTICkCGrAN8nQO0JGuZoC"
       },
@@ -46158,7 +46212,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 221053,
       "name": "Tu Mu\u00f1eca",
       "url": "https://open.spotify.com/track/3gcFetUCRtOIvDb6kQmZYz"

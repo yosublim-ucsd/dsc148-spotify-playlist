@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 141785,
+  "num_followers": 141894,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
+        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
+      },
+      "artists": [
+        {
+          "name": "Rafael Escalona",
+          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
+        }
+      ],
+      "duration_ms": 248226,
+      "name": "Jaime Molina",
+      "url": "https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Echao Pa Lante",
         "url": "https://open.spotify.com/album/4IogOvGu1rhSNDke7MzrMG"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 251715,
       "name": "Chillar A Otra Parte",
       "url": "https://open.spotify.com/track/4v4E5uXzoxlDrO7XSkH5u2"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
-        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
-      },
-      "artists": [
-        {
-          "name": "Rafael Escalona",
-          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Jaime Molina",
-      "url": "https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 304560,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8"
+      "duration_ms": 310306,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj"
     },
     {
       "added_at": "2024-03-28 01:45:52",

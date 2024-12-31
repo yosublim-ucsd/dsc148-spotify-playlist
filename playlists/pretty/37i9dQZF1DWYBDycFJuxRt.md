@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Yo\-Sea \*👉 <a href="https://spice.eplus.jp/articles/334362">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,216 likes - 72 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,207 likes - 72 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 2 | [Wonderland](https://open.spotify.com/track/5rVlWkobkBjexEFI4DunQs) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Wonderland](https://open.spotify.com/album/19l77oRyewdkvqIqt0vSoY) | 3:35 |
 | 3 | [DALMATIAN](https://open.spotify.com/track/7qDHY3ZDeKvgPMVZX1whLK) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DALMATIAN](https://open.spotify.com/album/736N8pHiehLrYOfJMSshMZ) | 4:05 |
 | 4 | [やめるなら今だ](https://open.spotify.com/track/24moPNcVQ1zpt4vCMIi7ZQ) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [やめるなら今だ](https://open.spotify.com/album/1FxYYHAFvn8HxkUJYDTeTi) | 4:21 |
-| 5 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
+| 5 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
 | 6 | [SWITCH](https://open.spotify.com/track/4rJxdebpjLEF8jEPjsa0HJ) | [Ryosuke Yamada](https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q) | [SWITCH](https://open.spotify.com/album/4E8HfqZt3ZK26fwiLjOO6M) | 3:18 |
 | 7 | [Too late](https://open.spotify.com/track/0fLnooVYv8ARUfWoabspwZ) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [Too late](https://open.spotify.com/album/5BWePKExOj5xSraSLXcL7A) | 3:55 |
 | 8 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 |

@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb">salv the dog</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-123 songs - 6 hr 35 min
+125 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [four chord traumadump](https://open.spotify.com/track/7qbcORQ1igl8ZOoQdc5vaO) | [autumnrain](https://open.spotify.com/artist/5qnLVjsFChRxW90zCVod36) | [exit to paradise](https://open.spotify.com/album/7IWHce5KhIjxxl155ynocn) | 2:39 | 2024-08-04 | 2024-12-29 |
 | [galaxy](https://open.spotify.com/track/0eCHafxWdcpnivREAbWlbc) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X) | [galaxy](https://open.spotify.com/album/7BBL1R0SvKo026lLHx2Ssl) | 2:16 | 2024-03-02 |  |
 | [gen3mlp](https://open.spotify.com/track/2pq1qNcFLdWKas7DLNsOMF) | [lulamoon](https://open.spotify.com/artist/0DAelTYQOImud40A6DFnYR), [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G) | [opal](https://open.spotify.com/album/34Zr3RTwjMsQcTAedwWwpg) | 3:16 | 2024-07-12 |  |
+| [Goodnight](https://open.spotify.com/track/3iwaBue4azgT6Swq0oma7O) | [Valerie Hell](https://open.spotify.com/artist/6Fagp3NI73E9OzpUcpKyM5) | [Fight Malice With Love](https://open.spotify.com/album/2LcUg1gHYiH7YgYtbivFmh) | 3:31 | 2024-12-30 |  |
 | [Hockey](https://open.spotify.com/track/6b39sywjsmS8Zo7g4PMQeM) | [Clarence Kelly](https://open.spotify.com/artist/63ecaIQEQ1kWQbi6ZKVYiB) | [Hockey](https://open.spotify.com/album/6rJcckvCabsY3tXwAyDL4w) | 4:17 | 2023-04-24 |  |
 | [homethingy](https://open.spotify.com/track/1QEQSzodHnFDOEho4sL4vz) | [doghead](https://open.spotify.com/artist/7dqU6xZWbi73GOF5MEIXCz) | [the wolf whets its teeth](https://open.spotify.com/album/2ANF65JzBkD7c0sjabccqx) | 3:29 | 2024-05-19 |  |
 | [how it feels to fly](https://open.spotify.com/track/7a4kJMczOlvculn80pLRrP) | [Sarajevo Noise Beat](https://open.spotify.com/artist/5Cw1pwfT5W9pvGyO30ojCf), [What The PUP!](https://open.spotify.com/artist/1Uti1MlTR0fRL0u0vI6zl9), [lillybug](https://open.spotify.com/artist/4E2TcTjE4vNGZ8eNtMzQ7U) | [how it feels to fly](https://open.spotify.com/album/7cnO2Hyzr9Kt8z1oUtgtTD) | 4:29 | 2024-10-11 |  |
@@ -111,6 +112,7 @@
 | [Rituals](https://open.spotify.com/track/4LK7ROH6WX041jScTKtrHD) | [Dog Weekend](https://open.spotify.com/artist/1nqT1EKY1ao5WCIsIF1gh5) | [Rituals](https://open.spotify.com/album/2DKvQNJwWnsbDA3KaWpeWp) | 4:35 | 2024-04-29 |  |
 | [rosetta](https://open.spotify.com/track/6uAlsQTNcGd233MIhYj5GN) | [kidekii](https://open.spotify.com/artist/1dlsDMxOGNZVITw3tRV7uD) | [vi](https://open.spotify.com/album/0s4RNr74x4Hi7CKtbgLXBl) | 1:10 | 2024-12-10 |  |
 | [Sheep Theme](https://open.spotify.com/track/4BeOHtksAeQvGcIm5zPRzH) | [samlrc](https://open.spotify.com/artist/68283IIASCzcDv3Q4BSV1L) | [A Lonely Sinner](https://open.spotify.com/album/0G92BFcckQ8LKXhxmEvLat) | 3:05 | 2024-03-20 |  |
+| [Should I Consider](https://open.spotify.com/track/10tHXodePBcZIN2St0cMlT) | [Taitoki](https://open.spotify.com/artist/0pER9ND48xKGZvGPZKEobC) | [Sapphic Ends](https://open.spotify.com/album/5sUCs4A0qvZCimXphQTFzg) | 2:24 | 2024-12-30 |  |
 | [silly dancers & necromancers](https://open.spotify.com/track/3j98I7tc7XzE4nOeQwbYuB) | [Starri](https://open.spotify.com/artist/5bpxCCdYWV0fZxJhrZEye5) | [B4EVER](https://open.spotify.com/album/2C1hIryExseP7EjpqHIh08) | 2:06 | 2024-12-28 |  |
 | [SLOWDANCE](https://open.spotify.com/track/1uMf1CtoOAetmkoDe5uRXP) | [Shinemachine](https://open.spotify.com/artist/54UmANd8X3X3hrK78sdGaD) | [Shinemachine](https://open.spotify.com/album/4MvnA2bRmpUxwzsgpaUrlA) | 4:01 | 2024-10-07 |  |
 | [Snow](https://open.spotify.com/track/0511sFKHLfWzdwcfMhbDIJ) | [Bałtyk](https://open.spotify.com/artist/6DvaD5SDKpAtta09armsv9) | [Hope You Can Hear Me Now](https://open.spotify.com/album/4eHctZOtL6X6DixAKYvGfM) | 4:36 | 2024-06-21 |  |

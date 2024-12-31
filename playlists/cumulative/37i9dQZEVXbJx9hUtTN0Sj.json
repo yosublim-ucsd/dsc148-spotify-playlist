@@ -3522,7 +3522,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 134097,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
@@ -5480,7 +5480,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 140273,
       "name": "Drink in Moderation",
       "url": "https://open.spotify.com/track/13vW2uIXG0H3IpL4faoPNZ"
@@ -9838,7 +9838,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 102875,
       "name": "Ils se demandent",
       "url": "https://open.spotify.com/track/4Bqa1dZPJfHKRfUVRLsSW1"
@@ -11560,7 +11560,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 159577,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
@@ -12931,6 +12931,24 @@
     },
     {
       "album": {
+        "name": "MAZKO",
+        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
+      },
+      "artists": [
+        {
+          "name": "S4nri0",
+          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75692,
+      "name": "MAZKO",
+      "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
+    },
+    {
+      "album": {
         "name": "Mea Culpa (Ah! \u00c7a ira!)",
         "url": "https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT"
       },
@@ -13212,7 +13230,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 146677,
       "name": "Miaw Miaw Miaw Miaw",
       "url": "https://open.spotify.com/track/6ocVJtHRpJwt1vZcM40TMz"
@@ -13978,7 +13996,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 203015,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC"
@@ -23024,6 +23042,24 @@
       "duration_ms": 123000,
       "name": "\u0417\u0410\u0412\u041e\u0414",
       "url": "https://open.spotify.com/track/0JCG4FU6reipiFnJ0sGloH"
+    },
+    {
+      "album": {
+        "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
+        "url": "https://open.spotify.com/album/0zgnbu4OjPQ0hnou373oX2"
+      },
+      "artists": [
+        {
+          "name": "Chub1na.Ge",
+          "url": "https://open.spotify.com/artist/0rvNMvAdO6Kcd23ms4RmBC"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90604,
+      "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
+      "url": "https://open.spotify.com/track/0s6vEUEL2Ij2tXXGLvgmLi"
     },
     {
       "album": {

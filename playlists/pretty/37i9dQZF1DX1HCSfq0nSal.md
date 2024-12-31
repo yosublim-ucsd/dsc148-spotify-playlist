@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,716 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,739 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [QUÉ QUIERES DE MI? \(feat\. Eladio Carrion\)](https://open.spotify.com/track/6w1eQ7AxYB8Y6YQGJR9jBT) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 4:14 |
-| 2 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 |
-| 3 | [Gym Girl](https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:42 |
-| 4 | [Contacto](https://open.spotify.com/track/7omr30ct5eLmTVhYwLtuM8) | [C Marí](https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps), [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh) | [Contacto](https://open.spotify.com/album/4PHBAC9jNy6iySQlT5Aqfp) | 2:56 |
-| 5 | [Quickie](https://open.spotify.com/track/1KBVkz8PGjKlMwqCmuKSGN) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quickie](https://open.spotify.com/album/3AKEIh80EKaMB0rswBiDU1) | 2:03 |
+| 1 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 |
+| 2 | [Gym Girl](https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:42 |
+| 3 | [Contacto](https://open.spotify.com/track/7omr30ct5eLmTVhYwLtuM8) | [C Marí](https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps), [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh) | [Contacto](https://open.spotify.com/album/4PHBAC9jNy6iySQlT5Aqfp) | 2:56 |
+| 4 | [Quickie](https://open.spotify.com/track/1KBVkz8PGjKlMwqCmuKSGN) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quickie](https://open.spotify.com/album/3AKEIh80EKaMB0rswBiDU1) | 2:03 |
+| 5 | [QUÉ QUIERES DE MI? \(feat\. Eladio Carrion\)](https://open.spotify.com/track/6w1eQ7AxYB8Y6YQGJR9jBT) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 4:14 |
 | 6 | [MIRAME REMIX](https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [MIRAME REMIX](https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK) | 3:58 |
 | 7 | [La Oportunidad](https://open.spotify.com/track/3WvVLW5vG7A3rFNHvbb4pt) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [La Oportunidad](https://open.spotify.com/album/0t3A0rQ7OgJvouak54Aa0K) | 4:15 |
 | 8 | [LOS DEPURO \(feat\. L\-Gante\)](https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 3:10 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 39 | [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 |
 | 40 | [MONI](https://open.spotify.com/track/2kQovjtNZF1oSARczvmhaV) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [LOS 9 DE FERXXO Y SKY ROMPIENDO](https://open.spotify.com/album/5L3PAo50R75rOZLlEvokZZ) | 2:27 |
 
-Snapshot ID: `Z2uDlgAAAAAKRix7n3KTn2CqS4BR+erI`
+Snapshot ID: `Z3LTDQAAAADRzE3xHKRjLhtzVTG/Hbr0`

@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 464988,
+  "num_followers": 465051,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Ao Vivo No Parque Madureira (Deluxe)",
+        "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "O Show Tem Que Continuar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 244826,
       "name": "Eu tamb\u00e9m quero beijar",
       "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Ao Vivo No Parque Madureira (Deluxe)",
-        "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "O Show Tem Que Continuar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -779,18 +779,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Fruto Proibido",
-        "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
+        "name": "O Canto da Cidade",
+        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
         }
       ],
-      "duration_ms": 338933,
-      "name": "Ovelha Negra",
-      "url": "https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI"
+      "duration_ms": 204093,
+      "name": "O Canto da Cidade",
+      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -811,18 +811,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "O Canto da Cidade",
-        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
+        "name": "Fruto Proibido",
+        "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
       },
       "artists": [
         {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
         }
       ],
-      "duration_ms": 204093,
-      "name": "O Canto da Cidade",
-      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
+      "duration_ms": 338933,
+      "name": "Ovelha Negra",
+      "url": "https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "111 1",
-        "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "Amor de Que",
-      "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Eu Sou O Samba",
         "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 155466,
       "name": "Foi Um Rio Que Passou Em Minha Vida",
       "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "111 1",
+        "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Amor de Que",
+      "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
     },
     {
       "added_at": "2021-11-26 03:18:52",

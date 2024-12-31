@@ -2,9 +2,9 @@
 
 ### [Douces Vibes](https://open.spotify.com/playlist/37i9dQZF1DX8LIZNmf5qj3)
 
-> Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : kwn
+> Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : SZA
 
-489 songs - 1 day 2 hr 37 min
+490 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Anything I Can Do](https://open.spotify.com/track/6Q4f0uA2xOfsUAIr3PVsLT) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Anything I Can Do](https://open.spotify.com/album/08iTGcRERloSYCNf6X7ejn) | 3:30 | 2024-11-21 | 2024-12-13 |
 | [Apply Pressure](https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 3:14 | 2022-12-28 | 2023-03-03 |
 | [Astrology Joint](https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Astrology Joint](https://open.spotify.com/album/22JbTK2Ol0UpTjPnW8rlds) | 2:32 | 2022-12-22 | 2023-04-07 |
-| [ASTRØNNE'S INTERLUDE \(feat\. ASTRØNNE\)](https://open.spotify.com/track/2IKrV6qbX6i8vzjhYqIbIO) | [Skuna](https://open.spotify.com/artist/0Su00YAdlLw2Aetn7RZLJj), [Fencyy](https://open.spotify.com/artist/4YjYNFa9MFvUthyS1uC5Jw), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [DBHZ](https://open.spotify.com/album/0KZvqSlLHthn3KroPEtob4) | 1:23 | 2024-11-07 |  |
+| [ASTRØNNE'S INTERLUDE \(feat\. ASTRØNNE\)](https://open.spotify.com/track/2IKrV6qbX6i8vzjhYqIbIO) | [Skuna](https://open.spotify.com/artist/0Su00YAdlLw2Aetn7RZLJj), [Fencyy](https://open.spotify.com/artist/4YjYNFa9MFvUthyS1uC5Jw), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [DBHZ](https://open.spotify.com/album/0KZvqSlLHthn3KroPEtob4) | 1:23 | 2024-11-07 | 2024-12-31 |
 | [Attention](https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 3:36 | 2024-04-11 | 2024-08-09 |
 | [Back Home](https://open.spotify.com/track/0b2tdRyNbVLsT9OdFBLIUU) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [Back Home](https://open.spotify.com/album/2PTjpYNEvLcpbmMEJiiiXi) | 3:11 | 2024-06-27 | 2024-09-20 |
 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 | 2023-07-13 | 2023-09-08 |
@@ -91,6 +91,7 @@
 | [Dead Weight](https://open.spotify.com/track/3kxjebVYNFCX59IMLyu30w) | [Kaleia](https://open.spotify.com/artist/2F2CiwEgXu1t8kgQKnCTMr) | [Dead Weight](https://open.spotify.com/album/7cCoE3QHapjimHIx5EDTmH) | 3:08 | 2024-07-04 | 2024-10-04 |
 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 | 2023-05-11 | 2023-07-28 |
 | [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 | 2023-03-02 | 2023-05-20 |
+| [Diamond Boy \(DTM\)](https://open.spotify.com/track/0SCIwbS0Q4etwJmDyNjHaQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:37 | 2024-12-30 |  |
 | [Diamonds 'n' Pearls](https://open.spotify.com/track/22HvnAXszGc2IlIEkdNd76) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Diamonds 'n' Pearls](https://open.spotify.com/album/0UOWxAhlrrDokg0r3mRCYn) | 3:13 | 2023-10-12 | 2024-07-05 |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-05-16 | 2024-10-18 |
 | [Don't Buy Me Roses](https://open.spotify.com/track/0693AhSpjQUnspV8uObIfp) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Don't Buy Me Roses](https://open.spotify.com/album/17vJ6f6m5ZKsCJ9mPvphjD) | 3:24 | 2023-09-21 | 2023-11-10 |

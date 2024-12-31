@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Laundry Day
 
-2,017 songs - 4 day 10 hr 43 min
+2,018 songs - 4 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1263,6 +1263,7 @@
 | [Night Garden \(feat\. Kenny Beats & Bakar\)](https://open.spotify.com/track/1aFL6FVclpfPafOGekKkna) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Night Garden \(feat\. Kenny Beats & Bakar\)](https://open.spotify.com/album/3mUlJParu9HRpG7KH4QxHZ) | 3:41 | 2021-01-21 | 2021-10-14 |
 | [Night Vision](https://open.spotify.com/track/1vZ0a1HcvtsiJf7Erf6q3h) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Night Vision](https://open.spotify.com/album/1pCV7Zbvq3eQn7Jotv7fTb) | 1:58 | 2022-04-15 | 2022-04-21 |
 | [Nightmare](https://open.spotify.com/track/1YRyK49iTvjf4EO5Vt0ltx) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Nightmare](https://open.spotify.com/album/2zSskotRy3GLQUthCMI25s) | 3:20 | 2021-05-07 | 2021-05-26 |
+| [Nights That We Needed](https://open.spotify.com/track/42Uc9j8SJ2sgPHAf7ZS9hg) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Nights That We Needed](https://open.spotify.com/album/5DW7l8OLz9LKfHeNhKCjnF) | 3:35 | 2024-12-06 |  |
 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 | 2020-10-20 | 2022-04-13 |
 | [Nisemono](https://open.spotify.com/track/2pKk2VK9uSKfAq9rtDPJef) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Nisemono](https://open.spotify.com/album/7taDp3ENsj9voOAwVQ36PQ) | 3:01 | 2022-09-09 | 2022-09-24 |
 | [nite swim](https://open.spotify.com/track/5wgfurzC3dzEnnmIIlEzbI) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [nite swim](https://open.spotify.com/album/77MsCyezFcOXDwAutRpzQx) | 3:19 | 2021-02-23 | 2021-05-28 |
@@ -1913,7 +1914,7 @@
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2021-03-14 | 2021-10-16 |
 | [Watching You Disappear](https://open.spotify.com/track/5QcZdMoxsvfXkK0TnlF0hn) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Watching You Disappear](https://open.spotify.com/album/00GvccCzssnxgeitqcLY2H) | 3:15 | 2020-10-13\* | 2020-11-20 |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2023-09-29 | 2023-12-09 |
-| [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 |  |
+| [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 | 2024-12-31 |
 | [Waves](https://open.spotify.com/track/6dH6NIftdswHruAjD80ZHB) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Waves](https://open.spotify.com/album/03GjkxYFYALwT61skyiFjW) | 2:13 | 2020-10-13\* | 2021-06-03 |
 | [Way Way Back](https://open.spotify.com/track/2hX7tp2n5rcObTtuhjo6cM) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun \(deluxe\)](https://open.spotify.com/album/6fhydReXt41QBLPRiompN5) | 3:57 | 2022-02-25 | 2022-07-29 |
 | [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-07-21 | 2024-03-30 |

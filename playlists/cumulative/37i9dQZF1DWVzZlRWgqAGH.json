@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Moses Yoofee Trio",
+  "description": "Music for your soul. Cover: Olivia Dean",
   "name": "BUTTER",
   "tracks": [
     {
@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 173453,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
@@ -5268,7 +5268,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 235684,
       "name": "Colourblind (feat. Loyle Carner)",
       "url": "https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM"
@@ -5792,7 +5792,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 154285,
       "name": "Cry Me a River",
       "url": "https://open.spotify.com/track/1SNsZq2WQh2N4Qkagm3L01"
@@ -8062,6 +8062,24 @@
       "duration_ms": 258461,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/1nFUavkdtXHVMcxONRhLEM"
+    },
+    {
+      "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
       "album": {
@@ -15912,7 +15930,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 173341,
       "name": "Memory Of You",
       "url": "https://open.spotify.com/track/5elx3cOVhheytOQ8Qp0act"
@@ -19791,6 +19809,24 @@
     },
     {
       "album": {
+        "name": "Acts of Faith",
+        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
+    },
+    {
+      "album": {
         "name": "PRAYER",
         "url": "https://open.spotify.com/album/6ZdnNQMFFLoblwe92YJi3e"
       },
@@ -21376,6 +21412,32 @@
       "duration_ms": 199090,
       "name": "Satori",
       "url": "https://open.spotify.com/track/4K97CSxfz64JJwMvrEBezT"
+    },
+    {
+      "album": {
+        "name": "Saturday Sinner",
+        "url": "https://open.spotify.com/album/0bGPRxx5hzLzZeN8S4QHBu"
+      },
+      "artists": [
+        {
+          "name": "Naughty Professor",
+          "url": "https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "Jelly Joseph",
+          "url": "https://open.spotify.com/artist/5LZl4VR0S5S5LQMesiaJpb"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423146,
+      "name": "Saturday Sinner",
+      "url": "https://open.spotify.com/track/1tevwX5chuGg3QL2UPSEG7"
     },
     {
       "album": {
@@ -24228,6 +24290,24 @@
       "duration_ms": 171608,
       "name": "Sweet Distraction",
       "url": "https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml"
+    },
+    {
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/4bs6NbBXvLH7wWDYSvU5Xn"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223522,
+      "name": "Sweet Little Rainbows",
+      "url": "https://open.spotify.com/track/0N2Z3dnX6uiqK8kOgSOAbe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Zeds Dead
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,914 likes - 152 songs - 7 hr 57 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,917 likes - 152 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

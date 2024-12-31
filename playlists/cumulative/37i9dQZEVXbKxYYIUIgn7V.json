@@ -1633,6 +1633,28 @@
     },
     {
       "album": {
+        "name": "Auffe aufn Berg",
+        "url": "https://open.spotify.com/album/1MsuuxBavwmlg23A2KapAr"
+      },
+      "artists": [
+        {
+          "name": "J\u00e4germeister DJ Alex",
+          "url": "https://open.spotify.com/artist/1Ob4fbwSOaJu4rbx79jJMk"
+        },
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231424,
+      "name": "Auffe aufn Berg",
+      "url": "https://open.spotify.com/track/4jNkEyCYTfCavAOHgtBsCz"
+    },
+    {
+      "album": {
         "name": "aufnimmawiederschaun",
         "url": "https://open.spotify.com/album/2sdCER4URlcK5bAAqlM3wd"
       },
@@ -4104,7 +4126,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 131250,
       "name": "Chill Guy Freestyle",
       "url": "https://open.spotify.com/track/54okB8LVgim8FftzpuUgXV"
@@ -5672,7 +5694,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 135428,
       "name": "Dornwald",
       "url": "https://open.spotify.com/track/3hy2eKCa7q9hOOuelDO0yG"
@@ -8048,7 +8070,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 120000,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/55ozEBaWgAg2snBPo1sP8I"
@@ -8732,7 +8754,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 135746,
       "name": "Head n' Shoulders, pt.II",
       "url": "https://open.spotify.com/track/7c5ne5Au1cXjV8YJY9spqa"
@@ -13974,7 +13996,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 144466,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/0C3D5rWlsc3u3ElG5ev0xS"
@@ -14386,7 +14408,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 139560,
       "name": "Merry was wei\u00df ich schon",
       "url": "https://open.spotify.com/track/7xyMVJd8WnVXS10PDrvIck"
@@ -18332,7 +18354,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 245040,
       "name": "River",
       "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
@@ -19476,7 +19498,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 201510,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/28DPhVcDjE7MoBAfECyyUI"
@@ -23230,6 +23252,24 @@
       "duration_ms": 120000,
       "name": "Vorbei",
       "url": "https://open.spotify.com/track/5F9S9zIvgGz4cbD1eA0IhE"
+    },
+    {
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/6y14O5EK4bjAv08QETxoqQ"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/2eAU0Oij4NkduxThjzhCI6"
     },
     {
       "album": {

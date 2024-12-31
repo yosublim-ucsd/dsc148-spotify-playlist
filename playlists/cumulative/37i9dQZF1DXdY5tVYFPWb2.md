@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-870 songs - 2 day 9 hr 20 min
+871 songs - 2 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,7 +548,7 @@
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-09-27 | 2023-05-13 |
 | [U.F.O](https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0) | 3:50 | 2022-09-27 | 2022-09-29 |
 | [U.F.O](https://open.spotify.com/track/19EJa9xsAVtkpsTnynNQpN) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 3:50 | 2023-05-30 | 2023-11-11 |
-| [Ubu na feeling](https://open.spotify.com/track/6Nr77MtMKNq4TlRtj1YBaC) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Ubu na feeling](https://open.spotify.com/album/72SGFZC2fUn17q40h6OfuJ) | 4:38 | 2024-09-25 |  |
+| [Ubu na feeling](https://open.spotify.com/track/6Nr77MtMKNq4TlRtj1YBaC) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Ubu na feeling](https://open.spotify.com/album/72SGFZC2fUn17q40h6OfuJ) | 4:38 | 2024-09-25 | 2024-12-31 |
 | [UMA](https://open.spotify.com/track/2vJ8n0NKqQamRSKwDJodZP) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [UMA](https://open.spotify.com/album/3SCVZks7F9EodJEy0BvJBe) | 3:48 | 2023-09-14 | 2023-09-20 |
 | [UNDR BLUE](https://open.spotify.com/track/3WlVSWdPofy7KJWXHDx0A6) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [UNDR BLUE](https://open.spotify.com/album/7o5PEy2vFqEbfN6UhV1yVj) | 3:06 | 2022-08-09 | 2022-08-17 |
 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 | 2024-01-23 |  |
@@ -643,6 +643,7 @@
 | [わたしのLife](https://open.spotify.com/track/3aFQiQbnIL9upNOOKc54tN) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [わたしのLife](https://open.spotify.com/album/6OkOQdvpVydDZ6YSgkrNAj) | 3:25 | 2022-05-24 | 2022-07-29 |
 | [アイイロ](https://open.spotify.com/track/4ETLRWzpZQh5VAq2Kz5WM2) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [アイイロ](https://open.spotify.com/album/4zsFlAgccbkAxc1eCYgFC0) | 3:39 | 2023-11-10 | 2023-11-18 |
 | [アクアマリンのままでいて](https://open.spotify.com/track/2focTz9H7oUP8oV9aCdJbE) | [一十三十一](https://open.spotify.com/artist/5ptoBKPrq0IyqJIwGIqeoj) | [TWILIGHT TIME](https://open.spotify.com/album/0WNOuQ9sN0J3lV3pkzrJMu) | 4:44 | 2022-06-14 | 2022-06-22 |
+| [アポロ](https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [RELOADING CITY](https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI) | 4:24 | 2024-09-25 |  |
 | [イチグラム](https://open.spotify.com/track/1j5tPvuwXJ9hPVlJNiBBxS) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [イチグラム](https://open.spotify.com/album/1dRegPKacLDyOBiVJqCT0r) | 4:31 | 2022-06-14 | 2022-06-22 |
 | [インコンプリート](https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [インコンプリート](https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj) | 2:05 | 2023-07-18 | 2023-09-03 |
 | [インスピレーション](https://open.spotify.com/track/6f7a7DrnzcIxIpLQobEhgw) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [ラブエナジーモチベーション](https://open.spotify.com/album/3HGSpLv4Q6dcCgACAULrC9) | 4:27 | 2022-09-20 | 2022-09-24 |

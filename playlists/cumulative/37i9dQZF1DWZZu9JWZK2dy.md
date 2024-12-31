@@ -2,7 +2,7 @@
 
 ### [Anime Hits 00's](https://open.spotify.com/playlist/37i9dQZF1DWZZu9JWZK2dy)
 
-> The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
+> The hottest Anime hits of the 00s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 120 songs - 8 hr 32 min
 

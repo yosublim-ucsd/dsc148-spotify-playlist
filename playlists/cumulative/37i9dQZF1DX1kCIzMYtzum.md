@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1kCIzMYtzum.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1kCIzMYtzum) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1kCIzMYtzum)
 
-### [EDM 2024](https://open.spotify.com/playlist/37i9dQZF1DX1kCIzMYtzum)
+### [EDM 2025](https://open.spotify.com/playlist/37i9dQZF1DX1kCIzMYtzum)
 
 > Home is where the main stage is 💗 with Martin Garrix
 

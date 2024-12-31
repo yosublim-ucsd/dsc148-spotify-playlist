@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 31 min
+69 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Unconditional \- Club Edit](https://open.spotify.com/track/4xcwaflj6AZnR3s6d9a3fR) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/2TkKDcE0X9qWjqDtddsZD7) | 3:28 | 2024-05-14 | 2024-05-19 |
 | [Underneath the Tree](https://open.spotify.com/track/5lDZ2wHKdOA2nz48gCiNkd) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Underneath the Tree](https://open.spotify.com/album/4QR9NBs2MpQcJJizlzYHsi) | 3:19 | 2024-09-05 |  |
 | [Unwrap My Heart](https://open.spotify.com/track/1gMLmlEVJvJKS3EOKdCpdp) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unwrap My Heart](https://open.spotify.com/album/0NNFk8ELkHpYQXodDvMSiC) | 3:14 | 2024-10-04 | 2024-12-04 |
-| [Unwrap My Heart \(Tom Brownlow Remix\)](https://open.spotify.com/track/0xpcbVpeeqt5JCkTmj57Ya) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Tom Brownlow](https://open.spotify.com/artist/78wKYRdzGGl4sYUFx5gRAn) | [Unwrap My Heart](https://open.spotify.com/album/0ItScUgRovZGATcWhnF32t) | 3:03 | 2024-12-04 |  |
+| [Unwrap My Heart](https://open.spotify.com/track/3kzGUDepZsD9oytsHUcCyp) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unwrap My Heart](https://open.spotify.com/album/0ItScUgRovZGATcWhnF32t) | 3:14 | 2024-12-31 |  |
+| [Unwrap My Heart \(Tom Brownlow Remix\)](https://open.spotify.com/track/0xpcbVpeeqt5JCkTmj57Ya) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Tom Brownlow](https://open.spotify.com/artist/78wKYRdzGGl4sYUFx5gRAn) | [Unwrap My Heart](https://open.spotify.com/album/0ItScUgRovZGATcWhnF32t) | 3:03 | 2024-12-04 | 2024-12-31 |
 | [Waiting \- VIP](https://open.spotify.com/track/4bvZRlHlgBt5fgYbEqtlj0) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Waiting \(VIP\)](https://open.spotify.com/album/06jgxM51n1uKPRnV0pFHBm) | 4:13 | 2024-05-14 |  |
 | [What They Call Love](https://open.spotify.com/track/28WxoTBlX3SJlbBJAnoZ8v) | [Ferdinand Weber](https://open.spotify.com/artist/5DSfdm9JanV5cqM2nzzJsN), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [What They Call Love](https://open.spotify.com/album/2QkCd6OsxojNwVckClVb5m) | 2:47 | 2024-11-03 |  |
 | [What They Call Love](https://open.spotify.com/track/2OIlhBByIefCdKGWq3gdiq) | [Ferdinand Weber](https://open.spotify.com/artist/5DSfdm9JanV5cqM2nzzJsN), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [What They Call Love](https://open.spotify.com/album/5MSCZrua4VIR192YmRRXDT) | 2:47 | 2024-05-14 | 2024-11-03 |

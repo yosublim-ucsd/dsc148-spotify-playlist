@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 193118,
+  "num_followers": 193611,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 164071,
+      "name": "Una Calle Nos Separa - En Vivo",
+      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
         "name": "El Maestro (En Vivo)",
         "url": "https://open.spotify.com/album/3zF4GveHnKZxpDUbyz4eOM"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 260411,
       "name": "El Maestro - En Vivo",
       "url": "https://open.spotify.com/track/0lPf2bsPuQb3nJBKPZcA3q"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 164071,
-      "name": "Una Calle Nos Separa - En Vivo",
-      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -683,30 +683,6 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
-        "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
-      },
-      "artists": [
-        {
-          "name": "Los Lamas",
-          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
-        },
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        },
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 362235,
-      "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
-      "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
         "name": "El Que Siempre Te Espera",
         "url": "https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 260755,
       "name": "Entre el Cielo Vos y Yo - En Vivo",
       "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
+        "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
+        "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
+      },
+      "artists": [
+        {
+          "name": "Los Lamas",
+          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
+        },
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        },
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 362235,
+      "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
+      "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "Session #14 Los Charros",
-        "url": "https://open.spotify.com/album/6OocCESiVHo7bc1fX1RNWb"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Viva",
-          "url": "https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS"
-        },
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 100710,
-      "name": "Pero no puedo",
-      "url": "https://open.spotify.com/track/6S0wOHLCXlWmYeF1jjuHqZ"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
         "name": "Tu Falta de Querer (En Vivo)",
         "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 196200,
       "name": "Tu Falta de Querer - En Vivo",
       "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
+        "name": "Session #14 Los Charros",
+        "url": "https://open.spotify.com/album/6OocCESiVHo7bc1fX1RNWb"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Viva",
+          "url": "https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS"
+        },
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 100710,
+      "name": "Pero no puedo",
+      "url": "https://open.spotify.com/track/6S0wOHLCXlWmYeF1jjuHqZ"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
         "name": "Cumbia Viva Session #5 Altos Cumbieros",
         "url": "https://open.spotify.com/album/3a59FsnrHhLTuiOR79ZbPk"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 226562,
       "name": "No Voy a Llorar",
       "url": "https://open.spotify.com/track/3OLRoqUQItumGBBbtKgHvP"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "Artistas invitados, Pt. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        },
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 95108,
-      "name": "Vete - En Vivo",
-      "url": "https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
         "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
       },
@@ -1183,22 +1163,6 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 496146,
-      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
-      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
         "name": "Mi Vida (En Vivo)",
         "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
@@ -1211,6 +1175,42 @@
       "duration_ms": 483693,
       "name": "La Ventanita / Beso a Beso",
       "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 1189088,
+      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
+      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
+        "name": "Artistas invitados, Pt. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        },
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 95108,
+      "name": "Vete - En Vivo",
+      "url": "https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu"
     }
   ],
   "unique_name": "Vivo de Cumbia",

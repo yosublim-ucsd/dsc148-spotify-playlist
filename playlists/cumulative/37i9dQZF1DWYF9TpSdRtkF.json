@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 254893,
       "name": "bitter sweet",
       "url": "https://open.spotify.com/track/52GsSFv4NseYjXQW4v6vPO"
@@ -3477,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
+        "url": "https://open.spotify.com/album/0RulRBQ4s2J5ejrTEDOjVQ"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238880,
+      "name": "POKER POKER",
+      "url": "https://open.spotify.com/track/45cht7zlNsUh21IDnuZ1uO"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER HARMONY 04",
         "url": "https://open.spotify.com/album/0f1VCAPiBWCC4WQZ9t3B34"
       },
@@ -5602,10 +5620,44 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 309106,
       "name": "\u30b3\u30b3\u30ed\u304c\u304b\u3048\u308b\u5834\u6240",
       "url": "https://open.spotify.com/track/2AjsGTWnlHQkOFjbwjnHdv"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON FINAL",
+        "url": "https://open.spotify.com/album/0AqCcAkzDG2TrgSIWY9WgH"
+      },
+      "artists": [
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        },
+        {
+          "name": "\u4e8c\u968e\u5802\u5343\u9db4 (CV.\u91ce\u6751\u9999\u83dc\u5b50)",
+          "url": "https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "\u30b5\u30a6\u30f3\u30c9\u30fb\u30aa\u30d6\u30fb\u30d3\u30ae\u30cb\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/0XGmFiqIZLl2skKFFzHmry"
     },
     {
       "album": {
@@ -5924,7 +5976,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 245493,
       "name": "\u30bb\u30d6\u30f3\u30ab\u30a6\u30f3\u30c8",
       "url": "https://open.spotify.com/track/19piUWz1Gy6isXAyhxdGUQ"
@@ -7552,7 +7604,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 240706,
       "name": "\u7523\u58f0\u3068\u30af\u30e9\u30d6",
       "url": "https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa"

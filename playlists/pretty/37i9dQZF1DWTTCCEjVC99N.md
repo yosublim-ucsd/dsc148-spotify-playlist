@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > The biggest Arabic songs in the 2000's\. Cover: Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,084 likes - 104 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,217 likes - 104 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 14 | [Aayshalak](https://open.spotify.com/track/6wE5bUgyErJTzGBqqbjdGo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 4:40 |
 | 15 | [Ya Ghali](https://open.spotify.com/track/40gqeRgXRq03A1TfzDQyZh) | [Guitara Band](https://open.spotify.com/artist/5BkU9PjKHYzpL9tq1YDw5v) | [Qissati](https://open.spotify.com/album/3iO28LlanvxbBIqBwx189l) | 5:18 |
 | 16 | [Enti Mshiti](https://open.spotify.com/track/4MmVIBw7hNG9Iw9arQDyKb) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Enti Mshiti](https://open.spotify.com/album/32H47741Ke2C4lq45RLke8) | 5:53 |
-| 17 | [Ya Rab](https://open.spotify.com/track/0aJ3vyKaqfugQd9y9TMxZ8) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Ana wl Leil](https://open.spotify.com/album/3erfw0etAGsap4nfIKeYBM) | 4:37 |
+| 17 | [Ya Rab](https://open.spotify.com/track/0aJ3vyKaqfugQd9y9TMxZ8) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN), [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Ana wl Leil](https://open.spotify.com/album/3erfw0etAGsap4nfIKeYBM) | 4:37 |
 | 18 | [Law Bass Fe Eyne](https://open.spotify.com/track/1SEmNAQvqDCm1aADR77Csj) | [Cyrine Abdel Noor](https://open.spotify.com/artist/6Dclk6RIvbl0c7U42WxehG) | [Aleak Ouyouni](https://open.spotify.com/album/1nZZNc8oqXhHaRa20f2oTM) | 4:06 |
 | 19 | [Khodnie Leek](https://open.spotify.com/track/2Q1y0ZgrJgzbTyvACOTS0S) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Qarabe Laya](https://open.spotify.com/album/0uiLuHXwMxgA3P27LBmerO) | 4:42 |
 | 20 | [Habibi Ya](https://open.spotify.com/track/1CrOGTXKx72OUJTr0eCrIR) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Habibi Ya](https://open.spotify.com/album/3dal99ec3SgIPfDtMRuyb7) | 3:36 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z28/gAAAAAB0r17WMZp5gg7oKP50a8I0",
+  "snapshot_id": "Z3CRAAAAAADDGisnAqswJRMulYarn9Ss",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 219853,
-      "name": "Distant Light",
-      "url": "https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb"
+      "duration_ms": 177080,
+      "name": "Bright Eyes",
+      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 177080,
-      "name": "Bright Eyes",
-      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
+      "duration_ms": 219853,
+      "name": "Distant Light",
+      "url": "https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb"
     },
     {
       "added_at": null,

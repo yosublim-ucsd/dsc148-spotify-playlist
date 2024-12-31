@@ -1,6 +1,6 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.",
-  "num_followers": 45181,
+  "num_followers": 45180,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
@@ -18,6 +18,10 @@
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 278277,

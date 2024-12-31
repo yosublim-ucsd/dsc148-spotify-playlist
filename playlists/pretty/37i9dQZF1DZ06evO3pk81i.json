@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 6838,
+  "num_followers": 6841,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z28/gAAAAABsn8fA9UVzzWqmtVJY6Oxb",
+  "snapshot_id": "Z3CRAAAAAACsVgzEXZBtfX9SIBv9E+mt",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colocado",
-        "url": "https://open.spotify.com/album/5EDNghKzvrcI1W3bAOkQz6"
+        "name": "Viene Diciembre",
+        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Designo",
-          "url": "https://open.spotify.com/artist/0ihNncV73wCFrQrC651WFh"
         }
       ],
-      "duration_ms": 177450,
-      "name": "Colocado",
-      "url": "https://open.spotify.com/track/0zen90CusEWQdCEJeYfD2e"
+      "duration_ms": 186394,
+      "name": "Viene Diciembre",
+      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
     },
     {
       "added_at": null,
@@ -599,18 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viene Diciembre",
-        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
+        "name": "Colocado",
+        "url": "https://open.spotify.com/album/5EDNghKzvrcI1W3bAOkQz6"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Designo",
+          "url": "https://open.spotify.com/artist/0ihNncV73wCFrQrC651WFh"
         }
       ],
-      "duration_ms": 186394,
-      "name": "Viene Diciembre",
-      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
+      "duration_ms": 177450,
+      "name": "Colocado",
+      "url": "https://open.spotify.com/track/0zen90CusEWQdCEJeYfD2e"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Me Enamoras",
-      "url": "https://open.spotify.com/track/0aJyCSIjXlDpY1feLIGsMg"
+      "duration_ms": 145471,
+      "name": "Voy por Ti",
+      "url": "https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs"
     },
     {
       "added_at": null,
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 145471,
-      "name": "Voy por Ti",
-      "url": "https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs"
+      "duration_ms": 164000,
+      "name": "Me Enamoras",
+      "url": "https://open.spotify.com/track/0aJyCSIjXlDpY1feLIGsMg"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "What's happening in r&b, right now \u2013 featuring SZA.",
-  "num_followers": 367345,
+  "num_followers": 367341,
   "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 278277,

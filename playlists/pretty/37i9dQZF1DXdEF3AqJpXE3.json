@@ -1,6 +1,6 @@
 {
   "description": "The best tracks from the world of music. Cover: Regina Song",
-  "num_followers": 174494,
+  "num_followers": 174507,
   "original_name": "Hot Hits Singapore",
   "owner": {
     "name": "Spotify",
@@ -206,6 +206,10 @@
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 278277,

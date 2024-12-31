@@ -1285,6 +1285,28 @@
     },
     {
       "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/5Soouc6xGiJ6qOZXWqBeir"
+      },
+      "artists": [
+        {
+          "name": "Avi Sic",
+          "url": "https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe"
+        },
+        {
+          "name": "Ness\u00f8",
+          "url": "https://open.spotify.com/artist/15zqFxyXkm096rs1qnVn7b"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/0ZmREvEBuI9cFimAmn86m9"
+    },
+    {
+      "album": {
         "name": "BADBOI",
         "url": "https://open.spotify.com/album/0nA8t6L8TbLC9k58b6FmNf"
       },

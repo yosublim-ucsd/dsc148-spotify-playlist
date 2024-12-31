@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 131551,
+  "num_followers": 131589,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 194232,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2024-07-24 13:57:08",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        }
-      ],
-      "duration_ms": 185620,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) [Remix]",
         "url": "https://open.spotify.com/album/1HBjNCWaJ2SzolwRxedA9z"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 188986,
       "name": "Jerusalema (feat. Nomcebo Zikode) - Edit",
       "url": "https://open.spotify.com/track/2R7gA9dAHTjASKU0wiTJok"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "duration_ms": 185620,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV"
     },
     {
       "added_at": "2024-07-24 13:57:08",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "Won't Go Quietly",
-        "url": "https://open.spotify.com/album/4bwbOwRKR8I4eFPcL4UPuU"
-      },
-      "artists": [
-        {
-          "name": "Example",
-          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Kickstarts",
-      "url": "https://open.spotify.com/track/07WEDHF2YwVgYuBugi2ECO"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/3NAnf9IjYQYxLXEPxMdnuC"
       },
@@ -1203,6 +1187,26 @@
       "duration_ms": 181428,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5vbFDDuHmTqHR8tGxiipf2"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "Until We Die",
+        "url": "https://open.spotify.com/album/0ccCW17zrqSGef3aFHkH7I"
+      },
+      "artists": [
+        {
+          "name": "WATEVA",
+          "url": "https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH"
+        },
+        {
+          "name": "Next to Neon",
+          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
+        }
+      ],
+      "duration_ms": 177248,
+      "name": "Until We Die",
+      "url": "https://open.spotify.com/track/6FqGxJBWE3KOcpY7HodwiA"
     }
   ],
   "unique_name": "Gym Beats",

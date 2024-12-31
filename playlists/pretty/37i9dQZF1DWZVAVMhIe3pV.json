@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 361655,
+  "num_followers": 361677,
   "original_name": "Energy Booster Rock",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 234600,
       "name": "Safari Song",
       "url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "The Plan",
-        "url": "https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb"
-      },
-      "artists": [
-        {
-          "name": "Last Train",
-          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "The Plan",
-      "url": "https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 264986,
       "name": "Victorious",
       "url": "https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "The Plan",
+        "url": "https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb"
+      },
+      "artists": [
+        {
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "The Plan",
+      "url": "https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
+        "name": "Dad\u2019Algorhythm",
+        "url": "https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "Dad\u2019Algorhythm",
+      "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
         "name": "Crush The Mirrors (feat. Chunk! No, Captain Chunk!)",
         "url": "https://open.spotify.com/album/54wXLq9h6wGR36g1HZuDE9"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 236187,
       "name": "Crush The Mirrors (feat. Chunk! No, Captain Chunk!)",
       "url": "https://open.spotify.com/track/1PoheUFbSwY776XkboYweZ"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
-        "name": "Dad\u2019Algorhythm",
-        "url": "https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Dad\u2019Algorhythm",
-      "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Fables From a Mayfly: What I Tell You Three Times is True",
-        "url": "https://open.spotify.com/album/0vbumemAdoqTB9kfx6j0rC"
-      },
-      "artists": [
-        {
-          "name": "Fair To Midland",
-          "url": "https://open.spotify.com/artist/1GfzxrTlFX1DmRSVqMUvaD"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Dance Of The Manatee",
-      "url": "https://open.spotify.com/track/6l6I8njSnRiwvsI6W6q7YA"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Flacco",
         "url": "https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 250110,
       "name": "Flacco",
       "url": "https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Fables From a Mayfly: What I Tell You Three Times is True",
+        "url": "https://open.spotify.com/album/0vbumemAdoqTB9kfx6j0rC"
+      },
+      "artists": [
+        {
+          "name": "Fair To Midland",
+          "url": "https://open.spotify.com/artist/1GfzxrTlFX1DmRSVqMUvaD"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Dance Of The Manatee",
+      "url": "https://open.spotify.com/track/6l6I8njSnRiwvsI6W6q7YA"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp"
-      },
-      "artists": [
-        {
-          "name": "House & Home",
-          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
-        }
-      ],
-      "duration_ms": 244820,
-      "name": "Cellophane",
-      "url": "https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "pity",
         "url": "https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 207670,
       "name": "My Condition",
       "url": "https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp"
+      },
+      "artists": [
+        {
+          "name": "House & Home",
+          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
+        }
+      ],
+      "duration_ms": 244820,
+      "name": "Cellophane",
+      "url": "https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX"
     },
     {
       "added_at": "2024-11-14 18:42:17",

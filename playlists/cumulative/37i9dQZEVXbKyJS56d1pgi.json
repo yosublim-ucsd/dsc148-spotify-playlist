@@ -1685,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "Amantes da Foda",
+        "url": "https://open.spotify.com/album/1u5gFRPpCkwgng12Ewhglm"
+      },
+      "artists": [
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "DJ JOAO DA INESTAN",
+          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81230,
+      "name": "Amantes da Foda",
+      "url": "https://open.spotify.com/track/4DhDNNhIDdduS6nZMbSMbs"
+    },
+    {
+      "album": {
         "name": "Amar De Cor",
         "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
       },
@@ -7543,6 +7565,28 @@
     },
     {
       "album": {
+        "name": "Do Jeito Que Voc\u00ea Mete",
+        "url": "https://open.spotify.com/album/3CrUjWfFQTKOJLm84bETqM"
+      },
+      "artists": [
+        {
+          "name": "DJ L30",
+          "url": "https://open.spotify.com/artist/5tfvAC3ptwTnVXeNJ8qkYe"
+        },
+        {
+          "name": "MC Thaizinha",
+          "url": "https://open.spotify.com/artist/5O30nI9WzhHuxqFZqReBQu"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120950,
+      "name": "Do Jeito Que Voc\u00ea Mete",
+      "url": "https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1"
+    },
+    {
+      "album": {
         "name": "Do Job",
         "url": "https://open.spotify.com/album/3tshJG1V8z9vR7EzHMw9H1"
       },
@@ -9104,7 +9148,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 187869,
       "name": "Even",
       "url": "https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55"
@@ -16174,7 +16218,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 172366,
       "name": "Ma Ch\u00e9rie",
       "url": "https://open.spotify.com/track/1aIJLbvrWSW7NGLlprGhBo"
@@ -17860,7 +17904,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 188839,
       "name": "Montanha",
       "url": "https://open.spotify.com/track/71Aj0joTSW4wv8olaHNBvK"
@@ -26484,7 +26528,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 203337,
       "name": "S\u00f3 F\u00e9",
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"

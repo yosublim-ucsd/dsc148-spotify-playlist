@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=QDyYcHxrQ0W9LLTI7OKr1A\">Kabza De Small</a> ",
-  "num_followers": 111200,
+  "num_followers": 111276,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -322,6 +322,10 @@
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 278277,

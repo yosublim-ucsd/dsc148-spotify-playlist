@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 181714,
       "name": "Bla Bla",
       "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
@@ -10518,7 +10518,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 243400,
       "name": "GELBI T3AB (feat. Samara)",
       "url": "https://open.spotify.com/track/1B7hZEXDweYKwHMT3CcHC7"
@@ -16376,7 +16376,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 202191,
       "name": "Lmouje",
       "url": "https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU"
@@ -16618,7 +16618,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -21504,7 +21504,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 191615,
       "name": "Ojos Sin Ver",
       "url": "https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f"
@@ -23844,6 +23844,24 @@
       "duration_ms": 217946,
       "name": "RAPPEL",
       "url": "https://open.spotify.com/track/48BdA5qBxXVoe59xvu0bwc"
+    },
+    {
+      "album": {
+        "name": "SUE\u00d1O MAGNIFICO",
+        "url": "https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210276,
+      "name": "RATA",
+      "url": "https://open.spotify.com/track/2nBxbWSTEo2hxo5opMViwn"
     },
     {
       "album": {

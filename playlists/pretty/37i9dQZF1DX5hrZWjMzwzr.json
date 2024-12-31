@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10036,
+  "num_followers": 10034,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -767,34 +767,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "KOMBINATORYKA",
-        "url": "https://open.spotify.com/album/6pEdsCNTjZ0UODB0KdAnHL"
-      },
-      "artists": [
-        {
-          "name": "HA\u0141ASTRA",
-          "url": "https://open.spotify.com/artist/0NRJ3fz8s0ghIVciOUvnfm"
-        },
-        {
-          "name": "Kaz Ba\u0142agane",
-          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
-        },
-        {
-          "name": "Gicik A\u2019mane",
-          "url": "https://open.spotify.com/artist/4dwH9xSn1PJA7nQogOlger"
-        },
-        {
-          "name": "Phunk'ill",
-          "url": "https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Przekaz",
-      "url": "https://open.spotify.com/track/42QXTFTKlka5XAFZVHpc3d"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "ZERO SNU",
         "url": "https://open.spotify.com/album/4pmHsXsDswoTFSCtHkwtnG"
       },
@@ -831,6 +803,34 @@
       "duration_ms": 195555,
       "name": "ZERO SNU",
       "url": "https://open.spotify.com/track/0RN6FM4XRE2XvydGA3sLo5"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "KOMBINATORYKA",
+        "url": "https://open.spotify.com/album/6pEdsCNTjZ0UODB0KdAnHL"
+      },
+      "artists": [
+        {
+          "name": "HA\u0141ASTRA",
+          "url": "https://open.spotify.com/artist/0NRJ3fz8s0ghIVciOUvnfm"
+        },
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Gicik A\u2019mane",
+          "url": "https://open.spotify.com/artist/4dwH9xSn1PJA7nQogOlger"
+        },
+        {
+          "name": "Phunk'ill",
+          "url": "https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Przekaz",
+      "url": "https://open.spotify.com/track/42QXTFTKlka5XAFZVHpc3d"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Inny \u015awiat",
-        "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
-      },
-      "artists": [
-        {
-          "name": "Dobry Dzieciak",
-          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "Wowo",
-          "url": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "Inny \u015awiat",
-      "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Nie ma sprawy",
         "url": "https://open.spotify.com/album/3fsTzJ4ZEujyQuBd649DE0"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 132750,
       "name": "Nie ma sprawy",
       "url": "https://open.spotify.com/track/7dNLbmYbfHAQxIIcnD6Fri"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Inny \u015awiat",
+        "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
+      },
+      "artists": [
+        {
+          "name": "Dobry Dzieciak",
+          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Wowo",
+          "url": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Inny \u015awiat",
+      "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "8' Bars",
+        "url": "https://open.spotify.com/album/2viCnhdrN39rYk60PiXWC0"
+      },
+      "artists": [
+        {
+          "name": "Frosti",
+          "url": "https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY"
+        }
+      ],
+      "duration_ms": 521505,
+      "name": "8' Bars",
+      "url": "https://open.spotify.com/track/2hOm4YtBNcaXeZDXHJ9cF4"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Uwolni\u0107 Bonusa",
         "url": "https://open.spotify.com/album/2WEpLdZw9WxNLF3rzGRrkK"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 191433,
       "name": "Uwolni\u0107 Bonusa",
       "url": "https://open.spotify.com/track/1YcaiLGCs9KWxu63JMOwcN"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "8' Bars",
-        "url": "https://open.spotify.com/album/2viCnhdrN39rYk60PiXWC0"
-      },
-      "artists": [
-        {
-          "name": "Frosti",
-          "url": "https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY"
-        }
-      ],
-      "duration_ms": 521505,
-      "name": "8' Bars",
-      "url": "https://open.spotify.com/track/2hOm4YtBNcaXeZDXHJ9cF4"
     },
     {
       "added_at": "2024-02-27 08:21:33",

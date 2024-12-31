@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,277 likes - 70 songs - 2 hr 58 min
+[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,281 likes - 71 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 68 | [DON'T WANT UR LOVE](https://open.spotify.com/track/7BwAhDxU8fZyta9NkqOBZw) | [YUMMYNOODZ](https://open.spotify.com/artist/4jgKnkaF9EvvB9GhQcu9Qa), [YUMPRINCESS](https://open.spotify.com/artist/1XfxA5eSAeL28olEJZymL9), [NOODLE](https://open.spotify.com/artist/10CIjpPG0S3S8WSW1IvGJ9) | [DON'T WANT UR LOVE](https://open.spotify.com/album/4cOrqpMZj8NhCM9NkX22J2) | 2:54 |
 | 69 | [Another Dimension Beyond Comprehension](https://open.spotify.com/track/0cC4qT6HzDLtV8yt0FyEkz) | [Spott](https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8) | [Dumbass of the Century](https://open.spotify.com/album/2utuabIBmucnFPVawLqj67) | 2:32 |
 | 70 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
+| 71 | [KINDA WANT TO FUCK BUT OH GOD IM SCARED](https://open.spotify.com/track/2BIJTk3esSucfISGLvzRpk) | [Vertigoaway](https://open.spotify.com/artist/3QkzcRNHg1pCeifBUZGmb6) | [das epos hohlraum](https://open.spotify.com/album/0wWiYDkqMuRet3EdiGGG1f) | 1:52 |
 
-Snapshot ID: `AAAAbVmzq3yef69gjuGlV62P3qsMpvNF`
+Snapshot ID: `AAAAbuYeLZfsBHnCh+kOPGL3vxqOUPmY`

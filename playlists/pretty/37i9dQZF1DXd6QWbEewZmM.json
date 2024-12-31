@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 287569,
+  "num_followers": 287601,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
-        "name": "2 De La",
-        "url": "https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u"
-      },
-      "artists": [
-        {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
-        }
-      ],
-      "duration_ms": 190789,
-      "name": "2 De La",
-      "url": "https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
         "name": "B.A.S",
         "url": "https://open.spotify.com/album/52LCfcij1vNamKkTXFAn7y"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 248471,
       "name": "Trato de Olvidarte",
       "url": "https://open.spotify.com/track/1oWchNhYm1gbwt2sjh5yAP"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
+        "name": "2 De La",
+        "url": "https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u"
+      },
+      "artists": [
+        {
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+        }
+      ],
+      "duration_ms": 190789,
+      "name": "2 De La",
+      "url": "https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -1891,38 +1891,6 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
-        "name": "Perdido en el Tiempo",
-        "url": "https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua"
-      },
-      "artists": [
-        {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
-        }
-      ],
-      "duration_ms": 116758,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
-        "name": "Para Ella",
-        "url": "https://open.spotify.com/album/6L3EX0UVlBhVLDh28rTw5J"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 245237,
-      "name": "Por Eso Te Canto Yo",
-      "url": "https://open.spotify.com/track/160DhMYdpyryQwCDQaiSPq"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
         "name": "Por Tu Culpa",
         "url": "https://open.spotify.com/album/3TdJVNZdIfpLVByfjseWcd"
       },
@@ -1935,6 +1903,22 @@
       "duration_ms": 228466,
       "name": "Por Tu Culpa",
       "url": "https://open.spotify.com/track/2OU13apOMaGALVlSb2PzPi"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
+        "name": "Perdido en el Tiempo",
+        "url": "https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "duration_ms": 116758,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -1959,6 +1943,22 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
+        "name": "Para Ella",
+        "url": "https://open.spotify.com/album/6L3EX0UVlBhVLDh28rTw5J"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "duration_ms": 245237,
+      "name": "Por Eso Te Canto Yo",
+      "url": "https://open.spotify.com/track/160DhMYdpyryQwCDQaiSPq"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
         "name": "Neverita",
         "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
       },
@@ -1971,38 +1971,6 @@
       "duration_ms": 191296,
       "name": "Neverita",
       "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
-        "name": "Enfocado En El Dinero",
-        "url": "https://open.spotify.com/album/55T4LYvqAuQXqlpWyi2NKC"
-      },
-      "artists": [
-        {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
-        }
-      ],
-      "duration_ms": 152925,
-      "name": "Enfocado En El Dinero",
-      "url": "https://open.spotify.com/track/56fow2b87Gvm4FDqIhiutA"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
-        "name": "Dejame Decir",
-        "url": "https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 217703,
-      "name": "Dejame Decir",
-      "url": "https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -2023,6 +1991,22 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
+        "name": "Enfocado En El Dinero",
+        "url": "https://open.spotify.com/album/55T4LYvqAuQXqlpWyi2NKC"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "duration_ms": 152925,
+      "name": "Enfocado En El Dinero",
+      "url": "https://open.spotify.com/track/56fow2b87Gvm4FDqIhiutA"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
         "name": "NO SE VA",
         "url": "https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 251981,
       "name": "NO SE VA",
       "url": "https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
+        "name": "Dejame Decir",
+        "url": "https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "duration_ms": 217703,
+      "name": "Dejame Decir",
+      "url": "https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
-        "name": "Era El \u00danico",
-        "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
-      },
-      "artists": [
-        {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
-        }
-      ],
-      "duration_ms": 130375,
-      "name": "Era El \u00danico",
-      "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
         "name": "Sabes",
         "url": "https://open.spotify.com/album/4e9NkTft117gtD535Kj2xl"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 226499,
       "name": "Me Saliste Regular",
       "url": "https://open.spotify.com/track/1ZMn6X1evKqK0oYyyYf7Ul"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
+        "name": "Era El \u00danico",
+        "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "duration_ms": 130375,
+      "name": "Era El \u00danico",
+      "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
+        "name": "Nadie Mas",
+        "url": "https://open.spotify.com/album/0cRUQdUeJdx0WUZWgRXrH6"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "duration_ms": 170363,
+      "name": "Nadie Mas",
+      "url": "https://open.spotify.com/track/7brPYXl515g3kFaH9g7sCC"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
         "name": "Me Dejaste en Cero",
         "url": "https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 168904,
       "name": "Beso De Peda",
       "url": "https://open.spotify.com/track/0NDZle5X6aJPXj2dcZpKA7"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
-        "name": "Nadie Mas",
-        "url": "https://open.spotify.com/album/0cRUQdUeJdx0WUZWgRXrH6"
-      },
-      "artists": [
-        {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
-        }
-      ],
-      "duration_ms": 170363,
-      "name": "Nadie Mas",
-      "url": "https://open.spotify.com/track/7brPYXl515g3kFaH9g7sCC"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
-        "name": "VERSATILIDAD",
-        "url": "https://open.spotify.com/album/4zYr8sSOd4useCJT2I7921"
-      },
-      "artists": [
-        {
-          "name": "Omar Rodriguez",
-          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/0sacNu1VADSB1VzA0WfKJ8"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
         "name": "Mi Gran Error",
         "url": "https://open.spotify.com/album/2uc2NaKtj4MGY19eyEnBLM"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 230368,
       "name": "Tierra de los Olvidados",
       "url": "https://open.spotify.com/track/3njxvE2qVZ1XbsxYD1SMXE"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
+        "name": "VERSATILIDAD",
+        "url": "https://open.spotify.com/album/4zYr8sSOd4useCJT2I7921"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "duration_ms": 256532,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/0sacNu1VADSB1VzA0WfKJ8"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -2439,26 +2439,6 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
-        "name": "Lo Intent\u00e9",
-        "url": "https://open.spotify.com/album/2cFChBCIbFFtUbXVN35QCr"
-      },
-      "artists": [
-        {
-          "name": "Mauro",
-          "url": "https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD"
-        },
-        {
-          "name": "Palm Street Music",
-          "url": "https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c"
-        }
-      ],
-      "duration_ms": 188275,
-      "name": "Lo Intent\u00e9",
-      "url": "https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
         "name": "Ojos Vac\u00edos",
         "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
       },
@@ -2491,6 +2471,22 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
+        "name": "Solo M\u00edrame",
+        "url": "https://open.spotify.com/album/43gLeBSBn391baPX1NbUUr"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Solo M\u00edrame",
+      "url": "https://open.spotify.com/track/1HZ06Z9NVJV3iQK8neTN7n"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
         "name": "La Cancion",
         "url": "https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c"
       },
@@ -2507,6 +2503,26 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
+        "name": "Lo Intent\u00e9",
+        "url": "https://open.spotify.com/album/2cFChBCIbFFtUbXVN35QCr"
+      },
+      "artists": [
+        {
+          "name": "Mauro",
+          "url": "https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD"
+        },
+        {
+          "name": "Palm Street Music",
+          "url": "https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c"
+        }
+      ],
+      "duration_ms": 188275,
+      "name": "Lo Intent\u00e9",
+      "url": "https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
         "name": "Porque Te Amo",
         "url": "https://open.spotify.com/album/2JJtqjzfN0JxVfptY4hSJl"
       },
@@ -2519,22 +2535,6 @@
       "duration_ms": 172406,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/0q2WWSxcCY9Ph8Yv2WVMqZ"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
-        "name": "Solo M\u00edrame",
-        "url": "https://open.spotify.com/album/43gLeBSBn391baPX1NbUUr"
-      },
-      "artists": [
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Solo M\u00edrame",
-      "url": "https://open.spotify.com/track/1HZ06Z9NVJV3iQK8neTN7n"
     },
     {
       "added_at": "2024-11-08 23:11:30",

@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-355 songs - 20 hr 55 min
+356 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2021-12-24 | 2024-04-19 |
 | [Feliz Navidad](https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [The Definite Best](https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv) | 3:02 | 2023-12-15 |  |
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2021-12-24 |  |
-| [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf) | 4:12 | 2021-12-24 |  |
+| [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf) | 4:12 | 2021-12-24 | 2024-12-31 |
 | [Forever Mistletoe](https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Red & Green](https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2) | 3:55 | 2024-11-29 |  |
 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 | 2021-12-24 |  |
 | [Gloria \- Live](https://open.spotify.com/track/3l4f4bD5JePEYHv4mMAOgw) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Emmanuel: Christmas Songs Of Worship \(Deluxe\)](https://open.spotify.com/album/4mNQ4Jm87KEl2HXAQdF0al) | 3:37 | 2022-11-26 |  |
@@ -159,6 +159,7 @@
 | [Jingle Bells](https://open.spotify.com/track/6qGlG6u0CMMkU1jWRtpddE) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/58icpaZ35NuKczovWzvZeF) | 1:49 | 2024-07-29 | 2024-10-27 |
 | [Jingle Bells](https://open.spotify.com/track/2kvXnUbRUnHS5195eyQp4a) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 1:49 | 2021-12-24 | 2024-04-19 |
 | [Jingle Bells](https://open.spotify.com/track/0P6xicvZnvVwRCPv3307HM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 3:18 | 2022-12-11 |  |
+| [Jolly Jolly Christmas](https://open.spotify.com/track/3l4g9GZb9uIyjuugmzZ6EU) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Jolly Jolly Christmas](https://open.spotify.com/album/26oW5OBv0YFbVDhZMmLCM1) | 2:22 | 2024-12-13 |  |
 | [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 | 2022-12-11 | 2024-11-30 |
 | [Joy \(To the World\)](https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Joy \(To the World\)](https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd) | 3:00 | 2021-12-24 |  |
 | [Joy \(To the World\) \(feat\. Ryan Ellis\) \- \[Live\]](https://open.spotify.com/track/2WpDKLKJspo20BrMvtNFH7) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Gloria \(Live\)](https://open.spotify.com/album/2O4vpLos89lpgFphW2ibFd) | 3:21 | 2022-12-11 | 2023-11-27 |

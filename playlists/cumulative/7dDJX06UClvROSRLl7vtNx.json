@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "All I Think About",
+        "url": "https://open.spotify.com/album/1LHgAOXD690JhN0fUja5BD"
+      },
+      "artists": [
+        {
+          "name": "Tob\u00ff",
+          "url": "https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ"
+        },
+        {
+          "name": "One Trick Pony",
+          "url": "https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162203,
+      "name": "All I Think About",
+      "url": "https://open.spotify.com/track/7JbpzzQ9bM1gprjgTsBJOP"
+    },
+    {
+      "album": {
         "name": "All I Wanna Know",
         "url": "https://open.spotify.com/album/4eUh2Uskg8nd7au5imGEy7"
       },
@@ -3403,6 +3425,32 @@
     },
     {
       "album": {
+        "name": "Every Single Day With You",
+        "url": "https://open.spotify.com/album/3WMnkNOuGjuEXkIV11WemR"
+      },
+      "artists": [
+        {
+          "name": "Abraham Colona",
+          "url": "https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev"
+        },
+        {
+          "name": "Bayshore Court",
+          "url": "https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg"
+        },
+        {
+          "name": "EyeMad",
+          "url": "https://open.spotify.com/artist/2C15mEsXxAqiKWKG4skXHY"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Every Single Day With You",
+      "url": "https://open.spotify.com/track/5p5iEjMj0PHZrXlq3U2rLe"
+    },
+    {
+      "album": {
         "name": "Every Time",
         "url": "https://open.spotify.com/album/35RLkkhVvN3efNqnV5CbBT"
       },
@@ -5066,7 +5114,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 142372,
       "name": "Higher Power (Put It On Me)",
       "url": "https://open.spotify.com/track/7xhoyvrN5qvw0IzqVDwR2h"
@@ -12872,7 +12920,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 186388,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/12L3HEJETKhCeVR4iIRxjH"

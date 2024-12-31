@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 박진영 30주년 콘서트 〈Still JYP〉 2024년 12월 27\~29일 @서울 올림픽공원 올림픽홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,022 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,019 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 60666,
+  "num_followers": 60674,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z28/gAAAAABsZqzKQ+qn1ZGj16Dv/Ddw",
+  "snapshot_id": "Z3CRAAAAAAA4NZ3LCxG9PYAxx1O1AmpZ",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bedroom Gospel",
+        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Wonderful God (feat. Jonathan Ogden)",
+      "url": "https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 203720,
       "name": "Wars",
       "url": "https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bedroom Gospel",
-        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Wonderful God (feat. Jonathan Ogden)",
-      "url": "https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Only for You",
-        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Eyes Only for You",
-      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show the Signs.",
         "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 181682,
       "name": "Show the Signs.",
       "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyes Only for You",
+        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Eyes Only for You",
+      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
     },
     {
       "added_at": null,

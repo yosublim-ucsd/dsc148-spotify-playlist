@@ -4,7 +4,7 @@
 
 > Their unstoppable attraction continues to grow...Listen to the official playlist for Culpa Mia and Culpa Tuya, now streaming on Prime Video.
 
-36 songs - 1 hr 55 min
+37 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [CHIBI](https://open.spotify.com/track/4wKzb4OXeXiuqzyuU2PqaB) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:08 | 2024-12-27 |  |
 | [Cobrastyle \(feat\. Mad Cobra\)](https://open.spotify.com/track/0aWfhiilJXkCxnoxdhv7qF) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 2:59 | 2024-12-27 |  |
 | [Comerte Entera](https://open.spotify.com/track/6RUr6r5OexrMOYDtgu1QtS) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:54 | 2024-12-27 |  |
+| [Con Los Nudillos](https://open.spotify.com/track/7yrbIk2guPk6fGoy9oOD22) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu) | [Con Los Nudillos](https://open.spotify.com/album/3dCNCYpXb0oKR7op1iHKs8) | 2:56 | 2024-12-30 |  |
 | [C’est Comme Ça \(Re: Wet Leg\)](https://open.spotify.com/track/5PA2Q9hBo1gmB3RlA8TZa2) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 2:24 | 2024-12-27 |  |
 | [Dirty Diabla](https://open.spotify.com/track/5LnW4mvTfj53tXssxhHXIy) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Piligrossa](https://open.spotify.com/album/1eNFJZzILXXDuYzNI12w1x) | 2:17 | 2024-12-27 |  |
 | [Dynamite](https://open.spotify.com/track/6e7Eudq88wcygOphhtQnrN) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:51 | 2024-12-27 |  |

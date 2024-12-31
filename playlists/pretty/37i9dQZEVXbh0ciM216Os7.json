@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAXSia0bKE7mIYZ1KwDlYIm",
+  "snapshot_id": "AAAAAAAAAAA20H+B8zouNwYAbo/pz0NK",
   "tracks": [
     {
       "added_at": "2024-12-27 05:00:00",
@@ -18,6 +18,10 @@
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 278277,
@@ -63,6 +67,70 @@
       "duration_ms": 286000,
       "name": "A Tale Of 2 Kings (feat. Tech N9ne)",
       "url": "https://open.spotify.com/track/19fmLObxPn65nyyCcqUWVK"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "Asteroids (Redux)",
+        "url": "https://open.spotify.com/album/1viuwpXUtbu89JFAvLyBEZ"
+      },
+      "artists": [
+        {
+          "name": "Tsukii HiFi",
+          "url": "https://open.spotify.com/artist/5iPNY03Nyb8MBrFzdzlEQG"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Asteroids - Redux",
+      "url": "https://open.spotify.com/track/6lXZ19zGWK3EFkZ3UL6Eu3"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "Hamleypa",
+        "url": "https://open.spotify.com/album/0ds6hKsXEwSzOW3kKaELaV"
+      },
+      "artists": [
+        {
+          "name": "Kveld",
+          "url": "https://open.spotify.com/artist/3ji6JgdovyG79SpMrZaEnL"
+        }
+      ],
+      "duration_ms": 173062,
+      "name": "Hamleypa",
+      "url": "https://open.spotify.com/track/0oZazkqmH6WIHvyj4JYJTg"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "The Gift No One Wants!",
+        "url": "https://open.spotify.com/album/7KtBoYq6BjuOqCK5x7KjgG"
+      },
+      "artists": [
+        {
+          "name": "The Incomplete Orchestra",
+          "url": "https://open.spotify.com/artist/67yjRwHktoYxrMKMbqL7BG"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 286020,
+      "name": "Zoo - Original",
+      "url": "https://open.spotify.com/track/3KYyXPUc4B65DXnqTFEgoF"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -287,146 +355,6 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "Louie",
-        "url": "https://open.spotify.com/album/0w7cMkI0AS1S5w1cUGd5EI"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 176042,
-      "name": "Louie",
-      "url": "https://open.spotify.com/track/4Zkc8H2hkbpzEgUPGx3Y9m"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "Resenha do Arrocha",
-        "url": "https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt"
-      },
-      "artists": [
-        {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
-          "name": "Alef Donk",
-          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
-        }
-      ],
-      "duration_ms": 354857,
-      "name": "Resenha do Arrocha",
-      "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "gervonta",
-        "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 167367,
-      "name": "gervonta",
-      "url": "https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "Burning Down (with Joe Jonas)",
-        "url": "https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 179437,
-      "name": "Burning Down (with Joe Jonas)",
-      "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "Amapola",
-        "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
-        "name": "Private Suite (Vol. 2)",
-        "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 462561,
-      "name": "ETA - RMX",
-      "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
         "name": "Missionary",
         "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
       },
@@ -443,6 +371,46 @@
       "duration_ms": 163722,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "Bekhauf (feat. BABYMETAL)",
+        "url": "https://open.spotify.com/album/6J8ujkbzjxaBofiBg3TLRk"
+      },
+      "artists": [
+        {
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 228364,
+      "name": "Bekhauf (feat. BABYMETAL)",
+      "url": "https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "Lonely Road (feat. Terrace Martin)",
+        "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 200563,
+      "name": "Lonely Road (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -519,6 +487,22 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
+        "name": "We Like It Here (Remixed + Remastered + Reimagined)",
+        "url": "https://open.spotify.com/album/1yQ4KgE3eTVDhEBsnfADCY"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 578202,
+      "name": "Lingus - Alternate Take",
+      "url": "https://open.spotify.com/track/5jKq0VCeyGhvk8VxneKc2F"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
         "name": "Viking Juice (The Butcher Mix)",
         "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 193040,
       "name": "Viking Juice - The Butcher Mix",
       "url": "https://open.spotify.com/track/2ndjLJiYVXaqNUTSm8MuA0"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "The Bells",
+        "url": "https://open.spotify.com/album/4OVxBEb9hRNx4dHlWCJtHm"
+      },
+      "artists": [
+        {
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/5M2gEWB0q7TPKFTroTpbPi"
     },
     {
       "added_at": "2024-12-27 05:00:00",

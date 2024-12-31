@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,355 likes - 325 songs - 11 hr 27 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,352 likes - 325 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 84 | [Forward](https://open.spotify.com/track/4Yuesl3PwnJhzV8FqhzMJp) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [Forward](https://open.spotify.com/album/3T5iKvlUVk0aD2imOmdFNK) | 1:31 |
 | 85 | [warming up](https://open.spotify.com/track/3iYj7MFe5NsJL4npqcPydE) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Trees and Lucy](https://open.spotify.com/artist/201BDST0ijVDCJ5c27rLQl) | [Winter Waves](https://open.spotify.com/album/3vMgpkHU90UVmyWnV47S4b) | 1:19 |
 | 86 | [Ice & Vinyl](https://open.spotify.com/track/3MX6s88Xdz3w49fdqKyvpr) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Ice & Vinyl](https://open.spotify.com/album/5f2iqWbATNlCl0IeZGsAv4) | 2:04 |
-| 87 | [Nature](https://open.spotify.com/track/1k5zucVXZ4wVQjaBUgPcvu) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Lofi Trumpet](https://open.spotify.com/artist/0C6S0RbB3ja37ToLIhYXD7), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Nature](https://open.spotify.com/album/0PDdCMyLs2TnDapHo50ov2) | 1:41 |
+| 87 | [Nature](https://open.spotify.com/track/1k5zucVXZ4wVQjaBUgPcvu) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Lofi Trumpet](https://open.spotify.com/artist/78AuYXBqXePRXaccyANvDu), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Nature](https://open.spotify.com/album/0PDdCMyLs2TnDapHo50ov2) | 1:41 |
 | 88 | [S950 Is a Verb](https://open.spotify.com/track/7caVuCzgq5LWXtFBtoFTxD) | [E20 Trio](https://open.spotify.com/artist/4M4KnBBYF5REWwMgyrUSz0), [Cheeba Cheeba Records](https://open.spotify.com/artist/7s6kHBG1J2zZGn3ax74H85) | [Bake Sale Vol.11](https://open.spotify.com/album/4W62EkQsI3qvdIKSq9twD4) | 2:08 |
-| 89 | [Difference](https://open.spotify.com/track/3W0Uc1MATWJgziNXO3LKhK) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Lofi Trumpet](https://open.spotify.com/artist/0C6S0RbB3ja37ToLIhYXD7) | [Parallel](https://open.spotify.com/album/78ZzcqBFMwCEt6r947wAs7) | 1:47 |
+| 89 | [Difference](https://open.spotify.com/track/3W0Uc1MATWJgziNXO3LKhK) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Lofi Trumpet](https://open.spotify.com/artist/78AuYXBqXePRXaccyANvDu) | [Parallel](https://open.spotify.com/album/78ZzcqBFMwCEt6r947wAs7) | 1:47 |
 | 90 | [GLIDING!](https://open.spotify.com/track/3hBBBqK4O2OOviD9dIG8aS) | [Prince Mathicks](https://open.spotify.com/artist/2R2XJy3u6GSMeXAaxA4F2e) | [CHOPS & FLOWERS](https://open.spotify.com/album/63aAWRmNZYWtms25Aagzgf) | 2:37 |
 | 91 | [Earrings](https://open.spotify.com/track/7otPNVRAQiRxcDqYSAVF6I) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Earrings](https://open.spotify.com/album/70fd83qWfCzqCTskX9CFO3) | 2:40 |
 | 92 | [shuffle](https://open.spotify.com/track/6xcLms3MTqrP5mdNdtUsnj) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [shuffle](https://open.spotify.com/album/5Vpfrexi2XNSksMxMlsumU) | 1:43 |

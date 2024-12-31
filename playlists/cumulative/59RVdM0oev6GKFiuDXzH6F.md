@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-916 songs - 1 day 22 hr 45 min
+917 songs - 1 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [BAD](https://open.spotify.com/track/7HJ36tzl7OSLgFeRuCNvdZ) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [BAD](https://open.spotify.com/album/1EzcPlcG2jDgxZE7TuHVdR) | 2:21 | 2023-11-24 | 2024-09-26 |
 | [Bad Boy For Life](https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg) | [Vasovski Live](https://open.spotify.com/artist/2tDYKg6IgydH7HnIdEz0v7) | [Bad Boy for Life](https://open.spotify.com/album/0ffRbCgRegpS6ucR1MBTcE) | 2:08 | 2024-06-10 | 2024-11-16 |
 | [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 | 2024-05-17 |  |
+| [Bad Habit](https://open.spotify.com/track/0ZmREvEBuI9cFimAmn86m9) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe), [Nessø](https://open.spotify.com/artist/15zqFxyXkm096rs1qnVn7b) | [Bad Habit](https://open.spotify.com/album/5Soouc6xGiJ6qOZXWqBeir) | 3:06 | 2024-12-30 |  |
 | [BADBOI](https://open.spotify.com/track/2shX2AfRy5SVxdiOVC7pEy) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6) | [BADBOI](https://open.spotify.com/album/0nA8t6L8TbLC9k58b6FmNf) | 2:30 | 2023-10-13 | 2024-10-11 |
 | [Baila Con](https://open.spotify.com/track/5a291zhrgHNrJG7rcNiPKt) | [DYKMN](https://open.spotify.com/artist/14EmMLXXkINp4y0hVuG5xf) | [Baila Con](https://open.spotify.com/album/3z7iEcGXkQgSqC89lqPLXl) | 3:05 | 2024-04-12 | 2024-04-26 |
 | [Bala](https://open.spotify.com/track/6pxs9VHwNBOxQZQKx37rox) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv) | [Bala](https://open.spotify.com/album/0eMMY6AJt2EFpUI2eI5Ebz) | 3:21 | 2024-01-12 | 2024-10-11 |

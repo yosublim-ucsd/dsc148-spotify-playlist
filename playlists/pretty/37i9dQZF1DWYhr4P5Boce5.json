@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 205960,
+  "num_followers": 205972,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/3nSpXaQTtT0JMU6JRT0J05"
+      },
+      "artists": [
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+        }
+      ],
+      "duration_ms": 133159,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/4ApkZY3507VSE1ZXrVO9oT"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 193170,
       "name": "I Love You (Remix)",
       "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "ILY",
-        "url": "https://open.spotify.com/album/3nSpXaQTtT0JMU6JRT0J05"
-      },
-      "artists": [
-        {
-          "name": "Tommy Iceland",
-          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
-        }
-      ],
-      "duration_ms": 133159,
-      "name": "ILY",
-      "url": "https://open.spotify.com/track/4ApkZY3507VSE1ZXrVO9oT"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "i do",
+        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
+      },
+      "artists": [
+        {
+          "name": "Coby James",
+          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "i do",
+      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "i do",
-        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
+        "name": "You Are My Love",
+        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
       },
       "artists": [
         {
-          "name": "Coby James",
-          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 151016,
-      "name": "i do",
-      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
+      "duration_ms": 203120,
+      "name": "You Are My Love",
+      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1031,22 +1047,6 @@
       "duration_ms": 188133,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "You Are My Love",
-        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "You Are My Love",
-      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Te Quiero Cerca",
-        "url": "https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU"
-      },
-      "artists": [
-        {
-          "name": "Harold y Elena",
-          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
-        }
-      ],
-      "duration_ms": 227661,
-      "name": "Te Quiero Cerca",
-      "url": "https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "A Red, Red Rose",
         "url": "https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 203699,
       "name": "A Red, Red Rose",
       "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Te Quiero Cerca",
+        "url": "https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU"
+      },
+      "artists": [
+        {
+          "name": "Harold y Elena",
+          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
+        }
+      ],
+      "duration_ms": 227661,
+      "name": "Te Quiero Cerca",
+      "url": "https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Nobody's Perfect",
-        "url": "https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 151530,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
         "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 180240,
       "name": "The One Out The Friendzone - Kevin Aleksander Remix",
       "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 151530,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "Midwest Magic",
-      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "fall (when we fell in love)",
         "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 157990,
       "name": "fall (when we fell in love)",
       "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "Midwest Magic",
+      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Boo",
-        "url": "https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl"
-      },
-      "artists": [
-        {
-          "name": "Bachi",
-          "url": "https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK"
-        }
-      ],
-      "duration_ms": 140539,
-      "name": "Boo",
-      "url": "https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/7audZAXHAdxmRD3YJErUVm"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 213846,
       "name": "Yours",
       "url": "https://open.spotify.com/track/6IWcLsZ9h2Kde0Qjyt8BdS"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Boo",
+        "url": "https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl"
+      },
+      "artists": [
+        {
+          "name": "Bachi",
+          "url": "https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK"
+        }
+      ],
+      "duration_ms": 140539,
+      "name": "Boo",
+      "url": "https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "FEVER / SKY",
-        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
-      },
-      "artists": [
-        {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Be Yourself",
-      "url": "https://open.spotify.com/track/6P0actEG7h74NHvxqRB321"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Church Girls Love R&B - Girls Trip ll",
         "url": "https://open.spotify.com/album/6v5VS3app0uhJ8NLXuZ0jY"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 275135,
       "name": "OMM (On My Mind) [Remix]",
       "url": "https://open.spotify.com/track/5NSk2v3d5O32aJPBnWQ2b3"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "FEVER / SKY",
+        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Be Yourself",
+      "url": "https://open.spotify.com/track/6P0actEG7h74NHvxqRB321"
     },
     {
       "added_at": "2024-07-17 04:46:48",

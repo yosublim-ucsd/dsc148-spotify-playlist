@@ -4,7 +4,7 @@
 
 > Degeneracy at its finest!
 
-70 songs - 2 hr 58 min
+71 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [I LOVE PEEING IN PUBLIC POOLS](https://open.spotify.com/track/3z3F6N1cdu5LiJ1vmu1Fn2) | [Gynx](https://open.spotify.com/artist/41vwOItZ3tvhGwj3zUaYjl) | [I'M SICK AND TIRED OF MAKING GOOD MUSIC](https://open.spotify.com/album/1KNcLPb6MzM3w0oUgNrvCE) | 3:06 | 2024-10-05 |  |
 | [Interlewd](https://open.spotify.com/track/0BNZN1CG2x6Pnmm2z3Z1UV) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Solanin \(Deluxe\)](https://open.spotify.com/album/10hR8af9b6VFxyrMPHXL9n) | 2:15 | 2023-11-25 |  |
 | [Intro Jingle](https://open.spotify.com/track/3bcGDqANHU0nCa7Hvz3tw5) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 0:08 | 2024-07-10 |  |
+| [KINDA WANT TO FUCK BUT OH GOD IM SCARED](https://open.spotify.com/track/2BIJTk3esSucfISGLvzRpk) | [Vertigoaway](https://open.spotify.com/artist/3QkzcRNHg1pCeifBUZGmb6) | [das epos hohlraum](https://open.spotify.com/album/0wWiYDkqMuRet3EdiGGG1f) | 1:52 | 2024-12-30 |  |
 | [KNOT SONG](https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [KNOT SONG](https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT) | 2:18 | 2024-06-29 |  |
 | [Lesbian Vampire Furries](https://open.spotify.com/track/6k8OcyB2p4XjLEkeZl2yec) | [o96o](https://open.spotify.com/artist/4g8Ae41SII3GhoJkpGQTBn), [iGodzilla](https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez) | [Lesbian Vampire Furries](https://open.spotify.com/album/1Ah65nLN0BThi1taKGTde8) | 2:25 | 2024-10-23 |  |
 | [Lesson.69 Cum Escapade](https://open.spotify.com/track/71pqal0Gz61eQaPom9IoSI) | [Spott](https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8), [Trent](https://open.spotify.com/artist/6dZRBnqw7IF03TJWYHYNYK) | [Walkies\~](https://open.spotify.com/album/5jYQwo9B5e0OY0FpnV4uot) | 3:21 | 2023-11-14 |  |

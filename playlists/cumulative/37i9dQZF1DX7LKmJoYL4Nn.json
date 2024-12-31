@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 246280,
       "name": "BREAKTHROUGH!",
       "url": "https://open.spotify.com/track/3zpFUsdqrdWoTVpGy2us5f"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 239040,
       "name": "Miracle Dream Traveler",
       "url": "https://open.spotify.com/track/49NKnkf8htoeRfXWZdq5k5"
@@ -2116,6 +2116,28 @@
       "duration_ms": 267186,
       "name": "\u5929\u4e0b\u7121\u6575\u2606\u30e1\u30c6\u30aa\u30ec\u30f3\u30b8\u30e3\u30fc!",
       "url": "https://open.spotify.com/track/1XFWiQILHnJqrMn2i6PDDD"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5 \u7d05\u6708 with \u6edd \u7dad\u5439 \u300c\u5929\u7fd4KAGETSU\u300d",
+        "url": "https://open.spotify.com/album/6l6hNNK95i6rVQkCmbi20R"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708",
+          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
+        },
+        {
+          "name": "\u6edd \u7dad\u5439",
+          "url": "https://open.spotify.com/artist/6cJawTUAmqxwEPd9NHHnvs"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244805,
+      "name": "\u5929\u7fd4KAGETSU",
+      "url": "https://open.spotify.com/track/30oVnFACmUWY6T0p4bpIIv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "shop, wrap, bake, study or just chill to these cozy christmas beats.",
-  "num_followers": 5190,
+  "num_followers": 5183,
   "original_name": "lofi christmas chill\ud83c\udf84\u2744\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu"
-      },
-      "artists": [
-        {
-          "name": "Moon Portal",
-          "url": "https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/03lrkjhqiwLRfAYVolwAKJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 87670,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/4hqviDebP0XpwxYVEz60mo"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu"
+      },
+      "artists": [
+        {
+          "name": "Moon Portal",
+          "url": "https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Noche De Paz",
-        "url": "https://open.spotify.com/album/6zcFS4GCuFl3BusJlCtW4A"
+        "name": "Cold December Night",
+        "url": "https://open.spotify.com/album/6PVUVUlzdwfWysT5TQffva"
       },
       "artists": [
         {
-          "name": "Drawing With Numbers",
-          "url": "https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ"
+          "name": "Frosty Pete",
+          "url": "https://open.spotify.com/artist/5ujER9YpzDrJrRfH7BSV2R"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Noche De Paz",
-      "url": "https://open.spotify.com/track/2zszx16qYoyLC5N3VQVxex"
+      "duration_ms": 161261,
+      "name": "Cold December Night",
+      "url": "https://open.spotify.com/track/3WAQqvfLBjzFtNb5qz5G6q"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Cold December Night",
-        "url": "https://open.spotify.com/album/6PVUVUlzdwfWysT5TQffva"
+        "name": "Noche De Paz",
+        "url": "https://open.spotify.com/album/6zcFS4GCuFl3BusJlCtW4A"
       },
       "artists": [
         {
-          "name": "Frosty Pete",
-          "url": "https://open.spotify.com/artist/5ujER9YpzDrJrRfH7BSV2R"
+          "name": "Drawing With Numbers",
+          "url": "https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ"
         }
       ],
-      "duration_ms": 161261,
-      "name": "Cold December Night",
-      "url": "https://open.spotify.com/track/3WAQqvfLBjzFtNb5qz5G6q"
+      "duration_ms": 150000,
+      "name": "Noche De Paz",
+      "url": "https://open.spotify.com/track/2zszx16qYoyLC5N3VQVxex"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Do You Hear What I Hear",
-        "url": "https://open.spotify.com/album/2ZYQ3Xez3PDeeWfeSidR15"
-      },
-      "artists": [
-        {
-          "name": "Rosa Mahoney",
-          "url": "https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "Do You Hear What I Hear",
-      "url": "https://open.spotify.com/track/1G8tBRmHzFloc6KzvDoQpE"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "wrap up warm",
         "url": "https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 129000,
       "name": "wrap up warm",
       "url": "https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/2ZYQ3Xez3PDeeWfeSidR15"
+      },
+      "artists": [
+        {
+          "name": "Rosa Mahoney",
+          "url": "https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn"
+        }
+      ],
+      "duration_ms": 178144,
+      "name": "Do You Hear What I Hear",
+      "url": "https://open.spotify.com/track/1G8tBRmHzFloc6KzvDoQpE"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Holiday Beats",
-        "url": "https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4"
-      },
-      "artists": [
-        {
-          "name": "Kings Chair",
-          "url": "https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac"
-        }
-      ],
-      "duration_ms": 125155,
-      "name": "polar bear plunge",
-      "url": "https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/7EMAzPm5WUM3aKFbLsCeyN"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 130746,
       "name": "Santa Looked a Lot Like Daddy",
       "url": "https://open.spotify.com/track/5s4gbvEoagDAQEGwPfdlKS"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Holiday Beats",
+        "url": "https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4"
+      },
+      "artists": [
+        {
+          "name": "Kings Chair",
+          "url": "https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac"
+        }
+      ],
+      "duration_ms": 125155,
+      "name": "polar bear plunge",
+      "url": "https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "carol of the bells",
-        "url": "https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG"
-      },
-      "artists": [
-        {
-          "name": "Cereal Party",
-          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
-        }
-      ],
-      "duration_ms": 146696,
-      "name": "carol of the bells",
-      "url": "https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "When You Wish Upon a Star",
         "url": "https://open.spotify.com/album/4CrquHUPgAGkal3NcjufrB"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 139907,
       "name": "When You Wish Upon a Star",
       "url": "https://open.spotify.com/track/2NG0HrvHdH5xs5s9V3U2m2"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "carol of the bells",
+        "url": "https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "duration_ms": 146696,
+      "name": "carol of the bells",
+      "url": "https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Corre Caballito",
-        "url": "https://open.spotify.com/album/2FvpUgEVdbFnInaFPfgEsb"
-      },
-      "artists": [
-        {
-          "name": "Jaire Tiraxi",
-          "url": "https://open.spotify.com/artist/0lq4gjKRUvC0TL8CJdHFEs"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "Corre Caballito",
-      "url": "https://open.spotify.com/track/4i7iZE9YYPiUUcT9ycUb1m"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "A Lofi Christmas",
         "url": "https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 132154,
       "name": "Santas Coming",
       "url": "https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Corre Caballito",
+        "url": "https://open.spotify.com/album/2FvpUgEVdbFnInaFPfgEsb"
+      },
+      "artists": [
+        {
+          "name": "Jaire Tiraxi",
+          "url": "https://open.spotify.com/artist/0lq4gjKRUvC0TL8CJdHFEs"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Corre Caballito",
+      "url": "https://open.spotify.com/track/4i7iZE9YYPiUUcT9ycUb1m"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Christmas Isn't Canceled (Just You)",
-        "url": "https://open.spotify.com/album/5eiUdCNJTWZ5D1mnQlbaea"
-      },
-      "artists": [
-        {
-          "name": "ULM\u00c4R",
-          "url": "https://open.spotify.com/artist/4d6BT2a50fKnw1CgUsGgQn"
-        }
-      ],
-      "duration_ms": 200294,
-      "name": "Christmas Isn't Canceled (Just You)",
-      "url": "https://open.spotify.com/track/2y86bbiazs261sQRfPwO3V"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/0OTyUrITns5JqLRMFzPnvL"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 164444,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/7Kg4sOMxvWqoYlpmiZSn8f"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Christmas Isn't Canceled (Just You)",
+        "url": "https://open.spotify.com/album/5eiUdCNJTWZ5D1mnQlbaea"
+      },
+      "artists": [
+        {
+          "name": "ULM\u00c4R",
+          "url": "https://open.spotify.com/artist/4d6BT2a50fKnw1CgUsGgQn"
+        }
+      ],
+      "duration_ms": 200294,
+      "name": "Christmas Isn't Canceled (Just You)",
+      "url": "https://open.spotify.com/track/2y86bbiazs261sQRfPwO3V"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Not Your Normal Christmas",
-        "url": "https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3"
-      },
-      "artists": [
-        {
-          "name": "Yellowbase",
-          "url": "https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Ice Town",
-      "url": "https://open.spotify.com/track/21xsIpj7Oooy2qp9IHoL1k"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "I Saw Mommy Kissing Santa Claus",
         "url": "https://open.spotify.com/album/1PtoLfMtF2rSEogd7y01Y4"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 157500,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/7bp84JD1iNgMKgd0Pjdo6K"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Not Your Normal Christmas",
+        "url": "https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3"
+      },
+      "artists": [
+        {
+          "name": "Yellowbase",
+          "url": "https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Ice Town",
+      "url": "https://open.spotify.com/track/21xsIpj7Oooy2qp9IHoL1k"
     },
     {
       "added_at": "2024-12-20 07:58:31",

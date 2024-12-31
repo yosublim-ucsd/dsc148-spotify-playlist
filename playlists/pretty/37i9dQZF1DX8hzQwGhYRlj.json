@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 37598,
+  "num_followers": 37608,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -143,8 +143,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Concerto; Lyric Pieces",
-        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
+        "name": "Grieg: Peer Gynt Suites Nos.1 & 2; From Holberg's Time; Sigurd Jorsalfar",
+        "url": "https://open.spotify.com/album/3seAsETnOyscPpXkoblvMw"
       },
       "artists": [
         {
@@ -152,13 +152,17 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
         }
       ],
-      "duration_ms": 273786,
-      "name": "VI. Hjemve (Andante)",
-      "url": "https://open.spotify.com/track/0UDJzgIWDc1e6qS9rYldCY"
+      "duration_ms": 226666,
+      "name": "Peer Gynt Suite No. 1, Op. 46: III. Anitra's Dance",
+      "url": "https://open.spotify.com/track/2NOsBN5RdlHUMxlTYOR41f"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -187,8 +191,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Peer Gynt Suites Nos.1 & 2; From Holberg's Time; Sigurd Jorsalfar",
-        "url": "https://open.spotify.com/album/3seAsETnOyscPpXkoblvMw"
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
+        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
       },
       "artists": [
         {
@@ -196,17 +200,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Peer Gynt Suite No. 1, Op. 46: III. Anitra's Dance",
-      "url": "https://open.spotify.com/track/2NOsBN5RdlHUMxlTYOR41f"
+      "duration_ms": 273786,
+      "name": "VI. Hjemve (Andante)",
+      "url": "https://open.spotify.com/track/0UDJzgIWDc1e6qS9rYldCY"
     },
     {
       "added_at": "2022-09-30 04:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 100207,
+  "num_followers": 100248,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,26 @@
     {
       "added_at": "2024-12-25 05:20:34",
       "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+        }
+      ],
+      "duration_ms": 173397,
+      "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
+      "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"
+    },
+    {
+      "added_at": "2024-12-25 05:20:34",
+      "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 5",
         "url": "https://open.spotify.com/album/2IgOCG5wbFkL6ZH6TFug32"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 245454,
       "name": "H\u00c0O QUANG (feat. RHYDER, D\u01b0\u01a1ng Domic & Ph\u00e1p Ki\u1ec1u)",
       "url": "https://open.spotify.com/track/3EQjXzlXY0dyOovq0Awe91"
-    },
-    {
-      "added_at": "2024-12-25 05:20:34",
-      "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Trung Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
-        }
-      ],
-      "duration_ms": 173397,
-      "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
-      "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"
     },
     {
       "added_at": "2024-12-25 05:20:34",

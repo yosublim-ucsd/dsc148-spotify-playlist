@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Club Alaturca",
+        "url": "https://open.spotify.com/album/3fgcxSvINdzVcNE19XdpDF"
+      },
+      "artists": [
+        {
+          "name": "Alaturca Club",
+          "url": "https://open.spotify.com/artist/0fwNI3rKjhHtiDqngqNI3X"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230379,
+      "name": "Elalemci",
+      "url": "https://open.spotify.com/track/6zetltEZezCOerhKruCl85"
+    },
+    {
+      "album": {
         "name": "Elmas",
         "url": "https://open.spotify.com/album/4o6SVSaIFFTzqRbRQ95v0Z"
       },
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 176800,
       "name": "G\u00fczel Olmaz M\u0131?",
       "url": "https://open.spotify.com/track/4aiPmZeZmXgDGaFzm51PNW"

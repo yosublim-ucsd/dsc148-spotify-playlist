@@ -11161,6 +11161,24 @@
     },
     {
       "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/3geAstVCMtar1HrVVOvzSn"
+      },
+      "artists": [
+        {
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "Nothing Lasts Forever",
+      "url": "https://open.spotify.com/track/4hCdrbscKtHN0nUPYyue5W"
+    },
+    {
+      "album": {
         "name": "VISUALS",
         "url": "https://open.spotify.com/album/0zoanXJYpaFO0jND1HzAti"
       },
@@ -11610,7 +11628,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 176000,
       "name": "Original",
       "url": "https://open.spotify.com/track/4jHDe4YjUYb68wgTWe37Fw"

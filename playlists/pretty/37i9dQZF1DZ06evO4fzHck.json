@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 559341,
+  "num_followers": 559438,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z28/gAAAAABxvkflhafCJhEGM8A9mp4b",
+  "snapshot_id": "Z3CRAAAAAABSrBgABPmLbyZZvso8TKm6",
   "tracks": [
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Three Imaginary Boys",
-      "url": "https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB"
+      "duration_ms": 169306,
+      "name": "Grinding Halt",
+      "url": "https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 169306,
-      "name": "Grinding Halt",
-      "url": "https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi"
+      "duration_ms": 195693,
+      "name": "Three Imaginary Boys",
+      "url": "https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB"
     },
     {
       "added_at": null,

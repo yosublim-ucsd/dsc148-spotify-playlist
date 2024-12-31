@@ -1372,6 +1372,24 @@
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194310,
+      "name": "Unwrap My Heart",
+      "url": "https://open.spotify.com/track/3kzGUDepZsD9oytsHUcCyp"
+    },
+    {
+      "album": {
+        "name": "Unwrap My Heart",
+        "url": "https://open.spotify.com/album/0ItScUgRovZGATcWhnF32t"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         },
         {
           "name": "Tom Brownlow",
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 183702,
       "name": "Unwrap My Heart (Tom Brownlow Remix)",
       "url": "https://open.spotify.com/track/0xpcbVpeeqt5JCkTmj57Ya"

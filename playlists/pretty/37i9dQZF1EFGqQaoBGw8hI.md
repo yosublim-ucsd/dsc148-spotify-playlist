@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,495 likes - 589 songs - 1 day 17 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,496 likes - 589 songs - 1 day 17 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,8 +270,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 260 | [Just Like Belgium \- Remastered 2003](https://open.spotify.com/track/0g04hQLDBQGedUIRDp1mmn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 4:09 |
 | 261 | [I Never Knew Her Name](https://open.spotify.com/track/5t9gKY2Y0y3M0bs8J9V2e3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 3:28 |
 | 262 | [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 |
-| 263 | [Empty Sky](https://open.spotify.com/track/58JTecMx60zODpZ134FC79) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 8:29 |
-| 264 | [Turn The Lights Out When You Leave](https://open.spotify.com/track/1lGwSKgdYCWXU2LH0P2SZ4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 5:02 |
+| 263 | [Turn The Lights Out When You Leave](https://open.spotify.com/track/1lGwSKgdYCWXU2LH0P2SZ4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 5:02 |
+| 264 | [Empty Sky](https://open.spotify.com/track/58JTecMx60zODpZ134FC79) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 8:29 |
 | 265 | [Whipping Boy](https://open.spotify.com/track/0DEMdhqWg1drmkprEHVsYU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:44 |
 | 266 | [Angry Dance](https://open.spotify.com/track/7IAQKxGChgYSSS6hZm6JLf) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 3:49 |
 | 267 | [The Rumour](https://open.spotify.com/track/7oYUlz8VIzGyvKXQkExD1P) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [The Rumour](https://open.spotify.com/album/0u7QKOGir1VdlDab8BErIB) | 3:58 |
@@ -364,8 +364,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 354 | [Blues Never Fade Away](https://open.spotify.com/track/4gdH8mfTgmEgFyts0eq2a6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:45 |
 | 355 | [Telegraph To The Afterlife](https://open.spotify.com/track/17DjW89xie0skL6XR23OaU) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 4:45 |
 | 356 | [When A Woman Doesn't Want You](https://open.spotify.com/track/2hfWkzKibVUGoaM24mit5J) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:55 |
-| 357 | [Birds](https://open.spotify.com/track/6wUgJcub5RD3PXGsmR53Uv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:52 |
-| 358 | [Cold Highway \- Remastered 1995](https://open.spotify.com/track/0CY864emS4cZAUYM55R8sW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:25 |
+| 357 | [Cold Highway \- Remastered 1995](https://open.spotify.com/track/0CY864emS4cZAUYM55R8sW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:25 |
+| 358 | [Birds](https://open.spotify.com/track/6wUgJcub5RD3PXGsmR53Uv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:52 |
 | 359 | [Understanding Women](https://open.spotify.com/track/1L209N6WHxTyzljrKhRKN4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:03 |
 | 360 | [Hard Luck Story](https://open.spotify.com/track/370wvMsgFk2WFsQfOI7ilP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 5:16 |
 | 361 | [Michelle's Song \- From “Friends” Soundtrack](https://open.spotify.com/track/2e2tuKera7JpdOArm6sDcl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 4:20 |
@@ -533,8 +533,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 523 | [I Know Why I'm In Love](https://open.spotify.com/track/4jL2oCnnwaM8fGfL74F12R) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:32 |
 | 524 | [Kia Rite](https://open.spotify.com/track/2S0LM6YVNPZnKTdVdugCXw) | [Matu Ngaropo](https://open.spotify.com/artist/1jxps5V78K2U2J8sgm3dEM), [Ani\-Piki Tuari](https://open.spotify.com/artist/3gUxbylb1fT8jdb0NgzMXM), [Jase Te Patu](https://open.spotify.com/artist/4VpMhtWonYxwli0P1hFhpa) | [The Lion King Reo Māori \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hHY5pxU9pAkDrFtVFCkwa) | 3:39 |
 | 525 | [Where It's At \- Piano/Percussion Demo](https://open.spotify.com/track/6xYqBIyDronKRYPHsYpenS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:02 |
-| 526 | [Reminds Me Of You \- Piano Demo](https://open.spotify.com/track/3pi6fMBTdZYAFEW5HQE08Z) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:50 |
-| 527 | [Can't Get Over Getting Over Losing You](https://open.spotify.com/track/1o4wevaLAHewUFpEohXtnf) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:16 |
+| 526 | [Can't Get Over Getting Over Losing You](https://open.spotify.com/track/1o4wevaLAHewUFpEohXtnf) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:16 |
+| 527 | [Reminds Me Of You \- Piano Demo](https://open.spotify.com/track/3pi6fMBTdZYAFEW5HQE08Z) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:50 |
 | 528 | [Who's Gonna Love You \- Piano/Percussion Demo](https://open.spotify.com/track/5TUoanyWjgLPYOD6OfMbwn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:39 |
 | 529 | [White Man Danger](https://open.spotify.com/track/7ysV4Cv0j4A1KZ0CuFdGcl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 5:26 |
 | 530 | [How's Tomorrow](https://open.spotify.com/track/0kW9319sMIB3X7BP8TiMNJ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 5:22 |
@@ -598,4 +598,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 588 | [Tak Já Zas Stojím](https://open.spotify.com/track/3wdzFK4hcZRrnl6wYEAJy4) | [Alena](https://open.spotify.com/artist/43Ubj5xwJn75ljUs0eQEtG) | [Já a ty](https://open.spotify.com/album/7EXwdt5mIE6GAdSCuaPnMN) | 3:17 |
 | 589 | [Driving To Universal](https://open.spotify.com/track/040KoSuQEPnxcuOoEYJVVI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:17 |
 
-Snapshot ID: `AbleFAAAAADdEZUoU6zK1r7WqTttd1ad`
+Snapshot ID: `AbljvgAAAACl8Vn3bBFYdV9kZVJOPASL`

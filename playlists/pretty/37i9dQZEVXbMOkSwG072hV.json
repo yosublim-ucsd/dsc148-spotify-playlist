@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 351562,
+  "num_followers": 351555,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LwS7IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LwYKSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Resenha do Arrocha",
         "url": "https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Jo\u00e3o 20 + pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YYYzAuJS4VOHvSnPKJ3KA"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2q6TyecFazAXXydaIZrjuz"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Descer Pra BC",
         "url": "https://open.spotify.com/album/6Ey5sExBbStsPTgJ6WeIal"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/6RzcNTnS02dnqoQMdTkQwi"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "A NATA",
         "url": "https://open.spotify.com/album/5XJYaowFaMrv96HReqANTM"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/4yCaCU8oRB8Pcztid6D77d"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Dingo Bell",
         "url": "https://open.spotify.com/album/3vL7VvIf0DLVBf82CKJ052"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/2hupdDq30eIxa8ttDBS0GL"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Vaqueirinha da Hora",
         "url": "https://open.spotify.com/album/0DYe9wKuvWyqWP6NBCACAo"
@@ -145,7 +145,31 @@
       "url": "https://open.spotify.com/track/4UY1kFBh9AO5Lhi9X3fK2I"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Puta \u00c9 S\u00f3 um Detalhe",
+        "url": "https://open.spotify.com/album/0pAcro1CTQZfvV7en7fepD"
+      },
+      "artists": [
+        {
+          "name": "DJ Douglinhas",
+          "url": "https://open.spotify.com/artist/27CMmXxUH8UMkVGuFNFSOi"
+        },
+        {
+          "name": "DJ Miller Oficial",
+          "url": "https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP"
+        },
+        {
+          "name": "MC Torugo",
+          "url": "https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Puta \u00c9 S\u00f3 um Detalhe",
+      "url": "https://open.spotify.com/track/58g8XjpC5Yj3jCOUVMqAfb"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Fui Mlk",
         "url": "https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r"
@@ -173,7 +197,7 @@
       "url": "https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Capo Dei Capi",
         "url": "https://open.spotify.com/album/3UfHcXkq3VqEhuPxd5lZ6p"
@@ -189,47 +213,7 @@
       "url": "https://open.spotify.com/track/0gfQf6PBw6aPv6GVwfTSIj"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Funk Natalino (Beat do Natal)",
-        "url": "https://open.spotify.com/album/1GpdM098Kal7084Qq5XTaK"
-      },
-      "artists": [
-        {
-          "name": "DJ Michael",
-          "url": "https://open.spotify.com/artist/7vKKUN1mivSg67Jg7uGUso"
-        }
-      ],
-      "duration_ms": 154872,
-      "name": "Funk Natalino (Beat do Natal)",
-      "url": "https://open.spotify.com/track/4i0atH0C0sU59st1JoWs2T"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Puta \u00c9 S\u00f3 um Detalhe",
-        "url": "https://open.spotify.com/album/0pAcro1CTQZfvV7en7fepD"
-      },
-      "artists": [
-        {
-          "name": "DJ Douglinhas",
-          "url": "https://open.spotify.com/artist/27CMmXxUH8UMkVGuFNFSOi"
-        },
-        {
-          "name": "DJ Miller Oficial",
-          "url": "https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP"
-        },
-        {
-          "name": "MC Torugo",
-          "url": "https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Puta \u00c9 S\u00f3 um Detalhe",
-      "url": "https://open.spotify.com/track/58g8XjpC5Yj3jCOUVMqAfb"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Mexendo Com Voc\u00ea",
         "url": "https://open.spotify.com/album/77pO4gcyW32biNSuZCcVmo"
@@ -245,7 +229,39 @@
       "url": "https://open.spotify.com/track/7h0k2QGZIyUe121wAu0BWO"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Funk Natalino (Beat do Natal)",
+        "url": "https://open.spotify.com/album/1GpdM098Kal7084Qq5XTaK"
+      },
+      "artists": [
+        {
+          "name": "DJ Michael",
+          "url": "https://open.spotify.com/artist/7vKKUN1mivSg67Jg7uGUso"
+        }
+      ],
+      "duration_ms": 154872,
+      "name": "Funk Natalino (Beat do Natal)",
+      "url": "https://open.spotify.com/track/4i0atH0C0sU59st1JoWs2T"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Meu Carro nao tem Porta Luva (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2lspGbGOU0Bz2ZH4sfhN5b"
+      },
+      "artists": [
+        {
+          "name": "DJ NATAN 22",
+          "url": "https://open.spotify.com/artist/1IOofxVTB3jFgrfUpufZgF"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "Meu Carro nao tem Porta Luva - Remastered 2024",
+      "url": "https://open.spotify.com/track/0vYrfm0eUQyi6fWbYnBiDc"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Vivendo ou Existindo",
         "url": "https://open.spotify.com/album/6CWTJpwZ2hH4fiy2qqwDWN"
@@ -261,23 +277,7 @@
       "url": "https://open.spotify.com/track/53nKSNo8iJZlWxU5p5kyvL"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Tu Xera",
-        "url": "https://open.spotify.com/album/0jBodMyOYxuMCLVMRYxV4Z"
-      },
-      "artists": [
-        {
-          "name": "Anderson & Vei da Pisadinha",
-          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
-        }
-      ],
-      "duration_ms": 163850,
-      "name": "Tu Xera",
-      "url": "https://open.spotify.com/track/3Sd5jsryYBah9GPAdVfsrA"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Rel\u00edquias",
         "url": "https://open.spotify.com/album/6eeqZFLbQeLvj3uyBokygQ"
@@ -293,23 +293,23 @@
       "url": "https://open.spotify.com/track/5uNVEe0mTmxb65YY1gtJXS"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
-        "name": "Eles N\u00e3o Entende",
-        "url": "https://open.spotify.com/album/5pnP9Amc0lLL9wIWyZB1NA"
+        "name": "Tu Xera",
+        "url": "https://open.spotify.com/album/0jBodMyOYxuMCLVMRYxV4Z"
       },
       "artists": [
         {
-          "name": "kocheMMM",
-          "url": "https://open.spotify.com/artist/0TpUsCTAGi1w489DQ2GvHn"
+          "name": "Anderson & Vei da Pisadinha",
+          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
         }
       ],
-      "duration_ms": 153482,
-      "name": "Eles N\u00e3o Entende",
-      "url": "https://open.spotify.com/track/0dSXx3STVo4IQQSzDtiPdG"
+      "duration_ms": 163850,
+      "name": "Tu Xera",
+      "url": "https://open.spotify.com/track/3Sd5jsryYBah9GPAdVfsrA"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -325,7 +325,55 @@
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "duration_ms": 624000,
+      "name": "O Fogo Arder\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Eles N\u00e3o Entende",
+        "url": "https://open.spotify.com/album/5pnP9Amc0lLL9wIWyZB1NA"
+      },
+      "artists": [
+        {
+          "name": "kocheMMM",
+          "url": "https://open.spotify.com/artist/0TpUsCTAGi1w489DQ2GvHn"
+        }
+      ],
+      "duration_ms": 153482,
+      "name": "Eles N\u00e3o Entende",
+      "url": "https://open.spotify.com/track/0dSXx3STVo4IQQSzDtiPdG"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Precip\u00edcio / Dona do Hosp\u00edcio",
+        "url": "https://open.spotify.com/album/60k8lommMtdoUPPK42FQe7"
+      },
+      "artists": [
+        {
+          "name": "Thalles e J\u00fanior",
+          "url": "https://open.spotify.com/artist/5jm3AW4tgaVmCksuPuMfbH"
+        }
+      ],
+      "duration_ms": 191382,
+      "name": "Precip\u00edcio / Dona do Hosp\u00edcio",
+      "url": "https://open.spotify.com/track/6rUIT6MWyhKEONHzEqcPgY"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Funk de Beleza",
         "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
@@ -345,39 +393,7 @@
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
-      },
-      "artists": [
-        {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
-        }
-      ],
-      "duration_ms": 624000,
-      "name": "O Fogo Arder\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Precip\u00edcio / Dona do Hosp\u00edcio",
-        "url": "https://open.spotify.com/album/60k8lommMtdoUPPK42FQe7"
-      },
-      "artists": [
-        {
-          "name": "Thalles e J\u00fanior",
-          "url": "https://open.spotify.com/artist/5jm3AW4tgaVmCksuPuMfbH"
-        }
-      ],
-      "duration_ms": 191382,
-      "name": "Precip\u00edcio / Dona do Hosp\u00edcio",
-      "url": "https://open.spotify.com/track/6rUIT6MWyhKEONHzEqcPgY"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Medley de Igarat\u00e1 3",
         "url": "https://open.spotify.com/album/6l0tPCspEGygy7QdvJaGjz"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/4FbYt9D0katV4nXZaC01Yt"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Vai Tomando",
         "url": "https://open.spotify.com/album/7GoQF9lbtpWqG9SFKf6fCQ"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/1sIg2HURWNfucJ8PPUCSJ4"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Numa Ilha",
         "url": "https://open.spotify.com/album/3iWRG01i6PWGpA7cADfovj"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/2MitriRScA3ZKpVd1lXAbm"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Vem C\u00e1 Vem C\u00e1",
         "url": "https://open.spotify.com/album/2lOWu9pgIrZkbRTF7jhWrP"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/6Ozh5tbgTk9SDZhnENW1hq"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Speak for Yourself",
         "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
@@ -493,31 +509,7 @@
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Zn Fod\u00e1stica 2",
         "url": "https://open.spotify.com/album/2HDv6CrPrkcEtEscuYgssB"
@@ -541,7 +533,47 @@
       "url": "https://open.spotify.com/track/4ftmzFb6Rq6fBODm9qUnFE"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Obrigado Deus",
+        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 159480,
+      "name": "C\u00f3pia Proibida",
+      "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Rala Xerekinha - Joga No Coroa",
         "url": "https://open.spotify.com/album/2fvBuZ3xMzGYsHMq0Ci3ju"
@@ -561,23 +593,7 @@
       "url": "https://open.spotify.com/track/47JkzmLFh3iPXmr9V1ADCx"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Obrigado Deus",
-        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "C\u00f3pia Proibida",
-      "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "\u00c9 o Japa Nk N\u00e9 Beb\u00ea",
         "url": "https://open.spotify.com/album/1F5mxBD31BSIpOEenNlcvH"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/06n87WQroP5WFD4aR45T8X"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Trepa",
         "url": "https://open.spotify.com/album/0FPITgjn5F4FFSY64s73IW"
@@ -617,43 +633,7 @@
       "url": "https://open.spotify.com/track/2sX80wcBOuWaEgdgOnP1G3"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Olha a Pedra",
-        "url": "https://open.spotify.com/album/7KApbEwqDAATpGFK7GeooF"
-      },
-      "artists": [
-        {
-          "name": "Seresta do Rasta",
-          "url": "https://open.spotify.com/artist/76dRnYNyHy7h4hYQXyd2Oj"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0mqIINBtuhTRePQP4ZhoPP"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Do Job",
-        "url": "https://open.spotify.com/album/3tshJG1V8z9vR7EzHMw9H1"
-      },
-      "artists": [
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "Do Job",
-      "url": "https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
         "url": "https://open.spotify.com/album/7JbiJkrVXvo1num2mfA33v"
@@ -681,7 +661,23 @@
       "url": "https://open.spotify.com/track/6x6EA3N9xXgptSakS7VZUg"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Olha a Pedra",
+        "url": "https://open.spotify.com/album/7KApbEwqDAATpGFK7GeooF"
+      },
+      "artists": [
+        {
+          "name": "Seresta do Rasta",
+          "url": "https://open.spotify.com/artist/76dRnYNyHy7h4hYQXyd2Oj"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0mqIINBtuhTRePQP4ZhoPP"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Medley Explos\u00e3o - Reggae Funk",
         "url": "https://open.spotify.com/album/535EBEKDa7e278S26SXPfW"
@@ -697,7 +693,27 @@
       "url": "https://open.spotify.com/track/73mGrH51bfCXuESnwzOVKH"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Do Job",
+        "url": "https://open.spotify.com/album/3tshJG1V8z9vR7EzHMw9H1"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "Do Job",
+      "url": "https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Chapa M\u00e1xima (feat. CAO$, Dj Lv Mdp)",
         "url": "https://open.spotify.com/album/1DkRzC3vCBaHoiddVsZozN"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/3yCtRV7LMeGBpvSHDR8uMV"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Obrigado Deus",
         "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
@@ -745,63 +761,7 @@
       "url": "https://open.spotify.com/track/3cwVKjzKSTfvacYJF6Tkub"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Ensaios Da Anitta",
-        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 142309,
-      "name": "Capa De Revista",
-      "url": "https://open.spotify.com/track/0PNwMRlZgwoWVe0idfGQPH"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Pared\u00f5es",
-        "url": "https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 175621,
-      "name": "Pared\u00f5es",
-      "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Estilo Nattanzinho (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO"
@@ -821,7 +781,79 @@
       "url": "https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Pared\u00f5es",
+        "url": "https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 175621,
+      "name": "Pared\u00f5es",
+      "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 142309,
+      "name": "Capa De Revista",
+      "url": "https://open.spotify.com/track/0PNwMRlZgwoWVe0idfGQPH"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Olha a Pedra",
+        "url": "https://open.spotify.com/album/7KApbEwqDAATpGFK7GeooF"
+      },
+      "artists": [
+        {
+          "name": "Seresta do Rasta",
+          "url": "https://open.spotify.com/artist/76dRnYNyHy7h4hYQXyd2Oj"
+        }
+      ],
+      "duration_ms": 102904,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/751vXKYXWZ9Z8oElSxshCW"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "SEM PAUSA",
         "url": "https://open.spotify.com/album/62TlgXVycr7VlvPtcsqVqK"
@@ -841,23 +873,103 @@
       "url": "https://open.spotify.com/track/0b9NPo02oQxZF1hsFgfl2L"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
-        "name": "Olha a Pedra",
-        "url": "https://open.spotify.com/album/7KApbEwqDAATpGFK7GeooF"
+        "name": "Bota amor (Coloca Nela)",
+        "url": "https://open.spotify.com/album/4sxn5hMe4kdVGzqe72xLGt"
       },
       "artists": [
         {
-          "name": "Seresta do Rasta",
-          "url": "https://open.spotify.com/artist/76dRnYNyHy7h4hYQXyd2Oj"
+          "name": "DJ GUSTAVO DA VS",
+          "url": "https://open.spotify.com/artist/0P9sGkINr33C0XNVNEIAIG"
+        },
+        {
+          "name": "MC CAROL 011",
+          "url": "https://open.spotify.com/artist/2nHLrRSXFJWJod42bGYxdP"
+        },
+        {
+          "name": "Mc Buret",
+          "url": "https://open.spotify.com/artist/2gcXNPBcTK2no0RRXNsFnu"
         }
       ],
-      "duration_ms": 102904,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/751vXKYXWZ9Z8oElSxshCW"
+      "duration_ms": 155076,
+      "name": "Bota amor (Coloca Nela)",
+      "url": "https://open.spotify.com/track/3zTluzNFjIXBeJiIXGoCOj"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 278014,
+      "name": "Like Him (feat. Lola Young)",
+      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Igual PC Da China",
+        "url": "https://open.spotify.com/album/1Q9Kh26s3VoX0cOFEsr3O2"
+      },
+      "artists": [
+        {
+          "name": "DJ LKS 067",
+          "url": "https://open.spotify.com/artist/1hvIB4huz2PS9YhLax2gzG"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        },
+        {
+          "name": "Mc Luizinho",
+          "url": "https://open.spotify.com/artist/5kFKWKOi67GISDFKogGbRP"
+        },
+        {
+          "name": "FreesTyle Sounds",
+          "url": "https://open.spotify.com/artist/2220tqsEJ1MrEmNhf7q3MI"
+        }
+      ],
+      "duration_ms": 109014,
+      "name": "Igual PC Da China",
+      "url": "https://open.spotify.com/track/6ehmOxh9Qq9BlLnvz4RYcV"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
+      "album": {
+        "name": "Tando",
+        "url": "https://open.spotify.com/album/1CuAuA3zQlS8y1PzvQc2Dj"
+      },
+      "artists": [
+        {
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
+        },
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Tando",
+      "url": "https://open.spotify.com/track/4seW5sDVICaZw34NzrHPm0"
+    },
+    {
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "ZN Meu Telefone",
         "url": "https://open.spotify.com/album/0x0yBeAN9ADfFslpPTsu8k"
@@ -889,79 +1001,7 @@
       "url": "https://open.spotify.com/track/0aoeuLF9g8f7627Kw5udYX"
     },
     {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Bota amor (Coloca Nela)",
-        "url": "https://open.spotify.com/album/4sxn5hMe4kdVGzqe72xLGt"
-      },
-      "artists": [
-        {
-          "name": "DJ GUSTAVO DA VS",
-          "url": "https://open.spotify.com/artist/0P9sGkINr33C0XNVNEIAIG"
-        },
-        {
-          "name": "MC CAROL 011",
-          "url": "https://open.spotify.com/artist/2nHLrRSXFJWJod42bGYxdP"
-        },
-        {
-          "name": "Mc Buret",
-          "url": "https://open.spotify.com/artist/2gcXNPBcTK2no0RRXNsFnu"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Bota amor (Coloca Nela)",
-      "url": "https://open.spotify.com/track/3zTluzNFjIXBeJiIXGoCOj"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Igual PC Da China",
-        "url": "https://open.spotify.com/album/1Q9Kh26s3VoX0cOFEsr3O2"
-      },
-      "artists": [
-        {
-          "name": "DJ LKS 067",
-          "url": "https://open.spotify.com/artist/1hvIB4huz2PS9YhLax2gzG"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        },
-        {
-          "name": "Mc Luizinho",
-          "url": "https://open.spotify.com/artist/5kFKWKOi67GISDFKogGbRP"
-        },
-        {
-          "name": "FreesTyle Sounds",
-          "url": "https://open.spotify.com/artist/2220tqsEJ1MrEmNhf7q3MI"
-        }
-      ],
-      "duration_ms": 109014,
-      "name": "Igual PC Da China",
-      "url": "https://open.spotify.com/track/6ehmOxh9Qq9BlLnvz4RYcV"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 278014,
-      "name": "Like Him (feat. Lola Young)",
-      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
+      "added_at": "2024-12-30 13:57:23",
       "album": {
         "name": "Check-In (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r"
@@ -975,46 +1015,6 @@
       "duration_ms": 183249,
       "name": "Cantada Boba - Ao Vivo",
       "url": "https://open.spotify.com/track/2gfn28JSINCJGLrUimmu0l"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Tando",
-        "url": "https://open.spotify.com/album/1CuAuA3zQlS8y1PzvQc2Dj"
-      },
-      "artists": [
-        {
-          "name": "Nuzio Medeiros",
-          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
-        },
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Tando",
-      "url": "https://open.spotify.com/track/4seW5sDVICaZw34NzrHPm0"
-    },
-    {
-      "added_at": "2024-12-29 13:36:35",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

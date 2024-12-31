@@ -2,7 +2,7 @@
 
 ### [Anime Hits 80's](https://open.spotify.com/playlist/37i9dQZF1DXcFCZS9poESZ)
 
-> The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
+> The hottest Anime hits of the 80s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 94 songs - 5 hr 56 min
 

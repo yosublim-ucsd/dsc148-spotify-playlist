@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "album": {
         "name": "Bad For Mig",
         "url": "https://open.spotify.com/album/4lw1IcKTi6fNVLbmwgYen1"
       },
@@ -2998,7 +3016,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 154611,
       "name": "Bellevue (feat. D1MA)",
       "url": "https://open.spotify.com/track/6EXV782Zpktyx9NvcwkYN5"
@@ -21736,7 +21754,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 174620,
       "name": "Min Bror",
       "url": "https://open.spotify.com/track/50XScTYQGylJMD55jXpjgJ"
@@ -24318,6 +24336,28 @@
       "duration_ms": 204629,
       "name": "Ok Ok pt 2",
       "url": "https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI"
+    },
+    {
+      "album": {
+        "name": "Omvendt",
+        "url": "https://open.spotify.com/album/3ThjkYiONS2KM6pGxfaH2q"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198165,
+      "name": "Omvendt",
+      "url": "https://open.spotify.com/track/6KhPSkuNT15R1LkD1inJZI"
     },
     {
       "album": {
@@ -27186,6 +27226,24 @@
       "duration_ms": 173513,
       "name": "Samma gamla vanliga (feat. Branco & Kamelen) - Remix",
       "url": "https://open.spotify.com/track/6BrXK35IO466yYtq7iGqVh"
+    },
+    {
+      "album": {
+        "name": "Samme side",
+        "url": "https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P"
+      },
+      "artists": [
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Samme side",
+      "url": "https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5"
     },
     {
       "album": {
@@ -32136,7 +32194,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 201920,
       "name": "Tinka",
       "url": "https://open.spotify.com/track/2f82yXiMKGkX2CtbkhgtvT"

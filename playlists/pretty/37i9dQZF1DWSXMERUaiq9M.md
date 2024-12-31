@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > 🚀 NYE takeover: All tracks picked by Marlon Hoffstadt aka DJ Daddy Trance 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,128 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,059 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 34 | [FTS \- Original Mix](https://open.spotify.com/track/5CLruz22PAlhr07V7ULV5u) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [FTS](https://open.spotify.com/album/0rXON439n3w0JaRaugKasV) | 5:29 |
 | 35 | [We Want More](https://open.spotify.com/track/7nfCb5stHePZ6OoE7HDTe2) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [We Want More](https://open.spotify.com/album/7nKp2UoahBhOLo5KiYHqpd) | 2:53 |
 | 36 | [Dikke Beat](https://open.spotify.com/track/1C5mmdbWD5ksvTU0gHPfao) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Dikke Beat](https://open.spotify.com/album/5IDtEkSGRVQX358ShCkQHQ) | 5:00 |
-| 37 | [Europaträume](https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Europaträume](https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf) | 3:36 |
-| 38 | [Neon](https://open.spotify.com/track/6G05ZcekqawoNe34fl8Kq8) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [44009](https://open.spotify.com/album/3fDSKVn2cR6bx3gHYkqqtY) | 4:21 |
+| 37 | [Neon](https://open.spotify.com/track/6G05ZcekqawoNe34fl8Kq8) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [44009](https://open.spotify.com/album/3fDSKVn2cR6bx3gHYkqqtY) | 4:21 |
+| 38 | [Europaträume](https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Europaträume](https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf) | 3:36 |
 | 39 | [Rafters](https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Rafters](https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov) | 3:07 |
 | 40 | [Mission Impossible III](https://open.spotify.com/track/0NeYTEmugY7xa3xiKIAnVP) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH) | [The Head Hurts but the Heart Knows the Truth](https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x) | 3:28 |
 | 41 | [Midsommar](https://open.spotify.com/track/79JUzsH4mlxo0HQvBwECi7) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Løvehjerte](https://open.spotify.com/album/7sSy3PAvDBJHbxZxNcY95U) | 4:35 |

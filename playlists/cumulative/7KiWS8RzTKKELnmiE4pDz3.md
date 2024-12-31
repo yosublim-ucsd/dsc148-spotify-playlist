@@ -4,7 +4,7 @@
 
 > 
 
-868 songs - 1 day 17 hr 54 min
+871 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,6 +648,7 @@
 | [Rental](https://open.spotify.com/track/0rDLJbeXXNLZ2gbPOm87Ar) | [Lunarrr](https://open.spotify.com/artist/0Tlfd0GGFcWZxrbdkykoxn) | [Rental](https://open.spotify.com/album/70ODUDHIEOZ96NJMSgBPSn) | 4:43 | 2023-03-20 | 2023-12-14 |
 | [Rich As Hell](https://open.spotify.com/track/5A6tFAdihqILHJrWuR6wD4) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 3:35 | 2022-08-26 |  |
 | [Ride Me](https://open.spotify.com/track/3IYJlal3AW4uFQJtcLdp3O) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 1:52 | 2023-01-06 | 2023-05-09 |
+| [Ridin Strikers](https://open.spotify.com/track/6PHbWsTTlmQKF9i9VC1KFv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:45 | 2024-12-30 |  |
 | [rifle crew](https://open.spotify.com/track/5JL77p8CYEt7vHEBS9eyVB) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [i wanna be a sniperrrrr](https://open.spotify.com/album/3hqf7upVvfJhXJDgBfmBMq) | 2:03 | 2024-11-05 |  |
 | [Risk It All, Pt.2](https://open.spotify.com/track/1FQMwCRlnmp6lLPrThtS8J) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Perfect](https://open.spotify.com/album/4HPAVn3Z1jGwZLRXadqOKO) | 2:58 | 2024-12-16 |  |
 | [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 | 2023-07-22 | 2024-11-06 |
@@ -703,6 +704,7 @@
 | [So Messy](https://open.spotify.com/track/5xKWzb7qzaRvTQ8OSfmOWR) | [GOONIE](https://open.spotify.com/artist/2Z8HHweJsQ0WDusmOsqozg) | [So Messy](https://open.spotify.com/album/5pcdj525dihZGZFEvwIVVe) | 2:02 | 2023-02-28 | 2023-12-14 |
 | [SO WHAT](https://open.spotify.com/track/73fAeM2OhX03Yu3Y5tWIIv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:24 | 2024-11-05 |  |
 | [SoHo Freestyle](https://open.spotify.com/track/4fs8ivWpMFLziD20LglPmZ) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Two Piece Tour Pack](https://open.spotify.com/album/7ACNmhUl7NLo0Gn4WPaE4A) | 3:34 | 2024-05-01 | 2024-11-06 |
+| [Solitaires \(feat\. Travis Scott\)](https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:25 | 2024-12-30 |  |
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2022-09-20 | 2023-05-09 |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2021-10-08 | 2024-11-06 |
 | [SOS](https://open.spotify.com/track/5pMmWfuL0FTGshYt7HVJ8P) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR) | 3:21 | 2024-04-27 | 2024-11-06 |
@@ -795,6 +797,7 @@
 | [Tootheache & Gaslighting!](https://open.spotify.com/track/3x0ObDVWg0iQiZ19v9aaXX) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 3](https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy) | 2:47 | 2023-04-03 | 2023-05-09 |
 | [Top Off](https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:17 | 2022-04-09 |  |
 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-08-07 | 2024-03-05 |
+| [Touch The Sky](https://open.spotify.com/track/29s4u1adFGLWtGehbR5xkq) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 2:24 | 2024-12-30 |  |
 | [Trap House \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/1nq3DVmmYHGmO0NrAJdvnl) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Still Summer In The Projects](https://open.spotify.com/album/3ZXrPDVxH8COhSw4jUmmuc) | 3:41 | 2024-08-15 |  |
 | [Trap It Out](https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:17 | 2024-12-23 |  |
 | [Treacherous](https://open.spotify.com/track/7zTuJaP8fvMWMy6DdkC9U5) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Treacherous](https://open.spotify.com/album/4oniEHUSpIyuFH7iIV0rV9) | 1:55 | 2024-04-01 | 2024-11-06 |

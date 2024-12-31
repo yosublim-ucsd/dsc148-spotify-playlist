@@ -49,6 +49,40 @@
     },
     {
       "album": {
+        "name": "4Real (feat. \u864e\u4e38\u7b11\u4e07 (CV : Lico), \u98f4\u6751\u97f3\u51db (CV : Noa), \u6771\u6d77\u6797\u6843\u3005\u5b50 (CV : Mone))",
+        "url": "https://open.spotify.com/album/3VFucA5lOtfksoUG8QxG0y"
+      },
+      "artists": [
+        {
+          "name": "OKINI\u2606PARTY'S",
+          "url": "https://open.spotify.com/artist/1QZLCJM6LGBnGBtWMfa22V"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u864e\u4e38\u7b11\u4e07 (CV : Lico)",
+          "url": "https://open.spotify.com/artist/48rr9y5rlO6DnLvzyOkWvQ"
+        },
+        {
+          "name": "\u98f4\u6751\u97f3\u51db (CV : Noa)",
+          "url": "https://open.spotify.com/artist/0wqrTb8gBzUqWPbkvxrZQa"
+        },
+        {
+          "name": "\u6771\u6d77\u6797\u6843\u3005\u5b50 (CV : Mone)",
+          "url": "https://open.spotify.com/artist/67sMK5uAKERhKyq788OrlY"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225375,
+      "name": "4Real (feat. \u864e\u4e38\u7b11\u4e07 (CV : Lico), \u98f4\u6751\u97f3\u51db (CV : Noa), \u6771\u6d77\u6797\u6843\u3005\u5b50 (CV : Mone))",
+      "url": "https://open.spotify.com/track/7IYVEL0pG0uey8zR6x0m1n"
+    },
+    {
+      "album": {
         "name": "AGARE",
         "url": "https://open.spotify.com/album/7lxy3mfva4ysxuwKnybshP"
       },

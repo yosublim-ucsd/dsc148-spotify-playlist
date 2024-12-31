@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2024 NCT WISH ASIA TOUR LOG in JAPAN』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,032 likes - 18 songs - 54 min 21 sec
+[Spotify](https://open.spotify.com/user/spotify) - 27,001 likes - 18 songs - 54 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 25524,
+  "num_followers": 25537,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "NINCS HOLNAP",
-        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 150295,
-      "name": "CARTIER",
-      "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
-    },
-    {
-      "added_at": "2024-12-16 16:32:23",
-      "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 175081,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
+    },
+    {
+      "added_at": "2024-12-16 16:32:23",
+      "album": {
+        "name": "NINCS HOLNAP",
+        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 150295,
+      "name": "CARTIER",
+      "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
     },
     {
       "added_at": "2024-12-16 16:32:23",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "EZ AZ \u00c1RA",
-        "url": "https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96"
+        "name": "Boldogtalans\u00e1g",
+        "url": "https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18"
       },
       "artists": [
         {
-          "name": "Moriones",
-          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
         }
       ],
-      "duration_ms": 182666,
-      "name": "EZ AZ \u00c1RA",
-      "url": "https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ"
+      "duration_ms": 186091,
+      "name": "Boldogtalans\u00e1g",
+      "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
     }
   ],
   "unique_name": "Most Men\u0151",

@@ -1,6 +1,6 @@
 {
   "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
-  "num_followers": 3202518,
+  "num_followers": 3202741,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
@@ -562,6 +562,10 @@
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 278277,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80RcWXnI2CZ.md) - [plain]
 
 > Always close at hand when a friend is in need, this character brings light, positivity, and an often underestimated strength.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,383 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,484 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

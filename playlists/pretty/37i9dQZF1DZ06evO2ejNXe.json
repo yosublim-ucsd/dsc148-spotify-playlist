@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1503,
+  "num_followers": 1504,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z28/gAAAAABu7MKhleH5yieb4eeP94qv",
+  "snapshot_id": "Z3CRAAAAAABWp6eOTwPHjlh7bxe7wEc1",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Mambo Maria",
+      "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Popurr\u00ed",
         "url": "https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 645067,
       "name": "Popurr\u00ed",
       "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Mambo Maria",
-      "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
       "duration_ms": 147400,
       "name": "Y Nos Dieron las Diez",
       "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Pachanga",
+        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/6Uv2ZPLcp5PPEjGGRl1rwE"
     },
     {
       "added_at": null,

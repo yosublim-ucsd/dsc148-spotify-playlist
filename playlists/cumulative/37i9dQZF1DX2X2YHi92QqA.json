@@ -1297,6 +1297,28 @@
     },
     {
       "album": {
+        "name": "\u0417\u0438\u043c\u0430",
+        "url": "https://open.spotify.com/album/1ExExrSUVv4K6gHFaabw16"
+      },
+      "artists": [
+        {
+          "name": "\u041e\u043b\u0435\u0433 \u0421\u043a\u0440\u0438\u043f\u043a\u0430",
+          "url": "https://open.spotify.com/artist/5cYQbeg6igMFnfAwGrvZP2"
+        },
+        {
+          "name": "Khrystyna Soloviy",
+          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221249,
+      "name": "\u0417\u0438\u043c\u0430",
+      "url": "https://open.spotify.com/track/6mzxy1vLZfP1D1Yi6fgyIC"
+    },
+    {
+      "album": {
         "name": "\u0412\u043e\u044f\u0436",
         "url": "https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr"
       },
@@ -2696,7 +2718,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 120000,
       "name": "\u0423\u0431\u0435\u0440",
       "url": "https://open.spotify.com/track/65zc8JAIiF5vfdccKfE5Y1"

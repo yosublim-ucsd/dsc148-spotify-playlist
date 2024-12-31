@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Fight Malice With Love",
+        "url": "https://open.spotify.com/album/2LcUg1gHYiH7YgYtbivFmh"
+      },
+      "artists": [
+        {
+          "name": "Valerie Hell",
+          "url": "https://open.spotify.com/artist/6Fagp3NI73E9OzpUcpKyM5"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211231,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/3iwaBue4azgT6Swq0oma7O"
+    },
+    {
+      "album": {
         "name": "Hockey",
         "url": "https://open.spotify.com/album/6rJcckvCabsY3tXwAyDL4w"
       },
@@ -1980,6 +1998,24 @@
       "duration_ms": 185600,
       "name": "Sheep Theme",
       "url": "https://open.spotify.com/track/4BeOHtksAeQvGcIm5zPRzH"
+    },
+    {
+      "album": {
+        "name": "Sapphic Ends",
+        "url": "https://open.spotify.com/album/5sUCs4A0qvZCimXphQTFzg"
+      },
+      "artists": [
+        {
+          "name": "Taitoki",
+          "url": "https://open.spotify.com/artist/0pER9ND48xKGZvGPZKEobC"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "Should I Consider",
+      "url": "https://open.spotify.com/track/10tHXodePBcZIN2St0cMlT"
     },
     {
       "album": {

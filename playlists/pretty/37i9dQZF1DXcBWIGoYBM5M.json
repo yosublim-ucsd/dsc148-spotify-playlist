@@ -1,6 +1,6 @@
 {
   "description": "The hottest 50. Cover: Billie Eilish",
-  "num_followers": 35135265,
+  "num_followers": 35136809,
   "original_name": "Today\u2019s Top Hits",
   "owner": {
     "name": "Spotify",
@@ -506,6 +506,10 @@
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 278277,

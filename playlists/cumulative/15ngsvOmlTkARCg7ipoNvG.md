@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,856 songs - 1 day 14 hr 2 min
+1,857 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Believing Again \- Cello Version](https://open.spotify.com/track/1WphP36dpwF7zL7L6Og6ts) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Echoes In Time \(Cello Version\)](https://open.spotify.com/album/2sELlm2BckpPszTqN2H4BY) | 1:09 | 2022-02-17 |  |
 | [Below](https://open.spotify.com/track/19VlcMrQnnVU1XMkGsbDM5) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:25 | 2022-01-20 |  |
 | [Below the Clouds](https://open.spotify.com/track/33VYFKjSysp7tMiZ2NSAW5) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Moments in Moments](https://open.spotify.com/album/11Qrb7rgNQf8HbNsu4yZBJ) | 1:22 | 2024-01-29 |  |
+| [Between](https://open.spotify.com/track/4IKzn8pPEPiPN6k1nxl9Y5) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Between](https://open.spotify.com/album/32sfe1IxwCPiGGxTo5ewea) | 1:00 | 2024-12-30 |  |
 | [Between My Dreams](https://open.spotify.com/track/0Dz3pBpcEgds8DXIaurOeK) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [October](https://open.spotify.com/album/5rRy0qeDWkoJdpDr3aCQmH) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Between Two Worlds](https://open.spotify.com/track/2hpmyCVvB9zJ5dgwyr1yxl) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Waves Of Love](https://open.spotify.com/album/5ChteC7FRIuqgnbgb1NbxM) | 1:02 | 2022-05-14 |  |
 | [Between Worlds](https://open.spotify.com/track/4BQkXk9WghkrFuY9wS2Jw5) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Deep Inspiration](https://open.spotify.com/album/7LzslyJIxxDQ0Nqg0rGOaG) | 1:02 | 2022-05-11 |  |

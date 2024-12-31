@@ -2,7 +2,7 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Tyla, Tems and Arya Starr
+> Afro sounds crossing borders\. Cover: Tyla, Tems and Ayra Starr
 
 666 songs - 1 day 10 hr 40 min
 

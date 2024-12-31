@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
-  "num_followers": 196417,
+  "num_followers": 196421,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-12-26 23:00:23",
       "album": {
-        "name": "DEBER\u00cdAS QUEDARTE",
-        "url": "https://open.spotify.com/album/6krtjB6U1cwL8bB9siMD99"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "DEBER\u00cdAS QUEDARTE",
-      "url": "https://open.spotify.com/track/1udWDCFQhaQRkZzp9cFUo9"
-    },
-    {
-      "added_at": "2024-12-26 23:00:23",
-      "album": {
         "name": "El son de la cantina",
         "url": "https://open.spotify.com/album/77sNcuYlxBQ6t7nUuw37gY"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 158400,
       "name": "El son de la cantina",
       "url": "https://open.spotify.com/track/00oiraz80byLsMNmTxzd2X"
+    },
+    {
+      "added_at": "2024-12-26 23:00:23",
+      "album": {
+        "name": "DEBER\u00cdAS QUEDARTE",
+        "url": "https://open.spotify.com/album/6krtjB6U1cwL8bB9siMD99"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "DEBER\u00cdAS QUEDARTE",
+      "url": "https://open.spotify.com/track/1udWDCFQhaQRkZzp9cFUo9"
     },
     {
       "added_at": "2024-12-26 23:00:23",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-12-26 23:00:23",
       "album": {
-        "name": "El ef\u00edmero arte de perdonar",
-        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "El ef\u00edmero arte de perdonar",
-      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
-    },
-    {
-      "added_at": "2024-12-26 23:00:23",
-      "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 198960,
       "name": "Desde El Otro Lado",
       "url": "https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh"
+    },
+    {
+      "added_at": "2024-12-26 23:00:23",
+      "album": {
+        "name": "El ef\u00edmero arte de perdonar",
+        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El ef\u00edmero arte de perdonar",
+      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
     },
     {
       "added_at": "2024-12-26 23:00:23",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-12-26 23:00:23",
       "album": {
-        "name": "Coraz\u00f3n vaquero",
-        "url": "https://open.spotify.com/album/6vzNVVfoMoxv9oga5Yj7Q5"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 187128,
-      "name": "Coraz\u00f3n vaquero",
-      "url": "https://open.spotify.com/track/7eU3gSFZRfaX48jQ8tT1sd"
-    },
-    {
-      "added_at": "2024-12-26 23:00:23",
-      "album": {
         "name": "escocia",
         "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 231877,
       "name": "Tres Oto\u00f1os (feat. alberto.vela)",
       "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
+    },
+    {
+      "added_at": "2024-12-26 23:00:23",
+      "album": {
+        "name": "Coraz\u00f3n vaquero",
+        "url": "https://open.spotify.com/album/6vzNVVfoMoxv9oga5Yj7Q5"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 187128,
+      "name": "Coraz\u00f3n vaquero",
+      "url": "https://open.spotify.com/track/7eU3gSFZRfaX48jQ8tT1sd"
     },
     {
       "added_at": "2024-12-26 23:00:23",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-12-26 23:00:23",
       "album": {
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
+    },
+    {
+      "added_at": "2024-12-26 23:00:23",
+      "album": {
         "name": "QUEMARLO TODO",
         "url": "https://open.spotify.com/album/2n0iynESypPLAPOVu4GVj9"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2024-12-26 23:00:23",
       "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
+        "name": "SORA",
+        "url": "https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn"
       },
       "artists": [
         {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
         }
       ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
+      "duration_ms": 224000,
+      "name": "TECHNO TRISTE",
+      "url": "https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd"
     },
     {
       "added_at": "2024-12-26 23:00:23",
@@ -1111,22 +1127,6 @@
       "duration_ms": 165959,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
-    },
-    {
-      "added_at": "2024-12-26 23:00:23",
-      "album": {
-        "name": "SORA",
-        "url": "https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "TECHNO TRISTE",
-      "url": "https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd"
     },
     {
       "added_at": "2024-12-26 23:00:23",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-12-26 23:00:23",
       "album": {
-        "name": "El Psicod\u00e9lico (Guajira del Diablo)",
-        "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
-      },
-      "artists": [
-        {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
-        }
-      ],
-      "duration_ms": 338505,
-      "name": "El Psicod\u00e9lico (Guajira del Diablo)",
-      "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
-    },
-    {
-      "added_at": "2024-12-26 23:00:23",
-      "album": {
         "name": "El Porvenir",
         "url": "https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 232157,
       "name": "Famara (feat. Depedro)",
       "url": "https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR"
+    },
+    {
+      "added_at": "2024-12-26 23:00:23",
+      "album": {
+        "name": "El Psicod\u00e9lico (Guajira del Diablo)",
+        "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "duration_ms": 338505,
+      "name": "El Psicod\u00e9lico (Guajira del Diablo)",
+      "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
     },
     {
       "added_at": "2024-12-26 23:00:23",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-12-26 23:00:23",
       "album": {
-        "name": "Decid\u00ed Desaparecer",
-        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
-      },
-      "artists": [
-        {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
-        }
-      ],
-      "duration_ms": 163001,
-      "name": "Decid\u00ed Desaparecer",
-      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
-    },
-    {
-      "added_at": "2024-12-26 23:00:23",
-      "album": {
         "name": "Cre\u00ed que era eterno",
         "url": "https://open.spotify.com/album/0ScaKkT4wLKLPonVW0zLXH"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 192516,
       "name": "Cre\u00ed que era eterno",
       "url": "https://open.spotify.com/track/0Tg0GZmGnB7nozNRy8OMxX"
+    },
+    {
+      "added_at": "2024-12-26 23:00:23",
+      "album": {
+        "name": "Decid\u00ed Desaparecer",
+        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 163001,
+      "name": "Decid\u00ed Desaparecer",
+      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
     },
     {
       "added_at": "2024-12-26 23:00:23",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-12-26 23:00:23",
       "album": {
-        "name": "compartir",
-        "url": "https://open.spotify.com/album/2D5cjEp8Msc43KA3v7lIo1"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 165635,
-      "name": "compartir",
-      "url": "https://open.spotify.com/track/2jQbHv1h68MGzhYcCHNZQw"
-    },
-    {
-      "added_at": "2024-12-26 23:00:23",
-      "album": {
         "name": "Al infierno",
         "url": "https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA"
       },
@@ -1451,22 +1435,34 @@
     {
       "added_at": "2024-12-26 23:00:23",
       "album": {
-        "name": "Acostumbrarme",
-        "url": "https://open.spotify.com/album/5MyUQPlTNw14prHdnhRKaS"
+        "name": "Origen y Conmigo, Vol. 2",
+        "url": "https://open.spotify.com/album/6FKtz2bfjoGmQ751VoYN9M"
       },
       "artists": [
         {
-          "name": "Maren",
-          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
-        },
-        {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+          "name": "ALIS",
+          "url": "https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD"
         }
       ],
-      "duration_ms": 143989,
-      "name": "Acostumbrarme",
-      "url": "https://open.spotify.com/track/38dLVGQiAwEXCHK69UVVbZ"
+      "duration_ms": 185002,
+      "name": "Cielo muerto",
+      "url": "https://open.spotify.com/track/0Fq4HmISfPdf3s3nAwp3Zz"
+    },
+    {
+      "added_at": "2024-12-26 23:00:23",
+      "album": {
+        "name": "compartir",
+        "url": "https://open.spotify.com/album/2D5cjEp8Msc43KA3v7lIo1"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 165635,
+      "name": "compartir",
+      "url": "https://open.spotify.com/track/2jQbHv1h68MGzhYcCHNZQw"
     },
     {
       "added_at": "2024-12-26 23:00:23",
@@ -1487,18 +1483,22 @@
     {
       "added_at": "2024-12-26 23:00:23",
       "album": {
-        "name": "Origen y Conmigo, Vol. 2",
-        "url": "https://open.spotify.com/album/6FKtz2bfjoGmQ751VoYN9M"
+        "name": "Acostumbrarme",
+        "url": "https://open.spotify.com/album/5MyUQPlTNw14prHdnhRKaS"
       },
       "artists": [
         {
-          "name": "ALIS",
-          "url": "https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD"
+          "name": "Maren",
+          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
+        },
+        {
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
         }
       ],
-      "duration_ms": 185002,
-      "name": "Cielo muerto",
-      "url": "https://open.spotify.com/track/0Fq4HmISfPdf3s3nAwp3Zz"
+      "duration_ms": 143989,
+      "name": "Acostumbrarme",
+      "url": "https://open.spotify.com/track/38dLVGQiAwEXCHK69UVVbZ"
     },
     {
       "added_at": "2024-12-26 23:00:23",

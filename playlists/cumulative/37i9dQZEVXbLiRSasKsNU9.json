@@ -8161,6 +8161,24 @@
     },
     {
       "album": {
+        "name": "Bila Memang Kamu",
+        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
+      },
+      "artists": [
+        {
+          "name": "Betrand Putra Onsu",
+          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Bila Memang Kamu",
+      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
+    },
+    {
+      "album": {
         "name": "Bilir O Beni",
         "url": "https://open.spotify.com/album/01waXdENwB18KCgTHw89Rb"
       },
@@ -30750,7 +30768,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 248034,
       "name": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
       "url": "https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu"
@@ -43106,7 +43124,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 344006,
       "name": "Olha pra Minha Cara N\u00e3o",
       "url": "https://open.spotify.com/track/1sIg2HURWNfucJ8PPUCSJ4"
@@ -57148,7 +57166,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 147451,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"

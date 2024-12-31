@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 253257,
       "name": "10,000 Rise",
       "url": "https://open.spotify.com/track/4Ls4Xr2cT6KCXGNfxxKUOO"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 195126,
       "name": "ADEWALE: The Crown Came Home",
       "url": "https://open.spotify.com/track/6504LGDygo8qrkbrbDPY66"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 155675,
       "name": "Aminata",
       "url": "https://open.spotify.com/track/0HlchSc0ChOE5Q9xQrzN8y"
@@ -14076,7 +14076,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 210725,
       "name": "Coast Road",
       "url": "https://open.spotify.com/track/0vpDuO6obZOOdaUlFwn7N5"
@@ -15814,7 +15814,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 205085,
       "name": "Crazy Eyes",
       "url": "https://open.spotify.com/track/5QWatd2OymqnTYj8pCTUnL"
@@ -37696,7 +37696,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 311529,
       "name": "Joseph - 2024 Remaster",
       "url": "https://open.spotify.com/track/2NzB3ANAxYDksMOzT5JGV8"
@@ -43084,7 +43084,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 179480,
       "name": "Lost on Streets",
       "url": "https://open.spotify.com/track/3Z5O2Jmg3h5PzkEjeL5a04"
@@ -48532,7 +48532,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 146000,
       "name": "Mwendwa",
       "url": "https://open.spotify.com/track/7533ynRwQKcSI8azewHUXh"
@@ -54828,7 +54828,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 240586,
       "name": "Passing Lane",
       "url": "https://open.spotify.com/track/10LQfB33h6cSjBlsuTSOVN"
@@ -57836,7 +57836,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 146428,
       "name": "Qu\u00e9 d\u00eda es hoy?",
       "url": "https://open.spotify.com/track/5LHmwcQJp1Zoty2xQm0ozw"
@@ -62512,7 +62512,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 203426,
       "name": "Seven 7s",
       "url": "https://open.spotify.com/track/62aansPKWUHuaFnCTIp5Ks"
@@ -78156,6 +78156,24 @@
       "duration_ms": 237349,
       "name": "Ways to Say I'm Beautiful",
       "url": "https://open.spotify.com/track/5wC03VqWwgDZGGsiornXul"
+    },
+    {
+      "album": {
+        "name": "Divided Kind",
+        "url": "https://open.spotify.com/album/3GFIQfnkCZ9pT0DiEhBafF"
+      },
+      "artists": [
+        {
+          "name": "Native Harrow",
+          "url": "https://open.spotify.com/artist/2mN85kTlB8agKEcj9rMGLp"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Wayward Dreaming",
+      "url": "https://open.spotify.com/track/4J3Akpsnss5Rk2y5ZJvqMG"
     },
     {
       "album": {

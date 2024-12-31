@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with Jerk x Jollof\.  And cop tickets for our Cape Town takeover <a href="https://jerkxjollof.howler.co.za/events/jerk\-x\-jollof\-cape\-town\-takeover\-1c91">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,294 likes - 53 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,489 likes - 53 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -32536,7 +32536,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 144516,
       "name": "Downsize",
       "url": "https://open.spotify.com/track/1rtvSIvOZkw2YLkZku0DCh"
@@ -48550,7 +48550,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 146176,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/6n1SyuPgwVylTIT3XPzpFK"
@@ -63226,7 +63226,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 148250,
       "name": "Kochyli",
       "url": "https://open.spotify.com/track/59lne8ie4M3fNsvkMj1wNc"
@@ -68394,6 +68394,28 @@
       "duration_ms": 122982,
       "name": "little pleasures",
       "url": "https://open.spotify.com/track/7oXwwzULPtCZHT7eCkXxIC"
+    },
+    {
+      "album": {
+        "name": "Little Steps",
+        "url": "https://open.spotify.com/album/7EMS9Ghw0tuElcUSbLTfS3"
+      },
+      "artists": [
+        {
+          "name": "anbuu",
+          "url": "https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q"
+        },
+        {
+          "name": "Needraw",
+          "url": "https://open.spotify.com/artist/0RLfDzqlvXQT6C5yyfOD6z"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Little Steps",
+      "url": "https://open.spotify.com/track/0RISOA7M9b7cSt7lh5o4eR"
     },
     {
       "album": {

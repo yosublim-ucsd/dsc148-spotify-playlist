@@ -1,6 +1,6 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 89655,
+  "num_followers": 89679,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
@@ -825,20 +825,28 @@
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
-      "added_at": "2022-08-16 22:06:35",
+      "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "die sometime, it's good for u",
-        "url": "https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa"
+        "name": "MY BRAIN AFTER THERAPY",
+        "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
       },
       "artists": [
         {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        },
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        },
+        {
+          "name": "Extra Large Holiday Card",
+          "url": "https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe"
         }
       ],
-      "duration_ms": 168653,
-      "name": "problems",
-      "url": "https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf"
+      "duration_ms": 141352,
+      "name": "AFTER THERAPY (feat. Hot Mulligan)",
+      "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
     }
   ],
   "unique_name": "dear diary",

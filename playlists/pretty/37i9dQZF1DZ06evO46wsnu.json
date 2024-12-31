@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 167825,
+  "num_followers": 167841,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z28/gAAAAABL7R0HuyoyFNsvn0dhuKiR",
+  "snapshot_id": "Z3CRAAAAAACqFJZ0/QHpNoIL3/d9Ifan",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Welcome To The Breakdown",
-      "url": "https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nowhere Generation II",
         "url": "https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 222173,
       "name": "Pain Mgmt",
       "url": "https://open.spotify.com/track/0T2s6fdO3RgZY2bPltwNJr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Welcome To The Breakdown",
+      "url": "https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap"
     },
     {
       "added_at": null,

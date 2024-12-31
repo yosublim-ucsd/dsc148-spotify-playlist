@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138307,
+  "num_followers": 138308,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -1179,34 +1179,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Glitra",
-        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE"
       },
       "artists": [
         {
-          "name": "Hugo Brijs",
-          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
         }
       ],
-      "duration_ms": 210360,
-      "name": "Mol y Sol",
-      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Nature Always Wins",
-        "url": "https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4"
-      },
-      "artists": [
-        {
-          "name": "Maximo Park",
-          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
-        }
-      ],
-      "duration_ms": 182210,
-      "name": "Why Must A Building Burn?",
-      "url": "https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70"
+      "duration_ms": 226933,
+      "name": "Put a Light On",
+      "url": "https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1227,18 +1211,34 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Heza",
-        "url": "https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE"
+        "name": "Nature Always Wins",
+        "url": "https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4"
       },
       "artists": [
         {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
         }
       ],
-      "duration_ms": 226933,
-      "name": "Put a Light On",
-      "url": "https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI"
+      "duration_ms": 182210,
+      "name": "Why Must A Building Burn?",
+      "url": "https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Sinking Feeling",
+        "url": "https://open.spotify.com/album/4FkSkBf3iQKjV9PLZPAQVr"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "duration_ms": 213042,
+      "name": "Sinking Feeling",
+      "url": "https://open.spotify.com/track/0S1FtpRFRXS6XiZXYv1F3C"
     }
   ],
   "unique_name": "Diarios de Bicicleta",

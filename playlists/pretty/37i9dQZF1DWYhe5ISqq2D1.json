@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u5149\u308a",
-        "url": "https://open.spotify.com/album/6Gv1a05kz4EnbY7iQzJ1xt"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u91ce\u5927\u6a39",
-          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "\u5149\u308a",
-      "url": "https://open.spotify.com/track/5e1noXlF90H0ZpPmpwGqX1"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
         "name": "\u3042\u3068\u3060\u3057",
         "url": "https://open.spotify.com/album/5gp6e1opnbjMBJSchdDMrc"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 208053,
       "name": "\u3042\u3068\u3060\u3057",
       "url": "https://open.spotify.com/track/2jgbFVpPCG5QUgAjd55dVG"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "\u5149\u308a",
+        "url": "https://open.spotify.com/album/6Gv1a05kz4EnbY7iQzJ1xt"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u91ce\u5927\u6a39",
+          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "\u5149\u308a",
+      "url": "https://open.spotify.com/track/5e1noXlF90H0ZpPmpwGqX1"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u9006\u3089\u3046\u7fbd",
-        "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u6728\u7f8e\u5b9a",
-          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "\u9006\u3089\u3046\u7fbd",
-      "url": "https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
         "name": "\u30c9\u30e9\u30de / \u50d5\u304c\u66ae\u3089\u3057\u305f\u8857",
         "url": "https://open.spotify.com/album/7ajBQz8KNAwHe4j5ff4oge"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 291361,
       "name": "\u50d5\u304c\u66ae\u3089\u3057\u305f\u8857",
       "url": "https://open.spotify.com/track/3wbZ2kpWSCcnMsI986UckG"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "\u9006\u3089\u3046\u7fbd",
+        "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6728\u7f8e\u5b9a",
+          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "\u9006\u3089\u3046\u7fbd",
+      "url": "https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/33WwEIAnf6lK3gACTnm1NP"
+      },
+      "artists": [
+        {
+          "name": "\u8352\u8c37\u7fd4\u5927",
+          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
+        }
+      ],
+      "duration_ms": 230092,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/0urdV0jisyivWsEK9tvLEP"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
         "name": "GOLD HOUR -EP-",
         "url": "https://open.spotify.com/album/2uVBidHfAWmjNEJaWluiLl"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 254320,
       "name": "\u63fa\u308c\u308b\u30d4\u30a2\u30b9",
       "url": "https://open.spotify.com/track/5nGPee3PEkZUiSrViCm5Je"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/33WwEIAnf6lK3gACTnm1NP"
-      },
-      "artists": [
-        {
-          "name": "\u8352\u8c37\u7fd4\u5927",
-          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
-        }
-      ],
-      "duration_ms": 230092,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/0urdV0jisyivWsEK9tvLEP"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,471 likes - 41 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,583 likes - 41 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 |
 | 2 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/10FtxzZh2p5sYwI3Lik5XM) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/5Vy5Zym9vIpikh6uGhtp9P) | 2:31 |
 | 3 | [2 Paranoid \(feat\. Ronisia\)](https://open.spotify.com/track/4JGhu3crxX4NUdOmvzyhR3) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 3:33 |
-| 4 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
+| 4 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
 | 5 | [DX3 \(Dégâts X3\)](https://open.spotify.com/track/7FRniN2WWFoH77P3gFf51r) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [DX3 \(Dégâts X3\)](https://open.spotify.com/album/2Hv2DBDO4UX2AJrFsVoHkT) | 1:58 |
 | 6 | [Telenovela \(feat\. Reece Madlisa\)](https://open.spotify.com/track/6dNeacBmjKpZuDW56Cnvxk) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Enny Man Da Guitar](https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6), [Reece Madlisa](https://open.spotify.com/artist/51XZXIYXtQKFhJ8aQKk1if) | [Telenovela \(feat\. Reece Madlisa\)](https://open.spotify.com/album/712JMEOSpMOv243FzrKLfl) | 5:27 |
 | 7 | [Till I Die \(feat\. Spyro\)](https://open.spotify.com/track/36N2UjBiYmVHg4LQ4fJaNL) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Peace And Money](https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2) | 3:14 |

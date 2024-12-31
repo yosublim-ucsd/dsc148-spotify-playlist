@@ -1,6 +1,6 @@
 {
   "description": "New Music from Burna Boy and more ",
-  "num_followers": 95471,
+  "num_followers": 95583,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
@@ -74,6 +74,10 @@
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 278277,

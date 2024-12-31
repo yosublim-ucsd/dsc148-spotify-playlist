@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 164602,
       "name": "852 Hz Energy State",
       "url": "https://open.spotify.com/track/6wdYWxxrVyjHR34NLcjWsp"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 125995,
       "name": "Astral Distance",
       "url": "https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 178909,
       "name": "Borealis Dance",
       "url": "https://open.spotify.com/track/07epRPpNzsmF4v83FRM5pW"
@@ -1122,6 +1122,24 @@
       "duration_ms": 166500,
       "name": "Breezy Blossoms",
       "url": "https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f"
+    },
+    {
+      "album": {
+        "name": "Brilliance",
+        "url": "https://open.spotify.com/album/2B8IiSDoWZO1j4hRyAa8fF"
+      },
+      "artists": [
+        {
+          "name": "Everglades",
+          "url": "https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168149,
+      "name": "Brilliance",
+      "url": "https://open.spotify.com/track/5YPIHz8UW4svRQXWQLOEca"
     },
     {
       "album": {
@@ -1557,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Debonair Diminished",
+        "url": "https://open.spotify.com/album/1IUo1Q8V1Jcl7ETmHiTzuT"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "Debonair Diminished",
+      "url": "https://open.spotify.com/track/5UT9QX1CMRMfpKPqcbdi6D"
+    },
+    {
+      "album": {
         "name": "Thoughts in a Chest",
         "url": "https://open.spotify.com/album/4jqYAYprtPRpO8Cjiesx2T"
       },
@@ -1881,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Dreamwoven",
+        "url": "https://open.spotify.com/album/3iLAw9oQfXGLid2ZiHapaP"
+      },
+      "artists": [
+        {
+          "name": "Eline Moss",
+          "url": "https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146717,
+      "name": "Dreamwoven",
+      "url": "https://open.spotify.com/track/1595j5VsclNSXltAzPWssG"
+    },
+    {
+      "album": {
         "name": "Dreamy",
         "url": "https://open.spotify.com/album/375wUEEQ9rSH6s2RUYPZ1a"
       },
@@ -1896,6 +1950,24 @@
       "duration_ms": 173871,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/0Sf8GNcackTfQtLavA7IHY"
+    },
+    {
+      "album": {
+        "name": "Drift Beyond Silence",
+        "url": "https://open.spotify.com/album/1IPag54vzVqcDcBLmuOX06"
+      },
+      "artists": [
+        {
+          "name": "Amphose",
+          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163652,
+      "name": "Drift Beyond Silence",
+      "url": "https://open.spotify.com/track/7cr6V9L6bDoeghQgiAYXYK"
     },
     {
       "album": {
@@ -2360,7 +2432,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 153000,
       "name": "Evangelic",
       "url": "https://open.spotify.com/track/0XTn1DV7iPYTS9yVXzgnZI"
@@ -2619,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Foundation",
+        "url": "https://open.spotify.com/album/218mORlCaSkSfy0qU2Mmzd"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Hulenstadt",
+          "url": "https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Foundation",
+      "url": "https://open.spotify.com/track/5AdsKcnrM9vCSprWNDTRWR"
+    },
+    {
+      "album": {
         "name": "From Above",
         "url": "https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04"
       },
@@ -2846,7 +2936,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 142000,
       "name": "Green Valley",
       "url": "https://open.spotify.com/track/6NqoYpqw31nAKmm7u4PGwE"
@@ -2868,6 +2958,24 @@
       "duration_ms": 192980,
       "name": "Harmonious Drift",
       "url": "https://open.spotify.com/track/0GRTMyAtQp0VaVARbxDGtZ"
+    },
+    {
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/1zKzSZnVEF8dlODMUQ1puK"
+      },
+      "artists": [
+        {
+          "name": "Joudinoire",
+          "url": "https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197083,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/4fSeUfyTk5Ivv6Nv3SWB0Z"
     },
     {
       "album": {
@@ -3375,6 +3483,24 @@
     },
     {
       "album": {
+        "name": "Kuiper\u2019s Quiet",
+        "url": "https://open.spotify.com/album/0GM0i9jTztf6qBrp1ibFYB"
+      },
+      "artists": [
+        {
+          "name": "Silent Currents",
+          "url": "https://open.spotify.com/artist/3Sy8Yo6NeOYdAVVgVfIXk9"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Kuiper\u2019s Quiet",
+      "url": "https://open.spotify.com/track/2ANRAGAqZpO3pFwVd8VEZH"
+    },
+    {
+      "album": {
         "name": "Lavender Fields",
         "url": "https://open.spotify.com/album/4J9YetDF7lSXwjLcgEPjLi"
       },
@@ -3555,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "Lucent Depth",
+        "url": "https://open.spotify.com/album/1ptSF6H6nvUuTbL0rElDla"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sky Theory",
+          "url": "https://open.spotify.com/artist/6lmN6QFoGJ1WF04TwUwKws"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Lucent Depth",
+      "url": "https://open.spotify.com/track/63G4au8JSvBWv1Wm0FzeOy"
+    },
+    {
+      "album": {
         "name": "Lumina",
         "url": "https://open.spotify.com/album/0nb06JYvUWmtiTh8vNt7xF"
       },
@@ -3645,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Lustre",
+        "url": "https://open.spotify.com/album/1ApZw5FRTJfou3aYfg5ab9"
+      },
+      "artists": [
+        {
+          "name": "Indigenouz",
+          "url": "https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Lustre",
+      "url": "https://open.spotify.com/track/1rM50of4uD43gfTKYIIarn"
+    },
+    {
+      "album": {
         "name": "Magna Terra",
         "url": "https://open.spotify.com/album/3r8APNPA6KWw1opQgaV8gU"
       },
@@ -3656,7 +3818,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 206582,
       "name": "Magna Terra",
       "url": "https://open.spotify.com/track/3VNFVPth4hXHi8jSGfAjdS"
@@ -3980,7 +4142,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 168833,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/53uKwEi4BaBLbmcYz0AjoC"
@@ -4088,7 +4250,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 149000,
       "name": "Nomadic",
       "url": "https://open.spotify.com/track/5LaWbjk16aj6DB747lFJAx"
@@ -5093,6 +5255,24 @@
     },
     {
       "album": {
+        "name": "Ripples",
+        "url": "https://open.spotify.com/album/0buIzCEg1txWAISQenroyn"
+      },
+      "artists": [
+        {
+          "name": "Arctilok",
+          "url": "https://open.spotify.com/artist/40mS9P51UfvhIamB24wx91"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/0noYc0sHFb84vwbC2jBxFT"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/5ldR9U5iLHpdwekHbyofB1"
       },
@@ -5194,7 +5374,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 117073,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1gLUs9sgZSXMB5HgoZqT83"
@@ -5306,6 +5486,24 @@
       "duration_ms": 195143,
       "name": "Serenade of the Stars 528Hz",
       "url": "https://open.spotify.com/track/1RR3lD7yIpiE77aGGig6ba"
+    },
+    {
+      "album": {
+        "name": "Serenities",
+        "url": "https://open.spotify.com/album/0sJqTAGMEJYB355JmVaDi1"
+      },
+      "artists": [
+        {
+          "name": "Sheila's Disciples",
+          "url": "https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185394,
+      "name": "Serenities",
+      "url": "https://open.spotify.com/track/4AW63tKmv2rcfRcodeoGZ8"
     },
     {
       "album": {
@@ -5576,6 +5774,42 @@
       "duration_ms": 259000,
       "name": "Snesl bych ti modr\u00e9 z nebe",
       "url": "https://open.spotify.com/track/1v8nEP8CRicvuRiGxxjZF6"
+    },
+    {
+      "album": {
+        "name": "Solace in Slow Motion",
+        "url": "https://open.spotify.com/album/5XCL0sehcDMXh7R2UgNh1K"
+      },
+      "artists": [
+        {
+          "name": "Astron",
+          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Solace in Slow Motion",
+      "url": "https://open.spotify.com/track/4ViQRViK5nzlQutdEvipCb"
+    },
+    {
+      "album": {
+        "name": "Solution",
+        "url": "https://open.spotify.com/album/6xHwPxPybJJfKLOCecLokT"
+      },
+      "artists": [
+        {
+          "name": "Abstract Time",
+          "url": "https://open.spotify.com/artist/7HNpdpSzEr0e88c60UTUEJ"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198145,
+      "name": "Solution",
+      "url": "https://open.spotify.com/track/167Sn4wwaUVUAGMKOcoTYl"
     },
     {
       "album": {
@@ -6040,7 +6274,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 187353,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/7nbNCSPIvcyjQNcCTwD6aX"
@@ -6080,6 +6314,24 @@
       "duration_ms": 157000,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE"
+    },
+    {
+      "album": {
+        "name": "The minor pause",
+        "url": "https://open.spotify.com/album/5U3pPIzyNmwZE75DmkZMWf"
+      },
+      "artists": [
+        {
+          "name": "Maximilian Sievert",
+          "url": "https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "The minor pause",
+      "url": "https://open.spotify.com/track/4gDdm4aeylDxyDiPkiOc1N"
     },
     {
       "album": {
@@ -6242,6 +6494,24 @@
       "duration_ms": 175999,
       "name": "Torpid",
       "url": "https://open.spotify.com/track/3YR3JfeREWuoI1jc6dPiT7"
+    },
+    {
+      "album": {
+        "name": "Tranquil Pathway",
+        "url": "https://open.spotify.com/album/3fZ1lG9H5Yq5Hb4DcZKTkx"
+      },
+      "artists": [
+        {
+          "name": "Benjin Blund",
+          "url": "https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165312,
+      "name": "Tranquil Pathway",
+      "url": "https://open.spotify.com/track/6ppRmWDv6nKeO7TxEtr7EC"
     },
     {
       "album": {
@@ -6512,6 +6782,24 @@
       "duration_ms": 200000,
       "name": "Volunteer",
       "url": "https://open.spotify.com/track/4xAQP9W25XLD7z8XjLucOt"
+    },
+    {
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/3GkzK5cUhfRb6h76VyiUGN"
+      },
+      "artists": [
+        {
+          "name": "Paia Mooni",
+          "url": "https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/2v1mBhXwbKQZ9w3vDMhHGQ"
     },
     {
       "album": {
@@ -6836,6 +7124,24 @@
       "duration_ms": 227000,
       "name": "z\u00edtra",
       "url": "https://open.spotify.com/track/0Lrwxgacqe283eVOdhlMkh"
+    },
+    {
+      "album": {
+        "name": "\u00c9ternel",
+        "url": "https://open.spotify.com/album/6yJCHZ27d500vhmcGoACeP"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3ni Alma",
+          "url": "https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "\u00c9ternel",
+      "url": "https://open.spotify.com/track/0C4gSizuJjEnAOR49mltbr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1n9whBbBKoL"

@@ -5016,7 +5016,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 143960,
       "name": "FKR (NQMASH SURCE TECHNO (EDIT)",
       "url": "https://open.spotify.com/track/53JskTV09qEa9zMaIu3BWu"
@@ -7214,7 +7214,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
@@ -8468,7 +8468,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 215189,
       "name": "LAPAI",
       "url": "https://open.spotify.com/track/5hkHqC0v2ViGRGBgfz02ns"
@@ -9898,6 +9898,28 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY (VHS)",
       "url": "https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb"
+    },
+    {
+      "album": {
+        "name": "Like the Deserts Miss the Rain",
+        "url": "https://open.spotify.com/album/0lf28ipSLeIK0GgtIo978j"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296560,
+      "name": "Missing - Todd Terry Club Mix",
+      "url": "https://open.spotify.com/track/2raDw4a7uZ4aQKw4eYB4s3"
     },
     {
       "album": {
@@ -21312,7 +21334,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 235809,
       "name": "\u0421\u0431\u044a\u0440\u043a\u0430 \u0430\u0434\u0440\u0435\u0441\u0430",
       "url": "https://open.spotify.com/track/74it9s6hwM1KhN9wgKYgu5"
@@ -21960,7 +21982,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 90604,
       "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
       "url": "https://open.spotify.com/track/0s6vEUEL2Ij2tXXGLvgmLi"

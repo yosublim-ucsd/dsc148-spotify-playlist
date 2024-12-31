@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 235097,
+  "num_followers": 235138,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -49,22 +49,6 @@
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "AZD",
-        "url": "https://open.spotify.com/album/7BgZb2snTbs5xpRHlQ8VYt"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 145946,
-      "name": "FALLING RIZLAS",
-      "url": "https://open.spotify.com/track/2KeaniyEzZlYZzR1qodSso"
-    },
-    {
       "added_at": "2024-01-11 21:43:45",
       "album": {
         "name": "Loved",
@@ -79,6 +63,22 @@
       "duration_ms": 243263,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "AZD",
+        "url": "https://open.spotify.com/album/7BgZb2snTbs5xpRHlQ8VYt"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "FALLING RIZLAS",
+      "url": "https://open.spotify.com/track/2KeaniyEzZlYZzR1qodSso"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -177,22 +177,6 @@
       "url": "https://open.spotify.com/track/4Gaub7XH9WEFVHSnVQurbk"
     },
     {
-      "added_at": "2024-08-14 16:48:38",
-      "album": {
-        "name": "Hidden Hass",
-        "url": "https://open.spotify.com/album/0oe44ilOSSLd6RNtmDqkdn"
-      },
-      "artists": [
-        {
-          "name": "||||||||||||||||||||",
-          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
-        }
-      ],
-      "duration_ms": 127346,
-      "name": "Hidden Hass",
-      "url": "https://open.spotify.com/track/702aIe9qKIXTXDSluPyD4V"
-    },
-    {
       "added_at": "2024-03-19 03:29:52",
       "album": {
         "name": "Three",
@@ -209,20 +193,36 @@
       "url": "https://open.spotify.com/track/2aotiIWn6HgQH9vsEIs1Ls"
     },
     {
-      "added_at": "2023-08-29 01:18:54",
+      "added_at": "2024-08-14 16:48:38",
       "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+        "name": "Hidden Hass",
+        "url": "https://open.spotify.com/album/0oe44ilOSSLd6RNtmDqkdn"
       },
       "artists": [
         {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+          "name": "||||||||||||||||||||",
+          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
         }
       ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+      "duration_ms": 127346,
+      "name": "Hidden Hass",
+      "url": "https://open.spotify.com/track/702aIe9qKIXTXDSluPyD4V"
+    },
+    {
+      "added_at": "2022-08-03 02:34:20",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
       "added_at": "2024-02-02 04:05:46",
@@ -241,20 +241,20 @@
       "url": "https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B"
     },
     {
-      "added_at": "2022-08-03 02:34:20",
+      "added_at": "2023-08-29 01:18:54",
       "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
       },
       "artists": [
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2022-12-20 22:24:39",
@@ -1225,6 +1225,22 @@
       "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Seelen",
+        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
+      },
+      "artists": [
+        {
+          "name": "Doreem",
+          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+        }
+      ],
+      "duration_ms": 275271,
+      "name": "Seele III",
+      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
+    },
+    {
       "added_at": "2022-02-25 05:11:21",
       "album": {
         "name": "April Dub",
@@ -1243,22 +1259,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Seelen",
-        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
-      },
-      "artists": [
-        {
-          "name": "Doreem",
-          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
-        }
-      ],
-      "duration_ms": 275271,
-      "name": "Seele III",
-      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
     },
     {
-      "added_at": "2022-01-12 18:40:19",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "On danse comme des fous",
@@ -1407,6 +1391,22 @@
       "duration_ms": 208375,
       "name": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0437\u043d\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B"
+    },
+    {
+      "added_at": "2022-01-12 18:40:19",
+      "album": {
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+      },
+      "artists": [
+        {
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+        }
+      ],
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Nightwidth",
-        "url": "https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q"
-      },
-      "artists": [
-        {
-          "name": "Anders Ilar",
-          "url": "https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF"
-        }
-      ],
-      "duration_ms": 439786,
-      "name": "Riding Metal Mosquitos",
-      "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "R\u00f6schen",
         "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 199455,
       "name": "R\u00f6schen - Edit",
       "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Nightwidth",
+        "url": "https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q"
+      },
+      "artists": [
+        {
+          "name": "Anders Ilar",
+          "url": "https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF"
+        }
+      ],
+      "duration_ms": 439786,
+      "name": "Riding Metal Mosquitos",
+      "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
     },
     {
       "added_at": "2024-07-02 21:30:35",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Obit For Sunshade",
-        "url": "https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2"
-      },
-      "artists": [
-        {
-          "name": "Hotspring",
-          "url": "https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G"
-        }
-      ],
-      "duration_ms": 171020,
-      "name": "Resounding",
-      "url": "https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Parlama",
         "url": "https://open.spotify.com/album/0jPL6TkST7UH2Zu9hobEpp"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 515274,
       "name": "Parlama",
       "url": "https://open.spotify.com/track/3xIQr3xDTB1OayWyjyufec"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Obit For Sunshade",
+        "url": "https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2"
+      },
+      "artists": [
+        {
+          "name": "Hotspring",
+          "url": "https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G"
+        }
+      ],
+      "duration_ms": 171020,
+      "name": "Resounding",
+      "url": "https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs"
     },
     {
       "added_at": "2024-03-21 23:28:58",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT"
     },
     {
-      "added_at": "2022-08-03 02:50:08",
-      "album": {
-        "name": "For You Only",
-        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
-      },
-      "artists": [
-        {
-          "name": "Isa Gordon",
-          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Second Love",
-      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "\u8d77\u304d\u4e0a\u304c\u308a",
@@ -1641,24 +1625,20 @@
       "url": "https://open.spotify.com/track/59HhbPtgARl5cLuJGjP1Ow"
     },
     {
-      "added_at": "2023-04-15 02:42:19",
+      "added_at": "2022-08-03 02:50:08",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
+        "name": "For You Only",
+        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
       },
       "artists": [
         {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        },
-        {
-          "name": "Meemo Comma",
-          "url": "https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd"
+          "name": "Isa Gordon",
+          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
         }
       ],
-      "duration_ms": 336132,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1"
+      "duration_ms": 182400,
+      "name": "Second Love",
+      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
     },
     {
       "added_at": "2022-01-12 02:35:30",
@@ -1679,6 +1659,26 @@
       "duration_ms": 199666,
       "name": "Slice of Life",
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
+    },
+    {
+      "added_at": "2023-04-15 02:42:19",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        },
+        {
+          "name": "Meemo Comma",
+          "url": "https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd"
+        }
+      ],
+      "duration_ms": 336132,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1"
     }
   ],
   "unique_name": "bleeps ^ glitches",

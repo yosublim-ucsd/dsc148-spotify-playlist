@@ -1,13 +1,29 @@
 {
   "description": "nice catch, cheer!",
-  "num_followers": 2136886,
+  "num_followers": 2136673,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z240cAAAAAAJkJ8CCLDDFiSSTfJS0SWE",
+  "snapshot_id": "Z3IIawAAAAD4rGDhNPUiWwfkUQJsqHJu",
   "tracks": [
+    {
+      "added_at": "2024-12-30 02:41:47",
+      "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 158580,
+      "name": "is it new years yet?",
+      "url": "https://open.spotify.com/track/48xGcNwekbGcux5rIjKPQM"
+    },
     {
       "added_at": "2024-12-13 05:00:41",
       "album": {
@@ -87,6 +103,22 @@
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2024-12-30 02:41:47",
+      "album": {
+        "name": "The Good Witch (Deluxe)",
+        "url": "https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "Holy Revival",
+      "url": "https://open.spotify.com/track/7s4MADZyFWhGkLbPocaagv"
     },
     {
       "added_at": "2024-12-06 05:00:00",

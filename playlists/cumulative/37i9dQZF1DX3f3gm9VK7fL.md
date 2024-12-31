@@ -2,7 +2,7 @@
 
 ### [Anime Hits 20's](https://open.spotify.com/playlist/37i9dQZF1DX3f3gm9VK7fL)
 
-> The hottest Anime hits of the 20s\. 2020年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
+> The hottest Anime hits of the 20s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 55 songs - 3 hr 19 min
 

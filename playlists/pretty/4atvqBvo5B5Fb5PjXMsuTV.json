@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Dec 14:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Dec 09:03 UTC.",
   "num_followers": 86,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAOMzjfwP9FQZdsbUODPjixRRxojPP4",
+  "snapshot_id": "AAAONTmkJQjMKFsL7PaUP2t47FJnQb7W",
   "tracks": [
+    {
+      "added_at": "2024-12-30 09:03:05",
+      "album": {
+        "name": "Hello, Hi",
+        "url": "https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 135996,
+      "name": "Hello, Hi",
+      "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
+    },
     {
       "added_at": "2024-12-28 19:02:40",
       "album": {
@@ -887,26 +903,6 @@
       "duration_ms": 210011,
       "name": "Limit",
       "url": "https://open.spotify.com/track/41WIvRcs1zDN8tPhwFqCSb"
-    },
-    {
-      "added_at": "2024-12-20 09:03:15",
-      "album": {
-        "name": "Push Me To The Edge",
-        "url": "https://open.spotify.com/album/37uvnwNeXtch2rzZ3pTTQp"
-      },
-      "artists": [
-        {
-          "name": "Justin Stone",
-          "url": "https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk"
-        },
-        {
-          "name": "HunnaV",
-          "url": "https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Push Me To The Edge",
-      "url": "https://open.spotify.com/track/2hXoTaKAdsx2hhTpUxEGbK"
     }
   ],
   "unique_name": "New Singles Now",

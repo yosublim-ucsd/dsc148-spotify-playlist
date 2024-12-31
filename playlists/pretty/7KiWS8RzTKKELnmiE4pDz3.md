@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 181 songs - 8 hr 58 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 184 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,5 +189,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 179 | [Lunchroom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/76IRVRGJ62UpI7VfFrxi2G) | [Desto](https://open.spotify.com/artist/7jIkJnHkuofGofuYydpDpX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lunchroom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/31O75v8ASWvNeUYCMBlYvN) | 3:29 |
 | 180 | [I'm Just Sayin](https://open.spotify.com/track/2XIH9awIr6pWaO7o2W68Np) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:39 |
 | 181 | [KickDoe](https://open.spotify.com/track/7mhfizYrxgcpYq1IQjBZFI) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Can't Tame Us](https://open.spotify.com/album/2Rl6vSmXW8PicPAfxScT87) | 2:04 |
+| 182 | [Touch The Sky](https://open.spotify.com/track/29s4u1adFGLWtGehbR5xkq) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 2:24 |
+| 183 | [Solitaires \(feat\. Travis Scott\)](https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:25 |
+| 184 | [Ridin Strikers](https://open.spotify.com/track/6PHbWsTTlmQKF9i9VC1KFv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:45 |
 
-Snapshot ID: `AAAd1iDEz9H4E2bqXaDQkbkR90FLfUwG`
+Snapshot ID: `AAAd2bANNI+2adsY0AQ5H3KT+VAYIHY/`

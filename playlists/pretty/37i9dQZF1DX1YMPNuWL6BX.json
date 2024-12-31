@@ -1,12 +1,12 @@
 {
   "description": "Ring in 2025 with your favorite party tracks!",
-  "num_followers": 681624,
+  "num_followers": 689207,
   "original_name": "New Year's Eve 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z27XkgAAAADEHA3ZiQx3ijAa03FWfyLl",
+  "snapshot_id": "Z3L5nAAAAACjZfNiVTwafR9SSfdMc3ER",
   "tracks": [
     {
       "added_at": "2024-12-27 16:36:34",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-12-27 16:36:34",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/1ujPmNlTMp41h4EG6OOBGR"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/7d8GetOsjbxYnlo6Y9e5Kw"
-    },
-    {
-      "added_at": "2024-12-27 16:36:34",
-      "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+    },
+    {
+      "added_at": "2024-12-27 16:36:34",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
     },
     {
       "added_at": "2024-12-27 16:36:34",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-12-27 16:36:34",
       "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/1ujPmNlTMp41h4EG6OOBGR"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/7d8GetOsjbxYnlo6Y9e5Kw"
+    },
+    {
+      "added_at": "2024-12-27 16:36:34",
+      "album": {
         "name": "Cooped Up / Return Of The Mack",
         "url": "https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4vp2J1l5RD4gMZwGFLfRAu"
-    },
-    {
-      "added_at": "2024-12-27 16:36:34",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "Firework",
-      "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
     },
     {
       "added_at": "2024-12-27 16:36:34",

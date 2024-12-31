@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks of today ft. GloRilla, Don Toliver, Kendrick Lamar and more.",
-  "num_followers": 2309464,
+  "num_followers": 2309672,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
@@ -126,6 +126,10 @@
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 278277,

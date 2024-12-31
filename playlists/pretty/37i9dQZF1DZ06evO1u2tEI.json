@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 79479,
+  "num_followers": 79503,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z28/gAAAAAAkEy9STBjBFjH3mNiSoXuz",
+  "snapshot_id": "Z3CRAAAAAAC/JxJvMJY2WSQr6FqDX/Fp",
   "tracks": [
     {
       "added_at": null,
@@ -688,7 +688,7 @@
       "added_at": null,
       "album": {
         "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 147240,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/7CV3sIPtEwUhdZ5E3Qgykq"
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,
@@ -752,7 +752,7 @@
       "added_at": null,
       "album": {
         "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
+      "duration_ms": 147240,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/7CV3sIPtEwUhdZ5E3Qgykq"
     },
     {
       "added_at": null,

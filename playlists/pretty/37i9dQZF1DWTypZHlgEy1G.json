@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 537143,
+  "num_followers": 537159,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Forever Dalida",
-        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
+        "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
       },
       "artists": [
         {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        },
-        {
-          "name": "Alain Delon",
-          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
+          "name": "Bourvil",
+          "url": "https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Paroles\u2026 paroles\u2026",
-      "url": "https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl"
+      "duration_ms": 195280,
+      "name": "Salade de fruits",
+      "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -319,18 +315,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
-        "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
+        "name": "Forever Dalida",
+        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
       },
       "artists": [
         {
-          "name": "Bourvil",
-          "url": "https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm"
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        },
+        {
+          "name": "Alain Delon",
+          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
         }
       ],
-      "duration_ms": 195280,
-      "name": "Salade de fruits",
-      "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
+      "duration_ms": 243000,
+      "name": "Paroles\u2026 paroles\u2026",
+      "url": "https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl"
     },
     {
       "added_at": "2024-07-25 13:22:22",

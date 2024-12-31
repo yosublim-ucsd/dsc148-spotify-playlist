@@ -6403,6 +6403,24 @@
     },
     {
       "album": {
+        "name": "The Electricity in Your House Wants to Sing",
+        "url": "https://open.spotify.com/album/3DbqxV708R452k79cUg7zy"
+      },
+      "artists": [
+        {
+          "name": "I Am Robot And Proud",
+          "url": "https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247320,
+      "name": "The Electricity in Your House Wants to Sing",
+      "url": "https://open.spotify.com/track/1GWaUp357DlGkrJ8beIDHU"
+    },
+    {
+      "album": {
         "name": "Feline",
         "url": "https://open.spotify.com/album/7zLCiI9gWYWyn9E0SNWVki"
       },

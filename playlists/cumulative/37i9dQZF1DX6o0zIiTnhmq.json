@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Patanjali Yoga Sutra (Chanting)",
+        "url": "https://open.spotify.com/album/5vLVE2qKObC0dsmlBUrf4U"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ananda Balayogi Bhavanani",
+          "url": "https://open.spotify.com/artist/1V15Qmcc8D4gYTHvzHYeQ9"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1422213,
+      "name": "108 Om Chants",
+      "url": "https://open.spotify.com/track/4cvFUTWRq0wFavHjWtOgTQ"
+    },
+    {
+      "album": {
         "name": "Mantras & Chants",
         "url": "https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN"
       },
@@ -77,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Mantras Budista",
+        "url": "https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv"
+      },
+      "artists": [
+        {
+          "name": "Lama Dorje",
+          "url": "https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269373,
+      "name": "Bendici\u00f3n de Guru",
+      "url": "https://open.spotify.com/track/5rNgiNxnzyeKYCVA9yTqSg"
+    },
+    {
+      "album": {
         "name": "Triveni: Durga, Lakshmi, Saraswati",
         "url": "https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv"
       },
@@ -92,6 +128,24 @@
       "duration_ms": 315011,
       "name": "Bhairavi Vandana",
       "url": "https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT"
+    },
+    {
+      "album": {
+        "name": "Buddhist and Zen for Meditation Relaxation",
+        "url": "https://open.spotify.com/album/3HGAhYIaLiRQY95JQuprwZ"
+      },
+      "artists": [
+        {
+          "name": "Best Relaxing Music",
+          "url": "https://open.spotify.com/artist/4Qp0NbeUNsiffzjGqkGhJD"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509541,
+      "name": "Buddhist Music and Chants for Inner Peace",
+      "url": "https://open.spotify.com/track/3QlsZg5tAQ8ZqKbFmkwCGo"
     },
     {
       "album": {
@@ -142,7 +196,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 1600000,
       "name": "Ganesh Mantra",
       "url": "https://open.spotify.com/track/16nKhvMOqdeGrYQF3vurog"
@@ -164,6 +218,24 @@
       "duration_ms": 283726,
       "name": "Ganesh Mantra",
       "url": "https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF"
+    },
+    {
+      "album": {
+        "name": "Phaldata Ganesh",
+        "url": "https://open.spotify.com/album/4gfFKxRzFVNbZBabQWVxOd"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463680,
+      "name": "Ganesh Panchratna Stotram",
+      "url": "https://open.spotify.com/track/4VM3QCwCdwHxCbaLmgSlG4"
     },
     {
       "album": {
@@ -196,7 +268,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 154390,
       "name": "Ganesh Stuti",
       "url": "https://open.spotify.com/track/30s5J8ytFaCovIy0rrNPZO"
@@ -308,7 +380,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 2706366,
       "name": "Gayatri Mantra",
       "url": "https://open.spotify.com/track/6hqclMTlC1XSreZ7Ij4e87"
@@ -360,7 +432,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 2210484,
       "name": "Gayatri Mantra (108 Times)",
       "url": "https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8"
@@ -732,7 +804,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 273000,
       "name": "Karagre Vasate Lakshmi Mantra (Chant)",
       "url": "https://open.spotify.com/track/2JIMWXl7BmJAWQuSnP7n6o"
@@ -885,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Sacred Chants of Shiva",
+        "url": "https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3"
+      },
+      "artists": [
+        {
+          "name": "Singers of the Art of Living",
+          "url": "https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393040,
+      "name": "Lingashtakam",
+      "url": "https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK"
+    },
+    {
+      "album": {
         "name": "Maha Mrityunjaya Mantra: 108 Times",
         "url": "https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr"
       },
@@ -940,7 +1030,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 294742,
       "name": "Mahamritunjaya Mantra",
       "url": "https://open.spotify.com/track/7bCxpiv6IdUkHfVGsZnGUr"
@@ -958,7 +1048,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 3246640,
       "name": "Mahamrutyunjay Mantra 108 Times",
       "url": "https://open.spotify.com/track/0XQmuCw3Etp4fbK6Q30uSp"
@@ -1016,6 +1106,64 @@
       "duration_ms": 3246640,
       "name": "Mahamrutyunjay Mantra 108 Times",
       "url": "https://open.spotify.com/track/7qB2NPq6jk9XYDO93Xb8oA"
+    },
+    {
+      "album": {
+        "name": "Vajra Drayang",
+        "url": "https://open.spotify.com/album/1APFybXgn73MsrAW2aGhqP"
+      },
+      "artists": [
+        {
+          "name": "Lama Dorje",
+          "url": "https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314482,
+      "name": "Mantra De Chenrezig",
+      "url": "https://open.spotify.com/track/3EcphTZTtQT4HmnCp9csg0"
+    },
+    {
+      "album": {
+        "name": "Buddhist Mantras, Vol. 1",
+        "url": "https://open.spotify.com/album/1oOuBr8IZQ6PLvT5nLzC0t"
+      },
+      "artists": [
+        {
+          "name": "Tinna T\u00ecnh",
+          "url": "https://open.spotify.com/artist/6PYJL7J4R74JFJBpobiyO3"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456622,
+      "name": "Medicine Buddha",
+      "url": "https://open.spotify.com/track/7jNagGQtwQxeAFoJAhPDia"
+    },
+    {
+      "album": {
+        "name": "World Of Medicine Buddha \u51c0\u7409\u7483\u4e16\u754c",
+        "url": "https://open.spotify.com/album/7boPIIde65Rswaq5smZr5B"
+      },
+      "artists": [
+        {
+          "name": "Imee Ooi",
+          "url": "https://open.spotify.com/artist/5lPNORvaZAHTRTz0zz0G2Y"
+        },
+        {
+          "name": "Chai Yu",
+          "url": "https://open.spotify.com/artist/6tdbsGVKmAs0LWSsNp1oOF"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 912822,
+      "name": "Medicine Buddha Heart Mantra \u836f\u5e08\u4f5b\u5fc3\u5492",
+      "url": "https://open.spotify.com/track/3xZO5KYRGfgABvfLn9lzOa"
     },
     {
       "album": {
@@ -1106,6 +1254,24 @@
       "duration_ms": 465572,
       "name": "Mool Mantra",
       "url": "https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h"
+    },
+    {
+      "album": {
+        "name": "Anand Bliss",
+        "url": "https://open.spotify.com/album/0gbuTZhOYD0DhCzmVkKNme"
+      },
+      "artists": [
+        {
+          "name": "Snatam Kaur",
+          "url": "https://open.spotify.com/artist/6NvMFz8onERoCM6bKjTASJ"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475826,
+      "name": "Mul Mantra",
+      "url": "https://open.spotify.com/track/65x8PLeBCisLJVSibyXemB"
     },
     {
       "album": {
@@ -1207,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "Roads Of Blessings - Songs Of Awakening",
+        "url": "https://open.spotify.com/album/4grwUAIp3r6OBmsS6D2ZGV"
+      },
+      "artists": [
+        {
+          "name": "Lama Gyurme",
+          "url": "https://open.spotify.com/artist/4GwVYugBix3aehjspW1uqG"
+        },
+        {
+          "name": "Jean-Philippe Rykiel",
+          "url": "https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427973,
+      "name": "Offering Chant",
+      "url": "https://open.spotify.com/track/542Ucy3XlU0OsIVXKZzBKi"
+    },
+    {
+      "album": {
         "name": "9 Golden Mantras",
         "url": "https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1"
       },
@@ -1236,7 +1424,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 1872160,
       "name": "OM - 108 Times",
       "url": "https://open.spotify.com/track/2KHcNmJUnVFXSX63rrD4st"
@@ -1294,7 +1482,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 958902,
       "name": "Om Datta Datta Dattah (Datta Beej Mantra Dhuni)",
       "url": "https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc"
@@ -1428,7 +1616,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 458031,
       "name": "Om Namah Shivaay",
       "url": "https://open.spotify.com/track/7tBfGCtnJjE6Ktzm3gZIO4"
@@ -1450,7 +1638,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 764580,
       "name": "Om Namah Shivay 108 Times",
       "url": "https://open.spotify.com/track/0i5XJwIyF7IP1RBldqLBRm"
@@ -1806,7 +1994,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 1081463,
       "name": "Ram Naam Chanting",
       "url": "https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2"
@@ -1963,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "In The Lap Of The Master",
+        "url": "https://open.spotify.com/album/1DILWzzJrIFZJ2yxovYtfa"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Isha",
+          "url": "https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375760,
+      "name": "Rudrashtakam",
+      "url": "https://open.spotify.com/track/6mCgtFIQzX4CM44c4Aiot0"
+    },
+    {
+      "album": {
         "name": "Saraswati Rhythm",
         "url": "https://open.spotify.com/album/4ulkvp5UVQf3DI0FHF8bmR"
       },
@@ -1992,7 +2198,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 2717900,
       "name": "Sarvesham Svastir Bhavatu",
       "url": "https://open.spotify.com/track/10hYBr0KXyCNtuvc388Rn8"
@@ -2133,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Ancient Chants from India, Vol. 10",
+        "url": "https://open.spotify.com/album/5uT4LDe2IIoOD1pzXSCDCz"
+      },
+      "artists": [
+        {
+          "name": "Mahakatha",
+          "url": "https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310871,
+      "name": "Shiva Dhyana Mantra for Inner Peace and Meditation",
+      "url": "https://open.spotify.com/track/70UnKRYZDYqY96roiCOhQE"
+    },
+    {
+      "album": {
         "name": "Indrakshi Shiva Kavacham",
         "url": "https://open.spotify.com/album/5ht7pBFQd84uH0spR7kheq"
       },
@@ -2152,6 +2376,24 @@
       "duration_ms": 186346,
       "name": "Shiva Raksha Stotram",
       "url": "https://open.spotify.com/track/462pUNRwifkgfTq4Z36jEc"
+    },
+    {
+      "album": {
+        "name": "Sacred Chants of Shiva",
+        "url": "https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3"
+      },
+      "artists": [
+        {
+          "name": "Singers of the Art of Living",
+          "url": "https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389693,
+      "name": "Shivoham",
+      "url": "https://open.spotify.com/track/2ifsTVDxbc3BGBPEwrOez5"
     },
     {
       "album": {
@@ -2191,6 +2433,42 @@
     },
     {
       "album": {
+        "name": "Ancient Chants from India, Vol. 10",
+        "url": "https://open.spotify.com/album/5uT4LDe2IIoOD1pzXSCDCz"
+      },
+      "artists": [
+        {
+          "name": "Mahakatha",
+          "url": "https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250271,
+      "name": "Shree Saraswati Mantra for Knowledge and Wisdom",
+      "url": "https://open.spotify.com/track/7vf3fOCQRzLJ3tWV6b0XTj"
+    },
+    {
+      "album": {
+        "name": "Shreeman Narayan Narayan Hari Hari (Slowed+Reverb)",
+        "url": "https://open.spotify.com/album/2rFfLhWfXtDcVDPtgDPTnw"
+      },
+      "artists": [
+        {
+          "name": "Devashri Golambare",
+          "url": "https://open.spotify.com/artist/6aemmgP92XrDhb5NoFdNjH"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599895,
+      "name": "Shreeman Narayan Narayan Hari Hari (Slowed+Reverb)",
+      "url": "https://open.spotify.com/track/6FKnIfpuNmME5OwIjU9p4s"
+    },
+    {
+      "album": {
         "name": "Shri Ram Jai Ram (21 Chant)",
         "url": "https://open.spotify.com/album/74xEYLqBS3lUUoWRy5MJcn"
       },
@@ -2226,7 +2504,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 807662,
       "name": "Shri Ram Jai Ram (21 Chant)",
       "url": "https://open.spotify.com/track/3k4uDqn0ll7m65127JfsD6"
@@ -2316,7 +2594,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 2693166,
       "name": "Tan Man Shaant",
       "url": "https://open.spotify.com/track/7tjjvaPtdjZMUwDhLSFgjq"
@@ -2338,6 +2616,32 @@
       "duration_ms": 262307,
       "name": "Tera Mangal",
       "url": "https://open.spotify.com/track/2EBn6Tsi8LEIxUWDaUhpGT"
+    },
+    {
+      "album": {
+        "name": "Graceful Passages",
+        "url": "https://open.spotify.com/album/0rU9Oa0xCjUbAmcIcZBIgX"
+      },
+      "artists": [
+        {
+          "name": "Gary Malkin",
+          "url": "https://open.spotify.com/artist/7cZvGGhX1EVTClGSqhrvtY"
+        },
+        {
+          "name": "Thich Nhat Hanh",
+          "url": "https://open.spotify.com/artist/270IOtdDWXOUR4YZXMUFJZ"
+        },
+        {
+          "name": "Dan Alvarez",
+          "url": "https://open.spotify.com/artist/3AlqldQ9PkBDPfXjPIggFW"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433781,
+      "name": "The End Of Suffering",
+      "url": "https://open.spotify.com/track/29cXtyDKRZXqS5tGgVgK2F"
     },
     {
       "album": {
@@ -2389,6 +2693,32 @@
     },
     {
       "album": {
+        "name": "Tvameva Mata Cha Pita Tvameva",
+        "url": "https://open.spotify.com/album/34WWbToLqZuq4PIVtVQmiJ"
+      },
+      "artists": [
+        {
+          "name": "Sanatana Bharat",
+          "url": "https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW"
+        },
+        {
+          "name": "Upadhyay",
+          "url": "https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6"
+        },
+        {
+          "name": "Amrita Chaturvedi",
+          "url": "https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze"
+        }
+      ],
+      "date_added": "2024-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 806844,
+      "name": "Tvameva Mata Cha Pita Tvameva",
+      "url": "https://open.spotify.com/track/6ApbR2J85fA6TbhOTZWry4"
+    },
+    {
+      "album": {
         "name": "Suresh Wadkar - Spiritual Collection",
         "url": "https://open.spotify.com/album/4pE8xstdoCqJEbxPafoKiy"
       },
@@ -2418,7 +2748,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 435915,
       "name": "Vakratunda Mahakaya - Suresh Wadkar",
       "url": "https://open.spotify.com/track/1zJYaxEYpe3A5ioSXS9ZOR"
@@ -2458,7 +2788,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 611999,
       "name": "Vande Gurunam - Yoga Mantra",
       "url": "https://open.spotify.com/track/2SYlyBEfTfgvnmwiVI49Mi"
@@ -2498,7 +2828,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-31",
       "duration_ms": 2701166,
       "name": "Waheguru Wahe Jio",
       "url": "https://open.spotify.com/track/0lliLuoYQoVwXaCyNXMoqK"

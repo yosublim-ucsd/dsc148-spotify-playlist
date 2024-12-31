@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-985 songs - 2 day 16 hr 14 min
+986 songs - 2 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 | 2024-01-02 |  |
 | [Not in Love We’re Just High](https://open.spotify.com/track/2GAvCh5XRUcadG2xScude5) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Not in Love We’re Just High](https://open.spotify.com/album/5g62OA1J2qxRVkoTILVpLs) | 3:37 | 2021-04-02 | 2022-04-18 |
 | [Nothing in the Dark](https://open.spotify.com/track/7ohaAMlkJCeTLTnOhxdeR1) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Nothing in the Dark](https://open.spotify.com/album/5yVOGagZfxr6W9Q3VFyuR8) | 4:58 | 2023-07-21 |  |
+| [Nothing Lasts Forever](https://open.spotify.com/track/4hCdrbscKtHN0nUPYyue5W) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Nothing Lasts Forever](https://open.spotify.com/album/3geAstVCMtar1HrVVOvzSn) | 3:17 | 2024-12-30 |  |
 | [NOVAS](https://open.spotify.com/track/7gdXsMMsOkGumFbWCD9J0A) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO) | [VISUALS](https://open.spotify.com/album/0zoanXJYpaFO0jND1HzAti) | 3:49 | 2022-07-11 | 2022-07-30 |
 | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 | 2023-05-05 | 2023-06-24 |
 | [Nuestra Victoria](https://open.spotify.com/track/3ZRYcxElGx6Yjdj6uzqwYW) | [Marinero](https://open.spotify.com/artist/3nO1K3saAuSThsVWi1uxGF) | [Hella Love](https://open.spotify.com/album/3yVX8EfAuE9ozhRwn4WjHJ) | 4:14 | 2021-06-25 | 2022-04-21 |
@@ -631,7 +632,7 @@
 | [Orchids](https://open.spotify.com/track/2sNXTDqV0aeXXDRrmJ44Id) | [The Shacks](https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR) | [Orchids](https://open.spotify.com/album/7woG34xqukYVbpW2ZXhbYx) | 3:41 | 2021-04-02 | 2022-04-21 |
 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 | 2024-05-10 |  |
 | [Ordinary Man](https://open.spotify.com/track/5KHm55YvAOhac2Uh0Iuc9o) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Ordinary Man](https://open.spotify.com/album/4SUGwrFM6w9POtcKxERv2c) | 4:08 | 2021-09-10 | 2022-07-09 |
-| [Original](https://open.spotify.com/track/4jHDe4YjUYb68wgTWe37Fw) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [Original](https://open.spotify.com/album/7E9tuLXiihUprUwNjpYqbT) | 2:56 | 2023-08-18 |  |
+| [Original](https://open.spotify.com/track/4jHDe4YjUYb68wgTWe37Fw) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [Original](https://open.spotify.com/album/7E9tuLXiihUprUwNjpYqbT) | 2:56 | 2023-08-18 | 2024-12-31 |
 | [Out In The Country](https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' With Wolves](https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl) | 2:54 | 2022-07-22 | 2022-10-29 |
 | [Out in the Country](https://open.spotify.com/track/7FWhvGFDMGo3BkuSI00rOi) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' with Wolves](https://open.spotify.com/album/6ckLqYa0vRJF9QUkEiv59p) | 2:54 | 2021-04-02 | 2022-07-15 |
 | [Out In The World](https://open.spotify.com/track/7vLd1IEZLDZ8RYj21ID8k6) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Out In The World](https://open.spotify.com/album/5xSRTWBpIFJZZGGRjxNP4F) | 3:56 | 2022-04-20 | 2022-07-29 |
