@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1138174,
+  "num_followers": 1138237,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-12-13 20:43:17",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/76MThARuTPq59l5oseVCJT"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 258186,
-      "name": "Don't Move",
-      "url": "https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh"
-    },
-    {
-      "added_at": "2024-12-13 20:43:17",
-      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
@@ -1615,18 +1599,34 @@
     {
       "added_at": "2024-12-13 20:43:17",
       "album": {
-        "name": "Free Animal",
-        "url": "https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa"
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/76MThARuTPq59l5oseVCJT"
       },
       "artists": [
         {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 180400,
-      "name": "Free Animal",
-      "url": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
+      "duration_ms": 258186,
+      "name": "Don't Move",
+      "url": "https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh"
+    },
+    {
+      "added_at": "2024-12-13 20:43:17",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
     }
   ],
   "unique_name": "You & Me",

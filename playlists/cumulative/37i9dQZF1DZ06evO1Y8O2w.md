@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-97 songs - 7 hr 41 min
+98 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Give Me One Good Reason To Stay](https://open.spotify.com/track/5XRZsDzYzhxqsavBz2AghS) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:13 | 2022-05-25 | 2022-09-25 |
 | [Goddess Of Love](https://open.spotify.com/track/3eceLA8MwVvbM9cjeTsOQr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Goddess of Love \(Expanded Edition\)](https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY) | 5:50 | 2022-05-31 | 2022-07-20 |
 | [Gonna Make Changes](https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:57 | 2022-05-25 |  |
+| [Groove with You](https://open.spotify.com/track/2bWjRDAfhlixcanjRHCfxr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Groove with You](https://open.spotify.com/album/5C5cXCxtz0QrrwNRsSpVRZ) | 4:08 | 2025-01-01 |  |
 | [Heavenly](https://open.spotify.com/track/4FmIRmhnvySm1rL5NV4E10) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:29 | 2022-05-25 | 2024-03-29 |
-| [Here's That Rainy Day](https://open.spotify.com/track/7u1TGBkS8n8r88oNiA84fO) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 3:04 | 2023-12-29 |  |
+| [Here's That Rainy Day](https://open.spotify.com/track/7u1TGBkS8n8r88oNiA84fO) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 3:04 | 2023-12-29 | 2025-01-01 |
 | [Hold On](https://open.spotify.com/track/4A7MYo7tQyJfZMptVJ7IZh) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:13 | 2022-05-26 | 2022-10-12 |
 | [Hurry up This Way Again](https://open.spotify.com/track/0ZO2hnswG8lteyIf6G4FFn) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:22 | 2022-05-25 |  |
 | [I Ain't Asking](https://open.spotify.com/track/4T5FdL1wOaydngJjPLHyBb) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:02 | 2022-05-25 | 2024-11-12 |

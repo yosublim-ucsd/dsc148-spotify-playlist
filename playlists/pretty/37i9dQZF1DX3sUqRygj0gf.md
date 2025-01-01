@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,133 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,163 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 40 | [If We Make It Through December](https://open.spotify.com/track/21Zz628YJ9Si5AJMfX7Glm) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [If We Make It Through December](https://open.spotify.com/album/6ubCw6rKArBfBKK2wuHCqa) | 3:26 |
 | 41 | [Auld lang syne](https://open.spotify.com/track/0YdgUN2Am0zQzKY4eP6IsA) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Auld lang syne](https://open.spotify.com/album/2IZUszlSkfGgYD9wJRacEM) | 3:19 |
 | 42 | [Snowin' On Raton](https://open.spotify.com/track/25efC97jgYi1ms8Y9SxWak) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Snowin' On Raton](https://open.spotify.com/album/71wodb1V4YhM39VR82IT13) | 3:51 |
-| 43 | [Step Into Christmas](https://open.spotify.com/track/0lnqUHZhyP2UBxB1HnzIvH) | [Eleanor Zamora](https://open.spotify.com/artist/0qvn8xbF2YvSvBIj7Ud4Cz) | [Step Into Christmas](https://open.spotify.com/album/6T6Vyxa9DWZaIWQtojuASa) | 5:24 |
-| 44 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 |
+| 43 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 |
+| 44 | [Step Into Christmas](https://open.spotify.com/track/0lnqUHZhyP2UBxB1HnzIvH) | [Eleanor Zamora](https://open.spotify.com/artist/0qvn8xbF2YvSvBIj7Ud4Cz) | [Step Into Christmas](https://open.spotify.com/album/6T6Vyxa9DWZaIWQtojuASa) | 5:24 |
 | 45 | [Christmas Wrapping](https://open.spotify.com/track/0znloYDHukXNo0kJD6HjGB) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Christmas Wrapping](https://open.spotify.com/album/4Usa4HGlOlSHX8831oNS0c) | 5:44 |
 | 46 | [Father Christmas](https://open.spotify.com/track/5iI2rZDnITXBEUN7VqbFdm) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Father Christmas](https://open.spotify.com/album/4m71bdFHBVGHbrvTizqnl7) | 4:57 |
 | 47 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 |

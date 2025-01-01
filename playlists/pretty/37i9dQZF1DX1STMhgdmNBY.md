@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,974 likes - 70 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,088 likes - 70 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 58 | [Today I Sing the Blues](https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:25 |
 | 59 | [I Have No One \- Remastered 2022](https://open.spotify.com/track/308gSPfGJpzLK9rnYCZZtB) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [South Side Of Soul Street: The SSS Sessions \(Remastered 2022\)](https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef) | 3:09 |
 | 60 | [Let's Make Loving Great Again](https://open.spotify.com/track/78yb8biX3CkeU3gCP084s7) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [Let's Make Loving Great Again](https://open.spotify.com/album/3533AqYK8wZ1XwK0Zp28Om) | 5:51 |
-| 61 | [Three O'Clock Blues](https://open.spotify.com/track/4GnCQfhL41HMe2pgx4bK9T) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Essential Blue Archive: Take a Swing with Me](https://open.spotify.com/album/7tsw1IjRv2bjN1qam1ojwu) | 3:00 |
+| 61 | [Best of Me](https://open.spotify.com/track/1a2A3twwnD5uRMNZj7OBAh) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Fernando Castillo](https://open.spotify.com/artist/2JAzPnf84cdFdYfWANS9MK), [Carlos Sosa](https://open.spotify.com/artist/4fm5vfb6UWvswweIFzCOpV), [Raul Vallejo](https://open.spotify.com/artist/4HTiVcjJiFy50IZpGnSt68) | [Best of Me](https://open.spotify.com/album/1HJx1bLXzu4CetOBwRTBGl) | 3:54 |
 | 62 | [I Need Some Air](https://open.spotify.com/track/4VJ7hK0xONIrpCk5m3Vm4a) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX) | 4:37 |
-| 63 | [Best of Me](https://open.spotify.com/track/1a2A3twwnD5uRMNZj7OBAh) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Fernando Castillo](https://open.spotify.com/artist/2JAzPnf84cdFdYfWANS9MK), [Carlos Sosa](https://open.spotify.com/artist/4fm5vfb6UWvswweIFzCOpV), [Raul Vallejo](https://open.spotify.com/artist/4HTiVcjJiFy50IZpGnSt68) | [Best of Me](https://open.spotify.com/album/1HJx1bLXzu4CetOBwRTBGl) | 3:54 |
+| 63 | [Three O'Clock Blues](https://open.spotify.com/track/4GnCQfhL41HMe2pgx4bK9T) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Essential Blue Archive: Take a Swing with Me](https://open.spotify.com/album/7tsw1IjRv2bjN1qam1ojwu) | 3:00 |
 | 64 | [Never Alone](https://open.spotify.com/track/4zZTJprxXDYv3IYkOvlp0Q) | [Justin Lynn](https://open.spotify.com/artist/59SDz8Aqxagj6epB2uFWbQ) | [Never Alone](https://open.spotify.com/album/0y3Oa3xrl3RRgf9T492q6X) | 3:47 |
 | 65 | [Ain't It A Shame](https://open.spotify.com/track/58dG6XIMGNhFdH8GKSPCmL) | [Big Miller](https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn) | [Last of the Blues Shouters](https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0) | 8:35 |
 | 66 | [I'm Slippin' In](https://open.spotify.com/track/6momA2GAoXWxJLNdykzfQe) | [Ford Eaglin](https://open.spotify.com/artist/6ItYrf72JVG1kovlFxoRDL) | [I'm Slippin' In \(Mono Version\)](https://open.spotify.com/album/3r02imfha3Ub5VykcF54l8) | 2:53 |

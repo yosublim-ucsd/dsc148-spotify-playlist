@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-716 songs - 2 day 7 hr 31 min
+717 songs - 2 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-09-22 | 2023-10-11 |
 | [Pierrepont](https://open.spotify.com/track/1Nf9vSy4tVnT3yMsnR5CVP) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 4:33 | 2024-02-08 | 2024-12-10 |
 | [Pink Liquid Cotton Candy](https://open.spotify.com/track/2vAOthypGXJj4Tnu6F3Nm3) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [Hum](https://open.spotify.com/album/4sYguh1IQBO3eArXtcVQIG) | 5:55 | 2022-04-07 | 2022-04-20 |
+| [Plop](https://open.spotify.com/track/0hEQzOexeeU2ckT1SL6rVk) | [亜門](https://open.spotify.com/artist/5REcVneZv9jSl3HBWwuScq) | [Plop](https://open.spotify.com/album/1hDe8GfH4n54x7GGBHVwaE) | 3:24 | 2024-12-16 |  |
 | [Pollen](https://open.spotify.com/track/1jcyEOv0oyOGxI7pvVmKzp) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 7:50 | 2022-03-31 | 2022-07-26 |
 | [Positive ID](https://open.spotify.com/track/23HGlosDhFrB0Ik5mSKpno) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [Psychic Music](https://open.spotify.com/album/4jhyEiQeCLjOGM3tiGVRmD) | 3:58 | 2022-03-31 | 2022-07-28 |
 | [Prayer For A Dawn](https://open.spotify.com/track/1Ao06YQhmRqmaKsk8imkjU) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 7:36 | 2022-03-30 | 2022-06-26 |
@@ -536,7 +537,7 @@
 | [Sol A](https://open.spotify.com/track/1DN69EXy6QawCKo0U7upt9) | [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [EKO](https://open.spotify.com/album/6Zcm3MCOIhI7dsNTQaJxxh) | 1:33 | 2024-12-05 | 2024-12-15 |
 | [Solar\-Pass](https://open.spotify.com/track/42NvxKWMixIETuemVpKQzp) | [Chari Chari](https://open.spotify.com/artist/4MJT57L7RMCvSvg2GjU0wQ) | [Spring to Summer](https://open.spotify.com/album/3kZutekvhPJ36MNphOm0X5) | 1:36 | 2022-03-31 | 2022-07-12 |
 | [solari](https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 3:52 | 2022-07-28 | 2024-04-19 |
-| [solari](https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 3:52 | 2022-03-31 |  |
+| [solari](https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 3:52 | 2022-03-31 | 2025-01-01 |
 | [Solaris](https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Solaris](https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK) | 3:41 | 2024-01-25 | 2024-02-09 |
 | [Solarium](https://open.spotify.com/track/217whXH6oP07asAmFj2YV9) | [Mimicof](https://open.spotify.com/artist/6QdABScSRzyWQv2eD1Pee4) | [Koto Lyra](https://open.spotify.com/album/1M5td7EALTL3XLlaR3weJ1) | 3:08 | 2022-03-31 | 2022-04-13 |
 | [Something Ephemeral](https://open.spotify.com/track/4d42fVzXXDAtv3nRgjNlYY) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Something Ephemeral](https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL) | 2:41 | 2024-09-25 |  |

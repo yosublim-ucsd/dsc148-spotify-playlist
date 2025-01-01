@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover:Mishaal Tamer
+> Global crossovers by/with Arab artists\. Cover:Fulana
 
-355 songs - 19 hr 28 min
+357 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Damaged Feelings](https://open.spotify.com/track/4qZe0XLKkEuNS1JS3xHKVI) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Damaged Feelings](https://open.spotify.com/album/7ArpHBuiW0jpHrG8tKdIVx) | 3:17 | 2021-12-16 | 2022-11-20 |
 | [Damn Son](https://open.spotify.com/track/6EVVPT2x5Ow5bNmoZagZO6) | [Sammy Shiblaq](https://open.spotify.com/artist/7edxEDtHLLCarGwzp5lpIG) | [Damn Son](https://open.spotify.com/album/7toSxaZza0RCvR3c9Tvuhq) | 2:33 | 2021-12-16 | 2022-11-20 |
 | [Dance Alone](https://open.spotify.com/track/6oKrqdkszicFfmZ7gT55zM) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Dance Alone](https://open.spotify.com/album/2gw0OZjHyvvwMODWy9fovU) | 2:58 | 2021-12-16 | 2022-09-15 |
+| [decompose](https://open.spotify.com/track/7bCD7NDkiRs5Hu9EqA72Wc) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:12 | 2024-12-31 |  |
 | [Deep End](https://open.spotify.com/track/1tBGCQUfN4d7iUJC7xMsJE) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Deep End](https://open.spotify.com/album/3sgMt6ZHu0nANSXV19zdsU) | 3:23 | 2021-12-16 | 2022-11-20 |
 | [deeper me](https://open.spotify.com/track/2GjnmIxiLh9wvIpigtek5C) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/70ST2gVUiX0N0wGEld6cxh) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [deeper me](https://open.spotify.com/track/5UbiMFkaDzjQeqDDOft4uD) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/5FyVNEJKiwCNiw9xuFIQWC) | 3:15 | 2021-12-16 | 2022-07-29 |
@@ -122,7 +123,7 @@
 | [Galbi Dalili \(feat\. Narcy\)](https://open.spotify.com/track/0RkRvd3bccxgMYVU5PB8C7) | [Emsallam](https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg) | [Galbi Dalili \(feat\. Narcy\)](https://open.spotify.com/album/1MqguCDENJ5cTU2Jg2CJaE) | 2:48 | 2021-12-16 | 2022-11-20 |
 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 | 2022-06-06 | 2022-06-24 |
 | [Games](https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Games](https://open.spotify.com/album/3dCdXYs4q7pn3iCdsxzgd9) | 2:36 | 2023-04-24 | 2023-05-27 |
-| [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 | 2023-04-01 |  |
+| [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 | 2023-04-01 | 2025-01-01 |
 | [Gazing](https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Gazing](https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz) | 2:53 | 2023-03-14 | 2023-04-28 |
 | [Get Low](https://open.spotify.com/track/0rbbxIeycN5WGoYWryIlWx) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Get Low](https://open.spotify.com/album/7phycFGcngvbPErCb97U1M) | 3:34 | 2022-06-06 | 2022-06-24 |
 | [GG Geena](https://open.spotify.com/track/7BCTs4GX9kQ3hvojt5vlLH) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [GG Geena](https://open.spotify.com/album/7Ea8OkBsX5UAw5G2aJ14b4) | 1:59 | 2023-07-19 | 2024-10-19 |
@@ -199,6 +200,7 @@
 | [Male Hbibti Madjatch](https://open.spotify.com/track/1JrNnGXkmWeoXvzfTcHFp7) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Cheb Khaled, Double Best, 25 titres originaux remasterisés](https://open.spotify.com/album/6aPxtI5Sxk0MANK9O8XsG0) | 9:57 | 2022-06-06 | 2022-06-24 |
 | [Manich Kima Bakri](https://open.spotify.com/track/5z8sSUJ09vXNNrpqxc0u0B) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Manich Kima Bakri](https://open.spotify.com/album/5xB8IXMdACzciVvoujeLoO) | 5:40 | 2022-06-06 | 2022-06-24 |
 | [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 | 2023-05-19 |  |
+| [marigold](https://open.spotify.com/track/6JrjfWgPI8d1uraNP0YEDx) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 4:24 | 2024-12-31 |  |
 | [MASHALLAH](https://open.spotify.com/track/195clrFhJoY0pdbgvY2Qg1) | [Fousey](https://open.spotify.com/artist/6GZUEdPWJRfQxTsgM9j120), [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq) | [MASHALLAH](https://open.spotify.com/album/7FQkB1MDucYaVEP2wnGc3X) | 2:34 | 2021-12-16 | 2022-02-23 |
 | [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 | 2021-12-16 | 2022-12-16 |
 | [MIA](https://open.spotify.com/track/6BoweqoW4UzDuTdNTXSdiv) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC), [Zirra](https://open.spotify.com/artist/3ygMZBYwEeR5Vd5Qze8IYl) | [MIA](https://open.spotify.com/album/1mRTMg98v92EJ2HMhOO3zv) | 3:33 | 2022-12-15 | 2023-04-01 |
@@ -229,7 +231,7 @@
 | [Now or Never](https://open.spotify.com/track/08R90Edtb2dNC0CN60vQSe) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG), [Skyral](https://open.spotify.com/artist/1xVVcdJpBS4LjdYZRTdZx3) | [Now or Never](https://open.spotify.com/album/6VMxOr3e73NvXTbWbznvAu) | 3:12 | 2021-12-16 | 2022-04-08 |
 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 | 2023-01-20 | 2024-02-28 |
 | [OBSESSED](https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [OBSESSED](https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG) | 2:54 | 2023-03-14 | 2024-10-08 |
-| [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 | 2023-05-07 |  |
+| [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 | 2023-05-07 | 2025-01-01 |
 | [Old Flame](https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Old Flame](https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw) | 2:04 | 2022-07-08 | 2022-12-08 |
 | [Olive Branch \(Ghosn Zeytoun\)](https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Olive Branch \(Ghosn Zeytoun\)](https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y) | 1:25 | 2024-03-20 | 2024-06-01 |
 | [On My Own](https://open.spotify.com/track/0jVixX0ZFa2m9bhDbHoTXD) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [On My Own](https://open.spotify.com/album/6jBPKGE15wIoYciA3m34ou) | 3:25 | 2021-12-16 | 2022-03-08 |

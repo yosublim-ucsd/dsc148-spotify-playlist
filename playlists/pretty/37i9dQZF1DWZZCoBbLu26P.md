@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,611 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,633 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
 | 2 | [Heavy Crown](https://open.spotify.com/track/5v2ByxOB3Q9p5DsAndtuO2) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Trixie Mattel: Moving Parts \(The Acoustic Soundtrack\)](https://open.spotify.com/album/5Vcfkp2blCZRjJ7sjuVe1r) | 2:19 |
-| 3 | [My House](https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf) | 2:55 |
-| 4 | [Native Love \(Step By Step\)](https://open.spotify.com/track/08z4YUOPIc6nS0nAUC5uDU) | [Divine](https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz) | [My First Album](https://open.spotify.com/album/5O6UW3T8pR37aosytoTLcC) | 4:01 |
+| 3 | [Native Love \(Step By Step\)](https://open.spotify.com/track/08z4YUOPIc6nS0nAUC5uDU) | [Divine](https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz) | [My First Album](https://open.spotify.com/album/5O6UW3T8pR37aosytoTLcC) | 4:01 |
+| 4 | [My House](https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf) | 2:55 |
 | 5 | [Lucky](https://open.spotify.com/track/3C3jcnDl4fbX05x67Jp4B6) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 13](https://open.spotify.com/artist/4hBZXuGcH9E94jD3A0Bn3r) | [Lucky](https://open.spotify.com/album/254Ri8NToEgWzwZvu8VB2q) | 3:44 |
 | 6 | [I'm That Bitch](https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I'm That Bitch](https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b) | 4:10 |
 | 7 | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk) | [The Cast of RuPaul's Drag Race UK, Season 2](https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs) | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE) | 2:46 |

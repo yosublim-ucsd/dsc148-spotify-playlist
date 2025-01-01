@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hodari",
-  "num_followers": 372577,
+  "num_followers": 372575,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,18 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Sagrado Profano",
-        "url": "https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET"
+        "name": "Esquinas",
+        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 196601,
-      "name": "Sagrado Profano",
-      "url": "https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS"
+      "duration_ms": 165487,
+      "name": "Se eu usasse sapato",
+      "url": "https://open.spotify.com/track/7hozXxltZOrcXNzZ8EvtPB"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -287,18 +283,22 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Esquinas",
-        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
+        "name": "Sagrado Profano",
+        "url": "https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         }
       ],
-      "duration_ms": 165487,
-      "name": "Se eu usasse sapato",
-      "url": "https://open.spotify.com/track/7hozXxltZOrcXNzZ8EvtPB"
+      "duration_ms": 196601,
+      "name": "Sagrado Profano",
+      "url": "https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
+        "name": "MAMA.CITA (hasta la vista)",
+        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 152358,
+      "name": "MAMA.CITA (hasta la vista)",
+      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 122169,
       "name": "Low Profile",
       "url": "https://open.spotify.com/track/731N7wLv4OBUNbMzEXvI4y"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
-        "name": "MAMA.CITA (hasta la vista)",
-        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 152358,
-      "name": "MAMA.CITA (hasta la vista)",
-      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 205111,
+      "name": "Dano Sarrada",
+      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 188791,
       "name": "Romance Em Cena",
       "url": "https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 205111,
-      "name": "Dano Sarrada",
-      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1051,30 +1051,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "\u00faltimo rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "Sintomas de Prazer - Live",
         "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
       },
@@ -1087,6 +1063,22 @@
       "duration_ms": 151103,
       "name": "Sintomas de Prazer - Live",
       "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "P\u2605RN STAR",
+        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "PornStar",
+      "url": "https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1115,18 +1107,26 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "P\u2605RN STAR",
-        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
       },
       "artists": [
         {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 188000,
-      "name": "PornStar",
-      "url": "https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ"
+      "duration_ms": 183211,
+      "name": "\u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "Aditivada",
         "url": "https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 149385,
       "name": "Aditivada",
       "url": "https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1503,30 +1503,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Nem Me Convidou",
-        "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Bi\u00e9",
-          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
-        }
-      ],
-      "duration_ms": 127433,
-      "name": "Nem Me Convidou",
-      "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "Vibezinha",
         "url": "https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin"
       },
@@ -1547,6 +1523,30 @@
       "duration_ms": 148325,
       "name": "Vibezinha",
       "url": "https://open.spotify.com/track/766QpS7OrDPmuEznTD798F"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Nem Me Convidou",
+        "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        }
+      ],
+      "duration_ms": 127433,
+      "name": "Nem Me Convidou",
+      "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "TEORIA DO CAOS",
-        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "A GENTE SE FERRA JUNTO",
-      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "Encontros",
         "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 201000,
       "name": "Encontros",
       "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "TEORIA DO CAOS",
+        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "A GENTE SE FERRA JUNTO",
+      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
     },
     {
       "added_at": "2024-12-23 19:38:15",

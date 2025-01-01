@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: HAEVN
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,862 likes - 56 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,870 likes - 56 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

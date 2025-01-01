@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 88986,
+  "num_followers": 89018,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Exitos de Oro (Golden Hits)",
+        "url": "https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH"
+      },
+      "artists": [
+        {
+          "name": "Joe Quijano",
+          "url": "https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4"
+        }
+      ],
+      "duration_ms": 147236,
+      "name": "En Puerta de Tierra",
+      "url": "https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Aprovecha el Tiempo",
         "url": "https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 213426,
       "name": "Pow Wow",
       "url": "https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Exitos de Oro (Golden Hits)",
-        "url": "https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH"
-      },
-      "artists": [
-        {
-          "name": "Joe Quijano",
-          "url": "https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4"
-        }
-      ],
-      "duration_ms": 147236,
-      "name": "En Puerta de Tierra",
-      "url": "https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g"
     },
     {
       "added_at": "2024-07-18 20:57:58",

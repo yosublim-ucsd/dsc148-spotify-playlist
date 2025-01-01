@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Antiworld Gangsters
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,126 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,147 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 47 | [\[escapism\]](https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [\[escapism\]](https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl) | 2:34 |
 | 48 | [Tonight](https://open.spotify.com/track/7uuDAeMQrufj048z0D6ykf) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Tonight](https://open.spotify.com/album/6VQtVcmETaiNEN7OZmlX3L) | 2:21 |
 | 49 | [Woman of Virtue \(feat\. Ajebo Hustlers\)](https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:31 |
-| 50 | [Wàsérè](https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT) | [Shakez Baba](https://open.spotify.com/artist/00PhKPpeUoTjBkHBhqA4Ky), [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Wàsérè](https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE) | 2:36 |
-| 51 | [Easy](https://open.spotify.com/track/3enIVGgMGl7OCRZXytWHzQ) | [Niyi](https://open.spotify.com/artist/3P6XhIOLjmq0i5SUEq6qH9), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Easy](https://open.spotify.com/album/7c69EqQLbojXYEBnpxWPAr) | 2:54 |
+| 50 | [Easy](https://open.spotify.com/track/3enIVGgMGl7OCRZXytWHzQ) | [Niyi](https://open.spotify.com/artist/3P6XhIOLjmq0i5SUEq6qH9), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Easy](https://open.spotify.com/album/7c69EqQLbojXYEBnpxWPAr) | 2:54 |
+| 51 | [Wàsérè](https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT) | [Shakez Baba](https://open.spotify.com/artist/00PhKPpeUoTjBkHBhqA4Ky), [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Wàsérè](https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE) | 2:36 |
 | 52 | [Jumpin Bumpin](https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Jumpin Bumpin](https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw) | 2:49 |
 | 53 | [ADITI ALARIWO](https://open.spotify.com/track/4gsA5B84gGSjBAR296ZziO) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a) | [ADITI ALARIWO](https://open.spotify.com/album/3ByvwqNTIuIN35qud5Mxjj) | 2:14 |
 | 54 | [SHOW WORKINGS \(feat\. Magnito, DanDizzy, Oladips & Kabex\)](https://open.spotify.com/track/6nPT4WMAquPU1SSCIeAhqq) | [BIG VYBZ](https://open.spotify.com/artist/43mhT86yUu3iSmTWL4TYAS), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Magnito](https://open.spotify.com/artist/2cyfzkY6IT0nKHN3s447n8), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Kabex](https://open.spotify.com/artist/4qnQPP7La5VmVpnhbYEisU) | [SHOW WORKINGS \(feat\. Magnito, DanDizzy, Oladips & Kabex\)](https://open.spotify.com/album/2ukShFKYrJOb91a6MTOHY1) | 3:24 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 66 | [Astaghfirullah](https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Astaghfirullah](https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw) | 2:40 |
 | 67 | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP) | [Tobless](https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC) | 2:44 |
 | 68 | [LOCO](https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R) | [Afro Jersey](https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ) | 2:20 |
-| 69 | [Make It Out](https://open.spotify.com/track/2ToJcDtJ4DDUhIN0rvsZ6O) | [Shegzy Marley](https://open.spotify.com/artist/19nsjBMc8LX0LA4Z8DuPrs), [Areezy](https://open.spotify.com/artist/3kRqE8yQ4IbYJFXczu57SD) | [Make It Out](https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL) | 2:43 |
-| 70 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |
+| 69 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |
+| 70 | [Make It Out](https://open.spotify.com/track/2ToJcDtJ4DDUhIN0rvsZ6O) | [Shegzy Marley](https://open.spotify.com/artist/19nsjBMc8LX0LA4Z8DuPrs), [Areezy](https://open.spotify.com/artist/3kRqE8yQ4IbYJFXczu57SD) | [Make It Out](https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL) | 2:43 |
 
 Snapshot ID: `Z2SQ3QAAAAB5M+HhUCaDMW1MTrKK4tHF`

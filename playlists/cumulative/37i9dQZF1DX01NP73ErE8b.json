@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "LIBERATO III",
+        "url": "https://open.spotify.com/album/3ULYRmnGV3zXbRQkCuFbBS"
+      },
+      "artists": [
+        {
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "'A 'MBASCIATA",
+      "url": "https://open.spotify.com/track/0EpP4OASPWKz4dVhg69LQe"
+    },
+    {
+      "album": {
         "name": "Mi hai visto piangere in un club",
         "url": "https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN"
       },
@@ -742,7 +760,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 180060,
       "name": "figli degli dei",
       "url": "https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee"

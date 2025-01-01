@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Jerry Heil
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,672 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,679 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 62 | [ЖАЛІ](https://open.spotify.com/track/1Dv2mryPZodUxYKUua5Q6o) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [ЖАЛІ](https://open.spotify.com/album/0x7CE5PgEBn7Br8x8eOvWv) | 2:14 |
 | 63 | [ТРИ ПОЛОСИ](https://open.spotify.com/track/1coHgc8pIpmMRGGLXB3JXf) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [ТРИ ПОЛОСИ](https://open.spotify.com/album/29xxdkhdz8sFgmfanvlYvv) | 2:38 |
 | 64 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
-| 65 | [ШІ](https://open.spotify.com/track/0bBg8IU53bQwAkEdd7gWO4) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [ШІ](https://open.spotify.com/album/4DTse4GsSMsafSyX1EHjZj) | 2:51 |
-| 66 | [Тихий дощ](https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Тихий дощ](https://open.spotify.com/album/6oe5IqZMIR9oxwCXAHPBci) | 2:26 |
+| 65 | [Тихий дощ](https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Тихий дощ](https://open.spotify.com/album/6oe5IqZMIR9oxwCXAHPBci) | 2:26 |
+| 66 | [ШІ](https://open.spotify.com/track/0bBg8IU53bQwAkEdd7gWO4) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [ШІ](https://open.spotify.com/album/4DTse4GsSMsafSyX1EHjZj) | 2:51 |
 | 67 | [Що ти наробила](https://open.spotify.com/track/09wwxRJurrzTPZDoomn6bB) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Лірика](https://open.spotify.com/album/3HuR9wpNnz0Xu17RXm5OuD) | 2:50 |
 | 68 | [Каланхое](https://open.spotify.com/track/4YgV3rfa56cZaxJm3zsyB2) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [Pozdniakov](https://open.spotify.com/artist/69c9d1s70PiMSiJPMrLxpa) | [Каланхое](https://open.spotify.com/album/1nq5GccsxAwC7OB3dEHgxx) | 3:06 |
 | 69 | [Лілії](https://open.spotify.com/track/7u7rNKlamHbQtheoIWHaHx) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Лілії](https://open.spotify.com/album/7iPyDgnEhfCliTHyIsaOwW) | 2:41 |
-| 70 | [Титанік](https://open.spotify.com/track/4BhZHhEHOPBebQiUoqJrzl) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Титанік](https://open.spotify.com/album/1PWaSmD6dd7MXU5s2DXKG2) | 2:36 |
+| 70 | [Порцелянові очі](https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Порцелянові очі](https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E) | 3:23 |
 
 Snapshot ID: `Z2SXeQAAAABDs58JzKxw5X9j9NHtt/v9`

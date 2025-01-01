@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS",
-  "num_followers": 142798,
+  "num_followers": 142842,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Frejat Trio Ao Vivo no Teatro Alcione Ara\u00fajo",
+        "url": "https://open.spotify.com/album/26tTDgDlnMje9hWOuLHfdS"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 170723,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/6luoCgnBDkY7I7FBkexp1s"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Beijos, Blues e Poesia",
         "url": "https://open.spotify.com/album/0ILIY5R8PY4BXfOxhXaM8D"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 184000,
       "name": "Beijos, Blues e Poesia",
       "url": "https://open.spotify.com/track/4WAhdM7KNEmezzmKwWsK5J"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Frejat Trio Ao Vivo no Teatro Alcione Ara\u00fajo",
-        "url": "https://open.spotify.com/album/26tTDgDlnMje9hWOuLHfdS"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 170723,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/6luoCgnBDkY7I7FBkexp1s"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "On My Own (Live in Brazil)",
         "url": "https://open.spotify.com/album/0enNwM1573EU28QawJJdJ2"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 198250,
       "name": "On My Own (Live In Brazil)",
       "url": "https://open.spotify.com/track/1tFELGPptFjocrjTaRAqmM"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 185684,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
+      },
+      "artists": [
+        {
+          "name": "CORA",
+          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+        }
+      ],
+      "duration_ms": 149646,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Mais Nada",
         "url": "https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 193423,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
-      },
-      "artists": [
-        {
-          "name": "CORA",
-          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
-        }
-      ],
-      "duration_ms": 149646,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "A Bolha",
+        "url": "https://open.spotify.com/album/02G0M9OAq48KLDJ06m6eRU"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 180570,
+      "name": "Menina Linda",
+      "url": "https://open.spotify.com/track/1YnLOI6vNwFKUPD0Ym1zQg"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Across The Universe",
         "url": "https://open.spotify.com/album/2WNelmpjFLNWWRhrgefbsi"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 212297,
       "name": "Invis\u00edvel",
       "url": "https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "A Bolha",
-        "url": "https://open.spotify.com/album/02G0M9OAq48KLDJ06m6eRU"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 180570,
-      "name": "Menina Linda",
-      "url": "https://open.spotify.com/track/1YnLOI6vNwFKUPD0Ym1zQg"
     }
   ],
   "unique_name": "Rock Leve",

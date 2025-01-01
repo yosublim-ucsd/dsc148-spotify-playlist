@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Are Square
 
-887 songs - 2 day 5 hr 58 min
+888 songs - 2 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Boys&Boys](https://open.spotify.com/track/7xJZ7QeXbRMEmzMiE1hepV) | [Kanna](https://open.spotify.com/artist/47U5PirBYuleMsuD307qej) | [& Boys](https://open.spotify.com/album/7ggmoPLAxF87ltWZH4Lcm8) | 2:50 | 2023-08-08 | 2023-08-16 |
 | [Breakout](https://open.spotify.com/track/18khd1ouJWDsrs6pO9V1Oq) | [the twenties](https://open.spotify.com/artist/23d14imdoUIYJcQS1KgpPO), [タナカユーキ](https://open.spotify.com/artist/0Ty8GKQtnU6sZ5HSmilIy8) | [Breakout](https://open.spotify.com/album/68f3SfrCWSwwts0jGLH2DW) | 3:14 | 2023-11-21 | 2023-11-29 |
 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 | 2024-10-01 |  |
+| [caffeine](https://open.spotify.com/track/3EPHO38noF6taQqdugjQRr) | [不眠旅行](https://open.spotify.com/artist/7GgnNRjBrWIBC9rDzxLBwm) | [caffeine](https://open.spotify.com/album/01POmNby9TUceHjE7szVVE) | 3:32 | 2024-12-24 |  |
 | [Calm](https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 3:55 | 2023-11-28 | 2023-12-06 |
 | [Cinderella Boy](https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Lazy Sunday](https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3) | 3:54 | 2023-08-15 | 2024-04-19 |
 | [City Light,Konya](https://open.spotify.com/track/3FAg9ucNICMj9x34VkzNQy) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [City Light,Konya](https://open.spotify.com/album/63JCLnZJ7Hcba0noNaqXIt) | 4:15 | 2023-12-19 | 2024-01-10 |
@@ -550,7 +551,7 @@
 | [ドキドキする](https://open.spotify.com/track/2PHZVtdPCqi7oTIw7jsyM1) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [ドキドキする](https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1) | 3:01 | 2023-11-02 | 2024-04-19 |
 | [ドーナツ](https://open.spotify.com/track/3HdQatZgKmCFLQkvIxrvsh) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [ドーナツ](https://open.spotify.com/album/4lCsMscCzgNHfiOVfpGtrg) | 4:08 | 2024-09-24 |  |
 | [ネットルーザー](https://open.spotify.com/track/2CZmZ95P9ZD28BKynvSeIf) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [ネットルーザー](https://open.spotify.com/album/6VnuHv0ekAZIIwuYWVXejC) | 4:05 | 2024-08-27 | 2024-09-18 |
-| [ネバーエンド](https://open.spotify.com/track/2CekXhKBUmnBOKdy9ATx6W) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [ネバーエンド](https://open.spotify.com/album/67drP4eCmv4vlp8cvyVZDW) | 3:33 | 2024-12-17 |  |
+| [ネバーエンド](https://open.spotify.com/track/2CekXhKBUmnBOKdy9ATx6W) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [ネバーエンド](https://open.spotify.com/album/67drP4eCmv4vlp8cvyVZDW) | 3:33 | 2024-12-17 | 2025-01-01 |
 | [ノイズラジオ](https://open.spotify.com/track/5K1s4kjDphRKYDQ2U1Ka59) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [ノイズラジオ](https://open.spotify.com/album/64CnkI3V5AIKgz1i3p75a2) | 4:33 | 2023-12-19 | 2023-12-21 |
 | [ノスタルジア](https://open.spotify.com/track/0yRUhx3oxxTNwbg1CDM1kp) | [Absolute area](https://open.spotify.com/artist/2nPbHQW065TWbk7EjsEfiS) | [ノスタルジア](https://open.spotify.com/album/2d10zH0AGWJj0StVZPpRAS) | 4:04 | 2023-08-10 | 2024-01-10 |
 | [ノックブーツ](https://open.spotify.com/track/0qgj1atPxj1ae6rG7VHS0M) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ノックブーツ](https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd) | 3:11 | 2023-09-12 | 2024-04-03 |

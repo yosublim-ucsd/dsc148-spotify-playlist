@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,801 likes - 52 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,842 likes - 52 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 26 | [Summoned](https://open.spotify.com/track/5AvRGLi5klsjNxRsQJd78G) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Summoned](https://open.spotify.com/album/3VNAS6eUN1A5OkEsAFb00M) | 5:36 |
 | 27 | [You Can Do It](https://open.spotify.com/track/74usZNReO4g4j5aZ0yAmBw) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/4gugFhu1ub505iAzsuhZJi) | 3:48 |
 | 28 | [Haus It Going](https://open.spotify.com/track/3rB9sNH5ZKX6h3M9yrB0sx) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Haus It Going](https://open.spotify.com/album/3j5NJ5ntHWfcSv785dd2nx) | 3:21 |
-| 29 | [TECHNOPOLIS](https://open.spotify.com/track/025rboHEX5F2T0jRBMjuxI) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:14 |
+| 29 | [TECHNOPOLIS](https://open.spotify.com/track/025rboHEX5F2T0jRBMjuxI) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:14 |
 | 30 | [Tastes Like Freedom \- Chaos In The CBD Remix](https://open.spotify.com/track/6syv9meXafns0UbFE1KRdg) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM), [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Tastes Like Freedom \(Chaos In The CBD Remix\)](https://open.spotify.com/album/5jtpLVuJqcqSDrjvbPqgsy) | 5:50 |
 | 31 | [Faint](https://open.spotify.com/track/7AB0cUXnzuSlAnyHOqmrZr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:42 |
 | 32 | [Mimosa 2000](https://open.spotify.com/track/5zykwy5pua9TcKofW7ow7p) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0) | [27 Anos Nacional](https://open.spotify.com/album/3a4zclzlx7gt1koqFqWwXD) | 2:20 |

@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 133222,
+  "num_followers": 133224,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,18 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
-        "name": "Love (feat. Skaai)",
-        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
+        "name": "early summer 2022",
+        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Love (feat. Skaai)",
-      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+      "duration_ms": 274066,
+      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -835,18 +831,22 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
-        "name": "early summer 2022",
-        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
       "artists": [
         {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 274066,
-      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -863,6 +863,22 @@
       "duration_ms": 273960,
       "name": "Branches",
       "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
+    },
+    {
+      "added_at": "2024-12-17 15:17:25",
+      "album": {
+        "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
+        "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
+      },
+      "artists": [
+        {
+          "name": "Naotaro Moriyama",
+          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
+        }
+      ],
+      "duration_ms": 457613,
+      "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
+      "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -903,22 +919,6 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
-      },
-      "artists": [
-        {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
-        }
-      ],
-      "duration_ms": 274426,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y"
-    },
-    {
-      "added_at": "2024-12-17 15:17:25",
-      "album": {
         "name": "Everything flows",
         "url": "https://open.spotify.com/album/2HiCBLxnvhLrZsO0z2HRM1"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
-        "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
-        "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
       },
       "artists": [
         {
-          "name": "Naotaro Moriyama",
-          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
         }
       ],
-      "duration_ms": 457613,
-      "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
-      "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
+      "duration_ms": 274426,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -967,18 +967,22 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
-        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
-        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
+        "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
+        "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
       },
       "artists": [
         {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        },
+        {
+          "name": "Hiroshi Fujiwara",
+          "url": "https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt"
         }
       ],
-      "duration_ms": 242573,
-      "name": "Beautiful Sleep",
-      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
+      "duration_ms": 248600,
+      "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
+      "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -995,6 +999,22 @@
       "duration_ms": 225720,
       "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
       "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
+    },
+    {
+      "added_at": "2024-12-17 15:17:25",
+      "album": {
+        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
+        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Beautiful Sleep",
+      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -1027,26 +1047,6 @@
       "duration_ms": 195693,
       "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
-    },
-    {
-      "added_at": "2024-12-17 15:17:25",
-      "album": {
-        "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
-        "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        },
-        {
-          "name": "Hiroshi Fujiwara",
-          "url": "https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
-      "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -1387,26 +1387,18 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
-        "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
+        "name": "Double Rift",
+        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
       },
       "artists": [
         {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
         }
       ],
-      "duration_ms": 286366,
-      "name": "Twinkle Stars",
-      "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
+      "duration_ms": 255213,
+      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
+      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -1427,18 +1419,26 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
-        "name": "Double Rift",
-        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
         }
       ],
-      "duration_ms": 255213,
-      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
-      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
+      "duration_ms": 286366,
+      "name": "Twinkle Stars",
+      "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
+        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
+      },
+      "artists": [
+        {
+          "name": "Anzen Chitai",
+          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+    },
+    {
+      "added_at": "2024-12-17 15:17:25",
+      "album": {
         "name": "\u96ea\u89e3",
         "url": "https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 250000,
       "name": "\u96ea\u89e3",
       "url": "https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9"
-    },
-    {
-      "added_at": "2024-12-17 15:17:25",
-      "album": {
-        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
-      },
-      "artists": [
-        {
-          "name": "Anzen Chitai",
-          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
-        "name": "Freeway",
-        "url": "https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u"
-      },
-      "artists": [
-        {
-          "name": "\u3093oon",
-          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
-        }
-      ],
-      "duration_ms": 230204,
-      "name": "Tokyo Family Restaurant",
-      "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
-    },
-    {
-      "added_at": "2024-12-17 15:17:25",
-      "album": {
         "name": "A Rainy Night in NY",
         "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
+        "name": "Freeway",
+        "url": "https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u"
       },
       "artists": [
         {
-          "name": "Hedigan\u2019s",
-          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+          "name": "\u3093oon",
+          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
         }
       ],
-      "duration_ms": 177946,
-      "name": "\u3075\u3057\u304e",
-      "url": "https://open.spotify.com/track/5m3RAoGt9RB77MhNCBju1s"
+      "duration_ms": 230204,
+      "name": "Tokyo Family Restaurant",
+      "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
     },
     {
       "added_at": "2024-12-17 15:17:25",
@@ -1675,18 +1659,34 @@
     {
       "added_at": "2024-12-17 15:17:25",
       "album": {
-        "name": "\u3044\u3064\u3057\u304b",
-        "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
       },
       "artists": [
         {
-          "name": "Daichi Miura",
-          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
         }
       ],
-      "duration_ms": 240532,
-      "name": "\u3044\u3064\u3057\u304b",
-      "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
+      "duration_ms": 177946,
+      "name": "\u3075\u3057\u304e",
+      "url": "https://open.spotify.com/track/5m3RAoGt9RB77MhNCBju1s"
+    },
+    {
+      "added_at": "2024-12-17 15:17:25",
+      "album": {
+        "name": "HOME EP",
+        "url": "https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "duration_ms": 272894,
+      "name": "\u611b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

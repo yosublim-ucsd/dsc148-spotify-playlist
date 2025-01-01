@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,234 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,265 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 26 | [Ça parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 |
 | 27 | [Youm Wara Youm](https://open.spotify.com/track/6m0J0ilqGXXymj3rhpXZQ8) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Youm Wara Youm](https://open.spotify.com/album/6cVs1Uwsa3c0zrqXHtpUz6) | 3:44 |
 | 28 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 |
-| 29 | [Ya Aazem Douar](https://open.spotify.com/track/0X1QSVSsI8QPZyODS8271v) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ), [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Ya Aazem Douar](https://open.spotify.com/album/2YiBjxEbczGqHWmwlm2oV6) | 3:21 |
+| 29 | [Ya Aazem Douar](https://open.spotify.com/track/0X1QSVSsI8QPZyODS8271v) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ) | [Ya Aazem Douar](https://open.spotify.com/album/2YiBjxEbczGqHWmwlm2oV6) | 3:21 |
 | 30 | [9RIBA](https://open.spotify.com/track/0yVjaVZFhhE6tiL0BOCEpO) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [9RIBA](https://open.spotify.com/album/5uO6Nxnr8TruPSyhDpqFKD) | 4:00 |
 | 31 | [Zin Ezzin](https://open.spotify.com/track/0d1dGOyQ6IRdMB27pNFSFl) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Zin Ezzin](https://open.spotify.com/album/4qphrOAqIotjpK2oghKmxt) | 3:08 |
 | 32 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |

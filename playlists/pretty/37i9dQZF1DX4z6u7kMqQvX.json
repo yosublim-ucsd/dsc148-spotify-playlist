@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 107128,
+  "num_followers": 107133,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Nada Para Ti",
-        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 236255,
-      "name": "Nada Para Ti",
-      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "SUPERSTICIONES: Remixes",
         "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 204782,
       "name": "Amores Callejeros - Bolero Remix",
       "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Nada Para Ti",
+        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Tuami",
         "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 186000,
       "name": "Tuami",
       "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Secret Love",
-        "url": "https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "El Chiste",
         "url": "https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 215000,
       "name": "El Chiste",
       "url": "https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1259,38 +1259,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Louvre",
-        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "Louvre",
-      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
@@ -1311,6 +1279,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "(re)definiciones",
         "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 166588,
       "name": "otr(a v)ez",
       "url": "https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Louvre",
+        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Louvre",
+      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
     },
     {
       "added_at": "2024-10-24 20:31:41",

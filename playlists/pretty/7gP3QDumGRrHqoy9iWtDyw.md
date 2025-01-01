@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,485 likes - 229 songs - 14 hr 35 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,485 likes - 231 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,5 +237,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 227 | [Brooklyn](https://open.spotify.com/track/04L8upqYWKegTZOYdgyPeP) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [Homieland vol.1](https://open.spotify.com/album/3U86hGdTE6sfypz1YHFMnD) | 5:19 |
 | 228 | [Work \- Franky Rizardo Remix](https://open.spotify.com/track/7lBcBg4THRZgzj4zczNvOS) | [The 2 Bears](https://open.spotify.com/artist/0tCMgjr8y7UKNmE3B1Uwbl), [Franky Rizardo Remix](https://open.spotify.com/artist/5n6Cdis4xlORQgfih56nnW) | [Work](https://open.spotify.com/album/5BQA0Mz8d7GA8dEYyF0B2Y) | 6:18 |
 | 229 | [Play House](https://open.spotify.com/track/0GOUviZEfUEHbutOIIc8nv) | [FLETCH](https://open.spotify.com/artist/5HkPQOedMse24M2meekew4) | [Play House EP](https://open.spotify.com/album/2BojOQugje4WQgj9F6lpH2) | 3:59 |
+| 230 | [Go Hard](https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Go Hard](https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0) | 2:56 |
+| 231 | [Show Me A Love](https://open.spotify.com/track/6BJq2hkx8OjyuKkXSJpwsE) | [Adapter](https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V) | [Show Me A Love](https://open.spotify.com/album/6ttij5FtIxgHHKEyFV1mle) | 2:44 |
 
-Snapshot ID: `AAAJUwO5rcoml9FG+NkvRBcHBSYt3KYc`
+Snapshot ID: `AAAJVd7tndydRHMrriTpQ3PdVHXHntAO`

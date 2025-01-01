@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-126 songs - 8 hr 27 min
+127 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Crazy Roulette](https://open.spotify.com/track/1dvGYKhpx7bmuYa09l1m74) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ユニットソングCD Crazy:B](https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j) | 4:14 | 2024-04-26 |  |
 | [Crush of Judgment](https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8) | [ナイトキラーズ/月永レオ\(CV.浅沼晋太郎\)、天祥院英智\(CV.緑川光\)、鬼龍紅郎\(CV.神尾晋一郎\)、仁兎なずな\(CV.米内佑希\)](https://open.spotify.com/artist/1lSJyubKtkGymlXRwo8mPB) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 3:26 | 2024-04-26 |  |
 | [Dance in the Apocalypse](https://open.spotify.com/track/4ao9YSHAFBAZf4qtH9klK9) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:58 | 2024-04-26 |  |
+| [Dancin’ Celebrity Party!](https://open.spotify.com/track/45NWYfB3PQDV2hJPVoufCM) | [天祥院 英智\(CV.緑川 光\)](https://open.spotify.com/artist/4LWnaUNq8suwmoiWWdDWQo), [姫宮 桃李\(CV.村瀬 歩\)](https://open.spotify.com/artist/6idlDSmmhwFjyoyrVlPulm), [巴 日和\(CV.花江 夏樹\)](https://open.spotify.com/artist/0OcqPbYLMti4RXcfyZSCnp), [朱桜 司\(CV.土田 玲央\)](https://open.spotify.com/artist/1r0MP4iYcIJegetAIgXlrd) | [あんさんぶるスターズ！！ バラエティソングシリーズ 究極の9曲 「Dancin’ Celebrity Party!」](https://open.spotify.com/album/3GaTPz7WxkcKw5NhFOWx3d) | 3:22 | 2024-12-30 |  |
 | [Dawning Angels](https://open.spotify.com/track/2OJj5Qt5VQJJiphKdTV0Ql) | [fine\-O/青葉 つむぎ\(CV.石川 界人\)、天祥院 英智\(CV.緑川 光\)、乱 凪砂\(CV.諏訪部 順一\)、巴 日和\(CV.花江 夏樹\)](https://open.spotify.com/artist/1hViK6ZZNwL5Kei0Y2czaR) | [あんさんぶるスターズ！！ESアイドルソング Extra オルタード & fine\-O](https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO) | 4:00 | 2024-04-26 |  |
 | [Daydream×Reality](https://open.spotify.com/track/4k30g9mP45iyHLlOTYWP3m) | [Trickstar/氷鷹北斗\(CV.前野智昭\)、明星スバル\(CV.柿原徹也\)、遊木 真\(CV.森久保祥太郎\)、衣更真緒\(CV.梶 裕貴\)](https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Trickstar](https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7) | 3:42 | 2024-05-24 | 2024-06-26 |
 | [Death Game Holic](https://open.spotify.com/track/0QXjruPtWWeeFeSceZMExA) | [デッドマンズ/朔間零\(CV.増田俊樹\)、蓮巳敬人\(CV.梅原裕一郎\)、大神晃牙\(CV.小野友樹\)](https://open.spotify.com/artist/0OI0KbDEEYyfna5F2IOPdv) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 3:27 | 2024-04-26 | 2024-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 334024,
+  "num_followers": 334052,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Quero Que Tu V\u00e1",
-        "url": "https://open.spotify.com/album/0JkqxwCPsumktyGvbytKbh"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
-        },
-        {
-          "name": "Joker Beats",
-          "url": "https://open.spotify.com/artist/7tsmrNpbLkT4xL1nzRLpCu"
-        }
-      ],
-      "duration_ms": 139188,
-      "name": "Quero Que Tu V\u00e1",
-      "url": "https://open.spotify.com/track/7ppLcVgxpoWAhAa2c0CN3b"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Sapequinha",
         "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 179933,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/2cV8V9eV79HWJHD4jNQHqq"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Quero Que Tu V\u00e1",
+        "url": "https://open.spotify.com/album/0JkqxwCPsumktyGvbytKbh"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
+        },
+        {
+          "name": "Joker Beats",
+          "url": "https://open.spotify.com/artist/7tsmrNpbLkT4xL1nzRLpCu"
+        }
+      ],
+      "duration_ms": 139188,
+      "name": "Quero Que Tu V\u00e1",
+      "url": "https://open.spotify.com/track/7ppLcVgxpoWAhAa2c0CN3b"
     },
     {
       "added_at": "2023-01-17 01:33:36",

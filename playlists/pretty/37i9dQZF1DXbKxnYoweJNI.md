@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 魏如萱 \(Waa Wei\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,309 likes - 151 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,312 likes - 151 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 121 | [日落擁抱](https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [日落擁抱](https://open.spotify.com/album/3O01wGFF98q2gqpALMtakp) | 3:16 |
 | 122 | [有一說一](https://open.spotify.com/track/5wBql3eTlpyzUVW0aabDe1) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [有一說一](https://open.spotify.com/album/6cNeVEXXvFCDMVS9LZ5Dnw) | 4:07 |
 | 123 | [Mom's Tattoo](https://open.spotify.com/track/6dn6wwbFsAfqW9BQB1j6tv) | [王彙筑](https://open.spotify.com/artist/25tE1FD2cGV7NaKnJqWsbx) | [滴滴答答](https://open.spotify.com/album/1BkoR0eXCHJ2L4zqky0UW2) | 3:06 |
-| 124 | [若等候會擁有什麼](https://open.spotify.com/track/3K8GrBr6OtZGCwVjEM3Z1X) | [TAIYO](https://open.spotify.com/artist/38e3dRuXJNEIlJLo2ux8pA) | [若等候會擁有什麼](https://open.spotify.com/album/05kzvkASmWJs9v4BXzOjH3) | 4:08 |
+| 124 | [若等候會擁有什麼\(原創劇集【全面管控】插曲](https://open.spotify.com/track/3K8GrBr6OtZGCwVjEM3Z1X) | [TAIYO](https://open.spotify.com/artist/38e3dRuXJNEIlJLo2ux8pA) | [若等候會擁有什麼\(原創劇集【全面管控】插曲](https://open.spotify.com/album/05kzvkASmWJs9v4BXzOjH3) | 4:08 |
 | 125 | [吸引毀滅](https://open.spotify.com/track/1g5TTpF9vRDH52TBWzRiVN) | [CHOVBE](https://open.spotify.com/artist/2lUrSsHsfcCEL03ByHevnY) | [吸引毀滅](https://open.spotify.com/album/0Qsp98reQ83Sk0Wj0p8IUa) | 4:17 |
 | 126 | [Scorching Sun](https://open.spotify.com/track/4aCp0Wlu8q3xSQGKWfzKCo) | [DrunkMonk 撞克茫客](https://open.spotify.com/artist/2o6IlfKpVWK4eZivj0yZUX) | [Scorching Sun](https://open.spotify.com/album/5eCFs8T0lTrkpA1UUdyj8G) | 4:19 |
 | 127 | [苦力怕](https://open.spotify.com/track/6ZikfLmRtG2ah4Tk29XyVk) | [JADE](https://open.spotify.com/artist/2CP7We7wDMW76lotAw85aR) | [Creeper](https://open.spotify.com/album/7DHPc682uIrrdTkLOer00Y) | 3:52 |

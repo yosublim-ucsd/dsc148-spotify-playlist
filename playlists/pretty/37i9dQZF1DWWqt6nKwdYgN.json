@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Ad\u00e1n Cruz en portada. ",
-  "num_followers": 16616,
+  "num_followers": 16619,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
+        "name": "Un Desamor de Amor Propio",
+        "url": "https://open.spotify.com/album/3hFYMBH61deqvTu9isJzk2"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Un Desamor de Amor Propio",
+      "url": "https://open.spotify.com/track/6Ytc9zPWuy4jbwweovyFSq"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
         "name": "Temor A Dios",
         "url": "https://open.spotify.com/album/3nFRuUPTvmg3v5xU0iuntc"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 170755,
       "name": "Temor A Dios",
       "url": "https://open.spotify.com/track/76aGL0QwyG1Wq1AQX9JsfI"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Un Desamor de Amor Propio",
-        "url": "https://open.spotify.com/album/3hFYMBH61deqvTu9isJzk2"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "Un Desamor de Amor Propio",
-      "url": "https://open.spotify.com/track/6Ytc9zPWuy4jbwweovyFSq"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/6AzLsAHLYtFMJSqDq0LoEb"
+        "name": "Micelio",
+        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
       },
       "artists": [
         {
-          "name": "Alak",
-          "url": "https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1"
+          "name": "Frank Takuma",
+          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
         }
       ],
-      "duration_ms": 131368,
-      "name": "Loco (Freestyle)",
-      "url": "https://open.spotify.com/track/52EQZLMsjySrQi2oMfV2nm"
+      "duration_ms": 169756,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -611,18 +611,22 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Micelio",
-        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
+        "name": "Cantinas Clandestinas",
+        "url": "https://open.spotify.com/album/08RNfijVdidvS4iL801z1e"
       },
       "artists": [
         {
-          "name": "Frank Takuma",
-          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+          "name": "Seyer Black Art Gang",
+          "url": "https://open.spotify.com/artist/0ajXUlyQnejinmO6xvBXtG"
+        },
+        {
+          "name": "Pads Killah",
+          "url": "https://open.spotify.com/artist/2GZ4RFJkhUfgZDSdDjbFDP"
         }
       ],
-      "duration_ms": 169756,
-      "name": "Iluminado",
-      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
+      "duration_ms": 243037,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/18sOWAFBNwbZdVT9LUJK2t"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -651,22 +655,18 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Cantinas Clandestinas",
-        "url": "https://open.spotify.com/album/08RNfijVdidvS4iL801z1e"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6AzLsAHLYtFMJSqDq0LoEb"
       },
       "artists": [
         {
-          "name": "Seyer Black Art Gang",
-          "url": "https://open.spotify.com/artist/0ajXUlyQnejinmO6xvBXtG"
-        },
-        {
-          "name": "Pads Killah",
-          "url": "https://open.spotify.com/artist/2GZ4RFJkhUfgZDSdDjbFDP"
+          "name": "Alak",
+          "url": "https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1"
         }
       ],
-      "duration_ms": 243037,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/18sOWAFBNwbZdVT9LUJK2t"
+      "duration_ms": 131368,
+      "name": "Loco (Freestyle)",
+      "url": "https://open.spotify.com/track/52EQZLMsjySrQi2oMfV2nm"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
+        "name": "MPD",
+        "url": "https://open.spotify.com/album/4lBsypSzJV7FKTOry1OS4o"
+      },
+      "artists": [
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "duration_ms": 191116,
+      "name": "MPD",
+      "url": "https://open.spotify.com/track/2nC58QdbBDnGHok2mwUz7k"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
         "name": "BURN",
         "url": "https://open.spotify.com/album/3UApKp9usMuiIm6vRJXCqj"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 177442,
       "name": "BURN",
       "url": "https://open.spotify.com/track/0EvLk2s8ACgEjiZyyTcu5E"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "MPD",
-        "url": "https://open.spotify.com/album/4lBsypSzJV7FKTOry1OS4o"
-      },
-      "artists": [
-        {
-          "name": "Stilo",
-          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
-        }
-      ],
-      "duration_ms": 191116,
-      "name": "MPD",
-      "url": "https://open.spotify.com/track/2nC58QdbBDnGHok2mwUz7k"
     },
     {
       "added_at": "2024-12-20 06:00:09",

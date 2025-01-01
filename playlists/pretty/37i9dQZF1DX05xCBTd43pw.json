@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36895,
+  "num_followers": 36896,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 214404,
+      "name": "Fcuk!",
+      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 216249,
       "name": "Full 180",
       "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 214404,
-      "name": "Fcuk!",
-      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Ehrlich",
-        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
-      },
-      "artists": [
-        {
-          "name": "Baschi",
-          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
-        }
-      ],
-      "duration_ms": 230310,
-      "name": "Ehrlich",
-      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 192078,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "Ehrlich",
+        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
+      },
+      "artists": [
+        {
+          "name": "Baschi",
+          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
+        }
+      ],
+      "duration_ms": 230310,
+      "name": "Ehrlich",
+      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Generation",
-        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 182609,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 201875,
       "name": "Just Like I Love You",
       "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 182609,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 167911,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Trade Hearts",
         "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 174786,
       "name": "Trade Hearts",
       "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 167911,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Trottinette",
-        "url": "https://open.spotify.com/album/2sQnRepY5FEm0rgQpAvfKq"
-      },
-      "artists": [
-        {
-          "name": "Marie Jay",
-          "url": "https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY"
-        }
-      ],
-      "duration_ms": 214340,
-      "name": "Fomo",
-      "url": "https://open.spotify.com/track/1iho6JCCMpTS2yLHocyOeQ"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 170146,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "Trottinette",
+        "url": "https://open.spotify.com/album/2sQnRepY5FEm0rgQpAvfKq"
+      },
+      "artists": [
+        {
+          "name": "Marie Jay",
+          "url": "https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY"
+        }
+      ],
+      "duration_ms": 214340,
+      "name": "Fomo",
+      "url": "https://open.spotify.com/track/1iho6JCCMpTS2yLHocyOeQ"
     },
     {
       "added_at": "2024-12-20 07:32:03",

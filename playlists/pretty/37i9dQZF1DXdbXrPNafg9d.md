@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,401 likes - 170 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,386 likes - 170 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 |
 | 2 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
-| 3 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm), [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 |
+| 3 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 |
 | 4 | [I Look for You](https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 3:11 |
 | 5 | [Spiral](https://open.spotify.com/track/1dnmBmlyBF1v7UYlAgJWEp) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Spiral](https://open.spotify.com/album/0PLx4669vGJx92xUDGO893) | 3:57 |
 | 6 | [Body Moves](https://open.spotify.com/track/22W7cxdI8GqHLZflKp0HQp) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Body Moves](https://open.spotify.com/album/4Fj3iiuCy0UgxCkx6NZPOK) | 3:27 |

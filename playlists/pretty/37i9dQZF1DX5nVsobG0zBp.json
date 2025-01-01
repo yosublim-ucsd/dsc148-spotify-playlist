@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Van Zee, Bispo",
-  "num_followers": 71100,
+  "num_followers": 71121,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-11-08 14:16:58",
       "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7"
+      },
+      "artists": [
+        {
+          "name": "Yuri NR5",
+          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn"
+    },
+    {
+      "added_at": "2024-11-08 14:16:58",
+      "album": {
         "name": "#FFFFFF",
         "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 191679,
       "name": "Tou Bem (feat. Lhast)",
       "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
-    },
-    {
-      "added_at": "2024-11-08 14:16:58",
-      "album": {
-        "name": "S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7"
-      },
-      "artists": [
-        {
-          "name": "Yuri NR5",
-          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn"
     },
     {
       "added_at": "2024-11-08 14:16:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-11-08 14:16:58",
       "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 312506,
-      "name": "JAMANTAH",
-      "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
-    },
-    {
-      "added_at": "2024-11-08 14:16:58",
-      "album": {
         "name": "Marselha",
         "url": "https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 188689,
       "name": "Marselha",
       "url": "https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc"
+    },
+    {
+      "added_at": "2024-11-08 14:16:58",
+      "album": {
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 312506,
+      "name": "JAMANTAH",
+      "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
     },
     {
       "added_at": "2024-11-08 14:16:58",
@@ -787,22 +787,18 @@
     {
       "added_at": "2024-11-08 14:16:58",
       "album": {
-        "name": "SYSTEM",
-        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "Jo\u00e3o Maia Ferreira",
-          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 246368,
-      "name": "TRIBUNAL",
-      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
+      "duration_ms": 263131,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
     },
     {
       "added_at": "2024-11-08 14:16:58",
@@ -819,22 +815,6 @@
       "duration_ms": 214530,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP"
-    },
-    {
-      "added_at": "2024-11-08 14:16:58",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 263131,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
     },
     {
       "added_at": "2024-11-08 14:16:58",
@@ -875,6 +855,26 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2024-11-08 14:16:58",
+      "album": {
+        "name": "SYSTEM",
+        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "Jo\u00e3o Maia Ferreira",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+        }
+      ],
+      "duration_ms": 246368,
+      "name": "TRIBUNAL",
+      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
     },
     {
       "added_at": "2024-11-08 14:16:58",
@@ -923,26 +923,6 @@
       "duration_ms": 188571,
       "name": "Stunka",
       "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
-    },
-    {
-      "added_at": "2024-11-08 14:16:58",
-      "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "F\u00ednix MG",
-          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
-        }
-      ],
-      "duration_ms": 336528,
-      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
-      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
     },
     {
       "added_at": "2024-11-08 14:16:58",
@@ -999,6 +979,22 @@
     {
       "added_at": "2024-11-08 14:16:58",
       "album": {
+        "name": "Iluminado (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WiEJMUAF6adifFNcBpUEu"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 202540,
+      "name": "Vida de Bar\u00e3o",
+      "url": "https://open.spotify.com/track/1ylUjDNTZp23pOiibkFYJs"
+    },
+    {
+      "added_at": "2024-11-08 14:16:58",
+      "album": {
         "name": "Oskey",
         "url": "https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex"
       },
@@ -1019,22 +1015,6 @@
     {
       "added_at": "2024-11-08 14:16:58",
       "album": {
-        "name": "Iluminado (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4WiEJMUAF6adifFNcBpUEu"
-      },
-      "artists": [
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 202540,
-      "name": "Vida de Bar\u00e3o",
-      "url": "https://open.spotify.com/track/1ylUjDNTZp23pOiibkFYJs"
-    },
-    {
-      "added_at": "2024-11-08 14:16:58",
-      "album": {
         "name": "CARO",
         "url": "https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 237722,
       "name": "CARO",
       "url": "https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD"
+    },
+    {
+      "added_at": "2024-11-08 14:16:58",
+      "album": {
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "F\u00ednix MG",
+          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
+        }
+      ],
+      "duration_ms": 336528,
+      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
+      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
     },
     {
       "added_at": "2024-11-08 14:16:58",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-11-08 14:16:58",
       "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
-    },
-    {
-      "added_at": "2024-11-08 14:16:58",
-      "album": {
         "name": "Malandro",
         "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 210675,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
+    },
+    {
+      "added_at": "2024-11-08 14:16:58",
+      "album": {
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
     },
     {
       "added_at": "2024-11-08 14:16:58",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-11-08 14:16:58",
       "album": {
-        "name": "O Re$To",
-        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "DJ HYPE MYKE",
-          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "O Re$To",
-      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
-    },
-    {
-      "added_at": "2024-11-08 14:16:58",
-      "album": {
         "name": "PRA MIM",
         "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 234893,
       "name": "STAY FLY",
       "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
+    },
+    {
+      "added_at": "2024-11-08 14:16:58",
+      "album": {
+        "name": "O Re$To",
+        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "DJ HYPE MYKE",
+          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "O Re$To",
+      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
     },
     {
       "added_at": "2024-11-08 14:16:58",

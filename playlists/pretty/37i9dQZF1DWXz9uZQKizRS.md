@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Igo
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,336 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,338 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 28 | [Zaspy](https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Zaspy](https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl) | 3:10 |
 | 29 | [Kto pokocha?](https://open.spotify.com/track/3WkL7CwHF9ixWf2SNPEyRU) | [Reni Jusis](https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC), [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Kto pokocha?](https://open.spotify.com/album/203N5GVJL0HDegUZFiqRBo) | 3:26 |
 | 30 | [Stworzyciele](https://open.spotify.com/track/4Cvhe1bo6dB0QWEDssf14O) | [Wishlake](https://open.spotify.com/artist/3oEXMAInmcKoggPiSIxsSx), [WASILEWSKI](https://open.spotify.com/artist/1Kede7dhODygxBDvVdkXuf) | [Stworzyciele](https://open.spotify.com/album/0uniNKX0fPlYUslenmaNu2) | 4:50 |
-| 31 | [Pastelowe Kredki](https://open.spotify.com/track/3KQOxCDBSeg6Bid2qYsQw3) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Mikolaj Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Pastelowe Kredki](https://open.spotify.com/album/6vp7j3Iug4KbRTPF4VagsN) | 2:00 |
+| 31 | [Pastelowe Kredki](https://open.spotify.com/track/3KQOxCDBSeg6Bid2qYsQw3) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Pastelowe Kredki](https://open.spotify.com/album/6vp7j3Iug4KbRTPF4VagsN) | 2:00 |
 | 32 | [It's not enough](https://open.spotify.com/track/1DCbgEa1py6V8P1JRvSTnL) | [Reni Jusis](https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC), [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Re Trans Misja](https://open.spotify.com/album/0YADQXmSqepRZFJBsrOBkD) | 3:09 |
 | 33 | [Miasto Nad Morzem](https://open.spotify.com/track/5AEbkHK8uqzzvL81agR3S6) | [BAZGROŁKI](https://open.spotify.com/artist/6009MUTEkGCSforjgcoolT), [Grzegorz Krajewski](https://open.spotify.com/artist/2K9qbth3NwT2qwTKmpVRk6) | [Miasto Nad Morzem](https://open.spotify.com/album/2j7TWQ8jr86nff2T2xlYuH) | 4:07 |
 | 34 | [Harvest](https://open.spotify.com/track/3HQeUn8KcfKgPOl2NSrdf7) | [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [Not My First Rodeo](https://open.spotify.com/album/6n2TMDdMpqnCONCEh1qALd) | 5:07 |

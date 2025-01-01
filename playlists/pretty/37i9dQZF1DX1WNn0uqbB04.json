@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-11-04 16:33:26",
       "album": {
+        "name": "De Arrabal",
+        "url": "https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq"
+      },
+      "artists": [
+        {
+          "name": "Octavio Caruso",
+          "url": "https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP"
+        }
+      ],
+      "duration_ms": 163989,
+      "name": "Taquito Militar",
+      "url": "https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb"
+    },
+    {
+      "added_at": "2024-11-04 16:33:26",
+      "album": {
         "name": "Veinte Veinte",
         "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 153500,
       "name": "Roberto",
       "url": "https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s"
-    },
-    {
-      "added_at": "2024-11-04 16:33:26",
-      "album": {
-        "name": "De Arrabal",
-        "url": "https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq"
-      },
-      "artists": [
-        {
-          "name": "Octavio Caruso",
-          "url": "https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "Taquito Militar",
-      "url": "https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb"
     },
     {
       "added_at": "2024-11-04 16:33:26",

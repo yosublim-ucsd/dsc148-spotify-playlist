@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Inhaler
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,724 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,796 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 26 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [SLEEP WHEN I'M DEAD](https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9) | 2:26 |
 | 27 | [💔 \- broken heart](https://open.spotify.com/track/47KJiVDgC1BvA1HDy6GnXz) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Just As Ï Remember](https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y) | 3:06 |
 | 28 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 |
-| 29 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm), [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 |
+| 29 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 |
 | 30 | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN) | 3:12 |
 | 31 | [Touch](https://open.spotify.com/track/4Pp3kJlRptlJzgAul4Upc5) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Touch](https://open.spotify.com/album/7uu47RjPPfgfuPaMy31gEn) | 2:48 |
 | 32 | [Vienna \(Everything’s Fine\)](https://open.spotify.com/track/1HjiMWq0WGXWZdHrXChXQo) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Wonderland](https://open.spotify.com/album/3HLGdW2Txvm3ex8EqRI5wh) | 2:57 |

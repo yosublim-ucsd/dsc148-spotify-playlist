@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\. \| Request songs @ Furrest.Online
 
-260 songs - 13 hr 51 min
+261 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,5 +268,6 @@
 | [Y2K](https://open.spotify.com/track/7wWqdXBLZMxdCWphYfln9a) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 2:18 | 2024-12-06 |  |
 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 | 2024-01-03 |  |
 | [You'll Be Gone](https://open.spotify.com/track/0WQ7qaeId6XAi704MbQM1x) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [You'll Be Gone](https://open.spotify.com/album/0gH8DEh4ckICe6PB7Dc4kq) | 3:42 | 2023-06-14 |  |
+| [YOUR TOUCH](https://open.spotify.com/track/0FuB5N3msY4vAbyA4cngiI) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [YOUR TOUCH](https://open.spotify.com/album/4JGzn0cPRwE5vgMRFHYWh4) | 4:41 | 2024-12-31 |  |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

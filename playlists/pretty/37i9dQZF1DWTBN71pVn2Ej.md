@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come with Head Cloud \(pictured\), Day Saints, Present, trauma ray and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,254 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,215 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 7 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
 | 8 | [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 |
 | 9 | [Copycat Machine](https://open.spotify.com/track/6393YvF2YUp4dxa15t0vax) | [Doom Mutual](https://open.spotify.com/artist/0H4CAIX0p57Mmu3UyvcNe3) | [Copycat Machine](https://open.spotify.com/album/1tfYKVxwcwRRDkjM1rwA2Z) | 4:10 |
-| 10 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm), [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 |
+| 10 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 |
 | 11 | [47.](https://open.spotify.com/track/12tsAy57sjPGpFlo56ejHo) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Closer To;](https://open.spotify.com/album/34Bv0P1zXTnqLkL0B4ykXV) | 3:27 |
 | 12 | [Low](https://open.spotify.com/track/2AFnAMgW74uETtdtZ3IlFA) | [12th House Sun](https://open.spotify.com/artist/4rXSUCyiubZ8gXEWUchdQf) | [12th House Sun X Psylo Split](https://open.spotify.com/album/3NLvVaYZUZGgHPuFUAhPS9) | 3:53 |
 | 13 | [On Show](https://open.spotify.com/track/0agGCcwt41TA8i6quuwhe7) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Guilt Is Good](https://open.spotify.com/album/7utWDQvMIaQ1Hc7tPrPY7T) | 3:19 |

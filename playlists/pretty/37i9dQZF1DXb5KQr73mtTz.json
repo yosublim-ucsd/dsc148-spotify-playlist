@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 18076,
+  "num_followers": 18081,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
+        "name": "Jeongnyeon: The Star is Born, Pt. 3 : Spring days pass (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 201320,
+      "name": "Spring days pass",
+      "url": "https://open.spotify.com/track/1WACArKm987xYhEAiuetlx"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
         "name": "Narcissus",
         "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
-        "name": "Jeongnyeon: The Star is Born, Pt. 3 : Spring days pass (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 201320,
-      "name": "Spring days pass",
-      "url": "https://open.spotify.com/track/1WACArKm987xYhEAiuetlx"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -683,22 +683,18 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+        "name": "something",
+        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
         }
       ],
-      "duration_ms": 193280,
-      "name": "The Walking Dead (Feat. Kim Feel)",
-      "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
+      "duration_ms": 218360,
+      "name": "something",
+      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -719,18 +715,22 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "something",
-        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
       "artists": [
         {
-          "name": "Joob A",
-          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
         }
       ],
-      "duration_ms": 218360,
-      "name": "something",
-      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
+      "duration_ms": 193280,
+      "name": "The Walking Dead (Feat. Kim Feel)",
+      "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
     },
     {
       "added_at": "2024-10-27 13:02:30",

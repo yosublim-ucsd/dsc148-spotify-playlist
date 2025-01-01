@@ -2,7 +2,7 @@
 
 ### [Winter 2025](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> December beleef je hier!
+> Januari beleef je hier!
 
 567 songs - 1 day 4 hr 44 min
 

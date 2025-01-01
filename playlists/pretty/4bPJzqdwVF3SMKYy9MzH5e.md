@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,028 songs - 4 day 12 hr 42 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,030 songs - 4 day 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2036,5 +2036,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2026 | [Sugar Water Cyanide](https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Sugar Water Cyanide](https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm) | 2:54 |
 | 2027 | [Seasons](https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/6HQJWzhmmKLP9fKjM4jsyY) | 2:37 |
 | 2028 | [Bing Bong](https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Bing Bong](https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu) | 2:03 |
+| 2029 | [Save Me](https://open.spotify.com/track/5VjQTikdqkiKi1XtXTVdc8) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Save Me](https://open.spotify.com/album/0Csz4JigGPMvvaAPlDMefh) | 3:34 |
+| 2030 | [Hate Bein' Sober](https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:40 |
 
-Snapshot ID: `AAADqInuEN+ycd4SB75OX63lFl4Z6aX4`
+Snapshot ID: `AAADqunbdFYX8bYr4p9mo0anKSTgq6mr`

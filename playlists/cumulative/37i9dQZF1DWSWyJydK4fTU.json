@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg"
+      },
+      "artists": [
+        {
+          "name": "Derik Fein",
+          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200446,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw"
+    },
+    {
+      "album": {
         "name": "C'est La Vie, Baby!",
         "url": "https://open.spotify.com/album/2ncl4h8FXHnpnbMrvGwA2x"
       },
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 205080,
       "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
       "url": "https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP"
@@ -2655,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
+    },
+    {
+      "album": {
         "name": "Wei\u00dfe Haare",
         "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
       },
@@ -2756,7 +2792,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 194000,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"

@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 13912,
+  "num_followers": 13919,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,18 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
-        "name": "rare.",
-        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
       },
       "artists": [
         {
           "name": "Odunsi (The Engine)",
           "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
         }
       ],
-      "duration_ms": 192309,
-      "name": "Alt\u00e9 Cruise",
-      "url": "https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E"
+      "duration_ms": 187206,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
     },
     {
       "added_at": "2024-10-04 06:08:12",
@@ -587,6 +579,26 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
+        "name": "LEANING",
+        "url": "https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO"
+      },
+      "artists": [
+        {
+          "name": "Joeyturks",
+          "url": "https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL"
+        },
+        {
+          "name": "boistory",
+          "url": "https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc"
+        }
+      ],
+      "duration_ms": 153846,
+      "name": "LEANING",
+      "url": "https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q"
+    },
+    {
+      "added_at": "2024-10-04 06:08:12",
+      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -627,26 +639,6 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
-        "name": "LEANING",
-        "url": "https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO"
-      },
-      "artists": [
-        {
-          "name": "Joeyturks",
-          "url": "https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL"
-        },
-        {
-          "name": "boistory",
-          "url": "https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc"
-        }
-      ],
-      "duration_ms": 153846,
-      "name": "LEANING",
-      "url": "https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q"
-    },
-    {
-      "added_at": "2024-10-04 06:08:12",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
       },
@@ -683,18 +675,26 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
+        "name": "rare.",
+        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
       },
       "artists": [
         {
           "name": "Odunsi (The Engine)",
           "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
         }
       ],
-      "duration_ms": 187206,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
+      "duration_ms": 192309,
+      "name": "Alt\u00e9 Cruise",
+      "url": "https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E"
     },
     {
       "added_at": "2024-10-04 06:08:12",

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: 5 a seco",
-  "num_followers": 348545,
+  "num_followers": 348559,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 142011,
-      "name": "Apesar de Agora",
-      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "Trem das Onze",
         "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 219428,
       "name": "Trem Das Onze",
       "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 142011,
+      "name": "Apesar de Agora",
+      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Dora",
-        "url": "https://open.spotify.com/album/6Ecckcv9jZLxWu1q8OIS4T"
-      },
-      "artists": [
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
-        },
-        {
-          "name": "Karina Buhr",
-          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
-        }
-      ],
-      "duration_ms": 332868,
-      "name": "Dora",
-      "url": "https://open.spotify.com/track/4Szb386es2OZQPo0wRsP8l"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "Quem Nos Dera",
         "url": "https://open.spotify.com/album/33QUHk2NTqqRY2E0yHtFkS"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 140958,
       "name": "Quem Nos Dera",
       "url": "https://open.spotify.com/track/7CExS7KbwVINZ1diUiGXE8"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Dora",
+        "url": "https://open.spotify.com/album/6Ecckcv9jZLxWu1q8OIS4T"
+      },
+      "artists": [
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        },
+        {
+          "name": "Karina Buhr",
+          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
+        }
+      ],
+      "duration_ms": 332868,
+      "name": "Dora",
+      "url": "https://open.spotify.com/track/4Szb386es2OZQPo0wRsP8l"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -939,22 +939,18 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Insensatez",
-        "url": "https://open.spotify.com/album/3WLkBpELNdh4EWwVviDWt2"
+        "name": "Olho D'\u00c1gua",
+        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
       "artists": [
         {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 192271,
-      "name": "Insensatez",
-      "url": "https://open.spotify.com/track/6EEJ80jZ2VTdAEDh7oWjBv"
+      "duration_ms": 188064,
+      "name": "Deleita",
+      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -995,18 +991,22 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Olho D'\u00c1gua",
-        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
+        "name": "Insensatez",
+        "url": "https://open.spotify.com/album/3WLkBpELNdh4EWwVviDWt2"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 188064,
-      "name": "Deleita",
-      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
+      "duration_ms": 192271,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/6EEJ80jZ2VTdAEDh7oWjBv"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Como Vai Voc\u00ea",
-        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
+        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
       },
       "artists": [
         {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
         }
       ],
-      "duration_ms": 181169,
-      "name": "Como Vai Voc\u00ea",
-      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
+      "duration_ms": 202806,
+      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 181169,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
         "name": "Segunda-feira",
         "url": "https://open.spotify.com/album/5hCIkJZTU1evnvnA1QWxQM"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 130436,
       "name": "Bobeira",
       "url": "https://open.spotify.com/track/0Wxjpl6ElAcsn3qko1SKql"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
-        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
-        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 202806,
-      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "M\u00fasica",
-        "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
-      },
-      "artists": [
-        {
-          "name": "YAZI",
-          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
-        },
-        {
-          "name": "A Timeline",
-          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
-        }
-      ],
-      "duration_ms": 203584,
-      "name": "M\u00fasica",
-      "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "CORAL",
         "url": "https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796"
       },
@@ -1319,22 +1299,22 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Theodoro Nag\u00f4: We4Sessions",
-        "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
+        "name": "M\u00fasica",
+        "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
       },
       "artists": [
         {
-          "name": "Theodoro Nag\u00f4",
-          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
+          "name": "YAZI",
+          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
         },
         {
-          "name": "WE4Sessions",
-          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+          "name": "A Timeline",
+          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
         }
       ],
-      "duration_ms": 225789,
-      "name": "Preta Yay\u00e1",
-      "url": "https://open.spotify.com/track/1fAb26jYwDAaw1Mg1hfSro"
+      "duration_ms": 203584,
+      "name": "M\u00fasica",
+      "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1351,6 +1331,26 @@
       "duration_ms": 221137,
       "name": "Domingo \u00c0 Noite",
       "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Theodoro Nag\u00f4: We4Sessions",
+        "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
+      },
+      "artists": [
+        {
+          "name": "Theodoro Nag\u00f4",
+          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
+        },
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Preta Yay\u00e1",
+      "url": "https://open.spotify.com/track/1fAb26jYwDAaw1Mg1hfSro"
     },
     {
       "added_at": "2024-12-20 03:19:32",

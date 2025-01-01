@@ -4,7 +4,7 @@
 
 > The Hottest Arabic Music.<br/>Cover: Hamza Al Mahmdawi
 
-407 songs - 1 day 0 hr 33 min
+408 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Ya Sidi Ensa](https://open.spotify.com/track/70bsA9PpuP5DTq1OcL01h6) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Sidi Ensa](https://open.spotify.com/album/44gSXHC6qBhAjPECo8oCbW) | 3:32 | 2024-09-06 |  |
 | [Ya Tabtab Wa Dallaa](https://open.spotify.com/track/4bEqJTQXMOGGnvFbDOMnHi) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Ya Tabtab Wa Dallaa](https://open.spotify.com/album/64sY5v4o1KC9tLUU9IOWMa) | 4:28 | 2023-05-14 | 2023-06-02 |
 | [Ya Wafiya](https://open.spotify.com/track/2OfewEJuqAVkt56n0qaiqS) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ya Wafiya](https://open.spotify.com/album/4As7Qnegg2bpUKY6FNURlD) | 5:41 | 2024-01-27 | 2024-05-02 |
+| [Yaah](https://open.spotify.com/track/70dKMd8vTYyNZ0UBbtrT00) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/1kOTpVpceIIpzMSoHgTOK9) | 4:10 | 2024-12-31 |  |
 | [Yalla](https://open.spotify.com/track/6rhd40DNmApnDOGsd4SPQG) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Yalla](https://open.spotify.com/album/0L9JuitPjP5cGRcyiQ17fx) | 3:02 | 2023-09-22 | 2024-01-25 |
 | [Yamorr W Ma Yesalem](https://open.spotify.com/track/6E9l3MmHudgY0Ol1HR48Xa) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Thumma Ana](https://open.spotify.com/album/3rRbly6zfbFZgbDTfDKKAv) | 4:09 | 2024-07-10 |  |
 | [Youm Talat \(Remix\)](https://open.spotify.com/track/6uv7lEEKwtg4VZOEUJKD4F) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Youm Talat \(Remix\)](https://open.spotify.com/album/6V8QwgQg0Xszo8zu2Do44K) | 3:38 | 2021-12-12 | 2022-06-24 |
@@ -367,7 +368,7 @@
 | [سيد الغرام](https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [سيد الغرام](https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6) | 3:56 | 2023-01-01 | 2023-06-02 |
 | [شفت النجوم](https://open.spotify.com/track/2GQB3Xe1J9D2sK90AtHfhI) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [شفت النجوم](https://open.spotify.com/album/7150HyQxphdEnrai0PoxAc) | 3:50 | 2022-07-22 | 2022-11-05 |
 | [شكلي حبيتك](https://open.spotify.com/track/5T9CY5X8vtTSJMGmn7OhuQ) | [Hamada Nashawaty](https://open.spotify.com/artist/3nMn5vERIMo8FaLWhmxE5U) | [شكلي حبيتك](https://open.spotify.com/album/5vdk4wptuUqEn12n2vq6FC) | 2:38 | 2021-12-12 | 2022-06-24 |
-| [ظروف معنداني](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 | 2023-06-01 |  |
+| [ظروف معنداني](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 | 2023-06-01 | 2025-01-01 |
 | [عالمرة](https://open.spotify.com/track/0QorN3PSTD80rrWbZy9VOJ) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [عالمرة](https://open.spotify.com/album/49KKjzKioWbHFY0m3I8Qqm) | 3:05 | 2023-06-14 | 2023-07-05 |
 | [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2021-12-12 | 2022-01-15 |
 | [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-11-01 | 2023-06-02 |

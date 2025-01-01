@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,082 likes - 115 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,085 likes - 115 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 96 | [认定一个人](https://open.spotify.com/track/7358l4Ze5pNRyaGRYeTKh7) | [叶炫清](https://open.spotify.com/artist/74UyyufIwsQ17VOkYbau9H) | [认定一个人](https://open.spotify.com/album/49qaCwyqJY6eiNU0eZW9GF) | 4:44 |
 | 97 | [你能不能真的懂我](https://open.spotify.com/track/35COvqvA8VD9XMg8paUcLz) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [你能不能真的懂我](https://open.spotify.com/album/36FKuwf0cL4BTpbkpItlMk) | 3:25 |
 | 98 | [明明相愛的兩個人 Where We Fell Apart](https://open.spotify.com/track/2JTGcOMKhnn8jiCFC18FiH) | [林桉 Anzio](https://open.spotify.com/artist/00oWwzDpQoaT3UbK6N5qUM) | [情緒話 Moodscape](https://open.spotify.com/album/6CmUUzVSO1lXCi66ylWSUw) | 5:00 |
-| 99 | [若等候會擁有什麼](https://open.spotify.com/track/3K8GrBr6OtZGCwVjEM3Z1X) | [TAIYO](https://open.spotify.com/artist/38e3dRuXJNEIlJLo2ux8pA) | [若等候會擁有什麼](https://open.spotify.com/album/05kzvkASmWJs9v4BXzOjH3) | 4:08 |
+| 99 | [若等候會擁有什麼\(原創劇集【全面管控】插曲](https://open.spotify.com/track/3K8GrBr6OtZGCwVjEM3Z1X) | [TAIYO](https://open.spotify.com/artist/38e3dRuXJNEIlJLo2ux8pA) | [若等候會擁有什麼\(原創劇集【全面管控】插曲](https://open.spotify.com/album/05kzvkASmWJs9v4BXzOjH3) | 4:08 |
 | 100 | [Get a Little Higher](https://open.spotify.com/track/0qO3YTBD3A5e3Vp8L1FBD4) | [鄭雙雙](https://open.spotify.com/artist/642hyS9EveDWXVIANUQnMb) | [Time](https://open.spotify.com/album/32G2c5J9QqPV70WDQwu2zw) | 2:57 |
 | 101 | [深藍海](https://open.spotify.com/track/29KqtXjfOaMuHfRfdbueZG) | [高真 TRU](https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3) | [深藍海](https://open.spotify.com/album/5y4kXTQeXluWutxTVHUFSb) | 4:11 |
 | 102 | [你別來我無恙](https://open.spotify.com/track/73ZUUKMuhI2V07lDjg6Rmz) | [黃琳媛Ally](https://open.spotify.com/artist/4Ojz19hoRR2gvDuQsRgFIC) | [你別來我無恙](https://open.spotify.com/album/1XMBYHdxwfGqXPKjdcUQf0) | 3:31 |

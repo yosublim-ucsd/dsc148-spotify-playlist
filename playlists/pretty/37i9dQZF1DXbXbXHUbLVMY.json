@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28357,
+  "num_followers": 28360,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "Veien",
+        "url": "https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 187083,
+      "name": "Veien",
+      "url": "https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "Ledare",
         "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 111214,
       "name": "Hel/Halv",
       "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "Veien",
-        "url": "https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 187083,
-      "name": "Veien",
-      "url": "https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "2 Trekk",
-        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        }
-      ],
-      "duration_ms": 172841,
-      "name": "2 Trekk",
-      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "I Care",
         "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 93830,
       "name": "Det Regner Penger (Allez Allez)",
       "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "2 Trekk",
+        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "duration_ms": 172841,
+      "name": "2 Trekk",
+      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "SIPPER",
-        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        },
-        {
-          "name": "Dutty Dior",
-          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "SIPPER",
-      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "S\u00e4g Mig",
         "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 135000,
       "name": "S\u00e4g Mig",
       "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "SIPPER",
+        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        },
+        {
+          "name": "Dutty Dior",
+          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
+        }
+      ],
+      "duration_ms": 135333,
+      "name": "SIPPER",
+      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
     },
     {
       "added_at": "2024-12-19 23:00:52",

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        },
+        {
+          "name": "ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "15",
+      "url": "https://open.spotify.com/track/3bccJlU6zh1SZ79jvduQ06"
+    },
+    {
+      "album": {
         "name": "IGAZIAK\u00c9RT",
         "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
       },
@@ -162,7 +184,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 124000,
       "name": "Ali Ali",
       "url": "https://open.spotify.com/track/2lW57y7U7Pce21wRiMe6EA"
@@ -312,6 +334,24 @@
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "album": {
+        "name": "baj",
+        "url": "https://open.spotify.com/album/52jOvLR42wfcJw6nBJvy8y"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223469,
+      "name": "baj",
+      "url": "https://open.spotify.com/track/4wPuwLF9a7yOIw3XSuuVxM"
     },
     {
       "album": {
@@ -548,7 +588,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 128365,
       "name": "BORDERLINE",
       "url": "https://open.spotify.com/track/4vzIpVAedHnbl24j2FVsiE"
@@ -930,7 +970,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 170751,
       "name": "egyszer\u0171",
       "url": "https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n"
@@ -1086,7 +1126,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 182666,
       "name": "EZ AZ \u00c1RA",
       "url": "https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ"
@@ -1178,7 +1218,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
@@ -1360,7 +1400,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 189783,
       "name": "g\u00e1t",
       "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
@@ -1726,7 +1766,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 158133,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
@@ -1784,7 +1824,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 160534,
       "name": "J\u00e9zus k\u00e9rlek h\u00edvj\u00e1l fel",
       "url": "https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ"
@@ -1939,6 +1979,36 @@
     },
     {
       "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        },
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184100,
+      "name": "KINT VAGYOK A SORON",
+      "url": "https://open.spotify.com/track/61lwlMPrt7VfUsVDjTWJF2"
+    },
+    {
+      "album": {
         "name": "Krisz x Jaki-Prikezsia",
         "url": "https://open.spotify.com/album/2jT7xQHCWIU6exoxOt10nO"
       },
@@ -2026,10 +2096,28 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "album": {
+        "name": "LEV\u00c9L",
+        "url": "https://open.spotify.com/album/7qJhkRTRgQOCk5wiPqx2Kh"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157688,
+      "name": "LEV\u00c9L",
+      "url": "https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8"
     },
     {
       "album": {
@@ -2248,7 +2336,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 249533,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
@@ -3194,7 +3282,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 189354,
       "name": "Rampapapam",
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
@@ -3220,7 +3308,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
@@ -3398,7 +3486,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 170934,
       "name": "SISS",
       "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
@@ -3558,7 +3646,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -3988,7 +4076,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 165584,
       "name": "Utol\u00e9r",
       "url": "https://open.spotify.com/track/3NkIgoNeVIaNTGoX07HeaJ"
@@ -4080,7 +4168,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 197234,
       "name": "Vengo del Fuego",
       "url": "https://open.spotify.com/track/3KrX4mMn13Ijog4OC2Q1Hd"
@@ -4186,6 +4274,46 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "album": {
+        "name": "\u00c1lomk\u00e9p",
+        "url": "https://open.spotify.com/album/652v4657oJaLks7L5hNVH7"
+      },
+      "artists": [
+        {
+          "name": "Feh\u00e9r Kriszti\u00e1n",
+          "url": "https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "\u00c1lomk\u00e9p",
+      "url": "https://open.spotify.com/track/15M5mgDvw2nSIjQKYGF21g"
+    },
+    {
+      "album": {
+        "name": "\u00c9jf\u00e9l",
+        "url": "https://open.spotify.com/album/1I5GF9oxmcUSBXIAaDv21m"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "Gaspar Laci",
+          "url": "https://open.spotify.com/artist/1P5T5EzCNQXavHmVZ7Kdj5"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196695,
+      "name": "\u00c9jf\u00e9l",
+      "url": "https://open.spotify.com/track/6xnneTxSRzkofA0oLWa1ey"
     },
     {
       "album": {

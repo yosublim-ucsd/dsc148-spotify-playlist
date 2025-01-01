@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129710,
+  "num_followers": 129715,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Buttons",
-        "url": "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 127342,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
         "name": "Waffle House",
         "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 145440,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
+        "name": "Buttons",
+        "url": "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 127342,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+      "duration_ms": 161811,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 161811,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
-      },
-      "artists": [
-        {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
-        }
-      ],
-      "duration_ms": 141562,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
+        "name": "The Race",
+        "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
+      },
+      "artists": [
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+        }
+      ],
+      "duration_ms": 141562,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Spotify Singles - Christmas",
-        "url": "https://open.spotify.com/album/2sFIcASZWGhP0KyMPWemSE"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Feliz Navidad - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4uqRDeCgXPLQFYqA5uf5Tr"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/2sFIcASZWGhP0KyMPWemSE"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 148085,
+      "name": "Feliz Navidad - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4uqRDeCgXPLQFYqA5uf5Tr"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/4FjCAJoxMAle4m86IX0PzZ"
-      },
-      "artists": [
-        {
-          "name": "a!ka",
-          "url": "https://open.spotify.com/artist/6joZG8wmwfEVAxWSEhezJA"
-        }
-      ],
-      "duration_ms": 184347,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/2zCO8w8puVE1frDRpCBLuD"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 184346,
       "name": "Humbug Mountain Song",
       "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/4FjCAJoxMAle4m86IX0PzZ"
+      },
+      "artists": [
+        {
+          "name": "a!ka",
+          "url": "https://open.spotify.com/artist/6joZG8wmwfEVAxWSEhezJA"
+        }
+      ],
+      "duration_ms": 184347,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/2zCO8w8puVE1frDRpCBLuD"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 204376,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
     },
     {
       "added_at": "2024-12-23 01:22:54",

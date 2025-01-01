@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,862 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,870 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 7 | [Subzero \(Speed Plug\)](https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB) | [Caeljugz](https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw) | [Subzero \(Speed Plug\)](https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI) | 2:05 |
 | 8 | [202 \- Speed](https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202 \(Speed\)](https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ) | 2:22 |
 | 9 | [Plug! \(Speed Plug\)](https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb) | [Muzzi](https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8) | [Plug! \(Speed Plug\)](https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd) | 1:42 |
-| 10 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
-| 11 | [Deixa Escondido \(Speed\) \- Remix](https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t), [Ramuz](https://open.spotify.com/artist/0DJFfBx6sAHxiI127wtQOu) | [Deixa Escondido \(Speed\) \[Remix\]](https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh) | 2:31 |
+| 10 | [Deixa Escondido \(Speed\) \- Remix](https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t), [Ramuz](https://open.spotify.com/artist/0DJFfBx6sAHxiI127wtQOu) | [Deixa Escondido \(Speed\) \[Remix\]](https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh) | 2:31 |
+| 11 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
 | 12 | [Put0 & Cheiroso \(Speed Plug\)](https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr) | [Jvcriaa](https://open.spotify.com/artist/0vu0cYjf77leIXg2xaj6uG), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [ProdbySnow](https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe), [Denzelthreal](https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850), [Oficialtalim](https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM) | [Put0 & Cheiroso \(Speed Plug\)](https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D) | 2:39 |
 | 13 | [Brotei No Baile Da Matinha \- Tiktok](https://open.spotify.com/track/5kMfOzYm4xE5zdt2cH2rFy) | [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [Dj Cabelão Do Turano](https://open.spotify.com/artist/06E0qNGr33u2Dlxy21C3Rb), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Brotei No Baile Da Matinha \(Tiktok\)](https://open.spotify.com/album/4K63K2sdjaW6ySiaynrEGo) | 1:46 |
 | 14 | [Até o Amanhecer \- Speed](https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Até o Amanhecer \(Speed\)](https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w) | 2:50 |

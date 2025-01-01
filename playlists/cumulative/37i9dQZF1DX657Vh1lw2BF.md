@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف:حمزة المحمداوي
 
-142 songs - 8 hr 45 min
+143 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [B6ela](https://open.spotify.com/track/17XYX4C5jRSsFRMgiJJc0B) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [B6ALA](https://open.spotify.com/album/5WrUyFuqqb8sVRR5SYewqg) | 2:56 | 2022-05-06 | 2022-10-26 |
 | [Baad Nerga Ma Areed](https://open.spotify.com/track/4mdAb5pWJd5B6bs4tH19zZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Baad Nerga Ma Areed](https://open.spotify.com/album/5d3CnENBiFVZBUwBGNHlEY) | 3:52 | 2022-05-06 | 2023-04-27 |
 | [Baatrk Atnfas](https://open.spotify.com/track/2vKRNP5PHsHTa8deqEVLTe) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Baatrk Atnfas](https://open.spotify.com/album/0q5kruQKz4fQDyXp1rqyHm) | 3:12 | 2022-12-02 | 2023-09-30 |
-| [Batalt Aetebhom](https://open.spotify.com/track/6vOwgQuNb1LTfaT6sm4ePO) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Batalt Aetebhom](https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z) | 4:02 | 2022-12-02 |  |
+| [Batalt Aetebhom](https://open.spotify.com/track/6vOwgQuNb1LTfaT6sm4ePO) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Batalt Aetebhom](https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z) | 4:02 | 2022-12-02 | 2025-01-01 |
 | [Bent Qalbak](https://open.spotify.com/track/35jlqZFszcA1otazUjkzXL) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Bent Qalbak](https://open.spotify.com/album/0cPHtDdJjrWNFHIO4yJOMi) | 3:28 | 2023-04-04 | 2023-05-06 |
 | [Dabrole Dam3a](https://open.spotify.com/track/5k1u7jIpoKQSR90fbiJINY) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Dabrole Dam3a](https://open.spotify.com/album/64iTFqHAC2Ag4PGTV3AkZW) | 3:47 | 2022-06-07 | 2023-09-30 |
 | [Dag El Galb](https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dag El Galb](https://open.spotify.com/album/69Ezh1ncGl5mV9C6Yj7NE3) | 3:10 | 2022-05-06 | 2023-04-27 |
@@ -135,6 +135,7 @@
 | [Ya Ent](https://open.spotify.com/track/7KjwVP7HQbHCt42ml1NjWP) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ya Ent](https://open.spotify.com/album/6vZNmpt7CUyheZUN0UT8Jt) | 4:20 | 2023-02-27 |  |
 | [Ya Ghality](https://open.spotify.com/track/59RLZGo87dYKyPOCcAAgSL) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Ya Ghality](https://open.spotify.com/album/2lNTAtqI85Bl1NVhu4RQp9) | 3:20 | 2022-05-06 | 2023-04-27 |
 | [Ya Janti Ya Nari](https://open.spotify.com/track/5qtAaqobu4NUGsnBA1Hlx1) | [Ghassan Alshami](https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC) | [Ya Janti Ya Nari](https://open.spotify.com/album/3cgzsdNLX4ijTwPXZZ3fMp) | 4:23 | 2022-07-19 | 2024-06-26 |
+| [Yahei Herah](https://open.spotify.com/track/3kxwdCX5k8IpnOKslObcWt) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Yahei Herah](https://open.spotify.com/album/4jNkWW9b6v0yachD4VUEgj) | 4:37 | 2024-12-31 |  |
 | [Yamak Mazaji](https://open.spotify.com/track/2bXithodmiWrEaTjOqcteg) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Yamak Mazaji](https://open.spotify.com/album/5OV4xIUKf1Ms8gAW52YCU4) | 3:13 | 2023-05-26 |  |
 | [Yeraqebni](https://open.spotify.com/track/0g6frByAc4v9DatpduW59v) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Yeraqbni](https://open.spotify.com/album/0FuGAtuv9IjVv1cYEGyDfq) | 4:16 | 2024-05-09 | 2024-06-26 |
 | [أحبك دومي](https://open.spotify.com/track/6ifzqwDP0Fnsz4uhHB8k2c) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [أحبك دومي](https://open.spotify.com/album/0800c1fgGe68F8wHAKU56W) | 3:36 | 2022-08-26 | 2023-02-09 |

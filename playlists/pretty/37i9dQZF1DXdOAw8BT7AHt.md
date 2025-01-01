@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Amyl & The Sniffers
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,514 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,525 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 50 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 |
 | 51 | [Everything and Nothing](https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Everything and Nothing](https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9) | 3:57 |
 | 52 | [1800\-PAINLESS](https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE), [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [1800\-PAINLESS](https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o) | 3:23 |
-| 53 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 |
-| 54 | [Cry Your Eyes Out](https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 2:25 |
+| 53 | [Cry Your Eyes Out](https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 2:25 |
+| 54 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 |
 | 55 | [The Sacrifice](https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Sacrifice / At Sickness](https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL) | 3:28 |
 | 56 | [5168 Days](https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [5168 Days](https://open.spotify.com/album/54Hh6C6wWiLK9Rn4JKHLqg) | 3:15 |
 | 57 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 |
-| 58 | [Yankee Trails](https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:47 |
-| 59 | [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 |
+| 58 | [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 |
+| 59 | [Yankee Trails](https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:47 |
 | 60 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 |
 | 61 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
 | 62 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
@@ -75,16 +75,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 65 | [On The Brink](https://open.spotify.com/track/3pZkECxp728z1JKMG9nHYK) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [On The Brink](https://open.spotify.com/album/39bVJ3bstQjSHazht9mNct) | 1:48 |
 | 66 | [Demolition Man](https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Demolition Man](https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8) | 2:45 |
 | 67 | [Johnny](https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Johnny](https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r) | 2:29 |
-| 68 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 |
-| 69 | [Claw](https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Claw](https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ) | 3:15 |
+| 68 | [Claw](https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Claw](https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ) | 3:15 |
+| 69 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 |
 | 70 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 |
 | 71 | [No Backbone](https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [No Backbone](https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL) | 2:17 |
 | 72 | [GET A JOB!](https://open.spotify.com/track/33P7T4AeMmNi7aaVRD0IB3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GET A JOB!](https://open.spotify.com/album/5Htr73zW5tGvolH7foL7X6) | 2:34 |
-| 73 | [Elster Stares the Desert Down](https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Elster Stares the Desert Down](https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3) | 3:41 |
-| 74 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
+| 73 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
+| 74 | [Elster Stares the Desert Down](https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Elster Stares the Desert Down](https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3) | 3:41 |
 | 75 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
-| 76 | [Gravity](https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Sentiment Valley](https://open.spotify.com/album/3wcZGDA4GuhywW609ZaSrR) | 3:06 |
-| 77 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 |
+| 76 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 |
+| 77 | [Gravity](https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Sentiment Valley](https://open.spotify.com/album/3wcZGDA4GuhywW609ZaSrR) | 3:06 |
 | 78 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
 | 79 | [Ultimatum](https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Ultimatum](https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP) | 3:26 |
 | 80 | [A White Horse Covered In Blood](https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [A White Horse Covered In Blood](https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY) | 3:18 |

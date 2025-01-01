@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,961 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,022 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 34 | [BGHAWNI](https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:17 |
 | 35 | [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 |
 | 36 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
-| 37 | [I'm Okey](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 |
+| 37 | [Galess Fdar](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 |
 | 38 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 |
 | 39 | [Liyam](https://open.spotify.com/track/21vUj5SOzOdtGTgRRPBGoA) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:25 |
 | 40 | [Sebri Tal](https://open.spotify.com/track/7ajOcxZsSSXcKQZQaHYCB0) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Sebri Tal](https://open.spotify.com/album/35sxD1bkcP4NG8jJZhBpLD) | 3:43 |

@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Javier B\u00e1tiz por siempre ",
-  "num_followers": 551754,
+  "num_followers": 551830,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "Cronicas De Un Laberinto",
-        "url": "https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy"
-      },
-      "artists": [
-        {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Hay Amores Que Matan",
-      "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Blanco F\u00e1cil",
         "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 263838,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "Cronicas De Un Laberinto",
+        "url": "https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy"
+      },
+      "artists": [
+        {
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Hay Amores Que Matan",
+      "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
     },
     {
       "added_at": "2024-12-16 22:58:03",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-12-16 22:58:03",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH"
-      },
-      "artists": [
-        {
-          "name": "Kenny y los El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Me Quieres Cotorrear",
-      "url": "https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR"
-    },
-    {
-      "added_at": "2024-12-16 22:58:03",
-      "album": {
         "name": "Elevator",
         "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 277800,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
+    },
+    {
+      "added_at": "2024-12-16 22:58:03",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Me Quieres Cotorrear",
+      "url": "https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR"
     },
     {
       "added_at": "2024-12-16 22:58:03",

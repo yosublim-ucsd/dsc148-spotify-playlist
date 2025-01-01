@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 80246,
+  "num_followers": 80276,
   "original_name": "Folclore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 237957,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
-        "name": "Tu Respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Tu Respuesta",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Adi\u00f3s Amor M\u00edo",
-        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 149680,
-      "name": "Adi\u00f3s Amor M\u00edo",
-      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Entrega de Amor",
-        "url": "https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq"
-      },
-      "artists": [
-        {
-          "name": "Efrain Colombo",
-          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
-        },
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 185852,
-      "name": "Entrega de Amor",
-      "url": "https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Aut\u00f3ctona",
         "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 319116,
       "name": "Gotas de Amor",
       "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "Entrega de Amor",
+        "url": "https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq"
+      },
+      "artists": [
+        {
+          "name": "Efrain Colombo",
+          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
+        },
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 185852,
+      "name": "Entrega de Amor",
+      "url": "https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Todo Ser\u00e1 Mejor",
-        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
-      },
-      "artists": [
-        {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
-        }
-      ],
-      "duration_ms": 239365,
-      "name": "Todo Ser\u00e1 Mejor",
-      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Retrato de Familia",
         "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "Todo Ser\u00e1 Mejor",
+        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
+      },
+      "artists": [
+        {
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+        }
+      ],
+      "duration_ms": 239365,
+      "name": "Todo Ser\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "Mil Momentos (En Vivo)",
         "url": "https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT"
       },
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Bien o Mal",
-        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+        "name": "Adi\u00f3s Amor M\u00edo",
+        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 210818,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
+      "duration_ms": 149680,
+      "name": "Adi\u00f3s Amor M\u00edo",
+      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
     },
     {
       "added_at": "2024-11-14 16:50:34",

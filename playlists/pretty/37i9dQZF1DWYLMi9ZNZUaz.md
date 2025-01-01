@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,248 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,300 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 19 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 |
 | 20 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 |
 | 21 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 |
-| 22 | [chẳng giống giáng sinh](https://open.spotify.com/track/7k3ohP9ZiGfhL6yD8oIPfk) | [Lu](https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H), [Willistic](https://open.spotify.com/artist/0XEYiIh3AzMl9lBaT3gNz7), [datfitzx](https://open.spotify.com/artist/2rkSOVm1YGlmjYTgmmfZd7) | [chẳng giống giáng sinh](https://open.spotify.com/album/38X017QxkKpFYkdFcxDy9V) | 3:12 |
-| 23 | [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 |
+| 22 | [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 |
+| 23 | [chẳng giống giáng sinh](https://open.spotify.com/track/7k3ohP9ZiGfhL6yD8oIPfk) | [Lu](https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H), [Willistic](https://open.spotify.com/artist/0XEYiIh3AzMl9lBaT3gNz7), [datfitzx](https://open.spotify.com/artist/2rkSOVm1YGlmjYTgmmfZd7) | [chẳng giống giáng sinh](https://open.spotify.com/album/38X017QxkKpFYkdFcxDy9V) | 3:12 |
 | 24 | [Chỉ Một Đêm Nữa Thôi](https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:21 |
 | 25 | [Việc Nên Làm](https://open.spotify.com/track/3TBZ2VchMRulZU8SbJx0Sc) | [Rocky CDE](https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [GOLDEN BOY](https://open.spotify.com/album/0Vroo2lvsi4jASGrBTyoxH) | 4:34 |
 | 26 | [REGRET \(feat\. Quân A.P, Pháp Kiều, Quang Trung, Ali Hoàng Dương & Lâm Bảo Ngọc\)](https://open.spotify.com/track/5bDYi5F6QeZvjxzF6WUfea) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi), [Pháp Kiều](https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su), [Quang Trung](https://open.spotify.com/artist/4cLYlDISnWaErAitB8kRph), [Ali Hoàng Dương](https://open.spotify.com/artist/4RPhZ2g5GYff0hKNBlZKXh), [Lâm Bảo Ngọc](https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9) | [ANH TRAI "SAY HI", Tập 7](https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ) | 4:12 |

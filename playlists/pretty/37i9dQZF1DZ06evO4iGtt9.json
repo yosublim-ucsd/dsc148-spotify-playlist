@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 7448,
+  "num_followers": 7449,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAABiuK+3XOo8CWCyxWlAqcmF",
+  "snapshot_id": "Z3HigAAAAAAduthISo9fnqhACeqe7Cry",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alubarika",
-        "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Alubarika",
-      "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gehn Gehn Album",
         "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 207317,
       "name": "Ogede",
       "url": "https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alubarika",
+        "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
     },
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chop Life",
+        "url": "https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 145794,
+      "name": "Chop Life",
+      "url": "https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 272040,
       "name": "Dem Mama Anthem",
       "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chop Life",
-        "url": "https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 145794,
-      "name": "Chop Life",
-      "url": "https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "COMPOZURE",
-      "url": "https://open.spotify.com/track/7hEnQlFTKJOkEpA23VQRHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ah Blem Blem",
         "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 206160,
       "name": "Ah Blem Blem",
       "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "COMPOZURE",
+      "url": "https://open.spotify.com/track/7hEnQlFTKJOkEpA23VQRHQ"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Win",
+        "url": "https://open.spotify.com/album/0yGdqWIgFuRxC9Kw6F1H2C"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Win",
+      "url": "https://open.spotify.com/track/4tsOVwq32CJnEMfNUkqCcA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GLADIATOR",
         "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 214857,
       "name": "TREASURE (feat. Alpha P, Olamide & Phyno)",
       "url": "https://open.spotify.com/track/4XcL8MB78aDAlbGQVntnph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Win",
-        "url": "https://open.spotify.com/album/0yGdqWIgFuRxC9Kw6F1H2C"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "Win",
-      "url": "https://open.spotify.com/track/4tsOVwq32CJnEMfNUkqCcA"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 166071,
-      "name": "FREE",
-      "url": "https://open.spotify.com/track/1kT4kSXCoejVHAZ3nEnqdA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CITIZEN OF THE WORLD",
         "url": "https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 178775,
       "name": "Get the Money",
       "url": "https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 166071,
+      "name": "FREE",
+      "url": "https://open.spotify.com/track/1kT4kSXCoejVHAZ3nEnqdA"
     },
     {
       "added_at": null,

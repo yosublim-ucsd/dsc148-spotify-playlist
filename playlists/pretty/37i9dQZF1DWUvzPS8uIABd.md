@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa BEHM ja Ege Zulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,646 likes - 83 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,654 likes - 83 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

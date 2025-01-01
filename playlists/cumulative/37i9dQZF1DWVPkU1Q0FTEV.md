@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Be High \- Holy Priest Remix](https://open.spotify.com/track/5AasW9NXAJMfvun0XOLECt) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [2 Be High \(Holy Priest Remix\)](https://open.spotify.com/album/2QvPuiTVDbDN5Bx5GoKjTb) | 3:15 | 2024-12-20 |  |
+| [2 Be High \- Holy Priest Remix](https://open.spotify.com/track/5AasW9NXAJMfvun0XOLECt) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [2 Be High \(Holy Priest Remix\)](https://open.spotify.com/album/2QvPuiTVDbDN5Bx5GoKjTb) | 3:15 | 2024-12-20 |  |
 | [3 SUSPECTS](https://open.spotify.com/track/57TGOjvxtah7ZhCERX0vrJ) | [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl), [KXD\-LvL](https://open.spotify.com/artist/07c1KDEW8KTe9DK2ekyeTt) | [3 SUSPECTS](https://open.spotify.com/album/3vsuvjwloKuzQbi1Hvw65a) | 6:04 | 2024-06-28 | 2024-12-21 |
 | [369 \(Fake I.D\)](https://open.spotify.com/track/1FZSfHFsN9QMO94PyQnA4h) | [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Soundscape 3](https://open.spotify.com/album/2pGJ8BqNvvg8L2X528UFpZ) | 6:14 | 2024-12-20 |  |
 | [3AM In Berlin](https://open.spotify.com/track/57jPBMXfekRbUnSJ0IiRsp) | [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [RCKLSS008](https://open.spotify.com/album/4vftqgn28PUPk8X0nRCcS3) | 5:54 | 2023-06-29 | 2024-06-29 |

@@ -1,6 +1,6 @@
 {
   "description": "I'll help you be popular!",
-  "num_followers": 652863,
+  "num_followers": 654624,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -465,24 +465,20 @@
       "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
     },
     {
-      "added_at": "2024-11-11 18:08:23",
+      "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Supernova Love",
-        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         }
       ],
-      "duration_ms": 199504,
-      "name": "Supernova Love",
-      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -501,20 +497,24 @@
       "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe"
     },
     {
-      "added_at": "2024-08-03 15:31:45",
+      "added_at": "2024-11-11 18:08:23",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+        "name": "Supernova Love",
+        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 162840,
-      "name": "ABCD",
-      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
+      "duration_ms": 199504,
+      "name": "Supernova Love",
+      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "Hey, Mickey!",
+        "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 115555,
+      "name": "Hey, Mickey!",
+      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "I LUV IT (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 174880,
       "name": "I LUV IT (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Hey, Mickey!",
-        "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 115555,
-      "name": "Hey, Mickey!",
-      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
     },
     {
       "added_at": "2024-08-03 15:31:45",

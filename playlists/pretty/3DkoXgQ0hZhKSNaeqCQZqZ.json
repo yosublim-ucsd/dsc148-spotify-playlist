@@ -1,13 +1,29 @@
 {
   "description": "The playlist made for furries, by furries. | Request songs @ Furrest.Online",
-  "num_followers": 416,
+  "num_followers": 420,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADCV+iuFSTDNb+V2oLZauRUMnJ7Gw+",
+  "snapshot_id": "AAADCrB30rhxaR4u/DrhAPE4/PSv9DnS",
   "tracks": [
+    {
+      "added_at": "2024-12-31 09:07:07",
+      "album": {
+        "name": "YOUR TOUCH",
+        "url": "https://open.spotify.com/album/4JGzn0cPRwE5vgMRFHYWh4"
+      },
+      "artists": [
+        {
+          "name": "\u2665 GOJII \u2665",
+          "url": "https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY"
+        }
+      ],
+      "duration_ms": 281221,
+      "name": "YOUR TOUCH",
+      "url": "https://open.spotify.com/track/0FuB5N3msY4vAbyA4cngiI"
+    },
     {
       "added_at": "2024-12-30 00:46:36",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2024.",
-  "num_followers": 193916,
+  "num_followers": 193984,
   "original_name": "Glastonbury 2024",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "SEVENTEEN 10th Mini Album 'FML'",
-        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 176048,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "MR. SANDMAN",
-        "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "MR. SANDMAN",
-      "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "a girl like me",
         "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 162628,
       "name": "a girl like me",
       "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "MR. SANDMAN",
+        "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "MR. SANDMAN",
+      "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "20s",
-        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 184457,
-      "name": "20s",
-      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -1771,18 +1755,18 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Walk Dance Talk Sing",
-        "url": "https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4"
+        "name": "20s",
+        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
       "artists": [
         {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
         }
       ],
-      "duration_ms": 305649,
-      "name": "Like A Fool",
-      "url": "https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ"
+      "duration_ms": 184457,
+      "name": "20s",
+      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Walk Dance Talk Sing",
+        "url": "https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 305649,
+      "name": "Like A Fool",
+      "url": "https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "Grown Up",
         "url": "https://open.spotify.com/album/75BAkzFWLER9MrZjaeFX2X"
       },
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Through 2 You",
-        "url": "https://open.spotify.com/album/3Efj2YOlPbnm2Bz3m3KmwZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
-        }
-      ],
-      "duration_ms": 198363,
-      "name": "Through 2 You",
-      "url": "https://open.spotify.com/track/0evAtYjWJMnNQrdzgNvqvF"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/1UW7biiGu9RbUg35auUM2s"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/5FJivl7KKZrbK990A7OE0u"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Through 2 You",
+        "url": "https://open.spotify.com/album/3Efj2YOlPbnm2Bz3m3KmwZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        }
+      ],
+      "duration_ms": 198363,
+      "name": "Through 2 You",
+      "url": "https://open.spotify.com/track/0evAtYjWJMnNQrdzgNvqvF"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "The Angel (North London Forever)",
-        "url": "https://open.spotify.com/album/5pspQhv3uGTRw6R3k8O8cY"
-      },
-      "artists": [
-        {
-          "name": "Louis Dunford",
-          "url": "https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "The Angel - North London Forever",
-      "url": "https://open.spotify.com/track/230WMHL7rn1yctcsO0FtkO"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Flyte",
         "url": "https://open.spotify.com/album/1HGUCTBuqr8TU9Z9m4xh1k"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 181763,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/4FG86wYpIjIl5NrOr79Fxf"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "The Angel (North London Forever)",
+        "url": "https://open.spotify.com/album/5pspQhv3uGTRw6R3k8O8cY"
+      },
+      "artists": [
+        {
+          "name": "Louis Dunford",
+          "url": "https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "The Angel - North London Forever",
+      "url": "https://open.spotify.com/track/230WMHL7rn1yctcsO0FtkO"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Club classics / B2b",
-        "url": "https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 153526,
-      "name": "Club classics",
-      "url": "https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "The Phantom Files (From Cyberpunk 2077)",
         "url": "https://open.spotify.com/album/70Cg9EoQ42gxXluxkaYGSm"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 141893,
       "name": "Choke Hold",
       "url": "https://open.spotify.com/track/1IwYMzwT0oJTmWKmIXAM8W"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Club classics / B2b",
+        "url": "https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 153526,
+      "name": "Club classics",
+      "url": "https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Love Loves To Love Lulu",
-        "url": "https://open.spotify.com/album/5H2oZHVpQ8uNLqQD1ohsoB"
-      },
-      "artists": [
-        {
-          "name": "Lulu",
-          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "To Sir With Love",
-      "url": "https://open.spotify.com/track/1C1dPegkqX6HMoWcAY5LWA"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "1972",
         "url": "https://open.spotify.com/album/5SxkCsVQLLCt5edqjNvssO"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 286933,
       "name": "Flight Attendant",
       "url": "https://open.spotify.com/track/51b932KKxiuq7pMxfTqwW6"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Love Loves To Love Lulu",
+        "url": "https://open.spotify.com/album/5H2oZHVpQ8uNLqQD1ohsoB"
+      },
+      "artists": [
+        {
+          "name": "Lulu",
+          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "To Sir With Love",
+      "url": "https://open.spotify.com/track/1C1dPegkqX6HMoWcAY5LWA"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        }
-      ],
-      "duration_ms": 181724,
-      "name": "Good to Me",
-      "url": "https://open.spotify.com/track/0kELHMzyLThrJN1ZJetQDB"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 219106,
       "name": "This World Couldn\u2019t See Us",
       "url": "https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        }
+      ],
+      "duration_ms": 181724,
+      "name": "Good to Me",
+      "url": "https://open.spotify.com/track/0kELHMzyLThrJN1ZJetQDB"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2515,6 +2515,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "One For The Lad's",
+        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "I Wonder If The World Knows?",
         "url": "https://open.spotify.com/album/0lLxBrNxMinIX9a6buamdB"
       },
@@ -2543,22 +2559,6 @@
       "duration_ms": 203480,
       "name": "Only For You",
       "url": "https://open.spotify.com/track/5iLbqXAegQLmdaawUE3n9T"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "One For The Lad's",
-        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2659,22 +2659,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Selected Dub Works",
-        "url": "https://open.spotify.com/album/1I6pMv9whX5Pgq3fuwJQPi"
-      },
-      "artists": [
-        {
-          "name": "East End Dubs",
-          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
-        }
-      ],
-      "duration_ms": 173239,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0KzHujAaLA7rJs0GIJVk1A"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Love Lost",
         "url": "https://open.spotify.com/album/2TFjqyVzdKjNnNxoiR1VFN"
       },
@@ -2687,6 +2671,22 @@
       "duration_ms": 179889,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/6AP8Ttpx7tCVd8EqflkkR0"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Selected Dub Works",
+        "url": "https://open.spotify.com/album/1I6pMv9whX5Pgq3fuwJQPi"
+      },
+      "artists": [
+        {
+          "name": "East End Dubs",
+          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0KzHujAaLA7rJs0GIJVk1A"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2725,22 +2725,6 @@
       "url": "https://open.spotify.com/track/0Am98XXjdvVo1O3fYpjaTs"
     },
     {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "The Weekend LP",
-        "url": "https://open.spotify.com/album/5qwYZjx8q6gwN2UOClhA7z"
-      },
-      "artists": [
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        }
-      ],
-      "duration_ms": 155067,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/1A8WZgfOGq3Axyetvbun0d"
-    },
-    {
       "added_at": "2024-06-13 13:22:47",
       "album": {
         "name": "The Collective",
@@ -2755,6 +2739,22 @@
       "duration_ms": 254000,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "The Weekend LP",
+        "url": "https://open.spotify.com/album/5qwYZjx8q6gwN2UOClhA7z"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        }
+      ],
+      "duration_ms": 155067,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/1A8WZgfOGq3Axyetvbun0d"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2821,6 +2821,22 @@
       "url": "https://open.spotify.com/track/22NG6qqEocSa7srAyyyLQw"
     },
     {
+      "added_at": "2024-06-04 13:29:57",
+      "album": {
+        "name": "Night Reign",
+        "url": "https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
+    },
+    {
       "added_at": "2024-05-31 13:56:16",
       "album": {
         "name": "Brazil",
@@ -2839,22 +2855,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "One More Thing",
         "url": "https://open.spotify.com/album/6jU18Jwl900BeZDrnyXkDB"
       },
@@ -2869,20 +2869,20 @@
       "url": "https://open.spotify.com/track/2jAPwqfgCw5hsUrg3wsqzA"
     },
     {
-      "added_at": "2024-06-04 13:29:57",
+      "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Night Reign",
-        "url": "https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
       },
       "artists": [
         {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 313311,
-      "name": "Raat Ki Rani",
-      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3007,22 +3007,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "The Magic Numbers",
-        "url": "https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL"
-      },
-      "artists": [
-        {
-          "name": "The Magic Numbers",
-          "url": "https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ"
-        }
-      ],
-      "duration_ms": 257005,
-      "name": "Forever Lost",
-      "url": "https://open.spotify.com/track/0CIUacqGuohdes8fdIP4K3"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
@@ -3035,6 +3019,22 @@
       "duration_ms": 462500,
       "name": "Mohabbat",
       "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "The Magic Numbers",
+        "url": "https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL"
+      },
+      "artists": [
+        {
+          "name": "The Magic Numbers",
+          "url": "https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ"
+        }
+      ],
+      "duration_ms": 257005,
+      "name": "Forever Lost",
+      "url": "https://open.spotify.com/track/0CIUacqGuohdes8fdIP4K3"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3159,22 +3159,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Still Learning",
-        "url": "https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 140453,
-      "name": "Pretty Boys",
-      "url": "https://open.spotify.com/track/7djFwustLqPxYnrdaPByty"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "PHANTOM OF THE AFTERS",
         "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
       },
@@ -3191,6 +3175,22 @@
       "duration_ms": 182259,
       "name": "WOOF",
       "url": "https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Still Learning",
+        "url": "https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Pretty Boys",
+      "url": "https://open.spotify.com/track/7djFwustLqPxYnrdaPByty"
     },
     {
       "added_at": "2024-05-31 13:56:16",

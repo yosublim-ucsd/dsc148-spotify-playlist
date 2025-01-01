@@ -1,6 +1,6 @@
 {
   "description": "Deja que el sentimiento antig\u00fcito de los boleros te envuelva con amor y nostalgia \ud83d\udc96\ud83c\udfb5\ud83c\udf39",
-  "num_followers": 83555,
+  "num_followers": 83563,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
@@ -423,18 +423,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Sentimiento del Latino En Nueva York",
-        "url": "https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv"
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
       "artists": [
         {
-          "name": "Angel Canales",
-          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
         }
       ],
-      "duration_ms": 340400,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1"
+      "duration_ms": 189506,
+      "name": "Entre Tu Amor Y Mi Amor",
+      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -455,18 +455,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+        "name": "El Sentimiento del Latino En Nueva York",
+        "url": "https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv"
       },
       "artists": [
         {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+          "name": "Angel Canales",
+          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
         }
       ],
-      "duration_ms": 189506,
-      "name": "Entre Tu Amor Y Mi Amor",
-      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
+      "duration_ms": 340400,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "15 A\u00f1os De Exitos",
+        "url": "https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 261131,
       "name": "Por Mujeres Como Tu",
       "url": "https://open.spotify.com/track/0v8QpLDCw2n7ikFuiRKIx5"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "15 A\u00f1os De Exitos",
-        "url": "https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "15 A\u00f1os De Exitos",
+        "url": "https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Rondando Tu Esquina",
+      "url": "https://open.spotify.com/track/3LbhEcaMtthqFUEewkzECR"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Cl\u00e1sicos de Oro de la Billo Caracas Boy's",
         "url": "https://open.spotify.com/album/5YgiH1ubwBvNWXM9xhSAsB"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 147906,
       "name": "Cuando Estemos Viejos",
       "url": "https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Los Tecolines - Bolero Romantico",
-        "url": "https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/3JNIsOyZSwm9ebcm4werBt"
     }
   ],
   "unique_name": "B\u00e9same Mucho",

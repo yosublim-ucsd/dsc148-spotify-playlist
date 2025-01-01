@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 106420,
+  "num_followers": 106452,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 230878,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Aline Barros - Som Gospel",
         "url": "https://open.spotify.com/album/3IJpPRPjIDDkNVgdrwvuoe"
       },
@@ -295,18 +279,34 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Deus Me Deu Voc\u00ea",
-        "url": "https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl"
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
       },
       "artists": [
         {
-          "name": "Thiago e J\u00e9ssica",
-          "url": "https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF"
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 263213,
-      "name": "Deus Me Deu Voc\u00ea",
-      "url": "https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm"
+      "duration_ms": 230878,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "\u00c0 Moda Antiga",
+        "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
+      },
+      "artists": [
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        }
+      ],
+      "duration_ms": 182081,
+      "name": "\u00c0 Moda Antiga",
+      "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "\u00c0 Moda Antiga",
-        "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
+        "name": "Deus Me Deu Voc\u00ea",
+        "url": "https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl"
       },
       "artists": [
         {
-          "name": "Lu Alone",
-          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+          "name": "Thiago e J\u00e9ssica",
+          "url": "https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF"
         }
       ],
-      "duration_ms": 182081,
-      "name": "\u00c0 Moda Antiga",
-      "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
+      "duration_ms": 263213,
+      "name": "Deus Me Deu Voc\u00ea",
+      "url": "https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Cabelo solto - Playback",
-        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 236251,
-      "name": "Escolhi Te Esperar",
-      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Cantando o Amor Vol. 2",
         "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 232710,
       "name": "Isso \u00e9 Amor",
       "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Cabelo solto - Playback",
+        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 236251,
+      "name": "Escolhi Te Esperar",
+      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Cantando o Amor Vol. 2",
-        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 303020,
-      "name": "A Perfei\u00e7\u00e3o de Deus",
-      "url": "https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Presente de Deus",
         "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 209020,
       "name": "Presente de Deus",
       "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Cantando o Amor Vol. 2",
+        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 303020,
+      "name": "A Perfei\u00e7\u00e3o de Deus",
+      "url": "https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO"
     },
     {
       "added_at": "2024-07-11 15:58:05",

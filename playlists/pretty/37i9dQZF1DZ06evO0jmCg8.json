@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 75360,
+  "num_followers": 75379,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAAAQaIiVZ2cLm+4fGl8LSba3",
+  "snapshot_id": "Z3HigAAAAAD3DwtMnfc+5uVNSqarTiYh",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise of the Tyrant",
-        "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Revolution Begins",
-      "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Covered In Blood",
         "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rise of the Tyrant",
+        "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "Revolution Begins",
+      "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Dead Bury Their Dead",
-      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
+      "duration_ms": 92893,
+      "name": "Snow Bound",
+      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 92893,
-      "name": "Snow Bound",
-      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
+      "duration_ms": 233000,
+      "name": "Dead Bury Their Dead",
+      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "Heart of Darkness",
-      "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Khaos Legions",
         "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 309613,
       "name": "Through the Eyes of a Raven",
       "url": "https://open.spotify.com/track/5f60khlT0IoDy2ontDl3aD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "Heart of Darkness",
+      "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
     },
     {
       "added_at": null,

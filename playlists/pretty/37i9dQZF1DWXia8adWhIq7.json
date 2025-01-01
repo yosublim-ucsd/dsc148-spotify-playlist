@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 102398,
+  "num_followers": 102444,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "At\u00e9 Sermos Um",
         "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
       },
@@ -1031,26 +1051,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Neste Lugar",
         "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
       },
@@ -1067,6 +1067,38 @@
       "duration_ms": 314622,
       "name": "Neste Lugar",
       "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Escrevi (Legado)",
+        "url": "https://open.spotify.com/album/3pxFY4lbNOhjMTTsqv4LwL"
+      },
+      "artists": [
+        {
+          "name": "Novo Som",
+          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
+        }
+      ],
+      "duration_ms": 245019,
+      "name": "Escrevi (Legado)",
+      "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Ousado Amor (Releitura)",
+        "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 224032,
+      "name": "Ousado Amor (Releitura)",
+      "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1107,34 +1139,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Ousado Amor (Releitura)",
-        "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
+        "name": "Pra Onde Vou Correr",
+        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
       },
       "artists": [
         {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 224032,
-      "name": "Ousado Amor (Releitura)",
-      "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Escrevi (Legado)",
-        "url": "https://open.spotify.com/album/3pxFY4lbNOhjMTTsqv4LwL"
-      },
-      "artists": [
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
         {
-          "name": "Novo Som",
-          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
         }
       ],
-      "duration_ms": 245019,
-      "name": "Escrevi (Legado)",
-      "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
+      "duration_ms": 215125,
+      "name": "Pra Onde Vou Correr",
+      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1191,22 +1211,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Pra Onde Vou Correr",
-        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
         }
       ],
-      "duration_ms": 215125,
-      "name": "Pra Onde Vou Correr",
-      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+      "duration_ms": 199864,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        }
-      ],
-      "duration_ms": 199864,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Casulo",
         "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 224000,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Deixa Esse Medo",
+        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        }
+      ],
+      "duration_ms": 125890,
+      "name": "Deixa Esse Medo",
+      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Deixa Esse Medo",
-        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 125890,
-      "name": "Deixa Esse Medo",
-      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2024-11-29 03:01:00",

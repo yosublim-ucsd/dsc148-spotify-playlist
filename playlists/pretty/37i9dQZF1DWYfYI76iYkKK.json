@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 127884,
+  "num_followers": 127897,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-12-26 16:00:28",
       "album": {
-        "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
-        "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 251175,
-      "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
-      "url": "https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno"
-    },
-    {
-      "added_at": "2024-12-26 16:00:28",
-      "album": {
         "name": "Sent",
         "url": "https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 241893,
       "name": "\u6c7a\u5b9a\u4e0d\u60f3\u4f60",
       "url": "https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6"
+    },
+    {
+      "added_at": "2024-12-26 16:00:28",
+      "album": {
+        "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
+        "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 251175,
+      "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
+      "url": "https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno"
     },
     {
       "added_at": "2024-12-26 16:00:28",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-12-26 16:00:28",
       "album": {
-        "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe"
-      },
-      "artists": [
-        {
-          "name": "HAOR",
-          "url": "https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
-    },
-    {
-      "added_at": "2024-12-26 16:00:28",
-      "album": {
         "name": "\u8f38\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 224653,
       "name": "\u8f38\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
+    },
+    {
+      "added_at": "2024-12-26 16:00:28",
+      "album": {
+        "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe"
+      },
+      "artists": [
+        {
+          "name": "HAOR",
+          "url": "https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx"
+        }
+      ],
+      "duration_ms": 247124,
+      "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
     },
     {
       "added_at": "2024-12-26 16:00:28",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-12-26 16:00:28",
       "album": {
-        "name": "brb",
-        "url": "https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii"
-      },
-      "artists": [
-        {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
-        }
-      ],
-      "duration_ms": 170689,
-      "name": "feathers",
-      "url": "https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA"
-    },
-    {
-      "added_at": "2024-12-26 16:00:28",
-      "album": {
         "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
         "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 176673,
       "name": "\u5b89",
       "url": "https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP"
+    },
+    {
+      "added_at": "2024-12-26 16:00:28",
+      "album": {
+        "name": "brb",
+        "url": "https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii"
+      },
+      "artists": [
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        }
+      ],
+      "duration_ms": 170689,
+      "name": "feathers",
+      "url": "https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA"
     },
     {
       "added_at": "2024-12-26 16:00:28",

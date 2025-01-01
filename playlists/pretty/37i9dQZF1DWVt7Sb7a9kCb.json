@@ -1,6 +1,6 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 185345,
+  "num_followers": 185386,
   "original_name": "Flow Tranqui",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 173529,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 170078,
       "name": "Me Gustas Natural",
       "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 173529,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 214033,
+      "name": "TUDO",
+      "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
         "name": "HABLAME CLARO",
         "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 154969,
       "name": "HABLAME CLARO",
       "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 214033,
-      "name": "TUDO",
-      "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "SQ (W Sound 04)",
-        "url": "https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV"
-      },
-      "artists": [
-        {
-          "name": "W Sound",
-          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "SQ - W Sound 04",
-      "url": "https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Si Me Dices Que S\u00ed",
         "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 211651,
       "name": "Si Me Dices Que S\u00ed",
       "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "SQ (W Sound 04)",
+        "url": "https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "SQ - W Sound 04",
+      "url": "https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Vive La Vida (Remix)",
-        "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
-      },
-      "artists": [
-        {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 237754,
-      "name": "Vive La Vida - Remix",
-      "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 198706,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Vive La Vida (Remix)",
+        "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 237754,
+      "name": "Vive La Vida - Remix",
+      "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1983,22 +1983,26 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Pasarla Bien",
-        "url": "https://open.spotify.com/album/5l20i1oR3EmyhRe6COI9LX"
+        "name": "Buenos D\u00edas",
+        "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
       "artists": [
         {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
         }
       ],
-      "duration_ms": 193263,
-      "name": "Pasarla Bien",
-      "url": "https://open.spotify.com/track/5KuLv5XWO2rMESQzd9QfAD"
+      "duration_ms": 199826,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
     }
   ],
   "unique_name": "Flow Tranqui",

@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 78441,
+  "num_followers": 78472,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Come Take My Hand (Spiady Remix)",
-        "url": "https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6"
-      },
-      "artists": [
-        {
-          "name": "2 Brothers On The 4th Floor",
-          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
-        },
-        {
-          "name": "Spiady",
-          "url": "https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "Come Take My Hand - Spiady Remix",
-      "url": "https://open.spotify.com/track/7gX4bpFwdU52E2XKSCjFOw"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
         "name": "Life's A Bitch",
         "url": "https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 213073,
       "name": "Life's A Bitch",
       "url": "https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Come Take My Hand (Spiady Remix)",
+        "url": "https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        },
+        {
+          "name": "Spiady",
+          "url": "https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs"
+        }
+      ],
+      "duration_ms": 160029,
+      "name": "Come Take My Hand - Spiady Remix",
+      "url": "https://open.spotify.com/track/7gX4bpFwdU52E2XKSCjFOw"
     },
     {
       "added_at": "2024-12-19 23:00:36",

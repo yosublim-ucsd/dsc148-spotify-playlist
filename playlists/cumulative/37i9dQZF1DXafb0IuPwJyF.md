@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\.  Cover: Mrs\. GREEN APPLE
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\.  Cover: ONE OK ROCK
 
-1,431 songs - 3 day 16 hr 57 min
+1,432 songs - 3 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [D'Addario](https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [D'Addario](https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3) | 4:48 | 2022-10-02 | 2022-11-21 |
 | [D\(evil\) feat\. yama](https://open.spotify.com/track/6hmsSDaSJwLDlZHPOyEkiH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/302JQzVHeD8JeKrbDNCp3B) | 2:41 | 2022-02-06 | 2022-04-25 |
 | [D.U.N.K.](https://open.spotify.com/track/2BfdSKHBrKLwwOe9bp8q5z) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [D.U.N.K.](https://open.spotify.com/album/4Bhrbt1F8fbtn1DiFBpn5q) | 3:37 | 2023-02-05 | 2023-02-20 |
+| [DALMATIAN](https://open.spotify.com/track/7qDHY3ZDeKvgPMVZX1whLK) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DALMATIAN](https://open.spotify.com/album/736N8pHiehLrYOfJMSshMZ) | 4:05 | 2024-12-31 |  |
 | [Damn!](https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Damn!](https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9) | 2:41 | 2023-03-12 | 2023-03-27 |
 | [Dang Ding Dong](https://open.spotify.com/track/2rWY7c74VbicKCKBldOdqt) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Dang Ding Dong](https://open.spotify.com/album/0nA4dFHf0P7awjGxTOLc6L) | 3:02 | 2024-12-24 |  |
 | [DAWN \(feat\. Aile The Shota\)](https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A) | [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DAWN \(feat\. Aile The Shota\)](https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx) | 3:04 | 2023-04-09 | 2023-04-24 |
@@ -1325,7 +1326,7 @@
 | [異世界混合大舞踏会 \(feat\. おばけ\)](https://open.spotify.com/track/2YaWdN5tieE4Ntorawbbvq) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [異世界混合大舞踏会 \(feat\. おばけ\)](https://open.spotify.com/album/48aHoa0UvjChDUllkQZoaX) | 3:45 | 2022-07-17 | 2022-07-29 |
 | [白色蜉蝣](https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [白色蜉蝣](https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X) | 3:11 | 2023-10-08 | 2023-11-16 |
 | [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 | 2023-07-16 | 2023-07-18 |
-| [盲目だった](https://open.spotify.com/track/36QABuDItryqofQ50ncCIG) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [盲目だった](https://open.spotify.com/album/1uXjwPs53VTcNrBSeZbp4i) | 4:56 | 2024-11-19 |  |
+| [盲目だった](https://open.spotify.com/track/36QABuDItryqofQ50ncCIG) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [盲目だった](https://open.spotify.com/album/1uXjwPs53VTcNrBSeZbp4i) | 4:56 | 2024-11-19 | 2025-01-01 |
 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-11 | 2024-07-23 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-14 | 2022-09-26 |
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-04-17 | 2022-06-06 |

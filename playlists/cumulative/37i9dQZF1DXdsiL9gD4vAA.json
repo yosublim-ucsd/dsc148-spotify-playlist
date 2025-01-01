@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 192230,
       "name": "Aaina",
       "url": "https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 383689,
       "name": "Aaine Ko Chehra",
       "url": "https://open.spotify.com/track/4UNzg3kZLNUXIB686UK9jJ"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 474666,
       "name": "Aankho Mein Raha",
       "url": "https://open.spotify.com/track/2FD9gvBqK3adif1uPLGJ5v"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 428330,
       "name": "Ab Ke Jo Baat Hui",
       "url": "https://open.spotify.com/track/2X4UCsahzz3JwvBbkBGf0a"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 390471,
       "name": "Agar Talash Karun",
       "url": "https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 433280,
       "name": "Ahista",
       "url": "https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 228931,
       "name": "Ajab Apna Haal Hota",
       "url": "https://open.spotify.com/track/79w1q2K3Hz22ZFFfdlRYkn"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 326660,
       "name": "Ajnabee",
       "url": "https://open.spotify.com/track/03sWVHENonT3oJ99JKiWGb"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 393160,
       "name": "Ajnabi Shehar Mein",
       "url": "https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp"
@@ -471,6 +471,28 @@
     },
     {
       "album": {
+        "name": "Baalam",
+        "url": "https://open.spotify.com/album/2PjcTTSCszEjfMRT7hiIK2"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260952,
+      "name": "Baalam",
+      "url": "https://open.spotify.com/track/6nVouCfWYhoA5mxaCeezNy"
+    },
+    {
+      "album": {
         "name": "Baat Itni Si",
         "url": "https://open.spotify.com/album/2jMB523HNQd8eMeZsspmhY"
       },
@@ -494,6 +516,32 @@
       "duration_ms": 334132,
       "name": "Baat Itni Si",
       "url": "https://open.spotify.com/track/4ISPpMP57Se1MYcDobKNnF"
+    },
+    {
+      "album": {
+        "name": "Bandh Aankhein",
+        "url": "https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG"
+      },
+      "artists": [
+        {
+          "name": "Muhafiz",
+          "url": "https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9"
+        },
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        },
+        {
+          "name": "Siddharth Chopra",
+          "url": "https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Bandh Aankhein",
+      "url": "https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP"
     },
     {
       "album": {
@@ -526,7 +574,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 33040,
       "name": "Beete Rishte Talash Karti Hai",
       "url": "https://open.spotify.com/track/6cQFfIR4FenzBP1tztktJL"
@@ -552,6 +600,28 @@
       "duration_ms": 243853,
       "name": "Bhej chhana chhan",
       "url": "https://open.spotify.com/track/3ABNBqGrID439kEc347fkD"
+    },
+    {
+      "album": {
+        "name": "Bohot Bechain",
+        "url": "https://open.spotify.com/album/43GiOUSgHdwyo9PD6Bh6ZI"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "Bohot Bechain",
+      "url": "https://open.spotify.com/track/3GtNTPRVYv86zXqrnLctlo"
     },
     {
       "album": {
@@ -620,7 +690,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 389016,
       "name": "Chandni Ke Bagh Mein",
       "url": "https://open.spotify.com/track/2T4vQ6JHDNhRtitTOrcc85"
@@ -682,7 +752,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 250105,
       "name": "CHAUDHVI KI RAAT",
       "url": "https://open.spotify.com/track/3RfMPBxBTFpI1aLUdBVShO"
@@ -700,7 +770,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 245671,
       "name": "Chheen Lenge Tumhe",
       "url": "https://open.spotify.com/track/1T2iEiWoDP6UXMxlGoGSVz"
@@ -848,7 +918,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 311897,
       "name": "Darmiya'n",
       "url": "https://open.spotify.com/track/2wzmKLMH0krJChu5cMtclR"
@@ -902,7 +972,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 102106,
       "name": "Dil Jalaane Ki Baat",
       "url": "https://open.spotify.com/track/7y8nfUqN3m56KiisCjYk7s"
@@ -938,7 +1008,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 238528,
       "name": "Dil Todne Wale",
       "url": "https://open.spotify.com/track/5VfIOKBXuOYhgxrx0t1oez"
@@ -1040,7 +1110,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 323545,
       "name": "Dilse Teri Nigah",
       "url": "https://open.spotify.com/track/1JqabevonrwVWIEzzuaMDM"
@@ -1058,7 +1128,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 340640,
       "name": "Duniya Kisi Ke Pyar Mein",
       "url": "https://open.spotify.com/track/4UDsOiaMP4pLawOzlmeGKk"
@@ -1156,10 +1226,28 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 228885,
       "name": "Gham Ka Khazana - Magic Moments Music Studio Season 1",
       "url": "https://open.spotify.com/track/36BebCxEorH48pRfeaDbbJ"
+    },
+    {
+      "album": {
+        "name": "25 Everlasting Ghazals By Mehdi Hassan",
+        "url": "https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Hassan",
+          "url": "https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373682,
+      "name": "Gulon Mein Rang Bharey",
+      "url": "https://open.spotify.com/track/5SRZ2MMFN7WD626usnTOma"
     },
     {
       "album": {
@@ -1228,7 +1316,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 228100,
       "name": "Gumshuda",
       "url": "https://open.spotify.com/track/29Av2mRoqWqApghX2BmhdA"
@@ -1268,7 +1356,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 444007,
       "name": "Haathon Ki Lakeeron",
       "url": "https://open.spotify.com/track/0TTtI4F67M8Sw82uKtdGia"
@@ -1308,7 +1396,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 223593,
       "name": "Hai Isi Mein Pyar Ki Aabru",
       "url": "https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn"
@@ -1402,7 +1490,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 386823,
       "name": "Haq",
       "url": "https://open.spotify.com/track/5fPHj5LjzN3IIBFldMc05g"
@@ -1508,7 +1596,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 233076,
       "name": "Hum Bhi Tum Bhi",
       "url": "https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ"
@@ -1526,7 +1614,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 438204,
       "name": "Humko Kisike Gham Ne Maara",
       "url": "https://open.spotify.com/track/1ftMjWQH3eIxJkN3KjLKjD"
@@ -1616,7 +1704,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 276136,
       "name": "Ikhtiyar",
       "url": "https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4"
@@ -1704,7 +1792,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 358378,
       "name": "Is Kadar Aap",
       "url": "https://open.spotify.com/track/2uVSOIZX1e86caQnmB7xNt"
@@ -1722,7 +1810,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 274674,
       "name": "Is Nahin Ka",
       "url": "https://open.spotify.com/track/0NShVQ20TXqbOtGP3uCh8k"
@@ -1904,7 +1992,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 336254,
       "name": "Kabhi Ishq Ka",
       "url": "https://open.spotify.com/track/0E0KFzq2dQg19wWRQiuqoV"
@@ -1962,7 +2050,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 402819,
       "name": "Kaun Aayega Yahan",
       "url": "https://open.spotify.com/track/4X5oSzi49t1elYxbFMOEjJ"
@@ -2038,7 +2126,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 296250,
       "name": "Khudaayaa",
       "url": "https://open.spotify.com/track/1a6DsCiooKH1PLKP6eDOAE"
@@ -2114,7 +2202,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 23253,
       "name": "Kuch Aise Aakar Gira Hai",
       "url": "https://open.spotify.com/track/7b4T76KOVCaEG2HJNdm9fW"
@@ -2158,7 +2246,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 370426,
       "name": "Main Khayal Hoo",
       "url": "https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx"
@@ -2180,7 +2268,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 325976,
       "name": "Main Khayal Hoon",
       "url": "https://open.spotify.com/track/6UIzo8T1S2EGHyPSoKXMWa"
@@ -2198,7 +2286,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 512162,
       "name": "Main Teri Yaad Ko",
       "url": "https://open.spotify.com/track/4ZkmpKwyfIuoHWewex1NfD"
@@ -2220,6 +2308,36 @@
       "duration_ms": 516666,
       "name": "Main Teri Yaad Ko",
       "url": "https://open.spotify.com/track/3FoMsUV3YRuLoQDdFZxVvN"
+    },
+    {
+      "album": {
+        "name": "Mausam",
+        "url": "https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Kavya Singh",
+          "url": "https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Likhari",
+          "url": "https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291234,
+      "name": "Mausam",
+      "url": "https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F"
     },
     {
       "album": {
@@ -2252,7 +2370,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 387265,
       "name": "Mere Humraaz",
       "url": "https://open.spotify.com/track/5aD83W8ruGtURZvgpH4VKP"
@@ -2318,6 +2436,24 @@
       "duration_ms": 330000,
       "name": "Meri Ajab Hai Zindagi",
       "url": "https://open.spotify.com/track/41ffCRz4qgkCidL08CBuPo"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6rIuO7Gg2iynYy7urWgOhy"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Hassan",
+          "url": "https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 846600,
+      "name": "Mohabbat Karne Wale",
+      "url": "https://open.spotify.com/track/1hrOKfpOy15uIaP71XUfZp"
     },
     {
       "album": {
@@ -2394,7 +2530,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 288036,
       "name": "Naadaniyon Mai Kya Kya (Innocent Love)",
       "url": "https://open.spotify.com/track/4K5vkeHcSBPz0Ro0v3ixWt"
@@ -2434,7 +2570,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 450373,
       "name": "Nazar Mujhse",
       "url": "https://open.spotify.com/track/2qAHkVmvyhcxgJqKXxnLIz"
@@ -2452,7 +2588,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 295064,
       "name": "Nazar Se Nazar",
       "url": "https://open.spotify.com/track/0zCZBOzMGke8HUwQlzKkyS"
@@ -2488,7 +2624,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 292028,
       "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
       "url": "https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw"
@@ -2604,7 +2740,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 319578,
       "name": "Poshiida",
       "url": "https://open.spotify.com/track/5IBSUC328q7FOJbRWSBshZ"
@@ -2640,10 +2776,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 345866,
       "name": "Pyaar Ka Pehla Khat",
       "url": "https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7"
+    },
+    {
+      "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/2e9piwGTBgOYH7jEmzl7N3"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345866,
+      "name": "Pyaar Ka Pehla Khat",
+      "url": "https://open.spotify.com/track/75hsymuPkvUvQKsz54LigZ"
     },
     {
       "album": {
@@ -2676,7 +2830,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 257488,
       "name": "Pyar Se Pyar Karna",
       "url": "https://open.spotify.com/track/35kKXTNAldzctYQXSLzvgX"
@@ -2919,6 +3073,66 @@
     },
     {
       "album": {
+        "name": "Saadgi",
+        "url": "https://open.spotify.com/album/4nQOjxICR7sBomW0ZJwjqN"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Saadgi",
+      "url": "https://open.spotify.com/track/3sJWoaPT8eE7YTPzpr6Ya9"
+    },
+    {
+      "album": {
+        "name": "Saanjh Bhayi (Live)",
+        "url": "https://open.spotify.com/album/0TkwP8vcfjTt7FddDcuknh"
+      },
+      "artists": [
+        {
+          "name": "Govindrao Natu",
+          "url": "https://open.spotify.com/artist/100oVJNCBtLSKuRHpdePC1"
+        },
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Bhuvanesh Komkali",
+          "url": "https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB"
+        },
+        {
+          "name": "Soumitra Thakur",
+          "url": "https://open.spotify.com/artist/0zOCF2DAtx7rq9Hbc7ptEE"
+        },
+        {
+          "name": "Rohit Prasanna",
+          "url": "https://open.spotify.com/artist/4LvqIA3jeFVnYpA0tmrpcr"
+        },
+        {
+          "name": "Mahavir Chandravat",
+          "url": "https://open.spotify.com/artist/1o2YFzCdNgsB6wCnmXBCkr"
+        },
+        {
+          "name": "Varun Rajasekharan",
+          "url": "https://open.spotify.com/artist/6wG7tirouW1CRqzol1jEQ4"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436000,
+      "name": "Saanjh Bhayi - Live",
+      "url": "https://open.spotify.com/track/0P5O1DyJNQn4N1bSItGDGz"
+    },
+    {
+      "album": {
         "name": "Heeramandi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
       },
@@ -3032,7 +3246,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 364346,
       "name": "Sharab Cheez Hi Aisi",
       "url": "https://open.spotify.com/track/6pDDpwdS8NkgE1ZZMpFA3o"
@@ -3050,7 +3264,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 411010,
       "name": "Shayad Main Zindagi Ki Sahar",
       "url": "https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T"
@@ -3090,7 +3304,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 219600,
       "name": "Tasveer",
       "url": "https://open.spotify.com/track/1qfpfieVEi4SJVpe5gpTez"
@@ -3112,7 +3326,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 361733,
       "name": "Tere Jane Se",
       "url": "https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz"
@@ -3148,7 +3362,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 489000,
       "name": "Teri Yaad... Yaad... Yaad",
       "url": "https://open.spotify.com/track/744tf6znd3SFZf7y2emIL7"
@@ -3188,7 +3402,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 354759,
       "name": "Tose Lage Nain",
       "url": "https://open.spotify.com/track/2rLx3Y0yEjEGfO9ydhl7cw"
@@ -3228,7 +3442,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 304041,
       "name": "Tujhse Mohabbat (From - Izhaar-E-Ishq)",
       "url": "https://open.spotify.com/track/5DG2W3WACSbK5yFA1WpUiN"
@@ -3322,7 +3536,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 246836,
       "name": "Vo Haseen Raat",
       "url": "https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw"
@@ -3384,7 +3598,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 328910,
       "name": "Woh Dehleez",
       "url": "https://open.spotify.com/track/7ywmyRfxqVjuVVRFL9JdyZ"
@@ -3464,7 +3678,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 378830,
       "name": "Woh Nahi Mera Magar - Male Vocals",
       "url": "https://open.spotify.com/track/6gcQXc18soxkl2hSJ99Rx9"
@@ -3486,6 +3700,24 @@
       "duration_ms": 274320,
       "name": "Yeh Arzoo Thi Tujhe Gul Ke",
       "url": "https://open.spotify.com/track/4LIVQbroVmruOhX8aXqu6z"
+    },
+    {
+      "album": {
+        "name": "His Best Ever Ghazals Collection Ghulam Ali, Vol. 2",
+        "url": "https://open.spotify.com/album/5XDut6gB7SY1mP7GUygty4"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324440,
+      "name": "Yeh Baatein Jhooti Baatein Hain",
+      "url": "https://open.spotify.com/track/314nObmsitTTA0xsw9twzu"
     },
     {
       "album": {
@@ -3518,7 +3750,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 309288,
       "name": "Zid",
       "url": "https://open.spotify.com/track/01zEqBcguhTPOWo0DZhjew"
@@ -3572,7 +3804,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 343360,
       "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
       "url": "https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA"

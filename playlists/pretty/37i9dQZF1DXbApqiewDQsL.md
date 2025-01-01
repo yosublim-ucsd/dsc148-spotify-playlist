@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds Música Mexicana tracks in 2024\. Cover: Edgar Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,024 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,045 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

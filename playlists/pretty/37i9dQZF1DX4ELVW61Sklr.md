@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,457 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,405 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 78 | [Merry Like This](https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Merry Like This](https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c) | 3:00 |
 | 79 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:32 |
 | 80 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 |
-| 81 | [Mary Did You Know](https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ) | [Stevie Mackey](https://open.spotify.com/artist/6yb7iR9KSHvoITAvoxz3ia), [THE ELEVEN](https://open.spotify.com/artist/59u9R3yNVw4PWC3Rg1JZhk), [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG) | [The Most Wonderful Time](https://open.spotify.com/album/0w8kuceNScFrj2fDOipHEz) | 4:56 |
-| 82 | [Glory To The King \- His Gift Version](https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:10 |
+| 81 | [Glory To The King \- His Gift Version](https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:10 |
+| 82 | [Mary Did You Know](https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ) | [Stevie Mackey](https://open.spotify.com/artist/6yb7iR9KSHvoITAvoxz3ia), [THE ELEVEN](https://open.spotify.com/artist/59u9R3yNVw4PWC3Rg1JZhk), [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG) | [The Most Wonderful Time](https://open.spotify.com/album/0w8kuceNScFrj2fDOipHEz) | 4:56 |
 | 83 | [This Holiday](https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [This Holiday](https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z) | 2:56 |
 | 84 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
 | 85 | [Soulful Christmas](https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:06 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 90 | [To: You](https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [To: You \(a holiday joint\)](https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df) | 3:12 |
 | 91 | [Deck the Halls](https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Your Favorite Christmas Songs](https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2) | 2:40 |
 | 92 | [The Christmas Song](https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:10 |
-| 93 | [Feels Like Christmas](https://open.spotify.com/track/0lutnwmmb1mqyTkbSNlXds) | [Jack Freeman](https://open.spotify.com/artist/0sQ5GaIilKYSsvYlXSgEcl) | [Feels Like Christmas](https://open.spotify.com/album/7K3PsVnAgjlBRzzcDG9BAP) | 3:19 |
-| 94 | [The Greatest Gift](https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [The Greatest Gift](https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0) | 2:25 |
+| 93 | [The Greatest Gift](https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [The Greatest Gift](https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0) | 2:25 |
+| 94 | [Feels Like Christmas](https://open.spotify.com/track/0lutnwmmb1mqyTkbSNlXds) | [Jack Freeman](https://open.spotify.com/artist/0sQ5GaIilKYSsvYlXSgEcl) | [Feels Like Christmas](https://open.spotify.com/album/7K3PsVnAgjlBRzzcDG9BAP) | 3:19 |
 | 95 | [Silver Bells](https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:56 |
 | 96 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd) | 2:31 |
 | 97 | [Wrap Me Up in Your Love](https://open.spotify.com/track/5zCHMBOItuzWvGAJRl0vnc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas \(Super Deluxe\)](https://open.spotify.com/album/7pm8YR7cEh5i0nRoqEutzd) | 3:45 |

@@ -4,10 +4,11 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Alessandra Amoroso
 
-692 songs - 1 day 11 hr 45 min
+693 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['A 'MBASCIATA](https://open.spotify.com/track/0EpP4OASPWKz4dVhg69LQe) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO III](https://open.spotify.com/album/3ULYRmnGV3zXbRQkCuFbBS) | 2:58 | 2024-12-31 |  |
 | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [\(Can’t Get You\) Off My Mind](https://open.spotify.com/album/21ML2b7P3BVsthK09Qqn9J) | 2:52 | 2024-07-04 | 2024-08-02 |
 | [\(Isn’t It\) Obvious](https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [\(Isn’t It\) Obvious](https://open.spotify.com/album/6mDGrC2zC5bugpOTPwNedv) | 3:51 | 2024-10-24 | 2024-11-29 |
 | [+57](https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [+57](https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37) | 4:58 | 2024-11-07 | 2024-12-06 |

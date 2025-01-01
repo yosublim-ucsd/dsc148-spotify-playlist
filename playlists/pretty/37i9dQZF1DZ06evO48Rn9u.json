@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 145313,
+  "num_followers": 145332,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAADR3Cd0phuoXF+4T8d3wC5Y",
+  "snapshot_id": "Z3HigAAAAACCInCDYR2QHwgxsRLVbWzA",
   "tracks": [
     {
       "added_at": null,
@@ -528,7 +528,7 @@
       "added_at": null,
       "album": {
         "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+        "url": "https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 196520,
-      "name": "Biscuits",
-      "url": "https://open.spotify.com/track/4vHVfwVi2CEc4r7P1Pr9iu"
+      "duration_ms": 217880,
+      "name": "Late To The Party",
+      "url": "https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5"
     },
     {
       "added_at": null,
@@ -672,7 +672,7 @@
       "added_at": null,
       "album": {
         "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa"
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Late To The Party",
-      "url": "https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5"
+      "duration_ms": 196520,
+      "name": "Biscuits",
+      "url": "https://open.spotify.com/track/4vHVfwVi2CEc4r7P1Pr9iu"
     },
     {
       "added_at": null,

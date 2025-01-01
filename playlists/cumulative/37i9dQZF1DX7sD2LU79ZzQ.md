@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 Cinta 2 Dunia](https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [1 Cinta 2 Dunia](https://open.spotify.com/album/4qU6koWCmPtsoKIeIt9iA7) | 3:35 | 2024-12-05 |  |
+| [1 Cinta 2 Dunia \- From "Pacarku Jinny"](https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [1 Cinta 2 Dunia \- From "Pacarku Jinny"](https://open.spotify.com/album/4qU6koWCmPtsoKIeIt9iA7) | 3:35 | 2024-12-05 |  |
 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 | 2024-07-25 | 2024-11-22 |
 | [17 Juni](https://open.spotify.com/track/44QEmMQci4T5rbKcGHxhzK) | [Pascal Meliala](https://open.spotify.com/artist/1oChqfTEO3APBVjUaFI1DY), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq), [Cecilia Morinta](https://open.spotify.com/artist/5BtNjjzw9yWPKtfh02cS3S) | [17 Juni](https://open.spotify.com/album/2sEqsb4bAdKvOQJbrmzsqM) | 5:32 | 2024-07-18 | 2024-09-06 |
 | [247](https://open.spotify.com/track/5oZXijgplVhPkNAvOq9GRS) | [Alsa](https://open.spotify.com/artist/79ZuAKAPvlGaPMRXR8KwPU) | [247](https://open.spotify.com/album/0nBsEBAArDn91nyTtiKdRG) | 3:17 | 2024-10-24 | 2024-11-29 |

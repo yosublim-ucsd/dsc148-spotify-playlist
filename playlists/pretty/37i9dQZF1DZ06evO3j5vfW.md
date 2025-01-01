@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,842 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,847 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 17 | [Carry On \- Nicky Romero Remix](https://open.spotify.com/track/4fK2NU9UyQJV74ZGiSVYsr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Carry On \(Nicky Romero Remix\)](https://open.spotify.com/album/14BprFzfLNat9osGVdFmXM) | 2:55 |
 | 18 | [Take Me Home](https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Take Me Home](https://open.spotify.com/album/591dja1K2VghhGHhGw8adX) | 3:08 |
 | 19 | [To The Floor \(Nicky Romero Edit\)](https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m) | [Loud 'N Bright](https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [To The Floor \(Nicky Romero Edit\)](https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp) | 2:22 |
-| 20 | [Holy](https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Holy](https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz) | 4:15 |
-| 21 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 |
+| 20 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 |
+| 21 | [Holy](https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Holy](https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz) | 4:15 |
 | 22 | [Tomorrow Comes](https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Tomorrow Comes](https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull) | 3:31 |
 | 23 | [We're Still Young](https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [We're Still Young](https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0) | 3:15 |
 | 24 | [Lights Up \- Dimitri Vegas & Like Mike Edit](https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Lights Up \(Dimitri Vegas & Like Mike Edit\)](https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp) | 3:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 50 | [Iron](https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:39 |
 | 51 | [Destiny](https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Alexander Tidebrink](https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC) | [Destiny](https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq) | 4:13 |
 
-Snapshot ID: `Z3CRAAAAAABj6gkverUORlnxUj9TdFaD`
+Snapshot ID: `Z3HigAAAAADdyZXEBg23QsM/ozx6szWF`

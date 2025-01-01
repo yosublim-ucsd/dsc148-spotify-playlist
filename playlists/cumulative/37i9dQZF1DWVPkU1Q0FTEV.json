@@ -10,16 +10,16 @@
       },
       "artists": [
         {
-          "name": "Holy Priest",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
-        },
-        {
           "name": "Nico Moreno",
           "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
         },
         {
           "name": "Warface",
           "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
         }
       ],
       "date_added": "2024-12-20",

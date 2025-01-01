@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 67564,
+  "num_followers": 67561,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 219949,
-      "name": "F o r C e r t a i n",
-      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+      "duration_ms": 219949,
+      "name": "F o r C e r t a i n",
+      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
         "name": "Hmm (feat. Popcaan)",
         "url": "https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 148573,
       "name": "Wasted Eyes",
       "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "Pray for Me",
-        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 434758,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Capable of love",
-        "url": "https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "Capable of love",
-      "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "Low End Love Songs",
         "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 210957,
       "name": "Spend More Time With Your Friends",
       "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Capable of love",
+        "url": "https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Capable of love",
+      "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
+        "name": "A Man After God's Own Heart",
+        "url": "https://open.spotify.com/album/7rTc2mMKVKpXG7DJVVdtCz"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
         "name": "Goodbyes (Myrrh)",
         "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 210124,
       "name": "Goodbyes (Myrrh)",
       "url": "https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "A Man After God's Own Heart",
-        "url": "https://open.spotify.com/album/7rTc2mMKVKpXG7DJVVdtCz"
-      },
-      "artists": [
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "The Rest Of Me (Edit)",
-        "url": "https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 186078,
-      "name": "The Rest Of Me - Edit",
-      "url": "https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "b i g f e e l i n g s",
         "url": "https://open.spotify.com/album/2H6k8joKIeY5mLZVPyPVfu"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Red Light",
-        "url": "https://open.spotify.com/album/08aM0wysi2NwR7phOd6zLk"
+        "name": "The Rest Of Me (Edit)",
+        "url": "https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc"
       },
       "artists": [
         {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 247185,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/6uFDcKDKm2QgdgtEcDQGoU"
+      "duration_ms": 186078,
+      "name": "The Rest Of Me - Edit",
+      "url": "https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 161711,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/08aM0wysi2NwR7phOd6zLk"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 247185,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/6uFDcKDKm2QgdgtEcDQGoU"
     },
     {
       "added_at": "2024-12-20 20:54:00",

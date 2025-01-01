@@ -4,7 +4,7 @@
 
 > Taking it way back! Cover: Snoop Dogg
 
-313 songs - 22 hr 36 min
+314 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Holidae In](https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 5:14 | 2022-09-29 | 2022-12-03 |
 | [Horse & Carriage \(feat\. Mase\)](https://open.spotify.com/track/2IwuXiEjBo1vlHluE0mxQV) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Confessions Of Fire](https://open.spotify.com/album/2pIL8lbz2cz2Zg2Da3p9DF) | 4:01 | 2023-06-29 | 2023-09-02 |
 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 | 2022-03-13 | 2024-06-21 |
+| [How Do U Want It \(ft\. K\-Ci & JoJo\)](https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:47 | 2024-12-31 |  |
 | [How Do You Want It \(ft\. KC, Jojo\)](https://open.spotify.com/track/6ZmLu4NAhMsuAXLkcLMBrb) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Jojo](https://open.spotify.com/artist/47jSEDskKC531gbRU67cvf), [KC](https://open.spotify.com/artist/3EuvhZC5FUrLAOhA4HtLjs) | [All Eyez On Me](https://open.spotify.com/album/1Mdy7hhoQRYdVrHzYnlUee) | 4:47 | 2021-03-05 | 2022-02-12 |
 | [How Ya Livin' featuring Nas](https://open.spotify.com/track/4z1swK8bYaJUUEHESWqPbG) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Pieces Of A Man](https://open.spotify.com/album/0UoIEoMO8GchrDZQRSIzmI) | 4:30 | 2021-03-05 | 2022-02-12 |
 | [How's It Goin' Down](https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 4:42 | 2021-03-05 | 2023-11-02 |
@@ -319,7 +320,7 @@
 | [Wu\-Tang Clan Ain't Nuthing ta F' Wit \(feat\. RZA, Inspectah Deck & Method Man\)](https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 3:36 | 2023-11-01 | 2024-03-02 |
 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2021-04-09 | 2022-02-12 |
 | [You Can't Stop The Reign \(feat\. The Notorious B.I.G.\)](https://open.spotify.com/track/6Jd15lvi1LXBbPGhP5wlVB) | [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [You Can't Stop The Reign \(feat\. The Notorious B.I.G.\)](https://open.spotify.com/album/0KF4BtxrfsnQj2ESpCPce4) | 4:40 | 2024-06-20 |  |
-| [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 | 2024-03-01 |  |
+| [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 | 2024-03-01 | 2025-01-01 |
 | [You Owe Me \(feat\. Ginuwine\)](https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Nastradamus](https://open.spotify.com/album/0yv3K62ndWgrZ0bbAEMzj5) | 4:47 | 2024-08-30 | 2024-10-04 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

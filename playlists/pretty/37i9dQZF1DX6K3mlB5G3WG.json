@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2aBhwAAAABTPaofIoBqNSdYTEwUuRDO",
+  "snapshot_id": "Z3R3wQAAAADC6wjcO/Rmc3/WPqQ/dvnM",
   "tracks": [
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "RIMANI RIMANI RIMANI",
         "url": "https://open.spotify.com/album/1XykBGy8nRX5iAG8PeEYH4"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6DppnYSn5RrZZjxNfUlRDS"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "1432",
         "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
+      "album": {
+        "name": "LIBERATO III",
+        "url": "https://open.spotify.com/album/3ULYRmnGV3zXbRQkCuFbBS"
+      },
+      "artists": [
+        {
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "'A 'MBASCIATA",
+      "url": "https://open.spotify.com/track/0EpP4OASPWKz4dVhg69LQe"
+    },
+    {
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "CASA GOSPEL",
         "url": "https://open.spotify.com/album/0kmMczYmvnPMU45OhnStJh"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/3Npk1eTTxSkRNYet4PW2yY"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "\u00c8 FINITA LA PACE",
         "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Diamanti (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2b1bw7aWdnQvfFTdyWYdlh"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/7Dx0ZTyqik0JLL7fJpPOjj"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Non \u00e8 vero che sto bene",
         "url": "https://open.spotify.com/album/3aMmvKIfghs4i3i0uFVzYk"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/3Sr7d5L9UGjRMzgkYSEYG8"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "ManDarE TuTto All'aRIA",
         "url": "https://open.spotify.com/album/0RMBiVhtPQRSvyVTEPKDzv"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Diverse",
         "url": "https://open.spotify.com/album/7sDxy69OT8VTIMrNdSnWBo"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/5eHKwCgsc0oJgRe3nOO5lA"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Where'd It Go Wrong?",
         "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "fancy / xvideos",
         "url": "https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Come il pane",
         "url": "https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "CASA GOSPEL",
         "url": "https://open.spotify.com/album/0kmMczYmvnPMU45OhnStJh"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/6wCmW3Bv3A2zT9pjnvuATf"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "ALASKA BABY",
         "url": "https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/3KJF0gcADaG7bSR4zKfE1G"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Sale",
         "url": "https://open.spotify.com/album/4eGWXMAyjbz3y0gi49dqlC"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/4uWjmSagtdQFBzPpYYpp1P"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Goodbye (voglio good vibes)",
         "url": "https://open.spotify.com/album/7iUzTmCb5Q9j4XkQ00Rp7r"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/408NzSks0G1KXAcQMr2VvF"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Spazio (tra le dita)",
         "url": "https://open.spotify.com/album/11N29nehfGtYQhqToEHUna"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/2DCQhaOuWlJS34Tls9ocK8"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/48NqxG3c6KNTtS97htLiRK"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/75sGNpidmjIEHDaILUPhjZ"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Dancing in love",
         "url": "https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "7 Trompetas",
         "url": "https://open.spotify.com/album/5X1KeQjQuhuSdZz0FyxcGg"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/4ApLAqNEdqMwgF3Y8MRSXj"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "ROJOFUEGO - Spotify Singles",
         "url": "https://open.spotify.com/album/5IlQTbEXM4RzyzBO2LfJ4i"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/50jl0dJ6eBzFPz1I9wskHt"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "L'Attrazione",
         "url": "https://open.spotify.com/album/7hL5kIyWuS5K8yyloD6jWm"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/2voqzLKbcakxK2OZeXZITZ"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "\u00c8 FINITA LA PACE",
         "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/6hBvXhUosokAqnc701pVE1"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "VERTEBRE",
         "url": "https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "figli degli dei",
         "url": "https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "DAMMI UN SENSO ALLA FINE (feat. Rose Villain)",
         "url": "https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "All Of Me",
         "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Ti Vedo",
         "url": "https://open.spotify.com/album/0JbPSyuWsaJKZcliJaBFz0"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/7i5EjQJTryH6bPq0jJjQE0"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "two more days",
         "url": "https://open.spotify.com/album/0tMLTrwCaJcqioPLMwxZBc"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/0BVIfVKh1wkQjNK32GMHM2"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Club Paradise",
         "url": "https://open.spotify.com/album/05GwiHCsXuWmmM09omau99"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/5vdy5tmBhiFfGUQ3H77LHX"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "nothing left 2 say / give u everything",
         "url": "https://open.spotify.com/album/3UP6UAXppXpPNzku4MrcpL"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "ALASKA BABY",
         "url": "https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/4elAiEgBssziHLfCrBoEA2"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Worlds Collide (Inspired by Arcane League of Legends)",
         "url": "https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "EL CL\u00faB",
         "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "DE MARAVISHA",
         "url": "https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Under the Tree (from \u201cThat Christmas\u201d)",
         "url": "https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Xmas Time (with Kehlani)",
         "url": "https://open.spotify.com/album/6EMvsRRCz0RPTY2KvCUVbL"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Keep Me Honest",
         "url": "https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "FREE LOVE",
         "url": "https://open.spotify.com/album/0Cq38Zz480QZY50o7XwSJS"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/2ihva8k3wxg1gg1kKFTq92"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Archangel",
         "url": "https://open.spotify.com/album/5JG22vipJjE2PYrUi8QUxw"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/1xiCaiy7CFnymZvf80ZKBk"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/71ACv0AoNlFPb57TZZRF74"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/7hYAg4ySTj8k6p1PaHWYEj"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "HOP",
         "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Unreal Unearth: Unending",
         "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "FINALMENTE",
         "url": "https://open.spotify.com/album/0VZ156wg0MKf6BUE3Q2a4f"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/6bhLObRoJeIAp3s0QPGmlp"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "ALASKA BABY",
         "url": "https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/0gLtUpSTGD8RHjNoSHN871"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "senza te",
         "url": "https://open.spotify.com/album/54g19qvrqead1XxhNpujsV"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/6A4D5wJNi4NB2w2FTezJfh"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "GIGANTI",
         "url": "https://open.spotify.com/album/59Q4t9oZdSQkyGBZ7gSBU1"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/7BjIXg2QGwi2q9yPL6wiaI"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "cupido",
         "url": "https://open.spotify.com/album/2GhSl6PaFKVTe0YBibFfds"
@@ -961,7 +977,7 @@
       "url": "https://open.spotify.com/track/2rxv2y7ojb4HmXrno8KWp3"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Erano More",
         "url": "https://open.spotify.com/album/1OPHsPlARIB1UoHcLQKm1z"
@@ -977,7 +993,7 @@
       "url": "https://open.spotify.com/track/5QPnP4B7BWPV2bnePCG8L2"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "7 VITE",
         "url": "https://open.spotify.com/album/3gZuVdhfzgmklwURswCnOR"
@@ -993,7 +1009,7 @@
       "url": "https://open.spotify.com/track/6pDgrvVN6USSlstIcw7Quq"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3xX1GtxfTiBY9hvEjNhFXX"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/5tCXLFbNC2jyyJlldgaAZm"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Tony",
         "url": "https://open.spotify.com/album/0tNEWTO3iIH0o3N5I8jiQb"
@@ -1025,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4waNYcV1T5frotIzzwC1TQ"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Tu sei per me",
         "url": "https://open.spotify.com/album/3DLTemze01u5fUf613DTh4"
@@ -1041,7 +1057,7 @@
       "url": "https://open.spotify.com/track/05mlLQhbyQ9CCdtIt4jHVS"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "STRATEGY",
         "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Tra le onde",
         "url": "https://open.spotify.com/album/3lAn7sXbnuxqnjzaUTU1w1"
@@ -1077,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Come Monna Lisa (feat. Mango)",
         "url": "https://open.spotify.com/album/3AyhSYCuhtmcVAlzOR4bqY"
@@ -1097,7 +1113,7 @@
       "url": "https://open.spotify.com/track/25tS59nYeVFJEI9iXC9wHa"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Veleno",
         "url": "https://open.spotify.com/album/0kivI9DqD5PzKGeh26HycU"
@@ -1113,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4w9pKLXVOmKkI3UOiRvOGM"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Un finale diverso (Grandine)",
         "url": "https://open.spotify.com/album/4KzU2D5qLhbILaOzRlewcs"
@@ -1129,7 +1145,7 @@
       "url": "https://open.spotify.com/track/3fFg3QD5JbCNN1WMRxoD6D"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1"
@@ -1145,7 +1161,7 @@
       "url": "https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Sincere (Deluxe)",
         "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
@@ -1165,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "PERICOLOSA",
         "url": "https://open.spotify.com/album/6J6gRXvkikfaFRkASex0MG"
@@ -1181,7 +1197,7 @@
       "url": "https://open.spotify.com/track/7BRuJv2TVuoLynLYrZiixt"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "occhisalsadisoia",
         "url": "https://open.spotify.com/album/45vBnHTbeRody869Dgz3hH"
@@ -1201,7 +1217,7 @@
       "url": "https://open.spotify.com/track/5GGONR3S3gJtarebmj2ISa"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Ciao tristezza (con Lucia Manca)",
         "url": "https://open.spotify.com/album/1ExwneIDBZ7f93PebiLc1C"
@@ -1221,7 +1237,7 @@
       "url": "https://open.spotify.com/track/3IdXaqn8Ca271O4PIUr9VM"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Ti scorderai di me",
         "url": "https://open.spotify.com/album/6QZvm9fRVesxcfNvFfe3sy"
@@ -1237,7 +1253,7 @@
       "url": "https://open.spotify.com/track/3669AI1VHHptnYqXwe5kqh"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Empty Bench",
         "url": "https://open.spotify.com/album/3km5zzX8gjqQwNcc2E6LHk"
@@ -1253,7 +1269,7 @@
       "url": "https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Burning Down (with Joe Jonas)",
         "url": "https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp"
@@ -1273,7 +1289,7 @@
       "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Il Natale degli Angeli",
         "url": "https://open.spotify.com/album/2MlY8hFaEHIJ2gFGzxWkrI"
@@ -1289,7 +1305,7 @@
       "url": "https://open.spotify.com/track/0GGf58HtRHeIFn5qs3F2Jn"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "DELUSIONAL",
         "url": "https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe"
@@ -1305,7 +1321,7 @@
       "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "The Great Magician",
         "url": "https://open.spotify.com/album/63t10xbFmyLIsLoush60io"
@@ -1321,7 +1337,7 @@
       "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Disobbedire",
         "url": "https://open.spotify.com/album/16EqGlwhuCitKG0DuyMpwl"
@@ -1345,7 +1361,7 @@
       "url": "https://open.spotify.com/track/36VJCV6FimqEBxFJ1ceyab"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Dimmi tu quando sei pronto per fare l'amore",
         "url": "https://open.spotify.com/album/5n23zgaM0noCZw9sYHMHIL"
@@ -1365,7 +1381,7 @@
       "url": "https://open.spotify.com/track/4BCStGSMq3v68Eh5PrAslv"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "GOOD VIBES",
         "url": "https://open.spotify.com/album/2PQxEamcHfVno3b9XqDTZ9"
@@ -1381,7 +1397,7 @@
       "url": "https://open.spotify.com/track/0M8pMoPhKVVR8H2spqn6WR"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Cemento",
         "url": "https://open.spotify.com/album/2Xg5FWrpaZIB3lG5MYyqez"
@@ -1397,7 +1413,7 @@
       "url": "https://open.spotify.com/track/5VQI1dj40QV6Gwtakup12U"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "DIO LO SA - ATTO II",
         "url": "https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu"
@@ -1421,7 +1437,7 @@
       "url": "https://open.spotify.com/track/7pQA55G6kvMIaNU4UcYktA"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Tears",
         "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
@@ -1437,7 +1453,7 @@
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr"
@@ -1453,7 +1469,7 @@
       "url": "https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Fucina",
         "url": "https://open.spotify.com/album/0sMlOuCm7ACc9M03XkLaNA"
@@ -1469,7 +1485,7 @@
       "url": "https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "MILLE CONCERTI",
         "url": "https://open.spotify.com/album/4cvqZIvVNFxEnyKsfByfmu"
@@ -1485,7 +1501,7 @@
       "url": "https://open.spotify.com/track/376QKV218XBWMzHNCo8oDh"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Ride or Die",
         "url": "https://open.spotify.com/album/6S6ndCkhAnIoZeBYSTDaUx"
@@ -1501,7 +1517,7 @@
       "url": "https://open.spotify.com/track/1QpGadlPm0KceCsjNX1CXs"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Lambda",
         "url": "https://open.spotify.com/album/0GU2uQF3HuEs5H57DnfY0d"
@@ -1517,7 +1533,7 @@
       "url": "https://open.spotify.com/track/2h72ZCOgOwCLhTIdLBgRne"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
@@ -1533,7 +1549,7 @@
       "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
     },
     {
-      "added_at": "2024-12-21 08:51:19",
+      "added_at": "2024-12-31 23:01:21",
       "album": {
         "name": "Sugar Water Cyanide",
         "url": "https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm"

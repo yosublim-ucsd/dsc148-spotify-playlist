@@ -4,7 +4,7 @@
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: أميمة طالب
 
-209 songs - 14 hr 54 min
+210 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-10-04 | 2023-10-12 |
 | [Ashoof AL Afyiah](https://open.spotify.com/track/04RQf3c5aAqLmd07WHaCFN) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ashoof AL Afyiah](https://open.spotify.com/album/6zi460Vd6Xflq0YRgxrUpX) | 3:35 | 2024-05-15 |  |
 | [Baad El Ahyan](https://open.spotify.com/track/236Rsa1TC6X2HDUkCkv3vH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Baad El Ahyan](https://open.spotify.com/album/5YSBcsruTgThOJajX9qsXV) | 4:47 | 2024-11-11 |  |
-| [Baaiesh Lnfse](https://open.spotify.com/track/6okEM3hxHHbZQ8GEFH312v) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Rabeh Saqer 2023 \- Part 2](https://open.spotify.com/album/6WX89fq1BzUFkWgcK8g1FY) | 5:38 | 2024-04-18 |  |
+| [Baaiesh Lnfse](https://open.spotify.com/track/6okEM3hxHHbZQ8GEFH312v) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Rabeh Saqer 2023 \- Part 2](https://open.spotify.com/album/6WX89fq1BzUFkWgcK8g1FY) | 5:38 | 2024-04-18 | 2025-01-01 |
 | [Bahjat ALkhater](https://open.spotify.com/track/3eReZhyR5JIDiRN1kxxHOl) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Bahjat ALkhater](https://open.spotify.com/album/4UmJoi5HlTPVDeWuDQWgpx) | 4:32 | 2022-04-07 | 2023-04-21 |
 | [Bakir](https://open.spotify.com/track/2ZLWxFGNauOddLUTWcvsok) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [\#1](https://open.spotify.com/album/1ufUw2q6WAB4jrghwChTec) | 3:50 | 2024-04-18 | 2024-07-31 |
 | [Bdet Ateeb](https://open.spotify.com/track/5XtURwv3QcCqXKBmMZi95H) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Bdet Ateeb](https://open.spotify.com/album/6GmP2R2kvNM4ZO1oUnxlGI) | 4:36 | 2024-04-18 | 2024-12-27 |
@@ -113,6 +113,7 @@
 | [My People And My World](https://open.spotify.com/track/0xPWpqWvI3KSj1kv3SnPjG) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [My People And My World](https://open.spotify.com/album/2npyzyawAdH8O2nghXZRbX) | 5:05 | 2022-04-07 | 2023-03-09 |
 | [Nadak Qalbi](https://open.spotify.com/track/18Jd5WsemYkxI5Ty3OekPK) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Nadak Qalbi](https://open.spotify.com/album/4PttyaHnJgijuo8VoryAuR) | 3:50 | 2023-07-27 |  |
 | [Nafs Al Muftarak](https://open.spotify.com/track/58lYW6pa7nkYtt3gAReZ3m) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Nafs Al Muftarak](https://open.spotify.com/album/4WAPReCYSyjPoUAm9pGFx2) | 4:25 | 2022-04-07 | 2023-03-15 |
+| [Nosy Al Ajmal](https://open.spotify.com/track/0jMoAlPlTfxFEcR5tYI86H) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Nosy Al Ajmal](https://open.spotify.com/album/04kL7GXfzkQcAqNdYcUM2R) | 4:32 | 2024-12-31 |  |
 | [Nsa Nfsah](https://open.spotify.com/track/18JtCEpNrIIOJZlvUaSjk8) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Nsa Nfsah](https://open.spotify.com/album/0wxHcgJP08F11Rz9GsZBRn) | 4:01 | 2024-01-24 | 2024-04-19 |
 | [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 | 2023-04-27 |  |
 | [Qatlni Hobak](https://open.spotify.com/track/7JqngiYbIy1jv6o0zq45PS) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Qatlni Hobak](https://open.spotify.com/album/5rM0FdvjpBafPkf7ojIeVQ) | 3:27 | 2022-07-25 | 2023-08-11 |

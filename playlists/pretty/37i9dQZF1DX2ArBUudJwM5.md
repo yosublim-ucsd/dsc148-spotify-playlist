@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Valeria Lynch en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,606 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,610 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 29 | [Con las Alas del Alma](https://open.spotify.com/track/4nhUFP07qW1F9vRj7P27wC) | [Julia Zenko](https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP) | [Así Va la Vida](https://open.spotify.com/album/5MCASHhLENAnfsv0FlWFux) | 5:12 |
 | 30 | [Honrar La Vida](https://open.spotify.com/track/7weF1x9KRb9qX0QQvAIGtE) | [Eladia Blázquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Serie De Oro](https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi) | 2:56 |
 | 31 | [Amiga](https://open.spotify.com/track/780CvxO4voF82hZKdWXKZa) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Cariño y ternura](https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa) | 2:37 |
-| 32 | [Déjate Querer](https://open.spotify.com/track/6Vf2r5R4mT0r96lUhY4cZX) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD) | [Déjate Querer](https://open.spotify.com/album/6TeJ81LaIGx9AciXOBHX6d) | 4:06 |
-| 33 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
+| 32 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
+| 33 | [Déjate Querer](https://open.spotify.com/track/6Vf2r5R4mT0r96lUhY4cZX) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD) | [Déjate Querer](https://open.spotify.com/album/6TeJ81LaIGx9AciXOBHX6d) | 4:06 |
 | 34 | [Azúcar del Estero](https://open.spotify.com/track/6KVOOiZ0QWZiYbwHVzncru) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:29 |
 | 35 | [Caserón De Tejas](https://open.spotify.com/track/6296wbH11ICNfzVfApZoEC) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG) | [Nivel Internacional](https://open.spotify.com/album/0KUI6V7xOWBR44owqIXC1o) | 2:54 |
 | 36 | [Cuenta Conmigo](https://open.spotify.com/track/472pTs7hDhDWzZ9qxG3rqa) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [A Chico Novarro, Conmigo](https://open.spotify.com/album/4tL671BY55i9DQLPWHSn6Z) | 2:59 |

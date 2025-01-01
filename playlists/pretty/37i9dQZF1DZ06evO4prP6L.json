@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 16890,
+  "num_followers": 16896,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAADeKaijve4cWXWYDL3Og8Kl",
+  "snapshot_id": "Z3HigAAAAAAQ3fL7ZyBYEwMYAZKg7kLi",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hat Town",
+        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Hat Town - Remastered 2017",
+      "url": "https://open.spotify.com/track/7hj30PZf5FUdjfspqbwrjd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 226446,
       "name": "Walk a Country Mile",
       "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hat Town",
-        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Hat Town - Remastered 2017",
-      "url": "https://open.spotify.com/track/7hj30PZf5FUdjfspqbwrjd"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Leave Him in the Longyard - Remastered 2017",
+      "url": "https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 161875,
       "name": "Dumb Things",
       "url": "https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Leave Him in the Longyard - Remastered 2017",
-      "url": "https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Ute Me",
-      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Chain Road",
         "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 241000,
       "name": "Southern Son - Remastered 2017",
       "url": "https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Ute Me",
+      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
     },
     {
       "added_at": null,
@@ -447,42 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm Of The Highway (Tamworth Edition)",
-        "url": "https://open.spotify.com/album/7q0en8RGs313BoRAf7Pb01"
-      },
-      "artists": [
-        {
-          "name": "Travis Sinclair",
-          "url": "https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "I'm From The Country",
-      "url": "https://open.spotify.com/track/4fqDKBippqVjWxDl0euzIJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Something in the Water - Remastered 2017",
-      "url": "https://open.spotify.com/track/3OAlhNE78NOBd6c3wEqiGD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spirit of the Bush (Remastered 2017)",
         "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
       },
@@ -503,6 +467,42 @@
       "duration_ms": 213493,
       "name": "Spirit of the Bush - Remastered 2017",
       "url": "https://open.spotify.com/track/2h1nMiUCpMA3kLrtjIUe8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Something in the Water - Remastered 2017",
+      "url": "https://open.spotify.com/track/3OAlhNE78NOBd6c3wEqiGD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhythm Of The Highway (Tamworth Edition)",
+        "url": "https://open.spotify.com/album/7q0en8RGs313BoRAf7Pb01"
+      },
+      "artists": [
+        {
+          "name": "Travis Sinclair",
+          "url": "https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "I'm From The Country",
+      "url": "https://open.spotify.com/track/4fqDKBippqVjWxDl0euzIJ"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "I Was Only 19 (A Walk in the Green Light)",
-      "url": "https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're Still Here",
         "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 200320,
       "name": "She Gave Us the Song",
       "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "I Was Only 19 (A Walk in the Green Light)",
+      "url": "https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hat Town",
-        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Cowgirls Do - Remastered 2017",
-      "url": "https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 240834,
       "name": "Outback Club Reunion",
       "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hat Town",
+        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Cowgirls Do - Remastered 2017",
+      "url": "https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "Electric Rodeo - Remastered 2017",
-      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hat Town",
         "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 235466,
       "name": "Goondiwindi Moon - Remastered 2017",
       "url": "https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 171704,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 171704,
-      "name": "Drive On",
-      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
+      "duration_ms": 260426,
+      "name": "Electric Rodeo - Remastered 2017",
+      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
     },
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Bush (Remastered 2017)",
-        "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
+        {
+          "name": "James Blundell",
+          "url": "https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD"
+        },
         {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Mate - Remastered 2017",
-      "url": "https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6"
+      "duration_ms": 189093,
+      "name": "Back in 92",
+      "url": "https://open.spotify.com/track/606KWoW6dLcUGHDX5leaVa"
     },
     {
       "added_at": null,

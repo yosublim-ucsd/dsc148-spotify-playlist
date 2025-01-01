@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 23871,
+  "num_followers": 23876,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "duration_ms": 186059,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Ser\u00e1",
-        "url": "https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV"
-      },
-      "artists": [
-        {
-          "name": "El Club Audiovisual",
-          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
-        }
-      ],
-      "duration_ms": 186059,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Mir\u00e1 mam\u00e1",
-        "url": "https://open.spotify.com/album/4WxNg5MCIE7qRkjfiER9cz"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 182056,
-      "name": "Mir\u00e1 mam\u00e1",
-      "url": "https://open.spotify.com/track/195ZLpeP6FKxSQXo7uvdL4"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "El Hit",
         "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 193928,
       "name": "El Hit",
       "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Mir\u00e1 mam\u00e1",
+        "url": "https://open.spotify.com/album/4WxNg5MCIE7qRkjfiER9cz"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 182056,
+      "name": "Mir\u00e1 mam\u00e1",
+      "url": "https://open.spotify.com/track/195ZLpeP6FKxSQXo7uvdL4"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "GLEEMONEX",
-        "url": "https://open.spotify.com/album/43YE48NLIeNmltm3ok8oPv"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Briones",
-          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
-        },
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 226715,
-      "name": "GLEEMONEX",
-      "url": "https://open.spotify.com/track/2JU1pR0bBAWijuu9uVipNm"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Caminar en Cristal",
         "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
       },
@@ -527,18 +507,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Una Propuesta",
-        "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
+        "name": "GLEEMONEX",
+        "url": "https://open.spotify.com/album/43YE48NLIeNmltm3ok8oPv"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Nahuel Briones",
+          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+        },
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 195760,
-      "name": "Una Propuesta",
-      "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
+      "duration_ms": 226715,
+      "name": "GLEEMONEX",
+      "url": "https://open.spotify.com/track/2JU1pR0bBAWijuu9uVipNm"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -563,18 +547,18 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+        "name": "Una Propuesta",
+        "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
       },
       "artists": [
         {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
+      "duration_ms": 195760,
+      "name": "Una Propuesta",
+      "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -595,6 +579,22 @@
       "duration_ms": 183242,
       "name": "Humo y Menta",
       "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Lpm",
         "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "de la primavera",
-        "url": "https://open.spotify.com/album/6fZoeGXByVt4ziEO5Qq16y"
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
       "artists": [
         {
-          "name": "Fabi\u00e1n Iurino",
-          "url": "https://open.spotify.com/artist/1kLxWQetwoCarthpSjQCFS"
-        },
-        {
-          "name": "Tarsitano",
-          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
         }
       ],
-      "duration_ms": 205589,
-      "name": "de la primavera",
-      "url": "https://open.spotify.com/track/5IIT3mioxX2tfHW1tRJGfU"
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -855,18 +835,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Habla Sola / Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
+        "name": "de la primavera",
+        "url": "https://open.spotify.com/album/6fZoeGXByVt4ziEO5Qq16y"
       },
       "artists": [
         {
-          "name": "Sakatumba",
-          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+          "name": "Fabi\u00e1n Iurino",
+          "url": "https://open.spotify.com/artist/1kLxWQetwoCarthpSjQCFS"
+        },
+        {
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
         }
       ],
-      "duration_ms": 234562,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
+      "duration_ms": 205589,
+      "name": "de la primavera",
+      "url": "https://open.spotify.com/track/5IIT3mioxX2tfHW1tRJGfU"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 118625,
       "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
       "url": "https://open.spotify.com/track/1CD3JzkGVGylR2NpBgu3Qu"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Habla Sola / Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "duration_ms": 234562,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Me gusta mirarte de cerca",
-        "url": "https://open.spotify.com/album/1IprhVpQu1xf4v2fElr7Kc"
-      },
-      "artists": [
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        }
-      ],
-      "duration_ms": 204875,
-      "name": "Me Gusta Mirarte De Cerca",
-      "url": "https://open.spotify.com/track/3FbpJoOMjuCOhTQzaqoOTo"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Vandalismo Comparado",
         "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 135189,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Me gusta mirarte de cerca",
+        "url": "https://open.spotify.com/album/1IprhVpQu1xf4v2fElr7Kc"
+      },
+      "artists": [
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "duration_ms": 204875,
+      "name": "Me Gusta Mirarte De Cerca",
+      "url": "https://open.spotify.com/track/3FbpJoOMjuCOhTQzaqoOTo"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Puedo ver el mar en tus ojos",
+        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
+      },
+      "artists": [
+        {
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+        }
+      ],
+      "duration_ms": 181495,
+      "name": "Puedo ver el mar en tus ojos",
+      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Puedo ver el mar en tus ojos",
-        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
-      },
-      "artists": [
-        {
-          "name": "Buenos Vampiros",
-          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
-        }
-      ],
-      "duration_ms": 181495,
-      "name": "Puedo ver el mar en tus ojos",
-      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -1163,38 +1163,6 @@
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Pastillas",
-        "url": "https://open.spotify.com/album/3mWjW6kkcyE2R1DF40BQqo"
-      },
-      "artists": [
-        {
-          "name": "Clara_mente",
-          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
-        }
-      ],
-      "duration_ms": 200014,
-      "name": "Pastillas",
-      "url": "https://open.spotify.com/track/51SYnvMbQqIiw8EbGh2HZK"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "El Invierno",
-        "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
-      },
-      "artists": [
-        {
-          "name": "Bifes con ensalada",
-          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
-        }
-      ],
-      "duration_ms": 200487,
-      "name": "El Invierno",
-      "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1215,22 +1183,34 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Hipercandombe",
-        "url": "https://open.spotify.com/album/1od06WJAGRxwQvXOQjOydn"
+        "name": "El Invierno",
+        "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
       },
       "artists": [
         {
-          "name": "Sue\u00f1os Dorados",
-          "url": "https://open.spotify.com/artist/1Gxd9wJiusIwHWSTt8Lk8y"
-        },
-        {
-          "name": "Crewrod",
-          "url": "https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk"
+          "name": "Bifes con ensalada",
+          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
         }
       ],
-      "duration_ms": 266862,
-      "name": "Hipercandombe",
-      "url": "https://open.spotify.com/track/0W3bp85BMhC5Gxb1s9JY7u"
+      "duration_ms": 200487,
+      "name": "El Invierno",
+      "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Pastillas",
+        "url": "https://open.spotify.com/album/3mWjW6kkcyE2R1DF40BQqo"
+      },
+      "artists": [
+        {
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
+        }
+      ],
+      "duration_ms": 200014,
+      "name": "Pastillas",
+      "url": "https://open.spotify.com/track/51SYnvMbQqIiw8EbGh2HZK"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1255,6 +1235,26 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Hipercandombe",
+        "url": "https://open.spotify.com/album/1od06WJAGRxwQvXOQjOydn"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1os Dorados",
+          "url": "https://open.spotify.com/artist/1Gxd9wJiusIwHWSTt8Lk8y"
+        },
+        {
+          "name": "Crewrod",
+          "url": "https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk"
+        }
+      ],
+      "duration_ms": 266862,
+      "name": "Hipercandombe",
+      "url": "https://open.spotify.com/track/0W3bp85BMhC5Gxb1s9JY7u"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Desconsuelo",
+        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
+      },
+      "artists": [
+        {
+          "name": "DOJO",
+          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
+        }
+      ],
+      "duration_ms": 243126,
+      "name": "Desconsuelo",
+      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Que te iba a Decir",
         "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Desconsuelo",
-        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
+        "name": "Razon",
+        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
       },
       "artists": [
         {
-          "name": "DOJO",
-          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
+          "name": "Francisco Bochat\u00f3n",
+          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
         }
       ],
-      "duration_ms": 243126,
-      "name": "Desconsuelo",
-      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
+      "duration_ms": 179658,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1523,22 +1539,6 @@
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Razon",
-        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
-      },
-      "artists": [
-        {
-          "name": "Francisco Bochat\u00f3n",
-          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
-        }
-      ],
-      "duration_ms": 179658,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
     },
     {
       "added_at": "2024-11-22 03:00:00",

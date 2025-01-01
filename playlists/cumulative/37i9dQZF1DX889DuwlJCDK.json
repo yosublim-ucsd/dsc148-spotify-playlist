@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "caffeine",
+        "url": "https://open.spotify.com/album/01POmNby9TUceHjE7szVVE"
+      },
+      "artists": [
+        {
+          "name": "\u4e0d\u7720\u65c5\u884c",
+          "url": "https://open.spotify.com/artist/7GgnNRjBrWIBC9rDzxLBwm"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "caffeine",
+      "url": "https://open.spotify.com/track/3EPHO38noF6taQqdugjQRr"
+    },
+    {
+      "album": {
         "name": "Candle",
         "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
       },
@@ -9792,7 +9810,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 213666,
       "name": "\u30cd\u30d0\u30fc\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/2CekXhKBUmnBOKdy9ATx6W"

@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Zuza Jab\u0142o\u0144ska",
-  "num_followers": 20949,
+  "num_followers": 20950,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-12-20 08:39:35",
       "album": {
-        "name": "Wi\u0119cej",
-        "url": "https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE"
-      },
-      "artists": [
-        {
-          "name": "Carla Fernandes",
-          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
-        }
-      ],
-      "duration_ms": 153024,
-      "name": "Wi\u0119cej",
-      "url": "https://open.spotify.com/track/73l4adiuFKirZH4umyzEog"
-    },
-    {
-      "added_at": "2024-12-20 08:39:35",
-      "album": {
         "name": "PLAYHOUSE",
         "url": "https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 191346,
       "name": "SALTY",
       "url": "https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ"
+    },
+    {
+      "added_at": "2024-12-20 08:39:35",
+      "album": {
+        "name": "Wi\u0119cej",
+        "url": "https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE"
+      },
+      "artists": [
+        {
+          "name": "Carla Fernandes",
+          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+        }
+      ],
+      "duration_ms": 153024,
+      "name": "Wi\u0119cej",
+      "url": "https://open.spotify.com/track/73l4adiuFKirZH4umyzEog"
     },
     {
       "added_at": "2024-12-20 08:39:35",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-12-20 08:39:35",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/4QDtR0UNxUf5JFn90ppg8Z"
-      },
-      "artists": [
-        {
-          "name": "PHERO",
-          "url": "https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/4S6Eey9SnDruEADx0ojzZJ"
-    },
-    {
-      "added_at": "2024-12-20 08:39:35",
-      "album": {
         "name": "Danse Macabre",
         "url": "https://open.spotify.com/album/01Ud1JJmY6UbrqjMOQa8rt"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 167581,
       "name": "Danse Macabre",
       "url": "https://open.spotify.com/track/6q3mJXFVhnRuECh5qyM0wM"
+    },
+    {
+      "added_at": "2024-12-20 08:39:35",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/4QDtR0UNxUf5JFn90ppg8Z"
+      },
+      "artists": [
+        {
+          "name": "PHERO",
+          "url": "https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4S6Eey9SnDruEADx0ojzZJ"
     },
     {
       "added_at": "2024-12-20 08:39:35",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-12-20 08:39:35",
       "album": {
+        "name": "Nagie Cia\u0142a",
+        "url": "https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR"
+      },
+      "artists": [
+        {
+          "name": "KONRAD",
+          "url": "https://open.spotify.com/artist/1TgEw7mL5WngIOffVvNuAn"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "Nagie Cia\u0142a",
+      "url": "https://open.spotify.com/track/2oSEUSC3loQDRYsyFJuxoE"
+    },
+    {
+      "added_at": "2024-12-20 08:39:35",
+      "album": {
         "name": "wspomnienie o",
         "url": "https://open.spotify.com/album/0fZNrgtdOGYG4yILi1TaNA"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-12-20 08:39:35",
       "album": {
-        "name": "nieoczywiste",
-        "url": "https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1"
-      },
-      "artists": [
-        {
-          "name": "Julia Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "nieoczywiste",
-      "url": "https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ"
-    },
-    {
-      "added_at": "2024-12-20 08:39:35",
-      "album": {
         "name": "kochaj na serio",
         "url": "https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-12-20 08:39:35",
       "album": {
-        "name": "Nagie Cia\u0142a",
-        "url": "https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR"
+        "name": "nieoczywiste",
+        "url": "https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1"
       },
       "artists": [
         {
-          "name": "KONRAD",
-          "url": "https://open.spotify.com/artist/1TgEw7mL5WngIOffVvNuAn"
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
         }
       ],
-      "duration_ms": 190843,
-      "name": "Nagie Cia\u0142a",
-      "url": "https://open.spotify.com/track/2oSEUSC3loQDRYsyFJuxoE"
+      "duration_ms": 154000,
+      "name": "nieoczywiste",
+      "url": "https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ"
     },
     {
       "added_at": "2024-12-20 08:39:35",
@@ -884,13 +884,29 @@
           "url": "https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz"
         },
         {
-          "name": "Mikolaj Blascello",
+          "name": "Miko Blascello",
           "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
         }
       ],
       "duration_ms": 120000,
       "name": "Pastelowe Kredki",
       "url": "https://open.spotify.com/track/3KQOxCDBSeg6Bid2qYsQw3"
+    },
+    {
+      "added_at": "2024-12-20 08:39:35",
+      "album": {
+        "name": "Powiedz",
+        "url": "https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq"
+      },
+      "artists": [
+        {
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Powiedz",
+      "url": "https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM"
     },
     {
       "added_at": "2024-12-20 08:39:35",
@@ -911,22 +927,6 @@
       "duration_ms": 166857,
       "name": "Wsch\u00f3d",
       "url": "https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh"
-    },
-    {
-      "added_at": "2024-12-20 08:39:35",
-      "album": {
-        "name": "Powiedz",
-        "url": "https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq"
-      },
-      "artists": [
-        {
-          "name": "Maja Krzy\u017cewska",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "Powiedz",
-      "url": "https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM"
     },
     {
       "added_at": "2024-12-20 08:39:35",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-12-20 08:39:35",
       "album": {
-        "name": "Wonderful",
-        "url": "https://open.spotify.com/album/4s70qBQDzfGfvWmKnOxIxV"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 174166,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/3IOQ1Mlfs0Jcw0I4jksFlU"
-    },
-    {
-      "added_at": "2024-12-20 08:39:35",
-      "album": {
         "name": "z papieru",
         "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 142336,
       "name": "Gadu\u0142a",
       "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
+    },
+    {
+      "added_at": "2024-12-20 08:39:35",
+      "album": {
+        "name": "Wonderful",
+        "url": "https://open.spotify.com/album/4s70qBQDzfGfvWmKnOxIxV"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 174166,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/3IOQ1Mlfs0Jcw0I4jksFlU"
     },
     {
       "added_at": "2024-12-20 08:39:35",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-12-20 08:39:35",
       "album": {
-        "name": "#omg",
-        "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
-      },
-      "artists": [
-        {
-          "name": "hubithekid",
-          "url": "https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd"
-        }
-      ],
-      "duration_ms": 126427,
-      "name": "#omg",
-      "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
-    },
-    {
-      "added_at": "2024-12-20 08:39:35",
-      "album": {
         "name": "+2 z\u0142amane serca",
         "url": "https://open.spotify.com/album/4fBcQOqgdE9n0SCvGhNKff"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-12-20 08:39:35",
       "album": {
-        "name": "Dom",
-        "url": "https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF"
+        "name": "#omg",
+        "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
       },
       "artists": [
         {
-          "name": "PHERO",
-          "url": "https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM"
+          "name": "hubithekid",
+          "url": "https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd"
         }
       ],
-      "duration_ms": 184137,
-      "name": "Dom",
-      "url": "https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA"
+      "duration_ms": 126427,
+      "name": "#omg",
+      "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
     },
     {
       "added_at": "2024-12-20 08:39:35",
@@ -1263,6 +1247,22 @@
       "duration_ms": 170964,
       "name": "BLUZA",
       "url": "https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl"
+    },
+    {
+      "added_at": "2024-12-20 08:39:35",
+      "album": {
+        "name": "Dom",
+        "url": "https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF"
+      },
+      "artists": [
+        {
+          "name": "PHERO",
+          "url": "https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM"
+        }
+      ],
+      "duration_ms": 184137,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA"
     },
     {
       "added_at": "2024-12-20 08:39:35",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-12-20 08:39:35",
       "album": {
-        "name": "I like that",
-        "url": "https://open.spotify.com/album/0qNCipvVGfpKa2OZVLY6as"
+        "name": "lubi\u0119 patrze\u0107 na tw\u0105 bro\u0144",
+        "url": "https://open.spotify.com/album/6Wn64bI8wMIB66Zy0ReTHP"
       },
       "artists": [
         {
-          "name": "Elena",
-          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+          "name": "Patryk Krzysztof Molenda",
+          "url": "https://open.spotify.com/artist/3pxfM6pz8d8dXGriLKGyvG"
         }
       ],
-      "duration_ms": 135978,
-      "name": "I like that",
-      "url": "https://open.spotify.com/track/5cVrhm5TnQ3DVzrhCvcmeP"
+      "duration_ms": 181739,
+      "name": "lubi\u0119 patrze\u0107 na tw\u0105 bro\u0144",
+      "url": "https://open.spotify.com/track/1xgWsfJ8qmFhrvJ6NmP1UW"
     },
     {
       "added_at": "2024-12-20 08:39:35",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-12-20 08:39:35",
       "album": {
-        "name": "lubi\u0119 patrze\u0107 na tw\u0105 bro\u0144",
-        "url": "https://open.spotify.com/album/6Wn64bI8wMIB66Zy0ReTHP"
+        "name": "I like that",
+        "url": "https://open.spotify.com/album/0qNCipvVGfpKa2OZVLY6as"
       },
       "artists": [
         {
-          "name": "Patryk Krzysztof Molenda",
-          "url": "https://open.spotify.com/artist/3pxfM6pz8d8dXGriLKGyvG"
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
         }
       ],
-      "duration_ms": 181739,
-      "name": "lubi\u0119 patrze\u0107 na tw\u0105 bro\u0144",
-      "url": "https://open.spotify.com/track/1xgWsfJ8qmFhrvJ6NmP1UW"
+      "duration_ms": 135978,
+      "name": "I like that",
+      "url": "https://open.spotify.com/track/5cVrhm5TnQ3DVzrhCvcmeP"
     },
     {
       "added_at": "2024-12-20 08:39:35",

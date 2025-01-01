@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1476359,
+  "num_followers": 1476386,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/7j7ykLBxerILBLBc8AICJS"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/2hRMHB4ZEYrCBM0d0vVEdq"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Talking Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 220626,
       "name": "Bright",
       "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/7j7ykLBxerILBLBc8AICJS"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/2hRMHB4ZEYrCBM0d0vVEdq"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Happier (Acoustic)",
-        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206209,
-      "name": "Happier - Acoustic",
-      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 236733,
       "name": "Shouldn't Matter but It Does",
       "url": "https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Happier (Acoustic)",
+        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206209,
+      "name": "Happier - Acoustic",
+      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Castle on the Hill (Acoustic)",
-        "url": "https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn"
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 226226,
-      "name": "Castle on the Hill - Acoustic",
-      "url": "https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo"
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+        "name": "Castle on the Hill (Acoustic)",
+        "url": "https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+      "duration_ms": 226226,
+      "name": "Castle on the Hill - Acoustic",
+      "url": "https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Spotify Sessions (Live From Spotify, London)",
-        "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Take Me To Church - Live From Spotify, London",
-      "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "I'll Follow (Acoustic Version)",
         "url": "https://open.spotify.com/album/19QzmVXnHqFeomV8EMHir0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 198438,
       "name": "I'll Follow - Acoustic Version",
       "url": "https://open.spotify.com/track/7rzCPEXWAhEaTcr3ajFNuC"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Spotify Sessions (Live From Spotify, London)",
+        "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Take Me To Church - Live From Spotify, London",
+      "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
     },
     {
       "added_at": "2024-07-12 04:00:00",

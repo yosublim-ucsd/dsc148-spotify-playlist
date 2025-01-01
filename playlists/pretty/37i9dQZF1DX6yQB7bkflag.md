@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,403 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,407 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 84 | [+Matter](https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [+Matter](https://open.spotify.com/album/4nLDWr5orZvPtYwF0yrstO) | 3:52 |
 | 85 | [TOXIC](https://open.spotify.com/track/1H9C0PyfQAxiMBKvvDZK9N) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 3:10 |
 | 86 | [Out of My Mind](https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Wasting Away](https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD) | 2:48 |
-| 87 | [1 Cinta 2 Dunia](https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [1 Cinta 2 Dunia](https://open.spotify.com/album/4qU6koWCmPtsoKIeIt9iA7) | 3:35 |
+| 87 | [1 Cinta 2 Dunia \- From "Pacarku Jinny"](https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [1 Cinta 2 Dunia \- From "Pacarku Jinny"](https://open.spotify.com/album/4qU6koWCmPtsoKIeIt9iA7) | 3:35 |
 | 88 | [The Sun Will Cry](https://open.spotify.com/track/2qxVwFicRzUA71ftfrQUfY) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Sun Will Cry](https://open.spotify.com/album/1gxcOXXdPP7W8vafVmJhIX) | 3:19 |
 | 89 | [First December with You](https://open.spotify.com/track/0X1BZykE8ZMIeZLXrJB1EG) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [First December with You](https://open.spotify.com/album/0D6qtfGRCa4IrVhmXDG4WP) | 3:15 |
 | 90 | [Lanjutkan Perjuangan Kita!](https://open.spotify.com/track/1t3HDSnYKVW0MDyKcuUFyD) | [Gusti Irwan Wibowo](https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3) | [Lanjutkan Perjuangan Kita!](https://open.spotify.com/album/67rFsdqNvxkLSMPd7tuzVZ) | 4:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 209 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 209 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 78 | [State Of My Heart](https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [State Of My Heart](https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5) | 2:56 |
 | 79 | [The Plan](https://open.spotify.com/track/2ZifRK22Toszq5qHW2s864) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/3ak5dFCP9hgqrHttkH4d7o) | 2:47 |
 | 80 | [Keep Up](https://open.spotify.com/track/6yrOS1fhNjS9QjhoixoLTl) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw) | [Keep Up](https://open.spotify.com/album/2I5SvGoQtN6gBaIRJqNuDH) | 3:52 |
-| 81 | [R U](https://open.spotify.com/track/6epP2beWRSh6AP26lUbOtK) | [Niki & Gabi](https://open.spotify.com/artist/4ky35VlSWzD5iKz1eLFaUU) | [R U](https://open.spotify.com/album/6G6twzTnQY9p9veTfnzGqo) | 2:57 |
-| 82 | [Waste](https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:31 |
-| 83 | [Up](https://open.spotify.com/track/3Te82fmptIksFvtNyYnNmw) | [Star Darlings](https://open.spotify.com/artist/3zFQEqIi3Q1RJ4O37M7nuw) | [Up](https://open.spotify.com/album/1LLxgahQlYvXMvPeKNbgmh) | 3:05 |
-| 84 | [Good Times \(Bonus Track\)](https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:31 |
+| 81 | [Waste](https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:31 |
+| 82 | [R U](https://open.spotify.com/track/6epP2beWRSh6AP26lUbOtK) | [Niki & Gabi](https://open.spotify.com/artist/4ky35VlSWzD5iKz1eLFaUU) | [R U](https://open.spotify.com/album/6G6twzTnQY9p9veTfnzGqo) | 2:57 |
+| 83 | [Good Times \(Bonus Track\)](https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:31 |
+| 84 | [Up](https://open.spotify.com/track/3Te82fmptIksFvtNyYnNmw) | [Star Darlings](https://open.spotify.com/artist/3zFQEqIi3Q1RJ4O37M7nuw) | [Up](https://open.spotify.com/album/1LLxgahQlYvXMvPeKNbgmh) | 3:05 |
 | 85 | [Nobody Fools Me Twice](https://open.spotify.com/track/15plYeh2zcYmW9CO1M9YzN) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Nobody Fools Me Twice](https://open.spotify.com/album/6rUA6B33RkZkjRJu2pEnAn) | 2:33 |
 | 86 | [When's It Gonna Happen](https://open.spotify.com/track/2wgfQ5XYZG1IRUf7pyrVSL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
 | 87 | [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 208 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 209 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbljvgAAAABipu7GzwimLCzS+18rj5dB`
+Snapshot ID: `AblpXwAAAAB222shhsluKd5Sd2H4yqVn`

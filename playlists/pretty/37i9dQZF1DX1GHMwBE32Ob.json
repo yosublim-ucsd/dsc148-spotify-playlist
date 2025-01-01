@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Pheelz",
-  "num_followers": 77035,
+  "num_followers": 77179,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-12-16 09:20:22",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+        "name": "Port-harcourt",
+        "url": "https://open.spotify.com/album/4SMOG66rrNEkmBnvYsIYdw"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Vicoka",
+          "url": "https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN"
         }
       ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+      "duration_ms": 170896,
+      "name": "Port-harcourt",
+      "url": "https://open.spotify.com/track/4mYrASGvrm2xBWQskhg2P3"
     },
     {
       "added_at": "2024-12-16 09:20:22",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-12-16 09:20:22",
       "album": {
-        "name": "Port-harcourt",
-        "url": "https://open.spotify.com/album/4SMOG66rrNEkmBnvYsIYdw"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
       "artists": [
         {
-          "name": "Vicoka",
-          "url": "https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 170896,
-      "name": "Port-harcourt",
-      "url": "https://open.spotify.com/track/4mYrASGvrm2xBWQskhg2P3"
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2024-12-16 09:20:22",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-12-16 09:20:22",
       "album": {
-        "name": "Abanikanda",
-        "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Abanikanda",
-      "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
-    },
-    {
-      "added_at": "2024-12-16 09:20:22",
-      "album": {
         "name": "Wale (Remix) [feat. Simi]",
         "url": "https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 188135,
       "name": "Wale (Remix) [feat. Simi]",
       "url": "https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS"
+    },
+    {
+      "added_at": "2024-12-16 09:20:22",
+      "album": {
+        "name": "Abanikanda",
+        "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Abanikanda",
+      "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
     },
     {
       "added_at": "2024-12-16 09:20:22",

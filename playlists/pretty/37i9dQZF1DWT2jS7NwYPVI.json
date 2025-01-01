@@ -1,6 +1,6 @@
 {
   "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Winona Fighter",
-  "num_followers": 454902,
+  "num_followers": 454916,
   "original_name": "New Noise",
   "owner": {
     "name": "Spotify",
@@ -56,12 +56,12 @@
       },
       "artists": [
         {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        },
-        {
           "name": "Distressor",
           "url": "https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf"
+        },
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         }
       ],
       "duration_ms": 264566,

@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: State Champs",
-  "num_followers": 586891,
+  "num_followers": 586923,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Letterman",
-        "url": "https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 181225,
-      "name": "Letterman",
-      "url": "https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Those Were The Days",
         "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 143995,
       "name": "Those Were The Days",
       "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "Letterman",
+        "url": "https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 181225,
+      "name": "Letterman",
+      "url": "https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "perfectly broken",
-        "url": "https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6"
-      },
-      "artists": [
-        {
-          "name": "Halflives",
-          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "perfectly broken",
-      "url": "https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Modern Love",
         "url": "https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 194959,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "perfectly broken",
+        "url": "https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6"
+      },
+      "artists": [
+        {
+          "name": "Halflives",
+          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "perfectly broken",
+      "url": "https://open.spotify.com/track/5gHPN5lCVzTd5yWEjspMn4"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Surgery",
-        "url": "https://open.spotify.com/album/16JRTDMzUqQfOe3GwaoWgs"
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
       },
       "artists": [
         {
-          "name": "Driveways",
-          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 211547,
-      "name": "Surgery",
-      "url": "https://open.spotify.com/track/6Piul7Qx0kKlYVx0Gil0t3"
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1319,38 +1319,34 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
       "artists": [
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
         }
       ],
-      "duration_ms": 179809,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
     },
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "No Point Pretending (Song For Tour)",
-        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
+        "name": "Surgery",
+        "url": "https://open.spotify.com/album/16JRTDMzUqQfOe3GwaoWgs"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Bears In Trees",
-          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
+          "name": "Driveways",
+          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
         }
       ],
-      "duration_ms": 179250,
-      "name": "No Point Pretending (Song For Tour)",
-      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
+      "duration_ms": 211547,
+      "name": "Surgery",
+      "url": "https://open.spotify.com/track/6Piul7Qx0kKlYVx0Gil0t3"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

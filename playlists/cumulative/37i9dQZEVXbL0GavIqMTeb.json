@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 170480,
       "name": "AMARGURA",
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
@@ -3558,6 +3558,28 @@
       "duration_ms": 194515,
       "name": "CAMPE\u00d3N",
       "url": "https://open.spotify.com/track/7IatvjEcXEeeXnHC2gMZ2j"
+    },
+    {
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
       "album": {
@@ -9352,7 +9374,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 198495,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
@@ -13240,6 +13262,24 @@
       "duration_ms": 121447,
       "name": "Me Pide M\u00e1s",
       "url": "https://open.spotify.com/track/5gKzZi9JbiTmJ5pE63ZKzK"
+    },
+    {
+      "album": {
+        "name": "Me Pongo Bonito",
+        "url": "https://open.spotify.com/album/5h93YjhE1yPWMwpBvwwSqW"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150952,
+      "name": "Me Pongo Bonito",
+      "url": "https://open.spotify.com/track/37jQuEDDTQDaxlgaKbGU2u"
     },
     {
       "album": {

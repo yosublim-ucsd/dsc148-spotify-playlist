@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAA20H+B8zouNwYAbo/pz0NK",
+  "snapshot_id": "AAAAAAAAAABfzXYdAyEh8q/MsBJTVpoe",
   "tracks": [
     {
       "added_at": "2024-12-27 05:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 135653,
-      "name": "Empty Out Your Pockets",
-      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
         "name": "Chest Pain (I Love)",
         "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 202000,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 135653,
+      "name": "Empty Out Your Pockets",
+      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        }
-      ],
-      "duration_ms": 183475,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
         "name": "Take Me to the Beach (feat. Ado)",
         "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
       },
@@ -215,6 +199,42 @@
       "duration_ms": 167066,
       "name": "Take Me to the Beach (feat. Ado)",
       "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        }
+      ],
+      "duration_ms": 183475,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -279,22 +299,18 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -339,22 +355,6 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "Whole Lotta Gang Shit",
-        "url": "https://open.spotify.com/album/6UJPFGGqDBc3xoIg80P6oT"
-      },
-      "artists": [
-        {
-          "name": "Tyler Cassidy",
-          "url": "https://open.spotify.com/artist/0PzvHyRUSw6pCcWi9BYfKk"
-        }
-      ],
-      "duration_ms": 208515,
-      "name": "Whole Lotta Gang Shit",
-      "url": "https://open.spotify.com/track/4BG0UryKdTnp60E53G61TT"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
         "name": "Missionary",
         "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
       },
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
         "name": "Lonely Road (feat. Terrace Martin)",
         "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "Six Songs",
-        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+        "name": "We Like It Here (Remixed + Remastered + Reimagined)",
+        "url": "https://open.spotify.com/album/1yQ4KgE3eTVDhEBsnfADCY"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
         }
       ],
-      "duration_ms": 246853,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+      "duration_ms": 578202,
+      "name": "Lingus - Alternate Take",
+      "url": "https://open.spotify.com/track/5jKq0VCeyGhvk8VxneKc2F"
     },
     {
       "added_at": "2024-12-27 05:00:00",
@@ -487,22 +503,6 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "We Like It Here (Remixed + Remastered + Reimagined)",
-        "url": "https://open.spotify.com/album/1yQ4KgE3eTVDhEBsnfADCY"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 578202,
-      "name": "Lingus - Alternate Take",
-      "url": "https://open.spotify.com/track/5jKq0VCeyGhvk8VxneKc2F"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
         "name": "Viking Juice (The Butcher Mix)",
         "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-12-27 05:00:00",
       "album": {
-        "name": "A Wonderful Holiday",
-        "url": "https://open.spotify.com/album/3X8ZzIzI0IdRQWmGv7h6uG"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Live In Love",
-      "url": "https://open.spotify.com/track/6ZBiQ0S0ZCHTOcflZAEfVd"
-    },
-    {
-      "added_at": "2024-12-27 05:00:00",
-      "album": {
         "name": "Frozyn Reign 2",
         "url": "https://open.spotify.com/album/5aA92FyDJgjWZV2PdLicM9"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 246377,
       "name": "Chi Mi Na Morbheanna - Unison Graduation Mix",
       "url": "https://open.spotify.com/track/49FbmTNqvepS3Fcl63FXyC"
+    },
+    {
+      "added_at": "2024-12-27 05:00:00",
+      "album": {
+        "name": "A Wonderful Holiday",
+        "url": "https://open.spotify.com/album/3X8ZzIzI0IdRQWmGv7h6uG"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Live In Love",
+      "url": "https://open.spotify.com/track/6ZBiQ0S0ZCHTOcflZAEfVd"
     },
     {
       "added_at": "2024-12-27 05:00:00",

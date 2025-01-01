@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 237188,
+  "num_followers": 237378,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,26 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Kumonga",
-        "url": "https://open.spotify.com/album/3HwFH9OrfxZekWw76FvXZl"
+        "name": "Eyes On You (Burt Cope Remix)",
+        "url": "https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7"
       },
       "artists": [
         {
-          "name": "Jantsen",
-          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
         },
         {
-          "name": "Ruvlo",
-          "url": "https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW"
+          "name": "SOULSTATE",
+          "url": "https://open.spotify.com/artist/00v8euXAAgPonp3i5g92ds"
+        },
+        {
+          "name": "Burt Cope",
+          "url": "https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs"
         }
       ],
-      "duration_ms": 185379,
-      "name": "Kumonga",
-      "url": "https://open.spotify.com/track/6EpVAOgIHf0FvzPBf5OM4t"
+      "duration_ms": 160000,
+      "name": "Eyes On You - Burt Cope Remix",
+      "url": "https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -851,26 +855,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Eyes On You (Burt Cope Remix)",
-        "url": "https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7"
+        "name": "Kumonga",
+        "url": "https://open.spotify.com/album/3HwFH9OrfxZekWw76FvXZl"
       },
       "artists": [
         {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+          "name": "Jantsen",
+          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
         },
         {
-          "name": "SOULSTATE",
-          "url": "https://open.spotify.com/artist/00v8euXAAgPonp3i5g92ds"
-        },
-        {
-          "name": "Burt Cope",
-          "url": "https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs"
+          "name": "Ruvlo",
+          "url": "https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Eyes On You - Burt Cope Remix",
-      "url": "https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5"
+      "duration_ms": 185379,
+      "name": "Kumonga",
+      "url": "https://open.spotify.com/track/6EpVAOgIHf0FvzPBf5OM4t"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1067,42 +1067,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "What About The DJ?",
-        "url": "https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 280554,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
-      },
-      "artists": [
-        {
-          "name": "Ashton Adams",
-          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 123241,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Dapper",
         "url": "https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj"
       },
@@ -1123,6 +1087,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "What About The DJ?",
+        "url": "https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 280554,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Wavelord Bizniz",
         "url": "https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 280656,
       "name": "Wavelord Bizniz",
       "url": "https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
+      },
+      "artists": [
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 123241,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Songs Of Praise",
-        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Songs Of Praise - Radio Edit",
-      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Badda (Sinais VIP)",
         "url": "https://open.spotify.com/album/4cFwI8Adp03Ecaw9CEhUtz"
       },
@@ -1299,38 +1279,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Really Tight",
-        "url": "https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ"
+        "name": "Songs Of Praise",
+        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
       },
       "artists": [
         {
-          "name": "Danny Dennett",
-          "url": "https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ"
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
         },
         {
-          "name": "Sando",
-          "url": "https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8"
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
         }
       ],
-      "duration_ms": 244444,
-      "name": "Really Tight",
-      "url": "https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+      "duration_ms": 176000,
+      "name": "Songs Of Praise - Radio Edit",
+      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1359,6 +1323,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Rude Boyz",
         "url": "https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 205454,
       "name": "Rude Boyz",
       "url": "https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Really Tight",
+        "url": "https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Dennett",
+          "url": "https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ"
+        },
+        {
+          "name": "Sando",
+          "url": "https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8"
+        }
+      ],
+      "duration_ms": 244444,
+      "name": "Really Tight",
+      "url": "https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L"
     },
     {
       "added_at": "2024-11-29 00:00:00",

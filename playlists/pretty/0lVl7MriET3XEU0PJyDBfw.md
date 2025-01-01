@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dancefloor \| SoundCloud mix series: Bassline Therapy Radio
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,962 likes - 100 songs - 5 hr 17 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,961 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 97 | [Hit The Floor](https://open.spotify.com/track/6lAs6I5E4seFitCEwLOIDs) | [Shdws](https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Discothèque Records Vol\. 5](https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI) | 3:05 |
 | 98 | [Personal](https://open.spotify.com/track/4fotLjvSrM90WLKQdSnFod) | [WHOWHENWHY](https://open.spotify.com/artist/5RiXLHmJCEhojilpOaK6FL), [Rise Of The JellyFish](https://open.spotify.com/artist/74u8W37qWfc4v3KINoc9wC) | [Personal](https://open.spotify.com/album/0R3bfLwpDq7n0kOlWSAQUx) | 2:48 |
 | 99 | [Street Race](https://open.spotify.com/track/13HYzCU2vcWXqOFsBvGayJ) | [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Discothèque Records Vol\. 5](https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI) | 2:59 |
-| 100 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 |
+| 100 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [TEKO](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 |
 
 Snapshot ID: `AAAazjPkbyxBnzBvZRYKPUjTtimlRI0b`

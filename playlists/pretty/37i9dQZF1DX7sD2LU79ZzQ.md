@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Aldi Haqq
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,443 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,487 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 88 | [Rima Raga](https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Rima Raga](https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR) | 3:13 |
 | 89 | [Manusia Super](https://open.spotify.com/track/62mI04lTuGDUmxuUSwhBHn) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Manusia Super](https://open.spotify.com/album/1WDCOetWYCDWz6N5OvgtF2) | 4:17 |
 | 90 | [Rindu](https://open.spotify.com/track/5smGKr16p9WR8D9xoe2UsZ) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Rindu](https://open.spotify.com/album/4J8B77nQZbFPclMIuJSyFK) | 2:45 |
-| 91 | [1 Cinta 2 Dunia](https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [1 Cinta 2 Dunia](https://open.spotify.com/album/4qU6koWCmPtsoKIeIt9iA7) | 3:35 |
+| 91 | [1 Cinta 2 Dunia \- From "Pacarku Jinny"](https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [1 Cinta 2 Dunia \- From "Pacarku Jinny"](https://open.spotify.com/album/4qU6koWCmPtsoKIeIt9iA7) | 3:35 |
 | 92 | [Apakah Kita Hanya Bercanda?](https://open.spotify.com/track/3uroWhtZvxgdQ2e3CzcQwD) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM) | [Apakah Kita Hanya Bercanda?](https://open.spotify.com/album/60ggqycnsEMeAHWpI42i7M) | 3:56 |
 | 93 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 |
 | 94 | [Ambisius](https://open.spotify.com/track/1KiBTXm0NBpiXBG8wxHPsP) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Ambisius](https://open.spotify.com/album/5DfEF9zKmFYD9JlIgLWJZf) | 3:07 |

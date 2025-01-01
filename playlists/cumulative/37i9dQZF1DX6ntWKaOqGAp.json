@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 199608,
       "name": "Alone and hallway window",
       "url": "https://open.spotify.com/track/1HVpMLk4rsUgSqIC2KAuiK"
@@ -5864,6 +5864,24 @@
       "duration_ms": 208333,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/0l1tFxUDrKYDnkCJkwZCv2"
+    },
+    {
+      "album": {
+        "name": "Happy Nante",
+        "url": "https://open.spotify.com/album/2B2IgbFuBorxh70ZQzM7nk"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202047,
+      "name": "Happy Nante",
+      "url": "https://open.spotify.com/track/5V4jRwekmH66FW2iO08LEN"
     },
     {
       "album": {
@@ -13162,7 +13180,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 237836,
       "name": "Same Blue",
       "url": "https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j"
@@ -15791,6 +15809,24 @@
     },
     {
       "album": {
+        "name": "Terra Boy",
+        "url": "https://open.spotify.com/album/6mn8aQ8GQNEzTnG2ImrTpt"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Terra Boy",
+      "url": "https://open.spotify.com/track/0aVsgABiI5e2gCx5lsxGj2"
+    },
+    {
+      "album": {
         "name": "The 1st chapter",
         "url": "https://open.spotify.com/album/61MfHl4QOaS3pHyP9WWg5v"
       },
@@ -15982,7 +16018,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 316608,
       "name": "This Night",
       "url": "https://open.spotify.com/track/2s6huLjIDsrn1fdpQShfDR"
@@ -31772,6 +31808,24 @@
       "duration_ms": 249677,
       "name": "\u6e26\u5e55",
       "url": "https://open.spotify.com/track/7pcTevAQGcz4HxeyXDKkRg"
+    },
+    {
+      "album": {
+        "name": "\u6e7f\u604b",
+        "url": "https://open.spotify.com/album/5EOJwlcs8uW6SU0qOC1wII"
+      },
+      "artists": [
+        {
+          "name": "Bye-Bye-Hand\u306e\u65b9\u7a0b\u5f0f",
+          "url": "https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311226,
+      "name": "\u6e7f\u604b",
+      "url": "https://open.spotify.com/track/33ewKvzmWZIBPdhNjSJ0XP"
     },
     {
       "album": {

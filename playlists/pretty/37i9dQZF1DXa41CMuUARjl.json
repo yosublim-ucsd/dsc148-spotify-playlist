@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Lilly Palmer",
-  "num_followers": 506787,
+  "num_followers": 506905,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -327,26 +327,6 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "REMEMBER",
-        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Tim Ayre",
-          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "REMEMBER",
-      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/7yAYrrZuBXeQHc161gqIyO"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 335267,
       "name": "Freedom Of The Night - Claptone Remix",
       "url": "https://open.spotify.com/track/72PGpccRP9XOH2HacT7t8J"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "REMEMBER",
+        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Tim Ayre",
+          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
+        "name": "Frankie Knuckles",
+        "url": "https://open.spotify.com/album/16LjPG5rGfRhrHuAYRRy09"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "Frankie Knuckles",
+      "url": "https://open.spotify.com/track/7Fkoz65bhhz0Nd11O3FHf7"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
         "name": "Wheels On The Bus",
         "url": "https://open.spotify.com/album/73J8IC9SvSVipbD3oX7sXE"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 156818,
       "name": "Wheels On The Bus - AHEE Remix",
       "url": "https://open.spotify.com/track/0T29c5wd8IvPdcMSaNlr4f"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
-        "name": "Frankie Knuckles",
-        "url": "https://open.spotify.com/album/16LjPG5rGfRhrHuAYRRy09"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Frankie Knuckles",
-      "url": "https://open.spotify.com/track/7Fkoz65bhhz0Nd11O3FHf7"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Sugarphoria",
-        "url": "https://open.spotify.com/album/7k4moiK12J18IGGYUVKy26"
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/1fqL0LBvs9NY4zOGyMZd3J"
       },
       "artists": [
         {
-          "name": "Richard Durand",
-          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+          "name": "Calippo",
+          "url": "https://open.spotify.com/artist/5Nngx6kSXmrSiL248sEwmT"
         }
       ],
-      "duration_ms": 233043,
-      "name": "Sugarphoria",
-      "url": "https://open.spotify.com/track/7hT5j60wxz2u9INdnY5FOM"
+      "duration_ms": 194146,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/4hdQeWZqzS8NAAvu9r65KA"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "AWAY VIP",
-        "url": "https://open.spotify.com/album/2FWCJG2bYdaLkVttaQX833"
+        "name": "Sugarphoria",
+        "url": "https://open.spotify.com/album/7k4moiK12J18IGGYUVKy26"
       },
       "artists": [
         {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
         }
       ],
-      "duration_ms": 268800,
-      "name": "AWAY VIP",
-      "url": "https://open.spotify.com/track/011XhtXKpXHIBTh5HVGy9R"
+      "duration_ms": 233043,
+      "name": "Sugarphoria",
+      "url": "https://open.spotify.com/track/7hT5j60wxz2u9INdnY5FOM"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -679,22 +679,6 @@
       "duration_ms": 165517,
       "name": "NEEDED ME.",
       "url": "https://open.spotify.com/track/6ril4Ejx11yxGqkoIzJ9A6"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/6Hy9sSZfJd3zLASt6xGin7"
-      },
-      "artists": [
-        {
-          "name": "Boogie Hill Faders",
-          "url": "https://open.spotify.com/artist/0g5qve0kT9YgAHypxrzURK"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/1LzZ9FPcujMWYL3CxzPbwr"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -723,6 +707,38 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
+        "name": "AWAY VIP",
+        "url": "https://open.spotify.com/album/2FWCJG2bYdaLkVttaQX833"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "AWAY VIP",
+      "url": "https://open.spotify.com/track/011XhtXKpXHIBTh5HVGy9R"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/6Hy9sSZfJd3zLASt6xGin7"
+      },
+      "artists": [
+        {
+          "name": "Boogie Hill Faders",
+          "url": "https://open.spotify.com/artist/0g5qve0kT9YgAHypxrzURK"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/1LzZ9FPcujMWYL3CxzPbwr"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
         "name": "Give Me Love",
         "url": "https://open.spotify.com/album/41IaxN1tbSErs5FiKcWr12"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 133500,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/6v1UcG6R8qaPPCZTWXE2ag"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
-        "name": "My Mind",
-        "url": "https://open.spotify.com/album/1fqL0LBvs9NY4zOGyMZd3J"
-      },
-      "artists": [
-        {
-          "name": "Calippo",
-          "url": "https://open.spotify.com/artist/5Nngx6kSXmrSiL248sEwmT"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/4hdQeWZqzS8NAAvu9r65KA"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Dead Inside",
-        "url": "https://open.spotify.com/album/2yDVOgdnfh0jkDjrU1ZVJ7"
-      },
-      "artists": [
-        {
-          "name": "JustLuke",
-          "url": "https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/53fnXLNJ8A8t7MpSluqAaq"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/78XnfLsZzEE4LVfgSjHdKE"
       },
@@ -883,22 +867,6 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Best of Sirup Music 2024",
-        "url": "https://open.spotify.com/album/4fppCW5wn0skNaeOZXSjqB"
-      },
-      "artists": [
-        {
-          "name": "Andrea Terramossi",
-          "url": "https://open.spotify.com/artist/64If46LBT08uqnrpHnf5NF"
-        }
-      ],
-      "duration_ms": 251144,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/5JJSclnvYXjVWgw4iO8KPy"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/2KaDDcqREAmOeGfJhkHLDl"
       },
@@ -919,6 +887,22 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
+        "name": "Dead Inside",
+        "url": "https://open.spotify.com/album/2yDVOgdnfh0jkDjrU1ZVJ7"
+      },
+      "artists": [
+        {
+          "name": "JustLuke",
+          "url": "https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/53fnXLNJ8A8t7MpSluqAaq"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
         "name": "Cyberpsycho",
         "url": "https://open.spotify.com/album/01ETGipY4xoeIu7Zys6RJJ"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 122758,
       "name": "Cyberpsycho",
       "url": "https://open.spotify.com/track/4qAbOhTUl1W0xrDyEmfA2s"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "Best of Sirup Music 2024",
+        "url": "https://open.spotify.com/album/4fppCW5wn0skNaeOZXSjqB"
+      },
+      "artists": [
+        {
+          "name": "Andrea Terramossi",
+          "url": "https://open.spotify.com/artist/64If46LBT08uqnrpHnf5NF"
+        }
+      ],
+      "duration_ms": 251144,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/5JJSclnvYXjVWgw4iO8KPy"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -959,6 +959,38 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
+        "name": "The Dream That Never Ends",
+        "url": "https://open.spotify.com/album/1vqWl4ruJWmHIbroVSXBK3"
+      },
+      "artists": [
+        {
+          "name": "Henri (BR)",
+          "url": "https://open.spotify.com/artist/0Du9SjGFzfg4SF7LoXAovo"
+        }
+      ],
+      "duration_ms": 232097,
+      "name": "The Dream That Never Ends",
+      "url": "https://open.spotify.com/track/4pulSZzwtnqTpBhm8A1gWR"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "Heavyweight",
+        "url": "https://open.spotify.com/album/0DTnuAAPPlc8yfnToxKjhS"
+      },
+      "artists": [
+        {
+          "name": "Typhon",
+          "url": "https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/4XSpvXB6Weu3lB36WRBPVF"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
         "name": "Feed Your Soul",
         "url": "https://open.spotify.com/album/3AuVUzGrWlPULowuoxQgNG"
       },
@@ -971,6 +1003,22 @@
       "duration_ms": 145655,
       "name": "Feed Your Soul",
       "url": "https://open.spotify.com/track/4Z9iVbX9tnnVSR6HtCKXfD"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "ACTIVATE",
+        "url": "https://open.spotify.com/album/78J2MEF2cv3JZRA9JQ2auX"
+      },
+      "artists": [
+        {
+          "name": "KALL IT KHAOS",
+          "url": "https://open.spotify.com/artist/3dV4hBcolWMJtYV8D40J9c"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "ACTIVATE",
+      "url": "https://open.spotify.com/track/53wJfYQCV8DDBvaqgwZ9te"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -1003,66 +1051,22 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Heavyweight",
-        "url": "https://open.spotify.com/album/0DTnuAAPPlc8yfnToxKjhS"
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/04zPoc2zAh2Cby3gaeXUtU"
       },
       "artists": [
         {
-          "name": "Typhon",
-          "url": "https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Heavyweight",
-      "url": "https://open.spotify.com/track/4XSpvXB6Weu3lB36WRBPVF"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6xqHpG6DfASyUoOfmYYwwd"
-      },
-      "artists": [
+          "name": "Sebb Junior",
+          "url": "https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD"
+        },
         {
-          "name": "BVRNOUT",
-          "url": "https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU"
+          "name": "IDA fLO",
+          "url": "https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV"
         }
       ],
-      "duration_ms": 186562,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4wkTAbDflgnjc9VmrG42rR"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
-        "name": "ACTIVATE",
-        "url": "https://open.spotify.com/album/78J2MEF2cv3JZRA9JQ2auX"
-      },
-      "artists": [
-        {
-          "name": "KALL IT KHAOS",
-          "url": "https://open.spotify.com/artist/3dV4hBcolWMJtYV8D40J9c"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "ACTIVATE",
-      "url": "https://open.spotify.com/track/53wJfYQCV8DDBvaqgwZ9te"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
-        "name": "The Dream That Never Ends",
-        "url": "https://open.spotify.com/album/1vqWl4ruJWmHIbroVSXBK3"
-      },
-      "artists": [
-        {
-          "name": "Henri (BR)",
-          "url": "https://open.spotify.com/artist/0Du9SjGFzfg4SF7LoXAovo"
-        }
-      ],
-      "duration_ms": 232097,
-      "name": "The Dream That Never Ends",
-      "url": "https://open.spotify.com/track/4pulSZzwtnqTpBhm8A1gWR"
+      "duration_ms": 207812,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/5GMMv6js6IhxMcj54bCQg7"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "What I Need",
-        "url": "https://open.spotify.com/album/04zPoc2zAh2Cby3gaeXUtU"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6xqHpG6DfASyUoOfmYYwwd"
       },
       "artists": [
         {
-          "name": "Sebb Junior",
-          "url": "https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD"
-        },
-        {
-          "name": "IDA fLO",
-          "url": "https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV"
+          "name": "BVRNOUT",
+          "url": "https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU"
         }
       ],
-      "duration_ms": 207812,
-      "name": "What I Need",
-      "url": "https://open.spotify.com/track/5GMMv6js6IhxMcj54bCQg7"
+      "duration_ms": 186562,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4wkTAbDflgnjc9VmrG42rR"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/69HCcKcQ6j2U7KCucQH5Qq"
+      },
+      "artists": [
+        {
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
+        }
+      ],
+      "duration_ms": 105937,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/3ZSNidDkcVWfKNyQGvzdmU"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
         "name": "Coco Bongo",
         "url": "https://open.spotify.com/album/5R3JM5OgbDYhH6mL3E3qqy"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Eucalipto",
-        "url": "https://open.spotify.com/album/6hChXylHxvHlSdOV8lXKtj"
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/0v1A44NKYrvcTNMD7CBPC9"
       },
       "artists": [
         {
-          "name": "Massianello",
-          "url": "https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7"
+          "name": "ALEJANDRO",
+          "url": "https://open.spotify.com/artist/04qwzk49excRTxwyOJ66KR"
         }
       ],
-      "duration_ms": 249808,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/2EqVU21KNDeSEECAK4okyX"
+      "duration_ms": 200000,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/1ovAWZ4fuTWk5Ga7KdqAmk"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/0v1A44NKYrvcTNMD7CBPC9"
+        "name": "Eucalipto",
+        "url": "https://open.spotify.com/album/6hChXylHxvHlSdOV8lXKtj"
       },
       "artists": [
         {
-          "name": "ALEJANDRO",
-          "url": "https://open.spotify.com/artist/04qwzk49excRTxwyOJ66KR"
+          "name": "Massianello",
+          "url": "https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Alive Again",
-      "url": "https://open.spotify.com/track/1ovAWZ4fuTWk5Ga7KdqAmk"
+      "duration_ms": 249808,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/2EqVU21KNDeSEECAK4okyX"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/69HCcKcQ6j2U7KCucQH5Qq"
+        "name": "Wanna Give It Up",
+        "url": "https://open.spotify.com/album/26l2pWXQpyHAZNM4OY0DZJ"
       },
       "artists": [
         {
-          "name": "Thando",
-          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
+          "name": "Jonny Docherty",
+          "url": "https://open.spotify.com/artist/32imvSikMwNJ3nh0ARtVZP"
         }
       ],
-      "duration_ms": 105937,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/3ZSNidDkcVWfKNyQGvzdmU"
+      "duration_ms": 147840,
+      "name": "Wanna Give It Up",
+      "url": "https://open.spotify.com/track/6EaiBNZ1RONqHlzZXyae2h"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -1263,22 +1279,6 @@
       "duration_ms": 314386,
       "name": "Don't Tell Me - Hackney Soldiers Dub Mix",
       "url": "https://open.spotify.com/track/4ZnzF9cyXac6pcmMgvsRJm"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
-        "name": "Wanna Give It Up",
-        "url": "https://open.spotify.com/album/26l2pWXQpyHAZNM4OY0DZJ"
-      },
-      "artists": [
-        {
-          "name": "Jonny Docherty",
-          "url": "https://open.spotify.com/artist/32imvSikMwNJ3nh0ARtVZP"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Wanna Give It Up",
-      "url": "https://open.spotify.com/track/6EaiBNZ1RONqHlzZXyae2h"
     }
   ],
   "unique_name": "All New Dance",

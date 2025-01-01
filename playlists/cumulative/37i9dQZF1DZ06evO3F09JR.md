@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-148 songs - 15 hr 16 min
+149 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [CORRI](https://open.spotify.com/track/5AFHQZ2mgLhyk8MzY5z4X2) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 4:17 | 2023-07-30 | 2024-12-13 |
 | [Darkened Skies](https://open.spotify.com/track/1MUsuNmzi1f8KvtvkB5AI6) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 2:53 | 2022-12-30 | 2024-09-18 |
 | [Dell'influenza](https://open.spotify.com/track/45xOHZqCBlK3JHSFN1SaxA) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 3:55 | 2024-09-01 |  |
-| [Di passaggio](https://open.spotify.com/track/3gaEmxf6NoXZo2dhKqGi2C) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 4:52 | 2024-09-17 |  |
+| [Di passaggio](https://open.spotify.com/track/3gaEmxf6NoXZo2dhKqGi2C) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 4:52 | 2024-09-17 | 2025-01-01 |
 | [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2024-08-03 |  |
 | [Doggie Tattoo](https://open.spotify.com/track/2SCZ9BIG8enHSTKbRsZfPG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq) | [Dirty A.D.](https://open.spotify.com/album/4VYWrDOWysHeCogEzl6i2H) | 5:47 | 2024-01-27 | 2024-08-30 |
 | [Dormiveglia](https://open.spotify.com/track/178U2DVk3TaMR97viEdmn4) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 0:31 | 2024-10-07 | 2024-10-20 |
@@ -136,6 +136,7 @@
 | [Spettro V](https://open.spotify.com/track/42Lyb3FNr9Ezcspvo5A61l) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 9:20 | 2023-12-30 | 2024-07-20 |
 | [Splinter Hell](https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 4:06 | 2022-09-06 |  |
 | [Standing Vigilant](https://open.spotify.com/track/0JbyJNFiUr6HHhJHYzYoga) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:58 | 2022-12-03 | 2024-05-07 |
+| [Stella](https://open.spotify.com/track/7keRragmWrnvopHQrQSw4s) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 1](https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K) | 6:59 | 2025-01-01 |  |
 | [Sun](https://open.spotify.com/track/7676v3sYbrRj3gMncWzuvg) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 5:13 | 2022-05-29 |  |
 | [Terza Emosfera](https://open.spotify.com/track/45f3DBQNeenVkDNSvMfc9q) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 6:54 | 2024-01-11 | 2024-12-19 |
 | [The Arrow](https://open.spotify.com/track/05Q3tJhlDyHaQYKs8B6fsy) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:59 | 2023-04-30 | 2023-05-15 |

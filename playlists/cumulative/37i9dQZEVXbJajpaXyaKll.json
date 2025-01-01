@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145555,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
+    },
+    {
+      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -1058,7 +1080,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 238597,
       "name": "Anarqu\u00eda en Buenos Aires",
       "url": "https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4"
@@ -2320,7 +2342,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 170008,
       "name": "Blue Berries",
       "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
@@ -4220,7 +4242,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 154588,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6hWO2I9dnIFPtM076zQAfW"
@@ -4538,6 +4560,28 @@
       "duration_ms": 300373,
       "name": "De La Nada - Remix",
       "url": "https://open.spotify.com/track/2OfBHBXUv6G3PYFaiFYEEM"
+    },
+    {
+      "album": {
+        "name": "DE MARAVISHA",
+        "url": "https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203801,
+      "name": "DE MARAVISHA",
+      "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
     },
     {
       "album": {
@@ -5651,6 +5695,36 @@
     },
     {
       "album": {
+        "name": "El Pron\u00f3stico (feat. KINGTO) [Remix]",
+        "url": "https://open.spotify.com/album/4jW7ziXpCf6NBh6ir6AONT"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "KINGTO",
+          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254137,
+      "name": "El Pron\u00f3stico (feat. KINGTO) - Remix",
+      "url": "https://open.spotify.com/track/5mvTYuQdbn6igxS5hfX6fB"
+    },
+    {
+      "album": {
         "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
         "url": "https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR"
       },
@@ -6102,6 +6176,32 @@
       "duration_ms": 153609,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
+    },
+    {
+      "album": {
+        "name": "En Otra Vida - Versi\u00f3n Cuarteto",
+        "url": "https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "En Otra Vida - Versi\u00f3n Cuarteto",
+      "url": "https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE"
     },
     {
       "album": {
@@ -6900,7 +7000,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 150569,
       "name": "Faz de Chicote",
       "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
@@ -11320,7 +11420,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
@@ -12017,6 +12117,28 @@
     },
     {
       "album": {
+        "name": "Montagem Lunar Diamante",
+        "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        },
+        {
+          "name": "WXCHSXN",
+          "url": "https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185177,
+      "name": "Montagem Lunar Diamante - Slowed",
+      "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
+    },
+    {
+      "album": {
         "name": "MONTAGEM VOZES PROFUNDAS (TikTok Version)",
         "url": "https://open.spotify.com/album/58Uel2jPuFAf4bRiWHLYVz"
       },
@@ -12228,6 +12350,28 @@
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
+    },
+    {
+      "album": {
+        "name": "Movimento",
+        "url": "https://open.spotify.com/album/2WgXKvzEeOzrEX1giTWoHe"
+      },
+      "artists": [
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        },
+        {
+          "name": "Mc Tota",
+          "url": "https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120757,
+      "name": "Movimento",
+      "url": "https://open.spotify.com/track/04hNxUfb1FzsT9VViHjRLQ"
     },
     {
       "album": {
@@ -13444,7 +13588,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
@@ -13705,6 +13849,28 @@
     },
     {
       "album": {
+        "name": "Olvidarte (feat. Emilia)",
+        "url": "https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
+    },
+    {
+      "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
       },
@@ -13778,6 +13944,32 @@
       "duration_ms": 163862,
       "name": "ORO POR COBRE",
       "url": "https://open.spotify.com/track/2sOEhQs8YeH8t9WD6x7J6v"
+    },
+    {
+      "album": {
+        "name": "Outside (feat. Eladio Carrion)",
+        "url": "https://open.spotify.com/album/0ubXd0RwDuOGGvezK1izo5"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220131,
+      "name": "Outside (feat. Eladio Carrion)",
+      "url": "https://open.spotify.com/track/3Q8VqnLSMUU8nD0wZ1KQsT"
     },
     {
       "album": {
@@ -15278,7 +15470,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 182812,
       "name": "RAGE",
       "url": "https://open.spotify.com/track/2X1fivIip1sRlCfNjFfOCP"
@@ -16434,7 +16626,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 164000,
       "name": "Si Las Gatas Se Amotinan",
       "url": "https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0"
@@ -17330,7 +17522,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 120750,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/2Dy8d0Om8Yh1HZ5kZeo0eW"
@@ -19831,6 +20023,24 @@
     },
     {
       "album": {
+        "name": "Verte De Cerca",
+        "url": "https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Verte De Cerca",
+      "url": "https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE"
+    },
+    {
+      "album": {
         "name": "Viaje de Ida",
         "url": "https://open.spotify.com/album/5DdMn4yexdusfpW05ddQnR"
       },
@@ -20568,6 +20778,28 @@
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "album": {
+        "name": "Willy Tonka",
+        "url": "https://open.spotify.com/album/7pZG5VBMfZlFZjmQlxvbKK"
+      },
+      "artists": [
+        {
+          "name": "Tussiwarriors",
+          "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
+        },
+        {
+          "name": "Falke 912",
+          "url": "https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193526,
+      "name": "Willy Tonka",
+      "url": "https://open.spotify.com/track/0BzF7Bw4r3LICZ8gJkZhoI"
     },
     {
       "album": {

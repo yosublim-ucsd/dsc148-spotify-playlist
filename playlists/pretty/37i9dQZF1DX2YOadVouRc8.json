@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 31452,
+  "num_followers": 31473,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
-        "name": "Forever (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 155883,
-      "name": "Forever (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
-    },
-    {
-      "added_at": "2024-12-21 15:10:10",
-      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 212107,
       "name": "ecstasy (feat. Seun Kuti)",
       "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
+    },
+    {
+      "added_at": "2024-12-21 15:10:10",
+      "album": {
+        "name": "Forever (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 155883,
+      "name": "Forever (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
     },
     {
       "added_at": "2024-12-21 15:10:10",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
+        "name": "Painless Melody",
+        "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
         }
       ],
-      "duration_ms": 205000,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+      "duration_ms": 185567,
+      "name": "Painless Melody",
+      "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
     },
     {
       "added_at": "2024-12-21 15:10:10",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
-        "name": "Painless Melody",
-        "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
       "artists": [
         {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
         }
       ],
-      "duration_ms": 185567,
-      "name": "Painless Melody",
-      "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
+      "duration_ms": 205000,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
     },
     {
       "added_at": "2024-12-21 15:10:10",

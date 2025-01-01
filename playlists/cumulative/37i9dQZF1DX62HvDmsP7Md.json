@@ -174,7 +174,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 208386,
       "name": "Beamer, Benz, Or Bentley",
       "url": "https://open.spotify.com/track/0cNJ3huiV99wvUN1tmQLTL"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 298306,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 223266,
       "name": "Bow Wow (That's My Name) (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/5nwzfbcg8RPyZB72WwQBWA"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 197480,
       "name": "Breathe, Stretch, Shake (feat. P. Diddy)",
       "url": "https://open.spotify.com/track/5qjESLw4uzDNvG2V5QIoaS"
@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "There's Something About Remy-Based On A True Story (Explicit)",
+        "url": "https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO"
+      },
+      "artists": [
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219560,
+      "name": "Conceited (There's Something About Remy)",
+      "url": "https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn"
+    },
+    {
+      "album": {
         "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
@@ -506,7 +524,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
@@ -546,7 +564,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 231800,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
@@ -715,6 +733,28 @@
     },
     {
       "album": {
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266066,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+    },
+    {
+      "album": {
         "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
@@ -744,7 +784,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 285906,
       "name": "E.I.",
       "url": "https://open.spotify.com/track/703b51gh4ah7GYTYwKphj5"
@@ -973,6 +1013,28 @@
     },
     {
       "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+    },
+    {
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -1014,6 +1076,32 @@
       "duration_ms": 239546,
       "name": "Got Your Money (feat. Kelis)",
       "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+    },
+    {
+      "album": {
+        "name": "Sweatsuit",
+        "url": "https://open.spotify.com/album/3W18dxZsE9GnP8DQrnGeBW"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Ali & Gipp",
+          "url": "https://open.spotify.com/artist/01ZpL2TZ4QxYNDLc70RIiT"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "Grillz",
+      "url": "https://open.spotify.com/track/0Aqlt4N5h6rUtKnd09VXpr"
     },
     {
       "album": {
@@ -1110,7 +1198,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 314400,
       "name": "Holidae In",
       "url": "https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy"
@@ -1237,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "album": {
         "name": "Under Construction, Part II",
         "url": "https://open.spotify.com/album/0jfrooQp2CEzzX0kwwcnM9"
       },
@@ -1323,6 +1429,28 @@
     },
     {
       "album": {
+        "name": "New Joc City",
+        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
+      },
+      "artists": [
+        {
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241840,
+      "name": "It's Goin' Down (feat. Nitti)",
+      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
+    },
+    {
+      "album": {
         "name": "This Is Me...Then",
         "url": "https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2"
       },
@@ -1368,7 +1496,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 187840,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ"
@@ -1438,6 +1566,32 @@
       "duration_ms": 205120,
       "name": "Knuck If You Buck (feat. Lil' Scrappy)",
       "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
+    },
+    {
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F"
+      },
+      "artists": [
+        {
+          "name": "Terror Squad",
+          "url": "https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247426,
+      "name": "Lean Back",
+      "url": "https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"
     },
     {
       "album": {
@@ -1705,6 +1859,32 @@
     },
     {
       "album": {
+        "name": "Ms. New Booty",
+        "url": "https://open.spotify.com/album/6Nu5K9Mpb5qYi1e7DGESse"
+      },
+      "artists": [
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Ying Yang Twins",
+          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+        },
+        {
+          "name": "Mr. Collipark",
+          "url": "https://open.spotify.com/artist/3EtuDyQhDQYISGg1DU5qZj"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252653,
+      "name": "Ms. New Booty",
+      "url": "https://open.spotify.com/track/0k6HUzaRHpQ3eEWr1C7Esh"
+    },
+    {
+      "album": {
         "name": "Tease Me",
         "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
       },
@@ -1925,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "The Hunger For More",
+        "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/0B2ZuTLZnWQ6gz8RlNwBu1"
+    },
+    {
+      "album": {
         "name": "Miss E... So Addictive",
         "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
@@ -1940,7 +2138,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 252986,
       "name": "One Minute Man (feat. Ludacris)",
       "url": "https://open.spotify.com/track/0jG92AlXau21qgCQRxGLic"
@@ -2108,7 +2306,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 262826,
       "name": "Put It On Me",
       "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
@@ -2144,7 +2342,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 286426,
       "name": "Raise Up",
       "url": "https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN"
@@ -2174,6 +2372,28 @@
     {
       "album": {
         "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/2HWBPvQoaMFBF6krXyzpOv"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "City Spud",
+          "url": "https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291781,
+      "name": "Ride Wit Me",
+      "url": "https://open.spotify.com/track/06iMqWThw4w8fTFyccvOwr"
+    },
+    {
+      "album": {
+        "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
       "artists": [
@@ -2192,6 +2412,46 @@
       "duration_ms": 291781,
       "name": "Ride Wit Me",
       "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
+    },
+    {
+      "album": {
+        "name": "The Sound of Revenge",
+        "url": "https://open.spotify.com/album/31dzB4ULKZfOH71tuaBiR8"
+      },
+      "artists": [
+        {
+          "name": "Chamillionaire",
+          "url": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303053,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9"
+    },
+    {
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
+      },
+      "artists": [
+        {
+          "name": "Chingy",
+          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250746,
+      "name": "Right Thurr",
+      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
     },
     {
       "album": {
@@ -2280,7 +2540,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 293666,
       "name": "Shake Ya Tailfeather (feat. Nelly & Murphy Lee)",
       "url": "https://open.spotify.com/track/6EtkH6EfTfNLjUHKDylEym"
@@ -2324,7 +2584,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 173159,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW"
@@ -2394,7 +2654,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 236800,
       "name": "Still Not a Player (feat. Joe) - Radio Version",
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
@@ -2478,7 +2738,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 234093,
       "name": "The Jump Off",
       "url": "https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6"
@@ -2547,6 +2807,28 @@
     },
     {
       "album": {
+        "name": "Rich Boy",
+        "url": "https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9"
+      },
+      "artists": [
+        {
+          "name": "Rich Boy",
+          "url": "https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut"
+        },
+        {
+          "name": "Polow Da Don",
+          "url": "https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263920,
+      "name": "Throw Some D's",
+      "url": "https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu"
+    },
+    {
+      "album": {
         "name": "Oh No It's Red Rat",
         "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
       },
@@ -2562,6 +2844,24 @@
       "duration_ms": 214160,
       "name": "Tight Up Skirt",
       "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
+    },
+    {
+      "album": {
+        "name": "Hood Hop",
+        "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
+      },
+      "artists": [
+        {
+          "name": "J-Kwon",
+          "url": "https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243226,
+      "name": "Tipsy - Club Mix",
+      "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
     },
     {
       "album": {
@@ -2652,7 +2952,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 265226,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/3ltqIDgVV4QSNDQPQ4y5kr"
@@ -2678,6 +2978,24 @@
       "duration_ms": 227266,
       "name": "Wait a Minute (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/7xwFOVYwBuLvFquLyfooRp"
+    },
+    {
+      "album": {
+        "name": "Hustler's P.o.m.e. (expanded Edition)",
+        "url": "https://open.spotify.com/album/1hQZhUdUREkPSgSde91rYb"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236080,
+      "name": "We Fly High",
+      "url": "https://open.spotify.com/track/5rXkgeY6rpcHcsolCpXZHR"
     },
     {
       "album": {
@@ -2868,7 +3186,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"

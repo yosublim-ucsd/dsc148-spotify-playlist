@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,441 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,472 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 19 | [Lighthouse In The Storm](https://open.spotify.com/track/6Dz2m989YE2ZkBaAFUTJRN) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Lighthouse In The Storm](https://open.spotify.com/album/1d1prH9L2YbnShwonY2BzS) | 2:58 |
 | 20 | [Pointless Wars](https://open.spotify.com/track/1873ew8rgH5knTN4SevdR6) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [The Doc's Experiment \- Proof 2](https://open.spotify.com/album/7BvSNbWDiKs4SjCuhZpzap) | 3:25 |
 | 21 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |
-| 22 | [Come Take My Hand \- Spiady Remix](https://open.spotify.com/track/7gX4bpFwdU52E2XKSCjFOw) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Come Take My Hand \(Spiady Remix\)](https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6) | 2:40 |
-| 23 | [Life's A Bitch](https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Life's A Bitch](https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI) | 3:33 |
+| 22 | [Life's A Bitch](https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Life's A Bitch](https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI) | 3:33 |
+| 23 | [Come Take My Hand \- Spiady Remix](https://open.spotify.com/track/7gX4bpFwdU52E2XKSCjFOw) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Come Take My Hand \(Spiady Remix\)](https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6) | 2:40 |
 | 24 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 |
 | 25 | [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 |
 | 26 | [Straight From Holland](https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Straight From Holland](https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH) | 2:01 |

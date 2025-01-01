@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Luke Combs",
-  "num_followers": 134773,
+  "num_followers": 134863,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
+        "name": "From The Road, Vol. 1: Covers",
+        "url": "https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 264892,
+      "name": "Margaritaville - Live at Coastal Credit Union Music Park at Walnut Creek, Raleigh, NC, 10.05.2023",
+      "url": "https://open.spotify.com/track/70OjE1ads6dRCLzMMYn6jU"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
         "name": "Waylon Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 184840,
       "name": "Good Hearted Woman - Live in Texas - September 1974",
       "url": "https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p"
-    },
-    {
-      "added_at": "2024-12-20 05:00:38",
-      "album": {
-        "name": "From The Road, Vol. 1: Covers",
-        "url": "https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 264892,
-      "name": "Margaritaville - Live at Coastal Credit Union Music Park at Walnut Creek, Raleigh, NC, 10.05.2023",
-      "url": "https://open.spotify.com/track/70OjE1ads6dRCLzMMYn6jU"
     },
     {
       "added_at": "2024-12-20 05:00:38",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "FISHIN' IN THE DARK (Live from the Road)",
-        "url": "https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 202865,
-      "name": "FISHIN' IN THE DARK - Live from the Road",
-      "url": "https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im"
-    },
-    {
-      "added_at": "2024-12-20 05:00:38",
-      "album": {
         "name": "Live At Texas Stadium",
         "url": "https://open.spotify.com/album/1MhN4KKinx1vNTGmjlobfK"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 236613,
       "name": "It's 5 O'Clock Somewhere - Live",
       "url": "https://open.spotify.com/track/2rDJ3cYYaLu5MkwkfN4YQj"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "FISHIN' IN THE DARK (Live from the Road)",
+        "url": "https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "duration_ms": 202865,
+      "name": "FISHIN' IN THE DARK - Live from the Road",
+      "url": "https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im"
     },
     {
       "added_at": "2024-12-20 05:00:38",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
-        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
-      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
-    },
-    {
-      "added_at": "2024-12-20 05:00:38",
-      "album": {
         "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
         "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 248853,
       "name": "Okie From Muskogee - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
+        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
+      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
     },
     {
       "added_at": "2024-12-20 05:00:38",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "(If You're Not In It For Love) I'm Outta Here! - Live",
-      "url": "https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4"
-    },
-    {
-      "added_at": "2024-12-20 05:00:38",
-      "album": {
         "name": "61 Days In Church Volume 1",
         "url": "https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 259758,
       "name": "Talladega - Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017",
       "url": "https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 297640,
+      "name": "(If You're Not In It For Love) I'm Outta Here! - Live",
+      "url": "https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4"
     },
     {
       "added_at": "2024-12-20 05:00:38",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "Restless (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ecuNAudkzhKkokkXS7xXa"
-      },
-      "artists": [
-        {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
-        }
-      ],
-      "duration_ms": 233241,
-      "name": "Suds in the Bucket - Live at West Virginia University Creative Arts Center, Morgantown, West Virginia - Aug. 28, 2004",
-      "url": "https://open.spotify.com/track/2TafupUYnuVWEMdJuM9M4q"
-    },
-    {
-      "added_at": "2024-12-20 05:00:38",
-      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/4LCKLiSDG78CCZf7BGYC7V"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2024-12-20 05:00:38",
       "album": {
-        "name": "Wreckage (Live)",
-        "url": "https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O"
+        "name": "Restless (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ecuNAudkzhKkokkXS7xXa"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
         }
       ],
-      "duration_ms": 211773,
-      "name": "Wreckage - Live",
-      "url": "https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb"
+      "duration_ms": 233241,
+      "name": "Suds in the Bucket - Live at West Virginia University Creative Arts Center, Morgantown, West Virginia - Aug. 28, 2004",
+      "url": "https://open.spotify.com/track/2TafupUYnuVWEMdJuM9M4q"
     },
     {
       "added_at": "2024-12-20 05:00:38",
@@ -1659,6 +1643,22 @@
       "duration_ms": 111426,
       "name": "Blue Moon Of Kentucky - Live",
       "url": "https://open.spotify.com/track/6rdDgfXHDv7LMoHInLXzAI"
+    },
+    {
+      "added_at": "2024-12-20 05:00:38",
+      "album": {
+        "name": "Wreckage (Live)",
+        "url": "https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 211773,
+      "name": "Wreckage - Live",
+      "url": "https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb"
     },
     {
       "added_at": "2024-12-20 05:00:38",

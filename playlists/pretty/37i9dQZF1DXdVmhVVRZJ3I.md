@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,585 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,654 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 30 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 |
 | 31 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 |
 | 32 | [Ridin' Dirty](https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [NXNJAS](https://open.spotify.com/artist/3NiiV7QNgurciXVAmr2C7o), [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb) | [Ridin' Dirty](https://open.spotify.com/album/5mnLXTacNtrmWrchALjk4A) | 2:49 |
-| 33 | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ) | 3:00 |
+| 33 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 |
 | 34 | [The Wall](https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [The Wall](https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a) | 2:39 |
-| 35 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 |
+| 35 | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Adrenalina \(Minha Gasolina\)](https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ) | 3:00 |
 | 36 | [I Love It](https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [I Love It](https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh) | 2:46 |
 | 37 | [Dynamite](https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dynamite](https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW) | 2:05 |
 | 38 | [One Million](https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [LOTTEN](https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D) | [One Million](https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA) | 3:07 |

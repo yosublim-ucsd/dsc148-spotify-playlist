@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 375425,
+  "num_followers": 375651,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,26 @@
     {
       "added_at": "2024-12-09 15:36:14",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "duration_ms": 259023,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
+    },
+    {
+      "added_at": "2024-12-09 15:36:14",
+      "album": {
         "name": "Direct Dizko",
         "url": "https://open.spotify.com/album/6RvM8Eu3uDTonjyetFmWd0"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 199178,
       "name": "Direct Dizko",
       "url": "https://open.spotify.com/track/2L0G811PkI9e8vr1YZir2T"
-    },
-    {
-      "added_at": "2024-12-09 15:36:14",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
-        }
-      ],
-      "duration_ms": 259023,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
     },
     {
       "added_at": "2024-12-09 15:36:14",

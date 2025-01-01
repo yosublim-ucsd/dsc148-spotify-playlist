@@ -4,7 +4,7 @@
 
 > New music by Myke Towers, Bad Bunny, Hamilton and more! Updates every Friday.
 
-8,614 songs - 18 day 18 hr 49 min
+8,615 songs - 18 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2516,7 +2516,7 @@
 | [El Rezado \- En Vivo](https://open.spotify.com/track/4oMcfG82bPjArsCUu7gLfW) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Rezado \(En Vivo\)](https://open.spotify.com/album/2InTHqP7dbNYWVy6RaGXES) | 4:21 | 2022-12-23 | 2023-01-06 |
 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-08-18 | 2023-08-26 |
 | [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Selección Colombia](https://open.spotify.com/artist/5qLqlZazggeL3HVtjuLhJy) | [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR) | 3:09 | 2024-06-14 | 2024-06-22 |
-| [El Rock Del Sapo](https://open.spotify.com/track/6prBYkqWhzpmrGtKTJ5Gou) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Pa Que Lo Baile](https://open.spotify.com/album/1jTJrIZuMJFirpbARGjQRQ) | 3:29 | 2024-12-20 |  |
+| [El Rock Del Sapo](https://open.spotify.com/track/6prBYkqWhzpmrGtKTJ5Gou) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Pa Que Lo Baile](https://open.spotify.com/album/1jTJrIZuMJFirpbARGjQRQ) | 3:29 | 2024-12-20 | 2025-01-01 |
 | [El Río](https://open.spotify.com/track/5IulrtbklYxOCrDEtJPtNz) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [El Río](https://open.spotify.com/album/1CIxFgXEjuJB6NQz2OvsF9) | 3:37 | 2024-07-05 | 2024-07-13 |
 | [El Sabio \- Remastered 2024](https://open.spotify.com/track/00fbQF4r4xGbblVPcgxIXi) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio \- Remastered 2024](https://open.spotify.com/album/2XpZFWuScnHHlaVcTrwLTX) | 4:31 | 2024-08-16 | 2024-08-24 |
 | [El Sabor del Viejo Mar](https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [El Sabor del Viejo Mar](https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1) | 4:23 | 2022-11-18 | 2022-11-26 |
@@ -4379,6 +4379,7 @@
 | [Lucifer](https://open.spotify.com/track/6mFLA8Tq4MlnhyUGV7Tf4I) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Lucifer](https://open.spotify.com/album/3ID0TDMh101kcidA9TrwWr) | 2:54 | 2022-05-20 | 2022-05-28 |
 | [LUCIFER](https://open.spotify.com/track/5je8fJ6efwRi7o15TGhBQF) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [LUCIFER](https://open.spotify.com/album/4mW4ef2qVsc2sR75G0Zg6e) | 9:42 | 2024-11-29 | 2024-12-07 |
 | [Luciérnagas](https://open.spotify.com/track/38V8CXMQB7p5BNyZX3p7kj) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Luciérnagas](https://open.spotify.com/album/3RzTmjHzkHBvRv6OE2oxcd) | 3:55 | 2022-05-27 | 2022-06-04 |
+| [Luck Ra: Bzrp Music Sessions, Vol\. 61](https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra: Bzrp Music Sessions, Vol\. 61](https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX) | 2:50 | 2024-12-31 |  |
 | [LUCKY](https://open.spotify.com/track/0OzysK1sekliOPmjfZN012) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [LUCKY](https://open.spotify.com/album/02DivqxTndFI6660gCTg5b) | 2:47 | 2024-06-14 | 2024-06-22 |
 | [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 | 2024-07-05 | 2024-07-13 |
 | [Lugar Perfeito](https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:32 | 2024-12-06 | 2024-12-14 |

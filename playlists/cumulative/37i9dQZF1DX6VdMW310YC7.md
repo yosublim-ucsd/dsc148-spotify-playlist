@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,712 songs - 4 day 21 hr 6 min
+1,713 songs - 4 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Clearest Blue \- Gryffin Remix](https://open.spotify.com/track/5JNOYtRd2E9QiwosqMCBmZ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Every Open Eye \(Extended Edition\)](https://open.spotify.com/album/0ytgAfCjv6U5BMEDrQgCwX) | 4:19 | 2020-05-18 | 2020-07-03 |
 | [Close The Distance](https://open.spotify.com/track/4IDMl69TvBwp6uZtshUTU7) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Close The Distance / A Matter Of Chance](https://open.spotify.com/album/3YRlJNIUwdjOfcZlH0GpNo) | 5:55 | 2024-04-19 | 2024-05-10 |
 | [Close to You](https://open.spotify.com/track/30c3t4nCmnst0ink5jMpJR) | [Platonic Penguins](https://open.spotify.com/artist/12W4ebUWcTwgkXafxS6Vtm) | [Close to You](https://open.spotify.com/album/6WtQdf95tahhXN2OPupN7H) | 2:46 | 2021-08-13 | 2022-07-29 |
-| [Close Your Eyes](https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Close Your Eyes](https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB) | 4:54 | 2024-10-25 |  |
+| [Close Your Eyes](https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Close Your Eyes](https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB) | 4:54 | 2024-10-25 | 2025-01-01 |
 | [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 | 2021-08-20 | 2022-10-13 |
 | [Closer](https://open.spotify.com/track/6o30i136QpwWOL2v98cSAd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:12 | 2022-01-21 | 2022-02-12 |
 | [Closer](https://open.spotify.com/track/7bDYzTFL2ksPttXvLsY0tE) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Brain Freeze](https://open.spotify.com/album/08fLzwK3ueT7etjpdinnRW) | 3:30 | 2020-05-22 | 2020-07-03 |
@@ -1556,6 +1556,7 @@
 | [Too Late \- Matt Lange Remix](https://open.spotify.com/track/45jpW4xaKt85uDw0tmiFKn) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Too Late \(Matt Lange Remix\)](https://open.spotify.com/album/327lYlhq7CIBlos2Ygez0N) | 6:17 | 2020-05-18 | 2020-07-03 |
 | [Too Much Is Never Enough](https://open.spotify.com/track/5vjcJbh2FQjdG4VXvw5xpK) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Too Much Is Never Enough](https://open.spotify.com/album/68whyuu4PI2N29zbsCWedP) | 5:25 | 2020-05-18 | 2020-07-18 |
 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 | 2021-10-01 | 2022-11-19 |
+| [Tore Me Up](https://open.spotify.com/track/2lzE9brm1tR9gCv1Ibbo9g) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Treyy G](https://open.spotify.com/artist/2vz513fFOvrrkuISQd1CYG), [BUBU](https://open.spotify.com/artist/0xhrjgTOUmwlMjRMZXmMWI) | [Tore Me Up](https://open.spotify.com/album/13QC7gtblaL6HDfPGEejIu) | 2:53 | 2024-12-20 |  |
 | [Train of Thoughts](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Train of Thoughts](https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD) | 3:26 | 2024-09-13 |  |
 | [Trance & Dental](https://open.spotify.com/track/3cSl4Y6AQIZDH5a8NqKvVe) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Bimini Road](https://open.spotify.com/album/7tUkPkjr6wCLfw2857F7iU) | 4:50 | 2020-02-29\* | 2020-03-16 |
 | [Trauma \- Joachim Pastor Remix](https://open.spotify.com/track/4cJXV6VDNDfDsMIbgGR6x1) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Trauma \(Joachim Pastor Remix\)](https://open.spotify.com/album/418t4gP0dy9sAM40ggCEAA) | 7:15 | 2020-05-18 | 2020-07-18 |

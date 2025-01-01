@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,653 likes - 118 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,671 likes - 118 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 4 | [We're Back](https://open.spotify.com/track/4ccPytrpiAdtn7mFrNBGYP) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm) | [Moana 2 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sfMOMBaJJyCh9HXdjrocJ) | 3:11 |
 | 5 | [Tell Me It's You](https://open.spotify.com/track/43csUf0WE93o0XVMNVwBkh) | [Ukon Onoe](https://open.spotify.com/artist/7DoMnFFz0cFAIuvnvLaQBx), [MARIA\-E](https://open.spotify.com/artist/3RDpxOMXlT17ZLv6bepBS6) | [Mufasa: The Lion King \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1GfQs8dWxfnYdJ7bCD90pU) | 2:27 |
 | 6 | [Can I Get A Chee Hoo?](https://open.spotify.com/track/4YV2XVjmC88uUCrjTaRt4k) | [Matsuya Onoe](https://open.spotify.com/artist/1oscjydxGcEEGBDMwkjHBl) | [Moana 2 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sfMOMBaJJyCh9HXdjrocJ) | 2:49 |
-| 7 | [Bye Bye](https://open.spotify.com/track/66ZFUsmIjEYSnKCZOEhzAJ) | [Ken Watanabe](https://open.spotify.com/artist/1QcuwvsJaSyG4y8Z3Et6zE), [Lisa Ooki](https://open.spotify.com/artist/224s3zcCR8wOHYV4nE4OhO), [Saeko Suzuki](https://open.spotify.com/artist/6slBFejXc5oLl86V4NSdCq) | [Mufasa: The Lion King \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1GfQs8dWxfnYdJ7bCD90pU) | 2:15 |
+| 7 | [Bye Bye](https://open.spotify.com/track/66ZFUsmIjEYSnKCZOEhzAJ) | [Ken Watanabe](https://open.spotify.com/artist/1QcuwvsJaSyG4y8Z3Et6zE), [Lisa Ooki](https://open.spotify.com/artist/224s3zcCR8wOHYV4nE4OhO), [Saeko Suzuki](https://open.spotify.com/artist/5CUg8GPRGxhIcDPDwuRPJd) | [Mufasa: The Lion King \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1GfQs8dWxfnYdJ7bCD90pU) | 2:15 |
 | 8 | [Beyond \(End Credit Version\) \- From "Moana 2"/Japanese Soundtrack Version](https://open.spotify.com/track/5Vx6HQSKMyLItHfqrFszHU) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"/Japanese Soundtrack Version\]](https://open.spotify.com/album/0hyRZ5UY7OHiDtNBuqIvC5) | 3:16 |
 | 9 | [How Far I'll Go \- Japanese Version](https://open.spotify.com/track/4zNqKUl8mBixSJ9JgTanfS) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz) | [Moana \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/6EG3aBo1p7mVAgZSiMZbL0) | 2:43 |
 | 10 | [Brother Betrayed](https://open.spotify.com/track/3AQwY9gRxhTBvTyi9jm4D7) | [Genta Matsuda](https://open.spotify.com/artist/2QSjulpe13mkKrFBbfbMa4) | [Mufasa: The Lion King \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1GfQs8dWxfnYdJ7bCD90pU) | 1:37 |

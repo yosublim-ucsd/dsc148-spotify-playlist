@@ -4,7 +4,7 @@
 
 > 
 
-243 songs - 15 hr 37 min
+245 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Get Hyped](https://open.spotify.com/track/7dbBjMNdSuuUKAMHJVbYv0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Get Hyped](https://open.spotify.com/album/4YNhZdyR2LwcCzvVJq3S9M) | 3:17 | 2024-11-18 |  |
 | [Get On The Floor](https://open.spotify.com/track/4pLcVoeZbGRnid7stPrsWy) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Get On The Floor](https://open.spotify.com/album/7ypxsAkBOezGD31T616zv4) | 2:22 | 2023-07-20 |  |
 | [Giving Me Life](https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Giving Me Life](https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq) | 3:15 | 2024-03-08 | 2024-05-22 |
+| [Go Hard](https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Go Hard](https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0) | 2:56 | 2024-12-31 |  |
 | [Gonna Make You Sweat \(Everybody Dance Now\) \- Edit Mix](https://open.spotify.com/track/2j3kCSx9ljhPkk2tYuNVZH) | [Moreno Pezzolato](https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ) | [Gonna Make You Sweat \(Everybody Dance Now\) \(Edit\)](https://open.spotify.com/album/2pslnaxRj3AB3O7Tzv2wGg) | 2:38 | 2023-07-28 |  |
 | [GOOD FOR YOU](https://open.spotify.com/track/3EhUlT5FGsG9SNaKagJlEh) | [MEKKAWY](https://open.spotify.com/artist/0Ir4hjJIxt7uIhWZDUWY6x) | [THE CHOICE EP](https://open.spotify.com/album/1CJs0dhZNoBNNhdL9Jlsxo) | 2:44 | 2022-10-21 |  |
 | [Gospel](https://open.spotify.com/track/0Eqpd2ecXGxoLWBVFBBf1z) | [Brad King](https://open.spotify.com/artist/2q7LrIFZP6UIs73GFrkHPm) | [F That EP](https://open.spotify.com/album/5ZmskTPNKJpAbZQGRShiYP) | 3:30 | 2023-02-05 |  |
@@ -194,6 +195,7 @@
 | [Save Me](https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Save Me](https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj) | 2:44 | 2024-10-12 |  |
 | [Say Yeah](https://open.spotify.com/track/4b4ZjULhiyx7xmMlNhmRld) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Mahalia Fontaine](https://open.spotify.com/artist/1asOp99xmKnDYookkkt3il) | [Say Yeah](https://open.spotify.com/album/59BzHU0mtma193dlbdgdVF) | 3:09 | 2024-05-21 |  |
 | [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/2VcQUEGgTGfJLLjAM8iqLj) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Nothing But..\. House Party, Vol\. 09](https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8) | 4:41 | 2024-03-24 |  |
+| [Show Me A Love](https://open.spotify.com/track/6BJq2hkx8OjyuKkXSJpwsE) | [Adapter](https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V) | [Show Me A Love](https://open.spotify.com/album/6ttij5FtIxgHHKEyFV1mle) | 2:44 | 2024-12-31 |  |
 | [Simulator \- Odd Mob Remix](https://open.spotify.com/track/4qD0XHt0mCIoWxpCqTR08y) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Simulator \(Odd Mob Remix\)](https://open.spotify.com/album/1mdBato0ZhSOdtfY9FlNkZ) | 4:11 | 2024-07-24 |  |
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-04-05 |  |
 | [Smoke](https://open.spotify.com/track/5oAdBATu5QbXvBrtpCe0Mk) | [Mikey Barreneche](https://open.spotify.com/artist/7qGy8DUTeuBqoyN6gUf3gd) | [Smoke](https://open.spotify.com/album/52Bf1M1i2VhaV7izP9piKg) | 2:57 | 2023-04-01 |  |

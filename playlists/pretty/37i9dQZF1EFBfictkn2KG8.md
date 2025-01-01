@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 37 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55 likes - 37 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 16 | [22](https://open.spotify.com/track/3ZBeBPho2tpNn6vHcic9Jd) | [Sarah McTernan](https://open.spotify.com/artist/5KHDZuaKZOP6cJWRtSHWe8) | [22](https://open.spotify.com/album/7dakU6o0pVLhFyKOpBD1JY) | 2:53 |
 | 17 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 |
 | 18 | [Take My Crown](https://open.spotify.com/track/5Cw3g20qoXLGM8ACIeiXko) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [LittleKings](https://open.spotify.com/artist/7pSOgeenBhBEN5a5yHzxIS), [Kalkovich](https://open.spotify.com/artist/1FeiNJm4aeEJ97JnSMduTh) | [Take My Crown](https://open.spotify.com/album/1e1TUK852Wm9sw7cY46c8W) | 2:26 |
-| 19 | [Just Wanna Be With You](https://open.spotify.com/track/2MJKbbjmQSU80KA27ozSU7) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Just Wanna Be With You](https://open.spotify.com/album/5CtSAySz886wilKOAf6IfY) | 2:31 |
-| 20 | [Follow](https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Follow](https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ) | 2:32 |
+| 19 | [Follow](https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Follow](https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ) | 2:32 |
+| 20 | [Just Wanna Be With You](https://open.spotify.com/track/2MJKbbjmQSU80KA27ozSU7) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Just Wanna Be With You](https://open.spotify.com/album/5CtSAySz886wilKOAf6IfY) | 2:31 |
 | 21 | [How \(Do I Love You\)](https://open.spotify.com/track/1wNC6sLBGiN6WdnhCvE9SF) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How \(Do I Love You\)](https://open.spotify.com/album/2ELOXw40fZeu3WxJDlNa9S) | 2:34 |
 | 22 | [Break Through](https://open.spotify.com/track/4rFi6ScbWNQLNHcmfJeqzl) | [Preon](https://open.spotify.com/artist/53e6luchskqkXYn2ECFJJM), [David Bulla](https://open.spotify.com/artist/1m4dgoC8JY2DM5jNd11gK9), [Lars M](https://open.spotify.com/artist/0E1pXFeZDRIaKr1993EZEn) | [Break Through](https://open.spotify.com/album/2L27XU8NehlG8qDKphYdiE) | 3:11 |
 | 23 | [Rocket Ride](https://open.spotify.com/track/6rbT6gJufhm9a5xEmMlyc1) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rocket Ride](https://open.spotify.com/album/3728GQSE87KrGe2IYBGX9U) | 2:46 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 36 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 37 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AbljvgAAAAAenhgZxHnGYKOGIwfgZwqP`
+Snapshot ID: `AblpXwAAAAA0JRP+wN289s8Uz3NvLLWO`

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158853,
+  "num_followers": 158848,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -691,18 +691,22 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
+        "name": "N\u00e3o Quero Mais Nada",
+        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
       },
       "artists": [
         {
-          "name": "Roig",
-          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "L\u00edvia Neves",
+          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
         }
       ],
-      "duration_ms": 196729,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
+      "duration_ms": 213587,
+      "name": "N\u00e3o Quero Mais Nada",
+      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -723,22 +727,18 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "N\u00e3o Quero Mais Nada",
-        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
       },
       "artists": [
         {
-          "name": "S7lermo",
-          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
-        },
-        {
-          "name": "L\u00edvia Neves",
-          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
+          "name": "Roig",
+          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
         }
       ],
-      "duration_ms": 213587,
-      "name": "N\u00e3o Quero Mais Nada",
-      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
+      "duration_ms": 196729,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
+        "name": "Ela N\u00e3o Cansa",
+        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
+      },
+      "artists": [
+        {
+          "name": "Coffee Zk",
+          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        }
+      ],
+      "duration_ms": 174715,
+      "name": "Ela N\u00e3o Cansa",
+      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 193620,
       "name": "Mapa Astral",
       "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
-        "name": "Ela N\u00e3o Cansa",
-        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
-      },
-      "artists": [
-        {
-          "name": "Coffee Zk",
-          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
-        },
-        {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
-        }
-      ],
-      "duration_ms": 174715,
-      "name": "Ela N\u00e3o Cansa",
-      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "De Peito Aberto, Pt. 2",
-        "url": "https://open.spotify.com/album/615VkUkY99vE5bbbteUFi2"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        }
-      ],
-      "duration_ms": 127850,
-      "name": "Toca o Refr\u00e3o",
-      "url": "https://open.spotify.com/track/0ulbmMA9GvEMUmV5wonqWp"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Qualquer Maneira",
         "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 331054,
       "name": "Qualquer Maneira",
       "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "De Peito Aberto, Pt. 2",
+        "url": "https://open.spotify.com/album/615VkUkY99vE5bbbteUFi2"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "duration_ms": 127850,
+      "name": "Toca o Refr\u00e3o",
+      "url": "https://open.spotify.com/track/0ulbmMA9GvEMUmV5wonqWp"
     },
     {
       "added_at": "2024-12-13 16:52:22",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-12-13 16:52:22",
       "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
-    },
-    {
-      "added_at": "2024-12-13 16:52:22",
-      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+    },
+    {
+      "added_at": "2024-12-13 16:52:22",
+      "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     },
     {
       "added_at": "2024-12-13 16:52:22",

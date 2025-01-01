@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Ainda & Leiva.",
-  "num_followers": 56879,
+  "num_followers": 56896,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Como Amigos",
-        "url": "https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 131806,
-      "name": "Como Amigos",
-      "url": "https://open.spotify.com/track/3G6AGojyBobTlHNibQ4W48"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "El Viaje",
         "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 200520,
       "name": "Santa Marta",
       "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Como Amigos",
+        "url": "https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 131806,
+      "name": "Como Amigos",
+      "url": "https://open.spotify.com/track/3G6AGojyBobTlHNibQ4W48"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Si Me Disculpo Ahora",
-        "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 120759,
-      "name": "Si Me Disculpo Ahora",
-      "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Un T\u00e9 De Tilo Por Favor",
         "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
       },
@@ -1303,6 +1283,26 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Si Me Disculpo Ahora",
+        "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 120759,
+      "name": "Si Me Disculpo Ahora",
+      "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Best Seller",
         "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 164615,
       "name": "PERD\u00d3N POR TODO",
       "url": "https://open.spotify.com/track/3y2U3NnIJti1RmT0rw1lwu"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
     },
     {
       "added_at": "2024-12-06 03:00:00",

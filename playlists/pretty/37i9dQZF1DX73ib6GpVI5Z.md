@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,207 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,222 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 | 35 | [おえかきベレちゃん](https://open.spotify.com/track/5LNQtPNMYrlXsYMe4yswih) | [新山千春 \(ベレちゃん\)](https://open.spotify.com/artist/4veY6En4CaKjsJYe5UdoQ6), [新山小春](https://open.spotify.com/artist/1sg66zvYr8bwyJmxW7vxMv) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 2:53 |
 | 36 | [怪傑アンパンマン](https://open.spotify.com/track/4TnlM0ABkEnIRT1l8yLgTD) | [Bonny Jacks](https://open.spotify.com/artist/3JjKFO9SLShHsIvTNos5Ag) | [それいけ！アンパンマン げんき100ばいソングス アンパンマン](https://open.spotify.com/album/0L8uCqjSeQyNfZCDihnNu7) | 3:28 |
 | 37 | [つみきの塔](https://open.spotify.com/track/1UxmeDSNPPdp3KAIUiPpMY) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [映画&テレビ30年記念商品「それいけ！アンパンマン　ムービーソングコレクション」](https://open.spotify.com/album/2YMkGQ6sJ8S4QOH5EpwTjZ) | 3:10 |
-| 38 | [虹をつくる歌](https://open.spotify.com/track/71O4rhqoqOt5C82zmjdqDA) | [レインボー福澤](https://open.spotify.com/artist/37NV2xsjVVqCOivqabFPwd), [スタタン隊](https://open.spotify.com/artist/2cRCGpX1hpRvK4bOEfYR2Q) | [映画&テレビ30年記念商品「それいけ！アンパンマン　ムービーソングコレクション」](https://open.spotify.com/album/2YMkGQ6sJ8S4QOH5EpwTjZ) | 5:22 |
-| 39 | [アンパンマンが生まれた日](https://open.spotify.com/track/3ujT91WsfIiNxBzNbmYVfh) | [BGM](https://open.spotify.com/artist/6AGFv4KpkFPkgtH1Pxmu2K) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:05 |
-| 40 | [森の妖精 えほんのルルンの大冒険 \- BGM](https://open.spotify.com/track/3mXrenMXIKcESaJhdRZUa2) | [近藤浩章](https://open.spotify.com/artist/5kGOPpvuaRm2XoFKPuAwcr) | [それいけ！アンパンマン ばいきんまんとえほんのルルン](https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia) | 5:03 |
-| 41 | [ちいさな魔女](https://open.spotify.com/track/10GMPWR3bn4a8IRcuGlSSO) | [松本梨香\(リリカ\)](https://open.spotify.com/artist/5eCNbA38mqgGSnd0t8j7ot) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:59 |
-| 42 | [生きてるパンをつくろう ～Brand New ver.](https://open.spotify.com/track/2QmuiZyfFn2hC8uUFIFIPQ) | [増岡弘 \(ジャムおじさん\)](https://open.spotify.com/artist/5JJqzE4zHvt6D7LDD0HMbh) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:18 |
+| 38 | [アンパンマンが生まれた日](https://open.spotify.com/track/3ujT91WsfIiNxBzNbmYVfh) | [BGM](https://open.spotify.com/artist/6AGFv4KpkFPkgtH1Pxmu2K) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:05 |
+| 39 | [虹をつくる歌](https://open.spotify.com/track/71O4rhqoqOt5C82zmjdqDA) | [レインボー福澤](https://open.spotify.com/artist/37NV2xsjVVqCOivqabFPwd), [スタタン隊](https://open.spotify.com/artist/2cRCGpX1hpRvK4bOEfYR2Q) | [映画&テレビ30年記念商品「それいけ！アンパンマン　ムービーソングコレクション」](https://open.spotify.com/album/2YMkGQ6sJ8S4QOH5EpwTjZ) | 5:22 |
+| 40 | [生きてるパンをつくろう ～Brand New ver.](https://open.spotify.com/track/2QmuiZyfFn2hC8uUFIFIPQ) | [増岡弘 \(ジャムおじさん\)](https://open.spotify.com/artist/5JJqzE4zHvt6D7LDD0HMbh) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:18 |
+| 41 | [森の妖精 えほんのルルンの大冒険 \- BGM](https://open.spotify.com/track/3mXrenMXIKcESaJhdRZUa2) | [近藤浩章](https://open.spotify.com/artist/5kGOPpvuaRm2XoFKPuAwcr) | [それいけ！アンパンマン ばいきんまんとえほんのルルン](https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia) | 5:03 |
+| 42 | [ちいさな魔女](https://open.spotify.com/track/10GMPWR3bn4a8IRcuGlSSO) | [松本梨香\(リリカ\)](https://open.spotify.com/artist/5eCNbA38mqgGSnd0t8j7ot) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:59 |
 | 43 | [ナガネギフラメンコ](https://open.spotify.com/track/5zaYEraNmOE5hPqCjNceGL) | [大塚明夫 \(ナガネギマン\)](https://open.spotify.com/artist/24zSbaZ80y7dHaE2coIWcl), [フレーベル少年合唱団](https://open.spotify.com/artist/2lHzM4bhPvwChOiflSEtn9) | [それいけ！アンパンマン ベストヒット'17](https://open.spotify.com/album/6yVfybmx2U5AqBUSe2NVVa) | 3:31 |
 | 44 | [ふたつの心](https://open.spotify.com/track/4DkK7RihfIRT9Hm7rcSvaQ) | [冨永みーな\(ロールパンナ\)](https://open.spotify.com/artist/610OyclMMz923pkFNm4F9r) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 4:48 |
 | 45 | [ずっこけ！ばいきんまん](https://open.spotify.com/track/4xg1oz4inny0FGAbAjp3Mz) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン げんき100ばいソングス ばいきんまん](https://open.spotify.com/album/7g5iW7JrxrR9M0zcZrCnxL) | 2:56 |
 | 46 | [おなじみしょくぱんまん](https://open.spotify.com/track/6QBK3qn0SWzsBxVwXrmvtx) | [島本須美 \(しょくぱんまん\)](https://open.spotify.com/artist/6dmmdl7OR2xbdGtliMZXBt) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:28 |
 | 47 | [ホラーマンメチャクチャチャ2018](https://open.spotify.com/track/5zx83PFN01qGbgij02Hbta) | [矢尾一樹（ホラーマン）](https://open.spotify.com/artist/4ITV3VbNKMIzK7HD6JTp9N), [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 3:11 |
-| 48 | [恐るべし！すいとるゾウ 立ち向かえ！ウッドだだんだん \- BGM](https://open.spotify.com/track/2rqWeCUREkjSxb7NnbDreQ) | [近藤浩章](https://open.spotify.com/artist/5kGOPpvuaRm2XoFKPuAwcr) | [それいけ！アンパンマン ばいきんまんとえほんのルルン](https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia) | 4:58 |
-| 49 | [希望のハンカチ ～映画バージョン～](https://open.spotify.com/track/4yHA3zcJYbUmFl2S19OO8R) | [戸田恵子](https://open.spotify.com/artist/4z01LLFGSIcJNGTzLYhx0H), [大和田りつこ](https://open.spotify.com/artist/3slm4bBTMsoNjTCgTtKX4o), [岡崎裕美](https://open.spotify.com/artist/2IfDvH22XPDsW8FLVpxDeN) | [それいけ！アンパンマン りんごぼうやと みんなの願い](https://open.spotify.com/album/7pEMj5zjRkByMjj7HKPfeY) | 3:43 |
+| 48 | [希望のハンカチ ～映画バージョン～](https://open.spotify.com/track/4yHA3zcJYbUmFl2S19OO8R) | [戸田恵子](https://open.spotify.com/artist/4z01LLFGSIcJNGTzLYhx0H), [大和田りつこ](https://open.spotify.com/artist/3slm4bBTMsoNjTCgTtKX4o), [岡崎裕美](https://open.spotify.com/artist/2IfDvH22XPDsW8FLVpxDeN) | [それいけ！アンパンマン りんごぼうやと みんなの願い](https://open.spotify.com/album/7pEMj5zjRkByMjj7HKPfeY) | 3:43 |
+| 49 | [恐るべし！すいとるゾウ 立ち向かえ！ウッドだだんだん \- BGM](https://open.spotify.com/track/2rqWeCUREkjSxb7NnbDreQ) | [近藤浩章](https://open.spotify.com/artist/5kGOPpvuaRm2XoFKPuAwcr) | [それいけ！アンパンマン ばいきんまんとえほんのルルン](https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia) | 4:58 |
 | 50 | [サンサンたいそう](https://open.spotify.com/track/1sctpYBPKRMBhzEHk55L97) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:14 |
 
 Snapshot ID: `Z2rYgAAAAABoM3eFceUKMLi8sX+FH0oi`

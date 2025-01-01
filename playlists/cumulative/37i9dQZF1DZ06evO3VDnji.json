@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197134,
+      "name": "Promesas de Amor",
+      "url": "https://open.spotify.com/track/68dsfSoqApgPqSdqFTSJAA"
+    },
+    {
+      "album": {
         "name": "Limerencia",
         "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 242701,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/37mVNCGhOvnjFJ2wQFnNjq"

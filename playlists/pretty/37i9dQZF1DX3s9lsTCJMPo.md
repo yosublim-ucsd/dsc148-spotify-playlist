@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,556 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,622 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 38 | [Theresa Rocking](https://open.spotify.com/track/3gGPrxYhowdcEEt2RkW4tA) | [Imagi Nation Brass](https://open.spotify.com/artist/2C7n4hoejvKTvmJf8w6n8e) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 6:22 |
 | 39 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
 | 40 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 |
-| 41 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
-| 42 | [Palms On De Ground](https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 3:42 |
+| 41 | [Palms On De Ground](https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 3:42 |
+| 42 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
 | 43 | [Nani Wine](https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:12 |
 | 44 | [Follow The Leader, Leader](https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:05 |
 | 45 | [Rampage](https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p) | [Maestro](https://open.spotify.com/artist/6FFcD5eq6f0dqKxwmExmFA) | [Greatest Hitz](https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS) | 3:23 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 65 | [Bicycle Ride \(Soca Remix\)](https://open.spotify.com/track/4jTg5rkTWI0unkNHrETb86) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Bicycle Ride \(Soca Remix\) \- Single](https://open.spotify.com/album/4rlWbFkNykBqgPDttjYqIs) | 2:52 |
 | 66 | [Hookin' Meh](https://open.spotify.com/track/7a3UBZZ4md9nJUDQbxqk7W) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/4O3wKLSGhkJojPEesmcoGu) | 3:03 |
 | 67 | [Full Extreme](https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e) | [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Full Extreme](https://open.spotify.com/album/1l18YSF3VvABWpP7A2qsUj) | 3:52 |
-| 68 | [Ministry of Road \(M.O.R.\)](https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:59 |
+| 68 | [Happiest Man Alive](https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:38 |
 | 69 | [So Long](https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ) | 3:03 |
 | 70 | [Blame It \(on De Music\)](https://open.spotify.com/track/5NPytt77xDitWfE98UeEDV) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 4:18 |
 | 71 | [Trinidad](https://open.spotify.com/track/0LtVseDA9P0Vo3mKRn6DkS) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 3:01 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 75 | [Chances](https://open.spotify.com/track/6mfmJdM4mPoxvzI7iu5SKW) | [Blue Ventures Feat\. Sanell Dampster](https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 3:51 |
 | 76 | [Thelma](https://open.spotify.com/track/5ZPN4WWRRN0R0QavqpVV7i) | [South South West](https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 4:15 |
 | 77 | [Wave Wid Me](https://open.spotify.com/track/3IOvWPwF1PXTD4OQ5no45s) | [Alison Hinds Feat\. Peter Ram](https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 3:39 |
-| 78 | [Footsteps \(feat\. Wayne Rodriguez\)](https://open.spotify.com/track/6Wq2U3xlL953CurfNLWfeM) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm), [Wayne Rodriguez](https://open.spotify.com/artist/3tkTFE3gM6p7EWW385JsVJ) | [Charge](https://open.spotify.com/album/6hYk9G38OkC0SQjFOLDoAY) | 4:36 |
+| 78 | [Ministry of Road \(M.O.R.\)](https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:59 |
 | 79 | [Bitein Incex \(we Love De\)](https://open.spotify.com/track/1h9CmOE1tIRtU3kUYZpkB5) | [Lovey](https://open.spotify.com/artist/2z72I5D1aakIVygNC7IAQV) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 4:13 |
 | 80 | [Chutney Bachannal](https://open.spotify.com/track/0TNFNPM8DtDuzQtak9FirP) | [Byron Lee & The Dragonaires](https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy) | [Soca Engine](https://open.spotify.com/album/5wfAK9kuhW8WcVjr5eiKGv) | 3:03 |
 

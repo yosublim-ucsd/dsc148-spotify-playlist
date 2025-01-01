@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,389 likes - 82 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,514 likes - 82 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

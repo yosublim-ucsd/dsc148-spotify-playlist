@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 79761,
+  "num_followers": 79817,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Masithokoze",
         "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 427217,
       "name": "Masithokoze",
       "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Hiyo Lento",
-        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
-      },
-      "artists": [
-        {
-          "name": "Jabu Khanyile",
-          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
-        },
-        {
-          "name": "Bayete",
-          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Sponky Ponky",
-      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/4yKIBcOMs0m8JQv1ZbDJHt"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Hiyo Lento",
+        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
+      },
+      "artists": [
+        {
+          "name": "Jabu Khanyile",
+          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
+        },
+        {
+          "name": "Bayete",
+          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Sponky Ponky",
+      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Imali",
         "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 265506,
       "name": "Ndiyagodola",
       "url": "https://open.spotify.com/track/5PIYT6wbHYd1z4wUOavkUH"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Kamata",
-        "url": "https://open.spotify.com/album/0vkCse1iCEbs0MU92L0A7M"
-      },
-      "artists": [
-        {
-          "name": "ZIKKI",
-          "url": "https://open.spotify.com/artist/5l74o93ci1b90LayLok4DL"
-        },
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/4SExCKYJYvUVFXLAS3Dz0G"
-        }
-      ],
-      "duration_ms": 229407,
-      "name": "Take it Slow",
-      "url": "https://open.spotify.com/track/6kOXoMSnQy63PNGn4Yp1zZ"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "In The Building",
         "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 325433,
       "name": "Liwa Lentliziyo",
       "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Kamata",
+        "url": "https://open.spotify.com/album/0vkCse1iCEbs0MU92L0A7M"
+      },
+      "artists": [
+        {
+          "name": "ZIKKI",
+          "url": "https://open.spotify.com/artist/5l74o93ci1b90LayLok4DL"
+        },
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/4SExCKYJYvUVFXLAS3Dz0G"
+        }
+      ],
+      "duration_ms": 229407,
+      "name": "Take it Slow",
+      "url": "https://open.spotify.com/track/6kOXoMSnQy63PNGn4Yp1zZ"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Ugandan",
-        "url": "https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD"
-      },
-      "artists": [
-        {
-          "name": "Kenneth Mugabi",
-          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
-        },
-        {
-          "name": "Angela Kalule",
-          "url": "https://open.spotify.com/artist/5Avt6RWKqAxYiadur6sxYi"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mukwano Gwo",
-      "url": "https://open.spotify.com/track/0AiGL3SmHr50RTF5rFaHTN"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Resistance (feat. SGaWD)",
         "url": "https://open.spotify.com/album/7Mh9PHYIYq6catNcSw91ZT"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 213537,
       "name": "Resistance (feat. SGaWD)",
       "url": "https://open.spotify.com/track/3NbbpgWyyprHrllhvSp4xo"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Ugandan",
+        "url": "https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Mugabi",
+          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
+        },
+        {
+          "name": "Angela Kalule",
+          "url": "https://open.spotify.com/artist/5Avt6RWKqAxYiadur6sxYi"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mukwano Gwo",
+      "url": "https://open.spotify.com/track/0AiGL3SmHr50RTF5rFaHTN"
     },
     {
       "added_at": "2024-10-14 11:24:44",

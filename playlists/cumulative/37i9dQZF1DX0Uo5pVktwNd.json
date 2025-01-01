@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 269866,
       "name": "Ab Ke Saawan",
       "url": "https://open.spotify.com/track/3f6lUIjrM4b5jOjKmwcPK5"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 349813,
       "name": "Afreen Afreen",
       "url": "https://open.spotify.com/track/6rW0xXiKajbihwXuPDNN8k"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 318560,
       "name": "Bheegi Bheegi Raaton Mein",
       "url": "https://open.spotify.com/track/4TmChFpXW2tqpl6BPkqdMT"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 358852,
       "name": "Bheegi Bheegi Raton Mein",
       "url": "https://open.spotify.com/track/7FyF8fsgmBJKWmcS44NHkL"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 214066,
       "name": "Bhool Ja",
       "url": "https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 317425,
       "name": "Bulla Ki Jana",
       "url": "https://open.spotify.com/track/1TrC5A54xNaztYCyFWF4dj"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 255693,
       "name": "Chudi",
       "url": "https://open.spotify.com/track/29g1Qs0JAfPNTnivV2Y11Q"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 236280,
       "name": "Dekha Hai Teri Aankhon Ko",
       "url": "https://open.spotify.com/track/3GVXeCSri5gx5TEn9MmW9V"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 290000,
       "name": "Dhoom Pichuck",
       "url": "https://open.spotify.com/track/1Nh2gb7yBBsRhJKyEQTHim"
@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo"
+      },
+      "artists": [
+        {
+          "name": "Rouge",
+          "url": "https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192253,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw"
+    },
+    {
+      "album": {
         "name": "Boondein",
         "url": "https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk"
       },
@@ -748,7 +766,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 252534,
       "name": "Gori",
       "url": "https://open.spotify.com/track/1wqw75urLC2sLsE7gLGAAE"
@@ -835,6 +853,24 @@
     },
     {
       "album": {
+        "name": "Deewana",
+        "url": "https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324813,
+      "name": "Is Kadar Pyar Hai Tumse",
+      "url": "https://open.spotify.com/track/5rOTik1LSA6A1OPbRRwJdy"
+    },
+    {
+      "album": {
         "name": "Jaana Hai Bollywood",
         "url": "https://open.spotify.com/album/1ZhKxioBc0HF6CDGYHXMpx"
       },
@@ -871,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Tera Chehra",
+        "url": "https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a"
+      },
+      "artists": [
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        },
+        {
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219209,
+      "name": "Kabhi Nahee",
+      "url": "https://open.spotify.com/track/3zeTPFtnlR72qRnBH3g2xd"
+    },
+    {
+      "album": {
         "name": "Kabhi To Nazar Milao... Jhankar Beats",
         "url": "https://open.spotify.com/album/2RQJJu1TwbUf0NzrTHVhdc"
       },
@@ -886,7 +944,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 427240,
       "name": "Kabhi To Nazar Milao",
       "url": "https://open.spotify.com/track/0kQW9OTOkyP8mtiIhBkBOd"
@@ -912,6 +970,24 @@
       "duration_ms": 465226,
       "name": "Kabhi To Nazar Milao",
       "url": "https://open.spotify.com/track/3bO7PoVn2Med6obuToYBLG"
+    },
+    {
+      "album": {
+        "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/6tAeHypxJQaHd3RAkEmNaJ"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367440,
+      "name": "Kabhi Yaadon Mein Aaun",
+      "url": "https://open.spotify.com/track/1VO2GtGchLJmnJFQZZlEux"
     },
     {
       "album": {
@@ -956,7 +1032,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 209060,
       "name": "Kangna",
       "url": "https://open.spotify.com/track/7ejqSzofWfLiqBT9CcCmsf"
@@ -1052,7 +1128,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 246373,
       "name": "Kesariya",
       "url": "https://open.spotify.com/track/2hRIFoe1ngcFtzjEhfxUN7"
@@ -1113,6 +1189,50 @@
     },
     {
       "album": {
+        "name": "Ustad And The Divas",
+        "url": "https://open.spotify.com/album/01s2aUyGKULtAK1Q6BEdV7"
+      },
+      "artists": [
+        {
+          "name": "Sultan Khan",
+          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269815,
+      "name": "Leja Leja",
+      "url": "https://open.spotify.com/track/5kWMV8yuPP6zSdz4MZhjVh"
+    },
+    {
+      "album": {
+        "name": "Shardana",
+        "url": "https://open.spotify.com/album/52Ipw9FNpnNTJOjbuPaQBg"
+      },
+      "artists": [
+        {
+          "name": "Shamur",
+          "url": "https://open.spotify.com/artist/6SZBqn91m2QZDcbzmHUFPP"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221080,
+      "name": "Let the Music Play",
+      "url": "https://open.spotify.com/track/4jkXawep434f2T2Zt7Gzm5"
+    },
+    {
+      "album": {
         "name": "Storyteller",
         "url": "https://open.spotify.com/album/4H0jJJPERIedtxoC1mAvlB"
       },
@@ -1132,6 +1252,50 @@
       "duration_ms": 245000,
       "name": "Let's Work It Out",
       "url": "https://open.spotify.com/track/4BtEy5bRmoYWBgswJe5eeU"
+    },
+    {
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4kExwHAZEatBHppwVp5Vl9"
+      },
+      "artists": [
+        {
+          "name": "Raghav",
+          "url": "https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9"
+        },
+        {
+          "name": "Jahaziel",
+          "url": "https://open.spotify.com/artist/11PK8fmGXnan9HCEwNI1T6"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Let's Work It out (feat. Jahaziel)",
+      "url": "https://open.spotify.com/track/78PIQS3mIIJc7ZZ3OKGr6c"
+    },
+    {
+      "album": {
+        "name": "Kabhi To Nazar Milao/Bheegi Bheegi raton Mein",
+        "url": "https://open.spotify.com/album/3SRNLEnYOt0eRMfm9lWYd3"
+      },
+      "artists": [
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253066,
+      "name": "Lift Kara De",
+      "url": "https://open.spotify.com/track/5Yita5PCCRG42WpcBRfs83"
     },
     {
       "album": {
@@ -1164,7 +1328,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 286426,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/44NcO3sv7gVBH03tNRmwDR"
@@ -1222,7 +1386,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 277386,
       "name": "Maine Payal Hai Chhankai",
       "url": "https://open.spotify.com/track/79mTw48OApemSCN9WNMApk"
@@ -1258,7 +1422,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 279026,
       "name": "Maine Payal Hai Chhankai",
       "url": "https://open.spotify.com/track/51EUKH2M1QGN50iGUlnxmU"
@@ -1412,7 +1576,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 315800,
       "name": "Nachangeh Sari Raath",
       "url": "https://open.spotify.com/track/0tFVfArJG8BY54jo3UkADg"
@@ -1600,10 +1764,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 304453,
       "name": "Purani Jeans",
       "url": "https://open.spotify.com/track/1fuM2tWkr4LC48kiGTerSX"
+    },
+    {
+      "album": {
+        "name": "Pal",
+        "url": "https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359373,
+      "name": "Pyaar Ke Pal",
+      "url": "https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V"
     },
     {
       "album": {
@@ -1636,10 +1818,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 369093,
       "name": "Raat Shabnami",
       "url": "https://open.spotify.com/track/0t6B3uOAmzEzf1o7fandDd"
+    },
+    {
+      "album": {
+        "name": "Introducing\u2026",
+        "url": "https://open.spotify.com/album/0A9PclEuPJL5dmc9eAso14"
+      },
+      "artists": [
+        {
+          "name": "Bombay Rockers",
+          "url": "https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212653,
+      "name": "Rock Tha Party",
+      "url": "https://open.spotify.com/track/0NoNwbg1fnrb3DHCZ8We6q"
     },
     {
       "album": {
@@ -1690,7 +1890,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 248775,
       "name": "Saawan Mein Lag Gayee Aag",
       "url": "https://open.spotify.com/track/3LZYmdTuRWMgajd91up13j"
@@ -2046,7 +2246,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 272000,
       "name": "Yaaron",
       "url": "https://open.spotify.com/track/55wP1blaV9Vlr1MTsG8ceh"
@@ -2072,6 +2272,28 @@
       "duration_ms": 328173,
       "name": "Yeh Hawa Kehti Hai Kya",
       "url": "https://open.spotify.com/track/29dTr9pLXHTIRACrcd6UD9"
+    },
+    {
+      "album": {
+        "name": "Tera Mera Pyar",
+        "url": "https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml"
+      },
+      "artists": [
+        {
+          "name": "Prem & Hardeep",
+          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303706,
+      "name": "Yeh Kya Hua",
+      "url": "https://open.spotify.com/track/6P6o9pPFIYMxxnEhsvgfJA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Uo5pVktwNd"

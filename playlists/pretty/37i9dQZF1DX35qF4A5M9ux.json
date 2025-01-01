@@ -1,6 +1,6 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 389830,
+  "num_followers": 390030,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Contraste En Salsa",
+        "url": "https://open.spotify.com/album/0GxUdSpTj1PeJlqq0knC5I"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 266786,
+      "name": "Conteo Regresivo - Salsa Version",
+      "url": "https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 267311,
       "name": "Hechizo",
       "url": "https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Contraste En Salsa",
-        "url": "https://open.spotify.com/album/0GxUdSpTj1PeJlqq0knC5I"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 266786,
-      "name": "Conteo Regresivo - Salsa Version",
-      "url": "https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "El Caballero De La Salsa - La Historia Tropical",
+        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Vivir Sin Ella",
+      "url": "https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 301010,
       "name": "Anuncio Clasificado / D\u00e1melo",
       "url": "https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "El Caballero De La Salsa - La Historia Tropical",
-        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Vivir Sin Ella",
-      "url": "https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Aqui Estoy Yo",
-        "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
-      },
-      "artists": [
-        {
-          "name": "Roberto Lugo",
-          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
-        }
-      ],
-      "duration_ms": 322360,
-      "name": "Si Me Dejas Amarte",
-      "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Sexy Salsa",
         "url": "https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 300533,
       "name": "A Fuego Lento",
       "url": "https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Aqui Estoy Yo",
+        "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
+      },
+      "artists": [
+        {
+          "name": "Roberto Lugo",
+          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
+        }
+      ],
+      "duration_ms": 322360,
+      "name": "Si Me Dejas Amarte",
+      "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
     },
     {
       "added_at": "2024-11-15 06:00:00",

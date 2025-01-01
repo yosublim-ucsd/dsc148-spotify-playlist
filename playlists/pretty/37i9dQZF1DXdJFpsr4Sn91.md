@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Katy Perry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,965 likes - 87 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,966 likes - 87 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

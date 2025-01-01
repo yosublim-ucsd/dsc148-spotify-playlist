@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 28283,
+  "num_followers": 28290,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAAAfKPOCVur9pdKz5VigOuba",
+  "snapshot_id": "Z3HigAAAAADNFhxFDCBPiVrFcPBKFXOi",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los \u00c1ngeles Existen",
-        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 170426,
-      "name": "Me Derrito (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 135266,
       "name": "Mujer Maravilla",
       "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los \u00c1ngeles Existen",
+        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 170426,
+      "name": "Me Derrito (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
-        "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
-      },
-      "artists": [
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 360466,
-      "name": "La Rosa / Flecha Envenenada (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/1CnGSMYKYFMmZGJU4mqtYq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40 Aniversario Con Invitados a Otro Nivel, Vol. 2",
         "url": "https://open.spotify.com/album/68RRgoiTtixqmXpCgrCGFU"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 181448,
       "name": "Ya No Te Amo",
       "url": "https://open.spotify.com/track/691UfJ3B3IVa4Hsj3DVfvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
+        "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 360466,
+      "name": "La Rosa / Flecha Envenenada (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/1CnGSMYKYFMmZGJU4mqtYq"
     },
     {
       "added_at": null,

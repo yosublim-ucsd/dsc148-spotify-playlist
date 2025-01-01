@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+Matter](https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [+Matter](https://open.spotify.com/album/4nLDWr5orZvPtYwF0yrstO) | 3:52 | 2024-12-05 |  |
-| [1 Cinta 2 Dunia](https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [1 Cinta 2 Dunia](https://open.spotify.com/album/4qU6koWCmPtsoKIeIt9iA7) | 3:35 | 2024-12-05 |  |
+| [1 Cinta 2 Dunia \- From "Pacarku Jinny"](https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [1 Cinta 2 Dunia \- From "Pacarku Jinny"](https://open.spotify.com/album/4qU6koWCmPtsoKIeIt9iA7) | 3:35 | 2024-12-05 |  |
 | [123](https://open.spotify.com/track/31XKpctltJP4KfBjbnkNVq) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq), [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc) | [123](https://open.spotify.com/album/7CXrO5ZNxfiFd8tO3Fdvxv) | 2:49 | 2024-10-04 | 2024-11-01 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-19 | 2024-08-31 |
 | [1685 \(feat\. Muse\)](https://open.spotify.com/track/0ZVjdWHetSBLb4udxSyofy) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [1685 \(feat\. Muse\)](https://open.spotify.com/album/2AxRNzVhdHgJwtCwbr405e) | 3:56 | 2024-10-04 | 2024-11-15 |

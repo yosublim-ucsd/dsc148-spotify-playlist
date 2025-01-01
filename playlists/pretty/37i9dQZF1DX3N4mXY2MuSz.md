@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,828 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,803 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 85 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
 | 86 | [The Christmas Song](https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas EP](https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy) | 3:07 |
 | 87 | [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe) | 3:33 |
-| 88 | [Last Christmas \- Studio Version](https://open.spotify.com/track/7oOPTXN5uxtvORCslB5pUW) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe) | 4:27 |
-| 89 | [I Want An Alien For Christmas](https://open.spotify.com/track/5MosvqhyVHyDsgoTmfImDP) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Out\-Of\-State Plates](https://open.spotify.com/album/2WgUYiKZhGfUEXIhH04lfY) | 2:19 |
-| 90 | [Boxing Day](https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb) | 3:59 |
-| 91 | [X\-mas Has Been X'ed](https://open.spotify.com/track/36xdZ8BJLBHs3dXpeSwg2x) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/0JjybJOVXNKD7qyD5CRU2n) | 2:43 |
-| 92 | [Feliz Navidad](https://open.spotify.com/track/4EFkiPIt2RwKK38uH8RnX5) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol 1 and 2](https://open.spotify.com/album/5FinvD7N9FXLY685eghYSp) | 3:37 |
-| 93 | [Christmas by the Phone](https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 3:01 |
-| 94 | [White Christmas](https://open.spotify.com/track/3UQOYpKeLqhvy2inGi9YIZ) | [Moonlight Social](https://open.spotify.com/artist/48PBERzNchz4E1ZYAiQWUa) | [White Christmas](https://open.spotify.com/album/73ifVn1xIZBAEW7RmoDVri) | 1:52 |
+| 88 | [I Want An Alien For Christmas](https://open.spotify.com/track/5MosvqhyVHyDsgoTmfImDP) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Out\-Of\-State Plates](https://open.spotify.com/album/2WgUYiKZhGfUEXIhH04lfY) | 2:19 |
+| 89 | [Feliz Navidad](https://open.spotify.com/track/4EFkiPIt2RwKK38uH8RnX5) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol 1 and 2](https://open.spotify.com/album/5FinvD7N9FXLY685eghYSp) | 3:37 |
+| 90 | [Last Christmas \- Studio Version](https://open.spotify.com/track/7oOPTXN5uxtvORCslB5pUW) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe) | 4:27 |
+| 91 | [Blue Christmas](https://open.spotify.com/track/3DL2Zth3HnbmMKgUy3RSiG) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/2To5Y08bzMfSKgssrxaGqp) | 1:42 |
+| 92 | [Boxing Day](https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb) | 3:59 |
+| 93 | [X\-mas Has Been X'ed](https://open.spotify.com/track/36xdZ8BJLBHs3dXpeSwg2x) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/0JjybJOVXNKD7qyD5CRU2n) | 2:43 |
+| 94 | [Christmas by the Phone](https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 3:01 |
 | 95 | [Skank For Christmas](https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:48 |
-| 96 | [Happy Holidays, You Bastard](https://open.spotify.com/track/6Zj6aoi8gOioPuJmQoC7bN) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/4kuOpGJb8CBMT4Egr9UroK) | 0:42 |
-| 97 | [Carol Of The Bells](https://open.spotify.com/track/6laRtlIDDBEL2eYfjoZh7g) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 2:43 |
-| 98 | [Oi To The World](https://open.spotify.com/track/2NHsVkNPnEnM3LldoVtsKx) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-sides, Rarities, Remixes\)](https://open.spotify.com/album/5dhs4L0WJlreE7UAqfv5rr) | 2:40 |
-| 99 | [Punk Rawk Christmas](https://open.spotify.com/track/0qyUkrTBc82ho8PQIdBILl) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/03Yu39wnJq2h27z71bbrJn) | 3:20 |
-| 100 | [Yule Shoot Your Eye Out \- Bonus Track](https://open.spotify.com/track/0YIyNI01NwcDANAruPq7bg) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/1uIgPRSggJqaVxJAwUpPok) | 3:41 |
+| 96 | [White Christmas](https://open.spotify.com/track/3UQOYpKeLqhvy2inGi9YIZ) | [Moonlight Social](https://open.spotify.com/artist/48PBERzNchz4E1ZYAiQWUa) | [White Christmas](https://open.spotify.com/album/73ifVn1xIZBAEW7RmoDVri) | 1:52 |
+| 97 | [Happy Holidays, You Bastard](https://open.spotify.com/track/6Zj6aoi8gOioPuJmQoC7bN) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/4kuOpGJb8CBMT4Egr9UroK) | 0:42 |
+| 98 | [Carol Of The Bells](https://open.spotify.com/track/6laRtlIDDBEL2eYfjoZh7g) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 2:43 |
+| 99 | [Oi To The World](https://open.spotify.com/track/2NHsVkNPnEnM3LldoVtsKx) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-sides, Rarities, Remixes\)](https://open.spotify.com/album/5dhs4L0WJlreE7UAqfv5rr) | 2:40 |
+| 100 | [Punk Rawk Christmas](https://open.spotify.com/track/0qyUkrTBc82ho8PQIdBILl) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/03Yu39wnJq2h27z71bbrJn) | 3:20 |
 
 Snapshot ID: `ZVi/BgAAAAAIDUTQtIyVEpr+zK4NG70l`

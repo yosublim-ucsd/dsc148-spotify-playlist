@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAACrVjv3AerjoaDObq+aO+i5",
+  "snapshot_id": "Z3HigAAAAACeXHPZln0SR1Hvi71W4fR+",
   "tracks": [
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 453693,
-      "name": "The Egg",
-      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
+      "duration_ms": 537263,
+      "name": "Cipater",
+      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 537263,
-      "name": "Cipater",
-      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
+      "duration_ms": 453693,
+      "name": "The Egg",
+      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
       },
       "artists": [
         {
@@ -696,41 +696,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 851533,
-      "name": "Garbagemx",
-      "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confield",
-        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 401314,
-      "name": "Cfern",
-      "url": "https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oversteps",
-        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 277280,
-      "name": "see on see",
-      "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
+      "duration_ms": 127853,
+      "name": "Rettic AC",
+      "url": "https://open.spotify.com/track/6iJbc5LvusfogQcxKnFgcu"
     },
     {
       "added_at": null,
@@ -751,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
       },
       "artists": [
         {
@@ -760,9 +728,25 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 127853,
-      "name": "Rettic AC",
-      "url": "https://open.spotify.com/track/6iJbc5LvusfogQcxKnFgcu"
+      "duration_ms": 851533,
+      "name": "Garbagemx",
+      "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oversteps",
+        "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 277280,
+      "name": "see on see",
+      "url": "https://open.spotify.com/track/2Q5gMHstEMTfYc8Lwq9pri"
     },
     {
       "added_at": null,
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 434553,
-      "name": "Sim Gishel",
-      "url": "https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx"
+      "duration_ms": 401314,
+      "name": "Cfern",
+      "url": "https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 739494,
       "name": "bladelores",
       "url": "https://open.spotify.com/track/31vEhUEiOYgGoDW95wyPpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 416909,
+      "name": "Tewe",
+      "url": "https://open.spotify.com/track/0kP5ZOXqlNDZqy0oIbXJjI"
     }
   ],
   "unique_name": "This Is Autechre",

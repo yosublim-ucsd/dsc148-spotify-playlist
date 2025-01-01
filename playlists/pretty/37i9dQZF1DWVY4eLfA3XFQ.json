@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Chris Lorenzo \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 641652,
+  "num_followers": 641728,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1305,26 +1305,6 @@
       "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
     },
     {
-      "added_at": "2024-11-01 05:19:33",
-      "album": {
-        "name": "Percolator (Chris Lake & Bontan Remixes)",
-        "url": "https://open.spotify.com/album/1IYBF4Hu5rdCbAZgikWs1I"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 199714,
-      "name": "Percolator - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Horny",
@@ -1343,6 +1323,26 @@
       "duration_ms": 182812,
       "name": "Horny",
       "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
+    },
+    {
+      "added_at": "2024-11-01 05:19:33",
+      "album": {
+        "name": "Percolator (Chris Lake & Bontan Remixes)",
+        "url": "https://open.spotify.com/album/1IYBF4Hu5rdCbAZgikWs1I"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 199714,
+      "name": "Percolator - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1673,6 +1673,26 @@
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 190232,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Snus (Tony Romera Remix)",
@@ -1697,66 +1717,6 @@
       "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 190232,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
-    },
-    {
-      "added_at": "2024-11-29 05:26:04",
-      "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Grant Nelson",
-          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
-        }
-      ],
-      "duration_ms": 204843,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "GETAWAY",
-        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 163871,
-      "name": "GETAWAY",
-      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Let's Go Dancing (Matroda Remix)",
@@ -1779,6 +1739,46 @@
       "duration_ms": 195473,
       "name": "Let's Go Dancing - Matroda Remix",
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 163871,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
+    },
+    {
+      "added_at": "2024-11-29 05:26:04",
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Grant Nelson",
+          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
+        }
+      ],
+      "duration_ms": 204843,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1869,6 +1869,22 @@
       "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Mezcal Bounce",
@@ -1887,22 +1903,6 @@
       "duration_ms": 210909,
       "name": "Mezcal Bounce",
       "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Done",
-        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2088,7 +2088,7 @@
           "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         },
         {
-          "name": "Teko",
+          "name": "TEKO",
           "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
         }
       ],
@@ -2115,26 +2115,6 @@
       "duration_ms": 201243,
       "name": "Tarantula - Max Styler Remix",
       "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
-      },
-      "artists": [
-        {
-          "name": "Meck",
-          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 215540,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2229,6 +2209,26 @@
       "url": "https://open.spotify.com/track/73Isx1gb055c1VEHleCdn9"
     },
     {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
+      },
+      "artists": [
+        {
+          "name": "Meck",
+          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 215540,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Ready For Your Love (Odd Mob Remix)",
@@ -2253,6 +2253,22 @@
       "url": "https://open.spotify.com/track/35Xp4gxNJljB9m2mSLLMvv"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Wrong Feels Right",
+        "url": "https://open.spotify.com/album/4JStjZisUl2g35HszGXxt5"
+      },
+      "artists": [
+        {
+          "name": "Format:B",
+          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Wrong Feels Right",
+      "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
@@ -2269,20 +2285,20 @@
       "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Wrong Feels Right",
-        "url": "https://open.spotify.com/album/4JStjZisUl2g35HszGXxt5"
+        "name": "Disco Bus",
+        "url": "https://open.spotify.com/album/2e6d7OALNSuqyNZCodHTf6"
       },
       "artists": [
         {
-          "name": "Format:B",
-          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Wrong Feels Right",
-      "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
+      "duration_ms": 200000,
+      "name": "Disco Bus",
+      "url": "https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2325,20 +2341,24 @@
       "url": "https://open.spotify.com/track/4aPdbCnM9rUD6njBcmku9B"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-13 05:00:15",
       "album": {
-        "name": "Disco Bus",
-        "url": "https://open.spotify.com/album/2e6d7OALNSuqyNZCodHTf6"
+        "name": "Girl In The Club",
+        "url": "https://open.spotify.com/album/2KbLzrMKim1Gg3Kd4z2sHt"
       },
       "artists": [
         {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        },
+        {
+          "name": "Robert Flott",
+          "url": "https://open.spotify.com/artist/2YwN2tSu8mKglhQjmzmjQo"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Disco Bus",
-      "url": "https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO"
+      "duration_ms": 182343,
+      "name": "Girl In The Club",
+      "url": "https://open.spotify.com/track/2X0I1Ky8BOxJ6a4ZC9x8QX"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2363,26 +2383,6 @@
       "duration_ms": 267605,
       "name": "COPY ME",
       "url": "https://open.spotify.com/track/7tpEzAYTGYdDGQJ1MQtoII"
-    },
-    {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Girl In The Club",
-        "url": "https://open.spotify.com/album/2KbLzrMKim1Gg3Kd4z2sHt"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        },
-        {
-          "name": "Robert Flott",
-          "url": "https://open.spotify.com/artist/2YwN2tSu8mKglhQjmzmjQo"
-        }
-      ],
-      "duration_ms": 182343,
-      "name": "Girl In The Club",
-      "url": "https://open.spotify.com/track/2X0I1Ky8BOxJ6a4ZC9x8QX"
     },
     {
       "added_at": "2024-09-20 04:00:00",

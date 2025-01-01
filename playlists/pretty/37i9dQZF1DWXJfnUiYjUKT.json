@@ -1,6 +1,6 @@
 {
   "description": "The very best in new music from around the world. \n\nCover: Myke Towers",
-  "num_followers": 397960,
+  "num_followers": 397970,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -156,12 +156,12 @@
       },
       "artists": [
         {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        },
-        {
           "name": "Distressor",
           "url": "https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf"
+        },
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         }
       ],
       "duration_ms": 264566,

@@ -1,6 +1,6 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 95375,
+  "num_followers": 95398,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "BAGS",
-        "url": "https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52"
-      },
-      "artists": [
-        {
-          "name": "Seame",
-          "url": "https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "BAGS",
-      "url": "https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Pure Water",
         "url": "https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 177923,
       "name": "Pure Water",
       "url": "https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "BAGS",
+        "url": "https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52"
+      },
+      "artists": [
+        {
+          "name": "Seame",
+          "url": "https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "BAGS",
+      "url": "https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "couch sitters",
-        "url": "https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG"
-      },
-      "artists": [
-        {
-          "name": "mutedvibes",
-          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
-        }
-      ],
-      "duration_ms": 154030,
-      "name": "couch sitters",
-      "url": "https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Soft As Snow",
         "url": "https://open.spotify.com/album/2rrg5QWWaPDpsEQf1Yg5M2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 118027,
       "name": "Soft As Snow",
       "url": "https://open.spotify.com/track/0wqfY3YTz0VS0motqaCZZ0"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Call It A Night",
+        "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
+      },
+      "artists": [
+        {
+          "name": "jon pm",
+          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Call It A Night",
+      "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Call It A Night",
-        "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
+        "name": "couch sitters",
+        "url": "https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG"
       },
       "artists": [
         {
-          "name": "jon pm",
-          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Call It A Night",
-      "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
+      "duration_ms": 154030,
+      "name": "couch sitters",
+      "url": "https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Gloom",
-        "url": "https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN"
-      },
-      "artists": [
-        {
-          "name": "Mumblo",
-          "url": "https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z"
-        }
-      ],
-      "duration_ms": 152258,
-      "name": "Gloom",
-      "url": "https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "stars",
         "url": "https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 132512,
       "name": "stars",
       "url": "https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Gloom",
+        "url": "https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN"
+      },
+      "artists": [
+        {
+          "name": "Mumblo",
+          "url": "https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z"
+        }
+      ],
+      "duration_ms": 152258,
+      "name": "Gloom",
+      "url": "https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Are We There Yet",
-        "url": "https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ"
-      },
-      "artists": [
-        {
-          "name": "Velvet Haven",
-          "url": "https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F"
-        }
-      ],
-      "duration_ms": 154383,
-      "name": "Are We There Yet",
-      "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "duplicated",
         "url": "https://open.spotify.com/album/1M1MJjpxKpr3xC9fCbOATA"
       },
@@ -1011,22 +995,34 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "questa terra",
-        "url": "https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx"
+        "name": "Are We There Yet",
+        "url": "https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ"
       },
       "artists": [
         {
-          "name": "takemefaraway",
-          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
-        },
-        {
-          "name": "Nick's chill factory",
-          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+          "name": "Velvet Haven",
+          "url": "https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F"
         }
       ],
-      "duration_ms": 147230,
-      "name": "questa terra",
-      "url": "https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL"
+      "duration_ms": 154383,
+      "name": "Are We There Yet",
+      "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Mist And Dust",
+        "url": "https://open.spotify.com/album/6UwgOJGv46mupcigqLET9y"
+      },
+      "artists": [
+        {
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mist And Dust",
+      "url": "https://open.spotify.com/track/5Js1urkjZ11PkD7cPwUGHb"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Mist And Dust",
-        "url": "https://open.spotify.com/album/6UwgOJGv46mupcigqLET9y"
+        "name": "questa terra",
+        "url": "https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx"
       },
       "artists": [
         {
-          "name": "JAKKARTA",
-          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+          "name": "takemefaraway",
+          "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Mist And Dust",
-      "url": "https://open.spotify.com/track/5Js1urkjZ11PkD7cPwUGHb"
+      "duration_ms": 147230,
+      "name": "questa terra",
+      "url": "https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "bedtime routine",
-        "url": "https://open.spotify.com/album/42uT33NjFrZrbqketUVeae"
-      },
-      "artists": [
-        {
-          "name": "henry loops",
-          "url": "https://open.spotify.com/artist/15pHVeLU2nmaUkhMoremIO"
-        }
-      ],
-      "duration_ms": 139598,
-      "name": "bedtime routine",
-      "url": "https://open.spotify.com/track/1cQviOhLzFFBY9ETXqlYZN"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Through the Portal",
         "url": "https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 115233,
       "name": "Through the Portal",
       "url": "https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "bedtime routine",
+        "url": "https://open.spotify.com/album/42uT33NjFrZrbqketUVeae"
+      },
+      "artists": [
+        {
+          "name": "henry loops",
+          "url": "https://open.spotify.com/artist/15pHVeLU2nmaUkhMoremIO"
+        }
+      ],
+      "duration_ms": 139598,
+      "name": "bedtime routine",
+      "url": "https://open.spotify.com/track/1cQviOhLzFFBY9ETXqlYZN"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "green velvet",
+        "url": "https://open.spotify.com/album/2B893F73aIVF7MJ36y9evq"
+      },
+      "artists": [
+        {
+          "name": "Chekkerz",
+          "url": "https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz"
+        }
+      ],
+      "duration_ms": 131625,
+      "name": "green velvet",
+      "url": "https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "after dark",
         "url": "https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 141886,
       "name": "after dark",
       "url": "https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "green velvet",
-        "url": "https://open.spotify.com/album/2B893F73aIVF7MJ36y9evq"
-      },
-      "artists": [
-        {
-          "name": "Chekkerz",
-          "url": "https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz"
-        }
-      ],
-      "duration_ms": 131625,
-      "name": "green velvet",
-      "url": "https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9"
+      },
+      "artists": [
+        {
+          "name": "Bad Gherkin",
+          "url": "https://open.spotify.com/artist/15UGYmHXzD3KwCDTE2Xa4B"
+        }
+      ],
+      "duration_ms": 140776,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Across The Universe",
         "url": "https://open.spotify.com/album/3H5XRl7AwZMjYp42N5G3QQ"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 133359,
       "name": "Across The Universe",
       "url": "https://open.spotify.com/track/43tzeUUB5WRL4jPaXSjfgG"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9"
-      },
-      "artists": [
-        {
-          "name": "Bad Gherkin",
-          "url": "https://open.spotify.com/artist/15UGYmHXzD3KwCDTE2Xa4B"
-        }
-      ],
-      "duration_ms": 140776,
-      "name": "Good Riddance",
-      "url": "https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/294lejL4WlfdM1zI3aqHwn"
-      },
-      "artists": [
-        {
-          "name": "eze east",
-          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/30kb5SUI5bAhUt6Pao3Txs"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "restful",
         "url": "https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 126338,
       "name": "restful",
       "url": "https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/294lejL4WlfdM1zI3aqHwn"
+      },
+      "artists": [
+        {
+          "name": "eze east",
+          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/30kb5SUI5bAhUt6Pao3Txs"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "sleepy hat",
-        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
-      },
-      "artists": [
-        {
-          "name": "Blue Bag",
-          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "sleepy hat",
-      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Sleep Under My Eyes",
         "url": "https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 138275,
       "name": "Sleep Under My Eyes",
       "url": "https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "sleepy hat",
+        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Bag",
+          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "sleepy hat",
+      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "soul",
-        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
-      },
-      "artists": [
-        {
-          "name": "Tatami Construct",
-          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
-        }
-      ],
-      "duration_ms": 215713,
-      "name": "memory",
-      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "honey sweet",
         "url": "https://open.spotify.com/album/68VuJvWiekf22ADYco8THc"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 115291,
       "name": "honey sweet",
       "url": "https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "soul",
+        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
+      },
+      "artists": [
+        {
+          "name": "Tatami Construct",
+          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
+        }
+      ],
+      "duration_ms": 215713,
+      "name": "memory",
+      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
     },
     {
       "added_at": "2024-08-23 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 433351,
+  "num_followers": 433360,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAACpURIJ+F15XBt7hJp8EbiH",
+  "snapshot_id": "Z3HigAAAAAA2LHWZbQXIy/P8LKe9XYlL",
   "tracks": [
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 262308,
-      "name": "Drip (feat. Migos)",
-      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 274096,
       "name": "Deadz (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/3sTsxjv7yb0cM3rWvQdVan"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 262308,
+      "name": "Drip (feat. Migos)",
+      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MigoThuggin",
-        "url": "https://open.spotify.com/album/4Rj8KShBw1IrBW3A7wsEmi"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 271483,
-      "name": "No Way",
-      "url": "https://open.spotify.com/track/7sJd82Bq8y7oHl2rbzmijx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Label II",
         "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 144938,
       "name": "Menace",
       "url": "https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MigoThuggin",
+        "url": "https://open.spotify.com/album/4Rj8KShBw1IrBW3A7wsEmi"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 271483,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/7sJd82Bq8y7oHl2rbzmijx"
     },
     {
       "added_at": null,

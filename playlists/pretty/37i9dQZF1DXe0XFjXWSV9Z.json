@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 45643,
+  "num_followers": 45655,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
     },
     {
-      "added_at": "2022-11-18 17:45:57",
-      "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "La Cumbia Sampuesana",
@@ -467,6 +451,22 @@
       "duration_ms": 343445,
       "name": "La Cumbia Sampuesana",
       "url": "https://open.spotify.com/track/32hPiZQofmzTo66j7u3I2E"
+    },
+    {
+      "added_at": "2022-11-18 17:45:57",
+      "album": {
+        "name": "Chichala",
+        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Chichala",
+      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
-      },
-      "artists": [
-        {
-          "name": "Los Beta 5",
-          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "El Bicho",
-      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 206430,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+      },
+      "artists": [
+        {
+          "name": "Los Beta 5",
+          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "El Bicho",
+      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Nixon en la Playa",
+        "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mayorga",
+          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "La Ni\u00f1a Cu\u00e1ntica",
+      "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
+    },
+    {
       "added_at": "2022-04-09 05:03:37",
       "album": {
         "name": "Diablo",
@@ -795,22 +811,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Nixon en la Playa",
-        "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mayorga",
-          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "La Ni\u00f1a Cu\u00e1ntica",
-      "url": "https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez"
     },
     {
       "added_at": "2022-03-11 03:28:26",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Smells Like Cumbia",
-        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Misirlou",
-      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
-    },
-    {
       "added_at": "2024-03-16 00:36:22",
       "album": {
         "name": "Cumbia Disco Energy",
@@ -967,6 +951,22 @@
       "duration_ms": 237674,
       "name": "Cumbia Disco Energy",
       "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Smells Like Cumbia",
+        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw"
     },
     {
-      "added_at": "2022-02-12 05:43:00",
-      "album": {
-        "name": "Cumbia del Metr\u00f3nomo",
-        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
-      },
-      "artists": [
-        {
-          "name": "Las Muiscas",
-          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Cumbia del Metr\u00f3nomo",
-      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Estraik Back",
@@ -1063,6 +1047,22 @@
       "duration_ms": 231226,
       "name": "Perro Rabioso",
       "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
+    },
+    {
+      "added_at": "2022-02-12 05:43:00",
+      "album": {
+        "name": "Cumbia del Metr\u00f3nomo",
+        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
+      },
+      "artists": [
+        {
+          "name": "Las Muiscas",
+          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Cumbia del Metr\u00f3nomo",
+      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
     },
     {
       "added_at": "2023-09-25 00:02:05",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Dos Santos",
-        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
-    },
-    {
       "added_at": "2022-02-25 02:13:50",
       "album": {
         "name": "Para todo mal",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Dos Santos",
+        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Churro Vs. Crow",
         "url": "https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 202293,
       "name": "Churro Vs. Crow",
       "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
-    },
-    {
-      "added_at": "2023-03-16 23:13:46",
-      "album": {
-        "name": "Mi Gran Dolor",
-        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 254908,
-      "name": "Mi Gran Dolor",
-      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
     },
     {
       "added_at": "2023-01-07 02:51:44",
@@ -1199,6 +1183,22 @@
       "duration_ms": 280822,
       "name": "Shake & Bake",
       "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
+    },
+    {
+      "added_at": "2023-03-16 23:13:46",
+      "album": {
+        "name": "Mi Gran Dolor",
+        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 254908,
+      "name": "Mi Gran Dolor",
+      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
     },
     {
       "added_at": "2023-02-28 04:34:35",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Dale Mel\u00f3n",
+        "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
+      },
+      "artists": [
+        {
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+        }
+      ],
+      "duration_ms": 260678,
+      "name": "Dale Mel\u00f3n",
+      "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Invasi\u00f3n",
         "url": "https://open.spotify.com/album/0ebWSgyvKLGBKOlf2BsMPI"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Dale Mel\u00f3n",
-        "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
+        "name": "El Nuevo Bugalu",
+        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
       },
       "artists": [
         {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+          "name": "Bacalao Men",
+          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
         }
       ],
-      "duration_ms": 260678,
-      "name": "Dale Mel\u00f3n",
-      "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
+      "duration_ms": 270000,
+      "name": "Bicicleta Intergalactica",
+      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1323,22 +1339,6 @@
       "duration_ms": 241639,
       "name": "La Camisola",
       "url": "https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "El Nuevo Bugalu",
-        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
-      },
-      "artists": [
-        {
-          "name": "Bacalao Men",
-          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Bicicleta Intergalactica",
-      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
-      },
-      "artists": [
-        {
-          "name": "La Chamba",
-          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
-        }
-      ],
-      "duration_ms": 198469,
-      "name": "Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
-    },
-    {
       "added_at": "2023-01-02 21:53:18",
       "album": {
         "name": "Chica Psy",
@@ -1679,6 +1663,22 @@
       "duration_ms": 202302,
       "name": "Chica Psy",
       "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
+      },
+      "artists": [
+        {
+          "name": "La Chamba",
+          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
     },
     {
       "added_at": "2021-10-20 15:37:42",

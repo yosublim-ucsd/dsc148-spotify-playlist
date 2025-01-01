@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,058 likes - 89 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,062 likes - 89 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-163 songs - 8 hr 8 min
+164 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Lepiej niż teraz](https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Lepiej niż teraz](https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF) | 2:54 | 2024-11-29 |  |
 | [Lights Go Loud](https://open.spotify.com/track/32yM3qgoGGbwny8Fo8jfEW) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [Lights Go Loud](https://open.spotify.com/album/64elWMzIP1J5xNSjpVFd0L) | 2:51 | 2024-06-28 | 2024-07-19 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-10-17 |  |
-| [Mamy farta](https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [Mamy farta](https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS) | 3:09 | 2024-11-15 |  |
+| [Mamy farta](https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [Mamy farta](https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS) | 3:09 | 2024-11-15 | 2025-01-01 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-11-29 |  |
 | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 | 2024-07-26 |  |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-07-19 | 2024-09-28 |
@@ -108,6 +108,7 @@
 | [O miłości](https://open.spotify.com/track/5gWIF2Rqa9rXufl7696JoU) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 2:57 | 2024-06-28 | 2024-09-28 |
 | [och i ach](https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [och i ach](https://open.spotify.com/album/2MNCHzcw3C3wpo81uWeOxF) | 3:01 | 2024-06-28 | 2024-11-16 |
 | [Od kiedy jesteś](https://open.spotify.com/track/06WAHlXnCIn6DkelXwtUOd) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Od kiedy jesteś](https://open.spotify.com/album/5tEKJkeIlU6xbnwnwpQHqo) | 3:02 | 2024-06-28 | 2024-11-30 |
+| [Oh, Natalie](https://open.spotify.com/track/6TBxVHcy4JOBlEKUzAnxaT) | [UNKLFNKL](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW) | [Oh, Natalie](https://open.spotify.com/album/4v8boV2BplPNBfXw4YcQbU) | 2:01 | 2024-12-09 |  |
 | [Ostatni Dzień](https://open.spotify.com/track/7u6SXBolmVuQIYIzKzdNLb) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Ostatni Dzień](https://open.spotify.com/album/6eQIN34KYDbcINZcm6gyrO) | 3:16 | 2024-11-29 |  |
 | [Ostatni raz](https://open.spotify.com/track/1VYn5dKMp7iPNB3gwyWZbq) | [Paweł Domagała](https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2) | [Ostatni raz](https://open.spotify.com/album/75cG0ZzLY6XjQamYYHyq18) | 4:13 | 2024-10-07 | 2024-10-18 |
 | [Pada deszcz](https://open.spotify.com/track/4I5vcOq58yehX0CXsJ0KuZ) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Jano Polska Wersja](https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1) | [Pada deszcz](https://open.spotify.com/album/6gWSwkia6qcHywoDYvMFXD) | 3:29 | 2024-11-29 | 2024-12-10 |

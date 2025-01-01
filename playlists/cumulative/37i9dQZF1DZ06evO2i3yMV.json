@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 212727,
       "name": "Hemisphere",
       "url": "https://open.spotify.com/track/7CA70mF79PyWToJHIvqdhU"
@@ -2582,6 +2582,24 @@
       "duration_ms": 101161,
       "name": "The Beginning",
       "url": "https://open.spotify.com/track/5XRYpfQZnOPUx4fNhmEzMm"
+    },
+    {
+      "album": {
+        "name": "Squid Game (Let's Play)",
+        "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220391,
+      "name": "The Flower Blooms",
+      "url": "https://open.spotify.com/track/4gh3sdFa9cJTDPmKDBLSgq"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 727675,
+  "num_followers": 727687,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Foucault",
-          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
-        }
-      ],
-      "duration_ms": 158960,
-      "name": "Cheap Suit",
-      "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "Swimming Alone",
         "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 220275,
       "name": "Swimming Alone",
       "url": "https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Foucault",
+          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
+        }
+      ],
+      "duration_ms": 158960,
+      "name": "Cheap Suit",
+      "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 219217,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Forces - EP",
-        "url": "https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I"
-      },
-      "artists": [
-        {
-          "name": "Jordan DePaul",
-          "url": "https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h"
-        }
-      ],
-      "duration_ms": 228787,
-      "name": "Brighter Shade of Blue",
-      "url": "https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "Back to You",
         "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 224626,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "Forces - EP",
+        "url": "https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I"
+      },
+      "artists": [
+        {
+          "name": "Jordan DePaul",
+          "url": "https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h"
+        }
+      ],
+      "duration_ms": 228787,
+      "name": "Brighter Shade of Blue",
+      "url": "https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh"
     },
     {
       "added_at": "2024-08-19 19:57:57",

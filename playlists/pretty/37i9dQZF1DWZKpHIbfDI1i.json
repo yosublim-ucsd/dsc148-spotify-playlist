@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yeri Mua y El Malilla en portada ",
-  "num_followers": 717284,
+  "num_followers": 717679,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "NO PIERDO LA VIDA",
-        "url": "https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 168546,
-      "name": "NO PIERDO LA VIDA",
-      "url": "https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 163750,
       "name": "Mami T\u00fa",
       "url": "https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "NO PIERDO LA VIDA",
+        "url": "https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 168546,
+      "name": "NO PIERDO LA VIDA",
+      "url": "https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 234890,
-      "name": "EN LA PEDA",
-      "url": "https://open.spotify.com/track/3agTX6v1AbfY3mMA8qX2Bh"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Otra Mentira",
         "url": "https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 258303,
       "name": "Otra Mentira",
       "url": "https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 234890,
+      "name": "EN LA PEDA",
+      "url": "https://open.spotify.com/track/3agTX6v1AbfY3mMA8qX2Bh"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "OOTD",
-        "url": "https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 169896,
-      "name": "OOTD",
-      "url": "https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "La Motora",
         "url": "https://open.spotify.com/album/3zH5JHBP0CD2gh8h1cV2U8"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 203750,
       "name": "La Motora",
       "url": "https://open.spotify.com/track/7wH57Wibq1vdVr6QmlLL5c"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "OOTD",
+        "url": "https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 169896,
+      "name": "OOTD",
+      "url": "https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Maury",
-          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
-        }
-      ],
-      "duration_ms": 173195,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "0 Sentimientos",
         "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
       },
@@ -1331,6 +1311,22 @@
       "duration_ms": 195334,
       "name": "0 Sentimientos",
       "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Tu H\u00e9roe",
+        "url": "https://open.spotify.com/album/09zIV6A4I2sZJFJ6z3vAwn"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Tu H\u00e9roe",
+      "url": "https://open.spotify.com/track/5AKWFDSXV2edVPHPlaO9qL"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1351,26 +1347,22 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Ni Fiestas, Ni Flores - Spotify Single",
-        "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
       },
       "artists": [
         {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         },
         {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
         }
       ],
-      "duration_ms": 185240,
-      "name": "Ni Fiestas, Ni Flores - Spotify Single",
-      "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
+      "duration_ms": 173195,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1403,18 +1395,26 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Tu H\u00e9roe",
-        "url": "https://open.spotify.com/album/09zIV6A4I2sZJFJ6z3vAwn"
+        "name": "Ni Fiestas, Ni Flores - Spotify Single",
+        "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Tu H\u00e9roe",
-      "url": "https://open.spotify.com/track/5AKWFDSXV2edVPHPlaO9qL"
+      "duration_ms": 185240,
+      "name": "Ni Fiestas, Ni Flores - Spotify Single",
+      "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
     },
     {
       "added_at": "2024-12-20 06:00:07",

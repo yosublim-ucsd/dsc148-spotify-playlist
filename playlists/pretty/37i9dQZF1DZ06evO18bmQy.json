@@ -1,37 +1,13 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 202287,
+  "num_followers": 202295,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAADdS5844ocTdg8L9rxLuc7o",
+  "snapshot_id": "Z3HigAAAAADGO4W5ROs5nZye8vkHNqjb",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "COMO PUDE",
-        "url": "https://open.spotify.com/album/1BJ8oZQAXZN7zeKBZQHfjP"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Pedrin 31",
-          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
-        }
-      ],
-      "duration_ms": 218029,
-      "name": "COMO PUDE",
-      "url": "https://open.spotify.com/track/7ByJSibimCzArvSSxfnbtE"
-    },
     {
       "added_at": null,
       "album": {
@@ -1343,26 +1319,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/4Fc1PEpME8eCAvrAgCeL0T"
+        "name": "Zero Chances (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
       },
       "artists": [
         {
-          "name": "Zarastruta",
-          "url": "https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM"
+          "name": "Akatu",
+          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
         },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Juce Rock",
-          "url": "https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv"
         }
       ],
-      "duration_ms": 296233,
-      "name": "Bolha",
-      "url": "https://open.spotify.com/track/0BA4rJhjtBy1ZzRnXwvqB2"
+      "duration_ms": 218410,
+      "name": "Zero Chances - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
     }
   ],
   "unique_name": "This Is Djonga",

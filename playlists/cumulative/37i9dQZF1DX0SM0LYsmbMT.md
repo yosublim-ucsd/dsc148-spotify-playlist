@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,319 songs - 6 day 20 hr 38 min
+4,320 songs - 6 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3430,6 +3430,7 @@
 | [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-17 | 2022-12-16 |
 | [Speakeasy](https://open.spotify.com/track/1n4ru72obd2MB5O74KKLkn) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Speakeasy](https://open.spotify.com/album/1IqfowbXnSwFU6ZAA4lGNQ) | 1:56 | 2020-10-16 | 2021-01-29 |
 | [Special Day](https://open.spotify.com/track/7wZXkIg7XhmDlOXxlv3pPL) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS) | [Summertime Vibes](https://open.spotify.com/album/0L5YuSOv3LViITz6QpWjFn) | 3:00 | 2020-09-30 | 2021-05-14 |
+| [Special Herbs](https://open.spotify.com/track/7bL66mqhpnwzj3SRTeWAL5) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Special Herbs](https://open.spotify.com/album/1U0tCzBSo77Z8hHVBou9JM) | 1:54 | 2024-12-16 |  |
 | [Spektar](https://open.spotify.com/track/2x0XLG0gGdqUzqnAtRzH7Q) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Spektar](https://open.spotify.com/album/7oeC39Ld0uXtNR5jnz3zLv) | 2:06 | 2024-12-16 |  |
 | [Spektro](https://open.spotify.com/track/6yE2hBRomaHqbGpsU3KTS9) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Spektro](https://open.spotify.com/album/4s1UqtBjC2WzoH2S6cW3eO) | 1:53 | 2023-10-19 |  |
 | [Speranza](https://open.spotify.com/track/4MHgOKHUYT34F3OpxdQevc) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Jonathan Ritzel](https://open.spotify.com/artist/2QU1EbvjSOv7JbKGVa1EL3), [K.Wrantz](https://open.spotify.com/artist/20FgL3XokJdPwFjLn8JKu5) | [Speranza](https://open.spotify.com/album/30fgOHxyNf06BJqWVqwDso) | 1:55 | 2021-01-29 | 2021-01-30 |
@@ -3758,7 +3759,7 @@
 | [Terraria](https://open.spotify.com/track/3dIWSKH09mRTYaXwyQnIIB) | [Flynn](https://open.spotify.com/artist/0kJ2SIy2AnpPecBkJBzbMs) | [Terraria](https://open.spotify.com/album/7yATnJQeMn6hIuy0bL5A0q) | 2:17 | 2020-10-09 | 2020-12-04 |
 | [Tesoro](https://open.spotify.com/track/50FAMtr0bCWmcr32wP4zJ7) | [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Tesoro](https://open.spotify.com/album/3yIpTYdbqhltPnPXh6hMVA) | 2:51 | 2023-05-11 | 2023-05-19 |
 | [Tessin](https://open.spotify.com/track/2cVSY76Kbh7lt6c4s3Dyl2) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Tessin](https://open.spotify.com/album/7GbM9Bd7aaXzJVrEzCxmkQ) | 2:10 | 2021-12-17 | 2022-09-09 |
-| [Teus Olhos](https://open.spotify.com/track/2720KpvF5GU32BPmQcoJlW) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Teus Olhos](https://open.spotify.com/album/0v2g7bYC0edILrCug9aY7a) | 3:08 | 2024-04-25 |  |
+| [Teus Olhos](https://open.spotify.com/track/2720KpvF5GU32BPmQcoJlW) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Teus Olhos](https://open.spotify.com/album/0v2g7bYC0edILrCug9aY7a) | 3:08 | 2024-04-25 | 2025-01-01 |
 | [Teñido](https://open.spotify.com/track/3bhM9Ep1gSIqnBN84gaIgW) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Teñido](https://open.spotify.com/album/12rSENOvT03hh66i7RLgRc) | 2:14 | 2019-08-02 | 2020-01-07 |
 | [That Summer Feeling](https://open.spotify.com/track/42UxztZhDlE6Pl3OP5r3iy) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [That Summer Feeling](https://open.spotify.com/album/7F4FtBnBQihTNFsSzI1WER) | 2:07 | 2023-10-05 |  |
 | [That's Cool](https://open.spotify.com/track/1v1dO4EG1h8lQch6Rjmi0j) | [Mudiai](https://open.spotify.com/artist/3WhIkySENPmxM6tfy544xp) | [Introducing](https://open.spotify.com/album/3YZIroQJBK1S3SF3YYfoI4) | 1:54 | 2020-06-22 | 2020-08-27 |

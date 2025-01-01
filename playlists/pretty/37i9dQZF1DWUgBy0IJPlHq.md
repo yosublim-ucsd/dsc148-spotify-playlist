@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Julien Baker & TORRES
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,470 likes - 102 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,546 likes - 102 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

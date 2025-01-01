@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2015. Cover: Nicky Jam\n",
-  "num_followers": 50540,
+  "num_followers": 50588,
   "original_name": "Latin Hits 2015",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,18 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "The Last Don II",
-        "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 234080,
-      "name": "Perdido En Tus Ojos",
-      "url": "https://open.spotify.com/track/0Mk48GaMgw0qz0auSymuHd"
+      "duration_ms": 160783,
+      "name": "Curiosidad",
+      "url": "https://open.spotify.com/track/4PCVVIrUDldF5r7RXtOB5W"
     }
   ],
   "unique_name": "Latin Hits 2015",

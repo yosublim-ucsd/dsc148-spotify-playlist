@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,059 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,062 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,22 +31,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 21 | [Everybody Knows](https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Everybody Knows](https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo) | 5:26 |
 | 22 | [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 |
 | 23 | [Everybody Knows](https://open.spotify.com/track/0W4ALYvdQZfpiOG3wyfZ0f) | [Elizabeth & the Catapult](https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR) | [Taller Children](https://open.spotify.com/album/3qvwnnpiuuknpvB451r2IS) | 3:37 |
-| 24 | [Song of Bernadette](https://open.spotify.com/track/2dtsFPhGB5YduAoIKekVaT) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Bathhouse Betty](https://open.spotify.com/album/73NZUZBj0TJbzaEdW503Yn) | 3:46 |
-| 25 | [A Thousand Kisses Deep \- New Recording](https://open.spotify.com/track/0DYMn3FBYloHiTqiCTDIB9) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 5:42 |
+| 24 | [A Thousand Kisses Deep \- New Recording](https://open.spotify.com/track/0DYMn3FBYloHiTqiCTDIB9) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 5:42 |
+| 25 | [Song of Bernadette](https://open.spotify.com/track/2dtsFPhGB5YduAoIKekVaT) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Bathhouse Betty](https://open.spotify.com/album/73NZUZBj0TJbzaEdW503Yn) | 3:46 |
 | 26 | [You Want It Darker \(feat\. Iggy Pop\)](https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [You Want It Darker](https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp) | 5:04 |
 | 27 | [Bird On The Wire](https://open.spotify.com/track/3UvXtf3ZXjmFDB3QSY4iXL) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [The Mayor Of MacDougal Street: Rarities 1957\-1969](https://open.spotify.com/album/7ppsSKyut4ssQyxbju7itg) | 3:29 |
 | 28 | [Always](https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 8:02 |
 | 29 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/611gH5bqdrgHpNf7JkcE1V) | [Harvey Milk](https://open.spotify.com/artist/0U06WlIl1leJMEHBf7WAwR) | [The Kelly Sessions](https://open.spotify.com/album/3PeIUnA8sZ1lubjS1zjE8D) | 2:22 |
 | 30 | [Ain't No Cure For Love](https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 4:33 |
 | 31 | [Hallelujah](https://open.spotify.com/track/5qv0ohJV2QNwga79jLNDYQ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [So Real: Songs From Jeff Buckley](https://open.spotify.com/album/2zfb6rtqx4GM3V65hhsCMY) | 6:54 |
-| 32 | [Dance Me to the End of Love \(Bonus\) \- Bonus Track](https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:05 |
-| 33 | [Joan of Arc](https://open.spotify.com/track/5hNd5qV3duVHstuh56Diow) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 6:10 |
+| 32 | [Joan of Arc](https://open.spotify.com/track/5hNd5qV3duVHstuh56Diow) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 6:10 |
+| 33 | [Dance Me to the End of Love \(Bonus\) \- Bonus Track](https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:05 |
 | 34 | [Whither Thou Goest \- Live in London](https://open.spotify.com/track/6SlKJHu86BAm8VYsRaHBu3) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In London](https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY) | 1:27 |
 | 35 | [Pequeño Vals Vienés](https://open.spotify.com/track/6t2vcP38D08xYdioGyOUC6) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Raül Fernandez Miró](https://open.spotify.com/artist/1jIEmZJNXh1TT7hBjCMSy2) | [Granada](https://open.spotify.com/album/6d0iojYCEgb4D1L9zUFrdV) | 5:34 |
 | 36 | [Dance Me To The End Of Love](https://open.spotify.com/track/4gBdOhWJpOZBTx0fsreDcM) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Queer as Folk \- The Final Season](https://open.spotify.com/album/1MvhUanwf3vj9377tOezPi) | 3:57 |
 | 37 | [Famous Blue Raincoat](https://open.spotify.com/track/23LCJxdqRMYlnVj5Qg5JuU) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef) | 5:39 |
 | 38 | [Chelsea Hotel \#2](https://open.spotify.com/track/368ezT8KnV9L3so0wlz8v2) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/34UsK0W106eCfrfJ2s3KNN) | 3:35 |
-| 39 | [Priests](https://open.spotify.com/track/2oSuNL0HLPFVe9VKpMVPOj) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 4:57 |
-| 40 | [Who By Fire](https://open.spotify.com/track/706Fe7B2pM3nC5IFGjp5EQ) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Songs I Love Vol.1](https://open.spotify.com/album/6Vo8N124C1PP8kTXhICyyP) | 3:00 |
+| 39 | [Who By Fire](https://open.spotify.com/track/706Fe7B2pM3nC5IFGjp5EQ) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Songs I Love Vol.1](https://open.spotify.com/album/6Vo8N124C1PP8kTXhICyyP) | 3:00 |
+| 40 | [Priests](https://open.spotify.com/track/2oSuNL0HLPFVe9VKpMVPOj) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 4:57 |
 
 Snapshot ID: `ZMLPJgAAAACweFGrAoWCX5RsvcKhZ0Ib`

@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1485777,
+  "num_followers": 1485803,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "CELEBRATION OF JAY 3",
-        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Rostrum",
-      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
         "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
       },
@@ -607,58 +591,6 @@
       "duration_ms": 243693,
       "name": "Sometimes - Remix Instrumental",
       "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Primo",
-        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
-        }
-      ],
-      "duration_ms": 162324,
-      "name": "Primo",
-      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Raincoat",
-        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Raincoat",
-      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -683,22 +615,86 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
       },
       "artists": [
         {
-          "name": "Allgood",
-          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "Primo",
+        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+        }
+      ],
+      "duration_ms": 162324,
+      "name": "Primo",
+      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "CELEBRATION OF JAY 3",
+        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Rostrum",
+      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "SMiLE",
+        "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        }
+      ],
+      "duration_ms": 191361,
+      "name": "SMiLE",
+      "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "Raincoat",
+        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Raincoat",
+      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -743,18 +739,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "SMiLE",
-        "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
       },
       "artists": [
         {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+          "name": "Allgood",
+          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
         }
       ],
-      "duration_ms": 191361,
-      "name": "SMiLE",
-      "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
+      "duration_ms": 128000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Paris Nights",
-        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Paris Nights",
-      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "easy",
         "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 203500,
       "name": "easy",
       "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
-      },
-      "artists": [
-        {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 148561,
       "name": "Baby, It's Over",
       "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+      },
+      "artists": [
+        {
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Ova",
-        "url": "https://open.spotify.com/album/0W7PGvXL4DYYOuyctcrFwN"
-      },
-      "artists": [
-        {
-          "name": "URCHN",
-          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "Ova",
-      "url": "https://open.spotify.com/track/3bHSr5nxcXLoUr6LyRYTuT"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "City Strollin'",
         "url": "https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 198777,
       "name": "City Strollin'",
       "url": "https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "Ova",
+        "url": "https://open.spotify.com/album/0W7PGvXL4DYYOuyctcrFwN"
+      },
+      "artists": [
+        {
+          "name": "URCHN",
+          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Ova",
+      "url": "https://open.spotify.com/track/3bHSr5nxcXLoUr6LyRYTuT"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Constellation",
-        "url": "https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz"
-      },
-      "artists": [
-        {
-          "name": "Sling Dilly",
-          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "Constellation",
-      "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "The Valley",
         "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 166588,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "Constellation",
+        "url": "https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz"
+      },
+      "artists": [
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "duration_ms": 131350,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "Namikimichi",
         "url": "https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 119230,
       "name": "Namikimichi",
       "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
-      },
-      "artists": [
-        {
-          "name": "helistofax",
-          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
-        }
-      ],
-      "duration_ms": 131350,
-      "name": "Crushing",
-      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "afternoon shower",
-        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
-      },
-      "artists": [
-        {
-          "name": "AOI",
-          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
-        }
-      ],
-      "duration_ms": 127595,
-      "name": "afternoon shower",
-      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Hip Shop",
         "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b"
       },
       "artists": [
         {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+          "name": "Peter Kind",
+          "url": "https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM"
         }
       ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+      "duration_ms": 124151,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1423,34 +1407,50 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b"
+        "name": "afternoon shower",
+        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
       },
       "artists": [
         {
-          "name": "Peter Kind",
-          "url": "https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM"
+          "name": "AOI",
+          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
         }
       ],
-      "duration_ms": 124151,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD"
+      "duration_ms": 127595,
+      "name": "afternoon shower",
+      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
     },
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Hot Water",
-        "url": "https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9"
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
       },
       "artists": [
         {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
         }
       ],
-      "duration_ms": 142417,
-      "name": "Carpet",
-      "url": "https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z"
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "181's penny candy store #7",
+        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Win the Lottery",
+      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
     }
   ],
   "unique_name": "Mellow Beats",

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 21373,
+  "num_followers": 21385,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "LLC",
-        "url": "https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        }
-      ],
-      "duration_ms": 137813,
-      "name": "LLC",
-      "url": "https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 148750,
       "name": "6 For 6",
       "url": "https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "LLC",
+        "url": "https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 137813,
+      "name": "LLC",
+      "url": "https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "GD Anthem",
+        "url": "https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo"
+      },
+      "artists": [
+        {
+          "name": "Rooga",
+          "url": "https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1"
+        }
+      ],
+      "duration_ms": 190566,
+      "name": "GD Anthem",
+      "url": "https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Off-White (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 164353,
       "name": "Off-White (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "GD Anthem",
-        "url": "https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo"
-      },
-      "artists": [
-        {
-          "name": "Rooga",
-          "url": "https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1"
-        }
-      ],
-      "duration_ms": 190566,
-      "name": "GD Anthem",
-      "url": "https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh"
     },
     {
       "added_at": "2022-10-01 16:17:17",

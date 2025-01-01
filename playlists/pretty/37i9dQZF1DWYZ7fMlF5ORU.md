@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,875 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,930 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 41 | [Mais Que Vencedor](https://open.spotify.com/track/4SXBM1ozlACNvNSGS4iFlL) | [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Redenção](https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA) | 4:07 |
 | 42 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 |
 | 43 | [Glória](https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Multiforme](https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT) | 4:48 |
-| 44 | [Nunca Vou Parar \- Live](https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS) | [Daniel Araujo](https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg) | [Nunca Vou Parar \(Live\)](https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF) | 3:45 |
-| 45 | [Alegria](https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Alegria](https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho) | 4:13 |
+| 44 | [Alegria](https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Alegria](https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho) | 4:13 |
+| 45 | [Nunca Vou Parar \- Live](https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS) | [Daniel Araujo](https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg) | [Nunca Vou Parar \(Live\)](https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF) | 3:45 |
 | 46 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 |
 | 47 | [Quero Te Levar Comigo](https://open.spotify.com/track/0ATKsRzQ4dQvN0m4sewCTB) | [Bruno Cerqueira](https://open.spotify.com/artist/2YKr7WRb3XjesJU0P7oC3D) | [Quero Te Levar Comigo](https://open.spotify.com/album/4kvKVOVwLkE1YYP0i7SIq6) | 4:39 |
 | 48 | [És o Meu Amor](https://open.spotify.com/track/5FJx6A87uRYHowoeHfEe7F) | [Veronica Sacer](https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v), [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [És o Meu Amor](https://open.spotify.com/album/0v8NOxHR61aVvzwPfxYi8k) | 3:46 |
-| 49 | [Meu Abrigo \- Ao Vivo](https://open.spotify.com/track/66z5Jf0qaXAPFpHgmcRcxi) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [Meu Abrigo \(Ao Vivo\)](https://open.spotify.com/album/3sHNjPgKiepQAQJxZWzMgg) | 4:34 |
+| 49 | [Jeová é o teu Cavaleiro \(Ao Vivo\)](https://open.spotify.com/track/2xtcFBJmzJcnhW7D4dqNqb) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas 30 anos \- Ao vivo no Teatro Rival](https://open.spotify.com/album/3eDeYVVTHzx7Yjc2KYblFq) | 4:26 |
 | 50 | [A Voz do Senhor](https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Em Tua Presença](https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi) | 4:04 |
-| 51 | [Jeová é o teu Cavaleiro \(Ao Vivo\)](https://open.spotify.com/track/2xtcFBJmzJcnhW7D4dqNqb) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas 30 anos \- Ao vivo no Teatro Rival](https://open.spotify.com/album/3eDeYVVTHzx7Yjc2KYblFq) | 4:26 |
+| 51 | [Meu Abrigo \- Ao Vivo](https://open.spotify.com/track/66z5Jf0qaXAPFpHgmcRcxi) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [Meu Abrigo \(Ao Vivo\)](https://open.spotify.com/album/3sHNjPgKiepQAQJxZWzMgg) | 4:34 |
 | 52 | [Estado De Graça \- Ao Vivo](https://open.spotify.com/track/5lDcuC16NaVZkjWRvAtTIe) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Preto No Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41) | 4:45 |
 | 53 | [Livre Sou](https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Haja Luz](https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2) | 3:29 |
 | 54 | [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 |

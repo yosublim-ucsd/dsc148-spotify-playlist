@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-188 songs - 11 hr 40 min
+189 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,10 @@
 | [กอดในใจ](https://open.spotify.com/track/5OLQ6wJUkyVsqL13NpMZJ4) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [JAYLERR](https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F) | [กอดในใจ](https://open.spotify.com/album/6cjIQVmyudC1FZ1xNnMQai) | 3:37 | 2023-02-21 | 2024-04-19 |
 | [กะทันหัน](https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu) | [Fymme Bongkot](https://open.spotify.com/artist/5DU5PyU8u0JZSRyJdMWgsl), [Ruj Supharuj](https://open.spotify.com/artist/3OBLHdh35n5TrEeYQawkO0), [LOWFAT](https://open.spotify.com/artist/6NqYduReZoJZDuPLNiqqGR) | [All You Need is Love 3](https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD) | 4:40 | 2023-02-10 |  |
 | [การเดินทางที่สวยงาม](https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [การเดินทางที่สวยงาม \(A Beautiful Ride\)](https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os) | 3:33 | 2023-06-09 |  |
+| [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \- From กี่หมื่นฟ้า Your Sky Series](https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj) | [MARCKRIS OF BUS](https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM) | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \[From กี่หมื่นฟ้า Your Sky Series\]](https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI) | 3:23 | 2024-12-31 |  |
 | [ของขวัญ](https://open.spotify.com/track/5hXcptJwH8dr3s9ibOZUvp) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Left Right And Something](https://open.spotify.com/album/3GPJ0Z4IvhB948RrCGIoPj) | 5:22 | 2023-02-10 | 2024-04-19 |
 | [ขอจองได้ไหม](https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z) | [เอ๋ยเอ้ย](https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j) | [ขอจองได้ไหม](https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF) | 3:21 | 2024-03-16 |  |
-| [ขอให้เรื่องของเราไม่มีตอนจบ \(I Wish\)](https://open.spotify.com/track/3BJEGjNxCELlKPLAhgudYy) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ขอให้เรื่องของเราไม่มีตอนจบ \(I Wish\)](https://open.spotify.com/album/4pBBHOfDPAH14MJOKgRfVr) | 3:09 | 2024-11-24 |  |
+| [ขอให้เรื่องของเราไม่มีตอนจบ \(I Wish\)](https://open.spotify.com/track/3BJEGjNxCELlKPLAhgudYy) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ขอให้เรื่องของเราไม่มีตอนจบ \(I Wish\)](https://open.spotify.com/album/4pBBHOfDPAH14MJOKgRfVr) | 3:09 | 2024-11-24 | 2025-01-01 |
 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 | 2023-02-10 |  |
 | [ข้างกัน \(City\)](https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:56 | 2023-02-10 |  |
 | [ข้าน้อยสมควรตาย](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 3:51 | 2023-02-10 |  |

@@ -2411,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/5kqIOpenlpRsEk0LL83Pol"
+      },
+      "artists": [
+        {
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205802,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/4oHb6CPGuNVN4jTB7JQhYk"
+    },
+    {
+      "album": {
         "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
         "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
       },
@@ -4150,7 +4168,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 169317,
       "name": "Lord, I Hope This Day Is Good",
       "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"

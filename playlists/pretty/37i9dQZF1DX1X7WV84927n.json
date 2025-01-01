@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Dorothy",
-  "num_followers": 380081,
+  "num_followers": 380155,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Vol. 3",
-        "url": "https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 217830,
-      "name": "Spare Me",
-      "url": "https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "Sulfur",
         "url": "https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 206180,
       "name": "Sulfur",
       "url": "https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "Vol. 3",
+        "url": "https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 217830,
+      "name": "Spare Me",
+      "url": "https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Things Are Different Now",
-        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
-      },
-      "artists": [
-        {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "2005",
         "url": "https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 203426,
       "name": "2005",
       "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "Things Are Different Now",
+        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "duration_ms": 174428,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 193968,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "Lonely is the Muse",
         "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "nerv",
-        "url": "https://open.spotify.com/album/1wEIPoFfCdeo6Bpnxlc9ao"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
       },
       "artists": [
         {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 192611,
-      "name": "nerv",
-      "url": "https://open.spotify.com/track/6afGaR18TADZIVfNhcsNe4"
+      "duration_ms": 193968,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -795,22 +779,18 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Floods of Triton",
-        "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
+        "name": "nerv",
+        "url": "https://open.spotify.com/album/1wEIPoFfCdeo6Bpnxlc9ao"
       },
       "artists": [
         {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
         }
       ],
-      "duration_ms": 269583,
-      "name": "Floods of Triton",
-      "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
+      "duration_ms": 192611,
+      "name": "nerv",
+      "url": "https://open.spotify.com/track/6afGaR18TADZIVfNhcsNe4"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -831,6 +811,26 @@
       "duration_ms": 126986,
       "name": "Masochistic Lovers",
       "url": "https://open.spotify.com/track/0J5uv1lTpYslQnbSlWBQYL"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "Floods of Triton",
+        "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 269583,
+      "name": "Floods of Triton",
+      "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Searching for Tomorrow",
-        "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Searching for Tomorrow",
-      "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "Dragonborn",
         "url": "https://open.spotify.com/album/0OnqzEEMsXMiRKL3je3SHi"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
+        "name": "Searching for Tomorrow",
+        "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Searching for Tomorrow",
+      "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
         "name": "Cancelled",
         "url": "https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 287840,
       "name": "Cancelled",
       "url": "https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "Shame On Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2b3QhRrFnyLEjYsLOfFOB0"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "duration_ms": 218537,
+      "name": "Good In Goodbye",
+      "url": "https://open.spotify.com/track/1eDMcpnxaWCIBVzv9ZSR8X"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Shame On Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2b3QhRrFnyLEjYsLOfFOB0"
-      },
-      "artists": [
-        {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
-        }
-      ],
-      "duration_ms": 218537,
-      "name": "Good In Goodbye",
-      "url": "https://open.spotify.com/track/1eDMcpnxaWCIBVzv9ZSR8X"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "Pulling Teeth",
         "url": "https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Attempted Lover (Deluxe)",
-        "url": "https://open.spotify.com/album/6a26AqzsU7w3hNkd2WIScs"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 151137,
-      "name": "Happiest",
-      "url": "https://open.spotify.com/track/3AIttZ1HiYYA8RgjCzMEYS"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "Apathy / 31.10",
         "url": "https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 211230,
       "name": "Apathy",
       "url": "https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "Attempted Lover (Deluxe)",
+        "url": "https://open.spotify.com/album/6a26AqzsU7w3hNkd2WIScs"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 151137,
+      "name": "Happiest",
+      "url": "https://open.spotify.com/track/3AIttZ1HiYYA8RgjCzMEYS"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "The Optimist (feat. Conquer Divide)",
-        "url": "https://open.spotify.com/album/2P8zgLveCE6sxbnUc8bRqu"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        },
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "The Optimist (feat. Conquer Divide)",
-      "url": "https://open.spotify.com/track/5yuL23RxJeVqFvvV1BoYmS"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "In Desolation",
         "url": "https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 219035,
       "name": "MOTH KIDS",
       "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "The Optimist (feat. Conquer Divide)",
+        "url": "https://open.spotify.com/album/2P8zgLveCE6sxbnUc8bRqu"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        },
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "The Optimist (feat. Conquer Divide)",
+      "url": "https://open.spotify.com/track/5yuL23RxJeVqFvvV1BoYmS"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
+        "name": "Sincerity",
+        "url": "https://open.spotify.com/album/1uNfPU36BemCmrO2BTnHbE"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/32epANLwQ0112iterEB94m"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
         "name": "70% Dead",
         "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
       },
@@ -1631,26 +1651,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Sincerity",
-        "url": "https://open.spotify.com/album/1uNfPU36BemCmrO2BTnHbE"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "Sincerity",
-      "url": "https://open.spotify.com/track/32epANLwQ0112iterEB94m"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "High Stakes",
         "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Haunting You",
-        "url": "https://open.spotify.com/album/62EPsCccU59mHcHzj3ZZPr"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 157203,
-      "name": "Haunting You",
-      "url": "https://open.spotify.com/track/1ZHcs7CDcfUcni4MGbdNz9"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "One Foot In The Grave",
         "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "REVIVED",
-        "url": "https://open.spotify.com/album/0DRBilZLlI0Hc2TKf3GG4h"
+        "name": "Haunting You",
+        "url": "https://open.spotify.com/album/62EPsCccU59mHcHzj3ZZPr"
       },
       "artists": [
         {
-          "name": "Kami Kehoe",
-          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
         }
       ],
-      "duration_ms": 187526,
-      "name": "SORRY",
-      "url": "https://open.spotify.com/track/1xLPJ7vHjjiNuFay8fcyn2"
+      "duration_ms": 157203,
+      "name": "Haunting You",
+      "url": "https://open.spotify.com/track/1ZHcs7CDcfUcni4MGbdNz9"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -1747,6 +1731,22 @@
       "duration_ms": 280980,
       "name": "Get Your Shit Together",
       "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "REVIVED",
+        "url": "https://open.spotify.com/album/0DRBilZLlI0Hc2TKf3GG4h"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "duration_ms": 187526,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/1xLPJ7vHjjiNuFay8fcyn2"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -1899,30 +1899,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Leave Me to Bleed (feat. Brandon Saller)",
-        "url": "https://open.spotify.com/album/37LZExXprGsgP6b5Y7FJdx"
-      },
-      "artists": [
-        {
-          "name": "Mike's Dead",
-          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
-        },
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Brandon Saller",
-          "url": "https://open.spotify.com/artist/12x8XI7ZYpGnKPUzifOxL6"
-        }
-      ],
-      "duration_ms": 218384,
-      "name": "Leave Me to Bleed (feat. Brandon Saller)",
-      "url": "https://open.spotify.com/track/6QfrQzppJ3yVqrDLS6L3L4"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "Live Without It",
         "url": "https://open.spotify.com/album/2CRwZC57AFDKsaz9gfSlZu"
       },
@@ -1955,6 +1931,30 @@
       "duration_ms": 225881,
       "name": "Better Days (feat. Dorothy)",
       "url": "https://open.spotify.com/track/3qYVgtSRgpfVwipxF52d4T"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "Leave Me to Bleed (feat. Brandon Saller)",
+        "url": "https://open.spotify.com/album/37LZExXprGsgP6b5Y7FJdx"
+      },
+      "artists": [
+        {
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Brandon Saller",
+          "url": "https://open.spotify.com/artist/12x8XI7ZYpGnKPUzifOxL6"
+        }
+      ],
+      "duration_ms": 218384,
+      "name": "Leave Me to Bleed (feat. Brandon Saller)",
+      "url": "https://open.spotify.com/track/6QfrQzppJ3yVqrDLS6L3L4"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX"
-      },
-      "artists": [
-        {
-          "name": "From Fall to Spring",
-          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
-        }
-      ],
-      "duration_ms": 184311,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "CREATURE",
         "url": "https://open.spotify.com/album/0KokicU0uLPi9B3kPjxM0Z"
       },
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Home Improvement",
-        "url": "https://open.spotify.com/album/31zpQaCjaxluAa2KPHACYK"
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX"
       },
       "artists": [
         {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+          "name": "From Fall to Spring",
+          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
         }
       ],
-      "duration_ms": 175485,
-      "name": "Home Improvement",
-      "url": "https://open.spotify.com/track/0fjIk7DXmHlPFjzP6yjQAW"
+      "duration_ms": 184311,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -2067,22 +2051,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Circle Pit // Bad Seed",
-        "url": "https://open.spotify.com/album/3ZGdn6hqBaOA1Kp89J51st"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 175365,
-      "name": "Circle Pit",
-      "url": "https://open.spotify.com/track/7cY80346hpJqWsZICV8AP2"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "Everything Is A Cult",
         "url": "https://open.spotify.com/album/0xaE19kvWBnbJZj3ApxwSz"
       },
@@ -2099,18 +2067,34 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "ODDWORLD",
-        "url": "https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF"
+        "name": "Home Improvement",
+        "url": "https://open.spotify.com/album/31zpQaCjaxluAa2KPHACYK"
       },
       "artists": [
         {
-          "name": "Ocean Grove",
-          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
         }
       ],
-      "duration_ms": 180625,
-      "name": "SOWHAT1999",
-      "url": "https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q"
+      "duration_ms": 175485,
+      "name": "Home Improvement",
+      "url": "https://open.spotify.com/track/0fjIk7DXmHlPFjzP6yjQAW"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "Circle Pit // Bad Seed",
+        "url": "https://open.spotify.com/album/3ZGdn6hqBaOA1Kp89J51st"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 175365,
+      "name": "Circle Pit",
+      "url": "https://open.spotify.com/track/7cY80346hpJqWsZICV8AP2"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -2127,6 +2111,22 @@
       "duration_ms": 229778,
       "name": "Justice Will Shine On",
       "url": "https://open.spotify.com/track/3DwjMFo9ph8ItBBU75owDY"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "ODDWORLD",
+        "url": "https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "duration_ms": 180625,
+      "name": "SOWHAT1999",
+      "url": "https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/3hoPKo2uUXRMoXkppIVNgm"
-      },
-      "artists": [
-        {
-          "name": "Tremonti",
-          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
-        }
-      ],
-      "duration_ms": 266167,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/59mm9XCMyhZG23N1WPXE63"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "Machines",
         "url": "https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 246798,
       "name": "Machines",
       "url": "https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3hoPKo2uUXRMoXkppIVNgm"
+      },
+      "artists": [
+        {
+          "name": "Tremonti",
+          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
+        }
+      ],
+      "duration_ms": 266167,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/59mm9XCMyhZG23N1WPXE63"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -2247,26 +2247,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Obey",
-        "url": "https://open.spotify.com/album/4w6LmidRk4Joz88AojOfBb"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 184137,
-      "name": "Obey",
-      "url": "https://open.spotify.com/track/1Zm0Y3RM2Pan9gzpFs3dPn"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "Dream Machine (The Lucid Edition)",
         "url": "https://open.spotify.com/album/0aiL7SU1RkbrkjGydi2Q4F"
       },
@@ -2279,6 +2259,22 @@
       "duration_ms": 243538,
       "name": "Love and a Smoking Gun",
       "url": "https://open.spotify.com/track/3yo3ZsW5OmKGEPvuScRWVL"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "ENMY",
+        "url": "https://open.spotify.com/album/1D3qYb40QKAHQW5RVFNwRH"
+      },
+      "artists": [
+        {
+          "name": "ENMY",
+          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
+        }
+      ],
+      "duration_ms": 190758,
+      "name": "Our Demise",
+      "url": "https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -2303,18 +2299,22 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "ENMY",
-        "url": "https://open.spotify.com/album/1D3qYb40QKAHQW5RVFNwRH"
+        "name": "Obey",
+        "url": "https://open.spotify.com/album/4w6LmidRk4Joz88AojOfBb"
       },
       "artists": [
         {
-          "name": "ENMY",
-          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
         }
       ],
-      "duration_ms": 190758,
-      "name": "Our Demise",
-      "url": "https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n"
+      "duration_ms": 184137,
+      "name": "Obey",
+      "url": "https://open.spotify.com/track/1Zm0Y3RM2Pan9gzpFs3dPn"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Pair of Aces, Pt. 1",
-        "url": "https://open.spotify.com/album/4yR9WW3L9AdPfO0K2lL6Ak"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 633359,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/2OygxxakjQDX5s3EFZAvJ9"
-    },
-    {
-      "added_at": "2024-12-20 05:00:35",
-      "album": {
         "name": "Bad Behavior",
         "url": "https://open.spotify.com/album/5vmVFss9dY7Ga2AfPaAX2B"
       },
@@ -2579,18 +2563,18 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "MISTY ECSTASY",
-        "url": "https://open.spotify.com/album/6wHey3HFy6BdfOIeaSB8ZJ"
+        "name": "Pair of Aces, Pt. 1",
+        "url": "https://open.spotify.com/album/4yR9WW3L9AdPfO0K2lL6Ak"
       },
       "artists": [
         {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
         }
       ],
-      "duration_ms": 207160,
-      "name": "MISTY ECSTASY",
-      "url": "https://open.spotify.com/track/1CqXnW5b375JJFppbD5YQl"
+      "duration_ms": 633359,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/2OygxxakjQDX5s3EFZAvJ9"
     },
     {
       "added_at": "2024-12-20 05:00:35",
@@ -2615,18 +2599,34 @@
     {
       "added_at": "2024-12-20 05:00:35",
       "album": {
-        "name": "Realign",
-        "url": "https://open.spotify.com/album/4lhapzDowi36LJte0Xc85o"
+        "name": "MISTY ECSTASY",
+        "url": "https://open.spotify.com/album/6wHey3HFy6BdfOIeaSB8ZJ"
       },
       "artists": [
         {
-          "name": "ONI",
-          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Realign",
-      "url": "https://open.spotify.com/track/573HpBnNj6bFZ4YsH8F3TF"
+      "duration_ms": 207160,
+      "name": "MISTY ECSTASY",
+      "url": "https://open.spotify.com/track/1CqXnW5b375JJFppbD5YQl"
+    },
+    {
+      "added_at": "2024-12-20 05:00:35",
+      "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/7uEqTi7T7zyRxdhsLCoqp9"
+      },
+      "artists": [
+        {
+          "name": "Seven Hours After Violet",
+          "url": "https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/2FMNCmWngbfBYBoUSeeKM4"
     }
   ],
   "unique_name": "Hard Rock",

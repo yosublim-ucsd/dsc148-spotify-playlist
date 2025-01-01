@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,079 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,090 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 56 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 |
 | 57 | [Babooshka](https://open.spotify.com/track/53Mz9H5UvWMQUXHZnaZYKQ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever](https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws) | 3:29 |
 | 58 | [You May Be Right](https://open.spotify.com/track/7gMOe0gXYcELUoVugfMmHP) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 4:13 |
-| 59 | [TECHNOPOLIS](https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:14 |
+| 59 | [TECHNOPOLIS](https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:14 |
 | 60 | [トランジスタ・ラジオ \- Single Version](https://open.spotify.com/track/2uURk9PUM63xhPzQOmGDzO) | [RC Succession](https://open.spotify.com/artist/1wpwIk5yi1Oy6zjjzF7ntw) | [EPLP](https://open.spotify.com/album/1vQ5TkMbKDl5vcX5nlkvZj) | 4:33 |
 | 61 | [いなせなロコモーション](https://open.spotify.com/track/4aKXovP9f4JPsDSOXofZvt) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [いなせなロコモーション](https://open.spotify.com/album/6uhHVDAvcRYEMfQ0DDHz7F) | 4:51 |
 | 62 | [いまのキミはピカピカに光って](https://open.spotify.com/track/3b1hzEi86cxr9fZfRCzZY7) | [Tetsuo Saito](https://open.spotify.com/artist/18AxqHLLl6oNFv3jQQwRC6) | [いまのキミはピカピカに光って](https://open.spotify.com/album/2UQv5irwA4Cz15qzrr1naR) | 3:36 |

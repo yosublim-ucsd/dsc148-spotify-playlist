@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Malket
 
-206 songs - 12 hr 34 min
+207 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Tahet Amrak](https://open.spotify.com/track/5FUdHoT1NIaEpb8ylvhCQ0) | [Akhras](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Tahet Amrak](https://open.spotify.com/album/0rnEehZwqWHhyYHbK9EzVi) | 3:59 | 2024-05-10 |  |
 | [Telfizion](https://open.spotify.com/track/0zcCxBYW0kAkaxI6nvyvMR) | [Yazan Rousan](https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW) | [Telfizion](https://open.spotify.com/album/4QOn9Te6pWD6uR8nnk5QqM) | 3:08 | 2023-04-20 |  |
 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 | 2023-04-23 |  |
+| [thank you, goodnight](https://open.spotify.com/track/20RGgoxcZDyV7A3QftVmC1) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:22 | 2024-12-31 |  |
 | [Tlef El Dunya](https://open.spotify.com/track/5UsAauoW1rI6pnj8mZq0t4) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Tlef El Dunya](https://open.spotify.com/album/0C1LBH6DeENAXuFFAjiLfQ) | 2:56 | 2023-04-23 | 2023-05-31 |
 | [W El 7al Eh](https://open.spotify.com/track/5uz5RuH7joyHiwk17HXlOj) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/5QozLcTAMMizJNSl8G3iqA) | 2:59 | 2023-09-19 | 2023-11-25 |
 | [W El 7al Eh](https://open.spotify.com/track/6HeKAyGEX0EW0AvGTw1xgn) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/620iOLdLBpcOwoNxGIoe4f) | 2:59 | 2023-09-19 | 2024-04-19 |

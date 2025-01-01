@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcos Witt",
-  "num_followers": 441927,
+  "num_followers": 442133,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "El Cielo Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
+      },
+      "artists": [
+        {
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Hay Libertad",
+      "url": "https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 252456,
       "name": "1000 Pedazos",
       "url": "https://open.spotify.com/track/0BJbrz72CTsOG6wqwEKxTa"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "El Cielo Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
-      },
-      "artists": [
-        {
-          "name": "Art Aguilera",
-          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Hay Libertad",
-      "url": "https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -507,34 +507,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        },
-        {
-          "name": "Louie Abrego",
-          "url": "https://open.spotify.com/artist/7JziUvazVZhoqI0PmAcyHj"
-        },
-        {
-          "name": "ruli",
-          "url": "https://open.spotify.com/artist/58zw29VNKRuVKHRPmy5c2o"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Socorro",
-      "url": "https://open.spotify.com/track/1Xyf243Z7sN1Ekuq2JcGEi"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Uniendo Cielo Y Tierra",
         "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
@@ -591,6 +563,34 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        },
+        {
+          "name": "Louie Abrego",
+          "url": "https://open.spotify.com/artist/7JziUvazVZhoqI0PmAcyHj"
+        },
+        {
+          "name": "ruli",
+          "url": "https://open.spotify.com/artist/58zw29VNKRuVKHRPmy5c2o"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Socorro",
+      "url": "https://open.spotify.com/track/1Xyf243Z7sN1Ekuq2JcGEi"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
@@ -643,22 +643,18 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
+        "name": "Inexplicable",
+        "url": "https://open.spotify.com/album/1USOV6SxLg77cCzYrFy7oO"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+          "name": "Denicher Pol",
+          "url": "https://open.spotify.com/artist/3C3hBriCxs5RVra7yTMacj"
         }
       ],
-      "duration_ms": 302425,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
+      "duration_ms": 324493,
+      "name": "Inexplicable",
+      "url": "https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -675,22 +671,6 @@
       "duration_ms": 251429,
       "name": "S\u00e9 fuerte",
       "url": "https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Inexplicable",
-        "url": "https://open.spotify.com/album/1USOV6SxLg77cCzYrFy7oO"
-      },
-      "artists": [
-        {
-          "name": "Denicher Pol",
-          "url": "https://open.spotify.com/artist/3C3hBriCxs5RVra7yTMacj"
-        }
-      ],
-      "duration_ms": 324493,
-      "name": "Inexplicable",
-      "url": "https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -731,6 +711,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Pa' Que Viva Feliz",
+        "url": "https://open.spotify.com/album/3wnUpvSigI8iyFGebeLJjz"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 189278,
+      "name": "Pa' Que Viva Feliz",
+      "url": "https://open.spotify.com/track/55FyD4opL5CO7Nb80Z7Mx7"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "Voy A Profetizar",
         "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
       },
@@ -747,18 +743,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Pa' Que Viva Feliz",
-        "url": "https://open.spotify.com/album/3wnUpvSigI8iyFGebeLJjz"
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
       "artists": [
         {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
         }
       ],
-      "duration_ms": 189278,
-      "name": "Pa' Que Viva Feliz",
-      "url": "https://open.spotify.com/track/55FyD4opL5CO7Nb80Z7Mx7"
+      "duration_ms": 302425,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -799,6 +799,42 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Santo es el que Vive",
+        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 634551,
+      "name": "Santo es el que Vive",
+      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "CONXSI\u00d3N",
+        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Lo Que Se Va",
+      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "ResplanDC",
         "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
       },
@@ -815,22 +851,6 @@
       "duration_ms": 408026,
       "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
       "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Santo es el que Vive",
-        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 634551,
-      "name": "Santo es el que Vive",
-      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -883,26 +903,6 @@
       "duration_ms": 260000,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/24FnAqLXfjdlUMv2gB4Xxs"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "CONXSI\u00d3N",
-        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Lo Que Se Va",
-      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Volver a Ti",
+        "url": "https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz"
+      },
+      "artists": [
+        {
+          "name": "Anagrace",
+          "url": "https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Volver a Ti",
+      "url": "https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "Humano",
         "url": "https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Volver a Ti",
-        "url": "https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz"
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia"
       },
       "artists": [
         {
-          "name": "Anagrace",
-          "url": "https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w"
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
         }
       ],
-      "duration_ms": 250720,
-      "name": "Volver a Ti",
-      "url": "https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa"
+      "duration_ms": 233437,
+      "name": "Mareas (todo a su tiempo)",
+      "url": "https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1359,22 +1375,6 @@
       "duration_ms": 175942,
       "name": "La Bater\u00eda",
       "url": "https://open.spotify.com/track/4dDmjpzqtIB0aw7AyrseKs"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 233437,
-      "name": "Mareas (todo a su tiempo)",
-      "url": "https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Glorioso D\u00eda",
-        "url": "https://open.spotify.com/album/79lisODI2SlbY69xklS6kE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Conslie",
-          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
-        }
-      ],
-      "duration_ms": 430869,
-      "name": "Glorioso D\u00eda",
-      "url": "https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "S\u00edgueme",
         "url": "https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 333360,
       "name": "Yo Confio",
       "url": "https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Glorioso D\u00eda",
+        "url": "https://open.spotify.com/album/79lisODI2SlbY69xklS6kE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+        }
+      ],
+      "duration_ms": 430869,
+      "name": "Glorioso D\u00eda",
+      "url": "https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Vivir",
+        "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/41o3xnnu3AzHurKJ2q8ICn"
+        }
+      ],
+      "duration_ms": 285288,
+      "name": "Yo Tengo un Nuevo Amor",
+      "url": "https://open.spotify.com/track/6sbYCeaRR96YVxQCdG10qd"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "Vuelve a So\u00f1ar - EP",
         "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 222229,
       "name": "Llegare (Remastered) [feat. Zeri]",
       "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Vivir",
-        "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/41o3xnnu3AzHurKJ2q8ICn"
-        }
-      ],
-      "duration_ms": 285288,
-      "name": "Yo Tengo un Nuevo Amor",
-      "url": "https://open.spotify.com/track/6sbYCeaRR96YVxQCdG10qd"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Agnus Dei",
-        "url": "https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx"
-      },
-      "artists": [
-        {
-          "name": "Salida 7",
-          "url": "https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv"
-        }
-      ],
-      "duration_ms": 229176,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Coleccion De Oro",
         "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 241706,
       "name": "Creyendo En Ti",
       "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Agnus Dei",
+        "url": "https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx"
+      },
+      "artists": [
+        {
+          "name": "Salida 7",
+          "url": "https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv"
+        }
+      ],
+      "duration_ms": 229176,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "El Milagro",
-        "url": "https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM"
+        "name": "Cordero Inmolado (Live)",
+        "url": "https://open.spotify.com/album/4nHUmEs17FbQwjhm5O43RY"
       },
       "artists": [
         {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+          "name": "Kabed",
+          "url": "https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g"
         }
       ],
-      "duration_ms": 234475,
-      "name": "El Milagro",
-      "url": "https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e"
+      "duration_ms": 995605,
+      "name": "Cordero Inmolado - Live",
+      "url": "https://open.spotify.com/track/1vF4AjVzhyGYqy7MQRpw35"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "El Milagro",
+        "url": "https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 234475,
+      "name": "El Milagro",
+      "url": "https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "Tu Luz",
         "url": "https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 230377,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Cordero Inmolado (Live)",
-        "url": "https://open.spotify.com/album/4nHUmEs17FbQwjhm5O43RY"
-      },
-      "artists": [
-        {
-          "name": "Kabed",
-          "url": "https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g"
-        }
-      ],
-      "duration_ms": 995605,
-      "name": "Cordero Inmolado - Live",
-      "url": "https://open.spotify.com/track/1vF4AjVzhyGYqy7MQRpw35"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Si Tu Presencia Conmigo No Va",
-        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
-      },
-      "artists": [
-        {
-          "name": "Oasis Ministry",
-          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
-        }
-      ],
-      "duration_ms": 288183,
-      "name": "Si Tu Presencia Conmigo No Va",
-      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Da\u00f1ar el Jangueo",
         "url": "https://open.spotify.com/album/5Gzt5itwkQ3s2ZHICFzF0r"
       },
@@ -1867,18 +1851,18 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+        "name": "Si Tu Presencia Conmigo No Va",
+        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
       },
       "artists": [
         {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
         }
       ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+      "duration_ms": 288183,
+      "name": "Si Tu Presencia Conmigo No Va",
+      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1895,6 +1879,22 @@
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
     },
     {
       "added_at": "2024-12-11 11:03:37",

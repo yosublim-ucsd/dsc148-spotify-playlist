@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 6777,
+  "num_followers": 6803,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAABSiQeeXmA7rp+YnhpxDO5T",
+  "snapshot_id": "Z3HigAAAAADnTcaiP5oVK6hHc2Z1md65",
   "tracks": [
     {
       "added_at": null,
@@ -647,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "She is Risen: Volume One",
-        "url": "https://open.spotify.com/album/7HhCsLQC5UkAvUodmxza8m"
+        "name": "Inspirational",
+        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
       },
       "artists": [
+        {
+          "name": "Alison Jiear",
+          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 259900,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/1lB6WL4R8gbWs1g5V9ag7D"
+      "duration_ms": 360527,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
     },
     {
       "added_at": null,
@@ -683,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspirational",
-        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
+        "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/7HhCsLQC5UkAvUodmxza8m"
       },
       "artists": [
-        {
-          "name": "Alison Jiear",
-          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 360527,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1lB6WL4R8gbWs1g5V9ag7D"
     },
     {
       "added_at": null,

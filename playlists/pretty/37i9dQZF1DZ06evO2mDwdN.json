@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 13159,
+  "num_followers": 13161,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAAC4qUdFT63p+Tyq2v81f0jE",
+  "snapshot_id": "Z3HigAAAAAAGeVcWY9z1QR2NSpLP5P1e",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
-        "url": "https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
         "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 266106,
       "name": "Reaching For The World",
       "url": "https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
+        "url": "https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
-        "url": "https://open.spotify.com/album/4vkZVNXRRoJeOtpePA1Bep"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Ain't No Stoppin' Us Now - Rerecorded",
-      "url": "https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 326333,
       "name": "Introduction / The Love I Lost - Live",
       "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
+        "url": "https://open.spotify.com/album/4vkZVNXRRoJeOtpePA1Bep"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Ain't No Stoppin' Us Now - Rerecorded",
+      "url": "https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW"
     },
     {
       "added_at": null,
@@ -815,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Album",
-        "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
+        "name": "Cooler Than Ice: Arctic Records and the Rise of Philly Soul",
+        "url": "https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 361093,
-      "name": "Prayin'",
-      "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
+      "duration_ms": 182693,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71"
     },
     {
       "added_at": null,
@@ -851,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cooler Than Ice: Arctic Records and the Rise of Philly Soul",
-        "url": "https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv"
+        "name": "The Blue Album",
+        "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 182693,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71"
+      "duration_ms": 361093,
+      "name": "Prayin'",
+      "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
     },
     {
       "added_at": null,

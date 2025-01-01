@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 265211,
+  "num_followers": 265218,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAADzFZNesKdf77AmVpPD1h+z",
+  "snapshot_id": "Z3HigAAAAABYCXdJYthjcueuYDeduOou",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 246309,
-      "name": "Meu Respirar",
-      "url": "https://open.spotify.com/track/0aYacAcJiyatA3isESq9nO"
+      "duration_ms": 195011,
+      "name": "N\u00e3o Vou Calar Meus L\u00e1bios",
+      "url": "https://open.spotify.com/track/76gauQSrQHjwYZ4cJugPY9"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 195011,
-      "name": "N\u00e3o Vou Calar Meus L\u00e1bios",
-      "url": "https://open.spotify.com/track/76gauQSrQHjwYZ4cJugPY9"
+      "duration_ms": 246309,
+      "name": "Meu Respirar",
+      "url": "https://open.spotify.com/track/0aYacAcJiyatA3isESq9nO"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Altar (Altar) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 408720,
-      "name": "Altar (Altar) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 271866,
       "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Altar (Altar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 408720,
+      "name": "Altar (Altar) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 266029,
-      "name": "Outro Na Fornalha",
-      "url": "https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E"
+      "duration_ms": 344746,
+      "name": "Meu Cora\u00e7\u00e3o \u00c9 Teu / Pra Te Adorar",
+      "url": "https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 344746,
-      "name": "Meu Cora\u00e7\u00e3o \u00c9 Teu / Pra Te Adorar",
-      "url": "https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA"
+      "duration_ms": 266029,
+      "name": "Outro Na Fornalha",
+      "url": "https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E"
     },
     {
       "added_at": null,

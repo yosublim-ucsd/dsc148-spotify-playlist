@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Marshmello & Space Laces",
-  "num_followers": 980506,
+  "num_followers": 980530,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1749,6 +1749,22 @@
       "url": "https://open.spotify.com/track/2TGTJGfiCiIjP3OBjTrGaO"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Escapism Vol. 1",
+        "url": "https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/4nECx74TstNdhoE9sO0j78"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Foul Tarnished",
@@ -1767,22 +1783,6 @@
       "duration_ms": 189926,
       "name": "Foul Tarnished",
       "url": "https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Escapism Vol. 1",
-        "url": "https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "Ignition",
-      "url": "https://open.spotify.com/track/4nECx74TstNdhoE9sO0j78"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1913,6 +1913,42 @@
       "url": "https://open.spotify.com/track/5dsOyRsaC8y7tQ9IXtuXca"
     },
     {
+      "added_at": "2024-02-12 18:48:17",
+      "album": {
+        "name": "Rainbow Funk",
+        "url": "https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Rainbow Funk",
+      "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Front to Back",
+        "url": "https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 147107,
+      "name": "Front to Back",
+      "url": "https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP"
+    },
+    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Don't Speak",
@@ -1955,42 +1991,6 @@
       "duration_ms": 191234,
       "name": "Not Even Love - MUZZ Remix",
       "url": "https://open.spotify.com/track/4C6BVbsJTydFx5moRR71Q3"
-    },
-    {
-      "added_at": "2024-02-12 18:48:17",
-      "album": {
-        "name": "Rainbow Funk",
-        "url": "https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1"
-      },
-      "artists": [
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Rainbow Funk",
-      "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Front to Back",
-        "url": "https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        }
-      ],
-      "duration_ms": 147107,
-      "name": "Front to Back",
-      "url": "https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2049,26 +2049,6 @@
       "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
     },
     {
-      "added_at": "2024-10-18 04:15:34",
-      "album": {
-        "name": "NOVUS",
-        "url": "https://open.spotify.com/album/0QlP7kHVx4TNJtz2a4mm83"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "X1-Y2",
-          "url": "https://open.spotify.com/artist/6AxbrEv8tfYDYlm82VXe0R"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "PROXIMATE",
-      "url": "https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv"
-    },
-    {
       "added_at": "2024-07-25 20:08:49",
       "album": {
         "name": "JUMP OUT",
@@ -2087,6 +2067,26 @@
       "duration_ms": 145714,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
+    },
+    {
+      "added_at": "2024-10-18 04:15:34",
+      "album": {
+        "name": "NOVUS",
+        "url": "https://open.spotify.com/album/0QlP7kHVx4TNJtz2a4mm83"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "X1-Y2",
+          "url": "https://open.spotify.com/artist/6AxbrEv8tfYDYlm82VXe0R"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "PROXIMATE",
+      "url": "https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv"
     }
   ],
   "unique_name": "Bass Arcade",

@@ -4,7 +4,7 @@
 
 > 
 
-2,040 songs - 4 day 13 hr 25 min
+2,042 songs - 4 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [Hard](https://open.spotify.com/track/52YAwjBYcJYtcpwa5ArHL7) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Hard](https://open.spotify.com/album/6Gex23AoYN3Wg9lqrtqKqK) | 3:21 | 2021-11-14 |  |
 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 | 2022-06-13 |  |
 | [Hatchback](https://open.spotify.com/track/12hVQgYR254ZziANtiKVWQ) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Hatchback](https://open.spotify.com/album/1GqVf0wkVpT32Mxj7NGxpL) | 2:29 | 2021-08-05 |  |
+| [Hate Bein' Sober](https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:40 | 2024-12-31 |  |
 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 | 2021-11-14 |  |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2021-11-30 |  |
 | [HAY ANABEL](https://open.spotify.com/track/0vV04Rids5cIbton3RAi2n) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY ANABEL](https://open.spotify.com/album/0XMyL1XVeP3Zjd3mwHoRqY) | 1:42 | 2024-10-30 |  |
@@ -1526,6 +1527,7 @@
 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [GHUM](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 | 2021-08-05 |  |
 | [saturn emoji](https://open.spotify.com/track/5j2IQ1wRMF4YOp9l1jEJR7) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [FOIL](https://open.spotify.com/album/7D2GIBF8kzc2WDouhqoRa4) | 2:37 | 2021-09-08 |  |
 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 | 2021-08-05 |  |
+| [Save Me](https://open.spotify.com/track/5VjQTikdqkiKi1XtXTVdc8) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Save Me](https://open.spotify.com/album/0Csz4JigGPMvvaAPlDMefh) | 3:34 | 2024-12-31 |  |
 | [Say Hey Kid](https://open.spotify.com/track/3yxC5xscsET5npQpNIiW9R) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Powers That B](https://open.spotify.com/album/5Y04ylQjDWsawOUJXzY4YO) | 3:27 | 2021-11-30 |  |
 | [Say It Ain't So \- Original Mix](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2021-08-05 |  |
 | [say it right tekkno](https://open.spotify.com/track/6if6TUsJ8CIaPaaLyQoZQB) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [say it right tekkno](https://open.spotify.com/album/3cFyVqw4udu5fvnO3mZMOS) | 2:14 | 2024-10-23 |  |

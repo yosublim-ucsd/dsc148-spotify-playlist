@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 162104,
+  "num_followers": 162120,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
+        "name": "bet",
+        "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "bet",
+      "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
         "name": "roundabout",
         "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "bet",
-        "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
       "artists": [
         {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 188000,
-      "name": "bet",
-      "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -499,22 +515,6 @@
       "duration_ms": 149865,
       "name": "Treat Me",
       "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
         "name": "Tell Me About You (feat. Mishaal)",
         "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 221974,
       "name": "Feels (feat. Khalid)",
       "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
+        "name": "ELEVATED LOVE",
+        "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
+      },
+      "artists": [
+        {
+          "name": "KAMOBii",
+          "url": "https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1"
+        }
+      ],
+      "duration_ms": 208391,
+      "name": "ELEVATED LOVE",
+      "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
         "name": "Light (with BENEE)",
         "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 164000,
       "name": "Light (with BENEE)",
       "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
-        "name": "ELEVATED LOVE",
-        "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
-      },
-      "artists": [
-        {
-          "name": "KAMOBii",
-          "url": "https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1"
-        }
-      ],
-      "duration_ms": 208391,
-      "name": "ELEVATED LOVE",
-      "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+        "name": "bad weather",
+        "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Kibishi",
+          "url": "https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G"
         }
       ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
+      "duration_ms": 148855,
+      "name": "bad weather",
+      "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -1459,38 +1459,18 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "WINE",
-        "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
       },
       "artists": [
         {
-          "name": "via.",
-          "url": "https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
         }
       ],
-      "duration_ms": 176750,
-      "name": "WINE",
-      "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
-        "name": "Easy (feat. 6LACK)",
-        "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
-      },
-      "artists": [
-        {
-          "name": "Next Town Down",
-          "url": "https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 204454,
-      "name": "Easy (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -1515,6 +1495,22 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
+        "name": "WINE",
+        "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
+      },
+      "artists": [
+        {
+          "name": "via.",
+          "url": "https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "WINE",
+      "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
         "name": "Leave You Alone",
         "url": "https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY"
       },
@@ -1531,18 +1527,22 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "bad weather",
-        "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
+        "name": "Easy (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
       },
       "artists": [
         {
-          "name": "Kibishi",
-          "url": "https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G"
+          "name": "Next Town Down",
+          "url": "https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 148855,
-      "name": "bad weather",
-      "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
+      "duration_ms": 204454,
+      "name": "Easy (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
     },
     {
       "added_at": "2024-12-30 01:31:35",

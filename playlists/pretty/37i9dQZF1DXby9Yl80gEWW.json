@@ -1,6 +1,6 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 53797,
+  "num_followers": 53821,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -120,13 +120,17 @@
       },
       "artists": [
         {
-          "name": "Dirk Powell",
-          "url": "https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG"
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
         }
       ],
-      "duration_ms": 224186,
-      "name": "Susan's Gone",
-      "url": "https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM"
+      "duration_ms": 213520,
+      "name": "Annabelle June",
+      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -156,17 +160,13 @@
       },
       "artists": [
         {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+          "name": "Dirk Powell",
+          "url": "https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG"
         }
       ],
-      "duration_ms": 213520,
-      "name": "Annabelle June",
-      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
+      "duration_ms": 224186,
+      "name": "Susan's Gone",
+      "url": "https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
       },
       "artists": [
         {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
         }
       ],
-      "duration_ms": 127261,
-      "name": "Cumberland Gap - Live",
-      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -515,34 +515,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
       },
       "artists": [
         {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
         }
       ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "30 Turkeys",
-        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
-      },
-      "artists": [
-        {
-          "name": "Kid Reverie",
-          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
-        }
-      ],
-      "duration_ms": 140970,
-      "name": "30 Turkeys",
-      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
+      "duration_ms": 127261,
+      "name": "Cumberland Gap - Live",
+      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -579,6 +563,22 @@
       "duration_ms": 243973,
       "name": "See Rock City",
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "30 Turkeys",
+        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
+      },
+      "artists": [
+        {
+          "name": "Kid Reverie",
+          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
+        }
+      ],
+      "duration_ms": 140970,
+      "name": "30 Turkeys",
+      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Tsali's Run",
-        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
+        "name": "Blue Collared Dog and His Green Eyed Friend",
+        "url": "https://open.spotify.com/album/5dLr3Y7INsQqWAWFnpeMGP"
       },
       "artists": [
         {
-          "name": "Carley Arrowood",
-          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Tsali's Run",
-      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+      "duration_ms": 222000,
+      "name": "Blue Collared Dog and His Green Eyed Friend",
+      "url": "https://open.spotify.com/track/5FoINNLonQyhxkRBKj4zeO"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Blue Collared Dog and His Green Eyed Friend",
-        "url": "https://open.spotify.com/album/5dLr3Y7INsQqWAWFnpeMGP"
+        "name": "Tsali's Run",
+        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
       },
       "artists": [
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Blue Collared Dog and His Green Eyed Friend",
-      "url": "https://open.spotify.com/track/5FoINNLonQyhxkRBKj4zeO"
+      "duration_ms": 238000,
+      "name": "Tsali's Run",
+      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Crossing the Junction / Deer River",
-        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "Crossing the Junction / Deer River",
-      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Spider on the Banjo",
         "url": "https://open.spotify.com/album/5e7OPZmIzZVQO7xiFWD9W3"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 272586,
       "name": "Spider on the Banjo",
       "url": "https://open.spotify.com/track/55OXI7lLQRoS9FhSw54CHC"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Crossing the Junction / Deer River",
+        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "Crossing the Junction / Deer River",
+      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "New Chapter",
-        "url": "https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3"
-      },
-      "artists": [
-        {
-          "name": "Cedar Hill",
-          "url": "https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "Leavin' Egypt - Instrumental",
-      "url": "https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Squirrelville",
         "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "New Chapter",
+        "url": "https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3"
+      },
+      "artists": [
+        {
+          "name": "Cedar Hill",
+          "url": "https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "Leavin' Egypt - Instrumental",
+      "url": "https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "The American Fiddler",
         "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
       },
@@ -1267,6 +1267,30 @@
       "duration_ms": 250500,
       "name": "The American Fiddler",
       "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Now They Are Four",
+        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
+      },
+      "artists": [
+        {
+          "name": "Dan Crary",
+          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
+        },
+        {
+          "name": "Byron Berline",
+          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
+        },
+        {
+          "name": "John Hickman",
+          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Santa Ana",
+      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1311,26 +1335,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Now They Are Four",
-        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
       },
       "artists": [
         {
-          "name": "Dan Crary",
-          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
-        },
-        {
-          "name": "Byron Berline",
-          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
-        },
-        {
-          "name": "John Hickman",
-          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
         }
       ],
-      "duration_ms": 177493,
-      "name": "Santa Ana",
-      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1363,22 +1379,6 @@
       "duration_ms": 205162,
       "name": "Runaway Traveler",
       "url": "https://open.spotify.com/track/1AMg7QWxxBQchmnNvoKKWM"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Instrumentals, Vol. 1",
-        "url": "https://open.spotify.com/album/1ZaUvK2r4GqFCet5mF8JAl"
-      },
-      "artists": [
-        {
-          "name": "Jacob Jolliff",
-          "url": "https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Waitin' on Gravey",
-      "url": "https://open.spotify.com/track/71vPc3R0Eb2NU0McqkfP33"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Things Are Simple",
         "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 288026,
       "name": "Along Came Sonny",
       "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Saltbush Express",
+        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Fix",
+          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+        }
+      ],
+      "duration_ms": 171823,
+      "name": "Saltbush Express",
+      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1511,34 +1511,46 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Saltbush Express",
-        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+        "name": "Instrumentals, Vol. 1",
+        "url": "https://open.spotify.com/album/1ZaUvK2r4GqFCet5mF8JAl"
       },
       "artists": [
         {
-          "name": "Michael Fix",
-          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+          "name": "Jacob Jolliff",
+          "url": "https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr"
         }
       ],
-      "duration_ms": 171823,
-      "name": "Saltbush Express",
-      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+      "duration_ms": 212173,
+      "name": "Waitin' on Gravey",
+      "url": "https://open.spotify.com/track/71vPc3R0Eb2NU0McqkfP33"
     },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Up in Bigfoot Country",
-        "url": "https://open.spotify.com/album/0QSvfzBJuCws0VQIf7r4f4"
+        "name": "Ferris Wheel",
+        "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
       },
       "artists": [
         {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+          "name": "George Jackson",
+          "url": "https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7"
+        },
+        {
+          "name": "Eli Broxham",
+          "url": "https://open.spotify.com/artist/1TgFBajZtGKOwhEONz9n8G"
+        },
+        {
+          "name": "Frank Evans",
+          "url": "https://open.spotify.com/artist/1sOuG3dLwdgmh53W0NPaGO"
+        },
+        {
+          "name": "John Mailander",
+          "url": "https://open.spotify.com/artist/4MYqkPU4l4Gpohaub6mGFr"
         }
       ],
-      "duration_ms": 195493,
-      "name": "Up in Bigfoot Country",
-      "url": "https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T"
+      "duration_ms": 224986,
+      "name": "Ferris Wheel",
+      "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1575,30 +1587,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Ferris Wheel",
-        "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
+        "name": "Up in Bigfoot Country",
+        "url": "https://open.spotify.com/album/0QSvfzBJuCws0VQIf7r4f4"
       },
       "artists": [
         {
-          "name": "George Jackson",
-          "url": "https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7"
-        },
-        {
-          "name": "Eli Broxham",
-          "url": "https://open.spotify.com/artist/1TgFBajZtGKOwhEONz9n8G"
-        },
-        {
-          "name": "Frank Evans",
-          "url": "https://open.spotify.com/artist/1sOuG3dLwdgmh53W0NPaGO"
-        },
-        {
-          "name": "John Mailander",
-          "url": "https://open.spotify.com/artist/4MYqkPU4l4Gpohaub6mGFr"
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
         }
       ],
-      "duration_ms": 224986,
-      "name": "Ferris Wheel",
-      "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
+      "duration_ms": 195493,
+      "name": "Up in Bigfoot Country",
+      "url": "https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Jolly Green",
-        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 142652,
-      "name": "Jolly Green",
-      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "OKX",
         "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 244111,
       "name": "Bluegrass Ben",
       "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Jolly Green",
+        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 142652,
+      "name": "Jolly Green",
+      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Portraits in Fiddles",
+        "url": "https://open.spotify.com/album/5nBT3vs0ihbQW5Ex7w2l6K"
+      },
+      "artists": [
+        {
+          "name": "Mike Barnett",
+          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
+        },
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 326266,
+      "name": "Hangman's Reel",
+      "url": "https://open.spotify.com/track/41bwKV2bvP1uYMRJ2nH5Nc"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "No Wise Men",
         "url": "https://open.spotify.com/album/2MTB8w2lEje2L5DVub4hYk"
       },
@@ -1811,26 +1831,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Portraits in Fiddles",
-        "url": "https://open.spotify.com/album/5nBT3vs0ihbQW5Ex7w2l6K"
-      },
-      "artists": [
-        {
-          "name": "Mike Barnett",
-          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
-        },
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 326266,
-      "name": "Hangman's Reel",
-      "url": "https://open.spotify.com/track/41bwKV2bvP1uYMRJ2nH5Nc"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "West Virginia Red",
         "url": "https://open.spotify.com/album/75a6zJG8thNcgXIWAnkDOC"
       },
@@ -1843,22 +1843,6 @@
       "duration_ms": 147142,
       "name": "West Virginia Red",
       "url": "https://open.spotify.com/track/5EbhjtNrZziHm68m1x0QxX"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "\u00bfBluegrass? Banjo",
-        "url": "https://open.spotify.com/album/3MFE2ve7XfFDoET0A3X9Qm"
-      },
-      "artists": [
-        {
-          "name": "Chris Roszell",
-          "url": "https://open.spotify.com/artist/7emUlzuf20A2ulPXc9uBst"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Huequito",
-      "url": "https://open.spotify.com/track/6KtJz9GDXBriwN94IKnbqu"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1895,22 +1879,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Whiskey in the Jar",
-        "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
+        "name": "\u00bfBluegrass? Banjo",
+        "url": "https://open.spotify.com/album/3MFE2ve7XfFDoET0A3X9Qm"
       },
       "artists": [
         {
-          "name": "Josep Traver",
-          "url": "https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D"
-        },
-        {
-          "name": "Tom Corbett",
-          "url": "https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE"
+          "name": "Chris Roszell",
+          "url": "https://open.spotify.com/artist/7emUlzuf20A2ulPXc9uBst"
         }
       ],
-      "duration_ms": 135453,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
+      "duration_ms": 240693,
+      "name": "Huequito",
+      "url": "https://open.spotify.com/track/6KtJz9GDXBriwN94IKnbqu"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1931,6 +1911,26 @@
       "duration_ms": 158521,
       "name": "Clear the Tracks",
       "url": "https://open.spotify.com/track/5R0d96sHEwQGW3rcga8mkV"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Whiskey in the Jar",
+        "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
+      },
+      "artists": [
+        {
+          "name": "Josep Traver",
+          "url": "https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D"
+        },
+        {
+          "name": "Tom Corbett",
+          "url": "https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE"
+        }
+      ],
+      "duration_ms": 135453,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 274760,
-      "name": "Rolling Blackout",
-      "url": "https://open.spotify.com/track/4649eRcX3LkZ8HU49VnWK2"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Donner Pass",
         "url": "https://open.spotify.com/album/1pUHvl6AWvntcSdQ7Bfdpx"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 283000,
       "name": "Donner Pass",
       "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 274760,
+      "name": "Rolling Blackout",
+      "url": "https://open.spotify.com/track/4649eRcX3LkZ8HU49VnWK2"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2107,26 +2107,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Portraits in Fiddles",
-        "url": "https://open.spotify.com/album/5nBT3vs0ihbQW5Ex7w2l6K"
-      },
-      "artists": [
-        {
-          "name": "Mike Barnett",
-          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
-        },
-        {
-          "name": "David Grisman",
-          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
-        }
-      ],
-      "duration_ms": 318200,
-      "name": "Waiting on Vassar",
-      "url": "https://open.spotify.com/track/2OgHEQQm0BMaA7pNzv7utB"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "The Trailblazer",
         "url": "https://open.spotify.com/album/2sEQOzIpCE5HHqyvZD7xpy"
       },
@@ -2159,6 +2139,26 @@
       "duration_ms": 145243,
       "name": "Stinkhorn",
       "url": "https://open.spotify.com/track/3Cqwayt6tSnlow0cp3pUbg"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Portraits in Fiddles",
+        "url": "https://open.spotify.com/album/5nBT3vs0ihbQW5Ex7w2l6K"
+      },
+      "artists": [
+        {
+          "name": "Mike Barnett",
+          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "duration_ms": 318200,
+      "name": "Waiting on Vassar",
+      "url": "https://open.spotify.com/track/2OgHEQQm0BMaA7pNzv7utB"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Azazel's Escape",
-        "url": "https://open.spotify.com/album/3n0Vry6agEGju2r8375FqA"
-      },
-      "artists": [
-        {
-          "name": "Cup O\u2019Joe",
-          "url": "https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Azazel's Escape",
-      "url": "https://open.spotify.com/track/0uSljzqSkZznOkzaxikmLB"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Passages",
         "url": "https://open.spotify.com/album/7IWQBtyFLQcfsjdSrIApiS"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 260186,
       "name": "Blue Moose",
       "url": "https://open.spotify.com/track/49c2XXHwqPK16oGTB8nStp"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Azazel's Escape",
+        "url": "https://open.spotify.com/album/3n0Vry6agEGju2r8375FqA"
+      },
+      "artists": [
+        {
+          "name": "Cup O\u2019Joe",
+          "url": "https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Azazel's Escape",
+      "url": "https://open.spotify.com/track/0uSljzqSkZznOkzaxikmLB"
     },
     {
       "added_at": "2024-11-22 05:00:00",

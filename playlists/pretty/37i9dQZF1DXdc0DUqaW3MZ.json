@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 357523,
+  "num_followers": 357630,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "Ma Jo Lo",
         "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Things You Didn't Know",
-        "url": "https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh"
-      },
-      "artists": [
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Things You Didn't Know",
-      "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Happy Ending (A.G Remix)",
         "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 195800,
       "name": "Happy Ending - A.G Remix",
       "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Things You Didn't Know",
+        "url": "https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Things You Didn't Know",
+      "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1379,18 +1379,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Golden Hour, Vol. 1",
-        "url": "https://open.spotify.com/album/5cGoUvxqjYQB2VMDaLURmK"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
       },
       "artists": [
         {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
         }
       ],
-      "duration_ms": 204621,
-      "name": "Dr. Knockout",
-      "url": "https://open.spotify.com/track/5sAW0PuBdaIysBOlvaobTH"
+      "duration_ms": 169943,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
     }
   ],
   "unique_name": "Soultronic",

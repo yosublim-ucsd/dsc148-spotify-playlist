@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 
 > Our weekly selection is here ⚡️
 
-[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,591 likes - 50 songs - 2 hr 58 min
+[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,594 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 | 19 | [Blow Up](https://open.spotify.com/track/0jqGd9d5oznIGULDS2aCja) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Blow up EP](https://open.spotify.com/album/0syFv4l0BXK1zID0jy2jIb) | 3:04 |
 | 20 | [Don't Watch Her](https://open.spotify.com/track/7KCIyeB50sJSlNI0qcLhtf) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [UNSPOKEN DESIRES EP](https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD) | 3:19 |
 | 21 | [Vibrate \- Radio Edit](https://open.spotify.com/track/3zRw5GB5LI83tWPrPkr5TF) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Vibrate](https://open.spotify.com/album/6OQP11NTR6y4pGHz0Lqcdc) | 3:26 |
-| 22 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 |
+| 22 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [TEKO](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 |
 | 23 | [Get off the Wi\-Fi](https://open.spotify.com/track/39qdMR68qkCJ0FMKWuXYpA) | [Nicolau Marinho](https://open.spotify.com/artist/5oDO3Xserqplvx470RQlq9) | [Wi\-Fi EP](https://open.spotify.com/album/53b5jJusxvVpJEYZak9Rxy) | 3:17 |
 | 24 | [Unplug](https://open.spotify.com/track/1lMfEjN2aKjpGtapViabUo) | [White Off](https://open.spotify.com/artist/3YYih7Xf8yIMm6nm6r1j7N) | [Unplug EP](https://open.spotify.com/album/0hPx4gWeqLaZv3FouezDUK) | 3:27 |
 | 25 | [Dreams](https://open.spotify.com/track/1CDTguWMwoDLnwZrxYZpT4) | [Disco Service](https://open.spotify.com/artist/0B3tuAfo37Y6aaIUOrpzvA) | [Speed It Up](https://open.spotify.com/album/6M8aTbYyd12fq1usX21ohv) | 3:39 |

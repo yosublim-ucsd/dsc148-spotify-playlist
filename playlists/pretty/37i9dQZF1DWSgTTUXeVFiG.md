@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,524 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,620 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 32 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |
 | 33 | [Tito Nieves Medley \(Sonambulo / El Amor Más Bonito / Almohada\) \- Live](https://open.spotify.com/track/2kSv1nvmn6OLDaUlvsryYp) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 8:05 |
 | 34 | [Un Verano en Nueva York \- Live Version](https://open.spotify.com/track/0JcrTxvfkJb6vOowJorCfO) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Sergio George Presents Salsa Giants Plus EP \(Live\)](https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44) | 5:43 |
-| 35 | [Lluvia \- En Vivo](https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Eddie Santiago \(En Vivo\)](https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6) | 6:13 |
-| 36 | [Tu Loco, Loco, Y Yo Tranquilo](https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [En Vivo Desde Bellas Artes](https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs) | 4:38 |
+| 35 | [Tu Loco, Loco, Y Yo Tranquilo](https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [En Vivo Desde Bellas Artes](https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs) | 4:38 |
+| 36 | [Lluvia \- En Vivo](https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Eddie Santiago \(En Vivo\)](https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6) | 6:13 |
 | 37 | [Probablemente \- Live](https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Reencuentro \(Live In Lima\) \- Vol\. 2](https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6) | 5:24 |
 | 38 | [Guantanamera \- Live](https://open.spotify.com/track/17m5ZCpxMEC1MyAeuu6u5L) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Jorge Santana](https://open.spotify.com/artist/68GKwB0h4qEbbEWfpT25Vm) | [Live In Africa](https://open.spotify.com/album/5YUlti1Sao9vMmKIinSTR1) | 4:53 |
 | 39 | [Llorarás \- En Vivo Desde Nueva York/2000](https://open.spotify.com/track/2Lg7ffRF4dzhxYSHJ0lS79) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [The Greatest Salsa Ever](https://open.spotify.com/album/5SaBVIfXpp1nsaiH9mn7y9) | 3:38 |

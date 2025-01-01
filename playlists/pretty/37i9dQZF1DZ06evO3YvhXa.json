@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 404085,
+  "num_followers": 404178,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAAASi94mChF+ssNLgxUl2bY2",
+  "snapshot_id": "Z3HigAAAAAAQfYERZgUAvh6dFGWh/56+",
   "tracks": [
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
+      "duration_ms": 224400,
+      "name": "King for a Day",
+      "url": "https://open.spotify.com/track/4klPQOLiUPgwZ3YIWgGJrK"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 224400,
-      "name": "King for a Day",
-      "url": "https://open.spotify.com/track/4klPQOLiUPgwZ3YIWgGJrK"
+      "duration_ms": 268800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
     },
     {
       "added_at": null,

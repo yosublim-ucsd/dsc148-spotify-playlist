@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 245429,
+  "num_followers": 245738,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music Vol. II",
-        "url": "https://open.spotify.com/album/7FrqHN8S3QQNnN9Z7ZHXhI"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Como Me Haces Falta - En Vivo",
-      "url": "https://open.spotify.com/track/6OdM2SY00jlo37aRvw29h4"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 236093,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music Vol. II",
+        "url": "https://open.spotify.com/album/7FrqHN8S3QQNnN9Z7ZHXhI"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Como Me Haces Falta - En Vivo",
+      "url": "https://open.spotify.com/track/6OdM2SY00jlo37aRvw29h4"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "Nuestras Favoritas De Marco Antonio Solis",
         "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 221480,
       "name": "Ya No Te Vayas",
       "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
     },
     {
       "added_at": "2024-08-23 06:00:00",

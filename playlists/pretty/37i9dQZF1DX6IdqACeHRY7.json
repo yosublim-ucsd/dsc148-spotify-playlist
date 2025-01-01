@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 154005,
+  "num_followers": 154018,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Nervous (The Ooh Song) [Mark McCabe Remix]",
-        "url": "https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        },
-        {
-          "name": "Mark McCabe",
-          "url": "https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn"
-        }
-      ],
-      "duration_ms": 195194,
-      "name": "Nervous (The Ooh Song) - Mark McCabe Remix",
-      "url": "https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
@@ -791,6 +771,26 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Nervous (The Ooh Song) [Mark McCabe Remix]",
+        "url": "https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        },
+        {
+          "name": "Mark McCabe",
+          "url": "https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn"
+        }
+      ],
+      "duration_ms": 195194,
+      "name": "Nervous (The Ooh Song) - Mark McCabe Remix",
+      "url": "https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "In Between Minds",
         "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "hungover sunday",
-        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 180402,
-      "name": "hungover sunday",
-      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Lose You Too",
         "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 186463,
       "name": "Lose You Too",
       "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "hungover sunday",
+        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 180402,
+      "name": "hungover sunday",
+      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Still the Same (feat. Boy In Space)",
+        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        },
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 178139,
+      "name": "Still the Same (feat. Boy In Space)",
+      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Alice",
         "url": "https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 164897,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Still the Same (feat. Boy In Space)",
-        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        },
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 178139,
-      "name": "Still the Same (feat. Boy In Space)",
-      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "1975",
-        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 197839,
-      "name": "Until The Hurting Is Gone",
-      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Out of My Hands",
         "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 203089,
       "name": "Out of My Hands",
       "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "1975",
+        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 197839,
+      "name": "Until The Hurting Is Gone",
+      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Hey Ya!",
-        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
-      },
-      "artists": [
-        {
-          "name": "Maygen Lacey",
-          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
-        }
-      ],
-      "duration_ms": 214689,
-      "name": "Hey Ya! - Acoustic",
-      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
@@ -1203,6 +1187,38 @@
       "duration_ms": 189557,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/5kMa3mm5zoM9SWTAZOBDDB"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Kuffert Fuld Af Mursten",
+        "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
+      },
+      "artists": [
+        {
+          "name": "Claus Hempler",
+          "url": "https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg"
+        }
+      ],
+      "duration_ms": 294506,
+      "name": "Op",
+      "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Hey Ya!",
+        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
+      },
+      "artists": [
+        {
+          "name": "Maygen Lacey",
+          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
+        }
+      ],
+      "duration_ms": 214689,
+      "name": "Hey Ya! - Acoustic",
+      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1239,38 +1255,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Kuffert Fuld Af Mursten",
-        "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
-      },
-      "artists": [
-        {
-          "name": "Claus Hempler",
-          "url": "https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg"
-        }
-      ],
-      "duration_ms": 294506,
-      "name": "Op",
-      "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Planets",
         "url": "https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 261586,
       "name": "Fact - Fiction",
       "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "A Little More",
-        "url": "https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Love Is In The Picture",
         "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 218142,
       "name": "Love Is In The Picture",
       "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Sorry (Live)",
-        "url": "https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 204052,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Say Goodnight",
         "url": "https://open.spotify.com/album/2SZ5OldmAx9zijGjLbSfor"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 166258,
       "name": "Say Goodnight",
       "url": "https://open.spotify.com/track/4xYTaeo4725e2XJTJYz3km"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Sorry (Live)",
+        "url": "https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 204052,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Cali",
-        "url": "https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm"
+        "name": "Park Bench Theories",
+        "url": "https://open.spotify.com/album/2at2uSg1A1jkeGjazPFDDq"
       },
       "artists": [
         {
-          "name": "Matthew And The Atlas",
-          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
+          "name": "Jamie Scott & The Town",
+          "url": "https://open.spotify.com/artist/4BCijRD020JSmK7XNipkU1"
         }
       ],
-      "duration_ms": 236562,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz"
+      "duration_ms": 262413,
+      "name": "When Will I See Your Face Again",
+      "url": "https://open.spotify.com/track/2iNv8Iomdg4CyBfWk6kUXJ"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Park Bench Theories",
-        "url": "https://open.spotify.com/album/2at2uSg1A1jkeGjazPFDDq"
+        "name": "Cali",
+        "url": "https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm"
       },
       "artists": [
         {
-          "name": "Jamie Scott & The Town",
-          "url": "https://open.spotify.com/artist/4BCijRD020JSmK7XNipkU1"
+          "name": "Matthew And The Atlas",
+          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
         }
       ],
-      "duration_ms": 262413,
-      "name": "When Will I See Your Face Again",
-      "url": "https://open.spotify.com/track/2iNv8Iomdg4CyBfWk6kUXJ"
+      "duration_ms": 236562,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Blind You",
-        "url": "https://open.spotify.com/album/5O1yayKlHTvFlikkbGz7xt"
-      },
-      "artists": [
-        {
-          "name": "Didirri",
-          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Blind You",
-      "url": "https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Stop By Now",
         "url": "https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 223360,
       "name": "Stop By Now",
       "url": "https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Blind You",
+        "url": "https://open.spotify.com/album/5O1yayKlHTvFlikkbGz7xt"
+      },
+      "artists": [
+        {
+          "name": "Didirri",
+          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Blind You",
+      "url": "https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U"
     },
     {
       "added_at": "2024-08-13 10:19:04",

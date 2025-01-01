@@ -1,13 +1,29 @@
 {
   "description": "iykyk",
-  "num_followers": 4050827,
+  "num_followers": 4051699,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z24IVgAAAAAv6jp3Xs3EiyxhcjmzE9fO",
+  "snapshot_id": "Z3QoawAAAABgZkpkJouILL02AtqLKBpW",
   "tracks": [
+    {
+      "added_at": "2024-12-31 17:22:51",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
+    },
     {
       "added_at": "2024-12-19 20:59:50",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2024-12-31 17:22:51",
+      "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 149440,
+      "name": "PORNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "added_at": "2024-12-27 01:52:22",
@@ -363,22 +395,6 @@
       "duration_ms": 319973,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4bwN8jyxfHmFFStSRy4F7h"
-    },
-    {
-      "added_at": "2024-12-18 18:40:25",
-      "album": {
-        "name": "England Made Me",
-        "url": "https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS"
-      },
-      "artists": [
-        {
-          "name": "Black Box Recorder",
-          "url": "https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "Child Psychology",
-      "url": "https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh"
     },
     {
       "added_at": "2024-11-26 01:47:25",
@@ -733,7 +749,7 @@
       "artists": [
         {
           "name": "John + Jane Q. Public",
-          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
+          "url": "https://open.spotify.com/artist/6zj2ZyQxZl9Omk4v7kcahS"
         }
       ],
       "duration_ms": 110110,
@@ -843,22 +859,6 @@
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
-    },
-    {
-      "added_at": "2024-07-04 01:59:42",
-      "album": {
-        "name": "Lobster",
-        "url": "https://open.spotify.com/album/5KaUvQXMunWnreLS25T42G"
-      },
-      "artists": [
-        {
-          "name": "RJ Pasin",
-          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
-        }
-      ],
-      "duration_ms": 116869,
-      "name": "Lobster",
-      "url": "https://open.spotify.com/track/3L95m6wi0vkhR9DB7GSSp9"
     }
   ],
   "unique_name": "big on the internet",

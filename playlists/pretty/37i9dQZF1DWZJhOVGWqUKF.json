@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Barns Courtney",
-  "num_followers": 340388,
+  "num_followers": 340398,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
+        "name": "Keep Me Fed",
+        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 179717,
+      "name": "Six Feet Deep",
+      "url": "https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
         "name": "MAD (feat. Ice Nine Kills)",
         "url": "https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 198393,
       "name": "MAD (feat. Ice Nine Kills)",
       "url": "https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
-        "name": "Keep Me Fed",
-        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 179717,
-      "name": "Six Feet Deep",
-      "url": "https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Forever Cold",
-        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
+        "name": "DEADBEAT!",
+        "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
       },
       "artists": [
         {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
         }
       ],
-      "duration_ms": 283714,
-      "name": "Forever Cold",
-      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
+      "duration_ms": 146677,
+      "name": "SLEEP WHEN I'M DEAD",
+      "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "DEADBEAT!",
-        "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
+        "name": "Forever Cold",
+        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
       },
       "artists": [
         {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
         }
       ],
-      "duration_ms": 146677,
-      "name": "SLEEP WHEN I'M DEAD",
-      "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
+      "duration_ms": 283714,
+      "name": "Forever Cold",
+      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -991,38 +991,6 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 142533,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
-        "name": "Searching for Tomorrow",
-        "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Searching for Tomorrow",
-      "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
         "name": "I COME ALIVE",
         "url": "https://open.spotify.com/album/4LpPxp3nAPuOBR2s4oFi1S"
       },
@@ -1035,6 +1003,22 @@
       "duration_ms": 264611,
       "name": "I COME ALIVE",
       "url": "https://open.spotify.com/track/15INkb1H6jpZgMnpa5flHf"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 142533,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1055,6 +1039,54 @@
       "duration_ms": 192000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
+        "name": "Searching for Tomorrow",
+        "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Searching for Tomorrow",
+      "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 159155,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
+        "name": "Angry Cry",
+        "url": "https://open.spotify.com/album/0Pm7zqgIXzwlBzvT8Px466"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Angry Cry",
+      "url": "https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1091,38 +1123,6 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Angry Cry",
-        "url": "https://open.spotify.com/album/0Pm7zqgIXzwlBzvT8Px466"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Angry Cry",
-      "url": "https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 159155,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 165733,
       "name": "Showbiz",
       "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
+        "name": "MUD",
+        "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 190858,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1187,22 +1203,6 @@
       "duration_ms": 244466,
       "name": "Dogs Of War",
       "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
-        "name": "MUD",
-        "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 190858,
-      "name": "MUD",
-      "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "NO",
-        "url": "https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc"
-      },
-      "artists": [
-        {
-          "name": "DAMONA",
-          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
-        }
-      ],
-      "duration_ms": 148946,
-      "name": "NO",
-      "url": "https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 173831,
       "name": "Flame",
       "url": "https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
+        "name": "NO",
+        "url": "https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc"
+      },
+      "artists": [
+        {
+          "name": "DAMONA",
+          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "NO",
+      "url": "https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
+        "name": "Fractured",
+        "url": "https://open.spotify.com/album/6mHHYaYqTlGamBa4xrGxOH"
+      },
+      "artists": [
+        {
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+        }
+      ],
+      "duration_ms": 203999,
+      "name": "Fractured",
+      "url": "https://open.spotify.com/track/5vVmVvGSIJrNKw7qHtJR3V"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
         "name": "The Downfall",
         "url": "https://open.spotify.com/album/3HiKtj609zB1IYtQsu4xUG"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 284563,
       "name": "The Downfall",
       "url": "https://open.spotify.com/track/5JeKlM4tr6EsdNOtCPjEA5"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
-        "name": "Listen Up",
-        "url": "https://open.spotify.com/album/1fegkigvCLmcXA3jUVn1VT"
-      },
-      "artists": [
-        {
-          "name": "Welshly Arms",
-          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
-        }
-      ],
-      "duration_ms": 183078,
-      "name": "Listen Up",
-      "url": "https://open.spotify.com/track/4IIdwu2qr7CZZsImuArXGx"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Fractured",
-        "url": "https://open.spotify.com/album/6mHHYaYqTlGamBa4xrGxOH"
+        "name": "Listen Up",
+        "url": "https://open.spotify.com/album/1fegkigvCLmcXA3jUVn1VT"
       },
       "artists": [
         {
-          "name": "Our Mirage",
-          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+          "name": "Welshly Arms",
+          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
         }
       ],
-      "duration_ms": 203999,
-      "name": "Fractured",
-      "url": "https://open.spotify.com/track/5vVmVvGSIJrNKw7qHtJR3V"
+      "duration_ms": 183078,
+      "name": "Listen Up",
+      "url": "https://open.spotify.com/track/4IIdwu2qr7CZZsImuArXGx"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1719,26 +1719,18 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Death by a Thousand Cuts (Feat. Lucas Woodland)",
-        "url": "https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/59C8gUScKsa2e1ZdROyYYa"
       },
       "artists": [
         {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        },
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        },
-        {
-          "name": "Lucas Woodland",
-          "url": "https://open.spotify.com/artist/76iTTQpdw0ECsYeXVnKA2t"
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
         }
       ],
-      "duration_ms": 321735,
-      "name": "Death by a Thousand Cuts - Feat. Lucas Woodland",
-      "url": "https://open.spotify.com/track/7B81PwYsKxxznT4frjjzFA"
+      "duration_ms": 220285,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/07lDQBet0tjH77t5T1YtGH"
     }
   ],
   "unique_name": "Rock Rotation",

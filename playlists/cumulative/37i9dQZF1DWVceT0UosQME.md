@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVceT0UosQME.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVceT0UosQME) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVceT0UosQME)
 
-### [exams 2024](https://open.spotify.com/playlist/37i9dQZF1DWVceT0UosQME)
+### [exams 2025](https://open.spotify.com/playlist/37i9dQZF1DWVceT0UosQME)
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-590 songs - 22 hr 33 min
+593 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2024-01-05 | 2024-06-08 |
 | [6pm Freedom](https://open.spotify.com/track/78wa13XBguLAx0c5pzqZDI) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Easy Breathing & 6pm Freedom](https://open.spotify.com/album/3jO0ts2BPgfBWKms1D5H2x) | 3:00 | 2024-01-05 | 2024-11-08 |
 | [A Good Evening](https://open.spotify.com/track/2JJG2VeY1SMNS9ZqVnVZoV) | [Secret Corner](https://open.spotify.com/artist/7a40ZaJBGkEnOqrZyBCwQU) | [A Good Evening](https://open.spotify.com/album/6euHSUaffo1PSTtmRF1lNx) | 2:12 | 2024-01-05 |  |
-| [a little anti, a little social](https://open.spotify.com/track/6Or5cQUJG1Bb0xJq0lg5yT) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [a little anti, a little social](https://open.spotify.com/album/2BbEEtpQLlyVNj3QGZiyd4) | 2:31 | 2024-01-05 |  |
+| [a little anti, a little social](https://open.spotify.com/track/6Or5cQUJG1Bb0xJq0lg5yT) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [a little anti, a little social](https://open.spotify.com/album/2BbEEtpQLlyVNj3QGZiyd4) | 2:31 | 2024-01-05 | 2025-01-01 |
 | [a little star strut](https://open.spotify.com/track/6o19S7pXUbxEz4PIdOr2LP) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [a little star strut](https://open.spotify.com/album/4jhB8uPd1UzqYCGeRVZIOJ) | 2:14 | 2024-01-05 |  |
 | [Acromantula](https://open.spotify.com/track/6NnxWChrKgwq0cRnPdkikw) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Acromantula](https://open.spotify.com/album/3rNx2Neqfu2ZFufwxZ1zkU) | 2:02 | 2024-01-05 |  |
 | [Acting Out](https://open.spotify.com/track/0499UUSNO6l4Jc4apURe0U) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Acting Out](https://open.spotify.com/album/7imrc1FLahS1gK1xw9zQp9) | 1:59 | 2024-01-05 |  |
@@ -49,7 +49,7 @@
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2024-01-05 |  |
 | [Avenues](https://open.spotify.com/track/0GEmUg3e8CGFtWjJU0cDux) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Avenues](https://open.spotify.com/album/1BEIyMdOKIlmmXCyf9ORET) | 2:29 | 2024-06-21 |  |
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2024-01-05 |  |
-| [Backwards](https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Backwards](https://open.spotify.com/album/4uRWNT5GJ4dq1Nym8N1uFN) | 2:42 | 2024-01-05 |  |
+| [Backwards](https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Backwards](https://open.spotify.com/album/4uRWNT5GJ4dq1Nym8N1uFN) | 2:42 | 2024-01-05 | 2025-01-01 |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2024-01-05 |  |
 | [Bamboo](https://open.spotify.com/track/2AK8kyq8K9OpoB2lT0H86q) | [El Pel](https://open.spotify.com/artist/5AMJNJ5AEsjYybY4u2tJ3D) | [Bamboo](https://open.spotify.com/album/6nCxm8p5a7itjBMRb6J3iO) | 2:22 | 2024-01-05 |  |
 | [Bar Breeze](https://open.spotify.com/track/4cPDwwClSmyI85odEgVVgm) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Bar Breeze](https://open.spotify.com/album/58Igwkq1QIk5dfnfoqaB5M) | 2:18 | 2024-01-05 |  |
@@ -91,7 +91,7 @@
 | [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2024-01-05 |  |
 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2024-01-05 |  |
 | [Chang](https://open.spotify.com/track/2HgAzyBHR3TGJBpksx3I6L) | [AN99](https://open.spotify.com/artist/6ufkUF0S5027zUcnMvQq0I) | [Chang](https://open.spotify.com/album/7ckxYovGXDYUTtGfgzkKbU) | 1:45 | 2024-03-01 | 2024-11-08 |
-| [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2024-01-05 |  |
+| [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2024-01-05 | 2025-01-01 |
 | [Cherries and Blossoms](https://open.spotify.com/track/56cMel1zfzxtK41JFABVKV) | [Aiko Ai](https://open.spotify.com/artist/4ifCvddHRxg397i6vjqwby) | [Cherries and Blossoms](https://open.spotify.com/album/1JJFpT7M1xqL6DCa7kp2GW) | 1:43 | 2024-01-05 |  |
 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 | 2024-01-05 |  |
 | [Chimes](https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq) | [daria valentina](https://open.spotify.com/artist/5t8yaGoIRiRYaluWCliD1F) | [chimes](https://open.spotify.com/album/6jCtYhaisHTv8URb48V67Z) | 2:48 | 2024-02-09 |  |
@@ -109,7 +109,8 @@
 | [Color Violet](https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Color Violet](https://open.spotify.com/album/2tmTKjBGtFNnSZqabuflcE) | 2:08 | 2024-01-05 |  |
 | [Colores](https://open.spotify.com/track/78nzT9F1FCU7f3Qg9tQU2E) | [Tufflo](https://open.spotify.com/artist/5NBNuJ9Yv7r01DfbhTCkR5) | [Green Tea](https://open.spotify.com/album/2dJ098DRzbBvIzoftA2E3x) | 2:26 | 2024-01-05 |  |
 | [Coming Home](https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Coming Home](https://open.spotify.com/album/1NXR10O0pSgK506mnnzXpA) | 2:13 | 2024-01-05 |  |
-| [Con Bajo Fidelidad](https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Con Bajo Fidelidad](https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg) | 2:10 | 2024-01-05 |  |
+| [comply](https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [comply](https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO) | 2:04 | 2024-12-31 |  |
+| [Con Bajo Fidelidad](https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Con Bajo Fidelidad](https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg) | 2:10 | 2024-01-05 | 2025-01-01 |
 | [Cosmetics](https://open.spotify.com/track/57JRVNAO9gTmmLVIlkqibb) | [Mr Zakky](https://open.spotify.com/artist/7JHrK8hjsA4ndEFOU8hN9O) | [Cosmetics](https://open.spotify.com/album/3iv3djrrxI7UnqO7J2OrVT) | 1:44 | 2024-01-05 |  |
 | [Couch Vibes](https://open.spotify.com/track/2xJKFoxhnWsG2vPxqZJxFL) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Couch Vibes](https://open.spotify.com/album/2ybbG29HdBzYcwnzcf6xP5) | 2:34 | 2024-03-01 |  |
 | [Court Mix](https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Court Mix](https://open.spotify.com/album/1FKVxpuffdBOe2vzCpTGO0) | 1:39 | 2024-01-05 |  |
@@ -139,6 +140,7 @@
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2024-01-05 |  |
 | [Early Grey](https://open.spotify.com/track/4fbZjDV5jrlnJgche5lZBj) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Early Grey](https://open.spotify.com/album/2mpedk23jMimsBI06nCWxi) | 2:36 | 2024-01-05 |  |
 | [Early Mornings](https://open.spotify.com/track/3mZQX7fqgtcMIHJuAH3UEA) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Early Mornings](https://open.spotify.com/album/2Ru4uhUL0lCt81wgMPjimz) | 1:53 | 2024-01-05 | 2024-06-22 |
+| [Echoes0fYesterday](https://open.spotify.com/track/2n7N63wHXt8mhZnGuPb8IU) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Echoes0fYesterday](https://open.spotify.com/album/4XwunF549rIKHGLwAa1Qp0) | 2:15 | 2024-12-31 |  |
 | [Edgy Stripes](https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue) | [sunnee](https://open.spotify.com/artist/6lT0N3TbFSVDDPMAVXk32X) | [Edgy Stripes](https://open.spotify.com/album/18EGmKo4d938htKFBJOZyB) | 2:10 | 2024-01-05 |  |
 | [Egg Rollz](https://open.spotify.com/track/5swljGcGse2QRMLWji89yv) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Egg Rollz](https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp) | 2:11 | 2024-01-05 | 2024-02-23 |
 | [Elevator](https://open.spotify.com/track/5iPB9VskHHAsEcpOf4dpxw) | [Cosmoo](https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG) | [Elevator](https://open.spotify.com/album/3xzPR62gpoezzrvy1Ybmkw) | 1:11 | 2024-03-08 |  |
@@ -374,7 +376,7 @@
 | [Oasis](https://open.spotify.com/track/0H5Ev0vFWpqqLlWAwfUpOC) | [Kival](https://open.spotify.com/artist/4mYPgSEfNEHOG0QfdJuMwp) | [Oasis](https://open.spotify.com/album/6nQNTDHsAzKwD63yJ8znXV) | 2:44 | 2024-01-05 |  |
 | [On Empty](https://open.spotify.com/track/1UNiVCuUcoKHRol0ykFlBr) | [wovels tune](https://open.spotify.com/artist/2Q0DvYlO2XM5FrZy2dSJYX) | [On Empty](https://open.spotify.com/album/1YMJQUp4mQo2yrtIZ85keu) | 2:12 | 2024-01-05 |  |
 | [On my mind](https://open.spotify.com/track/0DUhu1xEepWHTXupbUDgGt) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [On my mind](https://open.spotify.com/album/5IKftGnn54xtTSbGuw9C5Q) | 3:14 | 2024-01-05 |  |
-| [on the edge](https://open.spotify.com/track/4loxJClOvjpnA67XzbFyNB) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [on the edge](https://open.spotify.com/album/5QBF1PNRxB5bUEK03sLkwU) | 2:13 | 2024-11-07 |  |
+| [on the edge](https://open.spotify.com/track/4loxJClOvjpnA67XzbFyNB) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [on the edge](https://open.spotify.com/album/5QBF1PNRxB5bUEK03sLkwU) | 2:13 | 2024-11-07 | 2025-01-01 |
 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 | 2024-01-05 |  |
 | [once upon a time](https://open.spotify.com/track/4h1kjj76abuzotO1l1b4UK) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [once upon a time](https://open.spotify.com/album/5YTL2uewGmx1D5GJcQSZ2w) | 2:24 | 2024-01-05 |  |
 | [One Flame](https://open.spotify.com/track/4Ff9CW1dMdIqupiUG3yn3q) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [One Flame](https://open.spotify.com/album/2P1KFMTCzA09BPBrqtmJID) | 2:44 | 2024-01-05 |  |
@@ -534,6 +536,7 @@
 | [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2024-01-18 |  |
 | [The Way To Eden](https://open.spotify.com/track/5hwn92Fpw0VK8y7taEHPrF) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [The Way To Eden](https://open.spotify.com/album/2FyEnKHmb477fH0WRy1iOA) | 1:46 | 2024-01-05 |  |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2024-01-05 |  |
+| [this and that](https://open.spotify.com/track/6AXY1LZTdTf1LFSUhn7zfV) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [this and that](https://open.spotify.com/album/5RnMqYBOBAG6PTRCZsJkN3) | 2:48 | 2024-12-31 |  |
 | [This is Amsterdam](https://open.spotify.com/track/6DR19qqLR5SmXfMtOvFrrW) | [Flying Animal](https://open.spotify.com/artist/2swCJIywMR8xcM3yCXUFRx) | [This is Amsterdam](https://open.spotify.com/album/10wlmyMecAxIx7bdoIPNzK) | 1:48 | 2024-01-05 |  |
 | [Thoughts](https://open.spotify.com/track/09RjwDBWL5eM9LI2VVzcKn) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [Thoughts](https://open.spotify.com/album/0uJfLdYRrEz5FSeyyNulr9) | 3:10 | 2024-01-05 |  |
 | [Through the Portal](https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Through the Portal](https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F) | 1:55 | 2024-01-05 |  |

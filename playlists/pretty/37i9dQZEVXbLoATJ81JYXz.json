@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 618883,
+  "num_followers": 618891,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LwYKSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LwdeIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "L\u00e4ngesen",
         "url": "https://open.spotify.com/album/0Fo160cTKdluGDAueV4aAy"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/40yRQySDfSc5I6SoZzRLxZ"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -41,27 +41,7 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 140046,
-      "name": "Djurens vaggvisa",
-      "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "HEAVEN & HELL",
         "url": "https://open.spotify.com/album/5pdIGSss1h8kNmgWVJsbno"
@@ -77,7 +57,7 @@
       "url": "https://open.spotify.com/track/6FaMpOVyLVhyf6Fb8QMrhO"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -97,7 +77,27 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 140046,
+      "name": "Djurens vaggvisa",
+      "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -117,23 +117,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Upp och ner och hit och dit med Babblarna",
-        "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
-      },
-      "artists": [
-        {
-          "name": "Babblarna",
-          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
-        }
-      ],
-      "duration_ms": 334053,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Lost and found",
         "url": "https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG"
@@ -153,7 +137,23 @@
       "url": "https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Upp och ner och hit och dit med Babblarna",
+        "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
+      },
+      "artists": [
+        {
+          "name": "Babblarna",
+          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -169,23 +169,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Cecilia Lind",
-        "url": "https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 101631,
-      "name": "Cecilia Lind",
-      "url": "https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Kan Inte G\u00e5",
         "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
@@ -201,55 +185,7 @@
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Ikv\u00e4ll Igen",
-        "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "Ikv\u00e4ll Igen",
-      "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Viva La Vida",
-        "url": "https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
@@ -265,27 +201,71 @@
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+        "name": "Cecilia Lind",
+        "url": "https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD"
       },
       "artists": [
         {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 160373,
-      "name": "Somna",
-      "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
+      "duration_ms": 101631,
+      "name": "Cecilia Lind",
+      "url": "https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Ikv\u00e4ll Igen",
+        "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "Ikv\u00e4ll Igen",
+      "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -301,39 +281,7 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -349,27 +297,55 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
       "artists": [
         {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 166216,
-      "name": "Stj\u00e4rnorna",
-      "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/45JiIIrnW41aiZrXvtKN8Q"
@@ -393,43 +369,7 @@
       "url": "https://open.spotify.com/track/7HuBqX0G5mJTd8TEiPZ40K"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "CALMA",
-        "url": "https://open.spotify.com/album/0DNUkgfYrdwXS0HuUm2hGk"
-      },
-      "artists": [
-        {
-          "name": "Y4ska",
-          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "CALMA",
-      "url": "https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -445,23 +385,7 @@
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "V\u00e4lkommen ner",
-        "url": "https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 158062,
-      "name": "V\u00e4lkommen ner",
-      "url": "https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -476,12 +400,32 @@
           "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
         }
       ],
-      "duration_ms": 161481,
-      "name": "Nu s\u00e4ger vi godnatt",
-      "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
+      "duration_ms": 160373,
+      "name": "Somna",
+      "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 166216,
+      "name": "Stj\u00e4rnorna",
+      "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Ole Dole Doff",
         "url": "https://open.spotify.com/album/7tBDWD3QIoss32SnOEP63w"
@@ -501,7 +445,7 @@
       "url": "https://open.spotify.com/track/0Pii5EXqXhPOTcX86zDxaW"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
@@ -517,47 +461,43 @@
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
-        "name": "Vanilj",
-        "url": "https://open.spotify.com/album/5QuG1YYAkTFUF7DETHLleW"
+        "name": "V\u00e4lkommen ner",
+        "url": "https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN"
       },
       "artists": [
         {
-          "name": "BoBa",
-          "url": "https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW"
-        },
-        {
-          "name": "Malik Dalasi",
-          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 139516,
-      "name": "Vanilj",
-      "url": "https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF"
+      "duration_ms": 158062,
+      "name": "V\u00e4lkommen ner",
+      "url": "https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+        "name": "CALMA",
+        "url": "https://open.spotify.com/album/0DNUkgfYrdwXS0HuUm2hGk"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
         },
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+      "duration_ms": 120000,
+      "name": "CALMA",
+      "url": "https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
@@ -577,7 +517,7 @@
       "url": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -593,7 +533,47 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Vanilj",
+        "url": "https://open.spotify.com/album/5QuG1YYAkTFUF7DETHLleW"
+      },
+      "artists": [
+        {
+          "name": "BoBa",
+          "url": "https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW"
+        },
+        {
+          "name": "Malik Dalasi",
+          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+        }
+      ],
+      "duration_ms": 139516,
+      "name": "Vanilj",
+      "url": "https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -613,23 +593,7 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -644,12 +608,28 @@
           "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
         }
       ],
-      "duration_ms": 120545,
-      "name": "Godnattvisan",
-      "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
+      "duration_ms": 161481,
+      "name": "Nu s\u00e4ger vi godnatt",
+      "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Unreal Unearth: Unaired",
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -665,75 +645,7 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "A Christmas Song",
-        "url": "https://open.spotify.com/album/4AS4WuhyWFYNCuWVKWBjI6"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rnzone",
-          "url": "https://open.spotify.com/artist/2JWyK3kI7KtAEtRrkA8zGC"
-        }
-      ],
-      "duration_ms": 233753,
-      "name": "A Christmas Song",
-      "url": "https://open.spotify.com/track/5ta6j4wZw2pb2huu6od7nk"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "YEMAYA",
-        "url": "https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "Armani",
-      "url": "https://open.spotify.com/track/5avYou6QKMsC1nnbOkqqm9"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Unreal Unearth: Unaired",
-        "url": "https://open.spotify.com/album/48qd9sU3xqYJbKaxHCciJL"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Restless Mind",
-        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        },
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 286634,
-      "name": "Indigo (feat. Avery Anna)",
-      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "I Might",
         "url": "https://open.spotify.com/album/0BV35xKFmcMBLRuQqnB78d"
@@ -749,79 +661,7 @@
       "url": "https://open.spotify.com/track/2UX821OXiIYGp67PdMqmoe"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Dum",
-        "url": "https://open.spotify.com/album/7sx7OC97FRNt0jg097FHRH"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 168827,
-      "name": "Dum",
-      "url": "https://open.spotify.com/track/3fneVsIBA5RkkXsQhOW7pn"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "Babblarnas vaggvisa",
-        "url": "https://open.spotify.com/album/3byd3r0bluk22eusc6uth3"
-      },
-      "artists": [
-        {
-          "name": "Vintergatan",
-          "url": "https://open.spotify.com/artist/2bl9NxlK21JgGjP5HkNi5o"
-        }
-      ],
-      "duration_ms": 305765,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/4lQfnSLKKSKlep9ASNoTbo"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "VEM FAN E DU?",
-        "url": "https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        },
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "VEM FAN E DU?",
-      "url": "https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
-      "album": {
-        "name": "BAILA",
-        "url": "https://open.spotify.com/album/4WVCU1ybZl5A1RRvZ9C9ke"
-      },
-      "artists": [
-        {
-          "name": "Gaboro",
-          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
-        },
-        {
-          "name": "ROMANOS",
-          "url": "https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV"
-        }
-      ],
-      "duration_ms": 124705,
-      "name": "BAILA",
-      "url": "https://open.spotify.com/track/5BGCXuJmVIDnYcCCHWCizV"
-    },
-    {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK"
@@ -849,23 +689,131 @@
       "url": "https://open.spotify.com/track/3CTgRPxyTh2w7wBjVFH88e"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
-        "name": "Wlak",
-        "url": "https://open.spotify.com/album/4AZYDRYX7q4VMSRRBAHgpS"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
       "artists": [
         {
-          "name": "Gaboro",
-          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 134971,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/0wqHIqVLDIRjJqvm8nmiG4"
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Dum",
+        "url": "https://open.spotify.com/album/7sx7OC97FRNt0jg097FHRH"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 168827,
+      "name": "Dum",
+      "url": "https://open.spotify.com/track/3fneVsIBA5RkkXsQhOW7pn"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 286634,
+      "name": "Indigo (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "VEM FAN E DU?",
+        "url": "https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "VEM FAN E DU?",
+      "url": "https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "YEMAYA",
+        "url": "https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 182439,
+      "name": "Armani",
+      "url": "https://open.spotify.com/track/5avYou6QKMsC1nnbOkqqm9"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 120545,
+      "name": "Godnattvisan",
+      "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
       "album": {
         "name": "Fitta och kebab",
         "url": "https://open.spotify.com/album/7KwlG3aWmbeZ9lF8Zb4lqn"
@@ -881,20 +829,72 @@
       "url": "https://open.spotify.com/track/1H3okcaLb3IjLnp05KrRaD"
     },
     {
-      "added_at": "2024-12-30 13:27:57",
+      "added_at": "2024-12-31 12:52:43",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
+        "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 178118,
+      "name": "P\u00e5 M\u00e5ndag",
+      "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "BAILA",
+        "url": "https://open.spotify.com/album/4WVCU1ybZl5A1RRvZ9C9ke"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        },
+        {
+          "name": "ROMANOS",
+          "url": "https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV"
+        }
+      ],
+      "duration_ms": 124705,
+      "name": "BAILA",
+      "url": "https://open.spotify.com/track/5BGCXuJmVIDnYcCCHWCizV"
+    },
+    {
+      "added_at": "2024-12-31 12:52:43",
+      "album": {
+        "name": "B\u00e6rum Bitches (Mannschaft)",
+        "url": "https://open.spotify.com/album/6Qox9WxfKXDYlziXkDaDr2"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "B\u00e6rum Bitches (Mannschaft)",
+      "url": "https://open.spotify.com/track/3ZNOlf3hO8Lhnpvg2iF16D"
     }
   ],
   "unique_name": "Top 50 - Sweden",

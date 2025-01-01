@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,566 likes - 321 songs - 17 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,567 likes - 321 songs - 17 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 74 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/4DiixEtYrBxxj6SSWcUvGZ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:15 |
 | 75 | [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 |
 | 76 | [The Rhythm](https://open.spotify.com/track/4laPvATil8SrIAlysZazYN) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:06 |
-| 77 | [DNA](https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 2:57 |
-| 78 | [Walk Like This](https://open.spotify.com/track/59uB0hD8JtxgdEuV3CNgrD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:17 |
+| 77 | [Walk Like This](https://open.spotify.com/track/59uB0hD8JtxgdEuV3CNgrD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:17 |
+| 78 | [DNA](https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 2:57 |
 | 79 | [GIRLS LIKE US](https://open.spotify.com/track/4M0eE7cZ9lx4ygXSSbfAtp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:38 |
 | 80 | [Who You Are](https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:25 |
 | 81 | [Don’t You Feel It](https://open.spotify.com/track/1kW0EhrR7VdrXRexVIDIiB) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Don't You Feel It](https://open.spotify.com/album/0RkIZtap4bsBP2rEb3tJUQ) | 3:27 |
@@ -195,8 +195,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 185 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
 | 186 | [Calling](https://open.spotify.com/track/7IxrpgNvMEtRt5SO4UA4Bv) | [Chaya](https://open.spotify.com/artist/5t7FfMHr6IwUH5k2sLZ4n1) | [Calling](https://open.spotify.com/album/5v9JGhI8lAV05lTYjPQUaZ) | 3:40 |
 | 187 | [Definition](https://open.spotify.com/track/31vrYgT1bq756Yu3Hlzedj) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:12 |
-| 188 | [100 Times](https://open.spotify.com/track/0OfGWNcBYJ0mVwIEKB5ZTf) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 3:06 |
-| 189 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 |
+| 188 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 |
+| 189 | [100 Times](https://open.spotify.com/track/0OfGWNcBYJ0mVwIEKB5ZTf) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 3:06 |
 | 190 | [Ultimatum](https://open.spotify.com/track/2DAwdGk9fJY9zXhOP6psz6) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Ultimatum](https://open.spotify.com/album/76DYEfwnt7VbRTrBt5sos6) | 3:31 |
 | 191 | [To the Beat of My Heart](https://open.spotify.com/track/3OPrWU05xzSlV3tau3b7C1) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Platinum Collection](https://open.spotify.com/album/6RsefRivaKdO1XgeRfIUHv) | 3:10 |
 | 192 | [Natural \(feat\. KStewart\)](https://open.spotify.com/track/5C3ybgC2yExg9qBcMJyG9F) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [KStewart](https://open.spotify.com/artist/4jQF2fKZDX6pQIPWwsNWyp) | [NIT3 TALES](https://open.spotify.com/album/3aaDMnR6ZksGbZSDw2JRxZ) | 3:12 |
@@ -216,8 +216,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 206 | [In Your Clouds](https://open.spotify.com/track/5vx016WUYcrXIHZ9h0JxTy) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:58 |
 | 207 | [WORRY TOO MUCH \- EDIT](https://open.spotify.com/track/6uuqMnJ49QOfToEqTObu7B) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [S'natra](https://open.spotify.com/artist/6ejpB7JpUhE7XHXAIStcsv), [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X) | [CHAPTER 23 \(THE EDITS\)](https://open.spotify.com/album/57gwOGPtX7vOYJgH9faPFk) | 3:14 |
 | 208 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 |
-| 209 | [Critical](https://open.spotify.com/track/5OzECzDAbZ4BUKenQB11q2) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [From My Sleeve To The World](https://open.spotify.com/album/5B9nB3l4Ge5AOiBz4jEs2o) | 3:14 |
-| 210 | [Heart & Soul](https://open.spotify.com/track/61yTqIK1JeO1V6bwOeTKSb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/6sxWIQBXdPaom8CiG0IMOT) | 2:42 |
+| 209 | [Heart & Soul](https://open.spotify.com/track/61yTqIK1JeO1V6bwOeTKSb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/6sxWIQBXdPaom8CiG0IMOT) | 2:42 |
+| 210 | [Critical](https://open.spotify.com/track/5OzECzDAbZ4BUKenQB11q2) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [From My Sleeve To The World](https://open.spotify.com/album/5B9nB3l4Ge5AOiBz4jEs2o) | 3:14 |
 | 211 | [Phone](https://open.spotify.com/track/2ClPhnTuoffoj3CkDxEdGi) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:23 |
 | 212 | [INNOCENT](https://open.spotify.com/track/1KIFCi8G2xun3uXACcZDZy) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM), [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [INNOCENT](https://open.spotify.com/album/4EW6GvsKJE1X40aHbOR9Fk) | 3:26 |
 | 213 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
@@ -330,4 +330,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 320 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 321 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbljyAAAAABi0vpFpnaznRHVlROrlVqz`
+Snapshot ID: `AblpXgAAAAAra5V78KWFtV6jHJxju4uf`

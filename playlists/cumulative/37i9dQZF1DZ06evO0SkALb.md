@@ -4,7 +4,7 @@
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-115 songs - 7 hr 15 min
+116 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Blues For The Weepers](https://open.spotify.com/track/5r2pfH2Jm8pU5NTmLbOI1l) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Nobody But Lou](https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM) | 3:50 | 2024-06-16 | 2024-07-16 |
 | [Blues Is A Woman](https://open.spotify.com/track/144kj4S4IGdWjcHjb1PyWL) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 2:58 | 2022-10-12 | 2024-07-08 |
 | [Bring It On Home \- Digitally Remastered 00](https://open.spotify.com/track/7lemF5PY2O8aGkhHUyz2Bp) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 | 2022-05-25 |  |
-| [Bring It on Home to Me](https://open.spotify.com/track/4Sm5eJvZDJjBCdLpmzkUYq) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Soul Essentials : Chill With the Legendary Voices of Soul Music](https://open.spotify.com/album/23iBYPGtHd3UfoQk0gezvc) | 2:41 | 2024-10-17 |  |
+| [Bring It on Home to Me](https://open.spotify.com/track/4Sm5eJvZDJjBCdLpmzkUYq) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Soul Essentials : Chill With the Legendary Voices of Soul Music](https://open.spotify.com/album/23iBYPGtHd3UfoQk0gezvc) | 2:41 | 2024-10-17 | 2025-01-01 |
+| [Bring It On Home To Me \- Restored Edition '24](https://open.spotify.com/track/347nAY2xgGqQ6HvFAgkeIN) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [A Grand Selection Of His Beloved Songs \(Restored Edition '24\)](https://open.spotify.com/album/7e3b8jOPlLRYU1dQWg7sbE) | 2:41 | 2025-01-01 |  |
 | [Chain Gang](https://open.spotify.com/track/121zWRGmvv3D1fNIGmPMQp) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 3:48 | 2023-02-13 | 2023-07-07 |
 | [Chain Gang](https://open.spotify.com/track/4bxDuiQTJeJDSjn4JHcHzm) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:51 | 2023-07-20 | 2023-08-02 |
 | [Chain Gang \(feat\. Lou Rawls\)](https://open.spotify.com/track/5qdqlHz8qxgi86txQbXp3x) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 3:51 | 2022-10-13 | 2022-10-18 |

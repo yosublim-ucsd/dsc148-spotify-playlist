@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 6934,
+  "num_followers": 6942,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAABXHCDBRIGJ0PAuxbP49eP3",
+  "snapshot_id": "Z3HigAAAAADdiZm+65ExKUJoGgEi/UNw",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
+      },
+      "artists": [
+        {
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvatrem (Deluxe)",
         "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 142500,
       "name": "14 Sem Vaselina",
       "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
-      },
-      "artists": [
-        {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
     },
     {
       "added_at": null,

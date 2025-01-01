@@ -4,7 +4,7 @@
 
 > What's happening in r&b, right now – featuring SZA.
 
-994 songs - 2 day 5 hr 53 min
+995 songs - 2 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 | 2024-06-21 | 2024-10-26 |
 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 | 2022-11-11 | 2023-01-28 |
 | [Bahamas Promises](https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:04 | 2023-10-06 | 2023-12-09 |
-| [Balance](https://open.spotify.com/track/02xTcpR42E3p7Y0tpi8jH2) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Who Don't Like Me](https://open.spotify.com/album/0L15iujOGB5Smand8zPzPM) | 4:36 | 2024-11-08 |  |
+| [Balance](https://open.spotify.com/track/02xTcpR42E3p7Y0tpi8jH2) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Who Don't Like Me](https://open.spotify.com/album/0L15iujOGB5Smand8zPzPM) | 4:36 | 2024-11-08 | 2025-01-01 |
 | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/track/1RI4YQVFh7onQD07QuL8ND) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/album/5a73HUmrKIebjmafM1QuFS) | 3:40 | 2021-12-31 | 2022-01-15 |
 | [BE MY GIRL](https://open.spotify.com/track/5gjBw5k3DKHkylViPcVs1b) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [BE MY GIRL](https://open.spotify.com/album/1d44Ijm1tU3ph4WrmD8euD) | 3:02 | 2022-07-22 | 2022-10-01 |
 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 | 2023-07-21 | 2024-04-27 |
@@ -204,6 +204,7 @@
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-14 | 2024-08-31 |
 | [Dey For Me](https://open.spotify.com/track/1eEkjFWORg5NBhFuEPnPNa) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Insincerely AP](https://open.spotify.com/album/3kj8MeAuCML4nMgO4wNbEg) | 3:13 | 2022-02-25 | 2022-03-09 |
 | [DFMU](https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [DFMU](https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k) | 3:17 | 2022-01-28 | 2022-05-07 |
+| [Diamond Boy \(DTM\)](https://open.spotify.com/track/0SCIwbS0Q4etwJmDyNjHaQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:37 | 2024-12-31 |  |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2022-07-15 | 2023-01-28 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-24 | 2023-06-03 |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-27 | 2022-09-03 |

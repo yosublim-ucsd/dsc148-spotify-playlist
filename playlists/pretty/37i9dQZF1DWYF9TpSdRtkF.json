@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 17545,
+  "num_followers": 17544,
   "original_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
   "owner": {
     "name": "Spotify",
@@ -711,30 +711,26 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans",
-        "url": "https://open.spotify.com/album/0aF69rLzzjsSOJzErPvdAQ"
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 16 \u541b\u5f69",
+        "url": "https://open.spotify.com/album/5HGLbVSNqj9HQHGGYe39No"
       },
       "artists": [
         {
-          "name": "Roco (CV: Atsuki Nakamura)",
-          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
         },
         {
-          "name": "\u821e\u6d5c \u6b69 (CV.\u6238\u7530\u3081\u3050\u307f)",
-          "url": "https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF"
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
         },
         {
-          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
-          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
-        },
-        {
-          "name": "Momoko Suou (CV: Keiko Watanabe)",
-          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+          "name": "\u77e2\u5439\u53ef\u5948 (CV.\u6728\u6238\u8863\u5439)",
+          "url": "https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw"
         }
       ],
-      "duration_ms": 261773,
-      "name": "\u6708\u66dc\u65e5\u306e\u30af\u30ea\u30fc\u30e0\u30bd\u30fc\u30c0",
-      "url": "https://open.spotify.com/track/2uAc97qOSX92zqmO2RZozX"
+      "duration_ms": 287373,
+      "name": "ReTale",
+      "url": "https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -811,18 +807,30 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 01 Flyers!!!",
-        "url": "https://open.spotify.com/album/3XMVnavGGMGhtKL5kX9wSq"
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans",
+        "url": "https://open.spotify.com/album/0aF69rLzzjsSOJzErPvdAQ"
       },
       "artists": [
         {
-          "name": "765 MILLION ALLSTARS",
-          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+        },
+        {
+          "name": "\u821e\u6d5c \u6b69 (CV.\u6238\u7530\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF"
+        },
+        {
+          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
+          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
         }
       ],
-      "duration_ms": 329226,
-      "name": "Flyers!!!",
-      "url": "https://open.spotify.com/track/4Bu9rUQh1aABKXeMM8oSSr"
+      "duration_ms": 261773,
+      "name": "\u6708\u66dc\u65e5\u306e\u30af\u30ea\u30fc\u30e0\u30bd\u30fc\u30c0",
+      "url": "https://open.spotify.com/track/2uAc97qOSX92zqmO2RZozX"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -879,6 +887,22 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 01 Flyers!!!",
+        "url": "https://open.spotify.com/album/3XMVnavGGMGhtKL5kX9wSq"
+      },
+      "artists": [
+        {
+          "name": "765 MILLION ALLSTARS",
+          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+        }
+      ],
+      "duration_ms": 329226,
+      "name": "Flyers!!!",
+      "url": "https://open.spotify.com/track/4Bu9rUQh1aABKXeMM8oSSr"
+    },
+    {
+      "added_at": "2024-10-01 16:39:08",
+      "album": {
         "name": "THE IDOLM@STER THE@TER BOOST 03",
         "url": "https://open.spotify.com/album/03DXJlSB7xmXBOMcvjcPJQ"
       },
@@ -911,6 +935,22 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
+        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "\u30e9\u30a4\u30a2\u30fc\u30fb\u30eb\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/2MbPiTitqFqYeajRJUq1Zp"
+    },
+    {
+      "added_at": "2024-10-01 16:39:08",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON",
         "url": "https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6"
       },
@@ -939,18 +979,18 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
-        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09",
+        "url": "https://open.spotify.com/album/1aORtrNtFix8006Ft2iydu"
       },
       "artists": [
         {
-          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
-          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
         }
       ],
-      "duration_ms": 232093,
-      "name": "\u30e9\u30a4\u30a2\u30fc\u30fb\u30eb\u30fc\u30b8\u30e5",
-      "url": "https://open.spotify.com/track/2MbPiTitqFqYeajRJUq1Zp"
+      "duration_ms": 193106,
+      "name": "\u30c1\u30e7\u30fc \u5143\u6c17Show \u30a2\u30a4\u30c9\u30ebch@ng!",
+      "url": "https://open.spotify.com/track/0Dalla51NLjsYIdOCoidYI"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -983,46 +1023,6 @@
       "duration_ms": 292800,
       "name": "Do the IDOL!! \uff5e\u65ad\u5d16\u7d76\u58c1\u30c1\u30e5\u30d1\u30ab\u30d6\u30e9\uff5e",
       "url": "https://open.spotify.com/track/6mT7VsrBaPack8OQ1kQ0Mz"
-    },
-    {
-      "added_at": "2024-10-01 16:39:08",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09",
-        "url": "https://open.spotify.com/album/1aORtrNtFix8006Ft2iydu"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
-          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "\u30c1\u30e7\u30fc \u5143\u6c17Show \u30a2\u30a4\u30c9\u30ebch@ng!",
-      "url": "https://open.spotify.com/track/0Dalla51NLjsYIdOCoidYI"
-    },
-    {
-      "added_at": "2024-10-01 16:39:08",
-      "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 16 \u541b\u5f69",
-        "url": "https://open.spotify.com/album/5HGLbVSNqj9HQHGGYe39No"
-      },
-      "artists": [
-        {
-          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
-          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
-        },
-        {
-          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
-          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
-        },
-        {
-          "name": "\u77e2\u5439\u53ef\u5948 (CV.\u6728\u6238\u8863\u5439)",
-          "url": "https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw"
-        }
-      ],
-      "duration_ms": 287373,
-      "name": "ReTale",
-      "url": "https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1291,6 +1291,38 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 10 \u9583\u5149 HANABI\u56e3",
+        "url": "https://open.spotify.com/album/3yMOG8hVXOI4DRrUixNXBE"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        },
+        {
+          "name": "\u6a2a\u5c71\u5948\u7dd2 (CV.\u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED"
+        },
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        },
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "\u54b2\u304f\u306f\u6d6e\u4e16\u306e\u541b\u82b1\u706b",
+      "url": "https://open.spotify.com/track/7bShOIQ5ls3hF26cOsE12J"
+    },
+    {
+      "added_at": "2024-10-01 16:39:08",
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
         "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
       },
@@ -1455,22 +1487,6 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
-        "url": "https://open.spotify.com/album/0RulRBQ4s2J5ejrTEDOjVQ"
-      },
-      "artists": [
-        {
-          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
-          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "POKER POKER",
-      "url": "https://open.spotify.com/track/45cht7zlNsUh21IDnuZ1uO"
-    },
-    {
-      "added_at": "2024-10-01 16:39:08",
-      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON FINAL",
         "url": "https://open.spotify.com/album/0AqCcAkzDG2TrgSIWY9WgH"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 04",
-        "url": "https://open.spotify.com/album/2l4xAEwb0RUwI9waodLEwM"
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
+        "url": "https://open.spotify.com/album/0RulRBQ4s2J5ejrTEDOjVQ"
       },
       "artists": [
         {
-          "name": "\u30a8\u30df\u30ea\u30fc \u30b9\u30c1\u30e5\u30a2\u30fc\u30c8 (CV.\u90c1\u539f\u3086\u3046)",
-          "url": "https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K"
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
         }
       ],
-      "duration_ms": 318226,
-      "name": "\u7d75\u7fbd\u6a21\u69d8",
-      "url": "https://open.spotify.com/track/3eQ9I02KrBpGiHDDXWeQtq"
+      "duration_ms": 238880,
+      "name": "POKER POKER",
+      "url": "https://open.spotify.com/track/45cht7zlNsUh21IDnuZ1uO"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1543,6 +1559,22 @@
       "duration_ms": 248800,
       "name": "LOVE is GAME",
       "url": "https://open.spotify.com/track/28JdMWZlK5qsUmqX3ytdnJ"
+    },
+    {
+      "added_at": "2024-10-01 16:39:08",
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 04",
+        "url": "https://open.spotify.com/album/2l4xAEwb0RUwI9waodLEwM"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30df\u30ea\u30fc \u30b9\u30c1\u30e5\u30a2\u30fc\u30c8 (CV.\u90c1\u539f\u3086\u3046)",
+          "url": "https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K"
+        }
+      ],
+      "duration_ms": 318226,
+      "name": "\u7d75\u7fbd\u6a21\u69d8",
+      "url": "https://open.spotify.com/track/3eQ9I02KrBpGiHDDXWeQtq"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1639,22 +1671,6 @@
       "duration_ms": 231133,
       "name": "\u771f\u590f\u306e\u30c0\u30a4\u30e4",
       "url": "https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG"
-    },
-    {
-      "added_at": "2024-10-01 16:39:08",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
-        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
-      },
-      "artists": [
-        {
-          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
-          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
-        }
-      ],
-      "duration_ms": 270493,
-      "name": "FIND YOUR WIND!",
-      "url": "https://open.spotify.com/track/6ybyRhhlDFCwDqqy9rB6O1"
     }
   ],
   "unique_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",

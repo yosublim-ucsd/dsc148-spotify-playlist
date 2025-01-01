@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 702443,
+  "num_followers": 702485,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -199,26 +199,6 @@
     {
       "added_at": "2024-12-27 17:57:33",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2024-12-27 17:57:33",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2024-12-27 17:57:33",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
       "added_at": "2024-12-27 17:57:33",
@@ -1543,30 +1543,6 @@
     {
       "added_at": "2024-12-27 17:57:33",
       "album": {
-        "name": "Million Dollar Bill",
-        "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
-      },
-      "artists": [
-        {
-          "name": "Beyond Chicago",
-          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
-        },
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
-        }
-      ],
-      "duration_ms": 128024,
-      "name": "Million Dollar Bill",
-      "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
-    },
-    {
-      "added_at": "2024-12-27 17:57:33",
-      "album": {
         "name": "We Want More",
         "url": "https://open.spotify.com/album/7nKp2UoahBhOLo5KiYHqpd"
       },
@@ -1587,6 +1563,30 @@
       "duration_ms": 173083,
       "name": "We Want More",
       "url": "https://open.spotify.com/track/7nfCb5stHePZ6OoE7HDTe2"
+    },
+    {
+      "added_at": "2024-12-27 17:57:33",
+      "album": {
+        "name": "Million Dollar Bill",
+        "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
+      },
+      "artists": [
+        {
+          "name": "Beyond Chicago",
+          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "duration_ms": 128024,
+      "name": "Million Dollar Bill",
+      "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
     },
     {
       "added_at": "2024-12-27 17:57:33",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-12-27 17:57:33",
       "album": {
-        "name": "messy in heaven",
-        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
-      },
-      "artists": [
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 170437,
-      "name": "messy in heaven",
-      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
-    },
-    {
-      "added_at": "2024-12-27 17:57:33",
-      "album": {
         "name": "Straight Up (feat. Shayan)",
         "url": "https://open.spotify.com/album/5Q1GQ337FRQZRzul996nJy"
       },
@@ -1775,6 +1755,26 @@
     {
       "added_at": "2024-12-27 17:57:33",
       "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
+    },
+    {
+      "added_at": "2024-12-27 17:57:33",
+      "album": {
         "name": "Meet Me In The Middle",
         "url": "https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K"
       },
@@ -1787,6 +1787,22 @@
       "duration_ms": 137386,
       "name": "Meet Me In The Middle",
       "url": "https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO"
+    },
+    {
+      "added_at": "2024-12-27 17:57:33",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
+      },
+      "artists": [
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
+        }
+      ],
+      "duration_ms": 163641,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
     },
     {
       "added_at": "2024-12-27 17:57:33",
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2024-12-27 17:57:33",
       "album": {
-        "name": "Wait For It",
-        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 239668,
-      "name": "Wait For It",
-      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
-    },
-    {
-      "added_at": "2024-12-27 17:57:33",
-      "album": {
         "name": "GETAWAY",
         "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
       },
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2024-12-27 17:57:33",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
+        "name": "Wait For It",
+        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
       },
       "artists": [
         {
-          "name": "Blair Muir",
-          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
         }
       ],
-      "duration_ms": 163641,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
+      "duration_ms": 239668,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
     },
     {
       "added_at": "2024-12-27 17:57:33",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-12-27 17:57:33",
       "album": {
+        "name": "Balling",
+        "url": "https://open.spotify.com/album/1l6wrvsYeH8wiXDEVVeoEv"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 220948,
+      "name": "Balling",
+      "url": "https://open.spotify.com/track/2fHWxn8NyuJJ9c8ZkjWXZq"
+    },
+    {
+      "added_at": "2024-12-27 17:57:33",
+      "album": {
         "name": "Tidal",
         "url": "https://open.spotify.com/album/1VDJTays2jtJVsuUVcu4Mh"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 231702,
       "name": "Tidal",
       "url": "https://open.spotify.com/track/0WutQwXrfvPljSMC5XJXd1"
-    },
-    {
-      "added_at": "2024-12-27 17:57:33",
-      "album": {
-        "name": "Balling",
-        "url": "https://open.spotify.com/album/1l6wrvsYeH8wiXDEVVeoEv"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 220948,
-      "name": "Balling",
-      "url": "https://open.spotify.com/track/2fHWxn8NyuJJ9c8ZkjWXZq"
     }
   ],
   "unique_name": "PARTY MODE",

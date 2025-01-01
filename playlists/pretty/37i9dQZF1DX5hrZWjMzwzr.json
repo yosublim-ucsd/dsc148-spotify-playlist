@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10034,
+  "num_followers": 10033,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -215,34 +215,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "WWA NA KXKSIE",
-        "url": "https://open.spotify.com/album/6R3IJyx9vPOZFk4ARB7N2H"
-      },
-      "artists": [
-        {
-          "name": "Yung Adisz",
-          "url": "https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40"
-        },
-        {
-          "name": "schafter",
-          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
-        },
-        {
-          "name": "Gottastral",
-          "url": "https://open.spotify.com/artist/4QXo5C5MyU5monLYHsJOG9"
-        },
-        {
-          "name": "Tosiek",
-          "url": "https://open.spotify.com/artist/0WvOprQ8IaFWR5L76Czhww"
-        }
-      ],
-      "duration_ms": 205925,
-      "name": "WWA NA KXKSIE",
-      "url": "https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Taxi",
         "url": "https://open.spotify.com/album/4jhbMRksvKzOhCqoHbLWQ4"
       },
@@ -271,6 +243,34 @@
       "duration_ms": 180937,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6tARtPlcilM1u4tbAWgato"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "WWA NA KXKSIE",
+        "url": "https://open.spotify.com/album/6R3IJyx9vPOZFk4ARB7N2H"
+      },
+      "artists": [
+        {
+          "name": "Yung Adisz",
+          "url": "https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40"
+        },
+        {
+          "name": "schafter",
+          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
+        },
+        {
+          "name": "Gottastral",
+          "url": "https://open.spotify.com/artist/4QXo5C5MyU5monLYHsJOG9"
+        },
+        {
+          "name": "Tosiek",
+          "url": "https://open.spotify.com/artist/0WvOprQ8IaFWR5L76Czhww"
+        }
+      ],
+      "duration_ms": 205925,
+      "name": "WWA NA KXKSIE",
+      "url": "https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Miasto Boga",
-        "url": "https://open.spotify.com/album/2SioxbV84BRLxrFgBxExrn"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
-        },
-        {
-          "name": "Sir Mich",
-          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Miasto Boga",
-      "url": "https://open.spotify.com/track/6sQuZ3E6SUUZmRTJ8DNgLH"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Produkt Lokalny",
         "url": "https://open.spotify.com/album/5ynXthZb37gxNW3Yoaxzi4"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 199354,
       "name": "Baldwin",
       "url": "https://open.spotify.com/track/6TRgxHQznLxerEWjjWHcIA"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Miasto Boga",
+        "url": "https://open.spotify.com/album/2SioxbV84BRLxrFgBxExrn"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
+        },
+        {
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Miasto Boga",
+      "url": "https://open.spotify.com/track/6sQuZ3E6SUUZmRTJ8DNgLH"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "NIE MA CI\u0118",
-        "url": "https://open.spotify.com/album/5YgEYtpToICxfF8duu9b00"
-      },
-      "artists": [
-        {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
-        },
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        }
-      ],
-      "duration_ms": 171932,
-      "name": "NIE MA CI\u0118",
-      "url": "https://open.spotify.com/track/5AzCwwnB7XHoZZIusuHeXJ"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Skills (IDA 2023 Promo)",
         "url": "https://open.spotify.com/album/2BV8Yg585t3qJYNIjgKnzE"
       },
@@ -1611,6 +1587,30 @@
       "duration_ms": 191842,
       "name": "NIE WYG\u0141UPIAJ SI\u0118",
       "url": "https://open.spotify.com/track/1xRnMNPXGVMmvUr8flF7LC"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "NIE MA CI\u0118",
+        "url": "https://open.spotify.com/album/5YgEYtpToICxfF8duu9b00"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "duration_ms": 171932,
+      "name": "NIE MA CI\u0118",
+      "url": "https://open.spotify.com/track/5AzCwwnB7XHoZZIusuHeXJ"
     },
     {
       "added_at": "2024-02-27 08:21:33",

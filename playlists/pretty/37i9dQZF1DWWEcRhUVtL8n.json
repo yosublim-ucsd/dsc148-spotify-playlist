@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Laundry Day",
-  "num_followers": 1688417,
+  "num_followers": 1688478,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -765,26 +765,6 @@
       "url": "https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Fauxllennium",
-        "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "Yesterday's World",
-      "url": "https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Calling After Me",
@@ -815,6 +795,26 @@
       "duration_ms": 214756,
       "name": "After the First Kiss",
       "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Fauxllennium",
+        "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "Yesterday's World",
+      "url": "https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 231490,
-      "name": "Leaveyourlove",
-      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Still In Love",
@@ -883,6 +867,22 @@
       "duration_ms": 161164,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
     },
     {
       "added_at": "2024-09-27 23:58:00",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Best Friends",
-        "url": "https://open.spotify.com/album/1CvQ6ffxe39iuZeaNHbxx7"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 241881,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/1HdkhxFrzifewm5amVrP9D"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Older",
@@ -1063,6 +1047,22 @@
       "duration_ms": 245720,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Best Friends",
+        "url": "https://open.spotify.com/album/1CvQ6ffxe39iuZeaNHbxx7"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 241881,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/1HdkhxFrzifewm5amVrP9D"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "2DK",
-        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 196343,
-      "name": "2DK",
-      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "I Miss You Already + I Haven\u2019t Left Yet (Deluxe)",
@@ -1239,6 +1223,22 @@
       "duration_ms": 184533,
       "name": "Purple Teeth, The Bravery",
       "url": "https://open.spotify.com/track/17Az6lQEgxICVvHrr7VbAg"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Good Neighbours",
-        "url": "https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 171731,
-      "name": "Weekend Boy",
-      "url": "https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Cherry Blossom",
@@ -1441,20 +1425,20 @@
       "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
+        "name": "Good Neighbours",
+        "url": "https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll"
       },
       "artists": [
         {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 239769,
-      "name": "Love at First Sight - Spotify Singles",
-      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
+      "duration_ms": 171731,
+      "name": "Weekend Boy",
+      "url": "https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1489,6 +1473,22 @@
       "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
     },
     {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 239769,
+      "name": "Love at First Sight - Spotify Singles",
+      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Mexico",
@@ -1507,6 +1507,22 @@
       "duration_ms": 176632,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Nights That We Needed",
+        "url": "https://open.spotify.com/album/5DW7l8OLz9LKfHeNhKCjnF"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "duration_ms": 215561,
+      "name": "Nights That We Needed",
+      "url": "https://open.spotify.com/track/42Uc9j8SJ2sgPHAf7ZS9hg"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Water the Flowers, Pray for a Garden",
-        "url": "https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 212502,
-      "name": "Bop Ba",
-      "url": "https://open.spotify.com/track/2kohdOn9SEqiWlkIkOChy2"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
       },
@@ -1589,36 +1589,20 @@
       "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Nights That We Needed",
-        "url": "https://open.spotify.com/album/5DW7l8OLz9LKfHeNhKCjnF"
+        "name": "Water the Flowers, Pray for a Garden",
+        "url": "https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK"
       },
       "artists": [
         {
-          "name": "DWLLRS",
-          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
         }
       ],
-      "duration_ms": 215561,
-      "name": "Nights That We Needed",
-      "url": "https://open.spotify.com/track/42Uc9j8SJ2sgPHAf7ZS9hg"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Songs About You Specifically",
-        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 163931,
-      "name": "Akira",
-      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
+      "duration_ms": 212502,
+      "name": "Bop Ba",
+      "url": "https://open.spotify.com/track/2kohdOn9SEqiWlkIkOChy2"
     },
     {
       "added_at": "2024-10-25 16:38:34",
@@ -1637,20 +1621,36 @@
       "url": "https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+        "name": "Songs About You Specifically",
+        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
         }
       ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
+      "duration_ms": 163931,
+      "name": "Akira",
+      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Image",
+        "url": "https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
     }
   ],
   "unique_name": "Indie Pop",

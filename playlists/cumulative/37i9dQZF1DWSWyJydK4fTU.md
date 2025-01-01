@@ -4,7 +4,7 @@
 
 > Für einen tollen Start in den Tag\. Oder einfach so.
 
-147 songs - 7 hr 20 min
+149 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-13 |  |
 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-09-06 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-30 |  |
+| [Don't Matter](https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Vertigo](https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg) | 3:20 | 2024-12-31 |  |
 | [Don't Stop The Car](https://open.spotify.com/track/46koOb6QAnc4PCsKJ1h4RD) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [C'est La Vie, Baby!](https://open.spotify.com/album/2ncl4h8FXHnpnbMrvGwA2x) | 3:14 | 2024-10-17 |  |
 | [Down To My Bones](https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Down To My Bones](https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD) | 3:21 | 2024-11-27 |  |
 | [Driving To Nowhere](https://open.spotify.com/track/7bI0nfpRuGN5BUW23Auw26) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Driving To Nowhere](https://open.spotify.com/album/3ElAgzbgtbzweDHr2snige) | 3:05 | 2024-06-20 | 2024-07-11 |
@@ -91,7 +92,7 @@
 | [Love Me Better](https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Love Me Better](https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H) | 2:13 | 2024-09-13 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-06-20 | 2024-11-10 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-11-13 |  |
-| [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:25 | 2024-08-19 |  |
+| [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:25 | 2024-08-19 | 2025-01-01 |
 | [Love U Again](https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Love U Again](https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M) | 2:46 | 2024-06-20 | 2024-08-08 |
 | [Loyal to myself](https://open.spotify.com/track/2e4kWV07RgzyJa9YWTEQpH) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/4ZWf3l2OK3oV2GSCYOXTm1) | 2:27 | 2024-06-20 | 2024-10-12 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-20 | 2024-08-20 |
@@ -147,12 +148,13 @@
 | [was wäre wenn](https://open.spotify.com/track/3VTSOMZBBbxKcSQHzQ8hys) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [was wäre wenn](https://open.spotify.com/album/1b0xhyr8Ft2V2cnoDOxcz0) | 2:53 | 2024-06-20 | 2024-08-03 |
 | [Wave](https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Wave](https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp) | 2:43 | 2024-09-13 | 2024-11-28 |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-30 |  |
+| [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-31 |  |
 | [Weiße Haare](https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Weiße Haare](https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j) | 2:49 | 2024-11-13 |  |
 | [Wenn Du Mich Rufst](https://open.spotify.com/track/3vurWvkBxHaGRE4xkOV6uy) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Wenn Du Mich Rufst](https://open.spotify.com/album/0h6Ef5wAE42j8twiu8OmnO) | 3:09 | 2024-06-20 | 2024-07-23 |
 | [Wenn es sich gut anfühlt](https://open.spotify.com/track/6IVsW0MUToVAmf5E9w9jHz) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Wenn es sich gut anfühlt](https://open.spotify.com/album/4fG615Zq6Sv2VJJQ5quGmv) | 2:33 | 2024-06-20 | 2024-12-19 |
 | [Wer Sagt Es Zuerst](https://open.spotify.com/track/56RJCIP17bS8CQLhtdhiMG) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Wer Sagt Es Zuerst](https://open.spotify.com/album/4tpqM5OCsHm8h4v0jkJYv0) | 2:23 | 2024-09-06 | 2024-11-10 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2024-06-20 |  |
-| [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-10-11 |  |
+| [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-10-11 | 2025-01-01 |
 | [WHO CARES](https://open.spotify.com/track/3EbWjvHbCusBvpUGXX3IT9) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [WHO CARES](https://open.spotify.com/album/0HkYZm7eS1u3J7JWpwRcl7) | 2:51 | 2024-06-20 | 2024-07-23 |
 | [Wünsch dir das Beste](https://open.spotify.com/track/7GHyGCAJ1ILXaFAkvaIEhq) | [HE/RO](https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6) | [Wünsch dir das Beste](https://open.spotify.com/album/7fEpe2ES1mr5EGOaT3mAnp) | 2:21 | 2024-08-02 | 2024-09-07 |
 

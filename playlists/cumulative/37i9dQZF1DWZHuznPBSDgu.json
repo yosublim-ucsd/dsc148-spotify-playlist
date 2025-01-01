@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Sakura, Hirari",
+        "url": "https://open.spotify.com/album/59EemgW0GWvqjkS31pB8tL"
+      },
+      "artists": [
+        {
+          "name": "SOUTHERN ALL STARS",
+          "url": "https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP"
+        }
+      ],
+      "date_added": "2024-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246815,
+      "name": "Sakura, Hirari",
+      "url": "https://open.spotify.com/track/3A1SAiF3EGsS11vHxq53Sc"
+    },
+    {
+      "album": {
         "name": "\u30bf\u30a4\u30cb\u30a4\u30fb\u30d0\u30d6\u30eb\u30b9",
         "url": "https://open.spotify.com/album/4fxa2gVYQCAbtcJ5AmDbFL"
       },

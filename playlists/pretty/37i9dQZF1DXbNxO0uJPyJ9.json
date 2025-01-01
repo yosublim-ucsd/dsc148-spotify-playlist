@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 722315,
+  "num_followers": 722615,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "So Many Men",
+        "url": "https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX"
+      },
+      "artists": [
+        {
+          "name": "Miquel Brown",
+          "url": "https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G"
+        }
+      ],
+      "duration_ms": 494466,
+      "name": "So Many Men, So Little Time",
+      "url": "https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Suddenly (Expanded Edition)",
         "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 403586,
       "name": "Voyage voyage - Maxi",
       "url": "https://open.spotify.com/track/1i8isuRSQWFX9qKnaI5hrt"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "So Many Men",
-        "url": "https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX"
-      },
-      "artists": [
-        {
-          "name": "Miquel Brown",
-          "url": "https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G"
-        }
-      ],
-      "duration_ms": 494466,
-      "name": "So Many Men, So Little Time",
-      "url": "https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9"
     },
     {
       "added_at": "2024-02-06 15:45:26",

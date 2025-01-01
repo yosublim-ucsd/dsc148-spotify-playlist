@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 195903,
+  "num_followers": 195985,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,22 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Maybe in Nirvana",
-        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+        "name": "Back on 74 (Full Crate Remix)",
+        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
       "artists": [
         {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
         }
       ],
-      "duration_ms": 182052,
-      "name": "Dear Fren",
-      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
+      "duration_ms": 174233,
+      "name": "Back On 74 - Full Crate Remix",
+      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -267,22 +271,18 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Back on 74 (Full Crate Remix)",
-        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 174233,
-      "name": "Back On 74 - Full Crate Remix",
-      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
+      "duration_ms": 182052,
+      "name": "Dear Fren",
+      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
+      },
+      "artists": [
+        {
+          "name": "Jakob",
+          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
+        }
+      ],
+      "duration_ms": 162153,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
         "name": "Girl Next Door",
         "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 180682,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
-      },
-      "artists": [
-        {
-          "name": "Jakob",
-          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
-        }
-      ],
-      "duration_ms": 162153,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "\u304b\u3051\u8db3\u65cf",
-        "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 224767,
-      "name": "\u304b\u3051\u8db3\u65cf",
-      "url": "https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 229477,
       "name": "There Will Be No Crying",
       "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
+        "name": "\u304b\u3051\u8db3\u65cf",
+        "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 224767,
+      "name": "\u304b\u3051\u8db3\u65cf",
+      "url": "https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
+        "name": "Painted",
+        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 237517,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
         "name": "In The Night (feat. Jorja Smith & Amaarae)",
         "url": "https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Painted",
-        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 237517,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "Get Close",
         "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Lahai (Deluxe)",
-        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 226495,
-      "name": "Dancing Circles 2.0",
-      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
+        "name": "Lahai (Deluxe)",
+        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 226495,
+      "name": "Dancing Circles 2.0",
+      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "For You (Many Selves Version)",
-        "url": "https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir"
-      },
-      "artists": [
-        {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
-        }
-      ],
-      "duration_ms": 221525,
-      "name": "For You - Many Selves Version",
-      "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "Liz",
         "url": "https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+        "name": "For You (Many Selves Version)",
+        "url": "https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
         }
       ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+      "duration_ms": 221525,
+      "name": "For You - Many Selves Version",
+      "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -947,6 +931,22 @@
       "duration_ms": 192936,
       "name": "FourSixty - Feat. Aaron Taylor",
       "url": "https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
       "added_at": "2024-12-14 02:53:15",

@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Delilah en portada.",
-  "num_followers": 74579,
+  "num_followers": 74588,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Se Cancela La Llorada",
-        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Se Cancela La Llorada",
-      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "palacio <3",
         "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 156000,
       "name": "palacio <3",
       "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "Se Cancela La Llorada",
+        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Se Cancela La Llorada",
+      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Nunca Fuimos Al Mar",
-        "url": "https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 133411,
-      "name": "Nunca Fuimos Al Mar",
-      "url": "https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "Hola, Me Llamo Mar\u00eda",
         "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 156000,
       "name": "Hola, Me Llamo Mar\u00eda",
       "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "Nunca Fuimos Al Mar",
+        "url": "https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 133411,
+      "name": "Nunca Fuimos Al Mar",
+      "url": "https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL"
     },
     {
       "added_at": "2024-12-20 19:09:13",

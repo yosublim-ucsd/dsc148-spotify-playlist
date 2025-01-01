@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With FM\-84, Ollie Wride, Gunship and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,089 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,097 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 35 | [Don't Want to Change Your Mind](https://open.spotify.com/track/7ucGNqzzbSh6wEpfOxTyaZ) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk), [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:27 |
 | 36 | [Shadows](https://open.spotify.com/track/1aXYM5lT1PfKE8gCu90oIe) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nocturnal](https://open.spotify.com/album/0V8iFftiuRJESNykeAlajg) | 6:27 |
 | 37 | [Long Island](https://open.spotify.com/track/1lMjZqCXMgLFCtyW3oYmIY) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm), [Kaye Kiernan](https://open.spotify.com/artist/6oqTN3xSzKg4nRiYoEZD7m) | [Retropolis](https://open.spotify.com/album/6ZraDhNRpjPMOexSsLctD3) | 3:46 |
-| 38 | [Summer Love](https://open.spotify.com/track/5lAFwreoMCApCdeUHxPFUm) | [Trevor Something](https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd) | [Summer Love](https://open.spotify.com/album/4Zl1Yj7CrI9eu3IqYSosCd) | 3:35 |
-| 39 | [So Far from Home](https://open.spotify.com/track/5fAvWbyvGXzcWZYBkvC5OL) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Echoes of Tomorrow](https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu) | 3:32 |
-| 40 | [Control](https://open.spotify.com/track/1Z3W02BWJUtcLsecPaUNX2) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Introspect](https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN) | 4:01 |
+| 38 | [Turn Back Time](https://open.spotify.com/track/2vLT61EGvTsl0MSuTznbP7) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Turn Back Time](https://open.spotify.com/album/0jT6NlAjQuIK1QXid96efl) | 5:07 |
+| 39 | [Summer Love](https://open.spotify.com/track/5lAFwreoMCApCdeUHxPFUm) | [Trevor Something](https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd) | [Summer Love](https://open.spotify.com/album/4Zl1Yj7CrI9eu3IqYSosCd) | 3:35 |
+| 40 | [So Far from Home](https://open.spotify.com/track/5fAvWbyvGXzcWZYBkvC5OL) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Echoes of Tomorrow](https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu) | 3:32 |
 | 41 | [The Comeback Kid](https://open.spotify.com/track/58COsyYbJwWlKmVM5eAYlB) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/0ZbnBDVUkpegVOfgPFr1wr) | 5:21 |
 | 42 | [Arcade Summer](https://open.spotify.com/track/6Vy3rIRe1ANhRLm6vL1nGB) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 3:59 |
-| 43 | [Tech Noir 2 \(feat\. John Carpenter, Charlie Simpson\)](https://open.spotify.com/track/6sm8udxa0SvDUMJ2jchWe7) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Charlie Simpson](https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9), [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Tim Cappello](https://open.spotify.com/artist/0HyZTRkZ8UuhJKlIqBihqn) | [Unicorn](https://open.spotify.com/album/4uAOIj4Sxh4sL6G0v5kykv) | 5:25 |
-| 44 | [Lightyears](https://open.spotify.com/track/4gPWWrsvQtFKMUmhvjanBh) | [Dream Fiend](https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7), [September 87](https://open.spotify.com/artist/67cjZDUWm5goNObfOPrZIY) | [Outland](https://open.spotify.com/album/38w8Y4sFtjMdPYVYzHozt5) | 4:23 |
-| 45 | [1984 \(Reprise\)](https://open.spotify.com/track/6zis306o9zhksqQoFyOMZJ) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Electric Dreams](https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP) | 2:31 |
+| 43 | ['85 Again \(feat\. Miss K\)](https://open.spotify.com/track/55ACS6JsMV0OXSaLswoIEw) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD), [Miss K](https://open.spotify.com/artist/4W6G1aOwd26vBChDMlEN2c) | [Crystal City](https://open.spotify.com/album/5b1hSABNZInpfwEBy3qH5m) | 3:29 |
+| 44 | [Control](https://open.spotify.com/track/1Z3W02BWJUtcLsecPaUNX2) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Introspect](https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN) | 4:01 |
+| 45 | [Dark All Day](https://open.spotify.com/track/4GBJomKlZNRnODfpL299pw) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Tim Cappello](https://open.spotify.com/artist/0HyZTRkZ8UuhJKlIqBihqn), [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 5:27 |
 | 46 | [Crystalline](https://open.spotify.com/track/2dXpyz3Vlc0PRlaCJG0ZPr) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nocturnal](https://open.spotify.com/album/0V8iFftiuRJESNykeAlajg) | 6:02 |
-| 47 | [Turn Back Time](https://open.spotify.com/track/2vLT61EGvTsl0MSuTznbP7) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Turn Back Time](https://open.spotify.com/album/0jT6NlAjQuIK1QXid96efl) | 5:07 |
+| 47 | [Alice](https://open.spotify.com/track/3qiTL142kPzE64TXopEbpZ) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Alice](https://open.spotify.com/album/3wwjDBE8eNzgNVIxnWuwwc) | 4:57 |
 | 48 | [Everything](https://open.spotify.com/track/24hghyOlo1dTQ9sv2wufpk) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:20 |
-| 49 | [The Drone Racing League](https://open.spotify.com/track/3TjBuYxZqsO5jirM0rujRO) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 4:41 |
-| 50 | [Midnight FM](https://open.spotify.com/track/0G8BB5FLiZGgR44L5AzcHL) | [PRIZM](https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo) | [Midnight FM](https://open.spotify.com/album/3Ea2pLLsRi00RS6Fmr67Le) | 3:58 |
+| 49 | [Midnight FM](https://open.spotify.com/track/0G8BB5FLiZGgR44L5AzcHL) | [PRIZM](https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo) | [Midnight FM](https://open.spotify.com/album/3Ea2pLLsRi00RS6Fmr67Le) | 3:58 |
+| 50 | [The Driver](https://open.spotify.com/track/7sOcTBKCHGjgBHsQ8P3f1h) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea), [The Night Hour](https://open.spotify.com/artist/1gmZS91715o8IEx65UQBtt) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 4:06 |
 
-Snapshot ID: `Z3NNswAAAAA86HGuoIxNbTxI2viBOtbq`
+Snapshot ID: `Z3SXLgAAAAAPYkIUm+lUy3Pvfefq/9Ft`

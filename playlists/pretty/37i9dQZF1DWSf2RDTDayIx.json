@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2405846,
+  "num_followers": 2405882,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,26 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "Gatluak (Bakermat Remix)",
         "url": "https://open.spotify.com/album/1XVR96ao2iSG3yDGr1a1rN"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 139383,
       "name": "Gatluak - Bakermat Remix",
       "url": "https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -451,30 +451,6 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
-        "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "The Jammin Kid",
-          "url": "https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X"
-        },
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
-      "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
+        "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+        "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "The Jammin Kid",
+          "url": "https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+      "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 111074,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 111074,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "Murder On The Dancefloor (PNAU Remix)",
+        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "Murder On The Dancefloor - PNAU Remix",
+      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "What A Life (feat. Stevie Appleton)",
         "url": "https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 171547,
       "name": "What A Life (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "Murder On The Dancefloor (PNAU Remix)",
-        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "Murder On The Dancefloor - PNAU Remix",
-      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
         "name": "Better Than This",
         "url": "https://open.spotify.com/album/6GbUYC6kB63fND2yunOVmZ"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 188160,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/5OLSGox6JVpAyEQuoSYRcs"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "All For Love",
+        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 135428,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "All For Love",
-        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "duration_ms": 162684,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 189223,
       "name": "It's A Feeling",
       "url": "https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        }
-      ],
-      "duration_ms": 162684,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "JOY (By My Side)",
         "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 222675,
       "name": "JOY (By My Side)",
       "url": "https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -2147,6 +2147,26 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "Call On Me (feat. Georgia Ku)",
+        "url": "https://open.spotify.com/album/5QMT9mIOJDWUfoDZwUKYvc"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Call On Me (feat. Georgia Ku)",
+      "url": "https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU"
       },
@@ -2167,26 +2187,6 @@
       "duration_ms": 137250,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "Call On Me (feat. Georgia Ku)",
-        "url": "https://open.spotify.com/album/5QMT9mIOJDWUfoDZwUKYvc"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Call On Me (feat. Georgia Ku)",
-      "url": "https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -2319,6 +2319,26 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "Life's Too Short",
+        "url": "https://open.spotify.com/album/7y2ZooIMvgEpB51V3R2qCm"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "FITZ",
+          "url": "https://open.spotify.com/artist/7FgfVur1vT0yQyKIi0feNB"
+        }
+      ],
+      "duration_ms": 211010,
+      "name": "Life's Too Short",
+      "url": "https://open.spotify.com/track/326yOKaTPs91elL1KW794F"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0wyLwBTTorS8W4yHXJNPGj"
       },
@@ -2339,26 +2359,6 @@
       "duration_ms": 233619,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/0KU8W0lHfsNlH7lfV1dz29"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "Life's Too Short",
-        "url": "https://open.spotify.com/album/7y2ZooIMvgEpB51V3R2qCm"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "FITZ",
-          "url": "https://open.spotify.com/artist/7FgfVur1vT0yQyKIi0feNB"
-        }
-      ],
-      "duration_ms": 211010,
-      "name": "Life's Too Short",
-      "url": "https://open.spotify.com/track/326yOKaTPs91elL1KW794F"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -2655,26 +2655,6 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "IDK",
-        "url": "https://open.spotify.com/album/0leWpmreYDDG81dM9D3djo"
-      },
-      "artists": [
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 173939,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/23BiGklg1oOIXdA1r6ABSZ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc"
       },
@@ -2691,6 +2671,26 @@
       "duration_ms": 186862,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/0leWpmreYDDG81dM9D3djo"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 173939,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/23BiGklg1oOIXdA1r6ABSZ"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -2775,26 +2775,6 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4sMMQskdXE5TJn62BHulqy"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 202935,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3bX3KMbLrkbxUb4p1jzaus"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
         "name": "I Knew It Was You",
         "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
       },
@@ -2835,6 +2815,42 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4sMMQskdXE5TJn62BHulqy"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "duration_ms": 202935,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3bX3KMbLrkbxUb4p1jzaus"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
+        "name": "Life Is Good",
+        "url": "https://open.spotify.com/album/3dWd0Sv4fTJMxR4ICRlyk2"
+      },
+      "artists": [
+        {
+          "name": "Justin Caruso",
+          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "Life Is Good",
+      "url": "https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "These Are The Days (feat. Liv Dawson)",
         "url": "https://open.spotify.com/album/3q1PtEB8N6naFxX82mAT5C"
       },
@@ -2855,22 +2871,6 @@
       "duration_ms": 166955,
       "name": "These Are The Days (feat. Liv Dawson)",
       "url": "https://open.spotify.com/track/39GX8fhLrxiPcNAMgZhWUa"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "Life Is Good",
-        "url": "https://open.spotify.com/album/3dWd0Sv4fTJMxR4ICRlyk2"
-      },
-      "artists": [
-        {
-          "name": "Justin Caruso",
-          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "Life Is Good",
-      "url": "https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm"
     },
     {
       "added_at": "2024-12-20 05:00:30",

@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: N.A.N.A",
-  "num_followers": 145590,
+  "num_followers": 145589,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-12-20 03:01:15",
       "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 232072,
+      "name": "miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0MmCrODsKXrfiIqt6CajUY"
+    },
+    {
+      "added_at": "2024-12-20 03:01:15",
+      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -239,18 +255,30 @@
     {
       "added_at": "2024-12-20 03:01:15",
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+        "name": "J\u00f3ias do Bairro",
+        "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
       "artists": [
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
         }
       ],
-      "duration_ms": 232072,
-      "name": "miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0MmCrODsKXrfiIqt6CajUY"
+      "duration_ms": 171285,
+      "name": "J\u00f3ias do Bairro",
+      "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
     },
     {
       "added_at": "2024-12-20 03:01:15",
@@ -287,34 +315,6 @@
       "duration_ms": 164571,
       "name": "Amor Eu T\u00f4 no Est\u00fadio",
       "url": "https://open.spotify.com/track/6WgbUmH1yKA2YJ5NY2upOA"
-    },
-    {
-      "added_at": "2024-12-20 03:01:15",
-      "album": {
-        "name": "J\u00f3ias do Bairro",
-        "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        }
-      ],
-      "duration_ms": 171285,
-      "name": "J\u00f3ias do Bairro",
-      "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
     },
     {
       "added_at": "2024-12-20 03:01:15",
@@ -495,6 +495,30 @@
     {
       "added_at": "2024-12-20 03:01:15",
       "album": {
+        "name": "Mimo Caro",
+        "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Mimo Caro",
+      "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
+    },
+    {
+      "added_at": "2024-12-20 03:01:15",
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM"
       },
@@ -523,30 +547,6 @@
     {
       "added_at": "2024-12-20 03:01:15",
       "album": {
-        "name": "Mimo Caro",
-        "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Mc Dena",
-          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Mimo Caro",
-      "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
-    },
-    {
-      "added_at": "2024-12-20 03:01:15",
-      "album": {
         "name": "Sem Compaix\u00e3o",
         "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
       },
@@ -563,30 +563,6 @@
       "duration_ms": 202451,
       "name": "Sem Compaix\u00e3o",
       "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
-    },
-    {
-      "added_at": "2024-12-20 03:01:15",
-      "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pra Se Entorpecer",
-      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
     },
     {
       "added_at": "2024-12-20 03:01:15",
@@ -615,6 +591,30 @@
       "duration_ms": 173114,
       "name": "Lado Negro",
       "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
+    },
+    {
+      "added_at": "2024-12-20 03:01:15",
+      "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pra Se Entorpecer",
+      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
     },
     {
       "added_at": "2024-12-20 03:01:15",
@@ -687,34 +687,6 @@
       "duration_ms": 183414,
       "name": "Hostil",
       "url": "https://open.spotify.com/track/0i6gPQcHSl1nwjBtFOXDQW"
-    },
-    {
-      "added_at": "2024-12-20 03:01:15",
-      "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 213994,
-      "name": "Mundo da Fama",
-      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
     },
     {
       "added_at": "2024-12-20 03:01:15",
@@ -859,6 +831,62 @@
     {
       "added_at": "2024-12-20 03:01:15",
       "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "Mundo da Fama",
+      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+    },
+    {
+      "added_at": "2024-12-20 03:01:15",
+      "album": {
+        "name": "IAMBINHU",
+        "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Correia",
+          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Academia de Jugg",
+      "url": "https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8"
+    },
+    {
+      "added_at": "2024-12-20 03:01:15",
+      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -879,34 +907,6 @@
       "duration_ms": 170647,
       "name": "N\u00fameros da Sorte",
       "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
-    },
-    {
-      "added_at": "2024-12-20 03:01:15",
-      "album": {
-        "name": "MAGIC SHOW (DELUXE)",
-        "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 166449,
-      "name": "C.E.O'S (B\u00d4NUS TRACK)",
-      "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
     },
     {
       "added_at": "2024-12-20 03:01:15",
@@ -935,6 +935,34 @@
       "duration_ms": 140338,
       "name": "Pr\u00f3ximo Passo",
       "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
+    },
+    {
+      "added_at": "2024-12-20 03:01:15",
+      "album": {
+        "name": "MAGIC SHOW (DELUXE)",
+        "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 166449,
+      "name": "C.E.O'S (B\u00d4NUS TRACK)",
+      "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
     },
     {
       "added_at": "2024-12-20 03:01:15",
@@ -991,58 +1019,6 @@
     {
       "added_at": "2024-12-20 03:01:15",
       "album": {
-        "name": "IAMBINHU",
-        "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Correia",
-          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Academia de Jugg",
-      "url": "https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8"
-    },
-    {
-      "added_at": "2024-12-20 03:01:15",
-      "album": {
-        "name": "Diesel Dior",
-        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 189197,
-      "name": "Diesel Dior",
-      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
-    },
-    {
-      "added_at": "2024-12-20 03:01:15",
-      "album": {
         "name": "N\u00e3o Tenho Tempo",
         "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
+    },
+    {
+      "added_at": "2024-12-20 03:01:15",
+      "album": {
+        "name": "Diesel Dior",
+        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 189197,
+      "name": "Diesel Dior",
+      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
     },
     {
       "added_at": "2024-12-20 03:01:15",

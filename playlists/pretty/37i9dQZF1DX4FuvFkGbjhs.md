@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,481 likes - 123 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,475 likes - 123 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

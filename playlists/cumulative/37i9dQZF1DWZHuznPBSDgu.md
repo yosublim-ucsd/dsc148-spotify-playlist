@@ -4,7 +4,7 @@
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-162 songs - 12 hr 9 min
+163 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [PARADISE \[2024 Remaster\]](https://open.spotify.com/track/2rrdrXIF9oGV31bnojpYJC) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [さくら \[2024 Remaster\]](https://open.spotify.com/album/0fBowr9CjKttkEy3G4VYJV) | 5:54 | 2024-12-13 |  |
 | [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 | 2023-09-18 | 2024-04-19 |
 | [Relay～杜の詩](https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Relay～杜の詩](https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1) | 3:59 | 2023-09-18 |  |
+| [Sakura, Hirari](https://open.spotify.com/track/3A1SAiF3EGsS11vHxq53Sc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Sakura, Hirari](https://open.spotify.com/album/59EemgW0GWvqjkS31pB8tL) | 4:06 | 2024-12-31 |  |
 | [TO YOU](https://open.spotify.com/track/3mmabJxHHd1K4GCnuQJfYu) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [タイニイ・バブルス](https://open.spotify.com/album/4fxa2gVYQCAbtcJ5AmDbFL) | 3:43 | 2023-09-18 |  |
 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 | 2023-09-18 |  |
 | [Utae Nippon no Sora](https://open.spotify.com/track/1gDOmbdOhMADkmNSU9eUMb) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Utae Nippon no Sora](https://open.spotify.com/album/3Unh0miQk8WcU5uSQptS8v) | 4:07 | 2023-09-18 | 2024-04-19 |

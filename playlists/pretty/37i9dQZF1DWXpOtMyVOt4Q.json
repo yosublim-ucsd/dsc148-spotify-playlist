@@ -1,6 +1,6 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 266717,
+  "num_followers": 266793,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-05-22 05:00:00",
       "album": {
+        "name": "Novella",
+        "url": "https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Critz",
+          "url": "https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC"
+        }
+      ],
+      "duration_ms": 298320,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6"
+    },
+    {
+      "added_at": "2024-05-22 05:00:00",
+      "album": {
         "name": "Bluestaeb and S. Fidelity Present Underground Canopy",
         "url": "https://open.spotify.com/album/65KbJhk8V9QLLW5X6gcRSw"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 64411,
       "name": "Feelm Intermission",
       "url": "https://open.spotify.com/track/4rrNbvc5idRjJc2D2sm0wl"
-    },
-    {
-      "added_at": "2024-05-22 05:00:00",
-      "album": {
-        "name": "Novella",
-        "url": "https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP"
-      },
-      "artists": [
-        {
-          "name": "Jordan Critz",
-          "url": "https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC"
-        }
-      ],
-      "duration_ms": 298320,
-      "name": "Starry Night",
-      "url": "https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6"
     },
     {
       "added_at": "2024-05-22 05:00:00",

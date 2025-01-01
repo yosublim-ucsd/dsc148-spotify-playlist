@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,757 likes - 46 songs - 2 hr 25 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,762 likes - 46 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 6 | [Disco Demon](https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Disco Demon](https://open.spotify.com/album/4gI8M9Uu9UbXCt7CT6bknP) | 2:35 |
 | 7 | [Rockstar](https://open.spotify.com/track/73Isx1gb055c1VEHleCdn9) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79), [Pitros](https://open.spotify.com/artist/1qoyJsbPjo0dpWnfSlRGLv) | [Rockstar](https://open.spotify.com/album/0Nu3frQlJLyJDGMqatvJFB) | 2:31 |
 | 8 | [Falling Back](https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Falling Back](https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo) | 3:30 |
-| 9 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 |
+| 9 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [TEKO](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 |
 | 10 | [Still My Baby](https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Still My Baby](https://open.spotify.com/album/6EVF8CNSpbv235ZGEh2NRn) | 3:11 |
 | 11 | [Don't Call Me Baby](https://open.spotify.com/track/0Jo7bPJjOnoIH5FOmqRLej) | [Cyava](https://open.spotify.com/artist/1HSkcbItCZfU2oLTH5Ixm1) | [Don't Call Me Baby](https://open.spotify.com/album/34f2s17tkFRLWjNoztkvJl) | 3:00 |
 | 12 | [Dirty Talk](https://open.spotify.com/track/5hYU7XWx6OJKMkzfRKtPlY) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Dirty Talk](https://open.spotify.com/album/5PQ0tQhflAro5jURvITAMU) | 2:53 |

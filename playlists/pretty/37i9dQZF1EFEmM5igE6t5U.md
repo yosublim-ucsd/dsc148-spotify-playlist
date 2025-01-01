@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603 likes - 190 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 605 likes - 190 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 144 | [Stolen Moments \- Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY \- July 2005](https://open.spotify.com/track/78hbE62MIMLm5QTzkqTILh) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Unplugged](https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg) | 5:14 |
 | 145 | [Don't Look Down](https://open.spotify.com/track/1jRw75oOIHb37y1Fb6EUuW) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/73xzYfVVYvkwYrhb5iUvjH) | 3:23 |
 | 146 | [Saviour](https://open.spotify.com/track/5qM2mg8cJsUHLr7b1iyKH0) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 3:22 |
-| 147 | [Billions \(Originals\)](https://open.spotify.com/track/32Y1Y8TToghJsXjJEn4Toh) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:19 |
-| 148 | [Kaleidoscope \(From the New Broadway Musical “Hell’s Kitchen”\)](https://open.spotify.com/track/5uuB4cEEevgE1e9daOnaV8) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Maleah Joi Moon](https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM) | [Hell’s Kitchen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We) | 4:00 |
+| 147 | [Kaleidoscope \(From the New Broadway Musical “Hell’s Kitchen”\)](https://open.spotify.com/track/5uuB4cEEevgE1e9daOnaV8) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Maleah Joi Moon](https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM) | [Hell’s Kitchen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We) | 4:00 |
+| 148 | [Billions \(Originals\)](https://open.spotify.com/track/32Y1Y8TToghJsXjJEn4Toh) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:19 |
 | 149 | [Is It Insane \(Originals\)](https://open.spotify.com/track/7Mhy9CP8YGOJZ9vn6M2b6D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 6:21 |
 | 150 | [Paper Flowers \(Originals\) \(feat\. Brandi Carlile\)](https://open.spotify.com/track/6saHM8nij3vANjWtsQtw2Q) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:24 |
 | 151 | [Golden Child](https://open.spotify.com/track/6A3eVBVATl1ntRIKCkthKI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys 20](https://open.spotify.com/album/52pl5ANwTRORPcPj6vlzA8) | 4:03 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 189 | [I Got A Little Something \- Live In Seattle](https://open.spotify.com/track/79H23cYdXUmMj0Ceo2Hx8Y) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 1:42 |
 | 190 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `AbljvgAAAABSRwyS3ZNxOT8UAJKe+As9`
+Snapshot ID: `AblpVAAAAAA/okefzd0uKPEFgfgbyHs5`

@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 164575,
       "name": "HOW YOU FEEL?",
       "url": "https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o"
@@ -3707,24 +3707,6 @@
     },
     {
       "album": {
-        "name": "The Acoustic Forest",
-        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
-      },
-      "artists": [
-        {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
-        }
-      ],
-      "date_added": "2022-06-29",
-      "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
-      "duration_ms": 266999,
-      "name": "The Sound Of Rain - Acoustic",
-      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
-    },
-    {
-      "album": {
         "name": "Thinkin About You",
         "url": "https://open.spotify.com/album/58L2gm73knHBL66btgBKGC"
       },
@@ -4382,7 +4364,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 183746,
       "name": "\ubd88\uaf43, \ub180\uc774",
       "url": "https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4"
@@ -4418,10 +4400,28 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 216373,
       "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
       "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+    },
+    {
+      "album": {
+        "name": "\uc74c\uc545 \ucea0\ud551 \uac08\ub798?",
+        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266999,
+      "name": "\ube57\uc18c\ub9ac - Acoustic",
+      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
     },
     {
       "album": {

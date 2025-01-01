@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Light Flow",
+        "url": "https://open.spotify.com/album/6CIiQ9Ti0tI2yAgjGpJmdE"
+      },
+      "artists": [
+        {
+          "name": "Maira",
+          "url": "https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "Light Flow",
+      "url": "https://open.spotify.com/track/5CwM4QtEWH5qSqpWxor76d"
+    },
+    {
+      "album": {
         "name": "Golden Light",
         "url": "https://open.spotify.com/album/1q0IUbhxzScGGUO5iwC7mi"
       },
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-01",
       "duration_ms": 174545,
       "name": "Pompeiana Waters",
       "url": "https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx"

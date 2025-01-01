@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 77729,
+  "num_followers": 77753,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Pilgrimage",
-        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
-      },
-      "artists": [
-        {
-          "name": "Arush Mandal",
-          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Protection",
-      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Cloudy Texture",
         "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 189250,
       "name": "Placebo",
       "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Pilgrimage",
+        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
+      },
+      "artists": [
+        {
+          "name": "Arush Mandal",
+          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Mountain View",
-        "url": "https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw"
-      },
-      "artists": [
-        {
-          "name": "Bright Lens",
-          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
-        }
-      ],
-      "duration_ms": 152974,
-      "name": "Mountain View",
-      "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Aspect of Mind",
         "url": "https://open.spotify.com/album/2H1MlDVqpEgDhtIkDfkct0"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 177297,
       "name": "Aspect of Mind",
       "url": "https://open.spotify.com/track/6onduIvF4Ypci4LvhfHjBq"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Mountain View",
+        "url": "https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "duration_ms": 152974,
+      "name": "Mountain View",
+      "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
-      },
-      "artists": [
-        {
-          "name": "Lugar",
-          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Moonrise",
         "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 208515,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
+      },
+      "artists": [
+        {
+          "name": "Lugar",
+          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "No Distractions",
-        "url": "https://open.spotify.com/album/1avmZuCKtnldnf3n1TCUIA"
-      },
-      "artists": [
-        {
-          "name": "Airosa",
-          "url": "https://open.spotify.com/artist/4CByXjHMoW0Gq2Y2tenlxY"
-        }
-      ],
-      "duration_ms": 183227,
-      "name": "No Distractions",
-      "url": "https://open.spotify.com/track/6OsYfzBSlyV2c0ZYcbhldr"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Seneca Rise",
         "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
       },
@@ -1095,22 +1079,6 @@
       "duration_ms": 157800,
       "name": "Seneca Rise",
       "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
-        "name": "Sea Of Colors",
-        "url": "https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI"
-      },
-      "artists": [
-        {
-          "name": "Airship Express",
-          "url": "https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Sea Of Colors",
-      "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1131,18 +1099,34 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Bortgjemt",
-        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
+        "name": "No Distractions",
+        "url": "https://open.spotify.com/album/1avmZuCKtnldnf3n1TCUIA"
       },
       "artists": [
         {
-          "name": "Gjenklang",
-          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+          "name": "Airosa",
+          "url": "https://open.spotify.com/artist/4CByXjHMoW0Gq2Y2tenlxY"
         }
       ],
-      "duration_ms": 147750,
-      "name": "Bortgjemt",
-      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
+      "duration_ms": 183227,
+      "name": "No Distractions",
+      "url": "https://open.spotify.com/track/6OsYfzBSlyV2c0ZYcbhldr"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Sea Of Colors",
+        "url": "https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI"
+      },
+      "artists": [
+        {
+          "name": "Airship Express",
+          "url": "https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Sea Of Colors",
+      "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1159,6 +1143,22 @@
       "duration_ms": 148235,
       "name": "Sandman's Lullaby",
       "url": "https://open.spotify.com/track/5Fsbc5Kpa2rk3nWlVFh4JG"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Bortgjemt",
+        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "duration_ms": 147750,
+      "name": "Bortgjemt",
+      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
-      },
-      "artists": [
-        {
-          "name": "Silent Movement",
-          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Paracosm",
-      "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Tensions",
         "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 156428,
       "name": "Tensions",
       "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
+      },
+      "artists": [
+        {
+          "name": "Silent Movement",
+          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Paracosm",
+      "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Sphere",
-        "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
+        "name": "Continuazione",
+        "url": "https://open.spotify.com/album/7Bzf2u6ikGeomuxaomzInT"
       },
       "artists": [
         {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+          "name": "Aamina Russo",
+          "url": "https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO"
         }
       ],
-      "duration_ms": 179104,
-      "name": "Sphere",
-      "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
+      "duration_ms": 136034,
+      "name": "Continuazione",
+      "url": "https://open.spotify.com/track/6U54VI00e276ucjOZTnfSU"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Continuazione",
-        "url": "https://open.spotify.com/album/7Bzf2u6ikGeomuxaomzInT"
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
       },
       "artists": [
         {
-          "name": "Aamina Russo",
-          "url": "https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO"
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
         }
       ],
-      "duration_ms": 136034,
-      "name": "Continuazione",
-      "url": "https://open.spotify.com/track/6U54VI00e276ucjOZTnfSU"
+      "duration_ms": 179104,
+      "name": "Sphere",
+      "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1815,22 +1815,6 @@
       "duration_ms": 149250,
       "name": "Mystic Reverberations",
       "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 181985,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1899,18 +1883,18 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Psybient (Psychedelic Ambient Music)",
-        "url": "https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM"
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
       },
       "artists": [
         {
-          "name": "Heaven on Earth Instrumental Universe",
-          "url": "https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt"
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
         }
       ],
-      "duration_ms": 196777,
-      "name": "Vivid Imagination",
-      "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"
+      "duration_ms": 181985,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1927,6 +1911,22 @@
       "duration_ms": 200000,
       "name": "Sweet Slumber",
       "url": "https://open.spotify.com/track/2lDzCZM7VDRjzfpvkXXtow"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Structure",
+        "url": "https://open.spotify.com/album/396r7PoiVVsRKXg8jlD3GX"
+      },
+      "artists": [
+        {
+          "name": "Matter and Energy",
+          "url": "https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "Structure",
+      "url": "https://open.spotify.com/track/4mxKceI65QluBw8XSJpXiN"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

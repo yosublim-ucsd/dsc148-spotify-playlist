@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 346342,
+  "num_followers": 346437,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 184761,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Ahwak (Deeper Remix)",
-        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 300582,
-      "name": "Ahwak (Deeper Remix)",
-      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Anlar",
         "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 212615,
       "name": "Askim",
       "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Ahwak (Deeper Remix)",
+        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 300582,
+      "name": "Ahwak (Deeper Remix)",
+      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 410526,
+      "name": "Euphrates",
+      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Lamouni",
         "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 217647,
       "name": "Lamouni",
       "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 410526,
-      "name": "Euphrates",
-      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1471,6 +1471,30 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+        }
+      ],
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
       },
@@ -1519,30 +1543,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
-      },
-      "artists": [
-        {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
-        }
-      ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Eternal Roots",
         "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 305005,
       "name": "Eternal Roots",
       "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Jawi",
-        "url": "https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw"
-      },
-      "artists": [
-        {
-          "name": "HbbZ",
-          "url": "https://open.spotify.com/artist/2nfiyna13PWJGEEQ806fmu"
-        }
-      ],
-      "duration_ms": 245161,
-      "name": "Jawi",
-      "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1591,6 +1575,22 @@
       "duration_ms": 332000,
       "name": "La Blanche",
       "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Jawi",
+        "url": "https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw"
+      },
+      "artists": [
+        {
+          "name": "HbbZ",
+          "url": "https://open.spotify.com/artist/2nfiyna13PWJGEEQ806fmu"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Jawi",
+      "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Mazrub",
         "url": "https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi"
       },
@@ -1867,26 +1887,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "The Universe of Buddha Bar",
-        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
-      },
-      "artists": [
-        {
-          "name": "OSENS",
-          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
-        },
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 291576,
-      "name": "ZMAN",
-      "url": "https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Arabian Soul",
         "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
       },
@@ -1903,22 +1903,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+        "name": "The Universe of Buddha Bar",
+        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
       "artists": [
         {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+          "name": "OSENS",
+          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
         },
         {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
         }
       ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+      "duration_ms": 291576,
+      "name": "ZMAN",
+      "url": "https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz"
     }
   ],
   "unique_name": "mosaic",

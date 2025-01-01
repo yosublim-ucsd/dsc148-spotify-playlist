@@ -4,10 +4,11 @@
 
 > I brani italiani che abbiamo on repeat! 🔁 Pinguini Tattici Nucleari in cover
 
-149 songs - 7 hr 41 min
+150 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['A 'MBASCIATA](https://open.spotify.com/track/0EpP4OASPWKz4dVhg69LQe) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO III](https://open.spotify.com/album/3ULYRmnGV3zXbRQkCuFbBS) | 2:58 | 2024-12-31 |  |
 | [100 anni \(piangi\) \(feat\. gIANMARIA & Mostro\)](https://open.spotify.com/track/4HCC59hmk0rQIyz7t1O0nz) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN), [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 3:54 | 2024-07-11 | 2024-07-27 |
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-07-01 | 2024-08-20 |
 | [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-07-01 | 2024-11-15 |
@@ -45,7 +46,7 @@
 | [FEMME FATALE](https://open.spotify.com/track/4KJ9cKD3LBxnI9crOcXOPV) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [FEMME FATALE](https://open.spotify.com/album/69KvmI1ECKpjhjhZkI19Uo) | 3:10 | 2024-07-01 | 2024-09-20 |
 | [Festa](https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Festa](https://open.spotify.com/album/2fuci5VXQkIHoxwDe8R1aI) | 3:09 | 2024-09-19 | 2024-10-18 |
 | [Festa Totale](https://open.spotify.com/track/4iNEQbRbTupwcg6rq7GuuU) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Festa Totale](https://open.spotify.com/album/1pFeLYpEpwFbseYoQwA7QT) | 2:31 | 2024-07-01 | 2024-09-13 |
-| [figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 | 2024-12-05 |  |
+| [figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 | 2024-12-05 | 2025-01-01 |
 | [Fino al Blackout](https://open.spotify.com/track/3wcwQwRNqdSmQwmgXYFFQb) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Fino al Blackout](https://open.spotify.com/album/07IMbmQoLqaTH4zgLi4Fof) | 2:40 | 2024-07-01 | 2024-07-05 |
 | [FUOCO DI PAGLIA ঌ \(con Marco Mengoni, Frah Quintale, Gemitaiz\)](https://open.spotify.com/track/3ybXr8SkOEVUhtKFb8lYwe) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:24 | 2024-07-01 | 2024-09-03 |
 | [Galassie](https://open.spotify.com/track/2RVy5hchm7GxsGzXO6haOv) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Galassie](https://open.spotify.com/album/0ZRjzNH0qbMEC5KHCODt27) | 3:39 | 2024-07-01 | 2024-10-04 |

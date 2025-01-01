@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 287601,
+  "num_followers": 287654,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 235152,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/0YK6koGYXva8aceQpman6H"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 141199,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 235152,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
+        "name": "RLUX",
+        "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "RLUX",
+      "url": "https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
         "name": "The Green Trip",
         "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 265561,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
-        "name": "RLUX",
-        "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "RLUX",
-      "url": "https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -2143,26 +2143,6 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
-        "name": "La Bella",
-        "url": "https://open.spotify.com/album/3c0g0DKhx1pRmJ1QyBkA0D"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Manzo",
-          "url": "https://open.spotify.com/artist/2bLVfd7SyWSloS4isXMazU"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 238471,
-      "name": "La Bella",
-      "url": "https://open.spotify.com/track/2W4Of9hqvi84AoQPJBkSce"
-    },
-    {
-      "added_at": "2024-11-08 23:11:30",
-      "album": {
         "name": "C\u00e1psulas",
         "url": "https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg"
       },
@@ -2179,6 +2159,26 @@
       "duration_ms": 190466,
       "name": "T\u00fa Te Mereces",
       "url": "https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0"
+    },
+    {
+      "added_at": "2024-11-08 23:11:30",
+      "album": {
+        "name": "La Bella",
+        "url": "https://open.spotify.com/album/3c0g0DKhx1pRmJ1QyBkA0D"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Manzo",
+          "url": "https://open.spotify.com/artist/2bLVfd7SyWSloS4isXMazU"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 238471,
+      "name": "La Bella",
+      "url": "https://open.spotify.com/track/2W4Of9hqvi84AoQPJBkSce"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -2303,22 +2303,18 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V"
+        "name": "Vete A La :)",
+        "url": "https://open.spotify.com/album/6UOkpv7AhnnmOfK2fRhi1E"
       },
       "artists": [
         {
           "name": "Plan de Escape",
           "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        },
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 175588,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
+      "duration_ms": 198206,
+      "name": "Vete A La :)",
+      "url": "https://open.spotify.com/track/5aJUIm3JeJ7BnRlAkOiY2V"
     },
     {
       "added_at": "2024-11-08 23:11:30",
@@ -2407,18 +2403,22 @@
     {
       "added_at": "2024-11-08 23:11:30",
       "album": {
-        "name": "Vete A La :)",
-        "url": "https://open.spotify.com/album/6UOkpv7AhnnmOfK2fRhi1E"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V"
       },
       "artists": [
         {
           "name": "Plan de Escape",
           "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 198206,
-      "name": "Vete A La :)",
-      "url": "https://open.spotify.com/track/5aJUIm3JeJ7BnRlAkOiY2V"
+      "duration_ms": 175588,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
     },
     {
       "added_at": "2024-11-08 23:11:30",

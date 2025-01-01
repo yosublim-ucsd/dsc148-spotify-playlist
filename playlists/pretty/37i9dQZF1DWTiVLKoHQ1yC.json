@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 227332,
+  "num_followers": 227432,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -643,30 +643,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Resonate (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 241846,
-      "name": "Resonate (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 227117,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Resonate (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 241846,
+      "name": "Resonate (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
     },
     {
       "added_at": "2024-11-22 00:00:00",

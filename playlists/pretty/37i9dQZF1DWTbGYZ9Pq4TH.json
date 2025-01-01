@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 179333,
+  "num_followers": 179345,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
+        "name": "Perdere l'amore",
+        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
+      },
+      "artists": [
+        {
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Perdere l'amore",
+      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
         "name": "Stanza Singola",
         "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 196615,
       "name": "Stanza Singola (feat. Tommaso Paradiso)",
       "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
-        "name": "Perdere l'amore",
-        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
-      },
-      "artists": [
-        {
-          "name": "Massimo Ranieri",
-          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Perdere l'amore",
-      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
     },
     {
       "added_at": "2024-06-25 13:56:23",

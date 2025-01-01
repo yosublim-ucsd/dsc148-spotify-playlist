@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 30 Dec 09:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 31 Dec 14:02 UTC.
 
-3,867 songs - 8 day 22 hr 44 min
+3,869 songs - 8 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1941,7 +1941,7 @@
 | [Lil Mega Minion](https://open.spotify.com/track/4iTY4faTQSkScwbk2F1FUs) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Mega Minion](https://open.spotify.com/album/3EwNJwsIUmfOG7oZhcWVcY) | 1:51 | 2024-06-24 | 2024-06-26 |
 | [Lilith](https://open.spotify.com/track/1tmVvd2kiouSHXfumPbZcC) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Lilith](https://open.spotify.com/album/2VAwulgGcDzXbUK1H6Dd1l) | 2:25 | 2024-05-24 | 2024-05-28 |
 | [LIMERENCE](https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [LIMERENCE](https://open.spotify.com/album/2dmZ1mL7C0ykfvY14Lpsd2) | 2:26 | 2024-09-20 | 2024-09-24 |
-| [Limit](https://open.spotify.com/track/41WIvRcs1zDN8tPhwFqCSb) | [Miszel](https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4), [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY), [Premixm](https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI) | [Limit](https://open.spotify.com/album/6qmwWcEkA5ezJncyjfZcqs) | 3:30 | 2024-12-21 |  |
+| [Limit](https://open.spotify.com/track/41WIvRcs1zDN8tPhwFqCSb) | [Miszel](https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4), [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY), [Premixm](https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI) | [Limit](https://open.spotify.com/album/6qmwWcEkA5ezJncyjfZcqs) | 3:30 | 2024-12-21 | 2025-01-01 |
 | [Linger in the Rain](https://open.spotify.com/track/2ZdLhmKydlxXLXL1Hlo4Ex) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Linger in the Rain](https://open.spotify.com/album/3whFAKu7WRtkGPRSoCRrva) | 5:00 | 2024-12-07 | 2024-12-13 |
 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 | 2024-10-31 | 2024-11-02 |
 | [Linoleum](https://open.spotify.com/track/2BicHItEEEhdtnJHzwVq6e) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Linoleum](https://open.spotify.com/album/2V4dXe8Mp3nVRgj34nWEmH) | 3:21 | 2024-06-05 | 2024-06-07 |
@@ -2994,7 +2994,7 @@
 | [Somebody's Daughter](https://open.spotify.com/track/2D8EYgWWkZNjhIcLzcWDF3) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Somebody's Daughter](https://open.spotify.com/album/1pR0kM5b34HFATxt6gahs4) | 3:11 | 2024-06-20 | 2024-06-22 |
 | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3) | 2:57 | 2024-09-20 | 2024-09-26 |
 | [Someone's Daughter](https://open.spotify.com/track/2ZGrOclH0r6CFvlVGNVUlO) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Someone's Daughter](https://open.spotify.com/album/43QTCpdlaIKgAVnCmaA0hh) | 4:17 | 2024-08-01 | 2024-08-03 |
-| [Something](https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Something](https://open.spotify.com/album/04zTk2sCLc9oFdZCrz1rWl) | 3:06 | 2024-12-20 |  |
+| [Something](https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Something](https://open.spotify.com/album/04zTk2sCLc9oFdZCrz1rWl) | 3:06 | 2024-12-20 | 2025-01-01 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-26 | 2024-08-01 |
 | [Something I Know](https://open.spotify.com/track/5HxJ99dWKZdmhgedjBZA5v) | [Silverbacks](https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4) | [Something I Know](https://open.spotify.com/album/1aPZPQBy3qvYT1EqgEjvEf) | 4:19 | 2024-08-06 | 2024-08-08 |
 | [Something I'm Not](https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Something I'm Not](https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB) | 3:25 | 2024-05-25 | 2024-05-29 |
@@ -3649,6 +3649,7 @@
 | [What to raise \- Shin Kawasaki \(Temporary\)](https://open.spotify.com/track/4jgxQqykuLScJAmqUvpfaZ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [What to raise \[Shin Kawasaki \(Temporary\)\]](https://open.spotify.com/album/1JQmy3IFC5OWpYdoz2Ncuy) | 3:08 | 2024-05-04 | 2024-05-08 |
 | [What's Left Of Me](https://open.spotify.com/track/2KCHayVgv4Svp1ETPNsk7l) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [What's Left Of Me](https://open.spotify.com/album/58uReIHwOj5YOPkDjAEGPG) | 3:15 | 2024-09-18 | 2024-09-21 |
 | [What's Wrong?](https://open.spotify.com/track/5lq4X3bgERmY1ata9H3h9Y) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [What's Wrong?](https://open.spotify.com/album/6swybrrhYJrQHXKX726Vw2) | 3:21 | 2024-12-12 | 2024-12-17 |
+| [what3ver](https://open.spotify.com/track/0Hp2r3xb1Th9ZEeuQGOGiS) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [what3ver](https://open.spotify.com/album/5hEcSnIt8esLenvAP1f2qv) | 2:55 | 2024-12-31 |  |
 | [WHATCHU ON](https://open.spotify.com/track/6uEvvZiRUgRNCwwNGkTGYJ) | [RXLVND](https://open.spotify.com/artist/3OPFLn1ipyM9Z5WewYy5zS), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [WHATCHU ON](https://open.spotify.com/album/06HJBlA1IyrIo78HSARXlv) | 1:25 | 2024-08-08 | 2024-08-10 |
 | [Whatever Reason](https://open.spotify.com/track/3Nc74Ms52cDi76pkiQUGZ5) | [Eterna](https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP) | [Whatever Reason](https://open.spotify.com/album/1QMufWnFeFX4cdygWtXPxJ) | 4:33 | 2024-09-17 | 2024-09-19 |
 | [Whatsapp \(Wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Whatsapp \(Wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 | 2024-05-03 | 2024-05-07 |
@@ -3716,6 +3717,7 @@
 | [with∅](https://open.spotify.com/track/7CElEfgE2QKVCzgZHR59CA) | [ロボ子さん](https://open.spotify.com/artist/1JSf6ODLyqPpYQAHN7S1Th) | [with∅](https://open.spotify.com/album/5AYQETXcbpP9fi1IB62cTD) | 3:23 | 2024-10-20 | 2024-10-24 |
 | [Witness](https://open.spotify.com/track/2t8LUgoLO3hzSwTq2A5g38) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13) | [Witness](https://open.spotify.com/album/7hJLXXBkY9t1r18e3UFzPP) | 2:22 | 2024-12-11 | 2024-12-14 |
 | [Wo\-Chien](https://open.spotify.com/track/6mgs7jkrebwn246OomeDoq) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV) | [Wo\-Chien](https://open.spotify.com/album/2EnPILwaqvUvPYNn0SXCtE) | 2:13 | 2024-12-19 | 2024-12-21 |
+| [Woah](https://open.spotify.com/track/37rxbUlFTtQMX2JxirVGi1) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Reverse Pathogen](https://open.spotify.com/artist/6IAD8C2NCYddGZjBapx9AR) | [Woah](https://open.spotify.com/album/0A2qUNpVdzIc6MckvYwY5W) | 3:28 | 2024-12-31 |  |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-21 | 2024-05-23 |
 | [Wolf In Sheep's Clothing \[REBORN\]](https://open.spotify.com/track/1tpidJ4FBn9TwshePh1bc3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Wolf In Sheep's Clothing \[REBORN\]](https://open.spotify.com/album/3EAQjK9KBprKYBerEPGxwS) | 3:21 | 2024-11-01 | 2024-11-08 |
 | [won't cry](https://open.spotify.com/track/73wMV0p5r0yaPJvBOoTmHH) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [won't cry](https://open.spotify.com/album/65uJLSRQEKhV8SoVovQtdr) | 3:40 | 2024-09-27 | 2024-10-01 |

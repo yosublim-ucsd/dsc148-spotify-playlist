@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 47514,
+  "num_followers": 47529,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3CRAAAAAAAcrtE9HeVdcN3IOdH/pMpA",
+  "snapshot_id": "Z3HigAAAAAB5BUEKLE+10Lk/3ldKiLNX",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 255693,
       "name": "I Love You, I Hate You",
       "url": "https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello, Hi",
+        "url": "https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 135996,
+      "name": "Hello, Hi",
+      "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
     },
     {
       "added_at": null,
@@ -527,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back to My Love",
-        "url": "https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk"
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
       },
       "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 235294,
-      "name": "Back to My Love",
-      "url": "https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm"
+      "duration_ms": 135322,
+      "name": "you should call mum",
+      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
     },
     {
       "added_at": null,
@@ -563,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+        "name": "Back to My Love",
+        "url": "https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk"
       },
       "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 135322,
-      "name": "you should call mum",
-      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
+      "duration_ms": 235294,
+      "name": "Back to My Love",
+      "url": "https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm"
     },
     {
       "added_at": null,

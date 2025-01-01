@@ -1,6 +1,6 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 94974,
+  "num_followers": 95088,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
@@ -995,38 +995,6 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "The Essential Blue Archive: Take a Swing with Me",
-        "url": "https://open.spotify.com/album/7tsw1IjRv2bjN1qam1ojwu"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 180333,
-      "name": "Three O'Clock Blues",
-      "url": "https://open.spotify.com/track/4GnCQfhL41HMe2pgx4bK9T"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
-        "name": "The Biggest Thing Since Colossus",
-        "url": "https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "I Need Some Air",
-      "url": "https://open.spotify.com/track/4VJ7hK0xONIrpCk5m3Vm4a"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
         "name": "Best of Me",
         "url": "https://open.spotify.com/album/1HJx1bLXzu4CetOBwRTBGl"
       },
@@ -1055,6 +1023,38 @@
       "duration_ms": 234939,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/1a2A3twwnD5uRMNZj7OBAh"
+    },
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
+        "name": "The Biggest Thing Since Colossus",
+        "url": "https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "I Need Some Air",
+      "url": "https://open.spotify.com/track/4VJ7hK0xONIrpCk5m3Vm4a"
+    },
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
+        "name": "The Essential Blue Archive: Take a Swing with Me",
+        "url": "https://open.spotify.com/album/7tsw1IjRv2bjN1qam1ojwu"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "Three O'Clock Blues",
+      "url": "https://open.spotify.com/track/4GnCQfhL41HMe2pgx4bK9T"
     },
     {
       "added_at": "2024-05-28 18:44:23",

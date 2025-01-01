@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Abby Powledge",
-  "num_followers": 81463,
+  "num_followers": 81474,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 194277,
-      "name": "Magical",
-      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+      "duration_ms": 260509,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 260509,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+      "duration_ms": 194277,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Heart of Gold",
-        "url": "https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/4RifFSu9IowuLVQMC501af"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Seed of a Seed",
         "url": "https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Peace of Mind (Morning)",
-        "url": "https://open.spotify.com/album/4yhi2Ygz3x0Rv67xTTnMhq"
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 212586,
-      "name": "Peace of Mind (Morning)",
-      "url": "https://open.spotify.com/track/304kMmkKEVUVQOcT2WNhaq"
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/4RifFSu9IowuLVQMC501af"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1023,8 +1007,8 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Once A Bunch",
-        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
       "artists": [
         {
@@ -1032,9 +1016,41 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 299354,
-      "name": "Once A Bunch",
-      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Peace of Mind (Morning)",
+        "url": "https://open.spotify.com/album/4yhi2Ygz3x0Rv67xTTnMhq"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Peace of Mind (Morning)",
+      "url": "https://open.spotify.com/track/304kMmkKEVUVQOcT2WNhaq"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Fighting For",
+        "url": "https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 285791,
+      "name": "I Figured We'd Go Dancin'",
+      "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Fighting For",
-        "url": "https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 285791,
-      "name": "I Figured We'd Go Dancin'",
-      "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "How About a Drink?",
         "url": "https://open.spotify.com/album/1w3LJk9aI0OaDqEXtbkexz"
       },
@@ -1119,38 +1119,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+        "name": "Once A Bunch",
+        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 178823,
-      "name": "I Came Here to Leave You",
-      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Little Blue (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 265306,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+      "duration_ms": 299354,
+      "name": "Once A Bunch",
+      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1175,54 +1155,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305306,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Free Treasure",
-        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Fighting For (Hailey Whitters Version)",
         "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
       },
@@ -1243,6 +1175,58 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Little Blue (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 265306,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "I Came Here to Leave You",
+      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Water's Here In You",
         "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 151573,
       "name": "Birdseye",
       "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

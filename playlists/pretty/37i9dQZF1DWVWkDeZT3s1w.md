@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,452 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,489 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 39 | [Parlante](https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Valles T](https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt), [Raymond Daniel](https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB) | [Parlante](https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3) | 4:21 |
 | 40 | [La teoría de la evolución](https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [La teoría de la evolución](https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy) | 2:53 |
 | 41 | [Origen](https://open.spotify.com/track/293p8igLtACWCeDhXohcnC) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Origen](https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO) | 5:47 |
-| 42 | [LA VIDA ES TAN DURA](https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [LA VIDA ES TAN DURA](https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP) | 2:40 |
-| 43 | [Callejones](https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [Callejones](https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2) | 3:12 |
+| 42 | [Callejones](https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [Callejones](https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2) | 3:12 |
+| 43 | [LA VIDA ES TAN DURA](https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [LA VIDA ES TAN DURA](https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP) | 2:40 |
 | 44 | [So Sad](https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [So Sad](https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe) | 3:37 |
 | 45 | [Espacio](https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [Espacio](https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs) | 4:35 |
 | 46 | [Intraterreno](https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Intraterreno](https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5) | 3:54 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 91 | [Luciérnagas](https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Luciérnagas](https://open.spotify.com/album/0PhgzFFEXpSfDC0tmoESVf) | 4:16 |
 | 92 | [Prometo](https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 3:03 |
 | 93 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 |
-| 94 | [A Dónde se Fue la Conciencia](https://open.spotify.com/track/4A6PTcjJV25kngEkLFPVDp) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:36 |
+| 94 | [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 |
 | 95 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 96 | [Legendarios](https://open.spotify.com/track/5flzNTZypqHAQtcMn1ARBl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/0zz6EViiEPDUKt6IZRUDCc) | 2:44 |
 | 97 | [Mi Propio Cielo](https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna / Miradas](https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa) | 4:44 |

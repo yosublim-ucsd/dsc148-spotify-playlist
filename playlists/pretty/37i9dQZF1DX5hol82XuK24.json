@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 451144,
+  "num_followers": 451136,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Eye On The Bat",
         "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 144404,
       "name": "My Evil",
       "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Wife Once",
-        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
+        "name": "Dancing with Ghosts",
+        "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
       },
       "artists": [
         {
-          "name": "Memory of Speke",
-          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 225036,
-      "name": "Wife Once",
-      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
+      "duration_ms": 299400,
+      "name": "Dancing with Ghosts",
+      "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Dancing with Ghosts",
-        "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
+        "name": "Wife Once",
+        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
       },
       "artists": [
         {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Memory of Speke",
+          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
         }
       ],
-      "duration_ms": 299400,
-      "name": "Dancing with Ghosts",
-      "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
+      "duration_ms": 225036,
+      "name": "Wife Once",
+      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "You are the Problem Here",
-        "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "You are the Problem Here",
-      "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Covered In Hether",
         "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 191860,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "You are the Problem Here",
+        "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "You are the Problem Here",
+      "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "The Rocky Road to Dublin (Edit)",
-        "url": "https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 246125,
-      "name": "The Rocky Road to Dublin - Edit",
-      "url": "https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Walking in a Vacuum",
         "url": "https://open.spotify.com/album/0dk5cpVMJuD0yhK2OQon93"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 267301,
       "name": "Walking in a Vacuum",
       "url": "https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "The Rocky Road to Dublin (Edit)",
+        "url": "https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 246125,
+      "name": "The Rocky Road to Dublin - Edit",
+      "url": "https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Brkn",
         "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 179805,
       "name": "Brkn",
       "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "through the telescope",
-        "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
+        "name": "So Medieval",
+        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
       },
       "artists": [
         {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
         }
       ],
-      "duration_ms": 205400,
-      "name": "pile of bones",
-      "url": "https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e"
+      "duration_ms": 200281,
+      "name": "Darp 2 / Exorcism",
+      "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Religion for One",
-        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
+        "name": "through the telescope",
+        "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
       },
       "artists": [
         {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
         }
       ],
-      "duration_ms": 199727,
-      "name": "Religion for One",
-      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
+      "duration_ms": 205400,
+      "name": "pile of bones",
+      "url": "https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e"
     }
   ],
   "unique_name": "Spooky",

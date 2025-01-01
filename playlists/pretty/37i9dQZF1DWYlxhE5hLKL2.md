@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 
 > Digging old Japanese records and flipping them into something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,824 likes - 67 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,838 likes - 67 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 | 59 | [TARINAI \- 待つわRemix](https://open.spotify.com/track/0T3qUbgN47oCFUNyKKyiba) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [GOOD NIGHT TOKYO](https://open.spotify.com/album/52qTClUlgtM5OBMYnGPqxy) | 3:35 |
 | 60 | [A Sea of Love](https://open.spotify.com/track/0TqFyF9iKOaoZw9GvQISDI) | [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Jupiter](https://open.spotify.com/album/6XrO3ShznK5QXR6gzDHpy6) | 2:49 |
 | 61 | [Valve](https://open.spotify.com/track/3EQxtiR2Dc2lCN7eEY6ZCW) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Valve / Valve \(Revisited\)](https://open.spotify.com/album/2uMuTzWgDW1sdOs29usuUi) | 3:23 |
-| 62 | [RYDEEN](https://open.spotify.com/track/0RAXoT7hwOoqAXI95ryxT5) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:26 |
+| 62 | [RYDEEN](https://open.spotify.com/track/0RAXoT7hwOoqAXI95ryxT5) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:26 |
 | 63 | [Sailing by Night](https://open.spotify.com/track/0tdfn1TNa1dm9TuBk8PjIo) | [Department Of Eagles](https://open.spotify.com/artist/0d2BmAcZ7p8vrtBPY48WMW) | [The Cold Nose](https://open.spotify.com/album/6Mdlj2C8YahbrF8KqHTM8d) | 4:35 |
 | 64 | [ジーンズぶるうす\(東映映画「明日なき無頼派」より\)](https://open.spotify.com/track/0Ut4IGtpVw66DH6LCEPVtK) | [Meiko Kaji](https://open.spotify.com/artist/6kZSbbtADxJ8FaAcggEhnf) | [女をやめたい そして…](https://open.spotify.com/album/149JP1As7uJbRLLiDcFazM) | 3:33 |
 | 65 | [Bloody Samurai](https://open.spotify.com/track/7HeJp8jWGkEoPbs9ncxtsN) | [Thea Van Seijen](https://open.spotify.com/artist/48ZI8lhMUQFmOMsegaT1x9), [Black Knights](https://open.spotify.com/artist/0AF5FJR5VgrhPw6qcLkEBA), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [Dexter Wiggles](https://open.spotify.com/artist/0e2dqBGhzJNJQeAjBeZEJp) | [Afro Samurai: Resurrection](https://open.spotify.com/album/3K9Ib7WakmEew0WrgO6EHc) | 3:34 |
