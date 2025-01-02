@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "J'tavais dis",
+        "url": "https://open.spotify.com/album/4ELf00wIGNNYFT08AhUS6y"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112615,
+      "name": "J'tavais dis",
+      "url": "https://open.spotify.com/track/5Cn8WdSHzl0ieLsbeXdwge"
+    },
+    {
+      "album": {
         "name": "Jamais",
         "url": "https://open.spotify.com/album/2fOTv4GLRJeNNAC0jW7PUm"
       },
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 164234,
       "name": "KONGOLESE SOUS BBL",
       "url": "https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF"

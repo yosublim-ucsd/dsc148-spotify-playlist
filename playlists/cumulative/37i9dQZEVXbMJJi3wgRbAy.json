@@ -4170,7 +4170,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 150000,
       "name": "Cosa Linda",
       "url": "https://open.spotify.com/track/5eqZZLLZ4CkuUznPCOimsi"
@@ -9202,7 +9202,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
@@ -15443,7 +15443,7 @@
         },
         {
           "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "url": "https://open.spotify.com/artist/3uLPhd9X8kY1JU13bPRG9W"
         }
       ],
       "date_added": "2023-12-22",
@@ -19230,7 +19230,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
@@ -19410,6 +19410,28 @@
       "duration_ms": 186000,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+    },
+    {
+      "album": {
+        "name": "Verano Maldito",
+        "url": "https://open.spotify.com/album/0w9SKb6r44a7GUT98MINwo"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Tussiwarriors",
+          "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146504,
+      "name": "Verano Maldito",
+      "url": "https://open.spotify.com/track/0xvXkJobjgjyjDCp7PksqK"
     },
     {
       "album": {

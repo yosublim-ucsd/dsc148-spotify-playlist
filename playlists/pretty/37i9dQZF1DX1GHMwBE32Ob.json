@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Pheelz",
-  "num_followers": 77179,
+  "num_followers": 77321,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-12-16 09:20:22",
       "album": {
-        "name": "Abanikanda",
-        "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Abanikanda",
-      "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
-    },
-    {
-      "added_at": "2024-12-16 09:20:22",
-      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
+    },
+    {
+      "added_at": "2024-12-16 09:20:22",
+      "album": {
+        "name": "Abanikanda",
+        "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Abanikanda",
+      "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
     },
     {
       "added_at": "2024-12-16 09:20:22",

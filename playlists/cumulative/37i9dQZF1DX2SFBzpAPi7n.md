@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUAMEL\(루아멜\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Lee Seung Yoon\(이승윤\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-830 songs - 2 day 2 hr 23 min
+833 songs - 2 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Embrace](https://open.spotify.com/track/1aYbbNLHNm6DZqlB7bFM4O) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Promise](https://open.spotify.com/album/7e6PkMzboUpQPcnDiDQMOk) | 3:43 | 2023-02-04 | 2023-02-25 |
 | [embraces 23 \(a shitty love song\)](https://open.spotify.com/track/4TZ3i7Ygmz1CwMpRX7FP0s) | [Asian Boys, Crying](https://open.spotify.com/artist/7v4aEnk9ERqYtpyGWsq28R) | [embraces 23 \(a shitty love song\)](https://open.spotify.com/album/3yX7O3n5VurkIJfTlJ5paf) | 4:30 | 2022-07-08 | 2022-07-22 |
 | [Empty](https://open.spotify.com/track/7s8nB4MpDIzwOdQZCOnDid) | [Simple Pages](https://open.spotify.com/artist/6XrO8Asxs9JhvyqGevLbFe) | [Empty](https://open.spotify.com/album/3fASRh16bMr1G12LqAGC3F) | 3:48 | 2022-07-04 | 2022-07-09 |
+| [Empty Space Above](https://open.spotify.com/track/5eek1iO2hgsffOssvVtICp) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Empty Space Above](https://open.spotify.com/album/5hCKuPY5AWeMaIlTTTHpwa) | 2:34 | 2025-01-02 |  |
 | [End of Spring](https://open.spotify.com/track/6iYlLt7gqJh8g8MDZR0Vmz) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:29 | 2022-04-12 | 2022-07-14 |
 | [Ending \(Prod\. LAZY\)](https://open.spotify.com/track/5fGGdRkZSosJZSLXL0Mppd) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Ending](https://open.spotify.com/album/0PZ63QeOhEi3NUk6rNoglc) | 3:13 | 2024-06-13 | 2024-06-20 |
 | [Ending Fairy](https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/2LOL3OgncHJQCLYubXQrAB) | 3:19 | 2023-07-31 | 2023-09-20 |
@@ -220,7 +221,7 @@
 | [first flight \(feat\. GARTENG\)](https://open.spotify.com/track/3gCP1AG9SDjFgcnmKOK4Cj) | [A ro](https://open.spotify.com/artist/3EnmdxPuVgad4oxe2RTiOq), [GARTENG](https://open.spotify.com/artist/7LjPkPjxQH5o4h2QLp11wZ) | [first flight](https://open.spotify.com/album/1V6KyBbnQbrJsgMTyYHVcz) | 4:26 | 2024-11-06 | 2024-11-13 |
 | [Flame](https://open.spotify.com/track/1Qg4qHeb1DK1FdwjxgbGt6) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ) | [Military Prosecutor Doberman, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ruhTOVA7QJSkaNuLC4Xp2) | 3:22 | 2022-05-24 | 2022-05-30 |
 | [Flare](https://open.spotify.com/track/5qvCcpVLeYGwJSIP2aU5uP) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [PANORAMA](https://open.spotify.com/album/5KCwE9Ev3dhkvQOzPCR6Yx) | 6:03 | 2022-04-22 | 2022-07-27 |
-| [Flash](https://open.spotify.com/track/20jlpOzNCCZzqkeVAQm8rV) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Cape](https://open.spotify.com/album/626dbHFyezrT6lBxvjN6iq) | 4:57 | 2024-11-29 |  |
+| [Flash](https://open.spotify.com/track/20jlpOzNCCZzqkeVAQm8rV) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Cape](https://open.spotify.com/album/626dbHFyezrT6lBxvjN6iq) | 4:57 | 2024-11-29 | 2025-01-02 |
 | [Flower Tail](https://open.spotify.com/track/7xEGoHycWoyimqDSOwJ5Hv) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Flower Tail](https://open.spotify.com/album/2HOtDyfnNtr07GNcoeVtBp) | 5:21 | 2023-07-28 | 2023-08-18 |
 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 | 2024-06-05 | 2024-11-07 |
 | [Fly!](https://open.spotify.com/track/2q4Y6cC3bv8UoXjVZEArgo) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Fly!](https://open.spotify.com/album/6H7O2x05Dg5toCVrSBJST4) | 2:58 | 2022-08-01 | 2022-08-13 |
@@ -258,6 +259,7 @@
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-06-05 | 2024-06-09 |
 | [Goodbye \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:45 | 2024-06-05 | 2024-10-23 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 | 2024-11-07 |
+| [Gradually](https://open.spotify.com/track/2wdMvcn0OfxBislSqVFy7b) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [PUZZLE](https://open.spotify.com/album/3IyCy5reObC7anLU5t1KjZ) | 3:07 | 2025-01-02 |  |
 | [Grandpa of Mountain](https://open.spotify.com/track/35jVxzFNNkWTXiVkYtSe1O) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Grandpa of Mountain 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/5LXQYOOoH847kf5NNzbnnj) | 3:20 | 2024-04-30 | 2024-05-10 |
 | [Green](https://open.spotify.com/track/7KTwml8vIRLGZKBe1YWv6J) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:02 | 2022-04-22 | 2022-06-15 |
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-05-11 | 2022-07-28 |
@@ -592,6 +594,7 @@
 | [Rush Hour](https://open.spotify.com/track/2eEVS8HGd0xpmsUOCuVIzI) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Rush Hour](https://open.spotify.com/album/5D4f8ca3u8RKEqdpgcgext) | 3:48 | 2022-04-21 | 2022-07-23 |
 | [Rushlight](https://open.spotify.com/track/6yXyBbBNlgQmnHwlbQ64vp) | [Hanjoo Kim](https://open.spotify.com/artist/0afEB0h85oZHZfM3crtq0E) | [Rushlight\(Hope or Dope2 Original Soundtrack\)](https://open.spotify.com/album/0LyLWDW6EqAyCjZgxHkeJj) | 4:34 | 2022-06-13 | 2022-07-15 |
 | [Ryudejakeiru](https://open.spotify.com/track/11Ndi6W2TSe8f4jNRb0ZgO) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 4:09 | 2024-04-09 | 2024-05-10 |
+| [S G T A P E \- 02](https://open.spotify.com/track/7jkdHQiiYHhBNAvZeKAeRA) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [S G T A P E \- 02](https://open.spotify.com/album/4ngTgk3EulbfnBvCKz1C0N) | 18:41 | 2025-01-02 |  |
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-08 | 2023-10-12 |
 | [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-07 | 2024-11-07 |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-02 | 2022-07-29 |
@@ -695,7 +698,7 @@
 | [The Beginning Of Love](https://open.spotify.com/track/6TLBrPRXUFnfctV0oY3Whg) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [The Beginning Of Love](https://open.spotify.com/album/5vukvcOETpOnGnpRS52Wcd) | 3:36 | 2024-12-23 |  |
 | [The boy of June](https://open.spotify.com/track/3ayELZnkl36t100LdVnF20) | [igloobay](https://open.spotify.com/artist/4C8KZvLXUzzR2lFY580ATb) | [The boy of June](https://open.spotify.com/album/2nU6gOokfzK3iXpJm7m4Ny) | 3:35 | 2022-07-04 | 2022-07-09 |
 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 | 2024-10-31 | 2024-12-24 |
-| [The forgotten memories](https://open.spotify.com/track/4m1ytjci4xhxT1C0PzZHhD) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [The forgotten memories \(Hear Me: Our Summer X Shin Ye\-Young\)](https://open.spotify.com/album/4KrTuQA0afak61oe3V5ZjB) | 3:45 | 2024-11-06 |  |
+| [The forgotten memories](https://open.spotify.com/track/4m1ytjci4xhxT1C0PzZHhD) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [The forgotten memories \(Hear Me: Our Summer X Shin Ye\-Young\)](https://open.spotify.com/album/4KrTuQA0afak61oe3V5ZjB) | 3:45 | 2024-11-06 | 2025-01-02 |
 | [The knight who can't die and the silk cradle](https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [The knight who can't die and the silk cradle](https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG) | 4:08 | 2024-03-21 | 2024-05-10 |
 | [The Last Flower](https://open.spotify.com/track/2R4szKHlna6ZcCcA3jXLfv) | [AIRI KANNA](https://open.spotify.com/artist/5RKYutk9PvyLwOXqIk191K) | [The Last Flower](https://open.spotify.com/album/20Q9uuWH4JFdMfXNpH2ZMh) | 4:06 | 2023-11-10 | 2024-05-10 |
 | [The Moment, To You](https://open.spotify.com/track/2ytFb5XXbbSX4oEgNDsceJ) | [Yoo Jungmok](https://open.spotify.com/artist/2KdO1rsQPujhuEF7eNclr9) | [The Vernal Equinox Vol.2](https://open.spotify.com/album/2dO4RUT8D9aPae0DawhmBW) | 4:07 | 2022-05-03 | 2022-05-12 |
@@ -789,7 +792,7 @@
 | [WOODY](https://open.spotify.com/track/5gohv3y9eo1FeOmL8gYbVL) | [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [WOODY](https://open.spotify.com/album/0secYErmr26myE8T2RMdGf) | 2:56 | 2022-04-12 | 2022-04-21 |
 | [WYA](https://open.spotify.com/track/0pZ8Y9fgNWVukHGF441xqA) | [MGFF](https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl) | [MOIM](https://open.spotify.com/album/2VlR7hshadizStmHBSmoGR) | 3:22 | 2023-01-26 | 2023-02-15 |
 | [Yes \(feat\. James Reid\)](https://open.spotify.com/track/7rXgJUG1dp42FJMjYsD7EW) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW), [Transparent Arts](https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:16 | 2024-10-16 | 2024-10-31 |
-| [You](https://open.spotify.com/track/2F6CENl6unVtch4oN2o7I5) | [KAVE](https://open.spotify.com/artist/2ULfZAs05dyyWxznOPua14) | [Say My Name](https://open.spotify.com/album/0ZG0wS9PNE1GYE7NVjHBFP) | 3:24 | 2024-11-12 |  |
+| [You](https://open.spotify.com/track/2F6CENl6unVtch4oN2o7I5) | [KAVE](https://open.spotify.com/artist/2ULfZAs05dyyWxznOPua14) | [Say My Name](https://open.spotify.com/album/0ZG0wS9PNE1GYE7NVjHBFP) | 3:24 | 2024-11-12 | 2025-01-02 |
 | [YOU & I](https://open.spotify.com/track/00LIiLCJ8WpurfzboQzgyU) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk), [Yubin](https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY) | [Armored Saurus Season2 OST Part.1](https://open.spotify.com/album/1lJHwaencWgzycwl7aSwt4) | 4:07 | 2022-07-08 | 2022-07-23 |
 | [YOU \(feat\. Beenzino\)](https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR) | [YOU \(feat .Beenzino\)](https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn) | 4:15 | 2022-06-23 | 2022-07-16 |
 | [You Are My Universe](https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [You Are My Universe](https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ) | 4:35 | 2022-09-30 | 2022-10-19 |

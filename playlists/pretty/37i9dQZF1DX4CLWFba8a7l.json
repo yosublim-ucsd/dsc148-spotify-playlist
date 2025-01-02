@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 124644,
+  "num_followers": 124652,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -205,20 +205,24 @@
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
     },
     {
-      "added_at": "2024-10-10 13:00:00",
+      "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/2iyg8tyZThPkpe5j7ou0gU"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
         }
       ],
-      "duration_ms": 290802,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -245,24 +249,20 @@
       "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
+      "added_at": "2024-10-10 13:00:00",
       "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/2iyg8tyZThPkpe5j7ou0gU"
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs"
+      "duration_ms": 290802,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 189966,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 189966,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Benny",
-      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
       },
@@ -757,20 +741,20 @@
       "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
     },
     {
-      "added_at": "2024-11-21 13:00:00",
+      "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Parched",
-        "url": "https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN"
+        "name": "boy",
+        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
       },
       "artists": [
         {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
         }
       ],
-      "duration_ms": 235534,
-      "name": "Parched",
-      "url": "https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T"
+      "duration_ms": 172000,
+      "name": "Benny",
+      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -791,6 +775,22 @@
       "duration_ms": 183377,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
+    },
+    {
+      "added_at": "2024-11-21 13:00:00",
+      "album": {
+        "name": "Parched",
+        "url": "https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "duration_ms": 235534,
+      "name": "Parched",
+      "url": "https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T"
     },
     {
       "added_at": "2024-09-19 14:00:00",
@@ -839,6 +839,26 @@
       "duration_ms": 147801,
       "name": "You're Still Mine",
       "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 124401,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -943,26 +963,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 124401,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "U Should Not Be Doing That / Facts",
-        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 206659,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "And We",
         "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 161562,
       "name": "And We",
       "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
+    },
+    {
+      "added_at": "2024-12-05 13:00:00",
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 212043,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1049,20 +1049,36 @@
       "url": "https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb"
     },
     {
-      "added_at": "2024-12-05 13:00:00",
+      "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH"
+        "name": "U Should Not Be Doing That / Facts",
+        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
         }
       ],
-      "duration_ms": 212043,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ"
+      "duration_ms": 206659,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1095,22 +1111,6 @@
       "duration_ms": 145197,
       "name": "Wreck & Ruin",
       "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Padam Padam",
-        "url": "https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Heading For The Door",
+        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Heading For The Door",
+      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Still Have Room",
         "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 195307,
       "name": "Craters",
       "url": "https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Heading For The Door",
-        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Heading For The Door",
-      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
     },
     {
       "added_at": "2024-08-30 00:24:34",

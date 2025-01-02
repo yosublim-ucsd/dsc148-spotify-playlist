@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14809,
+  "num_followers": 14807,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -95,18 +95,30 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Lata Dwudzieste",
-        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+        "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
+        "url": "https://open.spotify.com/album/2YFcnjTF7TTF8hHPlYo2mQ"
       },
       "artists": [
         {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+          "name": "M\u0119skie Granie Orkiestra",
+          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
+        },
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        },
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
         }
       ],
-      "duration_ms": 194826,
-      "name": "mori",
-      "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
+      "duration_ms": 195701,
+      "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
+      "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -143,30 +155,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
-        "url": "https://open.spotify.com/album/2YFcnjTF7TTF8hHPlYo2mQ"
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
       },
       "artists": [
         {
-          "name": "M\u0119skie Granie Orkiestra",
-          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
-        },
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        },
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 195701,
-      "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
-      "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
+      "duration_ms": 194826,
+      "name": "mori",
+      "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Big Band Live",
-        "url": "https://open.spotify.com/album/5FUb1oEB1tVVnMM7dvb3hy"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Wonderland In Alice - Big Band Live",
-      "url": "https://open.spotify.com/track/6jdwA0zXqEaui8aezzT9He"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Mi\u0142o\u015b\u0107 w czasach",
         "url": "https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 175680,
       "name": "Most",
       "url": "https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Big Band Live",
+        "url": "https://open.spotify.com/album/5FUb1oEB1tVVnMM7dvb3hy"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Wonderland In Alice - Big Band Live",
+      "url": "https://open.spotify.com/track/6jdwA0zXqEaui8aezzT9He"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Mother's Day (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5shDcdQoul4VBhEizLGRgf"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 163286,
+      "name": "Fight First",
+      "url": "https://open.spotify.com/track/1EtbFBabv9aemgBfvh3aY1"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Bons Amigos",
         "url": "https://open.spotify.com/album/3Jw4AYdB8n1eREIDwQSpwa"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 257781,
       "name": "Nuc\u0119, gwi\u017cd\u017c\u0119 sobie (Canto Canto)",
       "url": "https://open.spotify.com/track/4i4jC0dkDV7lTGjUGuEzQU"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Mother's Day (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/5shDcdQoul4VBhEizLGRgf"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 163286,
-      "name": "Fight First",
-      "url": "https://open.spotify.com/track/1EtbFBabv9aemgBfvh3aY1"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "AFR AI D",
-        "url": "https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb"
-      },
-      "artists": [
-        {
-          "name": "Mariusz Duda",
-          "url": "https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "I Love To Chat With You",
-      "url": "https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
         "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 99000,
       "name": "Pie\u015b\u0144 baby",
       "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "AFR AI D",
+        "url": "https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb"
+      },
+      "artists": [
+        {
+          "name": "Mariusz Duda",
+          "url": "https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "I Love To Chat With You",
+      "url": "https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN"
     },
     {
       "added_at": "2024-03-25 08:52:09",

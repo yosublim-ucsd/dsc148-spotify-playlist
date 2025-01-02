@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,163 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,178 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 37 | [Merry Christmas Everyone \(Snow Is Falling\) \- Acoustic Cover](https://open.spotify.com/track/26YCOq8RYz8Qsx75rWa3kZ) | [Emily Hall](https://open.spotify.com/artist/4RbjejrQkdyJK5XUyvnSDU) | [Acoustic Christmas 2020 \- Xmas Chill Acustic](https://open.spotify.com/album/54KyGOuJWHAWGKUHQHJLUJ) | 2:14 |
 | 38 | [We Three Kings](https://open.spotify.com/track/5dT77tyFweHSHC8V0lrDFH) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [We Three Kings](https://open.spotify.com/album/1NZWpPv9ATEef2q7UaS5hc) | 2:41 |
 | 39 | [O Christmas Tree \- Acoustic](https://open.spotify.com/track/1KS9XTm3LUIBPHWMfwUdp5) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [O Christmas Tree \(Acoustic\)](https://open.spotify.com/album/6RoLTReIYJe8IS45SfCkt5) | 3:01 |
-| 40 | [If We Make It Through December](https://open.spotify.com/track/21Zz628YJ9Si5AJMfX7Glm) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [If We Make It Through December](https://open.spotify.com/album/6ubCw6rKArBfBKK2wuHCqa) | 3:26 |
-| 41 | [Auld lang syne](https://open.spotify.com/track/0YdgUN2Am0zQzKY4eP6IsA) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Auld lang syne](https://open.spotify.com/album/2IZUszlSkfGgYD9wJRacEM) | 3:19 |
+| 40 | [Auld lang syne](https://open.spotify.com/track/0YdgUN2Am0zQzKY4eP6IsA) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Auld lang syne](https://open.spotify.com/album/2IZUszlSkfGgYD9wJRacEM) | 3:19 |
+| 41 | [If We Make It Through December](https://open.spotify.com/track/21Zz628YJ9Si5AJMfX7Glm) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [If We Make It Through December](https://open.spotify.com/album/6ubCw6rKArBfBKK2wuHCqa) | 3:26 |
 | 42 | [Snowin' On Raton](https://open.spotify.com/track/25efC97jgYi1ms8Y9SxWak) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Snowin' On Raton](https://open.spotify.com/album/71wodb1V4YhM39VR82IT13) | 3:51 |
 | 43 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 |
 | 44 | [Step Into Christmas](https://open.spotify.com/track/0lnqUHZhyP2UBxB1HnzIvH) | [Eleanor Zamora](https://open.spotify.com/artist/0qvn8xbF2YvSvBIj7Ud4Cz) | [Step Into Christmas](https://open.spotify.com/album/6T6Vyxa9DWZaIWQtojuASa) | 5:24 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 47 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 |
 | 48 | [Some Hearts \(At Christmas Time\)](https://open.spotify.com/track/0G3AmnNdWdnVwTGWONP873) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Some Hearts \(At Christmas Time\)](https://open.spotify.com/album/3Qi4XZlpUjHS7KFtNN5iiI) | 1:56 |
 | 49 | [Oh, What a Merry Christmas Day](https://open.spotify.com/track/1UVtVJ2PyzFVxASoyCKZH5) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Oh, What a Merry Christmas Day](https://open.spotify.com/album/4byYCx7X0hTKcp5WXgJOaz) | 1:48 |
-| 50 | [Give Love On Christmas Day](https://open.spotify.com/track/1fdhf6xSxzMJMuPlua1i0m) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Give Love On Christmas Day](https://open.spotify.com/album/6NgUaJKXTR2N2H2aSfj0Of) | 2:47 |
+| 50 | [It's the Holiday Season](https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [It's the Holiday Season](https://open.spotify.com/album/0nsxpYaQkE4WuR5BIN4dZC) | 2:46 |
 
 Snapshot ID: `Z2Us6AAAAACRQmHhKOUAnE9NXW2EIeBS`

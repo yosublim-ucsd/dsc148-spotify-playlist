@@ -4439,6 +4439,32 @@
     },
     {
       "album": {
+        "name": "Pol\u00edticamente Correcto",
+        "url": "https://open.spotify.com/album/1vWMjjsWllqrLtmaLA9X1U"
+      },
+      "artists": [
+        {
+          "name": "Yung Dupe",
+          "url": "https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3"
+        },
+        {
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/7pLeJaOcw4TbtZk42asvOu"
+        },
+        {
+          "name": "PUGSPUGSPUGS",
+          "url": "https://open.spotify.com/artist/41aYvVvQYDfM6sn2zhlQHY"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Ay beb\u00e9",
+      "url": "https://open.spotify.com/track/2Nrel4hzVFXt02o0KHVoLi"
+    },
+    {
+      "album": {
         "name": "Ayahuasca",
         "url": "https://open.spotify.com/album/111EWQtg07nn7Rt44ONX0A"
       },
@@ -5102,7 +5128,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 186000,
       "name": "Bad Girls Like You",
       "url": "https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8"
@@ -25640,7 +25666,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 266200,
       "name": "Jugo De Pi\u00f1a",
       "url": "https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi"
@@ -27678,7 +27704,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 163500,
       "name": "Lado Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4k1bSVbcm2S8f3AXNu1ikQ"
@@ -33220,7 +33246,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 185972,
       "name": "miau",
       "url": "https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9"
@@ -59662,7 +59688,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 185626,
       "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke - Opening Theme to DAN DA DAN",
       "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"

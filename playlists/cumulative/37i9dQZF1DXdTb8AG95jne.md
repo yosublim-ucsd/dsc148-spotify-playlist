@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: MRCH\(윤마치\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-850 songs - 2 day 3 hr 44 min
+851 songs - 2 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 | 2024-11-07 |
 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 | 2024-09-13 | 2024-09-23 |
 | [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 | 2024-11-21 |
-| [Come Home](https://open.spotify.com/track/5RB1G4jUB7sYCNsbRrRwJ5) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [Come Home](https://open.spotify.com/album/5mJCFK2xpXiorhIr73ng1b) | 2:32 | 2024-11-06 |  |
+| [Come Home](https://open.spotify.com/track/5RB1G4jUB7sYCNsbRrRwJ5) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [Come Home](https://open.spotify.com/album/5mJCFK2xpXiorhIr73ng1b) | 2:32 | 2024-11-06 | 2025-01-02 |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
 | [Confession](https://open.spotify.com/track/5YOjqVJJDxSdHuwUmLBqXw) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Confession](https://open.spotify.com/album/3d7PpF9RGShHyPS4qVsWM3) | 3:50 | 2021-12-21 | 2022-04-19 |
 | [Conversation](https://open.spotify.com/track/2QeyQqJP1Zsmi700qggXvs) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Conversation](https://open.spotify.com/album/3o9oDOYgTR1067epl2bYwC) | 3:20 | 2022-03-31 | 2022-07-14 |
@@ -599,6 +599,7 @@
 | [Rotten Flower](https://open.spotify.com/track/4Cfo60WsyTpelx87mdMtiP) | [Woo Hye Mi](https://open.spotify.com/artist/3md5p13jiHC7M6qtL9qlo9) | [Rotten Flower](https://open.spotify.com/album/4MlSb1X82NlpyB8jYj5EWY) | 4:06 | 2022-04-12 | 2022-04-21 |
 | [roundnround](https://open.spotify.com/track/45S6KXFoyTifmUAyd00D9o) | [Jinoa](https://open.spotify.com/artist/5B9a2sEypgeereR5g4ieXK) | [roundnround](https://open.spotify.com/album/5i5RAswwxozRfdm0W1G683) | 3:05 | 2022-05-03 | 2022-05-12 |
 | [RUNAWAY \(feat\. Ha Hyun Sang\)](https://open.spotify.com/track/71Hn3PaliOazhlNKvig9MI) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [RUNAWAY \(feat\. Ha Hyun Sang\)](https://open.spotify.com/album/2nUctvyrurwUj4h5etWwNq) | 3:30 | 2024-06-12 | 2024-11-30 |
+| [S G T A P E \- 02](https://open.spotify.com/track/7jkdHQiiYHhBNAvZeKAeRA) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [S G T A P E \- 02](https://open.spotify.com/album/4ngTgk3EulbfnBvCKz1C0N) | 18:41 | 2025-01-02 |  |
 | [Safety Distance](https://open.spotify.com/track/513DfQz8PCkHlnWcn1QeLJ) | [휘슬 \(Whistle\)](https://open.spotify.com/artist/6zZR8DsPLAROAhjBYRGROH) | [Safety Distance](https://open.spotify.com/album/2z1r6akTAwpd3f6bTWmJr9) | 3:47 | 2022-05-02 | 2022-05-12 |
 | [Same Constellation 같은 별자리](https://open.spotify.com/track/3k8C88CZl8AP8fKysgS4Ug) | [lalasweet](https://open.spotify.com/artist/5i8AqrrtbwtPqzkavePQy1) | [Same Constellation 같은 별자리](https://open.spotify.com/album/5C5GOjn5IV3cz1VZiZZMWq) | 4:15 | 2022-03-31 | 2022-04-02 |
 | [Same 같아 \(With Marvin\)](https://open.spotify.com/track/3EsRJZrf0y1HUMywkQ85nW) | [Woo Chan Yang](https://open.spotify.com/artist/0qYNg9bwLffe5akdCzkGRj), [Marvin](https://open.spotify.com/artist/363B8ECJtLIGgkXrSPwPNr) | [EQUAL](https://open.spotify.com/album/5ZqIdPhee05PccRIL0fsux) | 3:26 | 2022-03-31 | 2022-04-18 |

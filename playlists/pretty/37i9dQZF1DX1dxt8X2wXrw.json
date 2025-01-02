@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 67561,
+  "num_followers": 67565,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "NO SZNS",
-        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "NO SZNS",
-      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "NO SZNS",
+        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "NO SZNS",
+      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "R e a l W o m a n",
-        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "R e a l W o m a n",
-      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "Pray for Me",
         "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 434758,
       "name": "Pray for Me",
       "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "R e a l W o m a n",
+        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "R e a l W o m a n",
+      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
+        "name": "For You / Si Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Si Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
         "name": "Hole Erth",
         "url": "https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 172893,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "For You / Si Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Si Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Sweet Lies",
-        "url": "https://open.spotify.com/album/64yAldhfu8FAY9XWpca16Q"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 221772,
-      "name": "Sweet Lies",
-      "url": "https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "pretend",
         "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 170676,
       "name": "pretend",
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Sweet Lies",
+        "url": "https://open.spotify.com/album/64yAldhfu8FAY9XWpca16Q"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 221772,
+      "name": "Sweet Lies",
+      "url": "https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Goodbyes (Myrrh)",
-        "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "Goodbyes (Myrrh)",
-      "url": "https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "GREEN LIGHT",
         "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Goodbyes (Myrrh)",
+        "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 210124,
+      "name": "Goodbyes (Myrrh)",
+      "url": "https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Stealin' Love",
-        "url": "https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        }
-      ],
-      "duration_ms": 140768,
-      "name": "Stealin' Love",
-      "url": "https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "Waiting For You (feat. Naomi Sharon)",
         "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Stealin' Love",
+        "url": "https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 140768,
+      "name": "Stealin' Love",
+      "url": "https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Lahai",
-        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Suspended",
-      "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 211200,
       "name": "YOU",
       "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Lahai",
+        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 185371,
+      "name": "Suspended",
+      "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "The Rest Of Me (Edit)",
-        "url": "https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 186078,
-      "name": "The Rest Of Me - Edit",
-      "url": "https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK"
       },
@@ -1183,22 +1167,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Red Light",
-        "url": "https://open.spotify.com/album/08aM0wysi2NwR7phOd6zLk"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 247185,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/6uFDcKDKm2QgdgtEcDQGoU"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "MANIC",
         "url": "https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20"
       },
@@ -1211,6 +1179,38 @@
       "duration_ms": 138461,
       "name": "MANIC",
       "url": "https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "The Rest Of Me (Edit)",
+        "url": "https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 186078,
+      "name": "The Rest Of Me - Edit",
+      "url": "https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/08aM0wysi2NwR7phOd6zLk"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 247185,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/6uFDcKDKm2QgdgtEcDQGoU"
     },
     {
       "added_at": "2024-12-20 20:54:00",

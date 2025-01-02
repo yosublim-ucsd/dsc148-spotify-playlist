@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 64741,
+  "num_followers": 64768,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
+        "name": "Na Sua Rua",
+        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Na Sua Rua",
+      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
         "name": "N\u00e3o para N\u00e3o",
         "url": "https://open.spotify.com/album/5YsDkffdcFwbbmWZqW1kwS"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 164131,
       "name": "Romance Fora de Hora",
       "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
-        "name": "Na Sua Rua",
-        "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Na Sua Rua",
-      "url": "https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N"
+      },
+      "artists": [
+        {
+          "name": "DROKI",
+          "url": "https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op"
+        }
+      ],
+      "duration_ms": 154958,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
         "name": "Cuz I Really Feel It",
         "url": "https://open.spotify.com/album/2fn3Ud9RQECGPUZ8Oc5BHd"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 167088,
       "name": "Tudo O Que Eu Posso Te Dar",
       "url": "https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
-        "name": "Flor",
-        "url": "https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N"
-      },
-      "artists": [
-        {
-          "name": "DROKI",
-          "url": "https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op"
-        }
-      ],
-      "duration_ms": 154958,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK"
     },
     {
       "added_at": "2024-12-13 16:47:52",

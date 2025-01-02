@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Feliz 2025! Celebra las fiestas en compañía de Luis R\. Conriquez y TRAKAS, Hijos de su próspero Año Nuevo 🪅
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,802 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,910 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

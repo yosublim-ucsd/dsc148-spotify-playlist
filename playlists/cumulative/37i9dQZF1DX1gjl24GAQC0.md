@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: GHOST9\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: N.SSign\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-637 songs - 1 day 11 hr 12 min
+641 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Doom Du Doom](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ZERO IN](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) | 3:30 | 2022-07-20 | 2022-09-10 |
 | [Double Knot](https://open.spotify.com/track/7vZseKiQOIuFxxfi84302k) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Double Knot](https://open.spotify.com/album/3SoaVGrOhUhSSdaanMdbbI) | 3:09 | 2022-01-03 | 2022-07-04 |
 | [Down \(feat\. Grey\)](https://open.spotify.com/track/0hCN8CN4XwpnVxCUvUuRu7) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Down](https://open.spotify.com/album/7kgyAWZE9JuzFLa93O8mgg) | 3:13 | 2021-12-08 | 2022-07-29 |
-| [Down for you](https://open.spotify.com/track/7pbRGHGXEHNbs8JxXq7yZW) | [GHOST9](https://open.spotify.com/artist/7f953Uuid7Xrd0nXQ3V3s1) | [Down for you](https://open.spotify.com/album/4GQkIyzKxvXwJLtU91Vd2t) | 3:17 | 2024-12-24 |  |
+| [Down for you](https://open.spotify.com/track/7pbRGHGXEHNbs8JxXq7yZW) | [GHOST9](https://open.spotify.com/artist/7f953Uuid7Xrd0nXQ3V3s1) | [Down for you](https://open.spotify.com/album/4GQkIyzKxvXwJLtU91Vd2t) | 3:17 | 2024-12-24 | 2025-01-02 |
 | [Dr\. BeBe](https://open.spotify.com/track/2z0LVG9G2SpFaT5bHyWwjK) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Universe : The Black Hall](https://open.spotify.com/album/7KrRT3DMomHHFtRCdK6sPs) | 3:11 | 2022-01-27 | 2022-04-09 |
 | [Drink It](https://open.spotify.com/track/56URBnyl71PPaebwimqwQD) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Drink It](https://open.spotify.com/album/6gstlIojQWTAcrsRqBQxLR) | 3:26 | 2022-03-22 | 2022-05-26 |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-12-08 |  |
@@ -259,6 +259,7 @@
 | [Here I Am](https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q) | [BOYS PLANET](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) | [BOYS PLANET \- Here I Am](https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc) | 4:04 | 2023-01-13 | 2023-06-22 |
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2022-04-12 | 2022-04-18 |
 | [hey](https://open.spotify.com/track/6I2OEdbHkkaZTOi3mWpHjq) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [off the wall](https://open.spotify.com/album/5NkKedFEJ4qyK4imPMDR2d) | 2:54 | 2022-12-15 | 2023-01-06 |
+| [Hi Beautiful](https://open.spotify.com/track/2fDxVJHUsD6tpz0Y4ba2Fg) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Hi Beautiful](https://open.spotify.com/album/2N0htUEFJm4JnJ2VLCS3cB) | 2:50 | 2025-01-02 |  |
 | [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-02-27 | 2023-04-20 |
 | [HIGH FIVE](https://open.spotify.com/track/0BmAxed767sKuHlMq22cuW) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [HIGH FIVE](https://open.spotify.com/album/3qXcP38yQQay5WeyoK2bd7) | 3:02 | 2024-11-19 | 2024-11-26 |
 | [Highway to Heaven](https://open.spotify.com/track/12ksjJ2DDQZu0a1fvJnTRE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:20 | 2022-01-14 | 2022-04-15 |
@@ -318,7 +319,7 @@
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-10 | 2024-04-19 |
 | [Last Festival](https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Single 'Last Bell'](https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My) | 3:11 | 2024-11-29 |  |
 | [Last Kiss](https://open.spotify.com/track/09h8qJQiv6Kc2CdUMsAG0R) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Last Kiss\]](https://open.spotify.com/album/3lm6Pon4S8xs8oFqRQ1r36) | 3:28 | 2024-12-04 | 2024-12-10 |
-| [Last night \(Guitar by Park Juwon\)](https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS) | [JxW](https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D) | [JxW 1st Single Album 'THIS MAN'](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 2:56 | 2024-06-17 |  |
+| [Last night \(Guitar by Park Juwon\)](https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS) | [JxW](https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D) | [JxW 1st Single Album 'THIS MAN'](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 2:56 | 2024-06-17 | 2025-01-02 |
 | [LAST PIECE](https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 3:42 | 2021-12-08 | 2022-07-05 |
 | [Lay Back](https://open.spotify.com/track/3eVaOnvfX0Ufu1rkwbC0WS) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [FACE ME](https://open.spotify.com/album/3foK58isBZtgFp6MU1vGR1) | 3:16 | 2022-03-31 | 2022-04-08 |
 | [Left & Right](https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:21 | 2021-12-08 | 2022-07-21 |
@@ -351,6 +352,7 @@
 | [LOVE ME LIKE](https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [LOVE ME LIKE](https://open.spotify.com/album/0N8lx0LEnJuXuccK3utCgw) | 2:54 | 2022-01-13 | 2022-05-06 |
 | [Love or Die](https://open.spotify.com/track/4mNYuIZVcHy6TUBoaCnGpF) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [EVERSHINE](https://open.spotify.com/album/6Vann84OY36Th0qtrewvKJ) | 2:47 | 2024-02-26 | 2024-03-22 |
 | [Love Paranoia](https://open.spotify.com/track/3ej4aFOFyt0EoxXZHBHVyP) | [LUNA](https://open.spotify.com/artist/24czKkgx0KoQ239m9tvDyk) | [Love Paranoia](https://open.spotify.com/album/1D9utBj0lUeNuJsyXNcZgT) | 3:38 | 2022-02-15 | 2022-07-25 |
+| [Love Potion \(白日夢\)](https://open.spotify.com/track/6MPl1itw6siKstgoCIeCDo) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign 3rd Mini Album 'Love Potion'](https://open.spotify.com/album/2zUSOtmcJKnKe6byvkf1bZ) | 3:27 | 2025-01-02 |  |
 | [Love Right Back \(feat\. TAEIL of NCT, lIlBOI\)](https://open.spotify.com/track/1XAjHcWjzNbYlVi9uSp1ko) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:14 | 2022-04-12 | 2022-04-20 |
 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 | 2022-07-27 | 2024-04-19 |
 | [LOVE SCENARIO](https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8) | 3:29 | 2021-12-08 | 2022-07-19 |
@@ -483,6 +485,7 @@
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-10 |  |
 | [Run up \- Korean Version](https://open.spotify.com/track/43DWdbU4rz8IH0Kd33OHI3) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Run up \(Korean Version\)](https://open.spotify.com/album/6fvWqvuE09nnpF2TI3jrIo) | 2:42 | 2022-05-11 | 2022-05-31 |
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-06-02 | 2024-04-19 |
+| [Sad Loop](https://open.spotify.com/track/476PT13ugdewze682alt9b) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [Sad Loop](https://open.spotify.com/album/4fxVu27QdPqvJaQujywP3X) | 3:54 | 2025-01-02 |  |
 | [SAD SONG](https://open.spotify.com/track/4AwUc1mdlX4ARHkUNG0iho) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [SAD SONG](https://open.spotify.com/album/0NmzOw8evaF6bn2U7tiWSA) | 2:54 | 2024-09-20 |  |
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-11 | 2023-09-20 |
 | [sage](https://open.spotify.com/track/0PD0sg1VxEe053PkICCG6s) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [line sun goodness](https://open.spotify.com/album/2oQ7nNpknAEyug7tWqPA8D) | 2:59 | 2022-03-31 | 2022-04-21 |
@@ -532,10 +535,10 @@
 | [STAR](https://open.spotify.com/track/4wdUuQQ32Pcrzln7NaZCFk) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [STAR](https://open.spotify.com/album/3vzL4zqeWqJ7stqWpX5bfD) | 4:09 | 2021-12-08 | 2022-07-10 |
 | [Starry Night \(prod\. dress\)](https://open.spotify.com/track/2skhJRyeMP1EefyjTYwQmA) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Starry Night \(prod\. dress\)](https://open.spotify.com/album/5LveI3wQQYc6XddckFhFzN) | 3:07 | 2022-03-22 | 2022-07-18 |
 | [STAY YOUNG](https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:28 | 2022-04-04 | 2022-04-13 |
-| [Steady](https://open.spotify.com/track/1zJUr9Oo5zEjvJrdlg67jQ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 2:59 | 2024-09-24 |  |
+| [Steady](https://open.spotify.com/track/1zJUr9Oo5zEjvJrdlg67jQ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 2:59 | 2024-09-24 | 2025-01-02 |
 | [Sticker](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:47 | 2021-12-08 | 2022-06-27 |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-04 | 2022-10-08 |
-| [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-04 |  |
+| [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-04 | 2025-01-02 |
 | [Still Loving You](https://open.spotify.com/track/4JvJw1ZMpmCnv6RjPUM1GT) | [100%](https://open.spotify.com/artist/3fkFO5lmipe654caBLBD6n) | [RE:tro](https://open.spotify.com/album/2N5nMmoKGeFwXB3mKBrHKT) | 3:00 | 2022-03-16 | 2022-07-29 |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-05 |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 |  |
@@ -606,6 +609,7 @@
 | [Wave](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 | 2021-12-08 | 2022-07-25 |
 | [WAVE](https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Album 'OK' Prologue : Be OK](https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR) | 3:19 | 2022-01-03 | 2022-07-22 |
 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 | 2024-02-26 | 2024-03-27 |
+| [We don't stop](https://open.spotify.com/track/1riEr6o3obQxrQRFmD9Sed) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [The Fiery Priest 2 \(Original Soundtrack\) Part.2](https://open.spotify.com/album/4cUiPsVFLX87U79rXqbNjL) | 3:22 | 2025-01-02 |  |
 | [We Don’t Stop](https://open.spotify.com/track/67ZvVtW278IHsAxnzglQt4) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Trial And Error](https://open.spotify.com/album/4JyXIbXVhgzCa7DU0K6V1O) | 3:09 | 2024-03-08 | 2024-04-06 |
 | [We Go Up](https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:03 | 2021-12-08 |  |
 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 | 2024-03-21 | 2024-05-13 |

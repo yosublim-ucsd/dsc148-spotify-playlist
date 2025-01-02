@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 172597,
       "name": "Active",
       "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 148053,
       "name": "ALL RED",
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
@@ -1600,6 +1600,24 @@
       "duration_ms": 120019,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/1j1cIT7XaIX58pn0vGp7Zw"
+    },
+    {
+      "album": {
+        "name": "Lil Black Jean Jacket 2 (Ruby Edition)",
+        "url": "https://open.spotify.com/album/0Z3MS8lDYp8MwMtHZqL9EI"
+      },
+      "artists": [
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160938,
+      "name": "Cartier AMG",
+      "url": "https://open.spotify.com/track/7cLdpDzMuTJtZuEscZd8t7"
     },
     {
       "album": {
@@ -4012,7 +4030,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 190534,
       "name": "Hello (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
@@ -4502,7 +4520,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 172500,
       "name": "If We Being R\u00ebal",
       "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
@@ -4622,7 +4640,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz"
@@ -5058,7 +5076,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 132506,
       "name": "Kitchen Table",
       "url": "https://open.spotify.com/track/5ioDyG14CzzR5mIHA7UApb"
@@ -5080,6 +5098,28 @@
       "duration_ms": 238306,
       "name": "L$D",
       "url": "https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud"
+    },
+    {
+      "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "album": {
@@ -5778,7 +5818,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 175774,
       "name": "Merci Beaucoup",
       "url": "https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT"
@@ -5800,6 +5840,24 @@
       "duration_ms": 268893,
       "name": "Mezmorized",
       "url": "https://open.spotify.com/track/44kFSc9ud98cnHq104T2RL"
+    },
+    {
+      "album": {
+        "name": "So Much Fun (Deluxe)",
+        "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157520,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/43YQDj1KOPMFAUcTEPKy4p"
     },
     {
       "album": {
@@ -5964,7 +6022,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 175774,
       "name": "Move Like a Boss (feat. Young M.A)",
       "url": "https://open.spotify.com/track/3T3SeUjR8NhTzSE3NSDxkK"
@@ -6044,7 +6102,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 214925,
       "name": "Mr. Jones (feat. Future)",
       "url": "https://open.spotify.com/track/3Zg68ElzsOAHABZsfXlljo"
@@ -6636,7 +6694,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 137142,
       "name": "No Face",
       "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
@@ -8389,6 +8447,28 @@
     },
     {
       "album": {
+        "name": "Rump (feat. Chow Lee)",
+        "url": "https://open.spotify.com/album/6UuDdz6UNlBFSxpOACU3mm"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169736,
+      "name": "Rump (feat. Chow Lee)",
+      "url": "https://open.spotify.com/track/33jK0OMIl7zNzj5R9niW3A"
+    },
+    {
+      "album": {
         "name": "From The Can",
         "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
       },
@@ -8776,6 +8856,50 @@
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+    },
+    {
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96040,
+      "name": "Showin Off Pt.1 (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/7kFMvM2gUzVeW2ZlkKRhzu"
+    },
+    {
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Showin Off Pt.2 (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/6JzyJgeHSRS4aYiK5gt02M"
     },
     {
       "album": {
@@ -9676,7 +9800,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 155076,
       "name": "The God Hour",
       "url": "https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC"
@@ -9930,7 +10054,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -10138,7 +10262,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 176191,
       "name": "TRY SHIT (feat. Jay Critch)",
       "url": "https://open.spotify.com/track/1SiK7K8mSWHd5zSBaOEBst"
@@ -10522,6 +10646,28 @@
       "duration_ms": 236226,
       "name": "Walk On Water (feat. A$AP Twelvyy, A$AP Ant, A$AP Nast, A$AP Ferg & Playboi Carti)",
       "url": "https://open.spotify.com/track/0WQcnrsEqrY2e5nexGe3HX"
+    },
+    {
+      "album": {
+        "name": "WAM",
+        "url": "https://open.spotify.com/album/1opbVvrgNu3y8qFERjLQW1"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161999,
+      "name": "WAM",
+      "url": "https://open.spotify.com/track/4uU6WpUiOHLxMzXD7eVzyK"
     },
     {
       "album": {
@@ -10972,7 +11118,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 141176,
       "name": "When Tony Met Sosa",
       "url": "https://open.spotify.com/track/4ahc42KacGWjE3j0DPNSK5"
@@ -11438,7 +11584,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"

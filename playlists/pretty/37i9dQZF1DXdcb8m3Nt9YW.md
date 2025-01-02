@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡Márquele sección! Los corridones tronando en vivo\. Grupo Firme, Los Tucanes de Tijuana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,117 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,277 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

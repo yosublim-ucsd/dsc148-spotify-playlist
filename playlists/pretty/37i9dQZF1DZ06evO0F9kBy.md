@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,579 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,576 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 28 | [Son Of Heaven](https://open.spotify.com/track/25UM2D9QR9PeRgDvKPSISW) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [House Of Miracles \(Live\)](https://open.spotify.com/album/4rPYrJInxyCcYiUHC8P0qD) | 15:31 |
 | 29 | [Kyrie Eleison](https://open.spotify.com/track/29pV4KdhjtBuBu9KapmseW) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:51 |
 | 30 | [Leaning \(feat\. Lizzie Morgan\)](https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Leaning \(feat\. Lizzie Morgan\)](https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi) | 3:39 |
-| 31 | [Christ is Lower Still](https://open.spotify.com/track/4stQGKTkAR2OY0uopaXZfq) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Sanctuary Songs](https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai) | 5:56 |
-| 32 | [Burning In My Soul](https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:45 |
+| 31 | [Burning In My Soul](https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:45 |
+| 32 | [Christ is Lower Still](https://open.spotify.com/track/4stQGKTkAR2OY0uopaXZfq) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Sanctuary Songs](https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai) | 5:56 |
 | 33 | [It's You \- Tide Electric Remix](https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Tide Electric](https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw) | [The St\. Nemele Collab Sessions](https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ) | 3:58 |
 | 34 | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ) | 2:37 |
 | 35 | [Just as I Am](https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 |
 | 50 | [How Great \(Single Mix\)](https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Worship EP](https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ) | 3:41 |
 
-Snapshot ID: `Z3HigAAAAACtOt5AOGTeIbmocrOG7Bp5`
+Snapshot ID: `Z3M0AAAAAAA0eorPzmWDnEMK9GPjnloq`

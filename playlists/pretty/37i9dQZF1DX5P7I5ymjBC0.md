@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Ketan Sodha, Ash King & Jahnvi Shrimankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,810 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,831 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 40 | [Rang](https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:57 |
 | 41 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 |
 | 42 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 |
-| 43 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 |
-| 44 | [Dekho Sakhi](https://open.spotify.com/track/65xJV3XPDoSbQCJTzLZ6hi) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Prateek Narsimha](https://open.spotify.com/artist/5CZ3t3rNQcDxr2fFOZ3keO), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Dekho Sakhi](https://open.spotify.com/album/327X9g5nLaJwhAEQytBl8h) | 4:37 |
+| 43 | [Dekho Sakhi](https://open.spotify.com/track/65xJV3XPDoSbQCJTzLZ6hi) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Prateek Narsimha](https://open.spotify.com/artist/5CZ3t3rNQcDxr2fFOZ3keO), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Dekho Sakhi](https://open.spotify.com/album/327X9g5nLaJwhAEQytBl8h) | 4:37 |
+| 44 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 |
 | 45 | [Chaa Rahi Kali Ghata](https://open.spotify.com/track/78xcub4FzranFU5SmRPg8j) | [Hina Nasrullah](https://open.spotify.com/artist/6xLg3SN4UR6GC5aLO86jYm), [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 7:38 |
 | 46 | [Sajna Barse](https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Arpita Chatterjee](https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm) | [Bapi Bari Jaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt) | 4:24 |
 | 47 | [Padharo Mhare Des \- Folk Fusion](https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx) | [Swaraag](https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey) | [Padharo Mhare Des \(Folk Fusion\)](https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N) | 5:48 |

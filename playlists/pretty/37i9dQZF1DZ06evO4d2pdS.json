@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3193,
+  "num_followers": 3195,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABidJMumgf69/4M39Efnx1W",
+  "snapshot_id": "Z3M0AAAAAAA3HEoUNYYziVE0TrxoJ8Uu",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Ratchet",
-        "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
+        "name": "Half Tee Half Beast",
+        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
       },
       "artists": [
         {
-          "name": "Tae The Don",
-          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         },
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
         }
       ],
-      "duration_ms": 141030,
-      "name": "Get Ratchet",
-      "url": "https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u"
+      "duration_ms": 144000,
+      "name": "MilTroit (feat. Lakeyah)",
+      "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
     },
     {
       "added_at": null,
@@ -527,22 +523,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Tee Half Beast",
-        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
+        "name": "Get Ratchet",
+        "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+          "name": "Tae The Don",
+          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
         },
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
         }
       ],
-      "duration_ms": 144000,
-      "name": "MilTroit (feat. Lakeyah)",
-      "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
+      "duration_ms": 141030,
+      "name": "Get Ratchet",
+      "url": "https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u"
     },
     {
       "added_at": null,

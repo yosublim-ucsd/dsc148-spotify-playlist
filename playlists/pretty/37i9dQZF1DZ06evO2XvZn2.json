@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15241,
+  "num_followers": 15243,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABsJ4i7VWzCGlQtLG2MjWbM",
+  "snapshot_id": "Z3M0AAAAAAAnfgIwEk/WQCelPaLlSiXY",
   "tracks": [
     {
       "added_at": null,
@@ -611,30 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna Para Ti (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 212362,
-      "name": "Luna Para Ti (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muchacha Solitaria",
         "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 191080,
       "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
       "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna Para Ti (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 212362,
+      "name": "Luna Para Ti (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano y Mujer",
-        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 198178,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/458rrfw1uCfILgIJsNPJpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie Como Yo (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 160038,
       "name": "Nadie Como Yo (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano y Mujer",
+        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 198178,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/458rrfw1uCfILgIJsNPJpX"
     },
     {
       "added_at": null,

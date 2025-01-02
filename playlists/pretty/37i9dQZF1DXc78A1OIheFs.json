@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Corrella",
-  "num_followers": 18649,
+  "num_followers": 18663,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 337565,
       "name": "State of Mind",
       "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
     },
     {
       "added_at": "2024-12-12 13:00:02",
@@ -319,6 +319,22 @@
       "duration_ms": 178062,
       "name": "Crazy Dream - Edit",
       "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -351,22 +367,6 @@
       "duration_ms": 213459,
       "name": "Chantilly",
       "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
-    },
-    {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 208654,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Concubine",
-      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "pinky girl",
         "url": "https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR"
       },
@@ -447,6 +431,38 @@
       "duration_ms": 234901,
       "name": "pinky girl",
       "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Concubine",
+      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -479,22 +495,6 @@
       "duration_ms": 183135,
       "name": "Sunday Stitches",
       "url": "https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0"
-      },
-      "artists": [
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -533,26 +533,6 @@
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
     },
     {
-      "added_at": "2024-12-05 13:00:00",
-      "album": {
-        "name": "i don't want you to miss this",
-        "url": "https://open.spotify.com/album/4kehE9ww8kz7L7gyjamK9p"
-      },
-      "artists": [
-        {
-          "name": "Wells*",
-          "url": "https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41"
-        },
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 158540,
-      "name": "Lose My Lines",
-      "url": "https://open.spotify.com/track/4f8X83eDJJtiZGxToICuLN"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "One More Chance (feat. Savage)",
@@ -571,6 +551,26 @@
       "duration_ms": 196740,
       "name": "One More Chance (feat. Savage)",
       "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
+    },
+    {
+      "added_at": "2024-12-05 13:00:00",
+      "album": {
+        "name": "i don't want you to miss this",
+        "url": "https://open.spotify.com/album/4kehE9ww8kz7L7gyjamK9p"
+      },
+      "artists": [
+        {
+          "name": "Wells*",
+          "url": "https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41"
+        },
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 158540,
+      "name": "Lose My Lines",
+      "url": "https://open.spotify.com/track/4f8X83eDJJtiZGxToICuLN"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
-      },
-      "artists": [
-        {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
-        }
-      ],
-      "duration_ms": 191812,
-      "name": "Forever Is A Charm",
-      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "It's You (Remix)",
         "url": "https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
+      },
+      "artists": [
+        {
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+        }
+      ],
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
       },
@@ -731,6 +731,38 @@
       "duration_ms": 156055,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Tief Im Wald",
+        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Tief Im Wald",
+      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 107232,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
     },
     {
       "added_at": "2024-12-12 13:00:02",
@@ -771,34 +803,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Tief Im Wald",
-        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
+        "name": "Upside",
+        "url": "https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH"
       },
       "artists": [
         {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
         }
       ],
-      "duration_ms": 218033,
-      "name": "Tief Im Wald",
-      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 107232,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
+      "duration_ms": 197328,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Upside",
-        "url": "https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH"
-      },
-      "artists": [
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 197328,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Commit",
         "url": "https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 201580,
       "name": "Commit",
       "url": "https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm"
-    },
-    {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "SLO MO",
-        "url": "https://open.spotify.com/album/6jPR5JBH1FvKG4yLVaWeiJ"
-      },
-      "artists": [
-        {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        }
-      ],
-      "duration_ms": 335043,
-      "name": "Stand Straight",
-      "url": "https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -907,6 +891,22 @@
       "duration_ms": 156516,
       "name": "When He Was Mine (Pele Fo'i Mai)",
       "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+    },
+    {
+      "added_at": "2024-11-07 11:00:00",
+      "album": {
+        "name": "SLO MO",
+        "url": "https://open.spotify.com/album/6jPR5JBH1FvKG4yLVaWeiJ"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        }
+      ],
+      "duration_ms": 335043,
+      "name": "Stand Straight",
+      "url": "https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
     },
     {
-      "added_at": "2024-12-05 13:00:00",
-      "album": {
-        "name": "English Boy",
-        "url": "https://open.spotify.com/album/1SAdTzSO67ccsq0V1urqBf"
-      },
-      "artists": [
-        {
-          "name": "PARK RD",
-          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
-        }
-      ],
-      "duration_ms": 181006,
-      "name": "English Boy",
-      "url": "https://open.spotify.com/track/5yUqq4zRde80gTdorwhJ67"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Feels Like Home",
@@ -1019,6 +1003,22 @@
       "duration_ms": 163024,
       "name": "Power (feat. Sister Nancy & Sampa the Great)",
       "url": "https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp"
+    },
+    {
+      "added_at": "2024-12-05 13:00:00",
+      "album": {
+        "name": "English Boy",
+        "url": "https://open.spotify.com/album/1SAdTzSO67ccsq0V1urqBf"
+      },
+      "artists": [
+        {
+          "name": "PARK RD",
+          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
+        }
+      ],
+      "duration_ms": 181006,
+      "name": "English Boy",
+      "url": "https://open.spotify.com/track/5yUqq4zRde80gTdorwhJ67"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/7gljHcBRrik5wrP6SCUvOY"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Harmless",
-        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 145445,
-      "name": "Harmless",
-      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
-    },
-    {
       "added_at": "2024-12-12 13:00:02",
       "album": {
         "name": "Afterthought",
@@ -1107,6 +1091,22 @@
       "duration_ms": 161559,
       "name": "Handyman.",
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Harmless",
+        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 145445,
+      "name": "Harmless",
+      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Sugar Like That",
-        "url": "https://open.spotify.com/album/6NOHZlMBXG95ldNB72ORJx"
-      },
-      "artists": [
-        {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Sugar Like That",
-      "url": "https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "HIRL",
         "url": "https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2"
       },
@@ -1211,6 +1195,42 @@
       "duration_ms": 164307,
       "name": "Country Plaines",
       "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Problem",
+        "url": "https://open.spotify.com/album/4eI5jnzb7fizU3FheBlo97"
+      },
+      "artists": [
+        {
+          "name": "Dera Meelan",
+          "url": "https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp"
+        },
+        {
+          "name": "AP",
+          "url": "https://open.spotify.com/artist/1RlUsc2blY82KdHokhpxOm"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Sugar Like That",
+        "url": "https://open.spotify.com/album/6NOHZlMBXG95ldNB72ORJx"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Sugar Like That",
+      "url": "https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr"
     },
     {
       "added_at": "2024-12-19 13:00:21",
@@ -1247,22 +1267,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Problem",
-        "url": "https://open.spotify.com/album/4eI5jnzb7fizU3FheBlo97"
+        "name": "Moneypenny",
+        "url": "https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6"
       },
       "artists": [
         {
-          "name": "Dera Meelan",
-          "url": "https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp"
-        },
-        {
-          "name": "AP",
-          "url": "https://open.spotify.com/artist/1RlUsc2blY82KdHokhpxOm"
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
         }
       ],
-      "duration_ms": 192125,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6"
+      "duration_ms": 258191,
+      "name": "Moneypenny",
+      "url": "https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1279,22 +1295,6 @@
       "duration_ms": 274838,
       "name": "Some Kind of Angel",
       "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Hell Of A Night",
-        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
-      },
-      "artists": [
-        {
-          "name": "LA WOMEN",
-          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Hell Of A Night",
-      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
     }
   ],
   "unique_name": "The Local List Aotearoa",

@@ -271,6 +271,30 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Suspended",
+        "url": "https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L"
+      },
+      "artists": [
+        {
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        },
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Florent Garcia",
+          "url": "https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh"
+        }
+      ],
+      "duration_ms": 130119,
+      "name": "Suspended",
+      "url": "https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "The Neighborhood",
         "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
       },
@@ -307,30 +331,6 @@
       "duration_ms": 94468,
       "name": "Cosmic",
       "url": "https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Suspended",
-        "url": "https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L"
-      },
-      "artists": [
-        {
-          "name": "DLJ",
-          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
-        },
-        {
-          "name": "\u00d8DYSSEE",
-          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
-        },
-        {
-          "name": "Florent Garcia",
-          "url": "https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh"
-        }
-      ],
-      "duration_ms": 130119,
-      "name": "Suspended",
-      "url": "https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
-        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
       },
       "artists": [
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
         }
       ],
-      "duration_ms": 243693,
-      "name": "Sometimes - Remix Instrumental",
-      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -615,18 +615,34 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
+        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
       },
       "artists": [
         {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+      "duration_ms": 243693,
+      "name": "Sometimes - Remix Instrumental",
+      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "SMiLE",
+        "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        }
+      ],
+      "duration_ms": 191361,
+      "name": "SMiLE",
+      "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -651,38 +667,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "CELEBRATION OF JAY 3",
-        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Rostrum",
-      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "SMiLE",
-        "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
-      },
-      "artists": [
-        {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-        }
-      ],
-      "duration_ms": 191361,
-      "name": "SMiLE",
-      "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Raincoat",
         "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
       },
@@ -695,26 +679,6 @@
       "duration_ms": 204000,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Syn Fonia I",
-        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Space Orgazm",
-      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -735,6 +699,42 @@
       "duration_ms": 123658,
       "name": "Rock",
       "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "CELEBRATION OF JAY 3",
+        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Rostrum",
+      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "Syn Fonia I",
+        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Space Orgazm",
+      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Examples",
+        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
+      },
+      "artists": [
+        {
+          "name": "Eric Lau",
+          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
+        }
+      ],
+      "duration_ms": 128496,
+      "name": "Its Rainy",
+      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "Paris Nights",
         "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
       },
@@ -827,18 +843,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Examples",
-        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
+        "name": "White Tea",
+        "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
       "artists": [
         {
-          "name": "Eric Lau",
-          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
+          "name": "Styn",
+          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
+        },
+        {
+          "name": "Bertholet",
+          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
         }
       ],
-      "duration_ms": 128496,
-      "name": "Its Rainy",
-      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+      "duration_ms": 88279,
+      "name": "White Tea",
+      "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -863,26 +883,6 @@
       "duration_ms": 141176,
       "name": "Dance of Love",
       "url": "https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "White Tea",
-        "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
-      },
-      "artists": [
-        {
-          "name": "Styn",
-          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
-        },
-        {
-          "name": "Bertholet",
-          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
-        }
-      ],
-      "duration_ms": 88279,
-      "name": "White Tea",
-      "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Bike Ride in Osaka",
-        "url": "https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis"
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
       },
       "artists": [
         {
-          "name": "tecashi",
-          "url": "https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w"
+          "name": "Karmawin",
+          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
         }
       ],
-      "duration_ms": 120014,
-      "name": "Bike Ride in Osaka",
-      "url": "https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H"
+      "duration_ms": 198466,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
+        "name": "Bike Ride in Osaka",
+        "url": "https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis"
       },
       "artists": [
         {
-          "name": "Karmawin",
-          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
+          "name": "tecashi",
+          "url": "https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
+      "duration_ms": 120014,
+      "name": "Bike Ride in Osaka",
+      "url": "https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "keep going",
-        "url": "https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        },
-        {
-          "name": "CMJ",
-          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "settle down",
-      "url": "https://open.spotify.com/track/6uyitNldOLr44QmicuClak"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 148561,
       "name": "Baby, It's Over",
       "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "keep going",
+        "url": "https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        },
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "settle down",
+      "url": "https://open.spotify.com/track/6uyitNldOLr44QmicuClak"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Jasmine Tea",
-        "url": "https://open.spotify.com/album/0AnnxGRdg76g5N4GehMSLq"
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
       },
       "artists": [
         {
-          "name": "Mujo",
-          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
         }
       ],
-      "duration_ms": 126879,
-      "name": "Jasmine Tea",
-      "url": "https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf"
+      "duration_ms": 166588,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "The Valley",
-        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
+        "name": "Jasmine Tea",
+        "url": "https://open.spotify.com/album/0AnnxGRdg76g5N4GehMSLq"
       },
       "artists": [
         {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
         }
       ],
-      "duration_ms": 166588,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
+      "duration_ms": 126879,
+      "name": "Jasmine Tea",
+      "url": "https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "duration_ms": 131350,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "Awesome City",
         "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
+        "name": "Hotel Melancholia",
+        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
       },
       "artists": [
         {
-          "name": "helistofax",
-          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
         }
       ],
-      "duration_ms": 131350,
-      "name": "Crushing",
-      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
+      "duration_ms": 147200,
+      "name": "Faded Curtains",
+      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1315,38 +1331,34 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
       },
       "artists": [
         {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
         }
       ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
+      "duration_ms": 181490,
+      "name": "Whispers in the Night",
+      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
     },
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Far Out",
-        "url": "https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux"
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b"
       },
       "artists": [
         {
-          "name": "Joe Nora",
-          "url": "https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ"
-        },
-        {
-          "name": "G Mills",
-          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
+          "name": "Peter Kind",
+          "url": "https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Far Out",
-      "url": "https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj"
+      "duration_ms": 124151,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1375,50 +1387,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b"
+        "name": "Far Out",
+        "url": "https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux"
       },
       "artists": [
         {
-          "name": "Peter Kind",
-          "url": "https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM"
-        }
-      ],
-      "duration_ms": 124151,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
-      },
-      "artists": [
+          "name": "Joe Nora",
+          "url": "https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ"
+        },
         {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+          "name": "G Mills",
+          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
         }
       ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "afternoon shower",
-        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
-      },
-      "artists": [
-        {
-          "name": "AOI",
-          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
-        }
-      ],
-      "duration_ms": 127595,
-      "name": "afternoon shower",
-      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
+      "duration_ms": 153000,
+      "name": "Far Out",
+      "url": "https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1435,6 +1419,22 @@
       "duration_ms": 249717,
       "name": "glow",
       "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "afternoon shower",
+        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
+      },
+      "artists": [
+        {
+          "name": "AOI",
+          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
+        }
+      ],
+      "duration_ms": 127595,
+      "name": "afternoon shower",
+      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
     },
     {
       "added_at": "2024-12-14 02:05:07",

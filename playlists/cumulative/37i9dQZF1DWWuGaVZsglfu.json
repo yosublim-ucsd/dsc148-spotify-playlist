@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 190365,
       "name": "Anak Raja",
       "url": "https://open.spotify.com/track/6gxdc7qX4ANNhpADTy5ENr"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 181110,
       "name": "LUV",
       "url": "https://open.spotify.com/track/5sVKk7LjR1zDKCJOwI8ZZ1"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 168956,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
@@ -2816,7 +2816,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 244759,
       "name": "Salahkah Aku?",
       "url": "https://open.spotify.com/track/4yiWEkos7y6kzqWTZGLF1l"
@@ -2964,6 +2964,28 @@
       "duration_ms": 181602,
       "name": "Say",
       "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
+    },
+    {
+      "album": {
+        "name": "Made For You",
+        "url": "https://open.spotify.com/album/1s5Prxw2pVBcOr6mQFPk9N"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        },
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160306,
+      "name": "Say It To My Face (feat. \u00d8ZI)",
+      "url": "https://open.spotify.com/track/3vx3DUR2dBpwDzeIWbbfi8"
     },
     {
       "album": {
@@ -3977,6 +3999,42 @@
     },
     {
       "album": {
+        "name": "\u5149\u9670\u526f\u672c",
+        "url": "https://open.spotify.com/album/1mr50iAkmOj4P6BfLHwD9q"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252626,
+      "name": "\u5149\u9670\u526f\u672c",
+      "url": "https://open.spotify.com/track/7KJ5U4QwsM1FHvSE3M7nLM"
+    },
+    {
+      "album": {
+        "name": "\u5357\u5317\u5927\u9053",
+        "url": "https://open.spotify.com/album/5wE5SEf4sRYOw89E7txLMz"
+      },
+      "artists": [
+        {
+          "name": "3P",
+          "url": "https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261008,
+      "name": "\u5357\u5317\u5927\u9053",
+      "url": "https://open.spotify.com/track/5w4Nh8Cs2QDK9MOOBSh8Gp"
+    },
+    {
+      "album": {
         "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
         "url": "https://open.spotify.com/album/6cIC9hz4plOw5m0BKp0d8w"
       },
@@ -4084,6 +4142,28 @@
       "duration_ms": 249975,
       "name": "\u82b1\u671f\u4e0d\u540c",
       "url": "https://open.spotify.com/track/4hiZAk9b9j0WWFoYr9pyz0"
+    },
+    {
+      "album": {
+        "name": "\u904e\u4e86\u5e7e\u5929 (\u5408\u5531\u7248)",
+        "url": "https://open.spotify.com/album/4QPASVPRUjfXR73hmxVAJa"
+      },
+      "artists": [
+        {
+          "name": "\u90ed\u5bb6\u744b",
+          "url": "https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X"
+        },
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295890,
+      "name": "\u904e\u4e86\u5e7e\u5929 - \u5408\u5531\u7248",
+      "url": "https://open.spotify.com/track/0qjbNZYyuzPh20RksmiJ8C"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu"

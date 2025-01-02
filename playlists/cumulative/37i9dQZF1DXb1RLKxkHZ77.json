@@ -6795,6 +6795,24 @@
     },
     {
       "album": {
+        "name": "Mencintaimu (From: 2nd Miracle in Cell No.7)",
+        "url": "https://open.spotify.com/album/0TzkM6DQnhO5jydrJu2IyK"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Mencintaimu - (From: 2nd Miracle in Cell No.7)",
+      "url": "https://open.spotify.com/track/2gsRMFzelZuRQo8r11RsLr"
+    },
+    {
+      "album": {
         "name": "Mencuba",
         "url": "https://open.spotify.com/album/55ZxfSKNYReZpogQQGnZG9"
       },
@@ -9642,7 +9660,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 222118,
       "name": "Semacam Pandora",
       "url": "https://open.spotify.com/track/0aSs0POtkVzsxIqIrHVfSO"

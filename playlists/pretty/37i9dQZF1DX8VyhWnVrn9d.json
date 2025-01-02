@@ -1,6 +1,6 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 294416,
+  "num_followers": 294736,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 167544,
+      "name": "Eva Mar\u00eda",
+      "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
+    },
+    {
+      "added_at": "2024-07-03 18:04:00",
+      "album": {
         "name": "Con Sangre Norte\u00f1a, Vol.1",
         "url": "https://open.spotify.com/album/3OHuKWtnBLmt9D3ZZU1QC6"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 206600,
       "name": "Nosotros Tambi\u00e9n Podemos",
       "url": "https://open.spotify.com/track/0pyoQa5euHAX9tadX92UqK"
-    },
-    {
-      "added_at": "2024-07-03 18:04:00",
-      "album": {
-        "name": "California Adios",
-        "url": "https://open.spotify.com/album/4I2zlM5v9g50h1POVFD9Mp"
-      },
-      "artists": [
-        {
-          "name": "Banda Guadalajara Express",
-          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
-        }
-      ],
-      "duration_ms": 165929,
-      "name": "Anda Borracho El Buey",
-      "url": "https://open.spotify.com/track/4qoKGWLcsYKkCDJnWxMJUG"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
+        "name": "California Adios",
+        "url": "https://open.spotify.com/album/4I2zlM5v9g50h1POVFD9Mp"
       },
       "artists": [
         {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+          "name": "Banda Guadalajara Express",
+          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
         }
       ],
-      "duration_ms": 167544,
-      "name": "Eva Mar\u00eda",
-      "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
+      "duration_ms": 165929,
+      "name": "Anda Borracho El Buey",
+      "url": "https://open.spotify.com/track/4qoKGWLcsYKkCDJnWxMJUG"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -955,8 +955,8 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "A Bailar De Caballito",
+        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 208689,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
+      "duration_ms": 215138,
+      "name": "Mambo Lupita",
+      "url": "https://open.spotify.com/track/2bPotQOSSXnitoVeZbtJDT"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2024-07-03 18:04:00",
       "album": {
-        "name": "A Bailar De Caballito",
-        "url": "https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5"
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 215138,
-      "name": "Mambo Lupita",
-      "url": "https://open.spotify.com/track/2bPotQOSSXnitoVeZbtJDT"
+      "duration_ms": 212746,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
     },
     {
       "added_at": "2024-07-03 18:04:00",
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
+      "duration_ms": 208689,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
     },
     {
       "added_at": "2024-07-03 18:04:00",

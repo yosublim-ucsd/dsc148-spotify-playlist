@@ -2221,6 +2221,36 @@
     },
     {
       "album": {
+        "name": "Alibi (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/1r1YHfotZZYbPGFTcgTolM"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "Alibi - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/519rzZg4a0OfzmQqBzyEB2"
+    },
+    {
+      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/59x0oi366aVyMgicwDRDgu"
       },
@@ -2498,6 +2528,32 @@
       "duration_ms": 177992,
       "name": "AMG",
       "url": "https://open.spotify.com/track/4isk59pWqyIpGfokr3cTBI"
+    },
+    {
+      "album": {
+        "name": "Amore Mio",
+        "url": "https://open.spotify.com/album/3ix0drppI1X2JLWHnqT1CB"
+      },
+      "artists": [
+        {
+          "name": "Boski Heniek",
+          "url": "https://open.spotify.com/artist/7J9KyOmHMSnBDRAeUI6l8y"
+        },
+        {
+          "name": "Malos",
+          "url": "https://open.spotify.com/artist/3OdmlGMulK5p79loAQaCEr"
+        },
+        {
+          "name": "Nerus",
+          "url": "https://open.spotify.com/artist/5GrBKeE919oi9ffTU5HyUt"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161595,
+      "name": "Amore Mio",
+      "url": "https://open.spotify.com/track/1z5ZZ8pSPvcepnf9j4xFb2"
     },
     {
       "album": {
@@ -3278,7 +3334,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 138600,
       "name": "B012",
       "url": "https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt"
@@ -4438,7 +4494,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 174246,
       "name": "BFF",
       "url": "https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU"
@@ -11015,6 +11071,28 @@
     },
     {
       "album": {
+        "name": "Heca",
+        "url": "https://open.spotify.com/album/6zLgFeNNs1JxPHawGEkU90"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150834,
+      "name": "Dzi\u0119ki, \u017ce jeste\u015b",
+      "url": "https://open.spotify.com/track/6mtyMWr8cDvLroVQgR3UC9"
+    },
+    {
+      "album": {
         "name": "Dzi\u0119ki, \u017ce jeste\u015b",
         "url": "https://open.spotify.com/album/1xZK3hGpenKMFKYuD6FA6D"
       },
@@ -11500,7 +11578,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 175582,
       "name": "Erotyczne Pif-Paf",
       "url": "https://open.spotify.com/track/1xHbeaBnk5tV1BEInmVKlw"
@@ -14640,7 +14718,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 128571,
       "name": "hellstar",
       "url": "https://open.spotify.com/track/7HDeP774T5HQlHISFg4v5O"
@@ -15716,7 +15794,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -16610,7 +16688,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 199512,
       "name": "ITALODISCO",
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
@@ -19366,7 +19444,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 141288,
       "name": "Kocie oczy",
       "url": "https://open.spotify.com/track/3d0CMq8PaxTOaZoGnpa8to"
@@ -20663,6 +20741,48 @@
     },
     {
       "album": {
+        "name": "Hotel Maffija 2",
+        "url": "https://open.spotify.com/album/73xFBg1qVPQMBaViiqxZ8I"
+      },
+      "artists": [
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214253,
+      "name": "Lawenda",
+      "url": "https://open.spotify.com/track/7niKvvcvyBcVqADldDftBj"
+    },
+    {
+      "album": {
         "name": "LAXJFK",
         "url": "https://open.spotify.com/album/4fFEVT8cGAPCN99Fzwk6Hs"
       },
@@ -21732,7 +21852,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -21828,7 +21948,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 159463,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/38GSwzJGcEnENqcrZ8dADJ"
@@ -22244,7 +22364,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 202054,
       "name": "MAMA POWTARZA\u0141A",
       "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
@@ -23036,7 +23156,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -28483,6 +28603,28 @@
     },
     {
       "album": {
+        "name": "MT",
+        "url": "https://open.spotify.com/album/3uoQXegWAvSqSYLRtqBh1g"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Kuba\u0144czyk",
+          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
+      "url": "https://open.spotify.com/track/47It9cPiMz74aAXKMAbfO0"
+    },
+    {
+      "album": {
         "name": "ostatnia nadzieja",
         "url": "https://open.spotify.com/album/3LunLj7fiUtXVbikh5GMRa"
       },
@@ -28700,7 +28842,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -29568,7 +29710,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 189428,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/6wyJltdOuSjUt1bdwO4QCZ"
@@ -30514,7 +30656,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 192021,
       "name": "Pi\u0119knie p\u0142yniesz",
       "url": "https://open.spotify.com/track/5XIAnKNsdUim7GQsekL3uE"
@@ -30602,7 +30744,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 155056,
       "name": "Plaster",
       "url": "https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO"
@@ -34022,7 +34164,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -36299,6 +36441,28 @@
     },
     {
       "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "album": {
         "name": "Sto tysi\u0119cy razy",
         "url": "https://open.spotify.com/album/5pXThBEiVQEGbhGn94jS2g"
       },
@@ -36480,7 +36644,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -36654,7 +36818,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 195701,
       "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
       "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
@@ -38021,6 +38185,24 @@
     },
     {
       "album": {
+        "name": "Kr\u00f3l Latino",
+        "url": "https://open.spotify.com/album/7h4AEdF2MKbSlBn0CSszYW"
+      },
+      "artists": [
+        {
+          "name": "Skolim",
+          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187637,
+      "name": "TEMPERATURA",
+      "url": "https://open.spotify.com/track/0U29CCc7QjzPRdfiWMFzrT"
+    },
+    {
+      "album": {
         "name": "TEMPERATURA",
         "url": "https://open.spotify.com/album/2It9gjuH01t3m64wyzJOpX"
       },
@@ -38692,7 +38874,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
@@ -38794,7 +38976,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -40174,7 +40356,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 160588,
       "name": "UMOWA",
       "url": "https://open.spotify.com/track/1aSSU4UUWipkmXIpOdCKj0"
@@ -40549,6 +40731,28 @@
     },
     {
       "album": {
+        "name": "Emigrante Del Mundo (Remastered)",
+        "url": "https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ"
+      },
+      "artists": [
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "Big Ali",
+          "url": "https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199235,
+      "name": "Vem Dancar Kuduro",
+      "url": "https://open.spotify.com/track/6ku3i5WNrsY3qhOq6ua9TL"
+    },
+    {
+      "album": {
         "name": "club2020",
         "url": "https://open.spotify.com/album/7C8H2mwiwBRKFpi5KeGKfT"
       },
@@ -40598,7 +40802,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 202506,
       "name": "VHS",
       "url": "https://open.spotify.com/track/7t3iKbFf34FK5syqppOlIx"
@@ -41526,7 +41730,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -42076,7 +42280,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 191304,
       "name": "Woda Ksi\u0119\u017cycowa",
       "url": "https://open.spotify.com/track/1usq8LPUPjpF1TxLXTOJ82"

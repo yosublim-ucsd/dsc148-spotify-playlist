@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 5 hr 16 min
+111 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [PAIN](https://open.spotify.com/track/25Y67zPEMWvXTHtR62fNcL) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [OMA](https://open.spotify.com/album/4yGaHOl9yRj36O5VSYEfJL) | 2:09 | 2024-07-11 |  |
 | [PAIN](https://open.spotify.com/track/7noiirqWf873QPe1jHDNDG) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [OMA](https://open.spotify.com/album/2z63Hv1guNfteDwzK26QIs) | 2:09 | 2023-12-13 | 2024-06-13 |
 | [Parkdale Cartel Freestyle II](https://open.spotify.com/track/5fw1uFoX6GAL8fcdHsaIbS) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:11 | 2023-12-13 |  |
+| [People Die Everyday](https://open.spotify.com/track/5ik4LwrrEvbmtxw7runtXW) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:45 | 2025-01-01 |  |
 | [PHASES](https://open.spotify.com/track/391dFUx8OCMNhMI9uXM7Ph) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 2:24 | 2023-12-13 |  |
 | [Questions \(feat\. Future\)](https://open.spotify.com/track/4EtMpvyRyklyTqyL3Xrm8K) | [Nebu Kiniza](https://open.spotify.com/artist/5lCY3tqdQxbeg5igSlObaT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Back2Lyfe](https://open.spotify.com/album/1ReW4ETxA99F6gxzjjhnLS) | 3:04 | 2023-12-13 |  |
 | [Realist / Outro](https://open.spotify.com/track/5ppW5OaqSE1IodXnBdEaLO) | [Hudson East](https://open.spotify.com/artist/0DwPrw4Zd15m2cdnpbwGKq) | [Eastway](https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D) | 5:15 | 2023-12-13 |  |

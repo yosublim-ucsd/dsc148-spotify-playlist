@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37909,
+  "num_followers": 37906,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAAh9M5Ev664pRDzTiBdt/9e",
+  "snapshot_id": "Z3M0AAAAAADTp8r0iv0XnCt78/h5/Uzd",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 261972,
+      "name": "Jugo Suave",
+      "url": "https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rever\u00eancia",
         "url": "https://open.spotify.com/album/45uM5B2CygJtkJbOITfJDW"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 425791,
       "name": "Rever\u00eancia",
       "url": "https://open.spotify.com/track/2UFJzVWa6KR6fGHQWMUnEs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 261972,
-      "name": "Jugo Suave",
-      "url": "https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Principio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Daniela Ara\u00fajo",
         "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
       },
@@ -471,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Principio (Ao Vivo)",
         "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
       },
@@ -484,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 254880,
-      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
+      "duration_ms": 467853,
+      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
     },
     {
       "added_at": null,
@@ -519,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fam\u00edlia Soul (Ao Vivo)",
         "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 276986,
       "name": "Um Servo - Ao Vivo",
       "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Principio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 467853,
-      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inexplic\u00e1vel",
-        "url": "https://open.spotify.com/album/3xvDPpayacdcLevke66mzK"
-      },
-      "artists": [
-        {
-          "name": "Luciano Claw",
-          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Te Agrade\u00e7o (Inexplic\u00e1vel) [feat. Daniela Ara\u00fajo]",
-      "url": "https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inexplic\u00e1vel",
+        "url": "https://open.spotify.com/album/3xvDPpayacdcLevke66mzK"
+      },
+      "artists": [
+        {
+          "name": "Luciano Claw",
+          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Te Agrade\u00e7o (Inexplic\u00e1vel) [feat. Daniela Ara\u00fajo]",
+      "url": "https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI"
     },
     {
       "added_at": null,

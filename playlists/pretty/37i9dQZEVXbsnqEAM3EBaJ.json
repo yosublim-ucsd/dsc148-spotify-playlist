@@ -6,8 +6,40 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB0H1+B0GzPJGSUNj3NiIk6",
+  "snapshot_id": "AAAAAAAAAACJtoPdrD9daa4WASccu6d4",
   "tracks": [
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Sapphic Sorcery",
+        "url": "https://open.spotify.com/album/03Tit1BY1PNZH47jHjQ3xr"
+      },
+      "artists": [
+        {
+          "name": "Vampyress",
+          "url": "https://open.spotify.com/artist/43iKv4D8cCjd7HO1dka4x1"
+        }
+      ],
+      "duration_ms": 296472,
+      "name": "Undead Legion MKII",
+      "url": "https://open.spotify.com/track/3dRPfBUmjDFiJGqjteuHeX"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "The Phoenix",
+        "url": "https://open.spotify.com/album/1Us2yOOioRTXT0v8XWIBUS"
+      },
+      "artists": [
+        {
+          "name": "Edgar Allan Poets",
+          "url": "https://open.spotify.com/artist/5mZdIbYWNKUrLTf0lbrKg4"
+        }
+      ],
+      "duration_ms": 277913,
+      "name": "The Phoenix",
+      "url": "https://open.spotify.com/track/43SBY0qX3cK0nZaMcpjGSf"
+    },
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
@@ -47,6 +79,42 @@
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
+        "name": "The View From a Memorial Bench",
+        "url": "https://open.spotify.com/album/439Shb8IHASJxTKw59fsJo"
+      },
+      "artists": [
+        {
+          "name": "Martyrs",
+          "url": "https://open.spotify.com/artist/39WNEIrCYtDyQHRb7x3oqt"
+        }
+      ],
+      "duration_ms": 256290,
+      "name": "The View From a Memorial Bench",
+      "url": "https://open.spotify.com/track/2NOZ9sYYbGXEZraWrxlfSB"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Old Time Rock & Roll",
+        "url": "https://open.spotify.com/album/5nTQxVDqTIzp38lkS7kbdM"
+      },
+      "artists": [
+        {
+          "name": "Catej Molic",
+          "url": "https://open.spotify.com/artist/0OHQDEOAfim7hPLfOYgLS1"
+        },
+        {
+          "name": "Savage Sons",
+          "url": "https://open.spotify.com/artist/1YEEbHKA7t5pYoNnjtHSzP"
+        }
+      ],
+      "duration_ms": 158695,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/03zsLaNpPyZfnCK5WUqISR"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
         "name": "Spider Lilly",
         "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
       },
@@ -75,22 +143,6 @@
       "duration_ms": 269701,
       "name": "Mentalidad Televisiva - Versi\u00f3n 1984",
       "url": "https://open.spotify.com/track/3TyjcfHmZpZgjaOwm6hONT"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Du bist alles was ich will",
-        "url": "https://open.spotify.com/album/6oKTf4HIhkzvPN0ftQO1xe"
-      },
-      "artists": [
-        {
-          "name": "Lacrimosa",
-          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
-        }
-      ],
-      "duration_ms": 341546,
-      "name": "Du bist alles was ich will",
-      "url": "https://open.spotify.com/track/2NPeM9G213JoNkna1TdtpE"
     },
     {
       "added_at": "2024-12-27 03:00:00",
@@ -143,38 +195,6 @@
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "White Bikes",
-        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "White Bikes",
-      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Some Dreams",
-        "url": "https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 288005,
-      "name": "Some Dreams",
-      "url": "https://open.spotify.com/track/49iWkFT4uK14pzDS6uAR7z"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
         "name": "Los Bunkers (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 290752,
       "name": "Quiero Dormir Cansado - MTV Unplugged",
       "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
       "added_at": "2024-12-27 03:00:00",
@@ -271,38 +271,6 @@
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "Santa Claus Is Coming To Town",
-        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 119639,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Sail with the Dead (Orchestral Version)",
-        "url": "https://open.spotify.com/album/7JvvaFsJjCnmEr4OdjEd5v"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 282257,
-      "name": "Sail with the Dead - Orchestral Version",
-      "url": "https://open.spotify.com/track/5XVxbwNbYzDU4hhmQm7LJC"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
         "name": "Downfall (Dialective, Protoss & Short Circuit Remix)",
         "url": "https://open.spotify.com/album/2XbitQOjmcsWqiWZo4hqDZ"
       },
@@ -327,18 +295,18 @@
     {
       "added_at": "2024-12-27 03:00:00",
       "album": {
-        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
-        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
+        "name": "Sail with the Dead (Orchestral Version)",
+        "url": "https://open.spotify.com/album/7JvvaFsJjCnmEr4OdjEd5v"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
         }
       ],
-      "duration_ms": 245373,
-      "name": "Ring Out Solstice Bells - 2024 Remix",
-      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
+      "duration_ms": 282257,
+      "name": "Sail with the Dead - Orchestral Version",
+      "url": "https://open.spotify.com/track/5XVxbwNbYzDU4hhmQm7LJC"
     },
     {
       "added_at": "2024-12-27 03:00:00",
@@ -355,6 +323,58 @@
       "duration_ms": 241501,
       "name": "\u9065\u304b\u5f7c\u65b9 - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/4WEZMn207l6d31ZMhLCLZw"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
+        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Ring Out Solstice Bells - 2024 Remix",
+      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 119639,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
+    },
+    {
+      "added_at": "2024-12-27 03:00:00",
+      "album": {
+        "name": "Vida (Remixes)",
+        "url": "https://open.spotify.com/album/6Ct1mQa8DwYATBFDQuJYUG"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "DJ TEE",
+          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Ni\u00f1x - DJ TEE Remix",
+      "url": "https://open.spotify.com/track/6J9EqqULWhgtV8B9CzodIh"
     },
     {
       "added_at": "2024-12-27 03:00:00",
@@ -383,26 +403,6 @@
       "duration_ms": 216584,
       "name": "Seasons \u00f8f Life",
       "url": "https://open.spotify.com/track/3J2f43S2gOqEOgz0Hi5tkQ"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Vida (Remixes)",
-        "url": "https://open.spotify.com/album/6Ct1mQa8DwYATBFDQuJYUG"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        },
-        {
-          "name": "DJ TEE",
-          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Ni\u00f1x - DJ TEE Remix",
-      "url": "https://open.spotify.com/track/6J9EqqULWhgtV8B9CzodIh"
     },
     {
       "added_at": "2024-12-27 03:00:00",
@@ -547,22 +547,6 @@
       "duration_ms": 189418,
       "name": "Breathless - Warren Remix",
       "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
-    },
-    {
-      "added_at": "2024-12-27 03:00:00",
-      "album": {
-        "name": "Coraz\u00f3n de Im\u00e1n (Homenaje a Medell\u00edn)",
-        "url": "https://open.spotify.com/album/3h3ErEec09J09JoWPrTadq"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 128899,
-      "name": "Coraz\u00f3n de Im\u00e1n (Homenaje a Medell\u00edn)",
-      "url": "https://open.spotify.com/track/3KdfkucMpM4qIFHTYRXNKM"
     },
     {
       "added_at": "2024-12-27 03:00:00",

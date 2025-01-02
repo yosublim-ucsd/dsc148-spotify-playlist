@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 21354,
+  "num_followers": 21358,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABsod/MTLB0jPUnpskjSGbZ",
+  "snapshot_id": "Z3M0AAAAAAA0YGKDjBbxoCQIGXwlfyAb",
   "tracks": [
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Found a Way",
-        "url": "https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy"
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 225533,
-      "name": "I Found a Way",
-      "url": "https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO"
+      "duration_ms": 143893,
+      "name": "Cringe",
+      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddamnit!",
-        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
+        "name": "I Found a Way",
+        "url": "https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 143893,
-      "name": "Cringe",
-      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
+      "duration_ms": 225533,
+      "name": "I Found a Way",
+      "url": "https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO"
     },
     {
       "added_at": null,

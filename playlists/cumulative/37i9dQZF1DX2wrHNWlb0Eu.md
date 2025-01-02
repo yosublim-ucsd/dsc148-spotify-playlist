@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-189 songs - 11 hr 43 min
+190 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [ข้างกัน \(City\)](https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:56 | 2023-02-10 |  |
 | [ข้าน้อยสมควรตาย](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 3:51 | 2023-02-10 |  |
 | [คนที่แสนธรรมดา feat\. Na Polycat](https://open.spotify.com/track/68i6L61qFCI79hD3kRrdwG) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [คนที่แสนธรรมดา feat\. Na Polycat](https://open.spotify.com/album/6payxbbvQLVLkNlRmlAiN0) | 4:33 | 2023-02-10 | 2023-10-07 |
-| [คนในฝัน \(เพลงประกอบละคร ฝันเฟื่อง\)](https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON) | [Mr.Team](https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH) | [Best of MR.TEAM](https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl) | 4:03 | 2024-03-16 |  |
+| [คนในฝัน \(เพลงประกอบละคร ฝันเฟื่อง\)](https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON) | [Mr.Team](https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH) | [Best of MR.TEAM](https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl) | 4:03 | 2024-03-16 | 2025-01-02 |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2023-02-10 |  |
 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 | 2024-09-18 |  |
 | [ความรักกำลังก่อตัว](https://open.spotify.com/track/0Xo1zj7ol0WMN3VltQxhRW) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รวมเพลงมีผลต่อหัวใจ](https://open.spotify.com/album/3iAjy7MQQBhsWQrEuoGWwm) | 5:21 | 2023-02-10 | 2024-04-19 |
@@ -112,6 +112,7 @@
 | [มีเธอทุกวันก็โอนิ](https://open.spotify.com/track/3seGmbdxubyOV7rAnUYAWh) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [DJ ONO](https://open.spotify.com/artist/5y5uIxi74ZKx7GvuevA7CU), [Pimtha](https://open.spotify.com/artist/4aK59Ov4CA7YAnuKHKsnSu) | [มีเธอทุกวันก็โอนิ](https://open.spotify.com/album/30NpS3bdoQuLb6zhSuTC4H) | 3:04 | 2023-02-10 |  |
 | [ยอม \(Surrender\)](https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ยอม \(Surrender\)](https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq) | 3:15 | 2024-09-18 | 2024-11-25 |
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2023-10-06 |  |
+| [ยิ้มก็พอ feat\. Wonderframe](https://open.spotify.com/track/089OggImoTkmiPMVtVAs3I) | [TOR Saksit](https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR), [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [ยิ้มก็พอ](https://open.spotify.com/album/0IsfsMc7MH55yjHssa3Mfd) | 4:05 | 2024-12-31 |  |
 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 | 2024-02-12 |  |
 | [รอ](https://open.spotify.com/track/72hhTWu9CZwZan3iC3U3DS) | [Basketband](https://open.spotify.com/artist/0x6cwE90aYe5YXaImt5MQj) | [รอ](https://open.spotify.com/album/3vW7yJhsN0dWG2tuApv8EW) | 3:36 | 2023-02-10 | 2024-08-24 |
 | [รอยยิ้ม](https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [clean](https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2) | 4:18 | 2023-02-10 |  |

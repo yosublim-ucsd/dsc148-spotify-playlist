@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4013437,
+  "num_followers": 4013236,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Not About Angels",
-        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 189475,
-      "name": "Not About Angels",
-      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "B'Day Deluxe Edition",
         "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 227853,
       "name": "Irreplaceable",
       "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Not About Angels",
+        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 189475,
+      "name": "Not About Angels",
+      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Intro",
-        "url": "https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Superficial Love",
-      "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 189186,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Intro",
+        "url": "https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Superficial Love",
+      "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "I Won't Give Up",
+        "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 240165,
+      "name": "I Won't Give Up",
+      "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Self Portrait",
         "url": "https://open.spotify.com/album/5UZriQSHZOJOjqUtPE5lpg"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 224743,
       "name": "You Said You'd Grow Old With Me",
       "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "I Won't Give Up",
-        "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 240165,
-      "name": "I Won't Give Up",
-      "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2771,6 +2771,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Isaiah",
+        "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
       },
@@ -2783,6 +2799,22 @@
       "duration_ms": 164129,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Magnetised (Acoustic)",
+        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292186,
+      "name": "Magnetised - Acoustic",
+      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2803,38 +2835,6 @@
       "duration_ms": 203300,
       "name": "Is It Just Me? (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Isaiah",
-        "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Magnetised (Acoustic)",
-        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "Magnetised - Acoustic",
-      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2875,22 +2875,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/5uicIhSFTrEr6hXoS2q7V2"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 240790,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/7fkXzzIVo98CgjOkpd9H0V"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP"
       },
@@ -2903,6 +2887,22 @@
       "duration_ms": 257483,
       "name": "Say You Love Me",
       "url": "https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/5uicIhSFTrEr6hXoS2q7V2"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 240790,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/7fkXzzIVo98CgjOkpd9H0V"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -3051,22 +3035,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Oceans - EP",
-        "url": "https://open.spotify.com/album/2tnJaZfDk3kqCpDzOTSUFi"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 216186,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/7Cia4WzapwjMr0NUQF8vf3"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/13bRrqlPDErhpXDUxYQCUU"
       },
@@ -3079,6 +3047,38 @@
       "duration_ms": 247493,
       "name": "Sinking Ship",
       "url": "https://open.spotify.com/track/7orUPsozJ19Cyxv5ozoREr"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Oceans - EP",
+        "url": "https://open.spotify.com/album/2tnJaZfDk3kqCpDzOTSUFi"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 216186,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/7Cia4WzapwjMr0NUQF8vf3"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3119,6 +3119,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN"
       },
@@ -3155,22 +3171,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 173237,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Black Hole (Acoustic Version)",
         "url": "https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD"
       },
@@ -3187,22 +3187,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Give Me Something",
-      "url": "https://open.spotify.com/track/1au9q3wiWxIwXTazIjHdfF"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Breakups",
         "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
       },
@@ -3215,6 +3199,22 @@
       "duration_ms": 223129,
       "name": "Breakups",
       "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "Give Me Something",
+      "url": "https://open.spotify.com/track/1au9q3wiWxIwXTazIjHdfF"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3287,18 +3287,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Mercy (Acoustic Guitar)",
-        "url": "https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV"
+        "name": "Be Okay",
+        "url": "https://open.spotify.com/album/5VXh2yi3JTIRgn1zaeQe19"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
         }
       ],
-      "duration_ms": 221200,
-      "name": "Mercy - Acoustic Guitar",
-      "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
+      "duration_ms": 165715,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/1kJ9iysFb93KSeorhV109C"
     }
   ],
   "unique_name": "Life Sucks",

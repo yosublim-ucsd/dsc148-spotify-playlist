@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 34073,
+  "num_followers": 34084,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAADbeVfFlGmWTnta8pvWCWEn",
+  "snapshot_id": "Z3M0AAAAAACg7jbuWLPrOB+494GXjoD7",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
-        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 415653,
-      "name": "Cerro de la Virgen",
-      "url": "https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2"
+      "duration_ms": 302560,
+      "name": "Cholito Pantal\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 302560,
-      "name": "Cholito Pantal\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
+      "duration_ms": 415653,
+      "name": "Cerro de la Virgen",
+      "url": "https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2"
     },
     {
       "added_at": null,

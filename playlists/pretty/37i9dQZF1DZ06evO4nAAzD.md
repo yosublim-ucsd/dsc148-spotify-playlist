@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 
 > This is Hyperanhas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,073 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,071 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 44 | [Tipo Trem Bala](https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Tipo Trem Bala](https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc) | 3:01 |
 | 45 | [Quer Ibope](https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU) | [MARIAH](https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Quer Ibope](https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x) | 3:43 |
 | 46 | [Set Dj Br da Tijuca 3](https://open.spotify.com/track/1xQABs4bfvIunZOZ4Ov0im) | [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Mc KF](https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA), [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Leo da Zona Sul](https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Agatha](https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Set Dj Br da Tijuca 3](https://open.spotify.com/album/01aO02GNBxfZPcYu7C48pc) | 6:39 |
-| 47 | [Chamo Ela Vem](https://open.spotify.com/track/3fVMUkxJJid5GCCeaHuF1Y) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [ECLÉTICO](https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn) | 4:13 |
-| 48 | [Gelo no Copo \- Remix](https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63) | [Cufe](https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Gelo no Copo \(Remix\)](https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM) | 2:50 |
+| 47 | [Gelo no Copo \- Remix](https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63) | [Cufe](https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Gelo no Copo \(Remix\)](https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM) | 2:50 |
+| 48 | [Chamo Ela Vem](https://open.spotify.com/track/3fVMUkxJJid5GCCeaHuF1Y) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [ECLÉTICO](https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn) | 4:13 |
 | 49 | [Decolar](https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Decolar](https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi) | 3:16 |
 | 50 | [No meu Flat](https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Buddy](https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa) | [No meu Flat](https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt) | 4:02 |
 
-Snapshot ID: `Z3HigAAAAAD+ekgPEJTyl+uI9JgAKF1E`
+Snapshot ID: `Z3M0AAAAAAAOFvymKhvKBXypP9jbBf13`

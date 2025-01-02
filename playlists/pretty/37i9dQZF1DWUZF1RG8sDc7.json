@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 142008,
+  "num_followers": 142085,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -371,18 +371,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Con Altura",
-        "url": "https://open.spotify.com/album/5jejUhn3xyKXuk4jCoqycP"
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
       "artists": [
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 284473,
-      "name": "Vives En Mi",
-      "url": "https://open.spotify.com/track/4jOsVBZsUDaAvguaywRL9J"
+      "duration_ms": 312783,
+      "name": "Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -407,22 +411,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/5jejUhn3xyKXuk4jCoqycP"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
         }
       ],
-      "duration_ms": 312783,
-      "name": "Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
+      "duration_ms": 284473,
+      "name": "Vives En Mi",
+      "url": "https://open.spotify.com/track/4jOsVBZsUDaAvguaywRL9J"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 307720,
+      "name": "Las Razones Del Amor",
+      "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "La Combinaci\u00f3n Vallenata",
         "url": "https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+        "name": "Adi\u00f3s A La Diosa",
+        "url": "https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
         }
       ],
-      "duration_ms": 267840,
-      "name": "A Besitos",
-      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
+      "duration_ms": 277000,
+      "name": "Me Dejaste Sin Nada",
+      "url": "https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1091,26 +1107,6 @@
       "duration_ms": 247813,
       "name": "Traga'o De Ti",
       "url": "https://open.spotify.com/track/3xOKZR7rwQYEx7l5Mc9jQ6"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Historia Musical",
-        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
-      },
-      "artists": [
-        {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "David Rendon",
-          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
-        }
-      ],
-      "duration_ms": 306280,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

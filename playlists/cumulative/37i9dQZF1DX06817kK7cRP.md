@@ -4,10 +4,11 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-211 songs - 9 hr 14 min
+212 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Good Run](https://open.spotify.com/track/69vhTmt6CEyYHrM6rA1B4P) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [A Good Run](https://open.spotify.com/album/6uNvmepdDMBSTwWWVzBBzG) | 2:16 | 2024-11-12 |  |
 | [Abduction](https://open.spotify.com/track/0tQHFnqCqhvR6tv0COYl6o) | [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Monaqee](https://open.spotify.com/artist/4EGwgTccVIMRAeJbpcIlaq), [Vanis](https://open.spotify.com/artist/3tMBRTfZnB4VrAvooWzbrz) | [Abduction](https://open.spotify.com/album/5D9Rzhx22E3YGaZ9wGlKjy) | 2:30 | 2023-01-12 |  |
 | [act n' chill](https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [act n' chill](https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1) | 2:12 | 2024-06-07 |  |
 | [AI\-Music](https://open.spotify.com/track/3Av9I4jCysxCP4IscYJ3wJ) | [Dean Staffs](https://open.spotify.com/artist/36e0RyjykLGS9GkOp7rG8W) | [AI\-Music](https://open.spotify.com/album/5c8MgxHLFTH0vrBGoFvldU) | 3:35 | 2023-04-27 | 2023-06-02 |
@@ -123,7 +124,7 @@
 | [Millia](https://open.spotify.com/track/0sUNV4asStRuzKZt00srik) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Millia](https://open.spotify.com/album/33LQ8V4TyHEcjR9mCiEv2x) | 2:20 | 2024-06-28 |  |
 | [Modified Strat Mode](https://open.spotify.com/track/3PPGiojAjFUI7nuaW3mNAY) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Modified Strat Mode](https://open.spotify.com/album/24ziSm20W3yM9ZGsqqawZG) | 1:57 | 2023-04-20 | 2023-08-19 |
 | [Mood Swings](https://open.spotify.com/track/0hcX7etCRdZALhZEV33Vip) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Niklas Nadidai](https://open.spotify.com/artist/7xG4xBlSjxQnDcToJoVs0Q) | [Mood Swings](https://open.spotify.com/album/36xWvXUdongzxhblaAyjZl) | 2:21 | 2024-08-23 |  |
-| [Moonlit](https://open.spotify.com/track/1aN1Dfdg1Fw7vkVHEV02jm) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Moonlit](https://open.spotify.com/album/08eQz5C2sWlA8ivM5qv7RZ) | 1:52 | 2024-07-25 |  |
+| [Moonlit](https://open.spotify.com/track/1aN1Dfdg1Fw7vkVHEV02jm) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Moonlit](https://open.spotify.com/album/08eQz5C2sWlA8ivM5qv7RZ) | 1:52 | 2024-07-25 | 2025-01-02 |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2023-01-12 | 2023-03-29 |
 | [Moonwalker](https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Moonwalker](https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS) | 2:42 | 2023-11-26 | 2024-10-10 |
 | [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 | 2023-11-26 | 2024-12-16 |

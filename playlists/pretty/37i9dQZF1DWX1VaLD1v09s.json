@@ -1,6 +1,6 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 80508,
+  "num_followers": 80523,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "We Believe",
+      "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 568786,
       "name": "Broken Vessels (Amazing Grace) - Live",
       "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Restart",
-        "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "We Believe",
-      "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -587,22 +587,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "let there be light.",
-        "url": "https://open.spotify.com/album/5afUmwQPcIv6g6Yi5DW7VB"
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 426320,
-      "name": "Grace To Grace",
-      "url": "https://open.spotify.com/track/6arhFMHHQFVAKUINBs8wjQ"
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -623,22 +619,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 498426,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 300026,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "let there be light.",
+        "url": "https://open.spotify.com/album/5afUmwQPcIv6g6Yi5DW7VB"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 426320,
+      "name": "Grace To Grace",
+      "url": "https://open.spotify.com/track/6arhFMHHQFVAKUINBs8wjQ"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
-        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 329213,
-      "name": "O Praise The Name (An\u00e1stasis) - Live",
-      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Passion: Let The Future Begin",
         "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 280880,
       "name": "Glorious Day (Living He Loved Me)",
       "url": "https://open.spotify.com/track/0co8dS1eYzTanYw3N5BEvM"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
+        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 329213,
+      "name": "O Praise The Name (An\u00e1stasis) - Live",
+      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 288134,
+      "name": "Jerusalem",
+      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Poets & Saints",
         "url": "https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 253706,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Yours Alone",
-        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 288134,
-      "name": "Jerusalem",
-      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 278779,
-      "name": "Even Unto Death",
-      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "For God Is With Us",
         "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 196846,
       "name": "For God Is With Us",
       "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 278779,
+      "name": "Even Unto Death",
+      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 328973,
       "name": "Holy Ground - Live",
       "url": "https://open.spotify.com/track/2Z0A7W013G7P0byg4GNtse"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Love Revolution",
+        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 361413,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Saints and Sinners",
         "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 310293,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/06wxyCQFJOT0bjvSPMQj7x"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Love Revolution",
-        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 361413,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "You Will Be Saved",
+        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 374904,
+      "name": "You Will Be Saved",
+      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "You Will Be Saved",
-        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+        "name": "Your Grace Finds Me (Live)",
+        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 374904,
-      "name": "You Will Be Saved",
-      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+      "duration_ms": 340826,
+      "name": "Your Grace Finds Me - Live",
+      "url": "https://open.spotify.com/track/1ExpEXUOW2KzpfV0v8iWUp"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Your Grace Finds Me (Live)",
-        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 340826,
-      "name": "Your Grace Finds Me - Live",
-      "url": "https://open.spotify.com/track/1ExpEXUOW2KzpfV0v8iWUp"
+      "duration_ms": 300373,
+      "name": "I Will Rise",
+      "url": "https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 300373,
-      "name": "I Will Rise",
-      "url": "https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Church Songs",
         "url": "https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2gpp8a4mU5gsAZbCMY1KjN"
-      },
-      "artists": [
-        {
-          "name": "Brian Doerksen",
-          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
-        }
-      ],
-      "duration_ms": 292546,
-      "name": "Refiner's Fire",
-      "url": "https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Simple Gospel (Live)",
         "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 320400,
       "name": "Head to the Heart (Live)",
       "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "My Hope Secure",
+        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 256734,
+      "name": "My Hope Secure",
+      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "My Hope Secure",
-        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2gpp8a4mU5gsAZbCMY1KjN"
       },
       "artists": [
         {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+          "name": "Brian Doerksen",
+          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
         }
       ],
-      "duration_ms": 256734,
-      "name": "My Hope Secure",
-      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
+      "duration_ms": 292546,
+      "name": "Refiner's Fire",
+      "url": "https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Be Held : Lullabies for the Beloved",
-        "url": "https://open.spotify.com/album/36mfScdTe8zFlaHQAmIMuf"
-      },
-      "artists": [
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "River of Grace",
-      "url": "https://open.spotify.com/track/46kZhvM2ms6pIXP8Mc04Tr"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "What You Could Do With Me",
         "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 231550,
       "name": "What You Could Do With Me",
       "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Be Held : Lullabies for the Beloved",
+        "url": "https://open.spotify.com/album/36mfScdTe8zFlaHQAmIMuf"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "River of Grace",
+      "url": "https://open.spotify.com/track/46kZhvM2ms6pIXP8Mc04Tr"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 322261,
-      "name": "New Every Morning",
-      "url": "https://open.spotify.com/track/2J99v7FF6WQDMxaWPqM2Hg"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 244720,
       "name": "Signature of Divine (Yahweh)",
       "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 322261,
+      "name": "New Every Morning",
+      "url": "https://open.spotify.com/track/2J99v7FF6WQDMxaWPqM2Hg"
     },
     {
       "added_at": "2024-07-02 00:52:59",

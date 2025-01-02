@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 23288,
+  "num_followers": 23305,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 175156,
+      "name": "Cat\u00e1 Surf",
+      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Parque de Bugambilias",
         "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 175156,
-      "name": "Cat\u00e1 Surf",
-      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -759,6 +759,42 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Ag\u00fcita de Coco",
+        "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "El Chicahual",
+          "url": "https://open.spotify.com/artist/6qF40Aqmb3S4s7K2OYX225"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Ag\u00fcita de Coco",
+      "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Metro Mexico",
+        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Metro Mexico",
+      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "COMO ARRUINARTE LA VIDA",
         "url": "https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z"
       },
@@ -783,42 +819,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Metro Mexico",
-        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Metro Mexico",
-      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Ag\u00fcita de Coco",
-        "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "El Chicahual",
-          "url": "https://open.spotify.com/artist/6qF40Aqmb3S4s7K2OYX225"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Ag\u00fcita de Coco",
-      "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Uno Es M\u00ednimo Dos",
         "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
       },
@@ -831,26 +831,6 @@
       "duration_ms": 269800,
       "name": "Nos Usamos",
       "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
-      },
-      "artists": [
-        {
-          "name": "Stc Beats VB",
-          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 98832,
-      "name": "M\u00e9xico M\u00e1gico",
-      "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -871,6 +851,26 @@
       "duration_ms": 128000,
       "name": "La Belleza de lo Cotidiano",
       "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
+      },
+      "artists": [
+        {
+          "name": "Stc Beats VB",
+          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 98832,
+      "name": "M\u00e9xico M\u00e1gico",
+      "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -907,6 +907,30 @@
       "duration_ms": 240981,
       "name": "Chipek",
       "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Helado de Mango (Remix)",
+        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+        },
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 141825,
+      "name": "Helado de Mango (Remix)",
+      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -951,30 +975,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Helado de Mango (Remix)",
-        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 141825,
-      "name": "Helado de Mango (Remix)",
-      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Primer Beso",
         "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
       },
@@ -1011,58 +1011,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ciudad de Papel",
-        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 129767,
-      "name": "Ciudad de Papel",
-      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "soltarte (instrumental)",
-        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        },
-        {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
-        }
-      ],
-      "duration_ms": 176202,
-      "name": "soltarte (instrumental)",
-      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Monstera",
         "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
       },
@@ -1087,6 +1035,58 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Ciudad de Papel",
+        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 129767,
+      "name": "Ciudad de Papel",
+      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "soltarte (instrumental)",
+        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        },
+        {
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+        }
+      ],
+      "duration_ms": 176202,
+      "name": "soltarte (instrumental)",
+      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Quiet Process",
         "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 168103,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "lucky monkey",
+        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "lucky monkey",
+      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1127,34 +1143,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "lucky monkey",
-        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
+        "name": "un atardecer a tu lado",
+        "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
       },
       "artists": [
         {
-          "name": "archipelago beats",
-          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
         }
       ],
-      "duration_ms": 133333,
-      "name": "lucky monkey",
-      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "El D\u00eda M\u00e1s Largo",
-        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
-      },
-      "artists": [
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 146239,
-      "name": "Cholomuco",
-      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
+      "duration_ms": 101065,
+      "name": "bailar contigo",
+      "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "un atardecer a tu lado",
-        "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
+        "name": "El D\u00eda M\u00e1s Largo",
+        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
       },
       "artists": [
         {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
         }
       ],
-      "duration_ms": 101065,
-      "name": "bailar contigo",
-      "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
+      "duration_ms": 146239,
+      "name": "Cholomuco",
+      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
     },
     {
       "added_at": "2024-10-04 04:00:00",

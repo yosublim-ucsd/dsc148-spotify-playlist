@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 203552,
+  "num_followers": 203667,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,30 @@
     {
       "added_at": "2024-12-23 04:18:59",
       "album": {
-        "name": "Race 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Q5RHgCR1iKzaZzJurDKEK"
+        "name": "Ghungroo (From \"War\")",
+        "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
       },
       "artists": [
         {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
         },
         {
-          "name": "Shalmali Kholgade",
-          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
-      "duration_ms": 280369,
-      "name": "Lat Lag Gayee",
-      "url": "https://open.spotify.com/track/5XsoDbDt98b0FkFLOhsJuS"
+      "duration_ms": 302935,
+      "name": "Ghungroo (From \"War\")",
+      "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
     },
     {
       "added_at": "2024-12-23 04:18:59",
@@ -303,30 +307,26 @@
     {
       "added_at": "2024-12-23 04:18:59",
       "album": {
-        "name": "Ghungroo (From \"War\")",
-        "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
+        "name": "Race 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Q5RHgCR1iKzaZzJurDKEK"
       },
       "artists": [
         {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
         },
         {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         }
       ],
-      "duration_ms": 302935,
-      "name": "Ghungroo (From \"War\")",
-      "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
+      "duration_ms": 280369,
+      "name": "Lat Lag Gayee",
+      "url": "https://open.spotify.com/track/5XsoDbDt98b0FkFLOhsJuS"
     },
     {
       "added_at": "2024-12-23 04:18:59",
@@ -435,34 +435,6 @@
     {
       "added_at": "2024-12-23 04:18:59",
       "album": {
-        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
-        "url": "https://open.spotify.com/album/2B8A82Xt4J6AXZRXfFOQGh"
-      },
-      "artists": [
-        {
-          "name": "Mika Singh",
-          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
-        },
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Raqueeb Alam",
-          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
-        }
-      ],
-      "duration_ms": 256040,
-      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
-      "url": "https://open.spotify.com/track/1o0bFBGkxgxCnu6mg2YrP1"
-    },
-    {
-      "added_at": "2024-12-23 04:18:59",
-      "album": {
         "name": "Pathaan",
         "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
       },
@@ -495,6 +467,34 @@
       "duration_ms": 208164,
       "name": "Jhoome Jo Pathaan",
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
+    },
+    {
+      "added_at": "2024-12-23 04:18:59",
+      "album": {
+        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
+        "url": "https://open.spotify.com/album/2B8A82Xt4J6AXZRXfFOQGh"
+      },
+      "artists": [
+        {
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
+      "url": "https://open.spotify.com/track/1o0bFBGkxgxCnu6mg2YrP1"
     },
     {
       "added_at": "2024-12-23 04:18:59",
@@ -623,34 +623,6 @@
     {
       "added_at": "2024-12-23 04:18:59",
       "album": {
-        "name": "Student of the Year (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Shahid Mallya",
-          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
-        },
-        {
-          "name": "Nisha Mascarenhas",
-          "url": "https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6"
-        },
-        {
-          "name": "Marianne D'Cruz Aiman",
-          "url": "https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Kukkad",
-      "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
-    },
-    {
-      "added_at": "2024-12-23 04:18:59",
-      "album": {
         "name": "Jab Koi Baat - Recreated",
         "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
       },
@@ -719,6 +691,34 @@
       "duration_ms": 212741,
       "name": "Aankh Marey (From \"Simmba\")",
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm"
+    },
+    {
+      "added_at": "2024-12-23 04:18:59",
+      "album": {
+        "name": "Student of the Year (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Nisha Mascarenhas",
+          "url": "https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6"
+        },
+        {
+          "name": "Marianne D'Cruz Aiman",
+          "url": "https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Kukkad",
+      "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
     },
     {
       "added_at": "2024-12-23 04:18:59",
@@ -807,8 +807,8 @@
     {
       "added_at": "2024-12-23 04:18:59",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
+        "name": "Sonu Ke Titu Ki Sweety",
+        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
       "artists": [
         {
@@ -816,13 +816,17 @@
           "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Ishers",
+          "url": "https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo"
         }
       ],
-      "duration_ms": 243206,
-      "name": "Yaar Naa Miley",
-      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
+      "duration_ms": 226696,
+      "name": "Dil Chori",
+      "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
     },
     {
       "added_at": "2024-12-23 04:18:59",
@@ -851,34 +855,6 @@
       "duration_ms": 204110,
       "name": "Heer Aasmani (From \"Fighter\")",
       "url": "https://open.spotify.com/track/68hDecrVQCvVtzcYcvFMJX"
-    },
-    {
-      "added_at": "2024-12-23 04:18:59",
-      "album": {
-        "name": "O Saki Saki (From \"Batla House\")",
-        "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Tulsi Kumar",
-          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
-        },
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        }
-      ],
-      "duration_ms": 191089,
-      "name": "O Saki Saki (From \"Batla House\")",
-      "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
     },
     {
       "added_at": "2024-12-23 04:18:59",
@@ -923,6 +899,34 @@
       "duration_ms": 176125,
       "name": "Muqabla (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
+    },
+    {
+      "added_at": "2024-12-23 04:18:59",
+      "album": {
+        "name": "O Saki Saki (From \"Batla House\")",
+        "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "duration_ms": 191089,
+      "name": "O Saki Saki (From \"Batla House\")",
+      "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
     },
     {
       "added_at": "2024-12-23 04:18:59",
@@ -1047,8 +1051,8 @@
     {
       "added_at": "2024-12-23 04:18:59",
       "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
       },
       "artists": [
         {
@@ -1056,17 +1060,13 @@
           "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Simar Kaur",
-          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
-        },
-        {
-          "name": "Ishers",
-          "url": "https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo"
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         }
       ],
-      "duration_ms": 226696,
-      "name": "Dil Chori",
-      "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
+      "duration_ms": 243206,
+      "name": "Yaar Naa Miley",
+      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
     },
     {
       "added_at": "2024-12-23 04:18:59",

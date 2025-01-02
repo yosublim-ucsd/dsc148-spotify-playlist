@@ -2,9 +2,9 @@
 
 ### [퓨전 국악 \(Fusion Korean National\)](https://open.spotify.com/playlist/37i9dQZF1DXbqEesmXsTTO)
 
-> 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: Black String \(블랙스트링\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
+> 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: HARPAARY\(해파리\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-73 songs - 4 hr 59 min
+74 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Silk](https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 4:08 | 2023-09-26 |  |
 | [Song Of Youth](https://open.spotify.com/track/7rJPSgQnrGWhBdipYahwCQ) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Prelude](https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M) | [Korean Men](https://open.spotify.com/album/1RxHiOGUmdVAI3VUjtPqsi) | 6:09 | 2023-09-26 |  |
 | [Summer night's dream](https://open.spotify.com/track/0yOaoryUIH4LWkOJOHq4Xo) | [Noriter](https://open.spotify.com/artist/1Wj2KoYOqYZLMzuDLdiFmp) | [Episode2024](https://open.spotify.com/album/1vjGky4TxckEEs69gg57Bv) | 4:49 | 2024-08-09 | 2024-08-11 |
+| [TAEPYEONGGA](https://open.spotify.com/track/0EoTB8IJJbKv6uG7Wr3tEz) | [HAEPAARY](https://open.spotify.com/artist/3ltYPanqVYTC1qV0OIRaAc) | [TAEPYEONGGA](https://open.spotify.com/album/6lPBgRHnr6glpCtkd0IFNU) | 6:31 | 2025-01-02 |  |
 | [The Graceful Gang\-Jin](https://open.spotify.com/track/2ct24PjkvGAEDSwjaXztx7) | [A\-Eun Project](https://open.spotify.com/artist/6reW342UitQpxSgH2yePGj) | [The Graceful Gang\-Jin](https://open.spotify.com/album/00BxwoM5lemuHmOajoRdrW) | 4:00 | 2023-09-26 |  |
 | [The Hill of Wind](https://open.spotify.com/track/6mGokSMBOqI9j2GUIt1mc2) | [ZanHyang](https://open.spotify.com/artist/6IDwXMIAeJtzVwmoncNLOM) | [The Hill of Wind](https://open.spotify.com/album/0NwYKvq8effYLOfOYdXHFG) | 4:39 | 2023-09-26 |  |
 | [THE RED MOOn](https://open.spotify.com/track/6NvUCMJhXPaHgKAMg304Np) | [EruhWa](https://open.spotify.com/artist/06WR19f8UHQhz53AYD2e1Q) | [THE RED MOOn](https://open.spotify.com/album/4RkR2sm03JD0Voz6nxhmQS) | 3:06 | 2023-09-26 |  |

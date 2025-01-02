@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 67014,
+  "num_followers": 67033,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAB1faIwCBCmMXhAmvQGqoVN",
+  "snapshot_id": "Z3M0AAAAAACpw1DcHNhKdtwJ6gw8ZJEl",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bella Nostalgia",
-        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 210181,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pedro Cap\u00f3",
         "url": "https://open.spotify.com/album/09WFxztbheRZxTiUZezCiz"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 252173,
       "name": "Si T\u00fa Me Lo Pides (feat. Kany Garc\u00eda)",
       "url": "https://open.spotify.com/track/3es7XP3HS7TqZqC9Z6cdmd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bella Nostalgia",
+        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 210181,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1194803,
+  "num_followers": 1194978,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAD6eWCVJ1j9LhwW9Sv60MaV",
+  "snapshot_id": "Z3M0AAAAAAAbJ94kaMjTUU3SSE3KvEcb",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "Blue Moon - 1999 Remastered",
-      "url": "https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strangers In The Night (Expanded Edition)",
         "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 178253,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/2cI7j96n1rfv4RNKuri4or"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "Blue Moon - 1999 Remastered",
+      "url": "https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN"
     },
     {
       "added_at": null,
@@ -459,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing But The Best (2008 Remastered)",
-        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+        "name": "Come Dance With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 194040,
-      "name": "The Girl From Ipanema - 2008 Remastered",
-      "url": "https://open.spotify.com/track/3NdHYXQK5gkFFEZvSMVVj6"
+      "duration_ms": 151026,
+      "name": "Come Dance With Me - 1998 Remastered",
+      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Dance With Me! (Remastered)",
-        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+        "name": "Nothing But The Best (2008 Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 151026,
-      "name": "Come Dance With Me - 1998 Remastered",
-      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
+      "duration_ms": 194040,
+      "name": "The Girl From Ipanema - 2008 Remastered",
+      "url": "https://open.spotify.com/track/3NdHYXQK5gkFFEZvSMVVj6"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra \u201965",
-        "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
+        "name": "Romance: Songs From The Heart",
+        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 188066,
-      "name": "My Kind Of Town",
-      "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
+      "duration_ms": 172546,
+      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romance: Songs From The Heart",
-        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
+        "name": "Sinatra \u201965",
+        "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 172546,
-      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
+      "duration_ms": 188066,
+      "name": "My Kind Of Town",
+      "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
     },
     {
       "added_at": null,

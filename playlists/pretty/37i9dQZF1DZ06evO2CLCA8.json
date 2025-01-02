@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 868,
+  "num_followers": 870,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABj6HJB5wMnqHc+VE0Ylxo7",
+  "snapshot_id": "Z3M0AAAAAABv6zUS97d4RhIjZEGhjDep",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 202973,
-      "name": "The Dark Of The Sun",
-      "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
+      "duration_ms": 189266,
+      "name": "Two Gunslingers",
+      "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 189266,
-      "name": "Two Gunslingers",
-      "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
+      "duration_ms": 202973,
+      "name": "The Dark Of The Sun",
+      "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotic Eye",
-        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "U Get Me High",
-      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 284093,
       "name": "Something Big",
       "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "U Get Me High",
+      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Finding Out",
-      "url": "https://open.spotify.com/track/7inFhF3HVAyQT4MrllufYO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 237440,
       "name": "Nightwatchman",
       "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long After Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Finding Out",
+      "url": "https://open.spotify.com/track/7inFhF3HVAyQT4MrllufYO"
     },
     {
       "added_at": null,

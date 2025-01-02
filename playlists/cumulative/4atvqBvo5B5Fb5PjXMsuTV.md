@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 31 Dec 14:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 01 Jan 19:02 UTC.
 
-3,869 songs - 8 day 22 hr 50 min
+3,870 songs - 8 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Anti\-Spirit Machine](https://open.spotify.com/track/0RwqJdZbJJu2lb11aqOtjv) | [Umbra Vitae](https://open.spotify.com/artist/340Q4BNeDs4ePSpBii4yRa) | [Anti\-Spirit Machine](https://open.spotify.com/album/05CgxQlWiDMyNufNLzeD9q) | 3:40 | 2024-05-21 | 2024-05-23 |
 | [Antimatter Animals](https://open.spotify.com/track/4iY1wt0PEBkRCiaYpIVi1a) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Antimatter Animals](https://open.spotify.com/album/721cTEZTqrcXWaASTmGpr9) | 5:04 | 2024-07-17 | 2024-07-19 |
 | [Anxiety](https://open.spotify.com/track/1lZkGr8MRb1tTsSbpV7zO5) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Anxiety](https://open.spotify.com/album/4CzCtsPM1jOgMW2grZHah6) | 3:28 | 2024-06-06 | 2024-06-09 |
-| [Any Excuse To Party](https://open.spotify.com/track/3HmeAjLr5sht8K1Ba3AeQA) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Any Excuse To Party](https://open.spotify.com/album/5oxQv59SZh7XXJxcw2uo25) | 2:01 | 2024-12-20 |  |
+| [Any Excuse To Party](https://open.spotify.com/track/3HmeAjLr5sht8K1Ba3AeQA) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Any Excuse To Party](https://open.spotify.com/album/5oxQv59SZh7XXJxcw2uo25) | 2:01 | 2024-12-20 | 2025-01-02 |
 | [any means](https://open.spotify.com/track/1nZcuVhLTqeX0NZOcpFCKU) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [any means](https://open.spotify.com/album/5i1VVytMaXlk25P00MJN24) | 3:37 | 2024-08-20 | 2024-08-24 |
 | [Any Time Soon](https://open.spotify.com/track/61jrROLbEE7x7PO5uhnVlf) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Any Time Soon](https://open.spotify.com/album/6bxlzIv6toLMiVYvL3YIvN) | 3:50 | 2024-10-16 | 2024-10-18 |
 | [anylonger](https://open.spotify.com/track/2rH339KIa3Bsv79O1UsFLY) | [webcage](https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8) | [anylonger](https://open.spotify.com/album/5slpCJcdTYAhH5kh1f3PTK) | 4:13 | 2024-10-14 | 2024-10-18 |
@@ -1777,6 +1777,7 @@
 | [Joy of Missing Out](https://open.spotify.com/track/4px2IKHQM1iCsryBZv0naR) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Joy of Missing Out](https://open.spotify.com/album/3cjn75z7esRmLnsQQ5HtJ4) | 3:11 | 2024-08-30 | 2024-09-05 |
 | [Joyful Green](https://open.spotify.com/track/68td6xMOdZkKxemAsBJOqd) | [DreamNote](https://open.spotify.com/artist/3ILvL0HM0cST4iR8RzQh2V) | [Joyful Green](https://open.spotify.com/album/2Qprk9UNqG0yZtVogI2MHi) | 2:52 | 2024-10-09 | 2024-10-11 |
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-04 | 2024-07-06 |
+| [JRJRJR](https://open.spotify.com/track/1mW9XrT9XdnsDPuthSgusZ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [JRJRJR](https://open.spotify.com/album/1rknl8JliYRRZJjs6yhsDF) | 4:28 | 2025-01-01 |  |
 | [JSD](https://open.spotify.com/track/2v03EIghTV91vqM6jHleFq) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [JSD](https://open.spotify.com/album/6mwc3WjeJxNVULPs5dv0Fn) | 3:04 | 2024-10-03 | 2024-10-05 |
 | [Julia](https://open.spotify.com/track/5HlY9oA9hjyBz3wnHiB643) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Julia](https://open.spotify.com/album/1X860wRKiP3e9cJmVhHV8K) | 3:31 | 2024-09-13 | 2024-09-18 |
 | [Julie](https://open.spotify.com/track/7b2JZ8XmdH6tLwPxeI8l4f) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Julie](https://open.spotify.com/album/0U98zDYqqXd5XGx5BPamFJ) | 4:37 | 2024-12-11 | 2024-12-14 |

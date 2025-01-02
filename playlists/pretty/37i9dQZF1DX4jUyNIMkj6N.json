@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 210160,
+  "num_followers": 210243,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Avignon",
-        "url": "https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 179812,
-      "name": "Avignon",
-      "url": "https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Avignon",
+        "url": "https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 179812,
+      "name": "Avignon",
+      "url": "https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "A Dangerous Thing",
-        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Part Of The Story",
         "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 187173,
       "name": "Part Of The Story",
       "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "A Dangerous Thing",
+        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Innocent",
-        "url": "https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 156197,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Viking Fair",
         "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Malory",
-        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+        "name": "Innocent",
+        "url": "https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u"
       },
       "artists": [
         {
-          "name": "Martin Stahl",
-          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 178003,
-      "name": "Malory",
-      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+      "duration_ms": 156197,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Malory",
+        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+      },
+      "artists": [
+        {
+          "name": "Martin Stahl",
+          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+        }
+      ],
+      "duration_ms": 178003,
+      "name": "Malory",
+      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 176793,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Late December",
         "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Have This Dance",
+        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 214380,
+      "name": "Have This Dance",
+      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "When You Touch The Sky",
         "url": "https://open.spotify.com/album/3g37CMgco7Cock6BsoSAJO"
       },
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Have This Dance",
-        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
       },
       "artists": [
         {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 214380,
-      "name": "Have This Dance",
-      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
+      "duration_ms": 176793,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -831,22 +831,6 @@
       "duration_ms": 251180,
       "name": "Doves",
       "url": "https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Ordna sig",
-        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 151072,
-      "name": "Ordna sig",
-      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -887,18 +871,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
+        "name": "Ordna sig",
+        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
       },
       "artists": [
         {
-          "name": "Red Langur",
-          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 172007,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
+      "duration_ms": 151072,
+      "name": "Ordna sig",
+      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -915,6 +899,22 @@
       "duration_ms": 234000,
       "name": "Never Gonna Last - Radio Edit",
       "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
+      },
+      "artists": [
+        {
+          "name": "Red Langur",
+          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+        }
+      ],
+      "duration_ms": 172007,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
     },
     {
       "added_at": "2024-12-05 23:00:00",

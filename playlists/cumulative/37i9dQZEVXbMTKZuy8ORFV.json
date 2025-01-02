@@ -1769,6 +1769,32 @@
     },
     {
       "album": {
+        "name": "Pol\u00edticamente Correcto",
+        "url": "https://open.spotify.com/album/1vWMjjsWllqrLtmaLA9X1U"
+      },
+      "artists": [
+        {
+          "name": "Yung Dupe",
+          "url": "https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3"
+        },
+        {
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/7pLeJaOcw4TbtZk42asvOu"
+        },
+        {
+          "name": "PUGSPUGSPUGS",
+          "url": "https://open.spotify.com/artist/41aYvVvQYDfM6sn2zhlQHY"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Ay beb\u00e9",
+      "url": "https://open.spotify.com/track/2Nrel4hzVFXt02o0KHVoLi"
+    },
+    {
+      "album": {
         "name": "THE FIRST TIME (DELUXE VERSION)",
         "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
       },
@@ -6032,7 +6058,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 183243,
       "name": "En El Pr\u00f3ximo Big Bang",
       "url": "https://open.spotify.com/track/6XuvR6CAfIggnWzqtL0Vez"
@@ -6660,7 +6686,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 150569,
       "name": "Faz de Chicote",
       "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
@@ -7146,7 +7172,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 90000,
       "name": "FUNK INFERNAL",
       "url": "https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y"
@@ -10194,7 +10220,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 268500,
       "name": "Lluvias de Mayo",
       "url": "https://open.spotify.com/track/5IMyx2Xtze7pivWP42kDx4"
@@ -10810,7 +10836,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -10840,7 +10866,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -13640,7 +13666,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 157500,
       "name": "Olvidarte (feat. Emilia)",
       "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
@@ -14050,6 +14076,24 @@
       "duration_ms": 254883,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
+    },
+    {
+      "album": {
+        "name": "Pancad\u00e3o New Som - Mel\u00f4 de jog Future Remix PVP",
+        "url": "https://open.spotify.com/album/5wXItEcx9WbtQWEQEHrCHR"
+      },
+      "artists": [
+        {
+          "name": "Reggae New Som",
+          "url": "https://open.spotify.com/artist/5lrSHs06e5upKwADChCN0m"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215327,
+      "name": "Pancad\u00e3o New Som - Mel\u00f4 de jog Future Remix PVP",
+      "url": "https://open.spotify.com/track/2qfwJirVvrA8bVvq9zH7yB"
     },
     {
       "album": {
@@ -15462,7 +15506,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 354857,
       "name": "Resenha do Arrocha",
       "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
@@ -15886,7 +15930,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 227647,
       "name": "Sabor Caramelo",
       "url": "https://open.spotify.com/track/6SvGjgBFnsyUCPfIR4JN7l"
@@ -18286,7 +18330,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 147451,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,476 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,529 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 21 | [Peça Íntima](https://open.spotify.com/track/5rHhO6SBSzo3E9m3KHyCtt) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Peça Íntima](https://open.spotify.com/album/1Tf3Ooizx4fstK5vp6rtfF) | 2:49 |
 | 22 | [Mentira Estampada](https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [Arrocha Safadão](https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ) | 2:53 |
 | 23 | [Imã de Problema](https://open.spotify.com/track/7HrDxxY2b7vOKxJHtqdXN6) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Toca Que Eu Quero Ouvir](https://open.spotify.com/album/1FN14esKWwt7bRRrdWDOHW) | 2:17 |
-| 24 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/4fCCFXZ2f4GjCSuIMwERnf) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Despedida do Gusttavo Lima](https://open.spotify.com/album/1OIieNtTuAHJ4IJPKhGsAS) | 3:21 |
+| 24 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/63BroH3HiwxYD8T5qTZiJn) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \- Ao Vivo](https://open.spotify.com/album/3c1EWuqoXW71z03rvyogVr) | 3:21 |
 | 25 | [Pilantra e Meio](https://open.spotify.com/track/2k7EhDUKXApmeYVew9xeDf) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [Pilantra e Meio](https://open.spotify.com/album/3TbuB4OsaySHA48lBxEwf6) | 3:08 |
 | 26 | [Body Splash \- Ao Vivo](https://open.spotify.com/track/1AM8pZn5uY89vkItAH5bm3) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Carta Aberta \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6wDpJDekjVBFXXHdLSmZkj) | 2:34 |
 | 27 | [Paredões](https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Paredões](https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Hoje o Dia Tá Bonito](https://open.spotify.com/track/2MHQdlPaIcD49dJXHd6MYI) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [GringoBeats808](https://open.spotify.com/artist/5H2zqAv4kVidX9S98sanYa) | [Hoje o Dia Tá Bonito](https://open.spotify.com/album/4yhFvEgprV0ERYI7KYBDL8) | 1:49 |
 | 50 | [ESCADA DO PRÉDIO](https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:17 |
 
-Snapshot ID: `LwdeIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LwitSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

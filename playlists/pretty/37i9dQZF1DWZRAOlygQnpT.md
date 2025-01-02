@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,762 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,813 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 30 | [Yo No Soy Rebelde](https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 1:20 |
 | 31 | [Ahora estoy Solo](https://open.spotify.com/track/106QvHrS9LCAnwb8Sz8hqw) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:09 |
 | 32 | [Vuelve Primavera](https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27) | [Los Blue Caps](https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:30 |
-| 33 | [Colina azul \- Bluberry Hill](https://open.spotify.com/track/4UoVBuPJlaKNyspCITsiA8) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:34 |
-| 34 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [La Fiebre del Rock and Roll](https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l) | 2:53 |
+| 33 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [La Fiebre del Rock and Roll](https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l) | 2:53 |
+| 34 | [Colina azul \- Bluberry Hill](https://open.spotify.com/track/4UoVBuPJlaKNyspCITsiA8) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:34 |
 | 35 | [Y Es Por Ti](https://open.spotify.com/track/26aQy7fgeQuhJm619Z8lgq) | [Los Reno](https://open.spotify.com/artist/2gmmO8dk7iXgNYuB24FKQo) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:11 |
 | 36 | [Tequila Con Limón](https://open.spotify.com/track/2FYdec3yREDp9gIoaWMOxn) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:37 |
 | 37 | [Es Lupe \(Hang on Sloopy\)](https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:18 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 62 | [Hotel de los Corazones Rotos \(Heartbreak Hotel\)](https://open.spotify.com/track/5J5L4cvXlWhoeVjeNs9F7t) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Tu Amor y Mi Cariño](https://open.spotify.com/album/5XxXFX4mWfYlw8E2L5i8M1) | 1:36 |
 | 63 | [Dulces a Mi Amor](https://open.spotify.com/track/3s6xa3WDlEZ3QdPuyhftSh) | [Los Jokers](https://open.spotify.com/artist/2LklOiSHWX50yM3NVYF26Q) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:30 |
 | 64 | [Chuby Chuby \- Chewy Chewy](https://open.spotify.com/track/578D97y2BlyUHv3f5wHYHp) | [Las Ventanas](https://open.spotify.com/artist/44cgJrhaBld32Xou7xno1x) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 2:40 |
-| 65 | [Memphis Tennessee](https://open.spotify.com/track/4OeCOfLidp02t8fRKyd6ag) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:23 |
-| 66 | [La Batalla De Jericó](https://open.spotify.com/track/6cHCv08cDeeZWaETJInX4Y) | [Black Jeans](https://open.spotify.com/artist/5VC9QlLIQLWM2ppXD9OZd0) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:06 |
+| 65 | [La Batalla De Jericó](https://open.spotify.com/track/6cHCv08cDeeZWaETJInX4Y) | [Black Jeans](https://open.spotify.com/artist/5VC9QlLIQLWM2ppXD9OZd0) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:06 |
+| 66 | [Memphis Tennessee](https://open.spotify.com/track/4OeCOfLidp02t8fRKyd6ag) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:23 |
 | 67 | [Pan Con Mantequilla](https://open.spotify.com/track/4hWIlKthIn4NGThpUVn5tj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 1:37 |
 | 68 | [Ella No Está Ahí](https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:32 |
 | 69 | [Fiebre \- Fever](https://open.spotify.com/track/5Lp5euQo2kUiBRWopCiZFE) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:36 |

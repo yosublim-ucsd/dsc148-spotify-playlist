@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-651 songs - 1 day 15 hr 11 min
+652 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-11-11 |  |
 | [Fine By Myself](https://open.spotify.com/track/0V3Ml2chd5ssOkUrz1X7FU) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Fine By Myself](https://open.spotify.com/album/4tBU38rdZK9rGZDDnaoVvs) | 2:43 | 2023-11-10 | 2024-11-09 |
 | [Fist Bump \(feat\. Free Nationals\) \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(feat\. Free Nationals\) \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 | 2024-05-17 |  |
+| [Flawless](https://open.spotify.com/track/7rCk0YGYPTgzdAUba5faP5) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Night About You](https://open.spotify.com/album/2bNdsHCAtT7UmllvIKP0PZ) | 3:23 | 2024-11-08 |  |
 | [Flaws & All](https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Flaws & All](https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww) | 3:15 | 2023-07-07 |  |
 | [Flow State](https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Flow State](https://open.spotify.com/album/3sAqbZXReqypT0ZMsxOgeE) | 2:32 | 2023-10-20 |  |
 | [Fly By](https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Fly By](https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4) | 3:21 | 2023-10-06 | 2024-02-17 |
@@ -435,7 +436,7 @@
 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 | 2024-12-18 |
 | [Open To Thyself](https://open.spotify.com/track/4BDNNrrapR46aXj7FoJBKH) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart](https://open.spotify.com/album/5scS19vWf1ahjNYDHepumB) | 4:40 | 2024-08-30 | 2024-09-14 |
 | [Out My Hair](https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 2:58 | 2024-10-25 |  |
-| [Outside The Gate](https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Outside The Gate](https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz) | 3:26 | 2024-10-18 |  |
+| [Outside The Gate](https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Outside The Gate](https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz) | 3:26 | 2024-10-18 | 2025-01-02 |
 | [outta space](https://open.spotify.com/track/1n2RjkM9T4ijiM4idyEQSM) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [FRANCIS](https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs) | 3:12 | 2024-06-07 | 2024-08-31 |
 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-05 | 2024-10-13 |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-03-24 | 2023-06-16 |

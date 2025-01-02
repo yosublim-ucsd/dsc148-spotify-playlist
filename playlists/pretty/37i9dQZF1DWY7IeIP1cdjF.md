@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Rauw Alejandro, Bad Bunny, Blessd, KAROL G, and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,768,521 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,768,362 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 59 | [Sata](https://open.spotify.com/track/62Ivi1ONWg0DU125ZeOk5k) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 2:49 |
 | 60 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [EL MURCIELAGO](https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
 
-Snapshot ID: `Z3O8+wAAAABI+n3nFh72kLO9eaoIrEk8`
+Snapshot ID: `Z3T3OgAAAABJagzTUnDrA6Vi+V3Mq8u4`

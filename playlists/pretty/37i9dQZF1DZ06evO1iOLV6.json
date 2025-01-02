@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 10531,
+  "num_followers": 10538,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAD4tagg8s0mgOUyWT7u74hp",
+  "snapshot_id": "Z3M0AAAAAABxZiUlAlbAbsQ4F6AlhCnt",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 199198,
+      "name": "Abule",
+      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Omo Charlie Champagne Vol.1",
         "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 195030,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 199198,
-      "name": "Abule",
-      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
     },
     {
       "added_at": null,
@@ -439,42 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Godson",
-        "url": "https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi"
-      },
-      "artists": [
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "My Eyes",
-      "url": "https://open.spotify.com/track/15uTXclWHMCmILuIly5XUt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abobi",
-        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 201048,
-      "name": "Abobi",
-      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2"
       },
@@ -511,6 +475,42 @@
       "duration_ms": 229013,
       "name": "Confirm (feat. Davido)",
       "url": "https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abobi",
+        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 201048,
+      "name": "Abobi",
+      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Godson",
+        "url": "https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 166857,
+      "name": "My Eyes",
+      "url": "https://open.spotify.com/track/15uTXclWHMCmILuIly5XUt"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rudi (feat. Patoranking)",
-        "url": "https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt"
-      },
-      "artists": [
-        {
-          "name": "Rich Mavoko",
-          "url": "https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Rudi (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "W.E.E.D.",
         "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 281453,
       "name": "Wait Refix",
       "url": "https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rudi (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt"
+      },
+      "artists": [
+        {
+          "name": "Rich Mavoko",
+          "url": "https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 219820,
+      "name": "Rudi (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
     },
     {
       "added_at": null,

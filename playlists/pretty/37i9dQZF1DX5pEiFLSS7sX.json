@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 215456,
+  "num_followers": 215504,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "SEU Worship (Live)",
-        "url": "https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
-        }
-      ],
-      "duration_ms": 569320,
-      "name": "Sanctuary - Live",
-      "url": "https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Fearless / Fill Up The Sky (Live)",
         "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 280519,
       "name": "Fearless - Live",
       "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "SEU Worship (Live)",
+        "url": "https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 569320,
+      "name": "Sanctuary - Live",
+      "url": "https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Praise Before My Breakthrough",
-        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 226107,
-      "name": "Be With Me",
-      "url": "https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Center of Your Love",
         "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 488800,
       "name": "Jesus, Come Be the Center (feat. Meredith Mauldin)",
       "url": "https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "Praise Before My Breakthrough",
+        "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 226107,
+      "name": "Be With Me",
+      "url": "https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 312106,
-      "name": "Set My Heart - Live",
-      "url": "https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Hello Maker",
         "url": "https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 300854,
       "name": "Rock of Our Salvation",
       "url": "https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 312106,
+      "name": "Set My Heart - Live",
+      "url": "https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Live At Church: Mixtape Vol. 1",
-        "url": "https://open.spotify.com/album/5TTMY7j38aJ11kqrsZoXtC"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Whitney Medina",
-          "url": "https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ"
-        }
-      ],
-      "duration_ms": 719169,
-      "name": "Nothing Else / All I Need Is You - Medley / Live",
-      "url": "https://open.spotify.com/track/1FU3FhTkha9P7TtYqCDUdY"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Real Thing (feat. Sean Curran)",
         "url": "https://open.spotify.com/album/1NMUdbkJswMTsGVScqZcxj"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 356035,
       "name": "Real Thing (feat. Sean Curran)",
       "url": "https://open.spotify.com/track/50ECBEWF5HIJ8HqJowrZir"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "Live At Church: Mixtape Vol. 1",
+        "url": "https://open.spotify.com/album/5TTMY7j38aJ11kqrsZoXtC"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Whitney Medina",
+          "url": "https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ"
+        }
+      ],
+      "duration_ms": 719169,
+      "name": "Nothing Else / All I Need Is You - Medley / Live",
+      "url": "https://open.spotify.com/track/1FU3FhTkha9P7TtYqCDUdY"
     },
     {
       "added_at": "2024-08-03 08:12:04",

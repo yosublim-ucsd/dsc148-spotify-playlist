@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 一起來欣賞 2024 RADAR 新勢力藝人本年度最精采的表現！Cover: PIZALLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,771 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,780 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 19 | [The Same Title 狗血](https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [1Majin Nation](https://open.spotify.com/album/2kJYCOovUBZ0on2ig5HInZ) | 2:53 |
 | 20 | [你不會一輩子的愛上我](https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [你不會一輩子的愛上我](https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif) | 3:17 |
 | 21 | [自由的風](https://open.spotify.com/track/1uONk3vGhr6wyxSOSPxSRb) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [自由的風](https://open.spotify.com/album/4q7o688PlMkWNeqdi3Qxte) | 2:19 |
-| 22 | [what 4](https://open.spotify.com/track/5fijo9f2d10Dd34RVckeQb) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [numbers](https://open.spotify.com/album/26sR7nFtfkDK9R15g6yzSm) | 2:32 |
+| 22 | [what 4](https://open.spotify.com/track/5fijo9f2d10Dd34RVckeQb) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [numbers](https://open.spotify.com/album/26sR7nFtfkDK9R15g6yzSm) | 2:34 |
 | 23 | [翼](https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [翼](https://open.spotify.com/album/4lUoLaurs9KbG7SYi4HL9w) | 2:47 |
 | 24 | [火柴 \- Acoustic / Spotify Singles](https://open.spotify.com/track/28F59BoXW9aXhx9TiPB1OH) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [火柴 \(Acoustic / Spotify Singles\)](https://open.spotify.com/album/0Rw8xSIqO7KCXwMXZDLXtO) | 2:52 |
 | 25 | [趕趕時間](https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [趕趕時間](https://open.spotify.com/album/3OHTeZ8l4MkmDO1bUTJ51q) | 3:39 |

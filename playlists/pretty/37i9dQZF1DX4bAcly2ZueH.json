@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 52484,
+  "num_followers": 52489,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf"
+      },
+      "artists": [
+        {
+          "name": "Katu",
+          "url": "https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/4lu9rOm32Ieevp1INYmzNQ"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 136800,
       "name": "outset",
       "url": "https://open.spotify.com/track/6ZpPt8jptwLcWmEmqQ95OO"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf"
-      },
-      "artists": [
-        {
-          "name": "Katu",
-          "url": "https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -555,18 +555,22 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Dawn (Side-B)",
-        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
+        "name": "It Hurts to Love You (it meant a lot)",
+        "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
       },
       "artists": [
         {
-          "name": "Nozomi Nobody",
-          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
         }
       ],
-      "duration_ms": 196875,
-      "name": "Ghost Town - Side-B",
-      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
+      "duration_ms": 117600,
+      "name": "It Hurts to Love You (it meant a lot)",
+      "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -603,22 +607,18 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "It Hurts to Love You (it meant a lot)",
-        "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
+        "name": "Dawn (Side-B)",
+        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+          "name": "Nozomi Nobody",
+          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
         }
       ],
-      "duration_ms": 117600,
-      "name": "It Hurts to Love You (it meant a lot)",
-      "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
+      "duration_ms": 196875,
+      "name": "Ghost Town - Side-B",
+      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
-      },
-      "artists": [
-        {
-          "name": "Kastorbeats",
-          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
         "name": "The Color and the Light",
         "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
       },
@@ -815,6 +799,26 @@
       "duration_ms": 295058,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+      },
+      "artists": [
+        {
+          "name": "Sonn",
+          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -839,22 +843,18 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
       },
       "artists": [
         {
-          "name": "Sonn",
-          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+          "name": "Kastorbeats",
+          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
         }
       ],
-      "duration_ms": 228196,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+      "duration_ms": 138352,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
+        "name": "Sushi In Tokyo",
+        "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
+      },
+      "artists": [
+        {
+          "name": "DVNA",
+          "url": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Sushi In Tokyo",
+      "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
         "name": "see",
         "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 207613,
       "name": "see",
       "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
-        "name": "UP AND DOWN Original Soundtrack",
-        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
-      },
-      "artists": [
-        {
-          "name": "Marihiko Hara",
-          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
-        }
-      ],
-      "duration_ms": 189696,
-      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
-      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Sushi In Tokyo",
-        "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
+        "name": "UP AND DOWN Original Soundtrack",
+        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
       },
       "artists": [
         {
-          "name": "DVNA",
-          "url": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
+          "name": "Marihiko Hara",
+          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
         }
       ],
-      "duration_ms": 211999,
-      "name": "Sushi In Tokyo",
-      "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
+      "duration_ms": 189696,
+      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
     },
     {
       "added_at": "2024-12-19 03:33:28",

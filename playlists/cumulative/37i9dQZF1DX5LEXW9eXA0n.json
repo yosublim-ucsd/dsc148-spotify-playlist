@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Hui(\ud6c4\uc774)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: INFINITE(\uc778\ud53c\ub2c8\ud2b8)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -4874,7 +4874,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 227960,
       "name": "DrunKen Confession",
       "url": "https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp"
@@ -5622,7 +5622,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 219440,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5B8PQK0Vsc0e4eU5FboerK"
@@ -5962,6 +5962,24 @@
       "duration_ms": 240147,
       "name": "First Love (feat.SOLE)",
       "url": "https://open.spotify.com/track/4zQn8IyBapfRLTGkV1aX5G"
+    },
+    {
+      "album": {
+        "name": "Check in Hanyang (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/1ertivhrcJ58ZCX3THYUbT"
+      },
+      "artists": [
+        {
+          "name": "JUNGWOO",
+          "url": "https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228080,
+      "name": "First Step",
+      "url": "https://open.spotify.com/track/2dBb7nKOJdVbv4Bib5w1DP"
     },
     {
       "album": {
@@ -7675,6 +7693,24 @@
     },
     {
       "album": {
+        "name": "Hoper",
+        "url": "https://open.spotify.com/album/456MmnToDPE7H31dvCHgtw"
+      },
+      "artists": [
+        {
+          "name": "Kim Jae Joong",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209093,
+      "name": "Hoper",
+      "url": "https://open.spotify.com/track/5a22n2txGRFEcefZIts7lR"
+    },
+    {
+      "album": {
         "name": "House of light",
         "url": "https://open.spotify.com/album/0QyxJ5YockEzHjVTz89BIV"
       },
@@ -7946,7 +7982,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 237428,
       "name": "Huddling Cuddling",
       "url": "https://open.spotify.com/track/73B7IYhMATCQaWvuKL7daH"
@@ -8260,6 +8296,24 @@
       "duration_ms": 226120,
       "name": "I feel",
       "url": "https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN"
+    },
+    {
+      "album": {
+        "name": "When The Phone Rings, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/09APlXxudP3YywxqQnH6dU"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233050,
+      "name": "I Feel It Now",
+      "url": "https://open.spotify.com/track/0oqk3ugFbaGhEmuUFaUaHy"
     },
     {
       "album": {
@@ -9370,6 +9424,24 @@
       "duration_ms": 237920,
       "name": "I'll Pray",
       "url": "https://open.spotify.com/track/0tpu39rHkjgI9UVTdIFCT0"
+    },
+    {
+      "album": {
+        "name": "Desperate Mrs. Seonju OST Part.2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/7aJgHL2YMqpsLBscOyD40M"
+      },
+      "artists": [
+        {
+          "name": "Son Tae Jin",
+          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220608,
+      "name": "I'll take you in my arms",
+      "url": "https://open.spotify.com/track/3esznv6FmzNTeGcv3E6KwE"
     },
     {
       "album": {
@@ -12886,7 +12958,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 185000,
       "name": "Love, Maybe",
       "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
@@ -17009,6 +17081,24 @@
     },
     {
       "album": {
+        "name": "Sad Loop",
+        "url": "https://open.spotify.com/album/4fxVu27QdPqvJaQujywP3X"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Sad Loop",
+      "url": "https://open.spotify.com/track/476PT13ugdewze682alt9b"
+    },
+    {
+      "album": {
         "name": "Sad promise",
         "url": "https://open.spotify.com/album/5FAFONbvL0yNPPr3nYz0CF"
       },
@@ -18328,7 +18418,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 201595,
       "name": "Spring Snow",
       "url": "https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct"
@@ -21790,7 +21880,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 286466,
       "name": "Waiting (20th Anniversary Edition)",
       "url": "https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS"
@@ -24243,6 +24333,24 @@
     },
     {
       "album": {
+        "name": "Stuck with you",
+        "url": "https://open.spotify.com/album/24GayrlVYp8HV5PCIFK8Ge"
+      },
+      "artists": [
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230320,
+      "name": "\uadf8\ub300\uac00 \ub0b4 \uc548\uc5d0 \ubc15\ud614\ub2e4(\uadf8\ub140 ver.) (Stuck with you)",
+      "url": "https://open.spotify.com/track/1YgG9HQXxdWCM3kVpmzwE5"
+    },
+    {
+      "album": {
         "name": "\uadf8\ub300\ub294 \ub0b4 \uc804\ubd80",
         "url": "https://open.spotify.com/album/3oNHCfdrDo9MPM4ECkrLXu"
       },
@@ -24785,6 +24893,24 @@
     },
     {
       "album": {
+        "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
+        "url": "https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256626,
+      "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
+      "url": "https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF"
+    },
+    {
+      "album": {
         "name": "Themselves OST Chapter. 3 (Soundtrack)",
         "url": "https://open.spotify.com/album/2E46TGiCyxX5W2xVtcg1LP"
       },
@@ -24818,7 +24944,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 279091,
       "name": "\uc544\uc8fc \uc9e7\uc740 \uafc8\uc744 \uafb8\uc5c8\uc5b4 (feat. \uc60c\ub9ac)",
       "url": "https://open.spotify.com/track/4JnMbSQSizWrkuss0uQjYN"

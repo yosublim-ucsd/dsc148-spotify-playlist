@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > jinx<3
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,018 likes - 1,006 songs - 2 day 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,966 likes - 1,006 songs - 2 day 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

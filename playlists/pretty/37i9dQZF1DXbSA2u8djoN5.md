@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Vlad Dobrescu
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,557 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,559 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 39 | [Transportin' \- Remix](https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Transportin' \(Remix\)](https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN) | 2:14 |
 | 40 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 |
 | 41 | [Am Zis Ceva](https://open.spotify.com/track/2u52GXrozwZePQ6EIVgz8C) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Am Zis Ceva](https://open.spotify.com/album/3pwj7bk6zW9DCIlSPQYzDY) | 4:07 |
-| 42 | [Cand Nimeni Nu Te Vede](https://open.spotify.com/track/3uloTbf9BGYUG2xVx5P5Ze) | [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [DJ Wicked](https://open.spotify.com/artist/5RKrZeSaUkCFy3DlCMXxl9) | [Cand Nimeni Nu Te Vede](https://open.spotify.com/album/1b5XlE2TsFyTPgGjaba7wz) | 2:48 |
+| 42 | [ȘTII…](https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ȘTII…](https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4) | 3:28 |
 | 43 | [GIN](https://open.spotify.com/track/1318xAofqd7PvgIrJ38hXl) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [HANNIBAL LECTER](https://open.spotify.com/album/5lluj4aH9jGUSgSUIUM90N) | 3:48 |
 | 44 | [ABRACADABRA](https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [ABRACADABRA](https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX) | 2:41 |
-| 45 | [ȘTII…](https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ȘTII…](https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4) | 3:28 |
+| 45 | [Cand Nimeni Nu Te Vede](https://open.spotify.com/track/3uloTbf9BGYUG2xVx5P5Ze) | [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [DJ Wicked](https://open.spotify.com/artist/5RKrZeSaUkCFy3DlCMXxl9) | [Cand Nimeni Nu Te Vede](https://open.spotify.com/album/1b5XlE2TsFyTPgGjaba7wz) | 2:48 |
 | 46 | [Faruri](https://open.spotify.com/track/7Ka8Irg6Q8AsmxIltryCmr) | [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B), [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Faruri](https://open.spotify.com/album/4thVbOF7oQWm7CNkSRWelg) | 3:10 |
 | 47 | [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 |
-| 48 | [ÎNPAI](https://open.spotify.com/track/2Ltwedxz1aSahjXER3LIEA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ÎNPAI](https://open.spotify.com/album/0hdybSBVj1H0CAlP02cKRa) | 2:49 |
-| 49 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
+| 48 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
+| 49 | [ÎNPAI](https://open.spotify.com/track/2Ltwedxz1aSahjXER3LIEA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ÎNPAI](https://open.spotify.com/album/0hdybSBVj1H0CAlP02cKRa) | 2:49 |
 | 50 | [\*exemplu](https://open.spotify.com/track/3yXWiBSCBr4BausXaijxhD) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [\*exemplu](https://open.spotify.com/album/2eCyWtFQJ77L554JDvAZiy) | 4:01 |
 
 Snapshot ID: `Z1tc5AAAAADPyIm+yxX7mQ8J1G5JBz0j`

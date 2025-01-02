@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي جمال
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,114 likes - 81 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,132 likes - 81 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

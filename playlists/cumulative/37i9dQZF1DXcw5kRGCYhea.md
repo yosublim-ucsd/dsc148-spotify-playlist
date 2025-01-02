@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-200 songs - 10 hr 15 min
+201 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Hyati](https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/6iFKqpX8QbNjzAvMoREpRu) | 2:35 | 2024-03-26 | 2024-04-19 |
 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-06-01 | 2024-11-07 |
 | [J'fais que danser](https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [J'fais que danser](https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27) | 2:53 | 2024-03-26 | 2024-06-07 |
+| [J'tavais dis](https://open.spotify.com/track/5Cn8WdSHzl0ieLsbeXdwge) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [J'tavais dis](https://open.spotify.com/album/4ELf00wIGNNYFT08AhUS6y) | 1:52 | 2025-01-01 |  |
 | [Jamais](https://open.spotify.com/track/0V5TEgFn7sgm8JmByj6gC1) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Jamais](https://open.spotify.com/album/2fOTv4GLRJeNNAC0jW7PUm) | 3:10 | 2024-11-06 | 2024-12-11 |
 | [Je M'en Fous](https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Je M'en Fous](https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd) | 2:57 | 2024-03-26 | 2024-07-05 |
 | [JOHN GOTTI \(feat\. Baby Gang\)](https://open.spotify.com/track/0f3DsHmOK9nzTiVU1Vvbil) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [En attendant Corleone](https://open.spotify.com/album/5Oc5pZozY1jhj7QCyTakPk) | 2:54 | 2024-03-26 | 2024-05-10 |
@@ -98,7 +99,7 @@
 | [J’crois qu’ils ont pas compris](https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:10 | 2024-08-23 | 2024-12-11 |
 | [KAN DENDEN](https://open.spotify.com/track/79d0a38YnGwNnXLe8GIMV1) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [KAN DENDEN](https://open.spotify.com/album/3xJxrhRhgu8mD4H23agugz) | 3:20 | 2024-10-18 | 2024-12-11 |
 | [Karma](https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Karma](https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y) | 2:37 | 2024-03-26 | 2024-04-19 |
-| [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-12-10 |  |
+| [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-12-10 | 2025-01-02 |
 | [Koutchi](https://open.spotify.com/track/2XBRLKDrkMfOo8e7jCyM3D) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Koutchi](https://open.spotify.com/album/5rB6vAUt14KimlyANCJZNg) | 2:42 | 2024-10-17 | 2024-12-11 |
 | [L7ara](https://open.spotify.com/track/18svODSSAYC1DeOpn20xYT) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [L7ara](https://open.spotify.com/album/3tKdlwdmM8EfhPGNfQZzze) | 3:00 | 2024-08-02 | 2024-08-16 |
 | [La nuit](https://open.spotify.com/track/0EqzmPWtJPcFvJfsa9rga7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 2:56 | 2024-03-26 | 2024-08-23 |

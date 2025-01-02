@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34710,
+  "num_followers": 34705,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAB3lZOfkCDRdQqXyzShRYBK",
+  "snapshot_id": "Z3M0AAAAAADgWrtLE+5A5whJpFseFF7S",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pede Chamando de Amor",
+        "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
+      },
+      "artists": [
+        {
+          "name": "Shevchenko e Elloco",
+          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
+        },
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Biel XCamoso",
+          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "Pede Chamando de Amor",
+      "url": "https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -407,34 +435,6 @@
       "duration_ms": 570360,
       "name": "Homenagem Aos Rel\u00edquias 6",
       "url": "https://open.spotify.com/track/1xdsUlTfAKQA9Vxnn0toIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pede Chamando de Amor",
-        "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
-      },
-      "artists": [
-        {
-          "name": "Shevchenko e Elloco",
-          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
-        },
-        {
-          "name": "MC Marley",
-          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Biel XCamoso",
-          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
-        }
-      ],
-      "duration_ms": 119248,
-      "name": "Pede Chamando de Amor",
-      "url": "https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP"
     },
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/48vC9rPy4uCnQRwAeqFJdo"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 358950,
       "name": "180",
       "url": "https://open.spotify.com/track/3hWLK4ew0rGtaFdjwcq1u4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
     },
     {
       "added_at": null,
@@ -1059,30 +1059,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
-        "url": "https://open.spotify.com/album/27tAWJ4Yh4CS6FxjIt3E1W"
+        "name": "Como Se T\u00e1 Maravilhosa",
+        "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
       },
       "artists": [
         {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ DEIV\u00c3O",
-          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
-        },
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
         }
       ],
-      "duration_ms": 162764,
-      "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
-      "url": "https://open.spotify.com/track/5kIEFlkeSBl3Dw7KSoqSi2"
+      "duration_ms": 210520,
+      "name": "Como Se T\u00e1 Maravilhosa",
+      "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
     },
     {
       "added_at": null,
@@ -1127,22 +1119,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Se T\u00e1 Maravilhosa",
-        "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
+        "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
+        "url": "https://open.spotify.com/album/27tAWJ4Yh4CS6FxjIt3E1W"
       },
       "artists": [
         {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        }
+      ],
+      "duration_ms": 162764,
+      "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
+      "url": "https://open.spotify.com/track/5kIEFlkeSBl3Dw7KSoqSi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PANCADA",
+        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "TH4I",
+          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Como Se T\u00e1 Maravilhosa",
-      "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
+      "duration_ms": 135616,
+      "name": "PANCADA",
+      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
     },
     {
       "added_at": null,
@@ -1183,30 +1207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANCADA",
-        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "TH4I",
-          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
-        }
-      ],
-      "duration_ms": 135616,
-      "name": "PANCADA",
-      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catucad\u00e3o",
         "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
       },
@@ -1231,38 +1231,6 @@
       "duration_ms": 138900,
       "name": "Catucad\u00e3o",
       "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rave Don't Start Now",
-        "url": "https://open.spotify.com/album/3xOrZD9NxfMTD08Yjx4vt7"
-      },
-      "artists": [
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "Mc Rd",
-          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
-        },
-        {
-          "name": "MC BN",
-          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
-        },
-        {
-          "name": "MC Bruna Alves",
-          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 237230,
-      "name": "Rave Don't Start Now",
-      "url": "https://open.spotify.com/track/1rjQCYjZkl475WiV1YhAbF"
     },
     {
       "added_at": null,
@@ -1335,6 +1303,38 @@
       "duration_ms": 241899,
       "name": "Rel\u00edquias da Marketada",
       "url": "https://open.spotify.com/track/46rzoekJ9TnohJdBJcCUS3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rave Don't Start Now",
+        "url": "https://open.spotify.com/album/3xOrZD9NxfMTD08Yjx4vt7"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        },
+        {
+          "name": "MC BN",
+          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
+        },
+        {
+          "name": "MC Bruna Alves",
+          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 237230,
+      "name": "Rave Don't Start Now",
+      "url": "https://open.spotify.com/track/1rjQCYjZkl475WiV1YhAbF"
     },
     {
       "added_at": null,
@@ -1415,6 +1415,62 @@
       "duration_ms": 225230,
       "name": "No Sigilo (Medley Delas)",
       "url": "https://open.spotify.com/track/2m5poJAyoqPGFpNPUtnXQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SET COQUETEL MOLOTOV",
+        "url": "https://open.spotify.com/album/2ftpOZqO43lSOsoH4p1VXG"
+      },
+      "artists": [
+        {
+          "name": "Dj Rhuivo",
+          "url": "https://open.spotify.com/artist/16nxxy3xbRtRtcK7buR2PQ"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "ZANETTI",
+          "url": "https://open.spotify.com/artist/2ftTXbeHBmrd2acZzKodnf"
+        },
+        {
+          "name": "Caio Viny",
+          "url": "https://open.spotify.com/artist/6CNeKQxqSBGU8Btb9ZLOMt"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Will do Paraiso",
+          "url": "https://open.spotify.com/artist/0s9DH3LAJIHZQaXbVLjAnd"
+        },
+        {
+          "name": "Mc Chumbinho",
+          "url": "https://open.spotify.com/artist/4sTPKiaUf0ZL6OPI7g57y4"
+        },
+        {
+          "name": "MB Music Studio",
+          "url": "https://open.spotify.com/artist/75UAWac23o9MglK4Hc58nD"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 511029,
+      "name": "SET COQUETEL MOLOTOV",
+      "url": "https://open.spotify.com/track/2sPZNhhuFjjeIzqgz9C95r"
     },
     {
       "added_at": null,
@@ -1547,34 +1603,6 @@
       "duration_ms": 134769,
       "name": "Mentiroso Que Vem Junto",
       "url": "https://open.spotify.com/track/5wr5mPRFg0hb3D7PZ7q6ux"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9 S\u00f3 Pirocad\u00e3o (Brega Funk Remix)",
-        "url": "https://open.spotify.com/album/69LyHjijVlo0FEEGoKDe02"
-      },
-      "artists": [
-        {
-          "name": "O Brutto",
-          "url": "https://open.spotify.com/artist/6cu7LD1IwsOS6Rtgr2F0BV"
-        },
-        {
-          "name": "Tinho do Coque",
-          "url": "https://open.spotify.com/artist/14IIWGbDqOjAFpxmOoEsmt"
-        },
-        {
-          "name": "Pop Na Batida",
-          "url": "https://open.spotify.com/artist/7lu87j6js86vL5rp9qczz0"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 121600,
-      "name": "\u00c9 S\u00f3 Pirocad\u00e3o - Brega Funk Remix",
-      "url": "https://open.spotify.com/track/0r6btzAF7SYcYjCCFckau4"
     }
   ],
   "unique_name": "This Is Mc Dricka",

@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 512818,
+  "num_followers": 513237,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Ilo Veyou",
-        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
+        "name": "Attraction",
+        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
       },
       "artists": [
         {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
         }
       ],
-      "duration_ms": 223880,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+      "duration_ms": 220933,
+      "name": "Fibre De Verre",
+      "url": "https://open.spotify.com/track/1DaKM1Mzf9cOhHF9eKZZ4w"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Attraction",
-        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
       "artists": [
         {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
         }
       ],
-      "duration_ms": 220933,
-      "name": "Fibre De Verre",
-      "url": "https://open.spotify.com/track/1DaKM1Mzf9cOhHF9eKZZ4w"
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+        "name": "Ilo Veyou",
+        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
       },
       "artists": [
         {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+      "duration_ms": 223880,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "De La Chanson Et Puis C'Est Tout...",
-        "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
-      },
-      "artists": [
-        {
-          "name": "Makali",
-          "url": "https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "Il Faut Du Temps Au Temps",
-      "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Merle Noir",
         "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 261093,
       "name": "Mon fant\u00f4me",
       "url": "https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "De La Chanson Et Puis C'Est Tout...",
+        "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
+      },
+      "artists": [
+        {
+          "name": "Makali",
+          "url": "https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "Il Faut Du Temps Au Temps",
+      "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Ses plus grandes chansons",
-        "url": "https://open.spotify.com/album/7rIogJY52Q5DXs77gOZYaq"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dans mon \u00eele",
-      "url": "https://open.spotify.com/track/5VrG6UV06VZryXqtY6a2Jo"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "La javanaise",
         "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 121599,
       "name": "La javanaise",
       "url": "https://open.spotify.com/track/4RiomsjTG30IR5V72paigO"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Ses plus grandes chansons",
+        "url": "https://open.spotify.com/album/7rIogJY52Q5DXs77gOZYaq"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dans mon \u00eele",
+      "url": "https://open.spotify.com/track/5VrG6UV06VZryXqtY6a2Jo"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "La Chapelle Au Clair De Lune",
-        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
-      },
-      "artists": [
-        {
-          "name": "Leo Marjane",
-          "url": "https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "En septembre sous la pluie",
-      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Fourteen",
         "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 197480,
       "name": "Plus je t'embrasse",
       "url": "https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "La Chapelle Au Clair De Lune",
+        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
+      },
+      "artists": [
+        {
+          "name": "Leo Marjane",
+          "url": "https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "En septembre sous la pluie",
+      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Mon Amie La Rose",
-        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
-      },
-      "artists": [
-        {
-          "name": "Livia Blanc",
-          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
-        }
-      ],
-      "duration_ms": 123078,
-      "name": "Mon Amie La Rose",
-      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "B Bardot - CD Story",
         "url": "https://open.spotify.com/album/0moSn0vXjIrzWZH0weiFif"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 196906,
       "name": "Le soleil",
       "url": "https://open.spotify.com/track/1ddDudbgEXIFqMJQzHxidQ"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Mon Amie La Rose",
+        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
+      },
+      "artists": [
+        {
+          "name": "Livia Blanc",
+          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
+        }
+      ],
+      "duration_ms": 123078,
+      "name": "Mon Amie La Rose",
+      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
     },
     {
       "added_at": "2024-06-03 11:39:48",

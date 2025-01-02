@@ -1,6 +1,6 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 257802,
+  "num_followers": 257816,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 217480,
       "name": "Almost (Sweet Music)",
       "url": "https://open.spotify.com/track/7uttm8Iurm5uK67Vr9G2Sp"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Small Changes",
@@ -799,22 +815,6 @@
       "duration_ms": 200626,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
     },
     {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "The scientist",
@@ -999,6 +983,22 @@
       "duration_ms": 267700,
       "name": "The scientist",
       "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
+        "name": "Grow As We Go (feat. Sara Bareilles)",
+        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 249937,
+      "name": "Grow as We Go (feat. Sara Bareilles)",
+      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
         "name": "Fantasy Gateway",
         "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 232298,
       "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
       "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
-        "name": "Grow As We Go (feat. Sara Bareilles)",
-        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        },
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 249937,
-      "name": "Grow as We Go (feat. Sara Bareilles)",
-      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Bizarre Love Triangle",
-        "url": "https://open.spotify.com/album/2h6iVonhyyWxdLe3My7OP3"
-      },
-      "artists": [
-        {
-          "name": "Juliana Madrid",
-          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
-        }
-      ],
-      "duration_ms": 189266,
-      "name": "Bizarre Love Triangle",
-      "url": "https://open.spotify.com/track/1mu2GRCsfljNzuPY0KFPay"
-    },
-    {
       "added_at": "2024-07-15 19:31:50",
       "album": {
         "name": "All I Have To Do Is Dream",
@@ -1655,6 +1639,22 @@
       "duration_ms": 170454,
       "name": "All I Have To Do Is Dream",
       "url": "https://open.spotify.com/track/747tzQVeqAZFZdEO5SEJ2X"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Bizarre Love Triangle",
+        "url": "https://open.spotify.com/album/2h6iVonhyyWxdLe3My7OP3"
+      },
+      "artists": [
+        {
+          "name": "Juliana Madrid",
+          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "Bizarre Love Triangle",
+      "url": "https://open.spotify.com/track/1mu2GRCsfljNzuPY0KFPay"
     },
     {
       "added_at": "2024-07-15 19:31:50",

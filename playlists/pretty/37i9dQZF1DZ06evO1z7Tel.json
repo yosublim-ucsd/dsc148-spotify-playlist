@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 34247,
+  "num_followers": 34257,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAACWEdBTiMtc7AgY5UVRLr1E",
+  "snapshot_id": "Z3M0AAAAAAAtKR/gjU8qNRc3nebzaNWI",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos De (Vol. 2)",
-        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 160040,
-      "name": "Dados Cargados",
-      "url": "https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Tumbas",
         "url": "https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 168520,
       "name": "Las Tres Tumbas",
       "url": "https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos De (Vol. 2)",
+        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 160040,
+      "name": "Dados Cargados",
+      "url": "https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros Musicales",
-        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
+        "name": "Noches Eternas",
+        "url": "https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 187346,
-      "name": "Al Pie De Un Arbol",
-      "url": "https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2"
+      "duration_ms": 149826,
+      "name": "El Sauce Y La Palma",
+      "url": "https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noches Eternas",
-        "url": "https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T"
+        "name": "Tesoros Musicales",
+        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 149826,
-      "name": "El Sauce Y La Palma",
-      "url": "https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3"
+      "duration_ms": 187346,
+      "name": "Al Pie De Un Arbol",
+      "url": "https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos De Carlos y Jose Vol. 1",
-        "url": "https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "El Pasito Vaquero",
-      "url": "https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Pal Jefe",
-        "url": "https://open.spotify.com/album/6JH1399KblhXLCUlJqJ9Fx"
+        "name": "Recuerdos De Carlos y Jose Vol. 1",
+        "url": "https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l"
       },
       "artists": [
         {
@@ -660,25 +644,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 154040,
-      "name": "Duelo De Fieras",
-      "url": "https://open.spotify.com/track/67nborVsC6lUgXHu6zyXGT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "La Emboscada Del Gallo",
-      "url": "https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW"
+      "duration_ms": 163786,
+      "name": "El Pasito Vaquero",
+      "url": "https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs"
     },
     {
       "added_at": null,
@@ -695,6 +663,22 @@
       "duration_ms": 198626,
       "name": "El Gallo De San Juan",
       "url": "https://open.spotify.com/track/4oK6HoJpq8pFdSg3AvO2CC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "La Emboscada Del Gallo",
+      "url": "https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Pal Jefe",
+        "url": "https://open.spotify.com/album/6JH1399KblhXLCUlJqJ9Fx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 154040,
+      "name": "Duelo De Fieras",
+      "url": "https://open.spotify.com/track/67nborVsC6lUgXHu6zyXGT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Primeros 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "Tengo a Mi Lupe",
-      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Imposible",
         "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 147453,
       "name": "El Mandil\u00f3n",
       "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestros Primeros 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "Tengo a Mi Lupe",
+      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
     },
     {
       "added_at": null,

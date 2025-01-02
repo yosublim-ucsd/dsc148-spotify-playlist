@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59147,
+  "num_followers": 59144,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "Talk / Bye Bye",
+        "url": "https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
         "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Talk / Bye Bye",
-        "url": "https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Vad har du gjort med mig",
-        "url": "https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB"
-      },
-      "artists": [
-        {
-          "name": "Arwin",
-          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Vad har du gjort med mig",
-      "url": "https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -623,6 +607,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "Vad har du gjort med mig",
+        "url": "https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB"
+      },
+      "artists": [
+        {
+          "name": "Arwin",
+          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Vad har du gjort med mig",
+      "url": "https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "When she holds me",
         "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
       },
@@ -635,26 +635,6 @@
       "duration_ms": 243440,
       "name": "When she holds me",
       "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 164628,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -691,18 +671,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Hur ska jag sova inatt",
-        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW"
       },
       "artists": [
         {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
         }
       ],
-      "duration_ms": 161434,
-      "name": "Hur ska jag sova inatt",
-      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
+      "duration_ms": 164628,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -719,6 +703,22 @@
       "duration_ms": 200698,
       "name": "I natt \u00e9 hela staden v\u00e5r",
       "url": "https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Hur ska jag sova inatt",
+        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "duration_ms": 161434,
+      "name": "Hur ska jag sova inatt",
+      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Old Memories",
-        "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
       },
       "artists": [
         {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Old Memories",
-      "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
+      "duration_ms": 203339,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -915,6 +915,22 @@
       "duration_ms": 179754,
       "name": "Strong",
       "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Old Memories",
+        "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Old Memories",
+      "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -967,22 +983,6 @@
       "duration_ms": 190800,
       "name": "GODDESS",
       "url": "https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
-      },
-      "artists": [
-        {
-          "name": "total tommy",
-          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
-        }
-      ],
-      "duration_ms": 203339,
-      "name": "REAL",
-      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Can't Forget",
-        "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
-      },
-      "artists": [
-        {
-          "name": "Daniel Javan",
-          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
-        },
-        {
-          "name": "Rivio",
-          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
-        },
-        {
-          "name": "Dean Andrew",
-          "url": "https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Can't Forget",
-      "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "APTIT",
         "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
       },
@@ -1183,18 +1159,26 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8"
+        "name": "Can't Forget",
+        "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
       },
       "artists": [
         {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+          "name": "Daniel Javan",
+          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
+        },
+        {
+          "name": "Rivio",
+          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
+        },
+        {
+          "name": "Dean Andrew",
+          "url": "https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq"
         }
       ],
-      "duration_ms": 166043,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
+      "duration_ms": 152470,
+      "name": "Can't Forget",
+      "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1211,6 +1195,22 @@
       "duration_ms": 149059,
       "name": "Ramlar jag s\u00e5 faller allt",
       "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "duration_ms": 166043,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Dina \u00d6gon \u00c4r Nakna",
-        "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
-      },
-      "artists": [
-        {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Dina \u00d6gon \u00c4r Nakna",
-      "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Ditt safeword ikv\u00e4ll?",
         "url": "https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 151072,
       "name": "Ordna sig",
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Dina \u00d6gon \u00c4r Nakna",
+        "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
+      },
+      "artists": [
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Dina \u00d6gon \u00c4r Nakna",
+      "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "P\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
+      },
+      "artists": [
+        {
+          "name": "PYK",
+          "url": "https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm"
+        }
+      ],
+      "duration_ms": 189599,
+      "name": "P\u00e5 v\u00e4g",
+      "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "Gimme",
         "url": "https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 193327,
       "name": "Idioti",
       "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "P\u00e5 v\u00e4g",
-        "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
-      },
-      "artists": [
-        {
-          "name": "PYK",
-          "url": "https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm"
-        }
-      ],
-      "duration_ms": 189599,
-      "name": "P\u00e5 v\u00e4g",
-      "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Apple Cider Vinaigrette",
-        "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC"
       },
       "artists": [
         {
-          "name": "Diane Emerita",
-          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+          "name": "Kissimjau",
+          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
         }
       ],
-      "duration_ms": 224039,
-      "name": "Apple Cider Vinaigrette",
-      "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
+      "duration_ms": 188176,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1475,6 +1475,22 @@
       "duration_ms": 178560,
       "name": "Katterna",
       "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Apple Cider Vinaigrette",
+        "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
+      },
+      "artists": [
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        }
+      ],
+      "duration_ms": 224039,
+      "name": "Apple Cider Vinaigrette",
+      "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1507,22 +1523,6 @@
       "duration_ms": 223202,
       "name": "Scenic Route",
       "url": "https://open.spotify.com/track/4QgU8OOYkBIgCtL7b2PWCT"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC"
-      },
-      "artists": [
-        {
-          "name": "Kissimjau",
-          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
-        }
-      ],
-      "duration_ms": 188176,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I"
     }
   ],
   "unique_name": "p\u00e5 repeat",

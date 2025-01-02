@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: Q the trumpet)",
+  "description": "All about Korean Jazz hits & new (Cover: JEZZ)",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -2224,6 +2224,28 @@
       "duration_ms": 274133,
       "name": "MuRR P84. Journey Through Autumn",
       "url": "https://open.spotify.com/track/4WVnYvAuQVgXN1runmRk9w"
+    },
+    {
+      "album": {
+        "name": "JEZZ or JAZZ (Feat. Yireh)",
+        "url": "https://open.spotify.com/album/6oOiquCBmbnfnekb0QtJIC"
+      },
+      "artists": [
+        {
+          "name": "JEZZ",
+          "url": "https://open.spotify.com/artist/7rU69MSitmrRQtoZoY6h8Q"
+        },
+        {
+          "name": "Yireh",
+          "url": "https://open.spotify.com/artist/67m3FjwGv4IGpLXQycLnE6"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248640,
+      "name": "My weird music (Feat. Yireh)",
+      "url": "https://open.spotify.com/track/5BhDJIAXEpdpEwlJBfLzh8"
     },
     {
       "album": {

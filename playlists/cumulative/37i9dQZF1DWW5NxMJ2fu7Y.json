@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "ALLO",
+        "url": "https://open.spotify.com/album/0tpHKF7aOnredOpDRKRsTi"
+      },
+      "artists": [
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267303,
+      "name": "Getafe",
+      "url": "https://open.spotify.com/track/7MpbWOY0wbpdNCdXbeoCeV"
+    },
+    {
+      "album": {
         "name": "ALLO (Deleted)",
         "url": "https://open.spotify.com/album/1rOpXrw9XymF2ywzE5Rc14"
       },
@@ -638,7 +656,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 267303,
       "name": "Getafe",
       "url": "https://open.spotify.com/track/4OeschE7uVqNOJc95EhK1d"
@@ -948,7 +966,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 242602,
       "name": "Lights",
       "url": "https://open.spotify.com/track/6w3OVt4jAtVAXB4olwyfFD"
@@ -1724,6 +1742,24 @@
       "duration_ms": 205000,
       "name": "RBI M3ANA",
       "url": "https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/2hNO1BNJazh2NcggpWr5yg"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5uuCn3kSNvbog2DKc8m9En"
     },
     {
       "album": {

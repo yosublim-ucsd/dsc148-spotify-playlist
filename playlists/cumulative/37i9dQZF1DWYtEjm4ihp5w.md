@@ -4,7 +4,7 @@
 
 > Bo9al f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-343 songs - 18 hr 24 min
+344 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [9awdooha](https://open.spotify.com/track/47KfyhP2ug5y5kyOSOtxl9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [9awdooha](https://open.spotify.com/album/03uT25cdW6GeUcRRE3Ulv3) | 3:47 | 2024-10-02 | 2024-10-23 |
 | [A](https://open.spotify.com/track/3PXHRtEZ3UErU6ByaJhSnd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [ABCÈS](https://open.spotify.com/album/4zvlxTPmMfSguMeIpeyjbj) | 2:42 | 2022-12-24 | 2023-01-01 |
 | [ACH KHBARKOM](https://open.spotify.com/track/6tPMsNHDqitLURI5FMcNm6) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [ACH KHBARKOM](https://open.spotify.com/album/0YVZWo3y2gsX6Dev7uGp71) | 3:33 | 2024-05-02 | 2024-12-20 |
+| [AIN'T NO MERCY](https://open.spotify.com/track/1UyoLF9J88jvOimhEy6jnm) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [AIN'T NO MERCY](https://open.spotify.com/album/1oorWXeTEMNlDYJWcHYkNZ) | 2:30 | 2025-01-01 |  |
 | [AJI TCHOUF](https://open.spotify.com/track/75DWIaOCmyEP7licOYs9pl) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [AJI TCHOUF](https://open.spotify.com/album/3QcLNHlCktUOE2d2QknP8K) | 3:56 | 2023-09-21 | 2023-12-30 |
 | [Akhennouch](https://open.spotify.com/track/0jhnXwnkKVB4FpI3Y7nJjW) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie \(DELUXE\)](https://open.spotify.com/album/5KH7VsdG6AuFxZygl3osgS) | 2:43 | 2024-09-01 |  |
 | [Akhennouch](https://open.spotify.com/track/4ue8qeZznm4DJJFs7DXYCk) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie](https://open.spotify.com/album/2f1y0eNkIK9RQdwhWdNJ8a) | 2:43 | 2023-11-10 | 2024-05-10 |

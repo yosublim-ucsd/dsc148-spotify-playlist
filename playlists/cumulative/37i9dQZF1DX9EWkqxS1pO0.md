@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: DOU
 
-172 songs - 8 hr 22 min
+173 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [İstila](https://open.spotify.com/track/55RMTZJaCJpUl4lT8JmJX7) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [DANS İLLÜZYON](https://open.spotify.com/album/5jBFycgr33bOZb68ET8XfB) | 3:21 | 2024-06-20 | 2024-08-09 |
 | [Kalbim Vazgeçer mi?](https://open.spotify.com/track/008H1sk94IpxHMBCKmFmGI) | [Pınar Çubukçu](https://open.spotify.com/artist/0KrM666qwols9GarWiIMCD) | [Kalbim Vazgeçer mi?](https://open.spotify.com/album/7gPUDvmlP1T8ZKxYylVgHA) | 2:58 | 2024-09-05 | 2024-10-04 |
 | [Kalbimden Bi' Parçaydın](https://open.spotify.com/track/06YTnPqciwB921z8Ks0RBo) | [Eytan](https://open.spotify.com/artist/3rtgZpxBTGp6NWtLMDvvEO) | [Kalbimden Bi' Parçaydın](https://open.spotify.com/album/5UK9Y2p4My2SWMSC7oKuHq) | 2:11 | 2024-06-20 | 2024-08-05 |
+| [Karagözler](https://open.spotify.com/track/72ABqzsSx86xLNo1qi2QSs) | [İzelle](https://open.spotify.com/artist/6WrduelskQhS1vhzcHSnNY) | [Karagözler](https://open.spotify.com/album/6xoVw29QIyslJ1vsaXemT9) | 3:01 | 2024-12-19 |  |
 | [Kaçıncı Yalan](https://open.spotify.com/track/6Fa9gCZDAtVHzG67zVzOAt) | [İnsan Mıyız](https://open.spotify.com/artist/6rhzUB6lAmzEpEDVkBIi7T) | [Kaçıncı Yalan](https://open.spotify.com/album/1BJAuJgaKr1dKCh19TpARY) | 2:11 | 2024-06-20 | 2024-07-20 |
 | [kelepçe](https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W), [Reflectionz](https://open.spotify.com/artist/5r0ab3bcrUY6uixHCr28Xo) | [kelepçe](https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w) | 2:19 | 2024-06-20 |  |
 | [Konstantinopolis](https://open.spotify.com/track/0vyeBHAowqHWGY67I0APGZ) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Konstantinopolis](https://open.spotify.com/album/74TJrtvcCD4EFJfXJSje2f) | 3:16 | 2024-06-20 |  |
@@ -105,7 +106,7 @@
 | [Normalde](https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Normalde](https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs) | 2:21 | 2024-06-20 |  |
 | [o bi' başka](https://open.spotify.com/track/2b7zktvPnAnWSRKJ3gNB84) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [o bi' başka](https://open.spotify.com/album/26P0TgguVaq5GqFcfX6xzk) | 2:34 | 2024-08-22 |  |
 | [olmazsan da olur](https://open.spotify.com/track/0YrMEGICoUQ5QzQPmUDqou) | [ILKE](https://open.spotify.com/artist/6HFMFBSKBz3HrMIvmdM5LP), [Özkan](https://open.spotify.com/artist/4DtIvaqPA65sH5o6oelleY) | [olmazsan da olur](https://open.spotify.com/album/4qaSxmAB6YkR0t9U0Bmbrr) | 3:46 | 2024-06-20 | 2024-07-12 |
-| [olsaydın yanımda](https://open.spotify.com/track/3WHU6ASNzybwyQvFtj7Azp) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [olsaydın yanımda](https://open.spotify.com/album/2H4o5OAvY21uM4jsxk1UOL) | 2:11 | 2024-10-17 |  |
+| [olsaydın yanımda](https://open.spotify.com/track/3WHU6ASNzybwyQvFtj7Azp) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [olsaydın yanımda](https://open.spotify.com/album/2H4o5OAvY21uM4jsxk1UOL) | 2:11 | 2024-10-17 | 2025-01-02 |
 | [Onu da Hiç Silemedim Bir Anısı Var](https://open.spotify.com/track/7F5UtoioUJvUjMUkE6GnPi) | [TurkodiRoma](https://open.spotify.com/artist/5ms13kENAqc7SAFQvPQz7L) | [Onu da Hiç Silemedim Bir Anısı Var](https://open.spotify.com/album/2ptbJBBhBDpgIUhw10x0qg) | 2:36 | 2024-07-12 |  |
 | [rüyet](https://open.spotify.com/track/7thtv8TVmmxx5edxwk9r1o) | [Anıl Ulusoy](https://open.spotify.com/artist/4GiOCNBFYdYJ0e7trjiOaO), [Suzan Hacigarip](https://open.spotify.com/artist/70sxCmeoRmcpTdH4atqPDV) | [rüyet](https://open.spotify.com/album/43RbKe4SAbTgx2GqLINY43) | 4:15 | 2024-06-20 |  |
 | [Rüzgarın Peşinde](https://open.spotify.com/track/2dlYKaAlRXc3s9Xt0T6XvV) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Rüzgarın Peşinde](https://open.spotify.com/album/3fsBYajHJEHVWHL9Qw6ZQ8) | 3:34 | 2024-06-20 | 2024-08-10 |

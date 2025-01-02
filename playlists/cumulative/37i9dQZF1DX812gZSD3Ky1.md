@@ -2,7 +2,7 @@
 
 ### [Viral Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DX812gZSD3Ky1)
 
-> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ปก: James ROSÉ
+> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ปก: ROSÉ
 
 378 songs - 20 hr 34 min
 

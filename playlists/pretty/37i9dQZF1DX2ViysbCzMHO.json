@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 163898,
+  "num_followers": 163951,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "This City Remix (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+        "name": "You (Acoustic)",
+        "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 194837,
-      "name": "This City Remix (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+      "duration_ms": 203373,
+      "name": "You - Acoustic",
+      "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -483,18 +479,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "You (Acoustic)",
-        "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
+        "name": "This City Remix (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 203373,
-      "name": "You - Acoustic",
-      "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
+      "duration_ms": 194837,
+      "name": "This City Remix (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "We Got History (Acoustic)",
-        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+        "name": "All I Know About Girls",
+        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
       },
       "artists": [
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 216551,
-      "name": "We Got History - Acoustic",
-      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+      "duration_ms": 162920,
+      "name": "All I Know About Girls",
+      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "All I Know About Girls",
-        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 162920,
-      "name": "All I Know About Girls",
-      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
-        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "You Don\u2019t Want That Smoke. - The Acoustic Version.",
-      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "That's Why (Acoustic Version)",
         "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 177772,
       "name": "That's Why (Acoustic Version)",
       "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
+        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "You Don\u2019t Want That Smoke. - The Acoustic Version.",
+      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "As You Leave (undone)",
-        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "As You Leave (undone)",
-      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Honestly (Deluxe)",
         "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 212932,
       "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
       "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "As You Leave (undone)",
+        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "As You Leave (undone)",
+      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Breakin' in Boots (Stripped)",
-        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "Breakin' in Boots - Stripped",
-      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Creek Will Rise (Acoustic)",
         "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 171320,
       "name": "Creek Will Rise - Acoustic",
       "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Breakin' in Boots (Stripped)",
+        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "duration_ms": 154173,
+      "name": "Breakin' in Boots - Stripped",
+      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
     },
     {
       "added_at": "2024-10-04 04:00:00",

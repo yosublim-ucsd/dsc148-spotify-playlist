@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 349103,
+  "num_followers": 349247,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Wide Place",
-        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
-      },
-      "artists": [
-        {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
-        }
-      ],
-      "duration_ms": 262889,
-      "name": "Wide Place",
-      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "L E P E R S",
         "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 250555,
       "name": "L E P E R S",
       "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Wide Place",
+        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "duration_ms": 262889,
+      "name": "Wide Place",
+      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Saving Me Still",
+        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
+      },
+      "artists": [
+        {
+          "name": "Justin Jarvis",
+          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
+        }
+      ],
+      "duration_ms": 380800,
+      "name": "Saving Me Still",
+      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Saving Me Still",
-        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
-      },
-      "artists": [
-        {
-          "name": "Justin Jarvis",
-          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Saving Me Still",
-      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Holy Love",
-        "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Holy Love",
-      "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "In Every Way",
         "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 244746,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Holy Love",
+        "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Holy Love",
+      "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "The Longing",
-        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
-      },
-      "artists": [
-        {
-          "name": "Ben Ford",
-          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
-        }
-      ],
-      "duration_ms": 289048,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Still There's Something",
         "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 218382,
       "name": "Still There's Something",
       "url": "https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "The Longing",
+        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
+      },
+      "artists": [
+        {
+          "name": "Ben Ford",
+          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
+        }
+      ],
+      "duration_ms": 289048,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "\u2020 (just the cross)",
         "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "peacefully",
-        "url": "https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI"
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
       },
       "artists": [
         {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
         }
       ],
-      "duration_ms": 121363,
-      "name": "peacefully",
-      "url": "https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM"
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1071,34 +1087,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+        "name": "peacefully",
+        "url": "https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI"
       },
       "artists": [
         {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
         }
       ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
+      "duration_ms": 121363,
+      "name": "peacefully",
+      "url": "https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "You Never Break a Promise",
-        "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
+        "name": "Grace after Grace",
+        "url": "https://open.spotify.com/album/14lJlizbzXdtC2nrS0nR5O"
       },
       "artists": [
         {
-          "name": "Mountaintops",
-          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        },
+        {
+          "name": "Kenny J West",
+          "url": "https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb"
         }
       ],
-      "duration_ms": 337760,
-      "name": "You Never Break a Promise",
-      "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
+      "duration_ms": 253058,
+      "name": "Grace after Grace",
+      "url": "https://open.spotify.com/track/5h3Zp8z3UP5zqsuUIFgHRf"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Grace after Grace",
-        "url": "https://open.spotify.com/album/14lJlizbzXdtC2nrS0nR5O"
+        "name": "You Never Break a Promise",
+        "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
       },
       "artists": [
         {
-          "name": "Jimi Cravity",
-          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
-        },
-        {
-          "name": "Kenny J West",
-          "url": "https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb"
+          "name": "Mountaintops",
+          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
         }
       ],
-      "duration_ms": 253058,
-      "name": "Grace after Grace",
-      "url": "https://open.spotify.com/track/5h3Zp8z3UP5zqsuUIFgHRf"
+      "duration_ms": 337760,
+      "name": "You Never Break a Promise",
+      "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
-      },
-      "artists": [
-        {
-          "name": "Faith Rose",
-          "url": "https://open.spotify.com/artist/364y53omHupjImsnsOJkpp"
-        }
-      ],
-      "duration_ms": 229617,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Teach Us That One Song",
         "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
+      },
+      "artists": [
+        {
+          "name": "Faith Rose",
+          "url": "https://open.spotify.com/artist/364y53omHupjImsnsOJkpp"
+        }
+      ],
+      "duration_ms": 229617,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
     },
     {
       "added_at": "2024-08-03 00:38:12",

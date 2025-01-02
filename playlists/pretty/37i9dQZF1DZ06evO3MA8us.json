@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 34136,
+  "num_followers": 34140,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAACzs0ryeDWdjozd2iGKVWOq",
+  "snapshot_id": "Z3M0AAAAAACH4JydeFe/TkvE4jIwykpK",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Thing Remains",
+        "url": "https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "One Thing Remains",
+      "url": "https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whole Heart (Live)",
         "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 426573,
       "name": "God, You\u2019re So Good - Live",
       "url": "https://open.spotify.com/track/3AHWbUsTaYecnT4aTEU0ut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Thing Remains",
-        "url": "https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "One Thing Remains",
-      "url": "https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy"
     },
     {
       "added_at": null,
@@ -704,17 +704,17 @@
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         },
         {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         }
       ],
-      "duration_ms": 1209226,
-      "name": "Agnus Dei - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6u2N3zMvMTe2nLiG8xwkQw"
+      "duration_ms": 629368,
+      "name": "Holy Forever - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Even So Come (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "How He Loves - Live",
-      "url": "https://open.spotify.com/track/5z24Hr3TKxeyeLRKFRHuzB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
       },
@@ -779,22 +759,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Passion: Even So Come (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "How He Loves - Live",
+      "url": "https://open.spotify.com/track/5z24Hr3TKxeyeLRKFRHuzB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call on Heaven (Live)",
         "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
           "name": "Passion",
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 629368,
-      "name": "Holy Forever - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV"
+      "duration_ms": 1209226,
+      "name": "Agnus Dei - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6u2N3zMvMTe2nLiG8xwkQw"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: A Generation United For His Renown",
-        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 514039,
-      "name": "Amazing Grace (My Chains Are Gone) - Live",
-      "url": "https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 313228,
       "name": "Here It Is (I Worship You) - Live From Passion 2023",
       "url": "https://open.spotify.com/track/70xFZ3jcTwlgBlAD8TjHjF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: A Generation United For His Renown",
+        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 514039,
+      "name": "Amazing Grace (My Chains Are Gone) - Live",
+      "url": "https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chris Tomlin Collection",
-        "url": "https://open.spotify.com/album/1VRAoAI3SKZCPBk74dTZlT"
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
       },
       "artists": [
         {
@@ -932,13 +932,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 278452,
-      "name": "God Of Wonders - Live",
-      "url": "https://open.spotify.com/track/2DfkjvYqfT83ypbjIkBRBp"
+      "duration_ms": 340572,
+      "name": "Yesterday, Today And Forever - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z"
     },
     {
       "added_at": null,
@@ -983,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn Bright",
-        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+        "name": "Chris Tomlin Collection",
+        "url": "https://open.spotify.com/album/1VRAoAI3SKZCPBk74dTZlT"
       },
       "artists": [
         {
@@ -992,13 +992,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 340572,
-      "name": "Yesterday, Today And Forever - Live From Passion 2022",
-      "url": "https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z"
+      "duration_ms": 278452,
+      "name": "God Of Wonders - Live",
+      "url": "https://open.spotify.com/track/2DfkjvYqfT83ypbjIkBRBp"
     },
     {
       "added_at": null,

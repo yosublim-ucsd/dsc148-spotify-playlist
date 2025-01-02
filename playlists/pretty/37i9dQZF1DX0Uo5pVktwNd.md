@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,108 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,205 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 31 | [Kya Soorat Hai](https://open.spotify.com/track/2uGLo0jNB0LNDX5yHkZhFR) | [Bombay Vikings](https://open.spotify.com/artist/0IOJyZSSqmto4oze5nSCo0) | [Kya Surat Hai](https://open.spotify.com/album/2bQctlBwJyk3uL2jG8f3bN) | 3:53 |
 | 32 | [Kabhi Nahee](https://open.spotify.com/track/3zeTPFtnlR72qRnBH3g2xd) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 3:39 |
 | 33 | [Aaja Sohneya](https://open.spotify.com/track/1DfskI6r7ufeVEiV1DQZf6) | [Bally Jagpal](https://open.spotify.com/artist/3mMwnm3FuucDtmcuWRoKiG), [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S) | [Dark & Dangerous](https://open.spotify.com/album/1CDM75MwzrJdekLr7O92bu) | 7:22 |
-| 34 | [Yeh Kya Hua](https://open.spotify.com/track/6P6o9pPFIYMxxnEhsvgfJA) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 5:03 |
-| 35 | [Gur Nalon Ishq Mitha](https://open.spotify.com/track/5h9f2B6A7V4k50j1UtrSBD) | [Bally Sagoo](https://open.spotify.com/artist/0qmPtVxxIwxoW4QczZGsQZ), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [Dance Connection \- The Compilation](https://open.spotify.com/album/7H8XVQxSBwZnBPZlHwxwiI) | 11:43 |
+| 34 | [Gur Nalon Ishq Mitha](https://open.spotify.com/track/5h9f2B6A7V4k50j1UtrSBD) | [Bally Sagoo](https://open.spotify.com/artist/0qmPtVxxIwxoW4QczZGsQZ), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [Dance Connection \- The Compilation](https://open.spotify.com/album/7H8XVQxSBwZnBPZlHwxwiI) | 11:43 |
+| 35 | [Yeh Kya Hua](https://open.spotify.com/track/6P6o9pPFIYMxxnEhsvgfJA) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 5:03 |
 | 36 | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/track/29dTr9pLXHTIRACrcd6UD9) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ), [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/album/0hMcNdQP1rGgdbNip7hLvH) | 5:28 |
 | 37 | [Duur](https://open.spotify.com/track/5Gl780bmLH2msWJ8kgCINq) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 5:07 |
 | 38 | [Let's Work It out \(feat\. Jahaziel\)](https://open.spotify.com/track/78PIQS3mIIJc7ZZ3OKGr6c) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jahaziel](https://open.spotify.com/artist/11PK8fmGXnan9HCEwNI1T6) | [Storyteller](https://open.spotify.com/album/4kExwHAZEatBHppwVp5Vl9) | 4:05 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 41 | [Gori](https://open.spotify.com/track/1wqw75urLC2sLsE7gLGAAE) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 4:12 |
 | 42 | [Lift Kara De](https://open.spotify.com/track/5Yita5PCCRG42WpcBRfs83) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Kabhi To Nazar Milao/Bheegi Bheegi raton Mein](https://open.spotify.com/album/3SRNLEnYOt0eRMfm9lWYd3) | 4:13 |
 | 43 | [Piya Re Piya Re](https://open.spotify.com/track/2q3D4sdAMJSJRS9t6oaBRo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Salaam \- Nusrat Fateh Ali Khan](https://open.spotify.com/album/2Kd3ERDAIRn0DLJGzxu3dl) | 7:44 |
-| 44 | [Paree](https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW) | 6:01 |
-| 45 | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/track/3LZYmdTuRWMgajd91up13j) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/album/1ZOAdeDl57AM0k8Em2X7Mv) | 4:08 |
+| 44 | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/track/3LZYmdTuRWMgajd91up13j) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/album/1ZOAdeDl57AM0k8Em2X7Mv) | 4:08 |
+| 45 | [Paree](https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW) | 6:01 |
 | 46 | [Tu](https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kismat](https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY) | 4:26 |
 | 47 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 |
 | 48 | [Meri Neend](https://open.spotify.com/track/56zSBd38fcPGjawa6TTTri) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 5:00 |

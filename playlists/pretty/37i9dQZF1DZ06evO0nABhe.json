@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 10414,
+  "num_followers": 10417,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABr84Km0qfBfjw74TdFQNtg",
+  "snapshot_id": "Z3M0AAAAAACFHamcBMb46qbjBz5AvBCn",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 205903,
-      "name": "How Can We Go On",
-      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
+      "duration_ms": 268870,
+      "name": "Can Anybody Hear Me",
+      "url": "https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 268870,
-      "name": "Can Anybody Hear Me",
-      "url": "https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p"
+      "duration_ms": 205903,
+      "name": "How Can We Go On",
+      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
     },
     {
       "added_at": null,

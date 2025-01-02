@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 23281,
+  "num_followers": 23284,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABnBE2jJ1PH5euGNWtDbkft",
+  "snapshot_id": "Z3M0AAAAAABB8SABn4aeuBuMD4gqhiIn",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "No Meio de uma Tempestade",
-      "url": "https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pra Me Alegrar",
         "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 306466,
       "name": "Senhor que Cura",
       "url": "https://open.spotify.com/track/5ty5iPKPaNepDPSauxGuIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "No Meio de uma Tempestade",
+      "url": "https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 3: Tempo de Cura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5lQDYxPghIjoC7FR7JeLnc"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 391760,
-      "name": "A Decis\u00e3o",
-      "url": "https://open.spotify.com/track/1PsuRU8oyFeEGpKCMh9GHj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
         "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
       },
@@ -799,22 +783,6 @@
       "duration_ms": 369853,
       "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
       "url": "https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "O Perd\u00e3o",
-      "url": "https://open.spotify.com/track/0pd77nLXCJsbyH2pLtDjmH"
     },
     {
       "added_at": null,
@@ -839,6 +807,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "O Perd\u00e3o",
+      "url": "https://open.spotify.com/track/0pd77nLXCJsbyH2pLtDjmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 3: Tempo de Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5lQDYxPghIjoC7FR7JeLnc"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 391760,
+      "name": "A Decis\u00e3o",
+      "url": "https://open.spotify.com/track/1PsuRU8oyFeEGpKCMh9GHj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Um Novo Come\u00e7o",
         "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
       },
@@ -851,30 +851,6 @@
       "duration_ms": 348893,
       "name": "S\u00f3 o Senhor \u00e9 Deus",
       "url": "https://open.spotify.com/track/0iIpBvZapfG7Cq3DNDBW3S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rastros de Amor (ao Vivo)",
-        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
-      },
-      "artists": [
-        {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        },
-        {
-          "name": "Alda C\u00e9lia",
-          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Jesus, A Rocha Eterna - Ao Vivo",
-      "url": "https://open.spotify.com/track/0J97poNV4fN5atj0hgjTXi"
     },
     {
       "added_at": null,
@@ -899,6 +875,30 @@
       "duration_ms": 326550,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastros de Amor (ao Vivo)",
+        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
+      },
+      "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Jesus, A Rocha Eterna - Ao Vivo",
+      "url": "https://open.spotify.com/track/0J97poNV4fN5atj0hgjTXi"
     },
     {
       "added_at": null,

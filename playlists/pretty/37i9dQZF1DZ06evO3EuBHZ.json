@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 14515,
+  "num_followers": 14527,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABEW2M3mEY0XADouSqsNO3A",
+  "snapshot_id": "Z3M0AAAAAADUQ80OsBD7IPbgNCzFc5n6",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Oh Happy Day",
-      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
@@ -399,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
       "artists": [
         {
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 217160,
-      "name": "Down Home Shake-Down",
-      "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
+      "duration_ms": 243506,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
       "duration_ms": 199093,
       "name": "Wrapped Tight",
       "url": "https://open.spotify.com/track/5dsIoP7IpHaFr8brlWN5Ux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Down Home Shake-Down",
+      "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "The Place",
-      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stronger Than Dirt",
         "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 217000,
       "name": "That Lucky Old Sun",
       "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Of Rock & Roll",
-        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Tell Me Baby - Live",
-      "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stronger Than Dirt",
         "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 223000,
       "name": "Ain't Nothin' You Can Do",
       "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Tell Me Baby - Live",
+      "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Of Rock & Roll",
-        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 366693,
-      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
-      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stronger Than Dirt",
         "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 239000,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 366693,
+      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
+      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 307946,
-      "name": "Tell Me Pretty Baby - 2022 Remaster",
-      "url": "https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM"
+      "duration_ms": 357600,
+      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
+      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 357600,
-      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
-      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
+      "duration_ms": 307946,
+      "name": "Tell Me Pretty Baby - 2022 Remaster",
+      "url": "https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM"
     },
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 143751,
-      "name": "Big Mamas Coming Home - Remastered",
-      "url": "https://open.spotify.com/track/3iq0LrBTXbfQEBrqKDXmLE"
+      "duration_ms": 148259,
+      "name": "Story of My Blues - Remastered",
+      "url": "https://open.spotify.com/track/0B9DPk7wxckVDU4HbzpIsf"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 148259,
-      "name": "Story of My Blues - Remastered",
-      "url": "https://open.spotify.com/track/0B9DPk7wxckVDU4HbzpIsf"
+      "duration_ms": 143751,
+      "name": "Big Mamas Coming Home - Remastered",
+      "url": "https://open.spotify.com/track/3iq0LrBTXbfQEBrqKDXmLE"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

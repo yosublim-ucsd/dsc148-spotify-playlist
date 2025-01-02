@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 146600,
       "name": "Andvaka",
       "url": "https://open.spotify.com/track/7qG2vQ0m5YmuyavrpMZM7Q"
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -5724,7 +5724,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 123576,
       "name": "B\u00ed b\u00ed og blaka",
       "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
@@ -5880,10 +5880,6 @@
       },
       "artists": [
         {
-          "name": "BR\u00cdET",
-          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
-        },
-        {
           "name": "Aron Can",
           "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
         },
@@ -5894,11 +5890,15 @@
         {
           "name": "Didd\u00fa",
           "url": "https://open.spotify.com/artist/5tqcGCzAJeX4ysqiegDC37"
+        },
+        {
+          "name": "BR\u00cdET",
+          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
         }
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 153272,
       "name": "B\u00fai\u00f0 Og Bless",
       "url": "https://open.spotify.com/track/21qZMim0NXV3k5SaLxLWeX"
@@ -10276,7 +10276,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Ef \u00fe\u00fa hugsar eins og \u00e9g",
       "url": "https://open.spotify.com/track/6zwp5dM2tL5hOWpfEmMpTB"
@@ -13456,7 +13456,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 153743,
       "name": "Framt\u00ed\u00f0in Er H\u00e9rna",
       "url": "https://open.spotify.com/track/1Q8hNTpd1coPzHoPQ023D7"
@@ -13474,7 +13474,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 225217,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/18HdlnK7g40MCSUIPvQWL2"
@@ -13748,7 +13748,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -14270,7 +14270,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 150558,
       "name": "Gaml\u00e1rspart\u00fd",
       "url": "https://open.spotify.com/track/1nDlmqGl5tLRGY1L0RB7EU"
@@ -15438,7 +15438,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -16310,7 +16310,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 263693,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
@@ -16876,7 +16876,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 131017,
       "name": "Hef Veri\u00f0 Verri",
       "url": "https://open.spotify.com/track/4k92ZvGtKAVJLzwnS0lIrW"
@@ -16974,7 +16974,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 113692,
       "name": "Held \u00ed m\u00e9r andanum (\u00c1ram\u00f3taskaup 2020)",
       "url": "https://open.spotify.com/track/2Cy04h8gKSNDitydinK95R"
@@ -20916,7 +20916,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 142976,
       "name": "J\u00f3laH\u00fabbaB\u00fabba",
       "url": "https://open.spotify.com/track/5J83QenK5UT6fCY5RkIFfU"
@@ -21194,7 +21194,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 244089,
       "name": "J\u00f3lin eru okkar",
       "url": "https://open.spotify.com/track/5PBsDt2vYSTSjuSnf35qMp"
@@ -21786,7 +21786,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 301824,
       "name": "Kl\u00e1rum \u00feetta saman (\u00c1ram\u00f3taskaupi\u00f0 2020)",
       "url": "https://open.spotify.com/track/23MrixzcVdJMIyqkoce6Y2"
@@ -23448,7 +23448,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -25622,7 +25622,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -28424,7 +28424,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 271043,
       "name": "N\u00e6sta",
       "url": "https://open.spotify.com/track/1YC7llsHtz0ScDtiLEVHZG"
@@ -28544,7 +28544,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -33574,7 +33574,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -34240,7 +34240,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 177661,
       "name": "Seinni T\u00edma Vandam\u00e1l (\u00c1ram\u00f3taskaupi\u00f0 2017)",
       "url": "https://open.spotify.com/track/1k6ioMjt6YwEFcEnhqJNeY"
@@ -35990,7 +35990,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 193282,
       "name": "Sof\u00f0u",
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
@@ -36476,6 +36476,28 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "album": {
+        "name": "Spurningar",
+        "url": "https://open.spotify.com/album/58ZGHrIrqw6a7c0D7JHcRW"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "P\u00e1ll \u00d3skar",
+          "url": "https://open.spotify.com/artist/4YnmlfVdziLiqFQtQ4zTcq"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "Spurningar",
+      "url": "https://open.spotify.com/track/1F6ElEfDJ4zGsZWtblLhNu"
     },
     {
       "album": {
@@ -37218,7 +37240,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 240106,
       "name": "Stingum Af",
       "url": "https://open.spotify.com/track/0yltFzTFI64tr5aNVc2isX"
@@ -37580,7 +37602,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 164211,
       "name": "St\u00f3\u00f0 \u00e9g \u00fati \u00ed tunglslj\u00f3si",
       "url": "https://open.spotify.com/track/6ijaNn3BJjoQt8Eqv7GyMi"
@@ -37624,7 +37646,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 195894,
       "name": "St\u00fafur",
       "url": "https://open.spotify.com/track/64yVFDc2n1cc7A9dSac0DE"
@@ -38772,7 +38794,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -40942,7 +40964,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
@@ -47072,7 +47094,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 166208,
       "name": "\u00dea\u00f0 snj\u00f3ar",
       "url": "https://open.spotify.com/track/6ysi2LwFuBCgdfQgUDxU63"
@@ -47144,7 +47166,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 156923,
       "name": "\u00deegar Vetur",
       "url": "https://open.spotify.com/track/2oBgo1udjEp72pDo4u5O3P"
@@ -47343,6 +47365,24 @@
     },
     {
       "album": {
+        "name": "\u00c9g syng fyrir \u00feig",
+        "url": "https://open.spotify.com/album/45hGmm5FzaRmfg9TAv1SAf"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rgvin Halld\u00f3rsson",
+          "url": "https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198437,
+      "name": "\u00de\u00f3 l\u00ed\u00f0i \u00e1r og \u00f6ld",
+      "url": "https://open.spotify.com/track/3H5wOmNYFMFbNrr14HQYWy"
+    },
+    {
+      "album": {
         "name": "D\u00e6tur",
         "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
       },
@@ -47390,7 +47430,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

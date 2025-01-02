@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Alamat
 
-242 songs - 15 hr 11 min
+243 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,9 +81,10 @@
 | [Hirap Kalimutan](https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Hirap Kalimutan](https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C) | 2:53 | 2024-10-18 |  |
 | [Hiraya](https://open.spotify.com/track/4byYvg0R2equLR0TMRvcB5) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Hiraya](https://open.spotify.com/album/7tEI48ifzaMHKjdBrHux6t) | 3:18 | 2024-11-22 |  |
 | [Hiraya](https://open.spotify.com/track/7hKefTBNDE5VuVruNmvu5N) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Hiraya](https://open.spotify.com/album/7nb9CSpOvsRJbrCXPLIJtt) | 4:12 | 2024-07-02 | 2024-07-09 |
-| [Hiwaga](https://open.spotify.com/track/1dWZwFAgsCwu0WmjtdEtno) | [Tatin DC](https://open.spotify.com/artist/4yFub2mOdJ4oHxbxrs4HuY) | [Hiwaga](https://open.spotify.com/album/76OJy2zIxbNCDMKivaLNpd) | 3:53 | 2024-09-19 |  |
+| [Hiwaga](https://open.spotify.com/track/1dWZwFAgsCwu0WmjtdEtno) | [Tatin DC](https://open.spotify.com/artist/4yFub2mOdJ4oHxbxrs4HuY) | [Hiwaga](https://open.spotify.com/album/76OJy2zIxbNCDMKivaLNpd) | 3:53 | 2024-09-19 | 2025-01-02 |
 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 | 2024-07-02 | 2024-07-19 |
 | [Hopia](https://open.spotify.com/track/4nu366glQKT2HbdDhov3lE) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [afteryou.](https://open.spotify.com/album/4qPIKvJ3xiO7AyqPEFTlqc) | 4:42 | 2024-11-29 |  |
+| [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [john sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 | 2025-01-01 |  |
 | [I hope you're doing well](https://open.spotify.com/track/6RxfdQPBpHHrPokap0mzzq) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Lois](https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [I hope you're doing well](https://open.spotify.com/album/4zwOMvKkBEqE4vZZ22yx8m) | 3:31 | 2024-09-06 | 2024-11-30 |
 | [I'll Be Somebody You Want](https://open.spotify.com/track/7xCg44FlaaWMkyfAWhoSL1) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [I'll Be Somebody You Want](https://open.spotify.com/album/5J0PdxyEV1WClHdHpm2PEV) | 3:14 | 2024-07-02 | 2024-09-25 |
 | [I.N.A.S.](https://open.spotify.com/track/7BbfSKMsq6NTQqeNtGs9lt) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Superpower](https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8) | 2:28 | 2024-08-09 | 2024-11-21 |

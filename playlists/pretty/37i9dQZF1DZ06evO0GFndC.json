@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 57320,
+  "num_followers": 57329,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAACmhrsayqhxoQbUn4yPNmfC",
+  "snapshot_id": "Z3M0AAAAAABBgL9kBCIy7+IyEVcmxMd7",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Criminales de Verdad - En Vivo",
+      "url": "https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Equipados",
         "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 236472,
       "name": "Revelaciones de un Cholo",
       "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Criminales de Verdad - En Vivo",
-      "url": "https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7"
     },
     {
       "added_at": null,

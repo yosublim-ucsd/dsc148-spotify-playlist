@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 180042,
       "name": "BLONDINA",
       "url": "https://open.spotify.com/track/3Fq0id1BFWX3GoCeWdNh53"
@@ -5770,7 +5770,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 181716,
       "name": "Dead Presidents",
       "url": "https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA"
@@ -10836,7 +10836,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -11400,6 +11400,24 @@
       "duration_ms": 298899,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+    },
+    {
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263693,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
     },
     {
       "album": {
@@ -13350,7 +13368,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 183253,
       "name": "H\u00e4it\u00e4 pidelly",
       "url": "https://open.spotify.com/track/78KrPW1qvURVoGJEk9ej2G"
@@ -15594,7 +15612,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 170937,
       "name": "Jos M\u00e4 Oisin B\u00e4m\u00e4",
       "url": "https://open.spotify.com/track/338Se8AykwAEuu4wawaaDB"
@@ -18014,7 +18032,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 184647,
       "name": "Kiireinen nainen (feat. ibe)",
       "url": "https://open.spotify.com/track/14wiEbecEf1jSWiflaxHvA"
@@ -22490,7 +22508,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 139171,
       "name": "Maa ilman vett\u00e4",
       "url": "https://open.spotify.com/track/5gFVdvBQ0wVIZPYqrMSM8m"
@@ -28061,6 +28079,28 @@
     },
     {
       "album": {
+        "name": "Odota Remix",
+        "url": "https://open.spotify.com/album/5ozoM9n1NSTZk6IPHwtnYe"
+      },
+      "artists": [
+        {
+          "name": "Aikakone",
+          "url": "https://open.spotify.com/artist/0NAdOnNnbIceBrlIVgNSxv"
+        },
+        {
+          "name": "niinja",
+          "url": "https://open.spotify.com/artist/1WU701LQ9Ox2byHTHa1aM7"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181308,
+      "name": "Odota Remix",
+      "url": "https://open.spotify.com/track/2aWWSkiJxApWZoQolFb9kq"
+    },
+    {
+      "album": {
         "name": "Odota sua",
         "url": "https://open.spotify.com/album/2Zq1Wgh5Etk0DNzmFuMiMM"
       },
@@ -29402,7 +29442,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 220082,
       "name": "Painava syd\u00e4n",
       "url": "https://open.spotify.com/track/6Sgm8FkveMWMOKExKX0Q46"
@@ -29962,7 +30002,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -32378,7 +32418,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 177407,
       "name": "Rauhaa",
       "url": "https://open.spotify.com/track/6rwj48RM8fFaGTpWfdJ3rF"
@@ -40036,7 +40076,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 147304,
       "name": "Trap Queen",
       "url": "https://open.spotify.com/track/5FDmZWWDKd875GWf7v6sOd"
@@ -43260,7 +43300,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 191020,
       "name": "Viimeinen kuulutus",
       "url": "https://open.spotify.com/track/1NKyomIMeDReZTpcZhJ0h7"
@@ -43492,7 +43532,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Villiel\u00e4in",
       "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"
@@ -45434,7 +45474,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 181947,
       "name": "Ylivoimainen",
       "url": "https://open.spotify.com/track/4TXoHT9YxXfczvs2ccf5MK"

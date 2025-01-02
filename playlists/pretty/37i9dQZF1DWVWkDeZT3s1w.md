@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,489 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,509 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 85 | [La Brujula](https://open.spotify.com/track/3tlWHdkvsANcrocCjwzaoP) | [Sekreto](https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8), [Caballeros Del Plan G](https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf), [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX) | [La Brujula](https://open.spotify.com/album/6zWeN2rVEAbIHrEgbfVYu6) | 2:42 |
 | 86 | [Jamming Sin Fronteras](https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [César López](https://open.spotify.com/artist/5Ycbygh3IB5aqbNRcMYPkV), [Solo Soul](https://open.spotify.com/artist/0bmSH3V2XM6zNVDfmTwwJI) | [Jamming Sin Fronteras](https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ) | 4:10 |
 | 87 | [Merced](https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 2:53 |
-| 88 | [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 |
+| 88 | [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 |
 | 89 | [Dictamen](https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Dictamen](https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx) | 3:14 |
 | 90 | [A Veces](https://open.spotify.com/track/3OaeZUVIcb0O4JVU3NIIHq) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Inedito](https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt) | 2:47 |
 | 91 | [Luciérnagas](https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Luciérnagas](https://open.spotify.com/album/0PhgzFFEXpSfDC0tmoESVf) | 4:16 |
 | 92 | [Prometo](https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 3:03 |
 | 93 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 |
-| 94 | [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 |
+| 94 | [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 |
 | 95 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 96 | [Legendarios](https://open.spotify.com/track/5flzNTZypqHAQtcMn1ARBl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/0zz6EViiEPDUKt6IZRUDCc) | 2:44 |
 | 97 | [Mi Propio Cielo](https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna / Miradas](https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa) | 4:44 |

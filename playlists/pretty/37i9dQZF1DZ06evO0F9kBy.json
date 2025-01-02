@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26579,
+  "num_followers": 26576,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAACtOt5AOGTeIbmocrOG7Bp5",
+  "snapshot_id": "Z3M0AAAAAAA0eorPzmWDnEMK9GPjnloq",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 225546,
+      "name": "Burning In My Soul",
+      "url": "https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sanctuary Songs",
         "url": "https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 356666,
       "name": "Christ is Lower Still",
       "url": "https://open.spotify.com/track/4stQGKTkAR2OY0uopaXZfq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "Burning In My Soul",
-      "url": "https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K"
     },
     {
       "added_at": null,

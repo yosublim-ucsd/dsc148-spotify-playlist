@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 201253,
+  "num_followers": 201254,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "In Birth",
-        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 176794,
-      "name": "In Birth",
-      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Snarkism",
         "url": "https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 175866,
       "name": "Wrong Bathroom",
       "url": "https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "In Birth",
+        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 176794,
+      "name": "In Birth",
+      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Congregation",
+        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 160185,
+      "name": "At The Core",
+      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "They / Them",
         "url": "https://open.spotify.com/album/32HrqcUhi9BlA5Y8bUcCZH"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 96051,
       "name": "Thick Skin",
       "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Congregation",
-        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 160185,
-      "name": "At The Core",
-      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Chickens",
-        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Flowers",
-          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Chickens",
-      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Big Shouty",
         "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 86000,
       "name": "Big Shouty",
       "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Chickens",
+        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Flowers",
+          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Chickens",
+      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Reson For Hardcore Vibes Again",
-        "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
-      },
-      "artists": [
-        {
-          "name": "Joe & The Shitboys",
-          "url": "https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg"
-        }
-      ],
-      "duration_ms": 55733,
-      "name": "Save the Planet, You Dumb Shit",
-      "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Fuck Danny Denial",
         "url": "https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 205293,
       "name": "CCCHOKEMEEE",
       "url": "https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Reson For Hardcore Vibes Again",
+        "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
+      },
+      "artists": [
+        {
+          "name": "Joe & The Shitboys",
+          "url": "https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg"
+        }
+      ],
+      "duration_ms": 55733,
+      "name": "Save the Planet, You Dumb Shit",
+      "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Egg on Face. Foot in Mouth. Wriggling Wriggling Wriggling.",
-        "url": "https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC"
-      },
-      "artists": [
-        {
-          "name": "Crywank",
-          "url": "https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ"
-        }
-      ],
-      "duration_ms": 153813,
-      "name": "Woodchuck",
-      "url": "https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Earth Dweller",
         "url": "https://open.spotify.com/album/5jQdPuwpQCFCO0fltbBB63"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 229389,
       "name": "Colors",
       "url": "https://open.spotify.com/track/1CIVKxQTjN9Ed0woZbzx2z"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Egg on Face. Foot in Mouth. Wriggling Wriggling Wriggling.",
+        "url": "https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC"
+      },
+      "artists": [
+        {
+          "name": "Crywank",
+          "url": "https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ"
+        }
+      ],
+      "duration_ms": 153813,
+      "name": "Woodchuck",
+      "url": "https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Dumpster Diving",
-        "url": "https://open.spotify.com/album/3fAul5QlrJzaynv29yPDy7"
-      },
-      "artists": [
-        {
-          "name": "Forrest Flowers",
-          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
-        }
-      ],
-      "duration_ms": 394000,
-      "name": "Unclear",
-      "url": "https://open.spotify.com/track/4CfTJJC1Aku6YOmKmMc4gf"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Always Already",
         "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 113413,
       "name": "House Party",
       "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Dumpster Diving",
+        "url": "https://open.spotify.com/album/3fAul5QlrJzaynv29yPDy7"
+      },
+      "artists": [
+        {
+          "name": "Forrest Flowers",
+          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
+        }
+      ],
+      "duration_ms": 394000,
+      "name": "Unclear",
+      "url": "https://open.spotify.com/track/4CfTJJC1Aku6YOmKmMc4gf"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Fake Great Britain",
-        "url": "https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN"
-      },
-      "artists": [
-        {
-          "name": "pink suits",
-          "url": "https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL"
-        }
-      ],
-      "duration_ms": 143568,
-      "name": "Fake Great Britain",
-      "url": "https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Space Armadillo",
         "url": "https://open.spotify.com/album/1kmqlVDVxcMG4L5xXniZD2"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 170969,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/1CtIrwQLU6s0UZgbn5cwH7"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Fake Great Britain",
+        "url": "https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN"
+      },
+      "artists": [
+        {
+          "name": "pink suits",
+          "url": "https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL"
+        }
+      ],
+      "duration_ms": 143568,
+      "name": "Fake Great Britain",
+      "url": "https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Severed Ties",
-        "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
-      },
-      "artists": [
-        {
-          "name": "Pleasure Venom",
-          "url": "https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "Severed Ties",
-      "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Try to Be Hopeful",
         "url": "https://open.spotify.com/album/0ooSpzz4zOyP9nKl02dDye"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 195080,
       "name": "Binary",
       "url": "https://open.spotify.com/track/612neH3gcy0ke7jLRRca53"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Severed Ties",
+        "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
+      },
+      "artists": [
+        {
+          "name": "Pleasure Venom",
+          "url": "https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Severed Ties",
+      "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Steady Damage",
+        "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
+      },
+      "artists": [
+        {
+          "name": "Fit For Rivals",
+          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Maggot",
         "url": "https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Steady Damage",
-        "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
-      },
-      "artists": [
-        {
-          "name": "Fit For Rivals",
-          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Lost Time",
         "url": "https://open.spotify.com/album/4vwTDSKpekqB7fEKvifutT"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 125935,
       "name": "I Hate the Weekend",
       "url": "https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Always Happy",
+        "url": "https://open.spotify.com/album/3BvygxzbzswFKbo3DKzbXt"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "duration_ms": 158372,
+      "name": "Always Happy",
+      "url": "https://open.spotify.com/track/5MB2xF8ziRtSqwuncTOlxk"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 176786,
       "name": "Play the Field",
       "url": "https://open.spotify.com/track/6MBMpHYzCrFOcExyNGPRRb"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "All at Once",
-        "url": "https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL"
-      },
-      "artists": [
-        {
-          "name": "Screaming Females",
-          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "Bird in Space",
-      "url": "https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa"
     }
   ],
   "unique_name": "Queercore",

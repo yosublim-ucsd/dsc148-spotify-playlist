@@ -9813,6 +9813,28 @@
     },
     {
       "album": {
+        "name": "Coqueta (Remix)",
+        "url": "https://open.spotify.com/album/5ahZTZNyNywBsg1O7YVINs"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226461,
+      "name": "Coqueta - Remix",
+      "url": "https://open.spotify.com/track/6rq3raDazN9D0XUCudW1Nx"
+    },
+    {
+      "album": {
         "name": "CORA DE HIELO",
         "url": "https://open.spotify.com/album/1vi2pRTfXaaOuUdxsJVuJ5"
       },
@@ -11550,7 +11572,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 268053,
       "name": "Dejame Volver Contigo",
       "url": "https://open.spotify.com/track/7lBTazdXYEZT80sPDtSW8D"
@@ -13336,7 +13358,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 263320,
       "name": "D\u00e9jame Volver Contigo",
       "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
@@ -19736,10 +19758,28 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 213680,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
+    },
+    {
+      "album": {
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/6ghCiMP3eDYROng0pXzMxl"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217866,
+      "name": "Heridas",
+      "url": "https://open.spotify.com/track/4giTFT3aM5ckTlCP9dx5Jw"
     },
     {
       "album": {
@@ -28586,6 +28626,24 @@
       "duration_ms": 180000,
       "name": "MIATA \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
       "url": "https://open.spotify.com/track/4SNLXAPzofjZZavCrVmXIW"
+    },
+    {
+      "album": {
+        "name": "miau",
+        "url": "https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185972,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9"
     },
     {
       "album": {
@@ -46302,7 +46360,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 241000,
       "name": "Tu H\u00e9roe",
       "url": "https://open.spotify.com/track/5AKWFDSXV2edVPHPlaO9qL"
@@ -46346,7 +46404,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 218720,
       "name": "Tu Mu\u00f1eca",
       "url": "https://open.spotify.com/track/1sxwSsqFOhrmc1zl6iJyNn"
@@ -46364,7 +46422,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 221053,
       "name": "Tu Mu\u00f1eca",
       "url": "https://open.spotify.com/track/3gcFetUCRtOIvDb6kQmZYz"
@@ -48092,7 +48150,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 183315,
       "name": "Vibra Perfecta",
       "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"

@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 341361,
+  "num_followers": 341383,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 144677,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Rampampam",
         "url": "https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 200211,
       "name": "Rampampam",
       "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
+      },
+      "artists": [
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Whistle (feat. Bertie Scott)",
         "url": "https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 140156,
       "name": "Whistle (feat. Bertie Scott)",
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
-      },
-      "artists": [
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
-      },
-      "artists": [
-        {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-        }
-      ],
-      "duration_ms": 128951,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Redlight",
         "url": "https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 177780,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        }
+      ],
+      "duration_ms": 128951,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -487,6 +487,30 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
+      },
+      "artists": [
+        {
+          "name": "Hr. Troels",
+          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
+        },
+        {
+          "name": "Morty Simmons",
+          "url": "https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Keep on Moving",
         "url": "https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy"
       },
@@ -503,26 +527,6 @@
       "duration_ms": 177187,
       "name": "Keep on Moving",
       "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
-        }
-      ],
-      "duration_ms": 160849,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -551,26 +555,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
       },
       "artists": [
         {
-          "name": "Hr. Troels",
-          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         },
         {
-          "name": "Morty Simmons",
-          "url": "https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst"
-        },
-        {
-          "name": "Chris van Dutch",
-          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
         }
       ],
-      "duration_ms": 202333,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "SexyBack",
         "url": "https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 156923,
       "name": "SexyBack",
       "url": "https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     },
     {
       "added_at": "2024-09-06 04:00:00",

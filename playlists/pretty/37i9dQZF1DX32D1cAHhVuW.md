@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/druski/?hl=en">Druski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,242 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,252 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 | 32 | [7.62 God](https://open.spotify.com/track/7w77k7yCaDOMe25fYxnzit) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Gucci Mane Presents: So Icy Summer](https://open.spotify.com/album/7hEgFnAICf8FqaERqmehOT) | 2:57 |
 | 33 | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/track/3A3S5pdCJdePtJ0oKeCrCP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:17 |
 | 34 | [Paid the Fine \(feat\. Lil Baby & YTB Trench\)](https://open.spotify.com/track/0GqaZ1L5KAXMNngAZbGvLf) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [YTB Trench](https://open.spotify.com/artist/5PHYg0IcnpyZJ1y9euAx4i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:21 |
-| 35 | [Outside](https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Outside](https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ) | 1:27 |
-| 36 | [Walk \(feat\. Lil Baby & 42 Dugg\)](https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [G.I.H.F.](https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ) | 4:36 |
+| 35 | [Walk \(feat\. Lil Baby & 42 Dugg\)](https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [G.I.H.F.](https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ) | 4:36 |
+| 36 | [Outside](https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Outside](https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ) | 1:27 |
 | 37 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 |
 | 38 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
 | 39 | [Get Ready \(feat\. Kodak Black\)](https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:51 |

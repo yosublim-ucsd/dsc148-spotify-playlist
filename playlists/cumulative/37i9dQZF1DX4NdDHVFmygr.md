@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-428 songs - 22 hr 56 min
+429 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Maa Rassi \- Remix](https://open.spotify.com/track/0SqSNC2KY3B7bixZ8gOJKP) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 2:43 | 2022-10-10 | 2022-10-28 |
 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 | 2022-02-11 | 2023-05-26 |
 | [Maalabalich](https://open.spotify.com/track/6O7AbZ5y4dJY2BUspC9jRe) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Maalabalich](https://open.spotify.com/album/6yXcj13AGTgEeDzfJp6BRh) | 3:10 | 2024-08-28 | 2024-10-22 |
+| [Mab9itich Chérie](https://open.spotify.com/track/3gEy9hoCGd5OjufRwlyPCh) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mab9itich Chérie](https://open.spotify.com/album/2kHcDM7QiYmdQnuLoEnOaR) | 4:05 | 2025-01-01 |  |
 | [Machi Bedala](https://open.spotify.com/track/5Xi5ArUrhw7xYz4ZtGGiRv) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Machi Bedala](https://open.spotify.com/album/7oxjlOyaQWurxc93M6YH60) | 3:44 | 2024-09-01 |  |
 | [MACHI SAHEL \(feat\. Tagne\)](https://open.spotify.com/track/1svrReBKFrNhVMjlT9NOT5) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:25 | 2024-10-22 | 2024-12-13 |
 | [Madama](https://open.spotify.com/track/6jzV27cHgFjY5Cbl6HP8XK) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [Madama](https://open.spotify.com/album/4uhbVUiV2gfJxb35hfw66m) | 2:23 | 2024-02-07 | 2024-08-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 250150,
+  "num_followers": 250162,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAB88TG7Y3TjlOCvNND3/vmL",
+  "snapshot_id": "Z3M0AAAAAADJt9rvtgBDswQAwRcIlW1Y",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/6o6STE55cbhH4BuM2EJRL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Is Like a Butterfly",
+        "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Love Is Like a Butterfly",
+      "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Only Knows (with Dolly Parton)",
         "url": "https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 213653,
       "name": "God Only Knows (with Dolly Parton)",
       "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is Like a Butterfly",
-        "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "Love Is Like a Butterfly",
-      "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle When She Flies",
-        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Ricky Van Shelton",
-          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Rockin' Years (with Ricky Van Shelton)",
-      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 235053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eagle When She Flies",
+        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ricky Van Shelton",
+          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Rockin' Years (with Ricky Van Shelton)",
+      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trio II (2016 Remaster)",
         "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Blue Ridge Mountain Boy",
         "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
       },
@@ -811,30 +811,6 @@
       "duration_ms": 168640,
       "name": "In the Ghetto",
       "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smoky Mountain DNA: Family, Faith and Fables",
-        "url": "https://open.spotify.com/album/28bVqBO08O6jcgirj9Yj0l"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton & Family",
-          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
-        },
-        {
-          "name": "Freida Parton",
-          "url": "https://open.spotify.com/artist/5Xojym5baIDUQJJUX1ZyzU"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 158636,
-      "name": "Crops Came In",
-      "url": "https://open.spotify.com/track/2hvGKCsEVCAGedekkRH3C8"
     },
     {
       "added_at": null,
@@ -855,30 +831,6 @@
       "duration_ms": 216080,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/3wTEtCLPMrXkw2bovFIVNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Til The Last Shot's Fired",
-        "url": "https://open.spotify.com/album/3ybLXSEklZLwDu1njY0B9s"
-      },
-      "artists": [
-        {
-          "name": "Scotty Hasting",
-          "url": "https://open.spotify.com/artist/3OMqr8AGspLxIcHEwPCOl7"
-        },
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 258289,
-      "name": "Til The Last Shot's Fired",
-      "url": "https://open.spotify.com/track/3KpsdItsqmk2G4ZZ64jJdv"
     },
     {
       "added_at": null,
@@ -907,6 +859,30 @@
       "duration_ms": 184608,
       "name": "Gonna Be You (feat. Callie Twisselman)",
       "url": "https://open.spotify.com/track/2S9K5jeUJpFhxr4MRpIogF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Til The Last Shot's Fired",
+        "url": "https://open.spotify.com/album/3ybLXSEklZLwDu1njY0B9s"
+      },
+      "artists": [
+        {
+          "name": "Scotty Hasting",
+          "url": "https://open.spotify.com/artist/3OMqr8AGspLxIcHEwPCOl7"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 258289,
+      "name": "Til The Last Shot's Fired",
+      "url": "https://open.spotify.com/track/3KpsdItsqmk2G4ZZ64jJdv"
     },
     {
       "added_at": null,
@@ -995,22 +971,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somebody's Child",
-        "url": "https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV"
+        "name": "Smoky Mountain DNA: Family, Faith and Fables",
+        "url": "https://open.spotify.com/album/28bVqBO08O6jcgirj9Yj0l"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+        },
+        {
+          "name": "Freida Parton",
+          "url": "https://open.spotify.com/artist/5Xojym5baIDUQJJUX1ZyzU"
         },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 204121,
-      "name": "Somebody's Child",
-      "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
+      "duration_ms": 158636,
+      "name": "Crops Came In",
+      "url": "https://open.spotify.com/track/2hvGKCsEVCAGedekkRH3C8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
+        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
     }
   ],
   "unique_name": "This Is Dolly Parton",

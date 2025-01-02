@@ -1,6 +1,6 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: JEON SOMI",
-  "num_followers": 366807,
+  "num_followers": 366917,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-01-17 03:29:18",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/52MYcZ4Hzvy9vJcPicjfHZ"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2ayIgfvWo3SfYP2pVOr4pC"
-    },
-    {
-      "added_at": "2024-01-17 03:29:18",
-      "album": {
         "name": "GO LIVE",
         "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 167922,
       "name": "God\u2019s Menu",
       "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
+    },
+    {
+      "added_at": "2024-01-17 03:29:18",
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/52MYcZ4Hzvy9vJcPicjfHZ"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2ayIgfvWo3SfYP2pVOr4pC"
     },
     {
       "added_at": "2024-01-17 03:29:18",
@@ -535,30 +535,6 @@
     {
       "added_at": "2024-01-17 03:29:18",
       "album": {
-        "name": "Some",
-        "url": "https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        },
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        },
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        }
-      ],
-      "duration_ms": 211374,
-      "name": "Some (feat. Lil Boi)",
-      "url": "https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx"
-    },
-    {
-      "added_at": "2024-01-17 03:29:18",
-      "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
@@ -587,6 +563,30 @@
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+    },
+    {
+      "added_at": "2024-01-17 03:29:18",
+      "album": {
+        "name": "Some",
+        "url": "https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "duration_ms": 211374,
+      "name": "Some (feat. Lil Boi)",
+      "url": "https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx"
     },
     {
       "added_at": "2024-01-17 03:29:18",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-01-17 03:29:18",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
-    },
-    {
-      "added_at": "2024-01-17 03:29:18",
-      "album": {
         "name": "Russian Roulette - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 211243,
       "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
       "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
+    },
+    {
+      "added_at": "2024-01-17 03:29:18",
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2024-01-17 03:29:18",

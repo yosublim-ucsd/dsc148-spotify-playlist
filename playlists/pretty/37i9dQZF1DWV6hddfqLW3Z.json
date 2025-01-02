@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 800533,
+  "num_followers": 800546,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,6 @@
     {
       "added_at": "2024-12-10 16:00:00",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2024-12-10 16:00:00",
-      "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 201452,
       "name": "Amarelo, azul e branco",
       "url": "https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa"
+    },
+    {
+      "added_at": "2024-12-10 16:00:00",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2024-12-10 16:00:00",
@@ -259,42 +259,6 @@
     {
       "added_at": "2024-12-10 16:00:00",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Dona Cila",
-      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
-    },
-    {
-      "added_at": "2024-12-10 16:00:00",
-      "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
-    },
-    {
-      "added_at": "2024-12-10 16:00:00",
-      "album": {
         "name": "P\u00fablico",
         "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
@@ -307,6 +271,22 @@
       "duration_ms": 131426,
       "name": "Devolva-Me (Ao Vivo)",
       "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+    },
+    {
+      "added_at": "2024-12-10 16:00:00",
+      "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Dona Cila",
+      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
     },
     {
       "added_at": "2024-12-10 16:00:00",
@@ -359,6 +339,26 @@
       "duration_ms": 180319,
       "name": "Trem-Bala",
       "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+    },
+    {
+      "added_at": "2024-12-10 16:00:00",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
     },
     {
       "added_at": "2024-12-10 16:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-12-10 16:00:00",
       "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
-    },
-    {
-      "added_at": "2024-12-10 16:00:00",
-      "album": {
         "name": "Ofert\u00f3rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 200045,
       "name": "Reconvexo - Ao Vivo",
       "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
+    },
+    {
+      "added_at": "2024-12-10 16:00:00",
+      "album": {
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2024-12-10 16:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-12-10 16:00:00",
       "album": {
+        "name": "Top Hits",
+        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "Lenha",
+      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
+    },
+    {
+      "added_at": "2024-12-10 16:00:00",
+      "album": {
         "name": "Preciso Dizer Que Te Amo",
         "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
@@ -927,34 +943,18 @@
     {
       "added_at": "2024-12-10 16:00:00",
       "album": {
-        "name": "Top Hits",
-        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 249706,
-      "name": "Lenha",
-      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
-    },
-    {
-      "added_at": "2024-12-10 16:00:00",
-      "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 106452,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "added_at": "2024-12-10 16:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-12-10 16:00:00",
       "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
         }
       ],
-      "duration_ms": 156906,
-      "name": "Voltar \u00e0 Bahia",
-      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
+      "duration_ms": 106452,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
     },
     {
       "added_at": "2024-12-10 16:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-12-10 16:00:00",
       "album": {
-        "name": "Tribalistas Ao Vivo",
-        "url": "https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 273727,
-      "name": "Vilarejo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
-    },
-    {
-      "added_at": "2024-12-10 16:00:00",
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 212040,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio"
+    },
+    {
+      "added_at": "2024-12-10 16:00:00",
+      "album": {
+        "name": "Tribalistas Ao Vivo",
+        "url": "https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 273727,
+      "name": "Vilarejo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
     },
     {
       "added_at": "2024-12-10 16:00:00",

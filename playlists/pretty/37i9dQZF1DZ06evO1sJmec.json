@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2001452,
+  "num_followers": 2001574,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAADkZX35LW/DBeDNnq1ZCj0v",
+  "snapshot_id": "Z3M0AAAAAAAdE9Yq94CN3D6FoY4VvbwV",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 331266,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
+      "duration_ms": 388266,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 388266,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs"
+      "duration_ms": 331266,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
     },
     {
       "added_at": null,

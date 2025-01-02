@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 81230,
       "name": "Amantes da Foda",
       "url": "https://open.spotify.com/track/4DhDNNhIDdduS6nZMbSMbs"
@@ -4716,7 +4716,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 179041,
       "name": "Casa Melhor",
       "url": "https://open.spotify.com/track/0vfN1RYc1aDmf46CpE7EsC"
@@ -5432,17 +5432,13 @@
           "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
         },
         {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
           "name": "DJ Borest",
           "url": "https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46"
         }
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 141230,
       "name": "Clack Bum",
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
@@ -6053,6 +6049,24 @@
     },
     {
       "album": {
+        "name": "Churrasquinho 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195794,
+      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
+    },
+    {
+      "album": {
         "name": "Afro Fado",
         "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
       },
@@ -6154,7 +6168,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 154418,
       "name": "Crack com Mussilon",
       "url": "https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co"
@@ -6921,6 +6935,28 @@
     },
     {
       "album": {
+        "name": "Descer Pra BC",
+        "url": "https://open.spotify.com/album/6Ey5sExBbStsPTgJ6WeIal"
+      },
+      "artists": [
+        {
+          "name": "Brenno & Matheus",
+          "url": "https://open.spotify.com/artist/5aC2LaswbZgcf1G2uxqBxF"
+        },
+        {
+          "name": "DJ Ari SL",
+          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Descer Pra BC",
+      "url": "https://open.spotify.com/track/6RzcNTnS02dnqoQMdTkQwi"
+    },
+    {
+      "album": {
         "name": "Desconfinamento",
         "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
       },
@@ -7580,7 +7616,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 120950,
       "name": "Do Jeito Que Voc\u00ea Mete",
       "url": "https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1"
@@ -9476,7 +9512,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 138461,
       "name": "Faz um Vuk Vuk (Teto Espelhado)",
       "url": "https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY"
@@ -14606,7 +14642,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -16050,7 +16086,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -16218,7 +16254,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 172366,
       "name": "Ma Ch\u00e9rie",
       "url": "https://open.spotify.com/track/1aIJLbvrWSW7NGLlprGhBo"
@@ -17650,7 +17686,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 232000,
       "name": "Mo Boy",
       "url": "https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9"
@@ -21546,7 +21582,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 127384,
       "name": "POCPOC",
       "url": "https://open.spotify.com/track/02iIJMe5jh7rdnTO6dcPQL"
@@ -26528,7 +26564,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 203337,
       "name": "S\u00f3 F\u00e9",
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
@@ -26778,7 +26814,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -30420,7 +30456,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

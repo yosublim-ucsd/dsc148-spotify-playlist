@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. tarchi",
-  "num_followers": 215599,
+  "num_followers": 215589,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,42 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
+        "name": "SALIR A MORIR",
+        "url": "https://open.spotify.com/album/5yqkq8TGunOioNW34845RH"
+      },
+      "artists": [
+        {
+          "name": "shakeitmila",
+          "url": "https://open.spotify.com/artist/6SZq6mW5RGGMuqvgz6y5mx"
+        },
+        {
+          "name": "VILLARROYA",
+          "url": "https://open.spotify.com/artist/5MyMJH918WtAhGfaeepXGZ"
+        }
+      ],
+      "duration_ms": 154777,
+      "name": "SALIR A MORIR",
+      "url": "https://open.spotify.com/track/0Qsx96RjkG13Ok1meUAGal"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "I Love Me More",
+        "url": "https://open.spotify.com/album/1tcMgt7J3cYlgMwVMvhtxd"
+      },
+      "artists": [
+        {
+          "name": "FRIEDRIICH",
+          "url": "https://open.spotify.com/artist/4v1w0wohImiZWLUENo0nif"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "I Love Me More",
+      "url": "https://open.spotify.com/track/37Makz29OYC3sdgy2Fudf0"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
         "name": "Perra Alfa (Neukrapsio Remix)",
         "url": "https://open.spotify.com/album/3BhYJxBc3dW7OJz4IcRqvt"
       },
@@ -1259,26 +1295,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "SALIR A MORIR",
-        "url": "https://open.spotify.com/album/5yqkq8TGunOioNW34845RH"
-      },
-      "artists": [
-        {
-          "name": "shakeitmila",
-          "url": "https://open.spotify.com/artist/6SZq6mW5RGGMuqvgz6y5mx"
-        },
-        {
-          "name": "VILLARROYA",
-          "url": "https://open.spotify.com/artist/5MyMJH918WtAhGfaeepXGZ"
-        }
-      ],
-      "duration_ms": 154777,
-      "name": "SALIR A MORIR",
-      "url": "https://open.spotify.com/track/0Qsx96RjkG13Ok1meUAGal"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "QUE ME MATO",
         "url": "https://open.spotify.com/album/7EDNw1daaBgqnJji0ricXo"
       },
@@ -1295,18 +1311,22 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "I Love Me More",
-        "url": "https://open.spotify.com/album/1tcMgt7J3cYlgMwVMvhtxd"
+        "name": "Vivir De M\u00e1s",
+        "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
       },
       "artists": [
         {
-          "name": "FRIEDRIICH",
-          "url": "https://open.spotify.com/artist/4v1w0wohImiZWLUENo0nif"
+          "name": "Mydros",
+          "url": "https://open.spotify.com/artist/6yHQRBUIaw2KhNxXZOZiD8"
+        },
+        {
+          "name": "G3D3R",
+          "url": "https://open.spotify.com/artist/6g4mTp47bWzc0qEc8Nbmp1"
         }
       ],
-      "duration_ms": 196000,
-      "name": "I Love Me More",
-      "url": "https://open.spotify.com/track/37Makz29OYC3sdgy2Fudf0"
+      "duration_ms": 217466,
+      "name": "Vivir De M\u00e1s",
+      "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1355,26 +1375,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "Vivir De M\u00e1s",
-        "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
-      },
-      "artists": [
-        {
-          "name": "Mydros",
-          "url": "https://open.spotify.com/artist/6yHQRBUIaw2KhNxXZOZiD8"
-        },
-        {
-          "name": "G3D3R",
-          "url": "https://open.spotify.com/artist/6g4mTp47bWzc0qEc8Nbmp1"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Vivir De M\u00e1s",
-      "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "Rituales",
         "url": "https://open.spotify.com/album/12aUm7ohtYlLLu8S0sh1Uk"
       },
@@ -1415,38 +1415,18 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "I`m Done",
-        "url": "https://open.spotify.com/album/5Q7MUJMJ7rtO0SH6p4rZYm"
+        "name": "ya fue",
+        "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
       },
       "artists": [
         {
-          "name": "Vidal 210",
-          "url": "https://open.spotify.com/artist/6U9snp3iSw9StKBheQ6KbK"
-        },
-        {
-          "name": "Pauet",
-          "url": "https://open.spotify.com/artist/7jEHnnafJ7S2fmZ3MESeQI"
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
         }
       ],
-      "duration_ms": 125649,
-      "name": "I`m Done",
-      "url": "https://open.spotify.com/track/4H5CXrmx3ekt32ZrIXc2vG"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
-        "name": "AERIAL DISPLAY",
-        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
-      },
-      "artists": [
-        {
-          "name": "NICO B.",
-          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
-        }
-      ],
-      "duration_ms": 106071,
-      "name": "GALGO",
-      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
+      "duration_ms": 202971,
+      "name": "ya fue",
+      "url": "https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1475,18 +1455,38 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "ya fue",
-        "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
+        "name": "AERIAL DISPLAY",
+        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
       },
       "artists": [
         {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+          "name": "NICO B.",
+          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
         }
       ],
-      "duration_ms": 202971,
-      "name": "ya fue",
-      "url": "https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm"
+      "duration_ms": 106071,
+      "name": "GALGO",
+      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "I`m Done",
+        "url": "https://open.spotify.com/album/5Q7MUJMJ7rtO0SH6p4rZYm"
+      },
+      "artists": [
+        {
+          "name": "Vidal 210",
+          "url": "https://open.spotify.com/artist/6U9snp3iSw9StKBheQ6KbK"
+        },
+        {
+          "name": "Pauet",
+          "url": "https://open.spotify.com/artist/7jEHnnafJ7S2fmZ3MESeQI"
+        }
+      ],
+      "duration_ms": 125649,
+      "name": "I`m Done",
+      "url": "https://open.spotify.com/track/4H5CXrmx3ekt32ZrIXc2vG"
     },
     {
       "added_at": "2024-12-12 23:00:22",

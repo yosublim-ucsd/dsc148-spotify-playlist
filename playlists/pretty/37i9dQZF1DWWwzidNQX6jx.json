@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 70s. Cover: Meat Loaf",
-  "num_followers": 3105733,
+  "num_followers": 3105799,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "The Cars",
-        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Just What I Needed",
-      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "The Captain and Me",
         "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "The Cars",
+        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Just What I Needed",
+      "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 341773,
-      "name": "Wild Horses - 2009 Mix",
-      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 275733,
       "name": "Heart Of Glass - Special Mix",
       "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 341773,
+      "name": "Wild Horses - 2009 Mix",
+      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "The Runaways",
-        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
       },
       "artists": [
         {
-          "name": "The Runaways",
-          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 138706,
-      "name": "Cherry Bomb",
-      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
+      "duration_ms": 204800,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+        "name": "The Runaways",
+        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },
       "artists": [
         {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
+      "duration_ms": 138706,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Billion Dollar Babies (Deluxe Reissue)",
-        "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "No More Mr. Nice Guy",
-      "url": "https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "The Essential Kansas",
         "url": "https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 322093,
       "name": "Carry on Wayward Son",
       "url": "https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Billion Dollar Babies (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "No More Mr. Nice Guy",
+      "url": "https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "American Woman",
-        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 307493,
-      "name": "American Woman - 2024 Remaster",
-      "url": "https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2SIFXSFOHJgqC6q3whbSZU"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 365000,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/11G0yprQtMU53BLPMSr093"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "American Woman",
+        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "duration_ms": 307493,
+      "name": "American Woman - 2024 Remaster",
+      "url": "https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC"
     }
   ],
   "unique_name": "70s Rock Anthems",

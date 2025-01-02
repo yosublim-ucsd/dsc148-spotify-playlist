@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Alessandra Amoroso
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,083 likes - 87 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,084 likes - 87 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

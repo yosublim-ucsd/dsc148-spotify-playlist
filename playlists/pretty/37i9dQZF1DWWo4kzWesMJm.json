@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 166049,
+  "num_followers": 166080,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Photos de voyages (Remastered)",
         "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
       },
@@ -191,18 +175,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
       "artists": [
         {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -219,6 +203,22 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Cure",
+        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -271,42 +271,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Encore un soir (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/34ojCO0ZiLZwJlUFXuGx9R"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Encore un soir",
-      "url": "https://open.spotify.com/track/51yjUe42smRbgWvg9i9pFa"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Cats On Trees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
-      },
-      "artists": [
-        {
-          "name": "Cats On Trees",
-          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
-        },
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 176618,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -327,6 +291,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Encore un soir (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/34ojCO0ZiLZwJlUFXuGx9R"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Encore un soir",
+      "url": "https://open.spotify.com/track/51yjUe42smRbgWvg9i9pFa"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Miroirs",
         "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 156413,
       "name": "Celui qui part",
       "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Cats On Trees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
+      },
+      "artists": [
+        {
+          "name": "Cats On Trees",
+          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
+        },
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 176618,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -371,6 +371,22 @@
       "duration_ms": 221666,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -423,22 +439,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "caravane",
         "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Petite Amie (Edition D\u00e9lice)",
-        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "A la Folie",
-      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 180745,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Petite Amie (Edition D\u00e9lice)",
+        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "A la Folie",
+      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "PYRAMIDE",
-        "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
+        "name": "Vari\u00e9ty",
+        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
       "artists": [
         {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
         }
       ],
-      "duration_ms": 233800,
-      "name": "Tomb\u00e9",
-      "url": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
+      "duration_ms": 219933,
+      "name": "Ding Dang Dong (Ringing at Your Bell)",
+      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Vari\u00e9ty",
-        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
+        "name": "PYRAMIDE",
+        "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
       },
       "artists": [
         {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
         }
       ],
-      "duration_ms": 219933,
-      "name": "Ding Dang Dong (Ringing at Your Bell)",
-      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+      "duration_ms": 233800,
+      "name": "Tomb\u00e9",
+      "url": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Le Vagabond",
+        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Cette ann\u00e9e-l\u00e0",
+      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Cach\u00e9 derri\u00e8re",
         "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Le Vagabond",
-        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Cette ann\u00e9e-l\u00e0",
-      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "In\u00e9dits 1968-1998",
         "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 224240,
       "name": "Laissons entrer le soleil",
       "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Grain de sable",
-        "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
-      },
-      "artists": [
-        {
-          "name": "Tryo",
-          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Serre-moi",
-      "url": "https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -827,6 +811,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Grain de sable",
+        "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
+      },
+      "artists": [
+        {
+          "name": "Tryo",
+          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Serre-moi",
+      "url": "https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "40 succ\u00e8s en or",
         "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
       },
       "artists": [
         {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
         }
       ],
-      "duration_ms": 188173,
-      "name": "Dis-Moi Encore Que Tu M'Aimes",
-      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
       },
       "artists": [
         {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
         }
       ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+      "duration_ms": 188173,
+      "name": "Dis-Moi Encore Que Tu M'Aimes",
+      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Palais d'argile",
+        "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "duration_ms": 214464,
+      "name": "Monde Nouveau",
+      "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "\u00c9ph\u00e9m\u00e8re",
         "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 225240,
       "name": "Tailler la route",
       "url": "https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Palais d'argile",
-        "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
-      },
-      "artists": [
-        {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
-        }
-      ],
-      "duration_ms": 214464,
-      "name": "Monde Nouveau",
-      "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
-      },
-      "artists": [
-        {
-          "name": "Garou",
-          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Seul",
-      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 250746,
       "name": "Rockollection",
       "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Hey Bro",
+        "url": "https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD"
+      },
+      "artists": [
+        {
+          "name": "Elo\u00efz",
+          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
+        }
+      ],
+      "duration_ms": 150024,
+      "name": "Hey Bro",
+      "url": "https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "G\u00e9ant",
         "url": "https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 205253,
       "name": "Dusty Men - French Version",
       "url": "https://open.spotify.com/track/2rcmXKCGWQ8ohlQVjaeXuK"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Hey Bro",
-        "url": "https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD"
-      },
-      "artists": [
-        {
-          "name": "Elo\u00efz",
-          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
-        }
-      ],
-      "duration_ms": 150024,
-      "name": "Hey Bro",
-      "url": "https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "La recette",
-        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
+        "name": "Osez Josephine",
+        "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
       },
       "artists": [
         {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+          "name": "Alain Bashung",
+          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
         }
       ],
-      "duration_ms": 197691,
-      "name": "La recette",
-      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
+      "duration_ms": 178173,
+      "name": "Osez Jos\u00e9phine",
+      "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
     }
   ],
   "unique_name": "Bleu Blanc Route",

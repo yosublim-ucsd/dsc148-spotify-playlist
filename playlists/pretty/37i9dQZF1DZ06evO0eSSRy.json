@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAACEUoNv4f8l5idutReBwj88",
+  "snapshot_id": "Z3M0AAAAAABYSdxbcFrNpKIbUVhSX+Tx",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 218334,
-      "name": "Water Doctor",
-      "url": "https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI"
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
     },
     {
       "added_at": null,
@@ -276,15 +276,15 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 261301,
-      "name": "Fixed It All",
-      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
+      "duration_ms": 218334,
+      "name": "Water Doctor",
+      "url": "https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI"
     },
     {
       "added_at": null,
       "album": {
         "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+        "url": "https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 229824,
-      "name": "Start out With Differences",
-      "url": "https://open.spotify.com/track/5fITXhJcP55MMRlst8B8lY"
+      "duration_ms": 228789,
+      "name": "Party's over, Biff",
+      "url": "https://open.spotify.com/track/4J5GW0aJKFAxDa2jBx5CZW"
     },
     {
       "added_at": null,
@@ -332,7 +332,7 @@
       "added_at": null,
       "album": {
         "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+        "url": "https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 254528,
-      "name": "Winona Ryder",
-      "url": "https://open.spotify.com/track/3Ss1NP5PLQmRakgtYwUS0o"
+      "duration_ms": 211029,
+      "name": "Then People Forget",
+      "url": "https://open.spotify.com/track/1AjtK89Eq1tS44Iu4YFg3T"
     },
     {
       "added_at": null,
@@ -380,7 +380,7 @@
       "added_at": null,
       "album": {
         "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI"
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 228789,
-      "name": "Party's over, Biff",
-      "url": "https://open.spotify.com/track/4J5GW0aJKFAxDa2jBx5CZW"
+      "duration_ms": 154122,
+      "name": "Sailplane",
+      "url": "https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi"
     }
   ],
   "unique_name": "This Is P\u00c6RISH",

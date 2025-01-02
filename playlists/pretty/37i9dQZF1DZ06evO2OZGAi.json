@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 6604,
+  "num_followers": 6606,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAADqlkEi8iasAnFMAaemxbGN",
+  "snapshot_id": "Z3M0AAAAAADILIXwLMcyjzBjiauS3h0i",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 259893,
-      "name": "Fumar el Amor",
-      "url": "https://open.spotify.com/track/0PyGXOtp1XlvMeGfQao8ne"
+      "duration_ms": 212453,
+      "name": "Caras Maquilladas",
+      "url": "https://open.spotify.com/track/0svWbaRgTAjKBEU2a0axfS"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "Fumar el Amor",
+      "url": "https://open.spotify.com/track/0PyGXOtp1XlvMeGfQao8ne"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somos la Gente (Somos Uno)",
         "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
       },
@@ -324,25 +340,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 212453,
-      "name": "Caras Maquilladas",
-      "url": "https://open.spotify.com/track/0svWbaRgTAjKBEU2a0axfS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No S\u00e9 Por qu\u00e9",
-        "url": "https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 136081,
-      "name": "No S\u00e9 Por qu\u00e9",
-      "url": "https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z"
+      "duration_ms": 160306,
+      "name": "El D\u00eda",
+      "url": "https://open.spotify.com/track/0OMJ0zX9Zyc6g15nF7Haf2"
     },
     {
       "added_at": null,
@@ -372,15 +372,15 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Donde T\u00fa Est\u00e1s",
-      "url": "https://open.spotify.com/track/6iWteGgHE7iEPFe7jIcNbY"
+      "duration_ms": 112080,
+      "name": "Un Mensaje para Ti (\u00c1ngel)",
+      "url": "https://open.spotify.com/track/2XsAeAj9nSUX1T1HHnQ7PU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
+        "name": "No S\u00e9 Por qu\u00e9",
+        "url": "https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 160306,
-      "name": "El D\u00eda",
-      "url": "https://open.spotify.com/track/0OMJ0zX9Zyc6g15nF7Haf2"
+      "duration_ms": 136081,
+      "name": "No S\u00e9 Por qu\u00e9",
+      "url": "https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 112080,
-      "name": "Un Mensaje para Ti (\u00c1ngel)",
-      "url": "https://open.spotify.com/track/2XsAeAj9nSUX1T1HHnQ7PU"
+      "duration_ms": 218680,
+      "name": "Donde T\u00fa Est\u00e1s",
+      "url": "https://open.spotify.com/track/6iWteGgHE7iEPFe7jIcNbY"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ella Es",
-        "url": "https://open.spotify.com/album/6P0eRSeMkYkulYGS2zzdFF"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 195758,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/7bpOAW9LnQAsAbFbyImhwS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Despierten",
         "url": "https://open.spotify.com/album/1qWSjGC7gRdMMcJoowJTK7"
       },
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi"
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/6P0eRSeMkYkulYGS2zzdFF"
       },
       "artists": [
         {
@@ -692,25 +676,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 196766,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Haz el Amor",
-      "url": "https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9"
+      "duration_ms": 195758,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/7bpOAW9LnQAsAbFbyImhwS"
     },
     {
       "added_at": null,
@@ -731,6 +699,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Haz el Amor",
+      "url": "https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 196766,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX"
       },
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 193834,
-      "name": "A Nadie Le Importa",
-      "url": "https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4"
+      "duration_ms": 261213,
+      "name": "Salva Mi Mente",
+      "url": "https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 261213,
-      "name": "Salva Mi Mente",
-      "url": "https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w"
+      "duration_ms": 193834,
+      "name": "A Nadie Le Importa",
+      "url": "https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4"
     }
   ],
   "unique_name": "This Is Am\u00e9n",

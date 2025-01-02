@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 77187,
+  "num_followers": 77203,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Kamilla Og Tyven",
-        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
-      },
-      "artists": [
-        {
-          "name": "Morten Harket",
-          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Kamilla Og Tyven",
-      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Underlig Frihet",
         "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 265400,
       "name": "Ka e du redd for",
       "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Kamilla Og Tyven",
+        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+      },
+      "artists": [
+        {
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Kamilla Og Tyven",
+      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Fra 4 Til 70",
-        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
-      },
-      "artists": [
-        {
-          "name": "Inger Lise Rypdal",
-          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "En Spennende Dag for Josefine",
-      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Varme Ut Av Is",
         "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 234466,
       "name": "Har En Dr\u00f8m",
       "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Fra 4 Til 70",
+        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
+      },
+      "artists": [
+        {
+          "name": "Inger Lise Rypdal",
+          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "En Spennende Dag for Josefine",
+      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "Jeg Vet",
-      "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Gressholmen",
         "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 231334,
       "name": "T\u00e5rnet",
       "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+      },
+      "artists": [
+        {
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "Jeg Vet",
+      "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
       },
       "artists": [
         {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
         }
       ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+        }
+      ],
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 258638,
       "name": "Sommerfuggel I Vinterland",
       "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -619,6 +619,26 @@
       "duration_ms": 226760,
       "name": "Lilla vackra Anna",
       "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "De Beste",
+        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Mysteriet deg",
+      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -723,26 +743,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "De Beste",
-        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Mysteriet deg",
-      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
         "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
       },
@@ -791,6 +791,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Savner deg",
+        "url": "https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 181282,
+      "name": "Savner deg",
+      "url": "https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Eg Glemmer Deg Aldri",
         "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
       },
@@ -827,22 +847,6 @@
       "duration_ms": 188796,
       "name": "Aldri i livet",
       "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "3 sanger",
-        "url": "https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s"
-      },
-      "artists": [
-        {
-          "name": "Kari Bremnes",
-          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
-        }
-      ],
-      "duration_ms": 281955,
-      "name": "S\u00e5 fullt av ja",
-      "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
     }
   ],
   "unique_name": "Norske viser",

@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 475819,
+  "num_followers": 475949,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,30 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "Pro Dia Nascer Feliz",
+        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Pro Dia Nascer Feliz",
+      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "Toda Forma De Amor (Remix)",
         "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
       },
@@ -447,30 +471,6 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Pro Dia Nascer Feliz",
-        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
-      },
-      "artists": [
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Pro Dia Nascer Feliz",
-      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "Azul (Illusionize & Linkage Remix)",
+        "url": "https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Linkage",
+          "url": "https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R"
+        }
+      ],
+      "duration_ms": 198867,
+      "name": "Azul - Illusionize & Linkage Remix",
+      "url": "https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "Low (feat. Victor Perry)",
         "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
       },
@@ -1035,30 +1059,6 @@
       "duration_ms": 179016,
       "name": "Blind",
       "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Azul (Illusionize & Linkage Remix)",
-        "url": "https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Linkage",
-          "url": "https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R"
-        }
-      ],
-      "duration_ms": 198867,
-      "name": "Azul - Illusionize & Linkage Remix",
-      "url": "https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1103,6 +1103,42 @@
       "duration_ms": 173446,
       "name": "I Do - with Zeeba",
       "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Could You Be Loved",
+        "url": "https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Trem das Onze",
+        "url": "https://open.spotify.com/album/30CvDDVvdCJIYQjrKjmkPa"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "duration_ms": 149047,
+      "name": "Trem das Onze",
+      "url": "https://open.spotify.com/track/4TjmNdH82Zn3DGTxuRGFuf"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1171,22 +1207,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Trem das Onze",
-        "url": "https://open.spotify.com/album/30CvDDVvdCJIYQjrKjmkPa"
-      },
-      "artists": [
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        }
-      ],
-      "duration_ms": 149047,
-      "name": "Trem das Onze",
-      "url": "https://open.spotify.com/track/4TjmNdH82Zn3DGTxuRGFuf"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Monalisa (KVSH Remix)",
         "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 175844,
       "name": "Monalisa (KVSH Remix)",
       "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Could You Be Loved",
-        "url": "https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1331,46 +1331,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Yannick",
-          "url": "https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV"
-        }
-      ],
-      "duration_ms": 216126,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Quero Ir pra Bahia Com Voc\u00ea (feat. Fullmode & LEMON DROPS) [Remix]",
         "url": "https://open.spotify.com/album/5IIRnc4XYhtp8wHXqAphN6"
       },
@@ -1399,6 +1359,46 @@
       "duration_ms": 181935,
       "name": "Quero Ir pra Bahia Com Voc\u00ea (feat. Fullmode & LEMON DROPS) - Remix",
       "url": "https://open.spotify.com/track/6KZ3fRoXzE9ksxfjdwTblu"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Yannick",
+          "url": "https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV"
+        }
+      ],
+      "duration_ms": 216126,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1523,26 +1523,30 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Se Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
+        "name": "A Dois Passos do Para\u00edso (Remix)",
+        "url": "https://open.spotify.com/album/1at0bvTPBCtDv2a9nPnlRB"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
         },
         {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
         },
         {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+          "name": "Overdriver Duo",
+          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
+        },
+        {
+          "name": "Evandro Carlos Tiburski",
+          "url": "https://open.spotify.com/artist/3WnTOvr9Hr4aPgVXr7vun7"
         }
       ],
-      "duration_ms": 174219,
-      "name": "Se Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+      "duration_ms": 209014,
+      "name": "A Dois Passos do Para\u00edso - Remix",
+      "url": "https://open.spotify.com/track/1pXXIiYHe8sqZlE1yKQG6b"
     }
   ],
   "unique_name": "Festa na Praia",

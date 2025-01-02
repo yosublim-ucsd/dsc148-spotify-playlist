@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,421 likes - 171 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,422 likes - 171 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 25 | [Strawberry Shortcake](https://open.spotify.com/track/57OBlxZRcRyHFdlXlsHP7G) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:04 |
 | 26 | [You Owe Me](https://open.spotify.com/track/3CgTgHLI8qHAqLoZkz1BdQ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:10 |
 | 27 | [Aftertaste](https://open.spotify.com/track/3ilt7lMNflb49pEDpcZPAa) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 2:49 |
-| 28 | [Air](https://open.spotify.com/track/7eKbFpX6jvCSW9CUwzMJsE) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:14 |
-| 29 | [Recess](https://open.spotify.com/track/1QtpKRXtJZSdJp3Y299zkQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:50 |
+| 28 | [Recess](https://open.spotify.com/track/1QtpKRXtJZSdJp3Y299zkQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:50 |
+| 29 | [Air](https://open.spotify.com/track/7eKbFpX6jvCSW9CUwzMJsE) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:14 |
 | 30 | [Phone Down](https://open.spotify.com/track/5bvNpG6wiIEf1PA13TkTu2) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Phone Down](https://open.spotify.com/album/2jEoK4yuqMQOrxXj2006mu) | 3:35 |
 | 31 | [Stay Together](https://open.spotify.com/track/5R4HqXCZ6uTjxxnGdLt2S6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stay Together](https://open.spotify.com/album/7Hlsir9c1oIMeWCTLUxn9e) | 3:12 |
 | 32 | [My Type](https://open.spotify.com/track/6V9kwssTrwkKT72imgowj9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:37 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 43 | [Wake Up Alone](https://open.spotify.com/track/0dj1CtyRxZ4bnIT4Q20jNT) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:35 |
 | 44 | [Follow](https://open.spotify.com/track/4xFcQGVBVakReaL0OOJiP6) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Sentio](https://open.spotify.com/album/45gsxfnJ5Nt2RZp82SQenc) | 3:41 |
 | 45 | [Satisfied \(feat\. MAX\)](https://open.spotify.com/track/57QXXEBy5apjgxsyXSb8YE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Satisfied \(feat\. MAX\) / Mama Look at Me Now](https://open.spotify.com/album/7sYMi1QPQnCL99k1VCaWTZ) | 2:35 |
-| 46 | [Break a Sweat](https://open.spotify.com/track/28r9sD2b6FluK7YHjTJ0fl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Break a Sweat](https://open.spotify.com/album/2nWxnJlsL1bzC2wHtouEvZ) | 3:28 |
-| 47 | [The Reaper](https://open.spotify.com/track/0g8Dq6OpSmWengqtLrVr77) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:02 |
+| 46 | [The Reaper](https://open.spotify.com/track/0g8Dq6OpSmWengqtLrVr77) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:02 |
+| 47 | [Break a Sweat](https://open.spotify.com/track/28r9sD2b6FluK7YHjTJ0fl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Break a Sweat](https://open.spotify.com/album/2nWxnJlsL1bzC2wHtouEvZ) | 3:28 |
 | 48 | [Girl on a Train](https://open.spotify.com/track/6M1nfYPKy7DRk3IrhFVViQ) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Alone Together](https://open.spotify.com/album/7JC2Lep2FwtvMDoLZMEZZT) | 3:02 |
 | 49 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 50 | [Sucker Punch](https://open.spotify.com/track/7FeWgVGGphXuSUu5wNeAcJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:14 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 130 | [Symmetry](https://open.spotify.com/track/6ARrdbSTFuwxE6meFUFUtI) | [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Symmetry](https://open.spotify.com/album/5B6eeJRAFwN03R9sUNat3r) | 3:18 |
 | 131 | [Never Be The One](https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Never Be The One](https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg) | 3:21 |
 | 132 | [Hey Homie](https://open.spotify.com/track/187ncCMMqbzQg6UEyBAj9W) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:09 |
-| 133 | [Plastic Therapy](https://open.spotify.com/track/5GLjjwjiMBoDIn0Dx0uDos) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Don’t Call Me](https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V) | 2:32 |
-| 134 | [Spiral](https://open.spotify.com/track/6BP2YNAblMgHLI5w5GNlE5) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:37 |
+| 133 | [Spiral](https://open.spotify.com/track/6BP2YNAblMgHLI5w5GNlE5) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:37 |
+| 134 | [Plastic Therapy](https://open.spotify.com/track/5GLjjwjiMBoDIn0Dx0uDos) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Don’t Call Me](https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V) | 2:32 |
 | 135 | [Weakness \(Huey Lewis\) \(feat\. Maisy Stella\)](https://open.spotify.com/track/3lY1DbeIc84Y7kDCncyWbs) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Maisy Stella](https://open.spotify.com/artist/2YNMriUgByyX15x93cwh4e) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 7:47 |
 | 136 | [Paranoid](https://open.spotify.com/track/6bigcY1dmG4tdXFH29qThb) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:21 |
 | 137 | [If Walls Could Talk \- Words on Bathroom Walls](https://open.spotify.com/track/5fBbkWcsvwoeI2u5ifhK5b) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Words on Bathroom Walls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0sEhMYq3QFy3ShBGzUO2wu) | 1:38 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 170 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 171 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AblpVAAAAAD9Njx/eOp7Ioj2mpCBNU5r`
+Snapshot ID: `Ablu4AAAAAAfo0eQ/etxBZkHh9Rlf5uw`

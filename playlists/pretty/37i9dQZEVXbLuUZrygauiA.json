@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Mexico.",
-  "num_followers": 216263,
+  "num_followers": 216261,
   "original_name": "Viral 50 - Mexico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LwdeIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LwitSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Sun",
         "url": "https://open.spotify.com/album/2jKTnXePPWP9Iqa1xXNS4S"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7Hybzi2nMsBsg2Fs2aKUh7"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Lejos de la Ciudad (con Camilo)",
         "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Palabra De To's",
         "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
@@ -97,23 +97,27 @@
       "url": "https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
-        "name": "Heridas",
-        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
+        "name": "Coqueta (Remix)",
+        "url": "https://open.spotify.com/album/5ahZTZNyNywBsg1O7YVINs"
       },
       "artists": [
         {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 263320,
-      "name": "D\u00e9jame Volver Contigo",
-      "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
+      "duration_ms": 226461,
+      "name": "Coqueta - Remix",
+      "url": "https://open.spotify.com/track/6rq3raDazN9D0XUCudW1Nx"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Lobo",
         "url": "https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL"
@@ -129,7 +133,23 @@
       "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/6ghCiMP3eDYROng0pXzMxl"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 268053,
+      "name": "Dejame Volver Contigo",
+      "url": "https://open.spotify.com/track/7lBTazdXYEZT80sPDtSW8D"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "ROSONES",
         "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Bing Bong",
         "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Private Suite (Vol. 2)",
         "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
@@ -197,67 +217,27 @@
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
-        "name": "Perd\u00f3n mam\u00e1",
-        "url": "https://open.spotify.com/album/6qzeie2T8NnpLrAwIR7HXV"
+        "name": "flashes",
+        "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
       },
       "artists": [
         {
-          "name": "Rembeats",
-          "url": "https://open.spotify.com/artist/1DEGWfZe6dY5FTQ2D0ZoEp"
-        }
-      ],
-      "duration_ms": 183928,
-      "name": "Perd\u00f3n mam\u00e1",
-      "url": "https://open.spotify.com/track/50KoLh5KJOydxElFwJabTz"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "SEXOLANDIA",
-        "url": "https://open.spotify.com/album/4C9A9KE0IkN1tKdgzeUsCV"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         },
         {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         }
       ],
-      "duration_ms": 197830,
-      "name": "BEIBY - Remix",
-      "url": "https://open.spotify.com/track/4HCtPbPSpUWCs96j8pcHBP"
+      "duration_ms": 185076,
+      "name": "flashes",
+      "url": "https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "Mi Refe",
-        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 159404,
-      "name": "Mi Refe",
-      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Parte & Choke",
         "url": "https://open.spotify.com/album/0JjFiOt1Ws7Fy5itavO13r"
@@ -281,47 +261,67 @@
       "url": "https://open.spotify.com/track/69vi5SUSJJF0CQJCZngFFS"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
-        "name": "flashes",
-        "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
+        "name": "Perd\u00f3n mam\u00e1",
+        "url": "https://open.spotify.com/album/6qzeie2T8NnpLrAwIR7HXV"
       },
       "artists": [
         {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Rembeats",
+          "url": "https://open.spotify.com/artist/1DEGWfZe6dY5FTQ2D0ZoEp"
         }
       ],
-      "duration_ms": 185076,
-      "name": "flashes",
-      "url": "https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m"
+      "duration_ms": 183928,
+      "name": "Perd\u00f3n mam\u00e1",
+      "url": "https://open.spotify.com/track/50KoLh5KJOydxElFwJabTz"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO"
+        "name": "SEXOLANDIA",
+        "url": "https://open.spotify.com/album/4C9A9KE0IkN1tKdgzeUsCV"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
         },
         {
-          "name": "J Abecia",
-          "url": "https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC"
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         }
       ],
-      "duration_ms": 147451,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
+      "duration_ms": 197830,
+      "name": "BEIBY - Remix",
+      "url": "https://open.spotify.com/track/4HCtPbPSpUWCs96j8pcHBP"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Mi Refe",
+        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 159404,
+      "name": "Mi Refe",
+      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "NADIE",
         "url": "https://open.spotify.com/album/2op3VYOlPBj8PhFxLEQ0Ol"
@@ -337,23 +337,23 @@
       "url": "https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/1yTICkCGrAN8nQO0JGuZoC"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
         }
       ],
-      "duration_ms": 173088,
-      "name": "No Regreses",
-      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
+      "duration_ms": 221053,
+      "name": "Tu Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/3gcFetUCRtOIvDb6kQmZYz"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
@@ -373,7 +373,59 @@
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 173088,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "J Abecia",
+          "url": "https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC"
+        }
+      ],
+      "duration_ms": 147451,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Me Gusta a Morir",
+        "url": "https://open.spotify.com/album/5pFYzEMynkMmJ8BFnFb5Vk"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Porque Me Gusta a Morir",
+      "url": "https://open.spotify.com/track/176c9PeEydG3SsDuFNmuOl"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
@@ -393,7 +445,39 @@
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154525,
+      "name": "Decret\u00e9",
+      "url": "https://open.spotify.com/track/0JhtY0uWW7GINu2aMAtgFx"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Castillos De Cristal",
+        "url": "https://open.spotify.com/album/1pf6pJVfH0FZZtphKRqQMP"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Aun Lo Amo",
+      "url": "https://open.spotify.com/track/6rQiv59kQYiG8LqaSYDfWz"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -417,23 +501,7 @@
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n (CD1)",
-        "url": "https://open.spotify.com/album/04YABmDMSBXSYQuFitSdUJ"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 218720,
-      "name": "Tu Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/1sxwSsqFOhrmc1zl6iJyNn"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
@@ -453,55 +521,7 @@
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 154525,
-      "name": "Decret\u00e9",
-      "url": "https://open.spotify.com/track/0JhtY0uWW7GINu2aMAtgFx"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "AMARTE ME HIZO ODIARTE",
-        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 215945,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "Me Gusta a Morir",
-        "url": "https://open.spotify.com/album/5pFYzEMynkMmJ8BFnFb5Vk"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Porque Me Gusta a Morir",
-      "url": "https://open.spotify.com/track/176c9PeEydG3SsDuFNmuOl"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Como Duele El Amor",
         "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
@@ -517,7 +537,39 @@
       "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "AMARTE ME HIZO ODIARTE",
+        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 215945,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "EL CL\u00faB",
+        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Montagem Lunar Diamante",
         "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
@@ -537,7 +589,7 @@
       "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Tu Boda",
         "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
@@ -557,39 +609,7 @@
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "EL CL\u00faB",
-        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222568,
-      "name": "EL CL\u00faB",
-      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "Castillos De Cristal",
-        "url": "https://open.spotify.com/album/1pf6pJVfH0FZZtphKRqQMP"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Aun Lo Amo",
-      "url": "https://open.spotify.com/track/6rQiv59kQYiG8LqaSYDfWz"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Ultra Complicado",
         "url": "https://open.spotify.com/album/1ioUP0MO23iAvJGlY3qLhw"
@@ -605,63 +625,7 @@
       "url": "https://open.spotify.com/track/1kcn16i5Tmp8udmHcahvi7"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "Hermanas de leche",
-        "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        },
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 165318,
-      "name": "Hermanas de leche",
-      "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "El Amor De Mi Herida",
-      "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
-      },
-      "artists": [
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 178079,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
@@ -681,27 +645,63 @@
       "url": "https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
-        "name": "Take Me to the Beach (feat. Ado)",
-        "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
+        "name": "Hermanas de leche",
+        "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
         },
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Take Me to the Beach (feat. Ado)",
-      "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
+      "duration_ms": 165318,
+      "name": "Hermanas de leche",
+      "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "El Amor De Mi Herida",
+      "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
+      },
+      "artists": [
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 178079,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -741,7 +741,95 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "El Mayor de los Ranas",
+        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 172059,
+      "name": "El Mayor de los Ranas",
+      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/6ghCiMP3eDYROng0pXzMxl"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Heridas",
+      "url": "https://open.spotify.com/track/4giTFT3aM5ckTlCP9dx5Jw"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "gervonta",
+        "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 167367,
+      "name": "gervonta",
+      "url": "https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Take Me to the Beach (feat. Ado)",
+        "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Take Me to the Beach (feat. Ado)",
+      "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
+      "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Soy Una Dama",
+      "url": "https://open.spotify.com/track/0ch4OICZl4DIN6fADhrhX3"
+    },
+    {
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "CORA DE HIELO",
         "url": "https://open.spotify.com/album/2ktxw6j04fB9NmqOv5ck0z"
@@ -765,43 +853,7 @@
       "url": "https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "ARMAGED\u00d3N",
-        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 148266,
-      "name": "novatos",
-      "url": "https://open.spotify.com/track/0XwJGj1tXy2IvacjPZ3dDe"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "El Mayor de los Ranas",
-        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
-      },
-      "artists": [
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        },
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 172059,
-      "name": "El Mayor de los Ranas",
-      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Palabra De To's",
         "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
@@ -817,23 +869,23 @@
       "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
-        "name": "gervonta",
-        "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 167367,
-      "name": "gervonta",
-      "url": "https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN"
+      "duration_ms": 148266,
+      "name": "novatos",
+      "url": "https://open.spotify.com/track/0XwJGj1tXy2IvacjPZ3dDe"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Que Sigan Llegando Las Pacas (Extended)",
         "url": "https://open.spotify.com/album/0IeCqguWKSslODbwnrelhq"
@@ -849,71 +901,23 @@
       "url": "https://open.spotify.com/track/0NsGFMIo2aNbAkJu48ndaf"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL"
+        "name": "miau",
+        "url": "https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg"
       },
       "artists": [
         {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
         }
       ],
-      "duration_ms": 219093,
-      "name": "Soy Una Dama",
-      "url": "https://open.spotify.com/track/0ch4OICZl4DIN6fADhrhX3"
+      "duration_ms": 185972,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9"
     },
     {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "Tu H\u00e9roe",
-        "url": "https://open.spotify.com/album/09zIV6A4I2sZJFJ6z3vAwn"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Tu H\u00e9roe",
-      "url": "https://open.spotify.com/track/5AKWFDSXV2edVPHPlaO9qL"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "\u00bfQui\u00e9n?",
-        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 183315,
-      "name": "Vibra Perfecta",
-      "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
-      "album": {
-        "name": "Heridas",
-        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "Heridas",
-      "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
-    },
-    {
-      "added_at": "2024-12-31 13:31:55",
+      "added_at": "2025-01-01 14:05:50",
       "album": {
         "name": "Ese Vato No Te Queda",
         "url": "https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9"

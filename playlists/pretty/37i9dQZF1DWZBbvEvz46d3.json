@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 69436,
+  "num_followers": 69453,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
+        "name": "Momenty",
+        "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
+      },
+      "artists": [
+        {
+          "name": "Grzegorz Hy\u017cy",
+          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "O Pani!",
+      "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
+    },
+    {
+      "added_at": "2024-08-04 17:24:59",
+      "album": {
         "name": "Ostatni (Rojst '97 | Netflix)",
         "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 219546,
       "name": "Ostatni (Rojst '97 | Netflix)",
       "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
-    },
-    {
-      "added_at": "2024-08-04 17:24:59",
-      "album": {
-        "name": "Momenty",
-        "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
-      },
-      "artists": [
-        {
-          "name": "Grzegorz Hy\u017cy",
-          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "O Pani!",
-      "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
     },
     {
       "added_at": "2024-08-04 17:24:59",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
-        "name": "Zakryj (Deluxe)",
-        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
-      },
-      "artists": [
-        {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u0119skno Mi",
-      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
-    },
-    {
-      "added_at": "2024-08-04 17:24:59",
-      "album": {
         "name": "Duety",
         "url": "https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
+        "name": "Zakryj (Deluxe)",
+        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "T\u0119skno Mi",
+      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
+    },
+    {
+      "added_at": "2024-08-04 17:24:59",
+      "album": {
         "name": "Porady Na Zdrady [Dreszcze]",
         "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 210662,
       "name": "Porady Na Zdrady [Dreszcze]",
       "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
-    },
-    {
-      "added_at": "2024-08-04 17:24:59",
-      "album": {
-        "name": "Komponuj\u0105c siebie",
-        "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 184514,
-      "name": "Ksi\u0119\u017cniczka",
-      "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
     },
     {
       "added_at": "2024-08-04 17:24:59",
@@ -699,6 +683,22 @@
       "duration_ms": 185714,
       "name": "Ka\u017cdego Dnia",
       "url": "https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx"
+    },
+    {
+      "added_at": "2024-08-04 17:24:59",
+      "album": {
+        "name": "Komponuj\u0105c siebie",
+        "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 184514,
+      "name": "Ksi\u0119\u017cniczka",
+      "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
     },
     {
       "added_at": "2024-08-04 17:24:59",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
-        "name": "O nich, o Tobie",
-        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 147417,
-      "name": "O nich, o Tobie",
-      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
-    },
-    {
-      "added_at": "2024-08-04 17:24:59",
-      "album": {
         "name": "Ania Karwan",
         "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 197764,
       "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
       "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
+    },
+    {
+      "added_at": "2024-08-04 17:24:59",
+      "album": {
+        "name": "O nich, o Tobie",
+        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 147417,
+      "name": "O nich, o Tobie",
+      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
       "added_at": "2024-08-04 17:24:59",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
-        "name": "M\u00f3j dom",
-        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
-      },
-      "artists": [
-        {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
-        }
-      ],
-      "duration_ms": 251540,
-      "name": "Dobry moment",
-      "url": "https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY"
-    },
-    {
-      "added_at": "2024-08-04 17:24:59",
-      "album": {
         "name": "Smak Sl\u00f3w",
         "url": "https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
+        "name": "M\u00f3j dom",
+        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
+      },
+      "artists": [
+        {
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+        }
+      ],
+      "duration_ms": 251540,
+      "name": "Dobry moment",
+      "url": "https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY"
+    },
+    {
+      "added_at": "2024-08-04 17:24:59",
+      "album": {
         "name": "Wielki Odlot 2 - Najlepsze 80-te",
         "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 326706,
       "name": "Dmuchawce, Latawce, Wiatr",
       "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
+    },
+    {
+      "added_at": "2024-08-04 17:24:59",
+      "album": {
+        "name": "Polska nostalgia 60+ Cz. 4",
+        "url": "https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4"
+      },
+      "artists": [
+        {
+          "name": "2 + 1",
+          "url": "https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+      "url": "https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub"
     },
     {
       "added_at": "2024-08-04 17:24:59",
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2024-08-04 17:24:59",
       "album": {
-        "name": "Polska nostalgia 60+ Cz. 4",
-        "url": "https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4"
+        "name": "Osobista kolekcja 2",
+        "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
       },
       "artists": [
         {
-          "name": "2 + 1",
-          "url": "https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW"
+          "name": "Krystyna Pro\u0144ko",
+          "url": "https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y"
         }
       ],
-      "duration_ms": 144840,
-      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
-      "url": "https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub"
+      "duration_ms": 280737,
+      "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
+      "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
     },
     {
       "added_at": "2024-08-04 17:24:59",
@@ -1199,38 +1215,6 @@
       "duration_ms": 239600,
       "name": "Silacz",
       "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
-    },
-    {
-      "added_at": "2024-08-04 17:24:59",
-      "album": {
-        "name": "M\u00f3j dom",
-        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
-      },
-      "artists": [
-        {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Dobrze, \u017ce Ci\u0119 mam",
-      "url": "https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF"
-    },
-    {
-      "added_at": "2024-08-04 17:24:59",
-      "album": {
-        "name": "Osobista kolekcja 2",
-        "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
-      },
-      "artists": [
-        {
-          "name": "Krystyna Pro\u0144ko",
-          "url": "https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y"
-        }
-      ],
-      "duration_ms": 280737,
-      "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
-      "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
     },
     {
       "added_at": "2024-08-04 17:24:59",
@@ -1279,6 +1263,22 @@
       "duration_ms": 195789,
       "name": "Prawda o nas",
       "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
+    },
+    {
+      "added_at": "2024-08-04 17:24:59",
+      "album": {
+        "name": "M\u00f3j dom",
+        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
+      },
+      "artists": [
+        {
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Dobrze, \u017ce Ci\u0119 mam",
+      "url": "https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF"
     },
     {
       "added_at": "2024-08-04 17:24:59",

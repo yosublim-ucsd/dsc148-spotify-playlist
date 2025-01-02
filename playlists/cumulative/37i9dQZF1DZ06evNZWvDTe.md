@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-178 songs - 10 hr 41 min
+179 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Mary](https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 4:21 | 2021-12-28 |  |
 | [Me and You](https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [King](https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u) | 3:44 | 2021-12-28 |  |
 | [Mengye Mani](https://open.spotify.com/track/4PDkZy4qiPF5Ah3TaDLQzC) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Mengye Mani](https://open.spotify.com/album/1nuFeWphoHT0yUA9opJetj) | 3:36 | 2024-04-19 | 2024-05-15 |
+| [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 | 2025-01-02 |  |
 | [Mewu \(feat\. Akwaboah\)](https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 3:25 | 2021-12-29 |  |
 | [NewGuy \(feat\. Acehood\)](https://open.spotify.com/track/24Ot0FTvMXlMuSVah7RoE0) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [NewGuy \(feat\. Acehood\)](https://open.spotify.com/album/763yDd7CNuWdz0DSFc81XL) | 4:12 | 2022-01-22 | 2022-01-31 |
 | [No Fugazy](https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Fugazy](https://open.spotify.com/album/25mKwZuJQ0eD1Rl9BJ1WME) | 2:58 | 2021-12-28 | 2023-07-04 |
@@ -166,7 +167,7 @@
 | [Try Me](https://open.spotify.com/track/2EWgz1dixRunlenKM26QVo) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Try Me](https://open.spotify.com/album/0uG6zMQnNUmVvI20N4lr1S) | 3:16 | 2023-07-11 | 2024-05-26 |
 | [Try Me](https://open.spotify.com/track/4qR1ScsKhKNzzRtsljnPsl) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Try Me](https://open.spotify.com/album/7MLkMml0WXtxE6r0keAOQi) | 3:16 | 2023-06-30 | 2023-07-12 |
 | [U Go Kill Me \(feat\. El\)](https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [EL](https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 3:45 | 2021-12-28 |  |
-| [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 | 2024-01-27 |  |
+| [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 | 2024-01-27 | 2025-01-02 |
 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 | 2023-09-18 | 2024-09-18 |
 | [Valley Of Trappers \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Juiczx](https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e) | [Valley Of Trappers \(feat\. Sarkodie\) \[Remix\]](https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d) | 2:22 | 2024-08-03 | 2024-12-28 |
 | [Vawulence \(Remix\)](https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Vawulence \(Remix\)](https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri) | 2:54 | 2024-01-13 | 2024-09-22 |

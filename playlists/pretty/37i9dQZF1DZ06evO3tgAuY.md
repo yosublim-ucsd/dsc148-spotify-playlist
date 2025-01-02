@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,117 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 23 | [Nadie Lo Hubiera Pensado](https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Nadie Lo Hubiera Pensado](https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ) | 2:29 |
 | 24 | [El Uno Al 7](https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Uno Al 7](https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs) | 3:24 |
 | 25 | [Bsod3](https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Bsod3](https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx) | 3:14 |
-| 26 | [El Lic](https://open.spotify.com/track/47zq3s9SJbPsFLSAutzZ3s) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Lic](https://open.spotify.com/album/2xZEwYIbbGnjvKOL89DjJS) | 2:04 |
-| 27 | [El Pariente \- En Vivo](https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5) | [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Levemente Live Sessions](https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh) | 2:57 |
-| 28 | [El Marin](https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Marin](https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd) | 2:13 |
+| 26 | [El Pariente \- En Vivo](https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5) | [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Levemente Live Sessions](https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh) | 2:57 |
+| 27 | [El Marin](https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Marin](https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd) | 2:13 |
+| 28 | [El Lic](https://open.spotify.com/track/47zq3s9SJbPsFLSAutzZ3s) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Lic](https://open.spotify.com/album/2xZEwYIbbGnjvKOL89DjJS) | 2:04 |
 | 29 | [Que Cambie](https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:34 |
 | 30 | [El Vago](https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Vago](https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd) | 2:57 |
 | 31 | [Que Hice Mal](https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Que Hice Mal](https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI) | 3:25 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 39 | [Jaimito El De California](https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Jaimito El De California](https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G) | 2:31 |
 | 40 | [Medio Fresa \- En Vivo](https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:59 |
 | 41 | [El Brillo de Mis Ojos](https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Brillo de Mis Ojos](https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer) | 3:32 |
-| 42 | [Canchame](https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Canchame](https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr) | 3:30 |
-| 43 | [El Maserati \- En Vivo](https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Agrado](https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh) | [El Maserati \(En Vivo\)](https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk) | 2:42 |
+| 42 | [El Maserati \- En Vivo](https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Agrado](https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh) | [El Maserati \(En Vivo\)](https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk) | 2:42 |
+| 43 | [Canchame](https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Canchame](https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr) | 3:30 |
 | 44 | [Mr\. Seal The Deal](https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 4:35 |
 | 45 | [Botecitos Destapando \- En Vivo](https://open.spotify.com/track/7j2U6s8PNveSUBwDJfFz5v) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Meño Leon](https://open.spotify.com/artist/0D6qB7uGf9am07RDPCzeZ8) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:50 |
 | 46 | [Acá Por Tijuana \- En Vivo](https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Acá Por Tijuana \(En Vivo\)](https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 49 | [Tiempo Duros](https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:44 |
 | 50 | [El De La Misma Línea \- En Vivo](https://open.spotify.com/track/5xH8sGBGGyHEZuGgL7EGsq) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:50 |
 
-Snapshot ID: `Z3HigAAAAADlraGYW2eYA80/uMmSvVSa`
+Snapshot ID: `Z3M0AAAAAABOtT71mTdQe3hRL2BwsX+f`

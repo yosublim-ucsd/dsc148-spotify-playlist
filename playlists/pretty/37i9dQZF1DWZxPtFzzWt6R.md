@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Luciano Camargo
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,428 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,476 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 7 | [Tempo de Vitória](https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Tempo de Vitória](https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9) | 3:49 |
 | 8 | [Não e Fake News \- Ao Vivo](https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Não é Fake News \(Ao Vivo\)](https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9) | 3:26 |
 | 9 | [O Barco](https://open.spotify.com/track/3H5tR9rP70xNthQlVxbMgW) | [Junior e Mateus](https://open.spotify.com/artist/7AdOPAnF5BAROmS3QmXY4I) | [No Barco](https://open.spotify.com/album/3BI1BaAzWaw29XCxyDQVJB) | 3:33 |
-| 10 | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F) | 4:09 |
-| 11 | [Contigo Até o Fim](https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R) | [Elida Rodrigues](https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ), [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb) | [Contigo Até o Fim](https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye) | 4:03 |
+| 10 | [Contigo Até o Fim](https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R) | [Elida Rodrigues](https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ), [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb) | [Contigo Até o Fim](https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye) | 4:03 |
+| 11 | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F) | 4:09 |
 | 12 | [Foi Deus](https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Foi Deus](https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5) | 3:35 |
 | 13 | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/track/5CeWqSYsDIFj56f45yBU33) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/album/50E3HpxrrCnKufDBgwkWgM) | 3:37 |
 | 14 | [A Casa](https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Gretter Records](https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP) | [A Casa](https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9) | 4:53 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 48 | [Aquele Que Morreu na Cruz](https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Rayssa Peres](https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA) | [Aquele Que Morreu na Cruz](https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV) | 3:23 |
 | 49 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 | 50 | [Tá Chorando Por Quê? \- Ao Vivo](https://open.spotify.com/track/68BauEEnD5SZeIjoPorwEF) | [Sabrina Bernardes](https://open.spotify.com/artist/4H7rc2IOBNVXg9yAIgZ4uV), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/album/42bBUPfS1dzXucB3KaBrBc) | 4:57 |
-| 51 | [Amar É Fácil](https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU) | [Lenno Maia](https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx) | [Amar É Fácil](https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8) | 4:37 |
-| 52 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |
+| 51 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |
+| 52 | [Amar É Fácil](https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU) | [Lenno Maia](https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx) | [Amar É Fácil](https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8) | 4:37 |
 | 53 | [Se Vós Baterdes, Ele Vos Abre](https://open.spotify.com/track/19smAbcgmDSHlrRLV7wHFy) | [Josias Marques](https://open.spotify.com/artist/411JFiY9AF0BBA7V7BdSGg) | [Hinos Ccb \(Voz & Violão\)](https://open.spotify.com/album/5xvsCatJsLkmBAO9GGqzbg) | 5:00 |
 | 54 | [Arma Forjada](https://open.spotify.com/track/3wgJ32iIfOTwFmd6zSL6dG) | [Ronaldo André](https://open.spotify.com/artist/4ncW0avyx3Z9dDloRttewh), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Arma Forjada](https://open.spotify.com/album/6Ks3dxIO88IeFfLgqZHdFG) | 4:07 |
 | 55 | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ) | 3:59 |

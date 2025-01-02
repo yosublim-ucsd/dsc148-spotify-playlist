@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2yMdqzOp3gbcNz17locUz4.md) - [plain]
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb">salv the dog</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,262 likes - 120 songs - 6 hr 28 min
+[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,263 likes - 120 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

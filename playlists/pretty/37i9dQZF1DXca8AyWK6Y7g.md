@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > I told my mother what you did! cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,956 likes - 130 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,881 likes - 130 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 125500,
       "name": "+ DE ESO",
       "url": "https://open.spotify.com/track/5uAdM9Ry2aL3SIdTLtDgw2"
@@ -1481,6 +1481,40 @@
     },
     {
       "album": {
+        "name": "Hasta La Luna (feat. Meri Deal, Marama) [Remix]",
+        "url": "https://open.spotify.com/album/5GRyz97ijU9BAWfueLY8MU"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157520,
+      "name": "Hasta La Luna (feat. Meri Deal, Marama) - Remix",
+      "url": "https://open.spotify.com/track/4HnFARgZZdzuXSWLhfoRp1"
+    },
+    {
+      "album": {
         "name": "HOLA PERDIDA",
         "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
       },
@@ -2018,6 +2052,28 @@
       "duration_ms": 338000,
       "name": "Los del Espacio",
       "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
+    },
+    {
+      "album": {
+        "name": "Luck Ra: Bzrp Music Sessions, Vol. 61",
+        "url": "https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170953,
+      "name": "Luck Ra: Bzrp Music Sessions, Vol. 61",
+      "url": "https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a"
     },
     {
       "album": {
@@ -3092,7 +3148,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
@@ -3135,7 +3191,7 @@
         },
         {
           "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "url": "https://open.spotify.com/artist/3uLPhd9X8kY1JU13bPRG9W"
         }
       ],
       "date_added": "2024-01-11",

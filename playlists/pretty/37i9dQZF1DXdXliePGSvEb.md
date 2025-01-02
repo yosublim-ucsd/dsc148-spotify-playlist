@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,185 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,273 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 9 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |
 | 10 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
 | 11 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 |
-| 12 | [Drums of Death](https://open.spotify.com/track/1xefwf39r1PWiOKS40Z31n) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Drums of Death](https://open.spotify.com/album/1au1j5lu62capHe16MhXLF) | 3:11 |
-| 13 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 |
+| 12 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 |
+| 13 | [Drums of Death](https://open.spotify.com/track/1xefwf39r1PWiOKS40Z31n) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Drums of Death](https://open.spotify.com/album/1au1j5lu62capHe16MhXLF) | 3:11 |
 | 14 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 | 15 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
 | 16 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 45 | [Go Ghost](https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Go Ghost](https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm) | 3:29 |
 | 46 | [The Trip](https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [The Trip](https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B) | 3:12 |
 | 47 | [Look My Way](https://open.spotify.com/track/0lM0EOabMO2HIx9x9WOnkg) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Look My Way](https://open.spotify.com/album/0Uv6dixMkPtIBMsfZK1wzW) | 3:50 |
-| 48 | [be gentle with me](https://open.spotify.com/track/1XEYRXmLvTdTfGR1ZKhPf7) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Two Shell](https://open.spotify.com/album/4jZZgPpyDqLuTq0LKgXwK6) | 3:51 |
-| 49 | [Pulgueiro Baile](https://open.spotify.com/track/6STxAo5kKX2XWRFftsfeE0) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Pulgueiro Baile](https://open.spotify.com/album/0vmsUk7bKO8Kg0oh30Ghsz) | 3:21 |
+| 48 | [Pulgueiro Baile](https://open.spotify.com/track/6STxAo5kKX2XWRFftsfeE0) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Pulgueiro Baile](https://open.spotify.com/album/0vmsUk7bKO8Kg0oh30Ghsz) | 3:21 |
+| 49 | [be gentle with me](https://open.spotify.com/track/1XEYRXmLvTdTfGR1ZKhPf7) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Two Shell](https://open.spotify.com/album/4jZZgPpyDqLuTq0LKgXwK6) | 3:51 |
 | 50 | [Hey \(Shut Up\)](https://open.spotify.com/track/6Sy8VJKsFhvWab130OFLjO) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Hey \(Shut Up\)](https://open.spotify.com/album/5lO7A8BggmR1eaUNtSoehK) | 4:25 |
 
 Snapshot ID: `Z1BHxAAAAAD0Ll45U4aSQoZYqeQ6qSVO`

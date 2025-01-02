@@ -3325,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "A Night About You",
+        "url": "https://open.spotify.com/album/2bNdsHCAtT7UmllvIKP0PZ"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/7rCk0YGYPTgzdAUba5faP5"
+    },
+    {
+      "album": {
         "name": "Flaws & All",
         "url": "https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww"
       },
@@ -8462,7 +8480,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 206739,
       "name": "Outside The Gate",
       "url": "https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww"

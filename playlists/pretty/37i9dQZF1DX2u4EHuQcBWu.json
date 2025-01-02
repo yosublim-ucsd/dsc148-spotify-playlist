@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 203404,
+  "num_followers": 203452,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Se Me Ocurre",
-      "url": "https://open.spotify.com/track/4fZJ1PRKY0cWC8PRWnRZQa"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Casa Babylon",
         "url": "https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 237640,
       "name": "Senor Matanza",
       "url": "https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Se Me Ocurre",
+      "url": "https://open.spotify.com/track/4fZJ1PRKY0cWC8PRWnRZQa"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "El Objeto Antes Llamado Disco",
-        "url": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 273946,
-      "name": "Zopilotes",
-      "url": "https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Yo Vivo en Esta Ciudad",
         "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 227093,
       "name": "La Marcha De La Bronca",
       "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "El Objeto Antes Llamado Disco",
+        "url": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 273946,
+      "name": "Zopilotes",
+      "url": "https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Mortal",
-        "url": "https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX"
-      },
-      "artists": [
-        {
-          "name": "Sa\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG"
-        }
-      ],
-      "duration_ms": 305893,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Su Madre Patria",
         "url": "https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 136000,
       "name": "Su Madre Patria",
       "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Mortal",
+        "url": "https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG"
+        }
+      ],
+      "duration_ms": 305893,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 230877,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 257666,
       "name": "Canci\u00f3n De Alicia En El Pa\u00eds - En Vivo",
       "url": "https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "La Cultura De La Basura",
+        "url": "https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 482333,
+      "name": "Poder Elegir",
+      "url": "https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Ellas",
         "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "La Cultura De La Basura",
-        "url": "https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1"
       },
       "artists": [
         {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          "name": "De Nalgas",
+          "url": "https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh"
         }
       ],
-      "duration_ms": 482333,
-      "name": "Poder Elegir",
-      "url": "https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS"
+      "duration_ms": 220520,
+      "name": "Promesas y Perdones",
+      "url": "https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 122436,
       "name": "Bella Ciao",
       "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1"
-      },
-      "artists": [
-        {
-          "name": "De Nalgas",
-          "url": "https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "Promesas y Perdones",
-      "url": "https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Mar\u00eda Land\u00f3",
-        "url": "https://open.spotify.com/album/2G44RDuX1aeQlBbLZUOub2"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 270088,
-      "name": "Mar\u00eda Land\u00f3",
-      "url": "https://open.spotify.com/track/1GVgU5BK361ZtYx17yxaUZ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Fuego (Canciones de Emergencia)",
         "url": "https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 298049,
       "name": "La Canci\u00f3n Es Protesta",
       "url": "https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Mar\u00eda Land\u00f3",
+        "url": "https://open.spotify.com/album/2G44RDuX1aeQlBbLZUOub2"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 270088,
+      "name": "Mar\u00eda Land\u00f3",
+      "url": "https://open.spotify.com/track/1GVgU5BK361ZtYx17yxaUZ"
     },
     {
       "added_at": "2024-05-10 03:00:00",

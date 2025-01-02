@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 68325,
+  "num_followers": 68324,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABrjhoE05L7zynyCjuyFtmy",
+  "snapshot_id": "Z3M0AAAAAADmcIuq1zaEjAdMkcyR6Oz2",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMIGA CON BENEFICIOS",
-        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
+        "name": "Fantasias (Remix) [feat. Farruko & Lunay]",
+        "url": "https://open.spotify.com/album/2kcKdEULKToIB701VWtOPr"
       },
       "artists": [
         {
-          "name": "LOS DUROS SON ELLOS",
-          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 193411,
-      "name": "AMIGA CON BENEFICIOS",
-      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
+      "duration_ms": 267241,
+      "name": "Fantasias - Remix",
+      "url": "https://open.spotify.com/track/0A37XY67wSdGqkGjtfW6aV"
     },
     {
       "added_at": null,
@@ -271,38 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantasias (Remix) [feat. Farruko & Lunay]",
-        "url": "https://open.spotify.com/album/2kcKdEULKToIB701VWtOPr"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 267241,
-      "name": "Fantasias - Remix",
-      "url": "https://open.spotify.com/track/0A37XY67wSdGqkGjtfW6aV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primer Dia de Clases",
         "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
       },
@@ -319,6 +295,30 @@
       "duration_ms": 176000,
       "name": "Cuando Sera",
       "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMIGA CON BENEFICIOS",
+        "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
+      },
+      "artists": [
+        {
+          "name": "LOS DUROS SON ELLOS",
+          "url": "https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "AMIGA CON BENEFICIOS",
+      "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
     },
     {
       "added_at": null,
@@ -1171,6 +1171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "ENERO",
+      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00facleo",
         "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 197312,
       "name": "Codigo Secreto",
       "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "ENERO",
-      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
     }
   ],
   "unique_name": "This Is Lunay",

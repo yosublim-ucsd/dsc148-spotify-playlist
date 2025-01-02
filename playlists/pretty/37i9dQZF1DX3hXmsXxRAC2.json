@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 337581,
+  "num_followers": 337691,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 300853,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Songbook 3 El Amor Es Vida",
         "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 360823,
       "name": "Amor eterno",
       "url": "https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 300853,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Bueninvento",
-        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/68l8HTNeB8mDv2Yl3C3DSF"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 173133,
       "name": "Solo Se Que Fue En Marzo",
       "url": "https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Bueninvento",
+        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/68l8HTNeB8mDv2Yl3C3DSF"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "10 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4D3w10tAtPiZ0MtJTP9pt9"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 476200,
-      "name": "As\u00ed Fue - En Vivo",
-      "url": "https://open.spotify.com/track/0u9bj1NhkqZxqJKWml17YI"
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+        "name": "10 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4D3w10tAtPiZ0MtJTP9pt9"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 170685,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
+      "duration_ms": 476200,
+      "name": "As\u00ed Fue - En Vivo",
+      "url": "https://open.spotify.com/track/0u9bj1NhkqZxqJKWml17YI"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 143994,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "30 A\u00f1os de Exitos",
         "url": "https://open.spotify.com/album/3WGjI64qVOhmSUOteU3mwe"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 180533,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/5HQnUFcJWN9jpfhj4NxJB8"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 143994,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8"
     },
     {
       "added_at": "2024-07-02 23:46:15",

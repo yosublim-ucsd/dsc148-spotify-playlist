@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 707059,
+  "num_followers": 707157,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Bad Guy",
-        "url": "https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 157831,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 157831,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
+      },
+      "artists": [
+        {
+          "name": "MEG MYERS",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "duration_ms": 263716,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "Running Up That Hill",
-        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
-      },
-      "artists": [
-        {
-          "name": "MEG MYERS",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        }
-      ],
-      "duration_ms": 263716,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Drunk Enough To Dance",
-        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 154680,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "eMOTIVe",
         "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 288000,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Drunk Enough To Dance",
+        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 281373,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "The Curse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 485018,
       "name": "Stairway to Heaven",
       "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Comandante",
-        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 312262,
-      "name": "Voodoo Child",
-      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 184417,
       "name": "Hey Ya! - Live Session from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Comandante",
+        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 312262,
+      "name": "Voodoo Child",
+      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-        "url": "https://open.spotify.com/album/7m2qgouMIUFAAeWjeNfyiF"
-      },
-      "artists": [
-        {
-          "name": "Islander",
-          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-      "url": "https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Addicted to Love",
         "url": "https://open.spotify.com/album/4XjiLfkxDeGgOamI6hccCl"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 227673,
       "name": "Addicted to Love",
       "url": "https://open.spotify.com/track/7EVqaT1bzmFdUfnynRQDPc"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+        "url": "https://open.spotify.com/album/7m2qgouMIUFAAeWjeNfyiF"
+      },
+      "artists": [
+        {
+          "name": "Islander",
+          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
+        }
+      ],
+      "duration_ms": 178250,
+      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "url": "https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy"
     },
     {
       "added_at": "2024-11-08 21:08:22",

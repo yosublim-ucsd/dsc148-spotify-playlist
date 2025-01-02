@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 31979,
+  "num_followers": 31990,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAAEz71L5Q198ROz39pTKFYr",
+  "snapshot_id": "Z3M0AAAAAADtWo5nF6R44Lv03rMrOrnI",
   "tracks": [
     {
       "added_at": null,
@@ -1011,30 +1011,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/3SVVpAm8enSoy5Ab4NUQAR"
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
       "artists": [
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        },
-        {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Young Dro",
-          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
         }
       ],
-      "duration_ms": 254347,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs"
+      "duration_ms": 404600,
+      "name": "Always - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/3loaCZ2ZeolNXvrxmB3RaJ"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

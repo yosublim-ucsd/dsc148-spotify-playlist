@@ -1,6 +1,6 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 95910,
+  "num_followers": 95943,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "(III)",
-        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 224680,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "(III)",
+        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Walk The Moon",
-        "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
       "artists": [
         {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
         }
       ],
-      "duration_ms": 321280,
-      "name": "Anna Sun",
-      "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
+      "duration_ms": 278373,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+        "name": "Walk The Moon",
+        "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
       },
       "artists": [
         {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
         }
       ],
-      "duration_ms": 278373,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
+      "duration_ms": 321280,
+      "name": "Anna Sun",
+      "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 301866,
-      "name": "Lazuli",
-      "url": "https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 301866,
+      "name": "Lazuli",
+      "url": "https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Given To The Wild",
         "url": "https://open.spotify.com/album/7hRcDIP5CKDlCnjHVPb9qd"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 224786,
       "name": "Pelican",
       "url": "https://open.spotify.com/track/0HjRzOti4wvuKwIUsjZrHM"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Young North - EP",
-        "url": "https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 191773,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Bad Girls",
         "url": "https://open.spotify.com/album/1PsuantEKG5IglWPfaPmMb"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 228280,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/0nSsI7f2BJRXJUeNisWUWL"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Young North - EP",
+        "url": "https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 191773,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd"
     },
     {
       "added_at": "2024-03-18 13:12:36",

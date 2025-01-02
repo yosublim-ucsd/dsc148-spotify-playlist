@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,452 likes - 38 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,509 likes - 38 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 2 | [OMG](https://open.spotify.com/track/4CHL91BCEIgpqGS8ii1sqN) | [Lil June Afro Punta](https://open.spotify.com/artist/1GGJqRN2ghXJ2w83Nf6FMS) | [Afro Punta 2 Diversity](https://open.spotify.com/album/7i3icRBoz4sIUhFQsYbjWw) | 2:46 |
 | 3 | [Sopa de Caracol \(Remix\)](https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L) | [Pilo Tejeda](https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc), [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [El Otro Yo](https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ) | 3:15 |
-| 4 | [La Yuca](https://open.spotify.com/track/04DMd80zGUt5W21LDDQTI8) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 4:38 |
-| 5 | [Hablo Español](https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 3:06 |
+| 4 | [Tickita Tickita](https://open.spotify.com/track/0FELqIlEc43GwHNp5RjldW) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 5:25 |
+| 5 | [Pedazo De Mujer](https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 4:00 |
 | 6 | [El Encarguito](https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 3:43 |
 | 7 | [Fiesta](https://open.spotify.com/track/0DekuxPNx9ImAWQHXldJ9P) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 7:29 |
 | 8 | [Kazzabe Si Sabe](https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 8](https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX) | 5:25 |
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 11 | [Laluda Bellu](https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 3:33 |
 | 12 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
 | 13 | [Tik Tok Punta](https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg) | [El Profeta Hn](https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU) | [Tik Tok Punta](https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y) | 4:03 |
-| 14 | [Tickita Tickita](https://open.spotify.com/track/0FELqIlEc43GwHNp5RjldW) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 5:25 |
+| 14 | [La Yuca](https://open.spotify.com/track/04DMd80zGUt5W21LDDQTI8) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 4:38 |
 | 15 | [Banana](https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 6:41 |
-| 16 | [Pedazo De Mujer](https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 4:00 |
+| 16 | [Hablo Español](https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 3:06 |
 | 17 | [Punta Silver](https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD) | 4:42 |
 | 18 | [Bunabou Live \- Live](https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF) | [Xcstacy](https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi) | [Bunabou Live](https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc) | 7:29 |
 | 19 | [Por la Playa](https://open.spotify.com/track/56NlIztGmrboS6icu0s8us) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 4:16 |

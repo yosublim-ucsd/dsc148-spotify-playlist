@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 359817,
+  "num_followers": 359790,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 136580,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 169523,
       "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 136580,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/6IpcyL6OyZJKm5DiHpk9ig"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 144000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0BHNkpGmcexaGyUHDZCQXG"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Uggla Box",
+        "url": "https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Kung f\u00f6r en dag",
+      "url": "https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Din tid kommer (Otto Knows Remix)",
         "url": "https://open.spotify.com/album/1L25xMsuDCuBcb0rJnggWr"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 165714,
       "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/5uiQAY4i9oTGf79rgcf5jr"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Uggla Box",
-        "url": "https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx"
-      },
-      "artists": [
-        {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Kung f\u00f6r en dag",
-      "url": "https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Vill du ligga med mig?",
-        "url": "https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 142017,
-      "name": "Vill du ligga med mig?",
-      "url": "https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "K\u00f6r Ba' K\u00f6r",
         "url": "https://open.spotify.com/album/4LucKKKFW44J8bzkCV0VUK"
       },
@@ -979,6 +963,38 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "\u00c4lskade \u00e4ngel",
+        "url": "https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b"
+      },
+      "artists": [
+        {
+          "name": "Ooooklart",
+          "url": "https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "\u00c4lskade \u00e4ngel",
+      "url": "https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Vill du ligga med mig?",
+        "url": "https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 142017,
+      "name": "Vill du ligga med mig?",
+      "url": "https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Soffa fr\u00e5n IKEA",
         "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 149499,
       "name": "Soffa fr\u00e5n IKEA",
       "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "\u00c4lskade \u00e4ngel",
-        "url": "https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b"
-      },
-      "artists": [
-        {
-          "name": "Ooooklart",
-          "url": "https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "\u00c4lskade \u00e4ngel",
-      "url": "https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1051,22 +1051,6 @@
       "duration_ms": 142304,
       "name": "VOI TILL MIN FUCKBOI",
       "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 144874,
       "name": "Sommarn\u00e4tter",
       "url": "https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1215,38 +1215,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Vad b\u00e4nkar du?",
-        "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
-      },
-      "artists": [
-        {
-          "name": "Gunilla Persson",
-          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
-        }
-      ],
-      "duration_ms": 167998,
-      "name": "Vad b\u00e4nkar du?",
-      "url": "https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "MEDVETSL\u00d6S",
-        "url": "https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH"
-      },
-      "artists": [
-        {
-          "name": "Raggarligan",
-          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "MEDVETSL\u00d6S",
-      "url": "https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "FULLT \u00d6S ARBETSL\u00d6S",
         "url": "https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR"
       },
@@ -1271,6 +1239,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "MEDVETSL\u00d6S",
+        "url": "https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "MEDVETSL\u00d6S",
+      "url": "https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "SUPA (Studentl\u00e5ten)",
         "url": "https://open.spotify.com/album/6FmEqvZ3GQUATK71XlIxak"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 160519,
       "name": "SUPA (Studentl\u00e5ten)",
       "url": "https://open.spotify.com/track/4wWihgtVue0ILcKsXAQsEN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Vad b\u00e4nkar du?",
+        "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
+      },
+      "artists": [
+        {
+          "name": "Gunilla Persson",
+          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+        }
+      ],
+      "duration_ms": 167998,
+      "name": "Vad b\u00e4nkar du?",
+      "url": "https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Alcohol",
+        "url": "https://open.spotify.com/album/6BhvNYJ2HaxIDrVIYyWKnn"
+      },
+      "artists": [
+        {
+          "name": "Flamingoz",
+          "url": "https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL"
+        }
+      ],
+      "duration_ms": 165029,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/1iUXBxsHTHuByOXz2AX7ZK"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Man In Finance (G6 Trust Fund)",
         "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 151405,
       "name": "Man In Finance (G6 Trust Fund)",
       "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Alcohol",
-        "url": "https://open.spotify.com/album/6BhvNYJ2HaxIDrVIYyWKnn"
-      },
-      "artists": [
-        {
-          "name": "Flamingoz",
-          "url": "https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL"
-        }
-      ],
-      "duration_ms": 165029,
-      "name": "Alcohol",
-      "url": "https://open.spotify.com/track/1iUXBxsHTHuByOXz2AX7ZK"
     },
     {
       "added_at": "2024-06-13 22:00:00",

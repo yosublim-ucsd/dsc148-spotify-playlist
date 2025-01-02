@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 ### [Umami](https://open.spotify.com/playlist/37i9dQZF1DWVUxkQFrGCkK)
 
-> Maria Mariaaaa
+> Tulum szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,027 likes - 397 songs - 1 day 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,396 likes - 397 songs - 1 day 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -406,4 +406,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 396 | [People](https://open.spotify.com/track/5Z7K4nCutR02UrKIDjY35k) | [MLiR](https://open.spotify.com/artist/1deVrxjIl8NdenVpoSUiKi) | [Swedish Lo\-Life EP](https://open.spotify.com/album/1tJnTAZH3tCdoniVCB4nPD) | 6:07 |
 | 397 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
 
-Snapshot ID: `Z2SlngAAAAA6wKOJy/fRrXywBIF08P0Y`
+Snapshot ID: `Z3USjwAAAACuslzKCnRRKZ9EABrHWpwI`

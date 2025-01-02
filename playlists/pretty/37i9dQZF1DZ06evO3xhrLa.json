@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 238350,
+  "num_followers": 238371,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAB0nAYSZzd2yCEzui5pN8ZX",
+  "snapshot_id": "Z3M0AAAAAAD89pBCKiFGvllD8BfKGlQG",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 209933,
-      "name": "Triggered (freestyle)",
-      "url": "https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE"
+      "duration_ms": 100386,
+      "name": "Pray For You",
+      "url": "https://open.spotify.com/track/3JHQY6VnwmUMuYb0XI2O7Y"
     },
     {
       "added_at": null,
@@ -498,15 +498,11 @@
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 259385,
-      "name": "None Of Your Concern (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut"
+      "duration_ms": 209933,
+      "name": "Triggered (freestyle)",
+      "url": "https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE"
     },
     {
       "added_at": null,
@@ -578,11 +574,15 @@
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 100386,
-      "name": "Pray For You",
-      "url": "https://open.spotify.com/track/3JHQY6VnwmUMuYb0XI2O7Y"
+      "duration_ms": 259385,
+      "name": "None Of Your Concern (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 639766,
+  "num_followers": 639787,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-12-09 12:11:36",
       "album": {
+        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
+        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Oh Jonny",
+      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
+    },
+    {
+      "added_at": "2024-12-09 12:11:36",
+      "album": {
         "name": "Chabos wissen wer der Babo ist",
         "url": "https://open.spotify.com/album/3qUVVgfr2GzcDukgYVr10T"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 196946,
       "name": "Rhythmus meines Lebens",
       "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
-    },
-    {
-      "added_at": "2024-12-09 12:11:36",
-      "album": {
-        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
-        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Oh Jonny",
-      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
     },
     {
       "added_at": "2024-12-09 12:11:36",

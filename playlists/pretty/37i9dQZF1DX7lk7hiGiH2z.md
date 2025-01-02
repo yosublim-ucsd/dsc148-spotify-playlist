@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,222 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,195 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 25 | [Lametta](https://open.spotify.com/track/2h40veh7G3sIpaRJgWMcFD) | [Pauken und Planeten](https://open.spotify.com/artist/60mnI2b1MwVTA6q5EZ2iMT) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:55 |
 | 26 | [Schnee im Gefrierfach](https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17) | [Nicola Rost](https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:54 |
 | 27 | [Winter ist wie Sommer nur in kalt](https://open.spotify.com/track/4A9BPyAHg5ZwgXAi7EpGe7) | [Die Liga der gewöhnlichen Gentlemen](https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:27 |
-| 28 | [Leise rieselt der Schnee](https://open.spotify.com/track/5ElQqxkOJVS1sGSw7Xycsm) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:25 |
-| 29 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 |
+| 28 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 |
+| 29 | [Leise rieselt der Schnee](https://open.spotify.com/track/5ElQqxkOJVS1sGSw7Xycsm) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:25 |
 | 30 | [Schneeballschlacht](https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:21 |
 | 31 | [Kleiner Eisbär, wohin fährst du?](https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8) | [Kleiner Eisbär](https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6) | [Kleiner Eisbär: Rettet die Rentiere](https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L) | 3:57 |
 | 32 | [Ich will Schnee](https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61) | [Deniz & Ove](https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X), [WIM](https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:11 |

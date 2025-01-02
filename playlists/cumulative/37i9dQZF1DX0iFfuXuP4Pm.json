@@ -504,7 +504,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 235470,
       "name": "Bighani",
       "url": "https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 209166,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 276000,
       "name": "Isa Dalawa Tatlo",
       "url": "https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9"
@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 135650,
       "name": "Madamot Ka",
       "url": "https://open.spotify.com/track/3sFotCpWY1e84X0YixN4jw"
@@ -2430,6 +2430,24 @@
       "duration_ms": 288855,
       "name": "Manatili",
       "url": "https://open.spotify.com/track/3coArR1muD6ainIHX2ynk4"
+    },
+    {
+      "album": {
+        "name": "manila to LA",
+        "url": "https://open.spotify.com/album/3TEFMkmQlNeJLTdwgLjWNk"
+      },
+      "artists": [
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282739,
+      "name": "manila to LA",
+      "url": "https://open.spotify.com/track/71oRSyIegiwNBxBQNbEMDh"
     },
     {
       "album": {
@@ -2630,7 +2648,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 207567,
       "name": "Mirasol",
       "url": "https://open.spotify.com/track/7zLBGK5lDf5cnAA3ea4xR9"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 237692,
       "name": "Multo",
       "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
@@ -2750,6 +2768,24 @@
       "duration_ms": 270400,
       "name": "Museo",
       "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
+    },
+    {
+      "album": {
+        "name": "My Day",
+        "url": "https://open.spotify.com/album/0nIgomkDdr75IJu4aanFJl"
+      },
+      "artists": [
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "My Day",
+      "url": "https://open.spotify.com/track/26gpJidk118QGbNcDqCHbW"
     },
     {
       "album": {
@@ -4185,6 +4221,28 @@
     },
     {
       "album": {
+        "name": "SUBOMOTO (Hev Abi Remix)",
+        "url": "https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl"
+      },
+      "artists": [
+        {
+          "name": "Zae",
+          "url": "https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178931,
+      "name": "SUBOMOTO - Hev Abi Remix",
+      "url": "https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve"
+    },
+    {
+      "album": {
         "name": "Sunny When I'm With You",
         "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
       },
@@ -4577,6 +4635,28 @@
     },
     {
       "album": {
+        "name": "Wag Ipagsabi",
+        "url": "https://open.spotify.com/album/4LavLiKs6MNLNkYZK07zH3"
+      },
+      "artists": [
+        {
+          "name": "Dreycruz",
+          "url": "https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf"
+        },
+        {
+          "name": "Bert Symoun",
+          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208375,
+      "name": "Wag Ipagsabi",
+      "url": "https://open.spotify.com/track/6XBz5vxIzEWFRLpxWYGEpV"
+    },
+    {
+      "album": {
         "name": "Kung Alam Mo Lang",
         "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
       },
@@ -4606,7 +4686,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 204003,
       "name": "Walang Humpay",
       "url": "https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj"

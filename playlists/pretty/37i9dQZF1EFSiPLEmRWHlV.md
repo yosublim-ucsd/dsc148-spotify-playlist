@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 129 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 129 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 14 | [Air I Breathe \- Sub Focus & Wilkinson](https://open.spotify.com/track/0B6pOWMK4fV4YYtbe7cpHg) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Portals](https://open.spotify.com/album/6SC0Omssa5QQtX22zlZGEG) | 4:10 |
 | 15 | [Love Nor Money](https://open.spotify.com/track/409lSJ3BoGROb8UqcoVPDC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Love Nor Money](https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl) | 2:50 |
 | 16 | [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 |
-| 17 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 |
-| 18 | [Say The Word \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1V83L9oCbfir9q75yNbB1V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:57 |
+| 17 | [Say The Word \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1V83L9oCbfir9q75yNbB1V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:57 |
+| 18 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 |
 | 19 | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 |
 | 20 | [Midnight](https://open.spotify.com/track/5CNH1fectMnNkRmq6hMmIN) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Midnight](https://open.spotify.com/album/75InxEX0N1ZKyROhMNhil2) | 3:24 |
 | 21 | [Special Thing](https://open.spotify.com/track/2OGcwhOAldo9aiDwBnXMfc) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Gilligan Moss](https://open.spotify.com/album/5wuxthfn38zXXuN8RlzOy9) | 4:57 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 56 | [Give It To Me Good](https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Give It To Me Good](https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT) | 2:49 |
 | 57 | [Echoes](https://open.spotify.com/track/5Bd3biotsdxkuENxrWxFmM) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [The Old Days](https://open.spotify.com/album/4VAog91t9To2gujuttmguG) | 3:43 |
 | 58 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
-| 59 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
-| 60 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 |
+| 59 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 |
+| 60 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
 | 61 | [Alone With You](https://open.spotify.com/track/6dy7jbH9rsUT3pZ68BBAsp) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ultraviolet](https://open.spotify.com/album/4RW0gk4pBLqsgmJ97vCsS8) | 4:36 |
-| 62 | [Feels Like](https://open.spotify.com/track/0LikEGIzNK5qoLtlCnhLn8) | [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [Puzzles](https://open.spotify.com/album/2tRCZOp6egFlp7ZINBNuaW) | 3:46 |
-| 63 | [Out My Mind](https://open.spotify.com/track/67x9A5uxv2QH7xnjUbIoCM) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4) | [Out My Mind](https://open.spotify.com/album/0WE5uN6u7HSF1tAS29gmP3) | 3:03 |
+| 62 | [Out My Mind](https://open.spotify.com/track/67x9A5uxv2QH7xnjUbIoCM) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4) | [Out My Mind](https://open.spotify.com/album/0WE5uN6u7HSF1tAS29gmP3) | 3:03 |
+| 63 | [Feels Like](https://open.spotify.com/track/0LikEGIzNK5qoLtlCnhLn8) | [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [Puzzles](https://open.spotify.com/album/2tRCZOp6egFlp7ZINBNuaW) | 3:46 |
 | 64 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/2nuQAULY22Sm8s4LsALj84) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:08 |
 | 65 | [Over & Over](https://open.spotify.com/track/5yxZgGzAoRUntxuqBeiX7a) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Over & Over](https://open.spotify.com/album/1SAh2fP7h6BYUlNtZvlTj0) | 3:34 |
 | 66 | [Need Somebody](https://open.spotify.com/track/11GpZntix44GCa1ELQREj8) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Vibe Creator](https://open.spotify.com/album/2R0ef8WJZD7XOIf6QXln98) | 2:52 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 128 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 129 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AblpXwAAAAAjVrflx0TiDWcCgSBliiG0`
+Snapshot ID: `Ablu9AAAAABpx/El358FOx7YcUMJIlCA`

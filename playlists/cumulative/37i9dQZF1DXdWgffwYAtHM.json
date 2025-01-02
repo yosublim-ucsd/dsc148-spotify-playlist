@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Creators que voc\u00ea precisa ter no RADAR",
+  "description": "Creators que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:0QukQs0ML5vk7MvOh05bth\">At\u00e9 a\u00ed, ok!</a>",
   "name": "RADAR Creators Brasil",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 3810623,
       "name": "#04 Debochar para n\u00e3o enlouquecer, com Maria Bopp",
       "url": "https://open.spotify.com/episode/5DcxzLeoM8dyD0xzqfChs3"
@@ -38,6 +38,24 @@
       "duration_ms": 3098154,
       "name": "#05 Como lidar com as expectativas dos nossos pais? - Elisama responde e-mails de ouvintes.",
       "url": "https://open.spotify.com/episode/6jTSyQDFj0utu82inF7YFy"
+    },
+    {
+      "album": {
+        "name": "T\u00e1 com Tempo? por Elisama Santos",
+        "url": "https://open.spotify.com/album/0jChaPqRQFGVIjnwTqeZiD"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1 com Tempo? por Elisama Santos",
+          "url": "https://open.spotify.com/show/0jChaPqRQFGVIjnwTqeZiD"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3766976,
+      "name": "#08 Elisama Santos recebe Mariana Xavier",
+      "url": "https://open.spotify.com/episode/1zoiLwcYNBpn3N7Ol7vMIb"
     },
     {
       "album": {
@@ -160,10 +178,28 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 4754259,
       "name": "#70 Gostosuras, travessuras ou possess\u00f5es? feat. Ju Cassini (Assustador, Bizarro e Misterioso) - Joguei No Grupo",
       "url": "https://open.spotify.com/episode/1GsbEj0UWrFZbaL3QP9R9m"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 a\u00ed, ok!",
+        "url": "https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth"
+      },
+      "artists": [
+        {
+          "name": "At\u00e9 a\u00ed, ok!",
+          "url": "https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1290935,
+      "name": "#70. Reflexo do \u00f3culos",
+      "url": "https://open.spotify.com/episode/77JwG0z2RGlE5wU7JoMgqa"
     },
     {
       "album": {
@@ -203,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Joguei no Grupo",
+        "url": "https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9"
+      },
+      "artists": [
+        {
+          "name": "Joguei no Grupo",
+          "url": "https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3992711,
+      "name": "#77 - \u00c9 poss\u00edvel ser triste no Brasil? - Joguei No Grupo",
+      "url": "https://open.spotify.com/episode/1YVPIZD3P86zKyKmS0efYC"
+    },
+    {
+      "album": {
         "name": "Eu preciso falar de amor ",
         "url": "https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd"
       },
@@ -214,10 +268,28 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 2192148,
       "name": "#81 Encerrar ciclos e se priorizar",
       "url": "https://open.spotify.com/episode/7tqBlecTjLFkIZggYUexDp"
+    },
+    {
+      "album": {
+        "name": "bom mesmo \u00e9 ser emocionada",
+        "url": "https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE"
+      },
+      "artists": [
+        {
+          "name": "bom mesmo \u00e9 ser emocionada",
+          "url": "https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4267796,
+      "name": "24 coisas que aprendi em 2024",
+      "url": "https://open.spotify.com/episode/062mzNRvFnTkT2P6yToADN"
     },
     {
       "album": {
@@ -250,7 +322,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 1624050,
       "name": "A ca\u00e7ada da internet que solucionou um crime",
       "url": "https://open.spotify.com/episode/7Jh8cUrOGm9h1CM25wbRjk"
@@ -394,7 +466,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 760489,
       "name": "atrasada na vida ",
       "url": "https://open.spotify.com/episode/2eqYG1Mc9GrgMBS6LthLXq"
@@ -448,10 +520,28 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 933256,
       "name": "Clube do Erro #052 - Amor ou Amizade?",
       "url": "https://open.spotify.com/episode/6YQk7TbOEoQ73xoiLrVFgv"
+    },
+    {
+      "album": {
+        "name": "Clube do Erro",
+        "url": "https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s"
+      },
+      "artists": [
+        {
+          "name": "Clube do Erro",
+          "url": "https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 989495,
+      "name": "Clube do Erro #100 - Feliz Ano Velho",
+      "url": "https://open.spotify.com/episode/4kWZFrrssa8goDMn5n3Che"
     },
     {
       "album": {
@@ -466,7 +556,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 2785227,
       "name": "COISAS QUE IRRITAM",
       "url": "https://open.spotify.com/episode/2bygoBbucATKmmYha6oR6U"
@@ -509,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Assustador, Bizarro e Misterioso",
+        "url": "https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR"
+      },
+      "artists": [
+        {
+          "name": "Assustador, Bizarro e Misterioso",
+          "url": "https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3981143,
+      "name": "CREEPYPASTA - Meu amigo viveu em uma realidade alternativa por 7 anos (FINAL)",
+      "url": "https://open.spotify.com/episode/6NIq9q17LIqlcdzL7gJPfH"
+    },
+    {
+      "album": {
         "name": "O Turno da Noite",
         "url": "https://open.spotify.com/album/6gt6D5EyS6DRo3X4KuNhz5"
       },
@@ -545,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Eu preciso falar de amor ",
+        "url": "https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd"
+      },
+      "artists": [
+        {
+          "name": "Eu preciso falar de amor ",
+          "url": "https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2033416,
+      "name": "Ep#95 Voc\u00ea n\u00e3o \u00e9 seus pensamentos",
+      "url": "https://open.spotify.com/episode/4497wIVegvYPdFlpMCk1zA"
+    },
+    {
+      "album": {
         "name": "Eu s\u00f3 disse meu nome",
         "url": "https://open.spotify.com/album/7EZp7RdSTHpYdNEOYVAq3K"
       },
@@ -574,7 +700,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 3851808,
       "name": "HATERS DO POGRAMA #26",
       "url": "https://open.spotify.com/episode/4xc4cVJQVAFCmrtS59hWsE"
@@ -668,6 +794,24 @@
       "duration_ms": 1027876,
       "name": "O MAL-AMADO - Hist\u00f3rias pra Adulto Dormir",
       "url": "https://open.spotify.com/episode/5QlAv3wWjyAowtLlx8qsej"
+    },
+    {
+      "album": {
+        "name": "Hist\u00f3rias pra adulto dormir",
+        "url": "https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt"
+      },
+      "artists": [
+        {
+          "name": "Hist\u00f3rias pra adulto dormir",
+          "url": "https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1131924,
+      "name": "O PAPAGAIO QUE N\u00c3O CANTAVA - Hist\u00f3rias pra Adulto Dormir (Grilos)",
+      "url": "https://open.spotify.com/episode/0968DPCgw3HIYVatrdvfs5"
     },
     {
       "album": {
@@ -880,7 +1024,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 727781,
       "name": "O TREM DAS ONZE HORAS - Hist\u00f3rias pra Adulto Dormir (Grilos e Trem)",
       "url": "https://open.spotify.com/episode/54a6icn1XF2MqVeL0RlX4K"
@@ -920,6 +1064,24 @@
       "duration_ms": 2132480,
       "name": "POGRAMA DE B\u00caBO - POGRAMA #19",
       "url": "https://open.spotify.com/episode/1pfclYHvZK1poOQVIroVac"
+    },
+    {
+      "album": {
+        "name": "POGRAMA",
+        "url": "https://open.spotify.com/album/4b5P4Tq5loWnl139Uw853q"
+      },
+      "artists": [
+        {
+          "name": "POGRAMA",
+          "url": "https://open.spotify.com/show/4b5P4Tq5loWnl139Uw853q"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2604863,
+      "name": "POGRAMMY #32",
+      "url": "https://open.spotify.com/episode/6ACzZzvSeRVhk7Tlg37UlN"
     },
     {
       "album": {
@@ -995,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "vibes em an\u00e1lise",
+        "url": "https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL"
+      },
+      "artists": [
+        {
+          "name": "vibes em an\u00e1lise",
+          "url": "https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3868424,
+      "name": "SAUDADE DO FUTURO",
+      "url": "https://open.spotify.com/episode/0VJ5PKZDBTpUOcm3HYBsme"
+    },
+    {
+      "album": {
         "name": "bom mesmo \u00e9 ser emocionada",
         "url": "https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE"
       },
@@ -1006,7 +1186,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 1415252,
       "name": "seletivamente emocionada #35",
       "url": "https://open.spotify.com/episode/7JLjQ1iVAxBN0NTJdS27RE"
@@ -1046,6 +1226,24 @@
       "duration_ms": 670761,
       "name": "sobre recome\u00e7ar ",
       "url": "https://open.spotify.com/episode/3flaWV3v8OlbAdtoL5EmgF"
+    },
+    {
+      "album": {
+        "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
+        "url": "https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP"
+      },
+      "artists": [
+        {
+          "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
+          "url": "https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559785,
+      "name": "sobre se reinventar",
+      "url": "https://open.spotify.com/episode/4bJWkpYampoorvG24g4FVv"
     },
     {
       "album": {

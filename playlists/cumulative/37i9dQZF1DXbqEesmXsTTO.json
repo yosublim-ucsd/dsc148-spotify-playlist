@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "\ub2e4\uc591\ud55c \uc7a5\ub974\uc640 \uc545\uae30\uac00 \ub354\ud574\uc9c4 \ud4e8\uc804 \uad6d\uc545 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: Black String (\ube14\ub799\uc2a4\ud2b8\ub9c1)) (Enjoy fusion Korean national music with various genres and instruments added!)",
+  "description": "\ub2e4\uc591\ud55c \uc7a5\ub974\uc640 \uc545\uae30\uac00 \ub354\ud574\uc9c4 \ud4e8\uc804 \uad6d\uc545 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: HARPAARY(\ud574\ud30c\ub9ac)) (Enjoy fusion Korean national music with various genres and instruments added!)",
   "name": "\ud4e8\uc804 \uad6d\uc545 (Fusion Korean National)",
   "tracks": [
     {
@@ -966,6 +966,24 @@
       "duration_ms": 289681,
       "name": "Summer night's dream",
       "url": "https://open.spotify.com/track/0yOaoryUIH4LWkOJOHq4Xo"
+    },
+    {
+      "album": {
+        "name": "TAEPYEONGGA",
+        "url": "https://open.spotify.com/album/6lPBgRHnr6glpCtkd0IFNU"
+      },
+      "artists": [
+        {
+          "name": "HAEPAARY",
+          "url": "https://open.spotify.com/artist/3ltYPanqVYTC1qV0OIRaAc"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391381,
+      "name": "TAEPYEONGGA",
+      "url": "https://open.spotify.com/track/0EoTB8IJJbKv6uG7Wr3tEz"
     },
     {
       "album": {

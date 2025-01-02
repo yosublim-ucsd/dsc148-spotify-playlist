@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364 likes - 406 songs - 21 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 406 songs - 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 36 | [I've Got You Under My Skin](https://open.spotify.com/track/1eBKL70QNc5b1cGLSG3FZ3) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Sinatra](https://open.spotify.com/album/1gPgrV9ISZzujHyTbNTaxK) | 3:29 |
 | 37 | [Wunderbar](https://open.spotify.com/track/3knhxS1Cu9YO5wZWSwcHtW) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/1wohWQ8y4RpdANgxZDa4MF) | 2:49 |
 | 38 | [Fujiyama Mama \- Remastered](https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:14 |
-| 39 | [Leave It To Me](https://open.spotify.com/track/3ADaOcwiMPW3QSBJMBEoXs) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Brian & Tony Gold](https://open.spotify.com/artist/0hXfXDhsiayeNFG98qOPHs) | [Hot Shot](https://open.spotify.com/album/210xxpSUNwaVdWEKIjO52n) | 3:37 |
-| 40 | [Someone To Watch Over Me](https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 5:57 |
+| 39 | [Someone To Watch Over Me](https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 5:57 |
+| 40 | [Leave It To Me](https://open.spotify.com/track/3ADaOcwiMPW3QSBJMBEoXs) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Brian & Tony Gold](https://open.spotify.com/artist/0hXfXDhsiayeNFG98qOPHs) | [Hot Shot](https://open.spotify.com/album/210xxpSUNwaVdWEKIjO52n) | 3:37 |
 | 41 | [I've Got You Under My Skin](https://open.spotify.com/track/5JfYrlqAHAY7ZYMoEua53B) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 2:43 |
 | 42 | [I Love Paris](https://open.spotify.com/track/1oWzJpxMSPWiUvedmfsKWQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 4:59 |
 | 43 | [Paris Loves Lovers \(Instrumental\)](https://open.spotify.com/track/09uK6mV00A5FRhevhdkcVx) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:36 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 405 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 406 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AblpaAAAAACph6TNpOyuWHpMUB9bHrVZ`
+Snapshot ID: `AbluzAAAAABhPgDFeJ4V6bnAednk8wgZ`

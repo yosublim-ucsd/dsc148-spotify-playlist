@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-122 songs - 6 hr 51 min
+124 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 | 2024-08-02 |  |
 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2024-02-29 |  |
 | [Galess Fdar](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 | 2024-08-02 |  |
-| [Getafe](https://open.spotify.com/track/4OeschE7uVqNOJc95EhK1d) | [ReleaseX](https://open.spotify.com/artist/13jSGmeVu5dbEm4z7Rxjt6), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO \(Deleted\)](https://open.spotify.com/album/1rOpXrw9XymF2ywzE5Rc14) | 4:27 | 2024-11-19 |  |
+| [Getafe](https://open.spotify.com/track/7MpbWOY0wbpdNCdXbeoCeV) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO](https://open.spotify.com/album/0tpHKF7aOnredOpDRKRsTi) | 4:27 | 2025-01-01 |  |
+| [Getafe](https://open.spotify.com/track/4OeschE7uVqNOJc95EhK1d) | [ReleaseX](https://open.spotify.com/artist/13jSGmeVu5dbEm4z7Rxjt6), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO \(Deleted\)](https://open.spotify.com/album/1rOpXrw9XymF2ywzE5Rc14) | 4:27 | 2024-11-19 | 2025-01-02 |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2024-10-03 |  |
 | [HKAYA](https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HKAYA](https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw) | 3:18 | 2024-07-22 |  |
 | [Honesty](https://open.spotify.com/track/2jh8usSMjNvJlLi3Zs8S0E) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Honesty](https://open.spotify.com/album/6xaWZ1TZRPGEU3hdR6fAtp) | 2:50 | 2024-02-29 | 2024-10-23 |
@@ -58,7 +59,7 @@
 | [late night](https://open.spotify.com/track/7lIZxEq61A2OMnjD4V7Ok7) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [late night](https://open.spotify.com/album/5sKgQKiGwRIUV4rTOir0VE) | 2:46 | 2024-10-22 | 2024-11-09 |
 | [Layem](https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA) | [Lord Mehdi](https://open.spotify.com/artist/6owJvX8GXLnH24cFMjsptJ) | [Layem](https://open.spotify.com/album/0Hm6EUOkb44U2BzmyVhdbU) | 2:46 | 2024-02-29 | 2024-07-23 |
 | [Light](https://open.spotify.com/track/7B81kYMqsw0gMWtghdo7Q6) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:28 | 2024-07-22 | 2024-10-18 |
-| [Lights](https://open.spotify.com/track/6w3OVt4jAtVAXB4olwyfFD) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Lights](https://open.spotify.com/album/1ViBskZXUYw7JotPVYsFNr) | 4:02 | 2024-11-19 |  |
+| [Lights](https://open.spotify.com/track/6w3OVt4jAtVAXB4olwyfFD) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Lights](https://open.spotify.com/album/1ViBskZXUYw7JotPVYsFNr) | 4:02 | 2024-11-19 | 2025-01-02 |
 | [Liyam](https://open.spotify.com/track/21vUj5SOzOdtGTgRRPBGoA) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:25 | 2024-08-02 |  |
 | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/track/2vbZJ54b6rtogxbGDb11q6) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1) | 2:46 | 2024-02-29 | 2024-07-23 |
 | [LOTSOFLOVE](https://open.spotify.com/track/6x4eiL3u5iWWDVumT8JSqd) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SUEÑO MAGNIFICO](https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7) | 2:16 | 2024-10-03 | 2024-10-18 |
@@ -99,6 +100,7 @@
 | [Potion Mystère](https://open.spotify.com/track/10re1QtJMJsN11jqBemWk8) | [Namak](https://open.spotify.com/artist/7vWqf60gZHRBi9D66Uak2y), [Shr](https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp) | [2024](https://open.spotify.com/album/1IM59QiW2IUmoSn0Fm77Io) | 2:38 | 2024-11-10 | 2024-11-20 |
 | [RABAT CITY JAZZ](https://open.spotify.com/track/766cFs4xFfSYwQrd8mL9qR) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RABAT CITY JAZZ](https://open.spotify.com/album/7ETrE6QoExiN4sBkfW429E) | 3:29 | 2024-06-02 | 2024-07-23 |
 | [RBI M3ANA](https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:25 | 2024-08-02 |  |
+| [Revenge](https://open.spotify.com/track/5uuCn3kSNvbog2DKc8m9En) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Revenge](https://open.spotify.com/album/2hNO1BNJazh2NcggpWr5yg) | 2:53 | 2025-01-01 |  |
 | [Rooftop](https://open.spotify.com/track/14xb83sTdlt21uPgv9AeSr) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:43 | 2024-07-02 | 2024-07-23 |
 | [ROUTINE](https://open.spotify.com/track/3eIJC1PibL9VQHOMGpf9Ut) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:27 | 2024-02-29 |  |
 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 | 2024-07-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 667975,
+  "num_followers": 668181,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABqKwQgvMaSg23ZeBI3FEbw",
+  "snapshot_id": "Z3M0AAAAAAAypbxc6Htd+E1Hs+szUvHW",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 209427,
       "name": "Spin You Around (1/24)",
       "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 224127,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
     },
     {
       "added_at": null,
@@ -400,9 +416,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 202133,
-      "name": "Sand In My Boots",
-      "url": "https://open.spotify.com/track/0uRrG2jRR5tuifsYIJHEao"
+      "duration_ms": 210506,
+      "name": "7 Summers",
+      "url": "https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ"
     },
     {
       "added_at": null,
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 210506,
-      "name": "7 Summers",
-      "url": "https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ"
+      "duration_ms": 202133,
+      "name": "Sand In My Boots",
+      "url": "https://open.spotify.com/track/0uRrG2jRR5tuifsYIJHEao"
     },
     {
       "added_at": null,

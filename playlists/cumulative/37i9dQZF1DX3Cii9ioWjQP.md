@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Q the trumpet\)
+> All about Korean Jazz hits & new \(Cover: JEZZ\)
 
-233 songs - 16 hr 32 min
+234 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Mother of Life](https://open.spotify.com/track/2z04jhHSFyDGItIEIZMEdM) | [Hyojung Kim](https://open.spotify.com/artist/0dWTzrX6vO7m6kxa3PUnib) | [Mother of Life](https://open.spotify.com/album/1bfCGzV02qVg0x2YodNzBU) | 3:56 | 2023-02-07 | 2024-11-07 |
 | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/track/3McUaFgYIE6rg1uZdKiysV) | [Hanna Kim](https://open.spotify.com/artist/1H6Flxc2RNT6U7M9Mnmtln), [Sora Kim](https://open.spotify.com/artist/64EAEt7QWeJFOcoaeGl4An) | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/album/3nM0J1pMew3uLkUzMdP7No) | 8:13 | 2023-03-31 | 2024-11-07 |
 | [MuRR P84\. Journey Through Autumn](https://open.spotify.com/track/4WVnYvAuQVgXN1runmRk9w) | [MuRR](https://open.spotify.com/artist/0jIOKsg5y3wDJuFFS3jngm) | [MuRR P84\. Journey Through Autumn](https://open.spotify.com/album/2BGQGDtlSCfhBYBTNrGKNv) | 4:34 | 2024-10-09 |  |
+| [My weird music \(Feat\. Yireh\)](https://open.spotify.com/track/5BhDJIAXEpdpEwlJBfLzh8) | [JEZZ](https://open.spotify.com/artist/7rU69MSitmrRQtoZoY6h8Q), [Yireh](https://open.spotify.com/artist/67m3FjwGv4IGpLXQycLnE6) | [JEZZ or JAZZ \(Feat\. Yireh\)](https://open.spotify.com/album/6oOiquCBmbnfnekb0QtJIC) | 4:08 | 2025-01-02 |  |
 | [Nevertheless](https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Nevertheless](https://open.spotify.com/album/4j00saS37ayCSxeA0JLoUn) | 4:01 | 2023-02-07 | 2024-11-07 |
 | [Ninguém](https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R) | [HeeKyung Na](https://open.spotify.com/artist/0v7AyJqbUksRKUWHSN5ghz), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [BOSSA](https://open.spotify.com/album/1SyzkAuSQqH00Q52udwWoE) | 2:44 | 2024-09-13 |  |
 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 | 2024-11-07 |

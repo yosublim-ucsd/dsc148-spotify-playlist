@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-426 songs - 1 day 1 hr 56 min
+427 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [CAN WE DO BETTER?](https://open.spotify.com/track/7rk4EiOqYMntjUVqQv7yoy) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [CAN WE DO BETTER?](https://open.spotify.com/album/4Rw1TC7L4Of74J9Zjx8ruQ) | 3:07 | 2024-07-05 |  |
 | [Can't Do Without You](https://open.spotify.com/track/4jdczubN23tbPJoZ1bxBeI) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/1W4kGJYKUseEJQA4Od8JxR) | 3:56 | 2021-04-02 | 2022-04-18 |
 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 | 2021-04-02 | 2024-03-14 |
+| [can't get you out of my mind](https://open.spotify.com/track/1KU7qJxMpWJaHwr56mEG9f) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [can’t get you out of my mind](https://open.spotify.com/album/1C1FK5yrVZ7rZQzousGzSb) | 2:05 | 2024-12-27 |  |
 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/6jvYUrFJeebfiHjyCvfiHE) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/3ZQaTE0GhMpsJKCqo8vnpb) | 2:36 | 2021-04-16 | 2022-08-24 |
 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d) | 2:36 | 2021-04-16 | 2024-08-17 |
 | [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 | 2024-03-29 | 2024-04-09 |
@@ -206,7 +207,7 @@
 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 | 2022-01-28 | 2022-07-29 |
 | [LEAVE IT ALL BEHIND](https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA) | 3:01 | 2024-10-04 |  |
 | [Leave Me Slowly](https://open.spotify.com/track/0LIxpMlVjyioO0gfprZEWQ) | [Starsmith](https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw) | [Leave Me Slowly](https://open.spotify.com/album/3h3I8ytOR5DlNiC6jU4UPs) | 2:47 | 2024-08-16 | 2024-12-17 |
-| [Leave the Door Open](https://open.spotify.com/track/1KYFWMnh5wVsiqncElR67h) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [There's No Tomorrow](https://open.spotify.com/album/5INNKGgFD6LbVOwAOyctZ8) | 2:45 | 2024-04-05 |  |
+| [Leave the Door Open](https://open.spotify.com/track/1KYFWMnh5wVsiqncElR67h) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [There's No Tomorrow](https://open.spotify.com/album/5INNKGgFD6LbVOwAOyctZ8) | 2:45 | 2024-04-05 | 2025-01-02 |
 | [Leave With My Love](https://open.spotify.com/track/3fQLLG61qoXyRy3tMWiqbk) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Leave With My Love](https://open.spotify.com/album/3YDbviYPVAnFmWz8C480r7) | 3:36 | 2024-07-12 | 2024-08-03 |
 | [Lençóis \(Love Me\) \- Notre Dame Remix](https://open.spotify.com/track/5eqCFsvNDpNqlRnaq7yYLw) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Lençóis \(Love Me\) \[Notre Dame Remix\]](https://open.spotify.com/album/1PcJTDyhWQ0zIvl5gbFPfZ) | 5:04 | 2023-09-01 | 2024-08-17 |
 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 | 2024-01-12 |  |

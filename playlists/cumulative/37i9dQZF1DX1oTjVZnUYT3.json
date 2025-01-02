@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293613,
+      "name": "Faixa Amarela",
+      "url": "https://open.spotify.com/track/131eE1wdPFIUAzxveZispD"
+    },
+    {
+      "album": {
         "name": "Hoje \u00c9 Dia De Festa",
         "url": "https://open.spotify.com/album/4CGL4rqypX9EGhPcXcDqlp"
       },
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 212160,
       "name": "Taxi Lunar",
       "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"

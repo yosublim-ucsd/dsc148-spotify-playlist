@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,187 songs - 3 day 11 hr 21 min
+2,188 songs - 3 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Carefree & Happy](https://open.spotify.com/track/3Lyj1sMnwdz5Af3ii2R3YA) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Carefree & Happy](https://open.spotify.com/album/2WUVuApdBfTbtyHFQMcpiK) | 2:28 | 2022-08-05 | 2022-08-19 |
 | [Careless](https://open.spotify.com/track/69PYB04q2aTC3i9wFzRC3T) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [Careless](https://open.spotify.com/album/0QDeDHId4agJs6w0G630zO) | 2:03 | 2023-09-13 | 2024-10-29 |
 | [Carnations](https://open.spotify.com/track/68dXXkD5db6XjHMRdcLFbq) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Carnations](https://open.spotify.com/album/3uhOX14bV6HBYKQLAPGbCR) | 1:49 | 2022-06-17 | 2022-08-12 |
+| [Cars](https://open.spotify.com/track/085CryvCp4JFUhP6PwJo73) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Cars](https://open.spotify.com/album/14NgVoRaowsroOdY06vpzY) | 2:01 | 2024-12-20 |  |
 | [Cartoons & Cereal](https://open.spotify.com/track/3NA3j32GZcVlLHE5ouertM) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:55 | 2022-04-15 | 2022-12-03 |
 | [casern letter](https://open.spotify.com/track/3i4IbAgobwLr3fTrNrbfNW) | [skylarks](https://open.spotify.com/artist/1d1Go2fDIrLgYVWCnrvKow) | [dr\. jyhkel](https://open.spotify.com/album/64SXdegWLZtEFAevppKenc) | 2:03 | 2022-04-15 | 2022-05-27 |
 | [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2023-01-13 |  |
@@ -622,7 +623,7 @@
 | [Far Away](https://open.spotify.com/track/5RfqX9XamBQDQYYIV1dVVZ) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Riverside Girl](https://open.spotify.com/album/042BqwGJ0kRSfsjlSYmtVH) | 3:11 | 2024-09-06 | 2024-10-12 |
 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 | 2023-10-13 |  |
 | [far far away](https://open.spotify.com/track/02lD05wrDhtJVJkQELhwkt) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [aurora](https://open.spotify.com/album/6ImO1VVSZr0cpYuhtBbXvp) | 2:52 | 2023-03-20 | 2024-02-09 |
-| [Far Far Away](https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr) | [Nelly Lang](https://open.spotify.com/artist/3yH3UFanIqAoYmtq7uFW4w) | [Far Far Away](https://open.spotify.com/album/2YR8abEvi7Wk25Nwb2hQ72) | 1:51 | 2022-10-28 |  |
+| [Far Far Away](https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr) | [Nelly Lang](https://open.spotify.com/artist/3yH3UFanIqAoYmtq7uFW4w) | [Far Far Away](https://open.spotify.com/album/2YR8abEvi7Wk25Nwb2hQ72) | 1:51 | 2022-10-28 | 2025-01-02 |
 | [Far Out](https://open.spotify.com/track/3XRvlPzPQ5kbsHWnXKz5qD) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Far Out](https://open.spotify.com/album/1aiQ2fMrMllGqLTTiNpnSE) | 1:55 | 2022-04-22 | 2022-11-12 |
 | [Fare Thee Well O Noble Timepiece](https://open.spotify.com/track/3sKKyt8RryZTi8HZD0Qqu4) | [Domo 759](https://open.spotify.com/artist/0PWZbiy5ZX5uSWrPPVRhYz) | [Fare Thee Well O Noble Timepiece](https://open.spotify.com/album/4csKfMmsQHpSCZYYFLtkcw) | 3:15 | 2023-11-17 |  |
 | [Fare Wells](https://open.spotify.com/track/1ACtHypM6VcEFCncUM0dAZ) | [Zapati\_](https://open.spotify.com/artist/7104dNwyew90099F5cyLBR) | [Fare Wells](https://open.spotify.com/album/0r1gugBZpWj7HjAO7gvXfm) | 2:18 | 2022-12-23 | 2024-10-01 |

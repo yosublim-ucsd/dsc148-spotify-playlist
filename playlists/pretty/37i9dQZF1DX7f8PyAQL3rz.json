@@ -1,6 +1,6 @@
 {
   "description": "chefin rei da tropa do mais novo ataca no funk",
-  "num_followers": 1404923,
+  "num_followers": 1404962,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -359,42 +359,6 @@
     {
       "added_at": "2024-12-20 03:03:02",
       "album": {
-        "name": "THE BOX MEDLEY FUNK 2",
-        "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "Mc Brinquedo",
-          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "THE BOX MEDLEY FUNK 2",
-      "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
         "name": "Let's Go 5",
         "url": "https://open.spotify.com/album/44o1iCizbxPt4a6VJEQOKZ"
       },
@@ -455,6 +419,42 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
+        "name": "THE BOX MEDLEY FUNK 2",
+        "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Mc Brinquedo",
+          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "THE BOX MEDLEY FUNK 2",
+      "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
     },
     {
       "added_at": "2024-12-20 03:03:02",
@@ -743,38 +743,6 @@
     {
       "added_at": "2024-12-20 03:03:02",
       "album": {
-        "name": "O Cara Do Momento",
-        "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Tenho Que Me Decidir",
-      "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
         "name": "Ritmista 1.0",
         "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
       },
@@ -831,6 +799,38 @@
       "duration_ms": 615810,
       "name": "Ritmista 1.0",
       "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
+        "name": "O Cara Do Momento",
+        "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Tenho Que Me Decidir",
+      "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
     },
     {
       "added_at": "2024-12-20 03:03:02",

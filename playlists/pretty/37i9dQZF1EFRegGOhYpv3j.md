@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 45 | [I Remember \(Dixie Remix\)](https://open.spotify.com/track/6kFOpKw4eA6efL9nNbokOy) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [One Night in Nashville](https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep) | 2:48 |
 | 46 | [Wide Open](https://open.spotify.com/track/4AkhBwuqQZQidZFkJICQsd) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 3:09 |
 | 47 | [Did You Make It Home? \(outro\)](https://open.spotify.com/track/2lwG3Zs3Pr5JJs9pnU4T9F) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 0:59 |
-| 48 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 |
-| 49 | [He's My Man](https://open.spotify.com/track/62akVbk0TrvcI8wJtbmN6W) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [He's My Man](https://open.spotify.com/album/4g2BT27wACvwqgSCrjv3L3) | 3:01 |
+| 48 | [He's My Man](https://open.spotify.com/track/62akVbk0TrvcI8wJtbmN6W) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [He's My Man](https://open.spotify.com/album/4g2BT27wACvwqgSCrjv3L3) | 3:01 |
+| 49 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 |
 | 50 | [taylor did](https://open.spotify.com/track/6Cx68IbqamOsYnfxLh1WLX) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:36 |
 | 51 | [Anything But Sober](https://open.spotify.com/track/0b6P2V709915uSGLK9QHdW) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [FLOWER SHOPS \(THE ALBUM\): Two Dozen Roses](https://open.spotify.com/album/5BtYFs4SDVtDNnFFeXgEjw) | 3:51 |
 | 52 | [Grow Young With You](https://open.spotify.com/track/40BMOboIh9QMSRQfiagS3w) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Grow Young With You](https://open.spotify.com/album/6JJRmHFa9NvHxa6vm6NU93) | 3:08 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 65 | [Come Here Cowboy](https://open.spotify.com/track/2hBzDI176FXjOyCiNuvifG) | [Bunnie Xo](https://open.spotify.com/artist/56Dw1CLlqjQuQkBLm25hHP) | [Come Here Cowboy](https://open.spotify.com/album/4xeFm14IBvxCjYdOZutcAA) | 2:04 |
 | 66 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 
-Snapshot ID: `AblpVAAAAADBAjaj8HOl/b+OllbXo7lp`
+Snapshot ID: `Ablu4AAAAACUDUp7azPvV7FY/qLRE7t4`

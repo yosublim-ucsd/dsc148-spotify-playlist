@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 312438,
+  "num_followers": 312598,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Unspoken Words",
+        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 285675,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 194434,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Unspoken Words",
-        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 285675,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "What If I",
         "url": "https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 354889,
       "name": "What If I",
       "url": "https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
     },
     {
       "added_at": "2024-08-09 18:28:29",

@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Seitou No Marche (Standard Edition)",
+        "url": "https://open.spotify.com/album/5bjcGpvKfRk4ai8cJEcvbZ"
+      },
+      "artists": [
+        {
+          "name": "IKASAN",
+          "url": "https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Gaikotsu Gakudan To Riria",
+      "url": "https://open.spotify.com/track/1joOPSOAwgGOHZxUSaK9rC"
+    },
+    {
+      "album": {
         "name": "DOLL",
         "url": "https://open.spotify.com/album/5JxQndpUT8K1ySB3EbFGhA"
       },

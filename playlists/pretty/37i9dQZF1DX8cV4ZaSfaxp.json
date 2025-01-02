@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 56625,
+  "num_followers": 56638,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Loving you",
         "url": "https://open.spotify.com/album/2XxhfupYZDZdZNkAkUJH7w"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 213768,
       "name": "Loving you",
       "url": "https://open.spotify.com/track/0hra4xnIEuXUTF5B0efWNN"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -775,22 +775,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Moonset with KozyPop",
-        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        },
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
         }
       ],
-      "duration_ms": 226933,
-      "name": "Moonset",
-      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
+      "duration_ms": 234856,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -807,22 +803,6 @@
       "duration_ms": 185217,
       "name": "Love visible",
       "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Line",
-      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -847,22 +827,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Afterlife (Feat. OOHYO)",
-        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+        "name": "Moonset with KozyPop",
+        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
       },
       "artists": [
         {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         },
         {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
         }
       ],
-      "duration_ms": 270713,
-      "name": "Afterlife (Feat. OOHYO)",
-      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
+      "duration_ms": 226933,
+      "name": "Moonset",
+      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -887,6 +867,26 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Afterlife (Feat. OOHYO)",
+        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+      },
+      "artists": [
+        {
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 270713,
+      "name": "Afterlife (Feat. OOHYO)",
+      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "RE_vive",
         "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 232906,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Here, This Moment",
-        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
-      },
-      "artists": [
-        {
-          "name": "ARTLOVEU",
-          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Here, This Moment",
-      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -935,22 +919,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+        "name": "Here, This Moment",
+        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
       },
       "artists": [
         {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        },
-        {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+          "name": "ARTLOVEU",
+          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
         }
       ],
-      "duration_ms": 299500,
-      "name": "Aqua (feat. Muzie)",
-      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
+      "duration_ms": 226173,
+      "name": "Here, This Moment",
+      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -967,6 +947,26 @@
       "duration_ms": 191426,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        },
+        {
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        }
+      ],
+      "duration_ms": 299500,
+      "name": "Aqua (feat. Muzie)",
+      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
       "artists": [
         {
-          "name": "sucozy",
-          "url": "https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ"
-        },
-        {
-          "name": "subin",
-          "url": "https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55"
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
         }
       ],
-      "duration_ms": 214736,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
+      "duration_ms": 216578,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1255,34 +1251,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
       },
       "artists": [
         {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 216578,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "MINI",
-        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
-      },
-      "artists": [
+          "name": "sucozy",
+          "url": "https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ"
+        },
         {
-          "name": "LIM JIMIN",
-          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
+          "name": "subin",
+          "url": "https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Loveholic",
-      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
+      "duration_ms": 214736,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 220230,
       "name": "City Night (feat. Jisun)",
       "url": "https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "MINI",
+        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
+      },
+      "artists": [
+        {
+          "name": "LIM JIMIN",
+          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 252208,
       "name": "Afterlife (Feat. OOHYO) - Voradory Ver.",
       "url": "https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
     },
     {
       "added_at": "2024-09-30 08:00:00",

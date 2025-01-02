@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293259,
+  "num_followers": 293252,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -359,30 +359,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Acr\u00f4nico",
-        "url": "https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr"
-      },
-      "artists": [
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 156082,
-      "name": "Ela \u00e9 Tipo",
-      "url": "https://open.spotify.com/track/7xvS7CszxIOfK2FxQJ5LXb"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Eu vim pra Somar",
         "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
       },
@@ -403,6 +379,30 @@
       "duration_ms": 223448,
       "name": "Eu vim pra Somar",
       "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Acr\u00f4nico",
+        "url": "https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 156082,
+      "name": "Ela \u00e9 Tipo",
+      "url": "https://open.spotify.com/track/7xvS7CszxIOfK2FxQJ5LXb"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Tudo \u00c9 Pra Sempre Agora",
-        "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Luiza De Alexandre",
-          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
-        }
-      ],
-      "duration_ms": 185328,
-      "name": "Tudo \u00c9 Pra Sempre Agora",
-      "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
         "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 158293,
       "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
       "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Tudo \u00c9 Pra Sempre Agora",
+        "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Luiza De Alexandre",
+          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
+        }
+      ],
+      "duration_ms": 185328,
+      "name": "Tudo \u00c9 Pra Sempre Agora",
+      "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Deixa Acender",
+        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
+      },
+      "artists": [
+        {
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Deixa Acender",
+      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Vinho",
         "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 183211,
       "name": "\u00faltimo rom\u00e2ntico",
       "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Deixa Acender",
-        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Deixa Acender",
-      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Quem Vai Ser?",
-        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 157918,
-      "name": "Quem Vai Ser?",
-      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "O Som do Litoral",
         "url": "https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 174064,
       "name": "Espa\u00e7o Aberto",
       "url": "https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Quem Vai Ser?",
+        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 157918,
+      "name": "Quem Vai Ser?",
+      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        }
+      ],
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Pagode Urbano #01",
         "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 203141,
       "name": "Gingado Dela",
       "url": "https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "FOME",
-        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        },
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "added_at": "2024-12-20 03:25:46",

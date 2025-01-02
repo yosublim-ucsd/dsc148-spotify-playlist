@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,536 likes - 263 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535 likes - 263 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 72 | [If I Tell You](https://open.spotify.com/track/5siRJCkDV0Nm1kEjt4Ku9q) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 3:34 |
 | 73 | [Yea!!](https://open.spotify.com/track/1o8n563oEpZzCj4qTIJ0NM) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma](https://open.spotify.com/album/6BsJaQiuPWfXwytfZXQBLm) | 3:11 |
 | 74 | [Jane](https://open.spotify.com/track/7g43YzKWtb1NMRcwD896ww) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:22 |
-| 75 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 |
-| 76 | [BUSSIN \(with Rob49\)](https://open.spotify.com/track/01KJrCWiFFdOkthB0rLFpq) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:44 |
+| 75 | [BUSSIN \(with Rob49\)](https://open.spotify.com/track/01KJrCWiFFdOkthB0rLFpq) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:44 |
+| 76 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 |
 | 77 | [Like a Million \(feat\. Kodak Black\)](https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Jackboy](https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M) | 2:58 |
 | 78 | [AUTOMATIC](https://open.spotify.com/track/2TqfASuL5JRds7bJX01PdZ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:02 |
 | 79 | [Hottest in the City](https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hottest in the City](https://open.spotify.com/album/7nP87PXdPv4oPYKWRc5x1z) | 3:03 |
@@ -219,8 +219,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 209 | [Codeine Habits \(feat\. 42 Dugg\)](https://open.spotify.com/track/33cBfvOqyjmRFeyFGVEq0S) | [Blacc Zacc](https://open.spotify.com/artist/2VdDGrsKkzCfR9AG6w5O92), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [803 Legend](https://open.spotify.com/album/6AcLuAHaFPq6G64kc6HmZg) | 3:27 |
 | 210 | [BoNjOuR](https://open.spotify.com/track/4WHU0x1SAjRd6KGnhVdGoj) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH) | [F.A.C.T.S.](https://open.spotify.com/album/3U2PmvVkO4gvoC0CBrpNm7) | 2:30 |
 | 211 | [POCKET](https://open.spotify.com/track/7EAtaOfjKG5BePXMrF2OYv) | [Only One Felipe](https://open.spotify.com/artist/1sSoNWrCtpzRan5yNkBTcL) | [The Only One 2](https://open.spotify.com/album/25rWuA3bzAgI23ymR0UwFY) | 2:21 |
-| 212 | [HoW i'M liViN'](https://open.spotify.com/track/2ypQEXin1AAHTcbfakhkGZ) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 3:16 |
-| 213 | [ONE CALL](https://open.spotify.com/track/3aLYg8zf6MTycBri2zlWLJ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:26 |
+| 212 | [ONE CALL](https://open.spotify.com/track/3aLYg8zf6MTycBri2zlWLJ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:26 |
+| 213 | [HoW i'M liViN'](https://open.spotify.com/track/2ypQEXin1AAHTcbfakhkGZ) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 3:16 |
 | 214 | [Money Fiend](https://open.spotify.com/track/4FlcBk8HiYpDhm4MCtnyAL) | [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [M3](https://open.spotify.com/album/2AL67EF0K5GnmYeA4fPZqZ) | 3:06 |
 | 215 | [M$tAdNtpLy](https://open.spotify.com/track/7jA1ha00uRO2tGnNYkVNoN) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 2:55 |
 | 216 | [AOGG \(feat\. Tay Keith\)](https://open.spotify.com/track/0025YMT2mT4Ehqf5ofDZVG) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX), [Tay Keith](https://open.spotify.com/artist/5iXQ6q7GsGCUew3tVJeG1z) | [Blue Muney \(Deluxe\)](https://open.spotify.com/album/4xr2CDxPElnjMsf8jFPFof) | 2:21 |
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 262 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 263 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AblpXwAAAADgiwYtzzWLIDSSVF9Fq3KO`
+Snapshot ID: `Ablu9AAAAAC2OQDKGzubRNAoyzIn0XE8`

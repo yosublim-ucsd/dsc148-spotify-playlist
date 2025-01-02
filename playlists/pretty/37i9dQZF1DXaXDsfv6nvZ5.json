@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 767235,
+  "num_followers": 767324,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -337,38 +337,6 @@
       "url": "https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0"
     },
     {
-      "added_at": "2024-12-13 02:03:47",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 217417,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY"
-    },
-    {
-      "added_at": "2024-11-08 14:48:31",
-      "album": {
-        "name": "HiYA",
-        "url": "https://open.spotify.com/album/35dPX13gN6H8CLNXL6viq1"
-      },
-      "artists": [
-        {
-          "name": "Ray Lozano",
-          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
-        }
-      ],
-      "duration_ms": 178063,
-      "name": "HiYA",
-      "url": "https://open.spotify.com/track/0EszgYPRpVpz4pVaXttpiJ"
-    },
-    {
       "added_at": "2024-06-21 06:30:29",
       "album": {
         "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
@@ -387,6 +355,38 @@
       "duration_ms": 239306,
       "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
+    },
+    {
+      "added_at": "2024-11-08 14:48:31",
+      "album": {
+        "name": "HiYA",
+        "url": "https://open.spotify.com/album/35dPX13gN6H8CLNXL6viq1"
+      },
+      "artists": [
+        {
+          "name": "Ray Lozano",
+          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
+        }
+      ],
+      "duration_ms": 178063,
+      "name": "HiYA",
+      "url": "https://open.spotify.com/track/0EszgYPRpVpz4pVaXttpiJ"
+    },
+    {
+      "added_at": "2024-12-13 02:03:47",
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 217417,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY"
     },
     {
       "added_at": "2024-10-13 00:13:24",
@@ -1093,6 +1093,38 @@
       "url": "https://open.spotify.com/track/3p0xEoo2jRjshhCplkF8S5"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Untitled (God)",
@@ -1129,38 +1161,6 @@
       "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Live For You",
-        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Live For You",
-      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "2 Much",
@@ -1175,6 +1175,22 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
     },
     {
       "added_at": "2024-11-22 19:03:40",
@@ -1197,20 +1213,52 @@
       "url": "https://open.spotify.com/track/5x3gFHgM66ZB8nNPzGNIFt"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
+        "name": "Can I Call You Rose? (Cover)",
+        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
         }
       ],
-      "duration_ms": 216573,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
+      "duration_ms": 144000,
+      "name": "Can I Call You Rose? - Cover",
+      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
+    },
+    {
+      "added_at": "2024-10-04 06:56:53",
+      "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Simplify",
+      "url": "https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Simply Beautiful",
+        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Simply Beautiful",
+      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
     },
     {
       "added_at": "2024-02-16 05:22:30",
@@ -1233,22 +1281,6 @@
       "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Can I Call You Rose? (Cover)",
-        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Can I Call You Rose? - Cover",
-      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -1263,22 +1295,6 @@
       "duration_ms": 250434,
       "name": "Good Bye",
       "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Simply Beautiful",
-        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Simply Beautiful",
-      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
     },
     {
       "added_at": "2024-05-17 07:14:12",
@@ -1329,22 +1345,6 @@
       "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
     },
     {
-      "added_at": "2024-10-04 06:56:53",
-      "album": {
-        "name": "Leon",
-        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Simplify",
-      "url": "https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Back to your Place",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/7I8tpyYYwPvSdGL3lu1VAv"
     },
     {
-      "added_at": "2024-06-21 06:30:29",
-      "album": {
-        "name": "Lucid Girl",
-        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Lucid Girl",
-      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
-    },
-    {
       "added_at": "2023-05-26 13:00:09",
       "album": {
         "name": "A Brief Nirvana",
@@ -1409,22 +1393,6 @@
       "url": "https://open.spotify.com/track/0kAy9nius3LMRVcE3W0I9J"
     },
     {
-      "added_at": "2023-05-20 16:10:43",
-      "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "TODAY",
-      "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
-    },
-    {
       "added_at": "2024-05-31 07:10:31",
       "album": {
         "name": "Make Me Forget",
@@ -1439,6 +1407,38 @@
       "duration_ms": 238185,
       "name": "Make Me Forget",
       "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
+    },
+    {
+      "added_at": "2024-06-21 06:30:29",
+      "album": {
+        "name": "Lucid Girl",
+        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Lucid Girl",
+      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
+    },
+    {
+      "added_at": "2023-05-20 16:10:43",
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "TODAY",
+      "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
     },
     {
       "added_at": "2023-09-16 14:17:34",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 216436,
-      "name": "How Does It Make You Feel",
-      "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
-    },
-    {
       "added_at": "2024-08-23 06:02:29",
       "album": {
         "name": "Can\u2019t Explain This Love",
@@ -1571,6 +1555,22 @@
       "duration_ms": 181399,
       "name": "Can\u2019t Explain This Love",
       "url": "https://open.spotify.com/track/6VhWAlezdLAky4AlWsXVx4"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 216436,
+      "name": "How Does It Make You Feel",
+      "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
     },
     {
       "added_at": "2023-09-08 06:01:16",
@@ -1641,20 +1641,20 @@
       "url": "https://open.spotify.com/track/49tA7LEL1kX08hBD38G4Zr"
     },
     {
-      "added_at": "2024-11-08 14:48:31",
+      "added_at": "2024-10-04 06:56:53",
       "album": {
-        "name": "cloudy",
-        "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
+        "name": "My Heart is Drowning",
+        "url": "https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX"
       },
       "artists": [
         {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 266704,
-      "name": "somebody new",
-      "url": "https://open.spotify.com/track/5hiKumtJTCHaaWwgxdpnoD"
+      "duration_ms": 163813,
+      "name": "My Heart is Drowning",
+      "url": "https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1689,20 +1689,20 @@
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
-      "added_at": "2024-10-04 06:56:53",
+      "added_at": "2024-11-08 14:48:31",
       "album": {
-        "name": "My Heart is Drowning",
-        "url": "https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX"
+        "name": "cloudy",
+        "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
         }
       ],
-      "duration_ms": 163813,
-      "name": "My Heart is Drowning",
-      "url": "https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5"
+      "duration_ms": 266704,
+      "name": "somebody new",
+      "url": "https://open.spotify.com/track/5hiKumtJTCHaaWwgxdpnoD"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1869,26 +1869,6 @@
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
     },
     {
-      "added_at": "2024-11-15 07:05:31",
-      "album": {
-        "name": "3rd Shift - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4hsiuTzlvfQjUsUMmf7Ccm"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 165976,
-      "name": "3rd Shift - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "CLOSER",
@@ -1915,6 +1895,26 @@
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
+    },
+    {
+      "added_at": "2024-11-15 07:05:31",
+      "album": {
+        "name": "3rd Shift - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4hsiuTzlvfQjUsUMmf7Ccm"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 165976,
+      "name": "3rd Shift - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
     },
     {
       "added_at": "2024-05-10 05:54:01",
@@ -2009,22 +2009,6 @@
       "url": "https://open.spotify.com/track/0PFptuWqSctnyhq2VXxxrD"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "SUBMISSIVE",
-        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LOW TIDE",
-      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
-    },
-    {
       "added_at": "2024-08-23 06:02:29",
       "album": {
         "name": "High Rise",
@@ -2063,6 +2047,22 @@
       "duration_ms": 194184,
       "name": "Mystery ft. PJ Morton",
       "url": "https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LOW TIDE",
+      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2153,22 +2153,6 @@
       "url": "https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1"
     },
     {
-      "added_at": "2024-05-31 07:10:31",
-      "album": {
-        "name": "Soft",
-        "url": "https://open.spotify.com/album/2JknXBW2N9ncLyiLoUysvB"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 318715,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/3IKUHOBOktlBP6kryzg1AS"
-    },
-    {
       "added_at": "2023-09-16 14:17:34",
       "album": {
         "name": "Black Rainbows",
@@ -2183,6 +2167,22 @@
       "duration_ms": 225298,
       "name": "He Will Follow You With His Eyes",
       "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
+    },
+    {
+      "added_at": "2024-05-31 07:10:31",
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/2JknXBW2N9ncLyiLoUysvB"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 318715,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/3IKUHOBOktlBP6kryzg1AS"
     },
     {
       "added_at": "2024-06-21 06:30:29",
@@ -2217,22 +2217,6 @@
       "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 225829,
-      "name": "HEAVY",
-      "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
-    },
-    {
       "added_at": "2023-09-08 06:01:16",
       "album": {
         "name": "We Found Love",
@@ -2247,6 +2231,22 @@
       "duration_ms": 189187,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 225829,
+      "name": "HEAVY",
+      "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
     },
     {
       "added_at": "2024-05-31 07:10:31",
@@ -2265,22 +2265,6 @@
       "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
     },
     {
-      "added_at": "2023-09-01 04:50:07",
-      "album": {
-        "name": "crumbs in my bed",
-        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
-      },
-      "artists": [
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "no spine",
-      "url": "https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI"
-    },
-    {
       "added_at": "2024-12-06 06:47:09",
       "album": {
         "name": "FIELDNOTES: COMPLETE",
@@ -2295,6 +2279,22 @@
       "duration_ms": 179142,
       "name": "Winter Sun",
       "url": "https://open.spotify.com/track/0DyL1sl00wNYaYA8gqdHEp"
+    },
+    {
+      "added_at": "2023-09-01 04:50:07",
+      "album": {
+        "name": "crumbs in my bed",
+        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "no spine",
+      "url": "https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI"
     },
     {
       "added_at": "2023-10-20 05:25:27",
@@ -2365,6 +2365,22 @@
       "url": "https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo"
     },
     {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Flaws & All",
+        "url": "https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Flaws & All",
+      "url": "https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ"
+    },
+    {
       "added_at": "2024-10-25 07:15:59",
       "album": {
         "name": "Say Yes",
@@ -2397,22 +2413,6 @@
       "url": "https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Flaws & All",
-        "url": "https://open.spotify.com/album/5HPDu7ajPllsJdpRfLIkww"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Flaws & All",
-      "url": "https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Colors",
@@ -2427,22 +2427,6 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2024-11-08 14:48:31",
-      "album": {
-        "name": "cloudy",
-        "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "wrong",
-      "url": "https://open.spotify.com/track/1G08KynrJKRBaX94kPmdSK"
     },
     {
       "added_at": "2024-12-13 02:03:47",
@@ -2477,20 +2461,20 @@
       "url": "https://open.spotify.com/track/1Ox21gx050alMVNZL3XCMJ"
     },
     {
-      "added_at": "2023-06-16 06:17:29",
+      "added_at": "2024-11-08 14:48:31",
       "album": {
-        "name": "Don't Pretend (Acoustic)",
-        "url": "https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1"
+        "name": "cloudy",
+        "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
       },
       "artists": [
         {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
         }
       ],
-      "duration_ms": 141666,
-      "name": "Don't Pretend - Acoustic",
-      "url": "https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy"
+      "duration_ms": 214648,
+      "name": "she won't stay long",
+      "url": "https://open.spotify.com/track/628pBCeScgjBqkyvgr5Ffy"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2507,6 +2491,22 @@
       "duration_ms": 215360,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
+    },
+    {
+      "added_at": "2023-06-16 06:17:29",
+      "album": {
+        "name": "Don't Pretend (Acoustic)",
+        "url": "https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Don't Pretend - Acoustic",
+      "url": "https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy"
     },
     {
       "added_at": "2024-02-09 18:22:45",
@@ -2557,22 +2557,6 @@
       "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
     },
     {
-      "added_at": "2024-11-08 14:48:31",
-      "album": {
-        "name": "cloudy",
-        "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 214648,
-      "name": "she won't stay long",
-      "url": "https://open.spotify.com/track/628pBCeScgjBqkyvgr5Ffy"
-    },
-    {
       "added_at": "2023-07-14 16:58:51",
       "album": {
         "name": "Back To Love [Feat. SiR & Alex Isley]",
@@ -2597,6 +2581,22 @@
       "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
     },
     {
+      "added_at": "2024-11-08 14:48:31",
+      "album": {
+        "name": "cloudy",
+        "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "wrong",
+      "url": "https://open.spotify.com/track/1G08KynrJKRBaX94kPmdSK"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "FOR THE BOY IN ME",
@@ -2613,20 +2613,20 @@
       "url": "https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4"
     },
     {
-      "added_at": "2024-10-18 16:11:48",
+      "added_at": "2024-11-08 14:48:31",
       "album": {
-        "name": "Outside The Gate",
-        "url": "https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz"
+        "name": "A Night About You",
+        "url": "https://open.spotify.com/album/2bNdsHCAtT7UmllvIKP0PZ"
       },
       "artists": [
         {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
         }
       ],
-      "duration_ms": 206739,
-      "name": "Outside The Gate",
-      "url": "https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww"
+      "duration_ms": 203000,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/7rCk0YGYPTgzdAUba5faP5"
     }
   ],
   "unique_name": "Soul Coffee",

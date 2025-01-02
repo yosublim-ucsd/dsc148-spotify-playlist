@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 ### [Viral Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DX812gZSD3Ky1)
 
-> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ปก: James ROSÉ
+> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ปก: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,549 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,591 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 99 | [ENVY](https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ENVY](https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2) | 3:22 |
 | 100 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 |
 
-Snapshot ID: `Z25P/gAAAABKifVgj7Gjj2rdNhmHFAfO`
+Snapshot ID: `Z3WTEgAAAABmijaHmXvstYv8MpCAF6Kk`

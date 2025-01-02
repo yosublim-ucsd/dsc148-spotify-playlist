@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Benjazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,163 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,166 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [UNTITLED](https://open.spotify.com/track/7sPMLw5bY4gqtJgpYYCYx1) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [UNTITLED](https://open.spotify.com/album/0puoxQT409nq9IuV5GT2Va) | 3:40 |
 | 2 | [Last Party Never End \(feat\. Tiji Jojo, YZERR, Vingo & Yellow Pato\)](https://open.spotify.com/track/52buM4EFitLjpgxtN1sxIb) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr) | [BAD HOP](https://open.spotify.com/album/3Xf7ckpqko5S1aJCa5RXtn) | 4:15 |
-| 3 | [Till I Die](https://open.spotify.com/track/2PgVWDAKaw6QGcNtMQYJrK) | [nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Till I Die](https://open.spotify.com/album/0JUbgRhX1DFPejUc0xe130) | 2:09 |
+| 3 | [Till I Die](https://open.spotify.com/track/2PgVWDAKaw6QGcNtMQYJrK) | [Nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Till I Die](https://open.spotify.com/album/0JUbgRhX1DFPejUc0xe130) | 2:09 |
 | 4 | [Nov](https://open.spotify.com/track/7Eksv9gBRK85pacHCop2oF) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Nov](https://open.spotify.com/album/6hmpS7WeK40hwurr26r4dB) | 2:53 |
 | 5 | [Yonaka no Tsume \(feat\. Elle Teresa\)](https://open.spotify.com/track/4FSDhHOcgYriQNOczvSZSA) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Secure](https://open.spotify.com/album/0jxof92mKNDfGfVaJFR1uQ) | 2:50 |
 | 6 | [Phantom](https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:37 |

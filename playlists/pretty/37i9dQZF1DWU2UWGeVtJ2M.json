@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 162120,
+  "num_followers": 162153,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
         "name": "Treat Me",
         "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 149865,
       "name": "Treat Me",
       "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -599,26 +599,6 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "Live or Die",
-        "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Lil Xan",
-          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
-        }
-      ],
-      "duration_ms": 194253,
-      "name": "Live or Die",
-      "url": "https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 458666,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
+        "name": "Live or Die",
+        "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Lil Xan",
+          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
+        }
+      ],
+      "duration_ms": 194253,
+      "name": "Live or Die",
+      "url": "https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
         "name": "Amniotic (Deluxe Version)",
         "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 274138,
       "name": "Outgrown",
       "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
         "name": "So Sunshine",
         "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 136007,
       "name": "So",
       "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 202991,
-      "name": "Inkeri",
-      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
         "name": "Something to Feel",
         "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 213535,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 202991,
+      "name": "Inkeri",
+      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "bad weather",
-        "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
-      },
-      "artists": [
-        {
-          "name": "Kibishi",
-          "url": "https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G"
-        }
-      ],
-      "duration_ms": 148855,
-      "name": "bad weather",
-      "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
         "name": "Baby Cakes",
         "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+        "name": "bad weather",
+        "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Kibishi",
+          "url": "https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G"
         }
       ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
+      "duration_ms": 148855,
+      "name": "bad weather",
+      "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -1507,6 +1491,22 @@
       "duration_ms": 176750,
       "name": "WINE",
       "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
+        "name": "Virtual Lover",
+        "url": "https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr"
+      },
+      "artists": [
+        {
+          "name": "illmore",
+          "url": "https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ"
+        },
+        {
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+        }
+      ],
+      "duration_ms": 174907,
+      "name": "Virtual Lover",
+      "url": "https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr"
+    },
+    {
+      "added_at": "2024-12-30 01:31:35",
+      "album": {
         "name": "untitled (what's it gonna be)",
         "url": "https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS"
       },
@@ -1663,22 +1683,18 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "Virtual Lover",
-        "url": "https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr"
+        "name": "Temporary",
+        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
       },
       "artists": [
         {
-          "name": "illmore",
-          "url": "https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ"
-        },
-        {
-          "name": "LINION",
-          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+          "name": "Tim Schaufert",
+          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
         }
       ],
-      "duration_ms": 174907,
-      "name": "Virtual Lover",
-      "url": "https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr"
+      "duration_ms": 124811,
+      "name": "Temporary",
+      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
     },
     {
       "added_at": "2024-12-30 01:31:35",
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "Temporary",
-        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
-      },
-      "artists": [
-        {
-          "name": "Tim Schaufert",
-          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
-        }
-      ],
-      "duration_ms": 124811,
-      "name": "Temporary",
-      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
-    },
-    {
-      "added_at": "2024-12-30 01:31:35",
-      "album": {
         "name": "Breathe In",
         "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
       },
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2024-12-30 01:31:35",
       "album": {
-        "name": "Whatever This Is",
-        "url": "https://open.spotify.com/album/7dRN2VuLb4m1CDTHDHwz7h"
+        "name": "I WILL BE THE CAUSE OF OUR DEATH",
+        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
       },
       "artists": [
         {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+          "name": "takeshi iwamoto",
+          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
         }
       ],
-      "duration_ms": 187058,
-      "name": "Whatever This Is",
-      "url": "https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T"
+      "duration_ms": 222000,
+      "name": "I WILL BE THE CAUSE OF OUR DEATH",
+      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

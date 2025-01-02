@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "AIN'T NO MERCY",
+        "url": "https://open.spotify.com/album/1oorWXeTEMNlDYJWcHYkNZ"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        },
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "AIN'T NO MERCY",
+      "url": "https://open.spotify.com/track/1UyoLF9J88jvOimhEy6jnm"
+    },
+    {
+      "album": {
         "name": "AJI TCHOUF",
         "url": "https://open.spotify.com/album/3QcLNHlCktUOE2d2QknP8K"
       },

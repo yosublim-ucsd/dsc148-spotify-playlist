@@ -4,7 +4,7 @@
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Ioulia Kalimani
 
-113 songs - 6 hr 23 min
+114 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [O Hartis](https://open.spotify.com/track/77veey2PBLf6KBMShrI0H7) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [O Hartis](https://open.spotify.com/album/6ESMhTCrJMvxRMrM3BFbRI) | 3:47 | 2024-06-27 | 2024-11-15 |
 | [Odos Ginekas](https://open.spotify.com/track/5nGK1shX8eclhZTXSk5pOT) | [Nikiforos](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Odos Ginekas](https://open.spotify.com/album/23GOT7qeWOJD1JVdm3Trng) | 3:15 | 2024-06-27 | 2024-07-05 |
 | [Odos Monaxias](https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Odos Monaxias](https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS) | 4:16 | 2024-06-27 |  |
-| [Odos Tsimiski](https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Odos Tsimiski](https://open.spotify.com/album/248qClzJD9BvwbV9F24bJ9) | 3:09 | 2024-07-04 |  |
+| [Odos Tsimiski](https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Odos Tsimiski](https://open.spotify.com/album/248qClzJD9BvwbV9F24bJ9) | 3:09 | 2024-07-04 | 2025-01-02 |
 | [Omorfi](https://open.spotify.com/track/6Tg7PeHmUQZTZB4G3sb7zR) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [O,ti M' Aresei](https://open.spotify.com/album/2cK9ucMA41Z5BhhDiNkPqp) | 2:25 | 2024-06-27 | 2024-12-30 |
 | [Palies Fotografies](https://open.spotify.com/track/4tBZzrNnxSgdjniMCzBqLD) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Palies Fotografies](https://open.spotify.com/album/7dacWPJOwAKtfPPg4mhAuM) | 4:00 | 2024-11-07 | 2024-11-15 |
 | [Parallili Agapi](https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej) | [Christina Salti](https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr) | [Parallili Agapi](https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt) | 4:02 | 2024-06-27 |  |
@@ -95,6 +95,7 @@
 | [Savvato Vrady](https://open.spotify.com/track/4v3ddZLCXUt947jF004vE7) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Savvato Vrady](https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk) | 3:08 | 2024-06-27 |  |
 | [Se Afisa Sto Htes \- Eisai Treli](https://open.spotify.com/track/1XXJbbHeE70PtIiveJqUrV) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Se Afisa Sto Htes \- Eisai Treli](https://open.spotify.com/album/3ZlbDMYJQfj81FkgkgrzGZ) | 3:34 | 2024-06-27 | 2024-10-24 |
 | [Se Pira Sovara](https://open.spotify.com/track/728qx78UuEMdvq3UD25Ztc) | [Eleftheria Eleftheriou](https://open.spotify.com/artist/1xN3Gghqr2BsjaAG37EVM4) | [Se Pira Sovara](https://open.spotify.com/album/0fGA5louQ8pB1nnxUS5zyA) | 3:22 | 2024-06-27 | 2024-07-27 |
+| [Se Thelo Gia Mena](https://open.spotify.com/track/7Fbmh0X62mRwtFQA9oZI7L) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Se Thelo Gia Mena](https://open.spotify.com/album/6GIEfZaXsfveOnfNb86D7H) | 3:36 | 2024-12-19 |  |
 | [Shik Shak Shock](https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q) | [Andreas Habibi](https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG), [Takinio Soul](https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk), [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Shik Shak Shock](https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL) | 2:39 | 2024-07-25 |  |
 | [Siga To Prama](https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Siga To Prama](https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO) | 2:35 | 2024-06-27 |  |
 | [Siko Kardia Mou](https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Siko Kardia Mou](https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY) | 2:57 | 2024-06-27 |  |

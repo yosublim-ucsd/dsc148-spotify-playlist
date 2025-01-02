@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,360 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,369 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [No Way](https://open.spotify.com/track/7sJd82Bq8y7oHl2rbzmijx) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [MigoThuggin](https://open.spotify.com/album/4Rj8KShBw1IrBW3A7wsEmi) | 4:31 |
 | 50 | [Peek A Boo](https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Peek A Boo](https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b) | 4:07 |
 
-Snapshot ID: `Z3HigAAAAAA2LHWZbQXIy/P8LKe9XYlL`
+Snapshot ID: `Z3M0AAAAAABdaXDY+7941tjsTnYyDT2e`

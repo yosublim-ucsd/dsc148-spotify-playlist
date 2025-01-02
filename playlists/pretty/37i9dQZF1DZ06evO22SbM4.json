@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 35840,
+  "num_followers": 35857,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAACskrMBxlF+6xhEEZf/im/4",
+  "snapshot_id": "Z3M0AAAAAAB9sQ6yPHhTSruCAHW71ffP",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New To Country",
-        "url": "https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr"
+        "name": "Hell or High Water (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 177123,
-      "name": "New To Country",
-      "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
+      "duration_ms": 194571,
+      "name": "Hell or High Water (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell or High Water (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
+        "name": "New To Country",
+        "url": "https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 194571,
-      "name": "Hell or High Water (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
+      "duration_ms": 177123,
+      "name": "New To Country",
+      "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
     },
     {
       "added_at": null,

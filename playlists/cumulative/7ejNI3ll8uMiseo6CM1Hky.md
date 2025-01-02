@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-161 songs - 9 hr 6 min
+162 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Memoirs of a Broken Heart](https://open.spotify.com/track/44C8FYheNySeFlFB237FGb) | [Fendi](https://open.spotify.com/artist/13WJi88MJHlOwbcw116QwI) | [Memoirs of a Broken Heart](https://open.spotify.com/album/1xWhpeTqIWE8dzgduk7Yli) | 2:53 | 2019-11-21 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2024-02-27 |  |
 | [Mr\. Clean](https://open.spotify.com/track/5GxnROd93Y7NGt2ci0TwBw) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Snow Cougar](https://open.spotify.com/album/5JzxLWdYLLpZTE6kaBLooY) | 3:31 | 2019-11-12 |  |
+| [Mr\. Please](https://open.spotify.com/track/2CmbRvQvLiNoYb7MCNwnUb) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [The Human Animal](https://open.spotify.com/album/25o0yLGRjV45PhksQjxvAD) | 2:33 | 2025-01-01 |  |
 | [Mr\. Saxobeat](https://open.spotify.com/track/2ZAx6NDhX2yE5aL5ueEQgY) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/25hD73WRfQAPuFMRibSjby) | 3:15 | 2021-05-23 |  |
 | [Ms\. Jackson](https://open.spotify.com/track/0uIbS3hBnqjJ9cVG0XmMHr) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Ms\. Jackson](https://open.spotify.com/album/6cGK6pBNrE1HmuITaZYvkN) | 3:02 | 2023-10-10 |  |
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2022-02-02 |  |

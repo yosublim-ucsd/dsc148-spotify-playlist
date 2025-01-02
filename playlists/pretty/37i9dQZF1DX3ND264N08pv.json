@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 78472,
+  "num_followers": 78468,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -239,26 +239,6 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Malice",
-          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
         "name": "Game Of Hate",
         "url": "https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 180571,
       "name": "Game Of Hate",
       "url": "https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
+        "name": "ART IS DEAD",
+        "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 214670,
+      "name": "ART IS DEAD",
+      "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/0qGcJ4UEz2E3mH1I3mIWBn"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 207290,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/7MSgHpQ6jEIecruihONovW"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "ART IS DEAD",
-        "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 214670,
-      "name": "ART IS DEAD",
-      "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
     },
     {
       "added_at": "2024-12-19 23:00:36",

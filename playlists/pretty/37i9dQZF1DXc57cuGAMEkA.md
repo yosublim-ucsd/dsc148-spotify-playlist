@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Bad Bunny, Young Thug, Ice Spice, ゆず, Rex Orange County, and more! cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,091 likes - 41 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,093 likes - 41 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 3 | [DALMATIAN](https://open.spotify.com/track/7qDHY3ZDeKvgPMVZX1whLK) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DALMATIAN](https://open.spotify.com/album/736N8pHiehLrYOfJMSshMZ) | 4:05 |
 | 4 | [Wonderland](https://open.spotify.com/track/5rVlWkobkBjexEFI4DunQs) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Wonderland](https://open.spotify.com/album/19l77oRyewdkvqIqt0vSoY) | 3:35 |
 | 5 | [UNTITLED](https://open.spotify.com/track/7sPMLw5bY4gqtJgpYYCYx1) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [UNTITLED](https://open.spotify.com/album/0puoxQT409nq9IuV5GT2Va) | 3:40 |
-| 6 | [Till I Die](https://open.spotify.com/track/2PgVWDAKaw6QGcNtMQYJrK) | [nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Till I Die](https://open.spotify.com/album/0JUbgRhX1DFPejUc0xe130) | 2:09 |
+| 6 | [Till I Die](https://open.spotify.com/track/2PgVWDAKaw6QGcNtMQYJrK) | [Nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Till I Die](https://open.spotify.com/album/0JUbgRhX1DFPejUc0xe130) | 2:09 |
 | 7 | [Big Racks \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/78yaF5XiIF5TA9klP3YoR0) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 4:08 |
 | 8 | [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 |
 | 9 | [Woah](https://open.spotify.com/track/37rxbUlFTtQMX2JxirVGi1) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Reverse Pathogen](https://open.spotify.com/artist/6IAD8C2NCYddGZjBapx9AR) | [Woah](https://open.spotify.com/album/0A2qUNpVdzIc6MckvYwY5W) | 3:28 |

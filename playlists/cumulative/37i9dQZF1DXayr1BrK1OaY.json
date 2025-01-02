@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "can\u2019t get you out of my mind",
+        "url": "https://open.spotify.com/album/1C1FK5yrVZ7rZQzousGzSb"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125176,
+      "name": "can't get you out of my mind",
+      "url": "https://open.spotify.com/track/1KU7qJxMpWJaHwr56mEG9f"
+    },
+    {
+      "album": {
         "name": "Can't Love Myself (feat. Mishaal & LPW)",
         "url": "https://open.spotify.com/album/3ZQaTE0GhMpsJKCqo8vnpb"
       },
@@ -4096,7 +4114,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 165000,
       "name": "Leave the Door Open",
       "url": "https://open.spotify.com/track/1KYFWMnh5wVsiqncElR67h"

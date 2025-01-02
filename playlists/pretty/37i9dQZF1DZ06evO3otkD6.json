@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 72015,
+  "num_followers": 72025,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAAezYtmSKgSSemiYUlKNKTq",
+  "snapshot_id": "Z3M0AAAAAADxjg6SBruufUmEufTIjcxM",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 165209,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 204146,
       "name": "Egoista",
       "url": "https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 165209,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "En La Obscuridad",
-      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 195866,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "En La Obscuridad",
+      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "Ni Freud Ni Tu Mama",
-      "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Traguito",
         "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 184185,
       "name": "Un Traguito",
       "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Ni Freud Ni Tu Mama",
+      "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
     },
     {
       "added_at": null,
@@ -1003,18 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
       "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 195426,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
+      "duration_ms": 238120,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
     },
     {
       "added_at": null,
@@ -1039,22 +1043,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao 2",
-        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
       },
       "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
+      "duration_ms": 195426,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
     },
     {
       "added_at": null,

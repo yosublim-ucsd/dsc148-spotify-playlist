@@ -1,6 +1,6 @@
 {
   "description": "Big rooms and big sounds. Cover: Blasterjaxx & Timmy Trumpet",
-  "num_followers": 570698,
+  "num_followers": 570971,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-12-20 09:57:52",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/1YxxLfUFpTJyzF96s6MPxF"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/4RBbIPUGgYBKiExshxMN9c"
+    },
+    {
+      "added_at": "2024-12-20 09:57:52",
+      "album": {
         "name": "Beautiful Life (Faustix RMX)",
         "url": "https://open.spotify.com/album/621d4r3IhIOtDRJZLEtKWh"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 179888,
       "name": "Beautiful Life - Faustix RMX",
       "url": "https://open.spotify.com/track/27r1J3SrSwVoRHIcb5FdIh"
-    },
-    {
-      "added_at": "2024-12-20 09:57:52",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/1YxxLfUFpTJyzF96s6MPxF"
-      },
-      "artists": [
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/4RBbIPUGgYBKiExshxMN9c"
     },
     {
       "added_at": "2024-12-20 09:57:52",

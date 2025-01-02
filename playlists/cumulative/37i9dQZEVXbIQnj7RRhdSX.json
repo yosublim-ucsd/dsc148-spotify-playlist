@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 205354,
       "name": "ALTROVE",
       "url": "https://open.spotify.com/track/1A1xTBtNnJ09JNINiLjdOK"
@@ -9954,7 +9954,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 247500,
       "name": "CRASH",
       "url": "https://open.spotify.com/track/0Op5iGBVLyY0G1lDDRfEnf"
@@ -11046,7 +11046,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 236666,
       "name": "DETOX / REHAB",
       "url": "https://open.spotify.com/track/3bQBpGIlToMHfyKtKZwOyN"
@@ -15950,7 +15950,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -24810,7 +24810,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 220043,
       "name": "MAI PER SEMPRE",
       "url": "https://open.spotify.com/track/347HJzwbn0cmrxJUmAXj5c"
@@ -35380,7 +35380,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 210677,
       "name": "RAGNI",
       "url": "https://open.spotify.com/track/5HWWpSsNnlc2Kyh5QLrq1W"
@@ -37946,6 +37946,28 @@
       "duration_ms": 167263,
       "name": "SESSO E SAMBA (feat. Gaia)",
       "url": "https://open.spotify.com/track/2ljA7TjCL9U0UO7P9alF0B"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167263,
+      "name": "SESSO E SAMBA (feat. Gaia)",
+      "url": "https://open.spotify.com/track/3pR6j5Zhl7Qbrv4lh3DTG5"
     },
     {
       "album": {
@@ -45980,7 +46002,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 125131,
       "name": "WHY U MAD",
       "url": "https://open.spotify.com/track/7dYgUWAIXFUniq5S2OkDZC"

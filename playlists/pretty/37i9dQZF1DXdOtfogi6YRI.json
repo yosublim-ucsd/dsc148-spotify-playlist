@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Fisz Emade Tworzywo",
-  "num_followers": 18266,
+  "num_followers": 18270,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "Brednie",
+        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
+      },
+      "artists": [
+        {
+          "name": "Promie\u0144",
+          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
+        }
+      ],
+      "duration_ms": 195176,
+      "name": "Brednie",
+      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "NONSTOP",
         "url": "https://open.spotify.com/album/469rGu6MSyXHKPsnAQFbLJ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 242608,
       "name": "NONSTOP",
       "url": "https://open.spotify.com/track/6ZYojLrnfvENyrsvP5Lru8"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "Brednie",
-        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
-      },
-      "artists": [
-        {
-          "name": "Promie\u0144",
-          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
-        }
-      ],
-      "duration_ms": 195176,
-      "name": "Brednie",
-      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "ATARI",
-        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
-      },
-      "artists": [
-        {
-          "name": "CRANK ALL",
-          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
-        }
-      ],
-      "duration_ms": 148437,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "BACKLOG",
         "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 182093,
       "name": "BACKLOG",
       "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "ATARI",
+        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
+      },
+      "artists": [
+        {
+          "name": "CRANK ALL",
+          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
+        }
+      ],
+      "duration_ms": 148437,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "Ostatni raz",
-        "url": "https://open.spotify.com/album/7Kou7h23sjFAWRBPgC608Z"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Ostatni raz",
-      "url": "https://open.spotify.com/track/1HIklkzTiOrjEbqgOpTGfP"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "ZE MN\u0104 CHOD\u0179",
         "url": "https://open.spotify.com/album/6s0KQVDICBnyXigH6MHQdk"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 156923,
       "name": "ZE MN\u0104 CHOD\u0179",
       "url": "https://open.spotify.com/track/3HSp54q7oEq5ISaklaL3qQ"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "Ostatni raz",
+        "url": "https://open.spotify.com/album/7Kou7h23sjFAWRBPgC608Z"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Ostatni raz",
+      "url": "https://open.spotify.com/track/1HIklkzTiOrjEbqgOpTGfP"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1383,8 +1383,8 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "Dywan",
-        "url": "https://open.spotify.com/album/1oivICGQQm4ZyBbHZT5yUq"
+        "name": "pe\u0142ne serca puste drogi",
+        "url": "https://open.spotify.com/album/2lF0Mw7jmUKGVsvqnC9jup"
       },
       "artists": [
         {
@@ -1392,45 +1392,13 @@
           "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
         },
         {
-          "name": "Cicho\u0144",
-          "url": "https://open.spotify.com/artist/5PisHXBfzRVWCw1k6Ud3NC"
+          "name": "JupiJej",
+          "url": "https://open.spotify.com/artist/2k1FagZJCEG6HSZiGb5rvO"
         }
       ],
-      "duration_ms": 100000,
-      "name": "Dywan",
-      "url": "https://open.spotify.com/track/2wIPpx1Jt3pcAEHYqE57ay"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "HI?-Pop 2000",
-        "url": "https://open.spotify.com/album/3ln8hFdQJLLX324AJiXKFS"
-      },
-      "artists": [
-        {
-          "name": "Mvrceli",
-          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Esperanto",
-      "url": "https://open.spotify.com/track/31HUjY3zvwmdz2cHvBolED"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "Miasta",
-        "url": "https://open.spotify.com/album/7M28QmIsEl4QqXw30zmKCE"
-      },
-      "artists": [
-        {
-          "name": "Jakub Chrzan",
-          "url": "https://open.spotify.com/artist/5NuiddZTmV0cXHURPVZrHq"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Miasta",
-      "url": "https://open.spotify.com/track/0iQmYwivJQRCVXtj56KVcL"
+      "duration_ms": 143999,
+      "name": "Godzina Premium",
+      "url": "https://open.spotify.com/track/4ns67OWKavFQ1pjvRvvKrw"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1523,6 +1491,38 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "HI?-Pop 2000",
+        "url": "https://open.spotify.com/album/3ln8hFdQJLLX324AJiXKFS"
+      },
+      "artists": [
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/31HUjY3zvwmdz2cHvBolED"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "Miasta",
+        "url": "https://open.spotify.com/album/7M28QmIsEl4QqXw30zmKCE"
+      },
+      "artists": [
+        {
+          "name": "Jakub Chrzan",
+          "url": "https://open.spotify.com/artist/5NuiddZTmV0cXHURPVZrHq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Miasta",
+      "url": "https://open.spotify.com/track/0iQmYwivJQRCVXtj56KVcL"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "3w1",
         "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 126315,
       "name": "3w1",
       "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "LA LA LAND",
-        "url": "https://open.spotify.com/album/18T2nNtnnuzM4jWUKklBKP"
-      },
-      "artists": [
-        {
-          "name": "SEVN LEONE",
-          "url": "https://open.spotify.com/artist/5uiwEron6xexz8T3cIIkEo"
-        }
-      ],
-      "duration_ms": 163587,
-      "name": "LA LA LAND",
-      "url": "https://open.spotify.com/track/3fse4tsKb0Qsq1lv9a4cCd"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1579,8 +1563,24 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "pe\u0142ne serca puste drogi",
-        "url": "https://open.spotify.com/album/2lF0Mw7jmUKGVsvqnC9jup"
+        "name": "LA LA LAND",
+        "url": "https://open.spotify.com/album/18T2nNtnnuzM4jWUKklBKP"
+      },
+      "artists": [
+        {
+          "name": "SEVN LEONE",
+          "url": "https://open.spotify.com/artist/5uiwEron6xexz8T3cIIkEo"
+        }
+      ],
+      "duration_ms": 163587,
+      "name": "LA LA LAND",
+      "url": "https://open.spotify.com/track/3fse4tsKb0Qsq1lv9a4cCd"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "Dywan",
+        "url": "https://open.spotify.com/album/1oivICGQQm4ZyBbHZT5yUq"
       },
       "artists": [
         {
@@ -1588,13 +1588,13 @@
           "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
         },
         {
-          "name": "JupiJej",
-          "url": "https://open.spotify.com/artist/2k1FagZJCEG6HSZiGb5rvO"
+          "name": "Cicho\u0144",
+          "url": "https://open.spotify.com/artist/5PisHXBfzRVWCw1k6Ud3NC"
         }
       ],
-      "duration_ms": 143999,
-      "name": "Godzina Premium",
-      "url": "https://open.spotify.com/track/4ns67OWKavFQ1pjvRvvKrw"
+      "duration_ms": 100000,
+      "name": "Dywan",
+      "url": "https://open.spotify.com/track/2wIPpx1Jt3pcAEHYqE57ay"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "Wolno\u015b\u0107",
-        "url": "https://open.spotify.com/album/78lcrv7stQ9SHPlQOb4SHy"
-      },
-      "artists": [
-        {
-          "name": "DAW!D",
-          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "Wolno\u015b\u0107",
-      "url": "https://open.spotify.com/track/6tIRyQ7F3xOPjhwfklVdRX"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "MIASTO AWANTUR",
         "url": "https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ"
       },
@@ -1875,6 +1859,22 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "Wolno\u015b\u0107",
+        "url": "https://open.spotify.com/album/78lcrv7stQ9SHPlQOb4SHy"
+      },
+      "artists": [
+        {
+          "name": "DAW!D",
+          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "Wolno\u015b\u0107",
+      "url": "https://open.spotify.com/track/6tIRyQ7F3xOPjhwfklVdRX"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "Z\u0142ota Rybka EP",
         "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
       },
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "Pozdrawiam S\u0105siad\u00f3w",
+        "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
+      },
+      "artists": [
+        {
+          "name": "Helucze",
+          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
+        }
+      ],
+      "duration_ms": 205969,
+      "name": "Pozdrawiam S\u0105siad\u00f3w",
+      "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "Park 2",
         "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 168291,
       "name": "Park 2",
       "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "Pozdrawiam S\u0105siad\u00f3w",
-        "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
-      },
-      "artists": [
-        {
-          "name": "Helucze",
-          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
-        }
-      ],
-      "duration_ms": 205969,
-      "name": "Pozdrawiam S\u0105siad\u00f3w",
-      "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
-        "url": "https://open.spotify.com/album/7xWS11AQU9tPDhRsvCoU2I"
-      },
-      "artists": [
-        {
-          "name": "Sensi",
-          "url": "https://open.spotify.com/artist/6bImoJWS5f5CEeSQxDJmve"
-        },
-        {
-          "name": "Qzyn",
-          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
-        }
-      ],
-      "duration_ms": 120940,
-      "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
-      "url": "https://open.spotify.com/track/6UOAV3yDxuCMMEjgAnEWAx"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "NOWETWORY",
         "url": "https://open.spotify.com/album/7FIPPpuA7jDFVEx2JCFfY5"
       },
@@ -2103,6 +2083,26 @@
       "duration_ms": 253941,
       "name": "NOWETWORY",
       "url": "https://open.spotify.com/track/49hORQFWdON9YsrC0g500q"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
+        "url": "https://open.spotify.com/album/7xWS11AQU9tPDhRsvCoU2I"
+      },
+      "artists": [
+        {
+          "name": "Sensi",
+          "url": "https://open.spotify.com/artist/6bImoJWS5f5CEeSQxDJmve"
+        },
+        {
+          "name": "Qzyn",
+          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
+        }
+      ],
+      "duration_ms": 120940,
+      "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
+      "url": "https://open.spotify.com/track/6UOAV3yDxuCMMEjgAnEWAx"
     },
     {
       "added_at": "2024-12-13 10:17:03",

@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 7243,
+  "num_followers": 7241,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAADmLMqYjaYqXqzNh6ixzyc9",
+  "snapshot_id": "Z3M0AAAAAAAI0pghzITam9bLzomDV2wJ",
   "tracks": [
     {
       "added_at": null,
@@ -308,41 +308,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 141746,
-      "name": "I'm Dragging a Dead Deer Up a Hill",
-      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "A Light Change",
-      "url": "https://open.spotify.com/track/2wy9QMJdpa74PVkr1V7NmY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 514133,
-      "name": "She Loves Me That Way",
-      "url": "https://open.spotify.com/track/6SAtmwkARP0M3BF11EsVqy"
+      "duration_ms": 168560,
+      "name": "A Cover Over",
+      "url": "https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF"
     },
     {
       "added_at": null,
@@ -363,6 +331,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 514133,
+      "name": "She Loves Me That Way",
+      "url": "https://open.spotify.com/track/6SAtmwkARP0M3BF11EsVqy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "A Light Change",
+      "url": "https://open.spotify.com/track/2wy9QMJdpa74PVkr1V7NmY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 168560,
-      "name": "A Cover Over",
-      "url": "https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF"
+      "duration_ms": 141746,
+      "name": "I'm Dragging a Dead Deer Up a Hill",
+      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 476626,
-      "name": "Holding",
-      "url": "https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO"
+      "duration_ms": 179253,
+      "name": "Call Across Rooms",
+      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Call Across Rooms",
-      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
+      "duration_ms": 476626,
+      "name": "Holding",
+      "url": "https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
       "artists": [
         {
@@ -664,25 +664,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 295826,
-      "name": "Atone",
-      "url": "https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 317749,
-      "name": "Basement Mix",
-      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
+      "duration_ms": 362253,
+      "name": "It Feels Alright",
+      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Atone",
+      "url": "https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
@@ -728,25 +728,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 362253,
-      "name": "It Feels Alright",
-      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 296600,
-      "name": "I Saw a Ray",
-      "url": "https://open.spotify.com/track/53No0sPkMULuEJqeWgLGsc"
+      "duration_ms": 317749,
+      "name": "Basement Mix",
+      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 228000,
       "name": "Driving",
       "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 296600,
+      "name": "I Saw a Ray",
+      "url": "https://open.spotify.com/track/53No0sPkMULuEJqeWgLGsc"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 313680,
-      "name": "A Lie",
-      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
+      "duration_ms": 50000,
+      "name": "The Races",
+      "url": "https://open.spotify.com/track/7wAqt1ZqGRzY2CiVBpBAG8"
     }
   ],
   "unique_name": "This Is Grouper",

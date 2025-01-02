@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103541,
+  "num_followers": 103544,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABAtrEyD0PERI4LE5SCDr4m",
+  "snapshot_id": "Z3M0AAAAAABamFjl3yVnU1dY9CinbCTB",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 148656,
-      "name": "La Mejor Versi\u00f3n de M\u00ed",
-      "url": "https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buena Se\u00f1al",
         "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 186306,
       "name": "Buena Se\u00f1al",
       "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 148656,
+      "name": "La Mejor Versi\u00f3n de M\u00ed",
+      "url": "https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY"
     },
     {
       "added_at": null,

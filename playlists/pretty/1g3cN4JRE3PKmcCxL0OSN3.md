@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-[charlie](https://open.spotify.com/user/blank808) - 0 like - 1,377 songs - 3 day 9 hr 26 min
+[charlie xcx](https://open.spotify.com/user/blank808) - 0 like - 1,377 songs - 3 day 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Be Lifted into 2025 with these uplifting Gospel songs curated by  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=nMcUNuRnQiOBRk7qEAOAxQ>Moses Bliss</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,083 likes - 43 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,705 likes - 43 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

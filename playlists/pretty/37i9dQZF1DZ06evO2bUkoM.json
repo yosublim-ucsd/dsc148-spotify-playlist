@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49592,
+  "num_followers": 49589,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAADBIsqLnwX4z8PkHO6IIfT3",
+  "snapshot_id": "Z3M0AAAAAAAnYoMu5qEqh2lQmjWDVoBQ",
   "tracks": [
     {
       "added_at": null,
@@ -531,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Too Sensitive For This Shit",
-        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
+        "name": "Missed Calls (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
       },
       "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 191175,
-      "name": "She",
-      "url": "https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG"
+      "duration_ms": 154324,
+      "name": "Missed Calls (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
     },
     {
       "added_at": null,
@@ -563,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Missed Calls (feat. Hayley Kiyoko)",
-        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
       },
       "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 154324,
-      "name": "Missed Calls (feat. Hayley Kiyoko)",
-      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
+      "duration_ms": 191175,
+      "name": "She",
+      "url": "https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG"
     },
     {
       "added_at": null,

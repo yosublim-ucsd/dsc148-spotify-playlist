@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 415017,
+  "num_followers": 415428,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,18 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Leaveyourlove (with MARO)",
-        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 214446,
-      "name": "Leaveyourlove (with MARO)",
-      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -655,6 +651,26 @@
       "duration_ms": 225920,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Leaveyourlove (with MARO)",
+        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 214446,
+      "name": "Leaveyourlove (with MARO)",
+      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -679,22 +695,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Marvin The Album - 21st Anniversary Edition",
         "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "The Boy Who Cried Wolf",
-        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/0Dv23k5ErS9XO9U2BYRI0F"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Nat \"King\" Cole & Me (Deluxe)",
         "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 257533,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "The Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/0Dv23k5ErS9XO9U2BYRI0F"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Unchained Melody",
-        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Unchained Melody",
+        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "Una y otra vez",
         "url": "https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 190754,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1191,26 +1191,6 @@
       "duration_ms": 220448,
       "name": "El Amor",
       "url": "https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "Madrid",
-        "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
-      },
-      "artists": [
-        {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
-        }
-      ],
-      "duration_ms": 240622,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1247,34 +1227,22 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
       },
       "artists": [
         {
-          "name": "Treadlights",
-          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
-        }
-      ],
-      "duration_ms": 151119,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z"
-      },
-      "artists": [
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
         {
-          "name": "kenai white",
-          "url": "https://open.spotify.com/artist/6vHokTOepZ7bishDD5owjJ"
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
         }
       ],
-      "duration_ms": 206823,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/5RNrbe8maAu8sk0BuZQ2Zf"
+      "duration_ms": 240622,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1295,6 +1263,22 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+      },
+      "artists": [
+        {
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+        }
+      ],
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
         "name": "Cosmic Wacho",
         "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
       },
@@ -1307,38 +1291,6 @@
       "duration_ms": 205577,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
-        "name": "Pudo haber sido",
-        "url": "https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK"
-      },
-      "artists": [
-        {
-          "name": "Lucas Marcos",
-          "url": "https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO"
-        }
-      ],
-      "duration_ms": 184712,
-      "name": "Pudo haber sido",
-      "url": "https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1363,22 +1315,50 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "La ventanita",
-        "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
       },
       "artists": [
         {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
         }
       ],
-      "duration_ms": 255168,
-      "name": "La ventanita",
-      "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z"
+      },
+      "artists": [
+        {
+          "name": "kenai white",
+          "url": "https://open.spotify.com/artist/6vHokTOepZ7bishDD5owjJ"
+        }
+      ],
+      "duration_ms": 206823,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/5RNrbe8maAu8sk0BuZQ2Zf"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Pudo haber sido",
+        "url": "https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK"
+      },
+      "artists": [
+        {
+          "name": "Lucas Marcos",
+          "url": "https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO"
+        }
+      ],
+      "duration_ms": 184712,
+      "name": "Pudo haber sido",
+      "url": "https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1399,6 +1379,26 @@
       "duration_ms": 243020,
       "name": "El Noi de la Mare",
       "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "La ventanita",
+        "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+        }
+      ],
+      "duration_ms": 255168,
+      "name": "La ventanita",
+      "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Equilibri",
-        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
-      },
-      "artists": [
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 236462,
-      "name": "Equilibri",
-      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
-    },
-    {
-      "added_at": "2024-12-23 11:06:32",
-      "album": {
         "name": "tu pel\u00edcula",
         "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 174467,
       "name": "tu pel\u00edcula",
       "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+    },
+    {
+      "added_at": "2024-12-23 11:06:32",
+      "album": {
+        "name": "Equilibri",
+        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
+      },
+      "artists": [
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 236462,
+      "name": "Equilibri",
+      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
     },
     {
       "added_at": "2024-12-23 11:06:32",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-12-23 11:06:32",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp"
+        "name": "Amor del bueno",
+        "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Eva Sola",
+          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
         }
       ],
-      "duration_ms": 200280,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk"
+      "duration_ms": 195882,
+      "name": "Amor del bueno",
+      "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
     }
   ],
   "unique_name": "Relax en casa",

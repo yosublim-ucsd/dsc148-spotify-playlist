@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 67052,
+  "num_followers": 67071,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-12-06 00:00:00",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
-    },
-    {
-      "added_at": "2024-12-06 00:00:00",
-      "album": {
         "name": "No Excuses (Hedex Remix)",
         "url": "https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 163907,
       "name": "No Excuses - Hedex Remix",
       "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
+    },
+    {
+      "added_at": "2024-12-06 00:00:00",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
     },
     {
       "added_at": "2024-12-06 00:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-12-06 00:00:00",
       "album": {
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
+    },
+    {
+      "added_at": "2024-12-06 00:00:00",
+      "album": {
         "name": "Dopamine Hits",
         "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 189767,
       "name": "Dopamine Hits",
       "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
-    },
-    {
-      "added_at": "2024-12-06 00:00:00",
-      "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
     },
     {
       "added_at": "2024-12-06 00:00:00",
@@ -907,30 +907,18 @@
     {
       "added_at": "2024-12-06 00:00:00",
       "album": {
-        "name": "Sientelo (Sota & Circadian Remix)",
-        "url": "https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx"
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
       },
       "artists": [
         {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 237257,
-      "name": "Sientelo - Sota & Circadian Remix",
-      "url": "https://open.spotify.com/track/25Ct5BPQbhZiNEBe8cmXcm"
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
       "added_at": "2024-12-06 00:00:00",
@@ -955,18 +943,30 @@
     {
       "added_at": "2024-12-06 00:00:00",
       "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+        "name": "Sientelo (Sota & Circadian Remix)",
+        "url": "https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx"
       },
       "artists": [
         {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
         }
       ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
+      "duration_ms": 237257,
+      "name": "Sientelo - Sota & Circadian Remix",
+      "url": "https://open.spotify.com/track/25Ct5BPQbhZiNEBe8cmXcm"
     },
     {
       "added_at": "2024-12-06 00:00:00",

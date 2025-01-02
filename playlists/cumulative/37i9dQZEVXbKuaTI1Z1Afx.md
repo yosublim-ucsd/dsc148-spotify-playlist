@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-3,419 songs - 7 day 14 hr 35 min
+3,420 songs - 7 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -915,7 +915,8 @@
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-04-04 | 2023-04-26 |
 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 | 2023-12-19 | 2023-12-27 |
 | [EVIL](https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:06 | 2023-04-25 | 2023-05-03 |
-| [Evil Jordan](https://open.spotify.com/track/3vtJp67yAeJ0kr9GvnbImd) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [vampvampvamp](https://open.spotify.com/artist/5T9Qk7MADn1JHGrd2QdCAG) | [Evil Jordan](https://open.spotify.com/album/33j5cxdZ9rv8zsfHCHOnAr) | 2:14 | 2024-12-28 |  |
+| [Evil Jordan](https://open.spotify.com/track/0efLlKsfxZRupQc4JHymJQ) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [vampvampvamp](https://open.spotify.com/artist/5T9Qk7MADn1JHGrd2QdCAG) | [Evil Jordan](https://open.spotify.com/album/3BUBj7P3WCMlpcF6uAvT7K) | 2:14 | 2025-01-01 |  |
+| [Evil Jordan](https://open.spotify.com/track/3vtJp67yAeJ0kr9GvnbImd) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [vampvampvamp](https://open.spotify.com/artist/5T9Qk7MADn1JHGrd2QdCAG) | [Evil Jordan](https://open.spotify.com/album/33j5cxdZ9rv8zsfHCHOnAr) | 2:14 | 2024-12-28 | 2025-01-02 |
 | [EVILJORDAN](https://open.spotify.com/track/2wtv09TnMhY1krBA0tgOBU) | [20,000](https://open.spotify.com/artist/309skPbcz12ly8Lrd7SAwA) | [EVILJORDAN](https://open.spotify.com/album/4GNRsprnPEVrbEu1F0nIB3) | 2:04 | 2024-02-14 | 2024-02-19 |
 | [EXCESO](https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [EXCESO](https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb) | 2:22 | 2024-03-26 | 2024-03-28 |
 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 | 2022-10-11 | 2022-11-09 |

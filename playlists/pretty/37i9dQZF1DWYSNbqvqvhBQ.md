@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > De mooiste liedjes van het moment\. Cover: Lenny Kravitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,623 likes - 59 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,569 likes - 59 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

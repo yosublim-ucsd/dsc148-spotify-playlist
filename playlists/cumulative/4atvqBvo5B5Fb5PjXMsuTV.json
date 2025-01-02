@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 31 Dec 14:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Jan 19:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 121603,
       "name": "Any Excuse To Party",
       "url": "https://open.spotify.com/track/3HmeAjLr5sht8K1Ba3AeQA"
@@ -34164,6 +34164,24 @@
       "duration_ms": 150000,
       "name": "JOYRIDE",
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
+    },
+    {
+      "album": {
+        "name": "JRJRJR",
+        "url": "https://open.spotify.com/album/1rknl8JliYRRZJjs6yhsDF"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268803,
+      "name": "JRJRJR",
+      "url": "https://open.spotify.com/track/1mW9XrT9XdnsDPuthSgusZ"
     },
     {
       "album": {

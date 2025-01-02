@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,650 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,653 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 26 | [Come First](https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [While You Wait](https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL) | 3:28 |
 | 27 | [Aura \(feat\. Baby Tate\)](https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hello Stranger](https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR) | 3:00 |
 | 28 | [Like We](https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:12 |
-| 29 | [Face The World](https://open.spotify.com/track/1yJBqUwbi23dbGDyB0IqjV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 2:58 |
+| 29 | [Babysitter](https://open.spotify.com/track/5lov1pcwDVARb0lMbZKzd7) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 3:01 |
 | 30 | [Perfect](https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:52 |
 | 31 | [Lollipop](https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:47 |
 | 32 | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Boys Are From Mars \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y) | 3:12 |
-| 33 | [Babysitter](https://open.spotify.com/track/5lov1pcwDVARb0lMbZKzd7) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 3:01 |
+| 33 | [Face The World](https://open.spotify.com/track/1yJBqUwbi23dbGDyB0IqjV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 2:58 |
 | 34 | [BLACK PEARLS \(feat\. Baby Tate\)](https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 3:18 |
 | 35 | [Feedback](https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feedback](https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF) | 3:12 |
 | 36 | [Rainbow Cadillac](https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:28 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 46 | [Differences](https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:16 |
 | 47 | [Wig](https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
 | 48 | [Dirty Girl \(with Baby Tate\)](https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Ms\. Out Tonight](https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq) | 3:29 |
-| 49 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
-| 50 | [Nasty \- Remix](https://open.spotify.com/track/2vyg7GnDSTYQQr0KbvLPvI) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [TJOnline](https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [Nasty \(Remix\)](https://open.spotify.com/album/2MFhY2h3Eb6IvQ6AWmxIKs) | 4:07 |
+| 49 | [Nasty \- Remix](https://open.spotify.com/track/2vyg7GnDSTYQQr0KbvLPvI) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [TJOnline](https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [Nasty \(Remix\)](https://open.spotify.com/album/2MFhY2h3Eb6IvQ6AWmxIKs) | 4:07 |
+| 50 | [Picky \(feat\. Baby Tate\)](https://open.spotify.com/track/6udcP3JP1ZYmni49N6cNJ9) | [Leaf](https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Dreamgirl](https://open.spotify.com/album/4ryDTjQO7hTB5tUPLdgjFh) | 2:39 |
 
-Snapshot ID: `Z3HigAAAAAAG6YAqX+cYuVzv9bFm3YqY`
+Snapshot ID: `Z3M0AAAAAAAi0H+9hL4d03g3UQNq25TP`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "The best tracks from the world of music. Cover: Regina Song",
+  "description": "The best tracks from the world of music. Cover: Gracie Abrams",
   "name": "Hot Hits Singapore",
   "tracks": [
     {
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 190285,
       "name": "Mindset",
       "url": "https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G"
@@ -4072,7 +4072,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 187500,
       "name": "REALLY IN LOVE",
       "url": "https://open.spotify.com/track/6fDUYcXYVToRP5aMA6tDGm"
@@ -4318,6 +4318,28 @@
       "duration_ms": 181602,
       "name": "Say",
       "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
+    },
+    {
+      "album": {
+        "name": "Made For You",
+        "url": "https://open.spotify.com/album/1s5Prxw2pVBcOr6mQFPk9N"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        },
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160306,
+      "name": "Say It To My Face (feat. \u00d8ZI)",
+      "url": "https://open.spotify.com/track/3vx3DUR2dBpwDzeIWbbfi8"
     },
     {
       "album": {
@@ -6175,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "\u5149\u9670\u526f\u672c",
+        "url": "https://open.spotify.com/album/1mr50iAkmOj4P6BfLHwD9q"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252626,
+      "name": "\u5149\u9670\u526f\u672c",
+      "url": "https://open.spotify.com/track/7KJ5U4QwsM1FHvSE3M7nLM"
+    },
+    {
+      "album": {
         "name": "\u53cb\u8c0a\u957f\u5b58",
         "url": "https://open.spotify.com/album/0teughBYfffqo1RhvAX51S"
       },
@@ -6520,6 +6560,28 @@
       "duration_ms": 238000,
       "name": "\u8fd9\u662f\u4f60\u671f\u76fc\u7684\u957f\u5927\u5417",
       "url": "https://open.spotify.com/track/3AKYofM0vFekNthGbpjMpN"
+    },
+    {
+      "album": {
+        "name": "\u904e\u4e86\u5e7e\u5929 (\u5408\u5531\u7248)",
+        "url": "https://open.spotify.com/album/4QPASVPRUjfXR73hmxVAJa"
+      },
+      "artists": [
+        {
+          "name": "\u90ed\u5bb6\u744b",
+          "url": "https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X"
+        },
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295890,
+      "name": "\u904e\u4e86\u5e7e\u5929 - \u5408\u5531\u7248",
+      "url": "https://open.spotify.com/track/0qjbNZYyuzPh20RksmiJ8C"
     },
     {
       "album": {

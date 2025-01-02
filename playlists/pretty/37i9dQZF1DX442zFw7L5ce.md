@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,194 likes - 41 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,222 likes - 41 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 14 | [Jennifer Lopez](https://open.spotify.com/track/7DogGBT86sbjsNWQSIGLtB) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Priya](https://open.spotify.com/artist/6sseiKkl0ugvHy2WH0GCTR) | [Jalsa](https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u) | 4:18 |
 | 15 | [Vachindamma](https://open.spotify.com/track/6obKaXHU2avqfLZFPjGm4K) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 4:10 |
 | 16 | [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 |
-| 17 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
+| 17 | [Vayari Bhama](https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu) | [Ramana Gogula](https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv) | [Thammudu](https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh) | 5:16 |
 | 18 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |
-| 19 | [Vayari Bhama](https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu) | [Ramana Gogula](https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv) | [Thammudu](https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh) | 5:16 |
+| 19 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
 | 20 | [Poovullo Daagunna](https://open.spotify.com/track/4M8dRVFWKMfh7hPzGCYxra) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Jeans](https://open.spotify.com/album/5CcuoUl0yhFPRLMohxwvIt) | 6:55 |
 | 21 | [Buggey Bangarama](https://open.spotify.com/track/18RUE4llLj46NIQKojerlw) | [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Chandamama](https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC) | 4:32 |
 | 22 | [Athiloka Sundari](https://open.spotify.com/track/1dV7KaJKMVIBCrHdmCAdyA) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Sarrainodu](https://open.spotify.com/album/4mEGRZ1RRS2Y58wW8ECPF4) | 4:14 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 32 | [Beautiful Girl](https://open.spotify.com/track/3P8sXN7vsucV5k80lReeeq) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Life Is Beautiful](https://open.spotify.com/album/1Hd2y0smTAvVSTvJeXj5lW) | 4:43 |
 | 33 | [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 |
 | 34 | [Chandrakala](https://open.spotify.com/track/0KuVYY7tHWcwbvR0FSwrEo) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Adhurs](https://open.spotify.com/album/62IHYuxj0BTHw3BgrjRlQO) | 4:13 |
-| 35 | [Padithinammo](https://open.spotify.com/track/3fiN8y8c2EvwCNNvVAERbx) | [Vishwa](https://open.spotify.com/artist/7ozuTyhWJTW9vMrRYijNuR) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 4:27 |
-| 36 | [Yentha Sakkagunnave](https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Rangasthalam](https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF) | 4:22 |
+| 35 | [Yentha Sakkagunnave](https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Rangasthalam](https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF) | 4:22 |
+| 36 | [Padithinammo](https://open.spotify.com/track/3fiN8y8c2EvwCNNvVAERbx) | [Vishwa](https://open.spotify.com/artist/7ozuTyhWJTW9vMrRYijNuR) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 4:27 |
 | 37 | [Ohho Puththadi Bommaa](https://open.spotify.com/track/3WaggvoQP7BjMXTeIQp8mV) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thika Maka Thanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hsMB3LBXnEB9yHTvN0Qa2) | 3:35 |
 | 38 | [Ladiyo](https://open.spotify.com/track/2QFFI5i22rkoF14Qpwwok3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 4:43 |
 | 39 | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/track/6KUAJvrLISj8EytPvGu7Yu) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/album/0aSxprg9rrJscWulKritHu) | 5:41 |

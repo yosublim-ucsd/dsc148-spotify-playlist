@@ -4841,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "Mab9itich Ch\u00e9rie",
+        "url": "https://open.spotify.com/album/2kHcDM7QiYmdQnuLoEnOaR"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Mozayine",
+          "url": "https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Mab9itich Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/3gEy9hoCGd5OjufRwlyPCh"
+    },
+    {
+      "album": {
         "name": "Machi Bedala",
         "url": "https://open.spotify.com/album/7oxjlOyaQWurxc93M6YH60"
       },

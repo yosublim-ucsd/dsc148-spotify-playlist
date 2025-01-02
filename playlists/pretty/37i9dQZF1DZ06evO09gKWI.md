@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 > This is Bivolt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366 likes - 44 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 366 likes - 43 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 16 | [De Copão Na Mão](https://open.spotify.com/track/5GMuN4AXlf2PdJyk8IUAoG) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:13 |
 | 17 | [Eu & Tu!](https://open.spotify.com/track/1ymfNLLUGtND2AEe2K0TjF) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 3:24 |
 | 18 | [Olha pra Mim](https://open.spotify.com/track/5sR1xWyEayjOvtbHING1Pp) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Olha pra Mim](https://open.spotify.com/album/5kMOd6mjawcIVx33mQpkOl) | 3:51 |
-| 19 | [Sigilo](https://open.spotify.com/track/21WPLgQ590lqTXSbY3ngK3) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:04 |
+| 19 | [Me Salva](https://open.spotify.com/track/52zfI6y5NF7mnxu7wg9gmv) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:26 |
 | 20 | [Pagar Pra Ter](https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:05 |
 | 21 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 |
 | 22 | [Verdade Ou Consequência](https://open.spotify.com/track/1gu0krGFrPjz4LV0IiiIYJ) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Verdade Ou Consequência](https://open.spotify.com/album/3GZP7Jg4KRiH64vMnsIM0a) | 2:47 |
-| 23 | [Me Salva](https://open.spotify.com/track/52zfI6y5NF7mnxu7wg9gmv) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:26 |
+| 23 | [Sigilo](https://open.spotify.com/track/21WPLgQ590lqTXSbY3ngK3) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Bivolt](https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R) | 3:04 |
 | 24 | [Se Quiser Só Vai](https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:43 |
 | 25 | [Faço Valer](https://open.spotify.com/track/256BKm4rtUApYAKGSet1VT) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [ELAS](https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP) | 2:40 |
 | 26 | [Pense Bem](https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Origens](https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG) | 3:15 |
@@ -51,6 +51,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 41 | [Só Nois](https://open.spotify.com/track/55ZBdehW7MyCL7fHXXXiEj) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [ECLÉTICO](https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn) | 2:43 |
 | 42 | [Imaginei](https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Glória](https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q) | 3:05 |
 | 43 | [Taças](https://open.spotify.com/track/76JB7GfUO9vDuFra3IHlka) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Taças](https://open.spotify.com/album/20QFe1QqXSOCoJGzo27rRn) | 2:36 |
-| 44 | [Relações](https://open.spotify.com/track/37Caje6ogUIS4u9Jmn1j2F) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Nem Tudo É Close](https://open.spotify.com/album/46qrn7z8GbX8nuIZr5HQPV) | 4:02 |
 
-Snapshot ID: `Z3HigAAAAACKWOzNT8rH1xgapTs/BFXl`
+Snapshot ID: `Z3M0AAAAAABG5vcZxtRXPcabHLq1dONA`

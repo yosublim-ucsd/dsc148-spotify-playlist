@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 221370,
+  "num_followers": 221452,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAABiDT0djG09hhRaFZwkfnYC",
+  "snapshot_id": "Z3M0AAAAAADQXzUjiuMPKrWQl+gc2Ixv",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 248320,
-      "name": "Last Lap",
-      "url": "https://open.spotify.com/track/1qJGJR5DXftoDjeNjNvIDy"
+      "duration_ms": 147749,
+      "name": "Passport Junkie",
+      "url": "https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 147749,
-      "name": "Passport Junkie",
-      "url": "https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g"
+      "duration_ms": 248320,
+      "name": "Last Lap",
+      "url": "https://open.spotify.com/track/1qJGJR5DXftoDjeNjNvIDy"
     },
     {
       "added_at": null,
@@ -256,7 +256,7 @@
       "added_at": null,
       "album": {
         "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+        "url": "https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 160714,
-      "name": "Fight The Feeling",
-      "url": "https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU"
+      "duration_ms": 166578,
+      "name": "Boyz Don't Cry",
+      "url": "https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM"
     },
     {
       "added_at": null,
@@ -320,7 +320,7 @@
       "added_at": null,
       "album": {
         "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f"
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 166578,
-      "name": "Boyz Don't Cry",
-      "url": "https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM"
+      "duration_ms": 160714,
+      "name": "Fight The Feeling",
+      "url": "https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray 4 Love",
-        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 168586,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0EVG3d1RVbJjYh43fQDcR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shooting Star",
         "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 183850,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 168586,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0EVG3d1RVbJjYh43fQDcR9"
     },
     {
       "added_at": null,

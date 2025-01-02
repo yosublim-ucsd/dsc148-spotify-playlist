@@ -1,6 +1,6 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 59112,
+  "num_followers": 59158,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "Linger Awhile",
-        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 294287,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
         "name": "Laura Benanti",
         "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 264653,
       "name": "Go Slow",
       "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "Linger Awhile",
+        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 294287,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
+        "name": "Do You Know What It Means to Miss New Orleans",
+        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 253386,
+      "name": "Do You Know What It Means to Miss New Orleans",
+      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 376085,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "Do You Know What It Means to Miss New Orleans",
-        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 253386,
-      "name": "Do You Know What It Means to Miss New Orleans",
-      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "My Mood Is You",
-        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
-      },
-      "artists": [
-        {
-          "name": "Freddy Cole",
-          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
-        }
-      ],
-      "duration_ms": 345821,
-      "name": "My Mood Is You",
-      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 338822,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "My Mood Is You",
+        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
+      },
+      "artists": [
+        {
+          "name": "Freddy Cole",
+          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
+        }
+      ],
+      "duration_ms": 345821,
+      "name": "My Mood Is You",
+      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -887,6 +887,30 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
+        "name": "Spring Can Really Hang You up the Most",
+        "url": "https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI"
+      },
+      "artists": [
+        {
+          "name": "Amanda Ginsburg",
+          "url": "https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj"
+        },
+        {
+          "name": "Filip Ekestubbe",
+          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
+        },
+        {
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+        }
+      ],
+      "duration_ms": 326019,
+      "name": "Spring Can Really Hang You up the Most",
+      "url": "https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
         "name": "Good Morning Heartache",
         "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
       },
@@ -911,30 +935,6 @@
       "duration_ms": 193177,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "Spring Can Really Hang You up the Most",
-        "url": "https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI"
-      },
-      "artists": [
-        {
-          "name": "Amanda Ginsburg",
-          "url": "https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj"
-        },
-        {
-          "name": "Filip Ekestubbe",
-          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
-        },
-        {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
-        }
-      ],
-      "duration_ms": 326019,
-      "name": "Spring Can Really Hang You up the Most",
-      "url": "https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "It Happens Like That",
-        "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 211740,
-      "name": "It Happens Like That",
-      "url": "https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 275371,
       "name": "Softly, as in a Morning Sunrise",
       "url": "https://open.spotify.com/track/15Cd5pF6Xm4nB2MVcWbuCT"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "It Happens Like That",
+        "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 211740,
+      "name": "It Happens Like That",
+      "url": "https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
-      },
-      "artists": [
-        {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
-        }
-      ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 309810,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+      },
+      "artists": [
+        {
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+        }
+      ],
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
+        "name": "One Evening in July",
+        "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/24YQLjt7qDlPvCERouc5ph"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
         "name": "Quiet Is the Star",
         "url": "https://open.spotify.com/album/10HR7jExTsb576nxpmR1xO"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 166506,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0AxWzSG8MUj5CMH8XGnwHz"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "One Evening in July",
-        "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edna \u00d3sk",
-          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/24YQLjt7qDlPvCERouc5ph"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -1695,6 +1695,38 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
+        "name": "But Not For Me",
+        "url": "https://open.spotify.com/album/1jLLut07Xb7HcnEHn3XSGt"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00d6hrn",
+          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
+        },
+        {
+          "name": "Patrik Boman",
+          "url": "https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw"
+        },
+        {
+          "name": "The Blue Sounds",
+          "url": "https://open.spotify.com/artist/0BhOoT9vdEhNihifcTqPMi"
+        },
+        {
+          "name": "Carl Orrje",
+          "url": "https://open.spotify.com/artist/5dXBn9OSUXHhAJ1ChTq7T1"
+        },
+        {
+          "name": "Jesper Kviberg",
+          "url": "https://open.spotify.com/artist/6NMvOwbJ1v5QAvJHRW4xSb"
+        }
+      ],
+      "duration_ms": 258186,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/5mhtfZqUn7gzKUKE8oOWNB"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
         "name": "The Light and the Dark",
         "url": "https://open.spotify.com/album/1qxPX9S4J6SsD0X97yri3W"
       },
@@ -1743,34 +1775,18 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "But Not For Me",
-        "url": "https://open.spotify.com/album/1jLLut07Xb7HcnEHn3XSGt"
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
       },
       "artists": [
         {
-          "name": "Frida \u00d6hrn",
-          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
-        },
-        {
-          "name": "Patrik Boman",
-          "url": "https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw"
-        },
-        {
-          "name": "The Blue Sounds",
-          "url": "https://open.spotify.com/artist/0BhOoT9vdEhNihifcTqPMi"
-        },
-        {
-          "name": "Carl Orrje",
-          "url": "https://open.spotify.com/artist/5dXBn9OSUXHhAJ1ChTq7T1"
-        },
-        {
-          "name": "Jesper Kviberg",
-          "url": "https://open.spotify.com/artist/6NMvOwbJ1v5QAvJHRW4xSb"
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
         }
       ],
-      "duration_ms": 258186,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/5mhtfZqUn7gzKUKE8oOWNB"
+      "duration_ms": 320250,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -1791,22 +1807,6 @@
       "duration_ms": 465386,
       "name": "Round Midnight",
       "url": "https://open.spotify.com/track/2xEiuO49zj433EvPjBuf7I"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 320250,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
     },
     {
       "added_at": "2024-12-06 13:29:58",

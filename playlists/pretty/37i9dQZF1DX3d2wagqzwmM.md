@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx & Timmy Trumpet
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,698 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,971 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 72 | [F\#CK THE DJ](https://open.spotify.com/track/4S7ga0fgQ0Cblalhj4CdqY) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [F\#CK THE DJ](https://open.spotify.com/album/4rGHE3Gk5tecgfsattdKLC) | 2:25 |
 | 73 | [Rock The House](https://open.spotify.com/track/7u95bREFrttCYkHUEARwYG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Rock The House](https://open.spotify.com/album/14CcOmDbh7oVvFJgXLIx63) | 2:17 |
 | 74 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 |
-| 75 | [Beautiful Life \- Faustix RMX](https://open.spotify.com/track/27r1J3SrSwVoRHIcb5FdIh) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Beautiful Life \(Faustix RMX\)](https://open.spotify.com/album/621d4r3IhIOtDRJZLEtKWh) | 2:59 |
-| 76 | [Bang Bang](https://open.spotify.com/track/4RBbIPUGgYBKiExshxMN9c) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Bang Bang](https://open.spotify.com/album/1YxxLfUFpTJyzF96s6MPxF) | 2:22 |
+| 75 | [Bang Bang](https://open.spotify.com/track/4RBbIPUGgYBKiExshxMN9c) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Bang Bang](https://open.spotify.com/album/1YxxLfUFpTJyzF96s6MPxF) | 2:22 |
+| 76 | [Beautiful Life \- Faustix RMX](https://open.spotify.com/track/27r1J3SrSwVoRHIcb5FdIh) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Beautiful Life \(Faustix RMX\)](https://open.spotify.com/album/621d4r3IhIOtDRJZLEtKWh) | 2:59 |
 | 77 | [Renegade Master](https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Renegade Master](https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe) | 2:50 |
 | 78 | [Con Le Mani Al Cielo \(feat\. M¥SS KETA\)](https://open.spotify.com/track/4Z7pfEOx6is8AIM2EVM3HL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Con Le Mani Al Cielo \(feat\. M¥SS KETA\)](https://open.spotify.com/album/4kLVrjJuBYE0ppqDusg3fm) | 2:27 |
 | 79 | [I Wanna Dance](https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I Wanna Dance](https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo) | 2:22 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAAJlMbwsduU2sYTPd8bOJ4a",
+  "snapshot_id": "Z3M0AAAAAACk8+9+0Co/69NNBq3W3Cqa",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 235768,
-      "name": "What You Would Hear",
-      "url": "https://open.spotify.com/track/0y8ZgAL8HcICloQ5WBkCd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Strangers Go",
         "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
       },
@@ -75,38 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out of the Sky",
-        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 175614,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Our Own World",
-        "url": "https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 239872,
-      "name": "On Your Road",
-      "url": "https://open.spotify.com/track/04GJSqGoFAuzOhOahSrUDA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If You Were There",
         "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
       },
@@ -116,25 +68,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 266485,
-      "name": "Electricity Is Humming",
-      "url": "https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Strangers Go",
-        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Rulo",
-      "url": "https://open.spotify.com/track/3cyYngjvyJZDIDhCWTzKGp"
+      "duration_ms": 235768,
+      "name": "What You Would Hear",
+      "url": "https://open.spotify.com/track/0y8ZgAL8HcICloQ5WBkCd9"
     },
     {
       "added_at": null,
@@ -155,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Occult Box (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
+        "name": "Our Own World",
+        "url": "https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh"
       },
       "artists": [
         {
@@ -164,9 +100,25 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 320320,
-      "name": "Destroy",
-      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
+      "duration_ms": 239872,
+      "name": "On Your Road",
+      "url": "https://open.spotify.com/track/04GJSqGoFAuzOhOahSrUDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where Strangers Go",
+        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Rulo",
+      "url": "https://open.spotify.com/track/3cyYngjvyJZDIDhCWTzKGp"
     },
     {
       "added_at": null,
@@ -187,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Out of the Sky",
+        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 175614,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where Strangers Go",
         "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
       },
@@ -199,22 +167,6 @@
       "duration_ms": 254106,
       "name": "Taste the Floor",
       "url": "https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out of the Sky",
-        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 186447,
-      "name": "EVERYONEISTHESAME",
-      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
     },
     {
       "added_at": null,
@@ -235,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Out of the Sky",
+        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 186447,
+      "name": "EVERYONEISTHESAME",
+      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where Strangers Go",
         "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
       },
@@ -247,6 +215,22 @@
       "duration_ms": 254733,
       "name": "Window Shade",
       "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Were There",
+        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 266485,
+      "name": "Electricity Is Humming",
+      "url": "https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq"
     },
     {
       "added_at": null,

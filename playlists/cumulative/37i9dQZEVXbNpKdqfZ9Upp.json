@@ -9367,6 +9367,24 @@
     },
     {
       "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222528,
+      "name": "Como Duele El Amor",
+      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
+    },
+    {
+      "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
@@ -11378,7 +11396,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 268053,
       "name": "Dejame Volver Contigo",
       "url": "https://open.spotify.com/track/7lBTazdXYEZT80sPDtSW8D"
@@ -13244,7 +13262,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 263320,
       "name": "D\u00e9jame Volver Contigo",
       "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
@@ -14026,7 +14044,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 172059,
       "name": "El Mayor de los Ranas",
       "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
@@ -15226,6 +15244,24 @@
       "duration_ms": 225128,
       "name": "Entre dos tierras",
       "url": "https://open.spotify.com/track/0hgGokB5eyGHn4VtmFAj2D"
+    },
+    {
+      "album": {
+        "name": "ENTRE GOLPES Y BESOS",
+        "url": "https://open.spotify.com/album/17k4j1S6OmDjh13jOw7QZa"
+      },
+      "artists": [
+        {
+          "name": "LOS PLEBES DE OLANCHO",
+          "url": "https://open.spotify.com/artist/7tTNibXm5wh1h2nICjYy9H"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198289,
+      "name": "ENTRE GOLPES Y BESOS",
+      "url": "https://open.spotify.com/track/25iLX2CnaxbhZqsSujKBfe"
     },
     {
       "album": {
@@ -19118,7 +19154,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -23958,7 +23994,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "La Sillita",
       "url": "https://open.spotify.com/track/0XcNKa1sicyfqef7bWQQNm"
@@ -24614,7 +24650,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 179520,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI"
@@ -25367,6 +25403,24 @@
     },
     {
       "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/1sacgIhbhMGrBE7OT5JV0y"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185986,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/30Kke3s11IHrsp0tnXBGgv"
+    },
+    {
+      "album": {
         "name": "Lobo",
         "url": "https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL"
       },
@@ -25378,7 +25432,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 186720,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
@@ -26474,7 +26528,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -26504,7 +26558,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -39263,6 +39317,24 @@
     },
     {
       "album": {
+        "name": "Sabor a Derrota",
+        "url": "https://open.spotify.com/album/2BlHZtjDv2t6yt2X7Y7Dkb"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199328,
+      "name": "Sabor a Derrota",
+      "url": "https://open.spotify.com/track/4EbUtMcf5pUFBNvvxQFC5G"
+    },
+    {
+      "album": {
         "name": "SABOR FRESA",
         "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
       },
@@ -43242,7 +43314,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
@@ -43264,7 +43336,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
@@ -44976,7 +45048,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"

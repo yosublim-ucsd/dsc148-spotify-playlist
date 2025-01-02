@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 113722,
+  "num_followers": 113730,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAB7RpB1HKhBPOkDENfWUHzs",
+  "snapshot_id": "Z3M0AAAAAAAXhvI2FDMhWJip+HgONHJH",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "El A\u00f1o Viejo (feat. Celso Pi\u00f1a)",
+      "url": "https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e1ginas en Blanco",
         "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "El A\u00f1o Viejo (feat. Celso Pi\u00f1a)",
-      "url": "https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 273559,
-      "name": "Pasa la Vida",
-      "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 182000,
       "name": "Lo Que T\u00fa Me Das - Gracias",
       "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 273559,
+      "name": "Pasa la Vida",
+      "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 201484,
-      "name": "Breve Historia de Alcohol y una Mujer",
-      "url": "https://open.spotify.com/track/7tZ55W74vP6fxBZVBp4rxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna (Sonando Desde El Auditorio Nacional)",
         "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 321493,
       "name": "Luna - Sonando Desde El Auditorio Nacional",
       "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 201484,
+      "name": "Breve Historia de Alcohol y una Mujer",
+      "url": "https://open.spotify.com/track/7tZ55W74vP6fxBZVBp4rxW"
     },
     {
       "added_at": null,

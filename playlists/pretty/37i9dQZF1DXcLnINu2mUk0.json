@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Kappa Jotta, Bispo",
-  "num_followers": 48465,
+  "num_followers": 48467,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "O Pr\u00f3prio",
-        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 242970,
-      "name": "Dire\u00e7\u00e3o Paris",
-      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 179023,
       "name": "Solteiros",
       "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 242970,
+      "name": "Dire\u00e7\u00e3o Paris",
+      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -583,6 +583,26 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
       },
@@ -607,26 +627,6 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Chakras",
-        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 196384,
-      "name": "Chakras",
-      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 201962,
       "name": "S\u00f3 D\u00e1",
       "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 135160,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 135160,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
         "name": "Chama",
         "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 153029,
       "name": "Chama",
       "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
+        "name": "Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 174428,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -747,26 +767,6 @@
       "duration_ms": 176425,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
-        "name": "Perfume (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Perfume - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -879,6 +879,26 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
+        "name": "Chamadas",
+        "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 156672,
+      "name": "Chamadas",
+      "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
         "name": "Rocky&Rihanna",
         "url": "https://open.spotify.com/album/788dLP8HVaRlAwzQSVnRrJ"
       },
@@ -923,42 +943,6 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Chamadas",
-        "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 156672,
-      "name": "Chamadas",
-      "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 198409,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 216556,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
         "name": "Quem Tu Mereces",
         "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
       },
@@ -1071,22 +1091,6 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
         "name": "CorDaPele",
         "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
       },
@@ -1103,22 +1107,18 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 216556,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
+      "duration_ms": 204320,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
         "name": "Falei",
         "url": "https://open.spotify.com/album/5YN1UrwqwBwsarG7Y7WUv4"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 177073,
       "name": "Falei",
       "url": "https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "NADA \u00c9 COMO ANTES",
-        "url": "https://open.spotify.com/album/58z9LFCp2cTPUPuCWcakEv"
+        "name": "longe.com",
+        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
       },
       "artists": [
         {
-          "name": "Monsta",
-          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
-        },
-        {
-          "name": "Deezy",
-          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
         }
       ],
-      "duration_ms": 185714,
-      "name": "NADA \u00c9 COMO ANTES",
-      "url": "https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM"
+      "duration_ms": 197511,
+      "name": "longe.com",
+      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -1387,22 +1383,6 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "longe.com",
-        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "longe.com",
-      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/6z0rQqq8tF8hrRVDlb02wl"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 172453,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0zew2jGUrcp12u0wmaWtgQ"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
+        "name": "NADA \u00c9 COMO ANTES",
+        "url": "https://open.spotify.com/album/58z9LFCp2cTPUPuCWcakEv"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "NADA \u00c9 COMO ANTES",
+      "url": "https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM"
     }
   ],
   "unique_name": "Seda",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 698 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 24 | [Пуши, пуши](https://open.spotify.com/track/0336cbGmNVwmytwQh0zNeB) | [Danna](https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Пуши, пуши](https://open.spotify.com/album/6xYrQirspZgjqoetOnUS5f) | 3:40 |
 | 25 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 |
 | 26 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 |
-| 27 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 |
+| 27 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 |
 | 28 | [Откачила](https://open.spotify.com/track/32pFur6ytKmk43I5gtX7W4) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ), [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Откачила](https://open.spotify.com/album/7uNTQkaeaifMAfVzqmBYss) | 2:55 |
 | 29 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 |
 | 30 | [ZHIVOT MOY](https://open.spotify.com/track/7AitgKOWYpKdIVNm56q4Tt) | [Fiki](https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1), [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [ZHIVOT MOY](https://open.spotify.com/album/3PfW1chT92cD1hl3Zq9eAF) | 3:28 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 35 | [Питаш ли ме](https://open.spotify.com/track/4np8dpfv5qahhkOSzgsMFL) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH) | [Питаш ли ме](https://open.spotify.com/album/2wiHKbihm8cm4UTRebBDaE) | 2:58 |
 | 36 | [Kazah "NE"](https://open.spotify.com/track/57CeTw4PsGK1OodCls4P7j) | [Fiki](https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Kazah "NE"](https://open.spotify.com/album/04RWL3EciHwZy058yun5eb) | 3:17 |
 | 37 | [Pismo](https://open.spotify.com/track/3slJa7NhnfEsmH3DZW7iHd) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Ulitsata](https://open.spotify.com/album/3K29avyMeoqqBU0urUoR18) | 3:27 |
-| 38 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
+| 38 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 |
 | 39 | [Mrasnica](https://open.spotify.com/track/1LXRWQeHY486xZVgl3uJ4x) | [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Mrasnica](https://open.spotify.com/album/6wP5dihV6tPPxQ2HASFU8v) | 3:45 |
 | 40 | [Мама миа](https://open.spotify.com/track/1VN1sfcpaC7y7dimb0ZihK) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq), [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Мама миа](https://open.spotify.com/album/1TBwnIPebX0VAWrbwtNm3Q) | 3:06 |
 | 41 | [Ne me zasluzhavash](https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Dokato sartseto bie](https://open.spotify.com/album/4WIsDXVbpQ86N4brU4jVUl) | 3:33 |
-| 42 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
+| 42 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 |
 | 43 | [Moy Si Merak](https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Moy Si Merak](https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx) | 2:59 |
 | 44 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 |
 | 45 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [OTKACHALKI](https://open.spotify.com/track/1pRSvQZVxrZ2d4GPjZmlAq) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [OTKACHALKI](https://open.spotify.com/album/0wxBkakmoiGcrGov64qJZO) | 4:26 |
 | 50 | [Dale Baby](https://open.spotify.com/track/1zK1hzNzGlKcVKdxkp0Rcv) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [Dale Baby](https://open.spotify.com/album/60PSUmuJBrGcg2RWXnxlgB) | 2:50 |
 
-Snapshot ID: `LwdeIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LwitSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

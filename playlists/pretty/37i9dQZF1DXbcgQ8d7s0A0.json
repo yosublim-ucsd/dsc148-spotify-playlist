@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1320403,
+  "num_followers": 1320609,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
       "artists": [
         {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+      "duration_ms": 280853,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
         }
       ],
-      "duration_ms": 280853,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Beyond Me",
-        "url": "https://open.spotify.com/album/05tbey8KoO4jyoqB362gl6"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "BRKN",
-      "url": "https://open.spotify.com/track/07gFabF2ePsmBM0Q3CYitT"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Jarreau",
         "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 258399,
       "name": "Mornin'",
       "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Beyond Me",
+        "url": "https://open.spotify.com/album/05tbey8KoO4jyoqB362gl6"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "BRKN",
+      "url": "https://open.spotify.com/track/07gFabF2ePsmBM0Q3CYitT"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Rock On",
-        "url": "https://open.spotify.com/album/5ORcHUdS6M1dH8s6IIfHtO"
-      },
-      "artists": [
-        {
-          "name": "Raydio",
-          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
-        }
-      ],
-      "duration_ms": 203080,
-      "name": "You Can't Change That",
-      "url": "https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Soul Folk In Action",
         "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 275640,
       "name": "The Weight",
       "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Rock On",
+        "url": "https://open.spotify.com/album/5ORcHUdS6M1dH8s6IIfHtO"
+      },
+      "artists": [
+        {
+          "name": "Raydio",
+          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
+        }
+      ],
+      "duration_ms": 203080,
+      "name": "You Can't Change That",
+      "url": "https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
+        "name": "Carole King: The Ode Collection",
+        "url": "https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "Bitter With The Sweet",
+      "url": "https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/74RK3gsxjigff01cRt7pLL"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 230706,
       "name": "If I Ain't Got You (feat. Usher)",
       "url": "https://open.spotify.com/track/41osd5ueK4Z4KWldcluCWW"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
-        "name": "80s 100 Hits",
-        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
-      },
-      "artists": [
-        {
-          "name": "Gregory Abbott",
-          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "Shake You Down - Single Version",
-      "url": "https://open.spotify.com/track/1Ur9I61TLlJJDl6cSeAlXp"
     }
   ],
   "unique_name": "Sweet Soul Chillout",

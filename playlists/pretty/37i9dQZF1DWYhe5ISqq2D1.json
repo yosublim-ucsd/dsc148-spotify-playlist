@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u9ad8\u6a4b\u512a",
-  "num_followers": 56935,
+  "num_followers": 56936,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u4eca\u591c\u306f\u541b\u3068",
-        "url": "https://open.spotify.com/album/1dJxHRe7ns4gLo3FrllMzy"
+        "name": "\u3053\u306e\u4e16\u754c\u306b\u56fd\u304c\u7121\u304b\u3063\u305f\u3089",
+        "url": "https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut"
       },
       "artists": [
         {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
         }
       ],
-      "duration_ms": 232134,
-      "name": "\u4eca\u591c\u306f\u541b\u3068",
-      "url": "https://open.spotify.com/track/6z4Oq9jjl5OWnCR0xOBBpH"
+      "duration_ms": 259704,
+      "name": "\u3053\u306e\u4e16\u754c\u306b\u56fd\u304c\u7121\u304b\u3063\u305f\u3089",
+      "url": "https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u3053\u306e\u4e16\u754c\u306b\u56fd\u304c\u7121\u304b\u3063\u305f\u3089",
-        "url": "https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut"
+        "name": "\u4eca\u591c\u306f\u541b\u3068",
+        "url": "https://open.spotify.com/album/1dJxHRe7ns4gLo3FrllMzy"
       },
       "artists": [
         {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
         }
       ],
-      "duration_ms": 259704,
-      "name": "\u3053\u306e\u4e16\u754c\u306b\u56fd\u304c\u7121\u304b\u3063\u305f\u3089",
-      "url": "https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H"
+      "duration_ms": 232134,
+      "name": "\u4eca\u591c\u306f\u541b\u3068",
+      "url": "https://open.spotify.com/track/6z4Oq9jjl5OWnCR0xOBBpH"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
+        "name": "FLAG",
+        "url": "https://open.spotify.com/album/25JNVUxYxxBle0cJJNb3Td"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 276681,
+      "name": "FLAG",
+      "url": "https://open.spotify.com/track/6If6vrgZ9Ap4tR3C5RzDmj"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
         "name": "HATA EXPO -The Collaboration Album-",
         "url": "https://open.spotify.com/album/7H6K36YquDfRbMYHHG6SoX"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 296062,
       "name": "\u9752\u8449",
       "url": "https://open.spotify.com/track/5Nj8wQlcTur1FqYQM5dnXR"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
-        "name": "FLAG",
-        "url": "https://open.spotify.com/album/25JNVUxYxxBle0cJJNb3Td"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 276681,
-      "name": "FLAG",
-      "url": "https://open.spotify.com/track/6If6vrgZ9Ap4tR3C5RzDmj"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
-        "url": "https://open.spotify.com/album/6r2CYwG0Na2anxJmUmP9Wh"
-      },
-      "artists": [
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
-      "url": "https://open.spotify.com/track/27bqdCSVJk7TrXJZvr6CN2"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
         "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
         "url": "https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
+        "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
+        "url": "https://open.spotify.com/album/6r2CYwG0Na2anxJmUmP9Wh"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
+      "url": "https://open.spotify.com/track/27bqdCSVJk7TrXJZvr6CN2"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
         "name": "Hotel New Yuma",
         "url": "https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1"
       },
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "For Life",
-        "url": "https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK"
-      },
-      "artists": [
-        {
-          "name": "Swagcky",
-          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
-        }
-      ],
-      "duration_ms": 208971,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4tL1BupkC47E9VYcy6nhmJ"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
-        "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
-        "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
-      },
-      "artists": [
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "\u4eba\u9b5a\u59eb (bonus track)",
-      "url": "https://open.spotify.com/track/7ei2qLxNYGg6pgmUEinpiL"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3IVlzFO79ROq2pCINRfr2s"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 241586,
       "name": "Endless",
       "url": "https://open.spotify.com/track/4qTY7rQSQ4M6JP3TfoMbG6"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "For Life",
+        "url": "https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK"
+      },
+      "artists": [
+        {
+          "name": "Swagcky",
+          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
+        }
+      ],
+      "duration_ms": 208971,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4tL1BupkC47E9VYcy6nhmJ"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
+        "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
+        "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "\u4eba\u9b5a\u59eb (bonus track)",
+      "url": "https://open.spotify.com/track/7ei2qLxNYGg6pgmUEinpiL"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
         "name": "\u5bf5\u611b\u65cf",
         "url": "https://open.spotify.com/album/2HeAgHWH154wSvhlWhlQYa"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 217666,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30fb\u30c8\u30a5\u30b2\u30b6\u30fc",
       "url": "https://open.spotify.com/track/6wwssmPuwXPzO3zDJULn16"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
-        "name": "\u8718\u86db\u306e\u7cf8",
-        "url": "https://open.spotify.com/album/7KVlkEoAhI1nfi4ybP5YeN"
-      },
-      "artists": [
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
-        }
-      ],
-      "duration_ms": 220633,
-      "name": "\u8718\u86db\u306e\u7cf8",
-      "url": "https://open.spotify.com/track/3awwf5Ts5K4p5clqz5Dttk"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1367,6 +1351,22 @@
       "duration_ms": 246253,
       "name": "BAE",
       "url": "https://open.spotify.com/track/7xi1q1cQkrsNDjYn4MLRBa"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "\u8718\u86db\u306e\u7cf8",
+        "url": "https://open.spotify.com/album/7KVlkEoAhI1nfi4ybP5YeN"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 220633,
+      "name": "\u8718\u86db\u306e\u7cf8",
+      "url": "https://open.spotify.com/track/3awwf5Ts5K4p5clqz5Dttk"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
-        "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
-      },
-      "artists": [
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
-        }
-      ],
-      "duration_ms": 367706,
-      "name": "\u9b5a\u670d\u8a18",
-      "url": "https://open.spotify.com/track/3LYWRJZPlQibvqehe5TOkC"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
         "name": "\u30c9\u30e9\u30de / \u50d5\u304c\u66ae\u3089\u3057\u305f\u8857",
         "url": "https://open.spotify.com/album/7ajBQz8KNAwHe4j5ff4oge"
       },
@@ -1479,22 +1463,6 @@
       "duration_ms": 291361,
       "name": "\u50d5\u304c\u66ae\u3089\u3057\u305f\u8857",
       "url": "https://open.spotify.com/track/3wbZ2kpWSCcnMsI986UckG"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
-        "name": "close your eyes",
-        "url": "https://open.spotify.com/album/4ekJyir8AeFP7eEd53Ltic"
-      },
-      "artists": [
-        {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "\u54c0\u6101\u306b\u3064\u3064\u307e\u308c\u3066",
-      "url": "https://open.spotify.com/track/5KjaI4QYES8bbcl0nvuiMI"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1515,6 +1483,22 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
+        "name": "close your eyes",
+        "url": "https://open.spotify.com/album/4ekJyir8AeFP7eEd53Ltic"
+      },
+      "artists": [
+        {
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "\u54c0\u6101\u306b\u3064\u3064\u307e\u308c\u3066",
+      "url": "https://open.spotify.com/track/5KjaI4QYES8bbcl0nvuiMI"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
         "name": "\u773c\u5dee\u3057",
         "url": "https://open.spotify.com/album/2uGI04yVeqhytZ8NATBuhh"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 220311,
       "name": "\u773c\u5dee\u3057",
       "url": "https://open.spotify.com/track/33ONOFAa82gRalbmkQKpkz"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
+        "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 367706,
+      "name": "\u9b5a\u670d\u8a18",
+      "url": "https://open.spotify.com/track/3LYWRJZPlQibvqehe5TOkC"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "LIME",
-        "url": "https://open.spotify.com/album/5J1FvWkGaI4ZT6AK8gisU8"
-      },
-      "artists": [
-        {
-          "name": "Nenashi",
-          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
-        }
-      ],
-      "duration_ms": 250900,
-      "name": "LIME",
-      "url": "https://open.spotify.com/track/3AlFbHf3ftf9JAiMf1KpOw"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
         "name": "\u63fa\u308c\u308b\u30d4\u30a2\u30b9",
         "url": "https://open.spotify.com/album/6sNb4Es48e6uuQ4lohhcAD"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 254320,
       "name": "\u63fa\u308c\u308b\u30d4\u30a2\u30b9",
       "url": "https://open.spotify.com/track/5nGPee3PEkZUiSrViCm5Je"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "LIME",
+        "url": "https://open.spotify.com/album/5J1FvWkGaI4ZT6AK8gisU8"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "duration_ms": 250900,
+      "name": "LIME",
+      "url": "https://open.spotify.com/track/3AlFbHf3ftf9JAiMf1KpOw"
     },
     {
       "added_at": "2024-12-24 15:00:30",

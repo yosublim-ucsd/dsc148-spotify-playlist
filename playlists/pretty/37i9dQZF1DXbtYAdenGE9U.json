@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 635561,
+  "num_followers": 635815,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Hard Hop Superstars",
+        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
+      },
+      "artists": [
+        {
+          "name": "Public Domain",
+          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Operation Blade (7\" Radio Edit)",
+      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Trance Classics, Vol. 01",
         "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 238466,
       "name": "Ayla - DJ Taucher Radio Edit",
       "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Hard Hop Superstars",
-        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
-      },
-      "artists": [
-        {
-          "name": "Public Domain",
-          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Operation Blade (7\" Radio Edit)",
-      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -827,6 +827,26 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Brave New World (The Opera Song)",
+        "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
+      },
+      "artists": [
+        {
+          "name": "Jurgen Vries",
+          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
+        },
+        {
+          "name": "CMC",
+          "url": "https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm"
+        }
+      ],
+      "duration_ms": 212658,
+      "name": "The Opera Song (Brave New World)",
+      "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/0ZtQgsteaWjFMPwGQm2B6c"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 216066,
       "name": "Not Over Yet '99 (feat. Grace) - Radio Edit",
       "url": "https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Brave New World (The Opera Song)",
-        "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
-      },
-      "artists": [
-        {
-          "name": "Jurgen Vries",
-          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
-        },
-        {
-          "name": "CMC",
-          "url": "https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm"
-        }
-      ],
-      "duration_ms": 212658,
-      "name": "The Opera Song (Brave New World)",
-      "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
     }
   ],
   "unique_name": "Trance Classics",

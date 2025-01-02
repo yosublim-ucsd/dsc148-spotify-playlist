@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,189 songs - 2 day 16 hr 34 min
+1,190 songs - 2 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Back To You](https://open.spotify.com/track/6ZCPLvXEuf5z9Wgq7EbGS8) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U) | [Back To You](https://open.spotify.com/album/6vSkr0mGh0HScG1rBFgBjj) | 2:56 | 2022-01-28 | 2022-07-08 |
 | [Backfire](https://open.spotify.com/track/3l3VfjJSzLBFdnN6lljP0R) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [Backfire](https://open.spotify.com/album/6tkaig5r9oZp6O1ngw7gqI) | 2:44 | 2020-09-21\* | 2020-11-03 |
 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2hcqLu8Hhu2yJd5h4T4WDf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4M6gPtD9TwGXqZLpAcUSqJ) | 2:32 | 2021-06-19 | 2021-09-18 |
+| [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2024-12-24 |  |
 | [Bad Buzzer](https://open.spotify.com/track/0pDqhJVN9yf3Cl77Fa5kZh) | [Yaga](https://open.spotify.com/artist/55OvhqPQTKjYOa5kVy8XnF) | [Bad Buzzer](https://open.spotify.com/album/5DKqbx6e3uGv3ZyaNnwcuB) | 3:48 | 2020-09-21\* | 2020-12-18 |
 | [Bad Habits \- MEDUZA Remix](https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Bad Habits \(MEDUZA Remix\)](https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB) | 3:14 | 2021-08-07 | 2022-04-02 |
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-08-12 | 2024-12-25 |
@@ -865,7 +866,7 @@
 | [Safari](https://open.spotify.com/track/473Oq1pusAtbuBgV7AvcaH) | [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2) | [Safari](https://open.spotify.com/album/37JVGiKbSAWFwi0x4gGXlU) | 2:35 | 2020-09-21\* | 2021-01-23 |
 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 | 2024-10-04 |  |
 | [Sao Paulo](https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [The Lost Shepherds](https://open.spotify.com/artist/0n5RLOUDVIpQopAEUbY0zU), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Sao Paulo](https://open.spotify.com/album/521mw9CgSRTzUDE594y3PK) | 3:10 | 2022-04-08 | 2022-07-19 |
-| [Satisfaction](https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Satisfaction](https://open.spotify.com/album/3ocRwxucX3212g29vOg7je) | 3:33 | 2024-05-24 |  |
+| [Satisfaction](https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Satisfaction](https://open.spotify.com/album/3ocRwxucX3212g29vOg7je) | 3:33 | 2024-05-24 | 2025-01-02 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-04-29 | 2023-03-18 |
 | [Save Me](https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:09 | 2023-08-18 | 2024-07-13 |
 | [Save Me](https://open.spotify.com/track/0wGgLYKG1t7Cl58lBVrAAl) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Xriss](https://open.spotify.com/artist/3vxW6vSOonNDvW91Fo2Z8f) | [Save Me](https://open.spotify.com/album/05LupE2L7mB5dtmctMf3Ia) | 3:20 | 2020-09-21\* | 2021-02-20 |

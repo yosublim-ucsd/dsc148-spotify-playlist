@@ -774,7 +774,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 182439,
       "name": "Armani",
       "url": "https://open.spotify.com/track/5avYou6QKMsC1nnbOkqqm9"
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 124705,
       "name": "BAILA",
       "url": "https://open.spotify.com/track/5BGCXuJmVIDnYcCCHWCizV"
@@ -5522,7 +5522,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 120000,
       "name": "CALMA",
       "url": "https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx"
@@ -5918,7 +5918,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 101631,
       "name": "Cecilia Lind",
       "url": "https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX"
@@ -6741,6 +6741,42 @@
     },
     {
       "album": {
+        "name": "Cotton Eye Joe",
+        "url": "https://open.spotify.com/album/0gf4Of3tUYjmH86tMjbROa"
+      },
+      "artists": [
+        {
+          "name": "Power Surge",
+          "url": "https://open.spotify.com/artist/505SQlfXNspda6PNHW9HVr"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154392,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/61MBnjYN4TVeUaFIx0O3hn"
+    },
+    {
+      "album": {
+        "name": "Country Roads (Take Me Home, Country Roads)",
+        "url": "https://open.spotify.com/album/6JbruAGOaMrl1fmhaCNEWv"
+      },
+      "artists": [
+        {
+          "name": "Leontine",
+          "url": "https://open.spotify.com/artist/0dPldh0GoO1NGOUwRu7WSr"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146630,
+      "name": "Country Roads (Take Me Home, Country Roads)",
+      "url": "https://open.spotify.com/track/3vaqFkPxdtVw5VK1YTq883"
+    },
+    {
+      "album": {
         "name": "All I Know So Far: Setlist",
         "url": "https://open.spotify.com/album/061vVdNVxwouz0INdQeOkn"
       },
@@ -7182,7 +7218,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
@@ -7820,7 +7856,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 177200,
       "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5",
       "url": "https://open.spotify.com/track/2sbjPQE3sS9H6i8BOmtZbr"
@@ -8366,7 +8402,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 131850,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7HuBqX0G5mJTd8TEiPZ40K"
@@ -8612,7 +8648,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 249600,
       "name": "Don't Stop Believin' (2022 Remaster)",
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
@@ -9444,7 +9480,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 168827,
       "name": "Dum",
       "url": "https://open.spotify.com/track/3fneVsIBA5RkkXsQhOW7pn"
@@ -11806,7 +11842,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 236200,
       "name": "Fireball (feat. John Ryan)",
       "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
@@ -11918,7 +11954,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 139548,
       "name": "Fitta och kebab",
       "url": "https://open.spotify.com/track/1H3okcaLb3IjLnp05KrRaD"
@@ -12602,6 +12638,28 @@
       "duration_ms": 154985,
       "name": "Frossa",
       "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e4mling 40",
+        "url": "https://open.spotify.com/album/1HTbKjT9FlVHtsF8AAf5Xv"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        },
+        {
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152227,
+      "name": "Fr\u00e4mling 40",
+      "url": "https://open.spotify.com/track/65oi0g8k5rMsr7KNMsJDbQ"
     },
     {
       "album": {
@@ -13629,6 +13687,24 @@
     },
     {
       "album": {
+        "name": "Festens drottning",
+        "url": "https://open.spotify.com/album/2xDPaHrO54yHCsFlsKpZaO"
+      },
+      "artists": [
+        {
+          "name": "Dolores",
+          "url": "https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Genom eld & vatten",
+      "url": "https://open.spotify.com/track/69IBBHJJVzi6t3hkbwFzod"
+    },
+    {
+      "album": {
         "name": "Genom Eld & Vatten - Spotify Singles",
         "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
       },
@@ -13828,7 +13904,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
@@ -14114,7 +14190,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 120545,
       "name": "Godnattvisan",
       "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
@@ -15198,7 +15274,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 263693,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
@@ -17084,7 +17160,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 237813,
       "name": "H\u00e4nderna mot himlen",
       "url": "https://open.spotify.com/track/14AJI1RloVWTh8bJe9gBPM"
@@ -17538,7 +17614,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 158378,
       "name": "I Might",
       "url": "https://open.spotify.com/track/2UX821OXiIYGp67PdMqmoe"
@@ -17600,7 +17676,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -17672,7 +17748,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
@@ -18278,7 +18354,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
@@ -22254,7 +22330,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 172493,
       "name": "Look Who's Laughing Now",
       "url": "https://open.spotify.com/track/2qEQy3x9MQH7eTJU6LmEJx"
@@ -25573,7 +25649,7 @@
     },
     {
       "album": {
-        "name": "Read My Lips",
+        "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
       "artists": [
@@ -25584,7 +25660,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
@@ -25946,7 +26022,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 187797,
       "name": "Natthimlen",
       "url": "https://open.spotify.com/track/1ABS9QUpgdLMiNzEDiilAs"
@@ -26470,7 +26546,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 161481,
       "name": "Nu s\u00e4ger vi godnatt",
       "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
@@ -27128,7 +27204,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 143566,
       "name": "Ole Dole Doff",
       "url": "https://open.spotify.com/track/0Pii5EXqXhPOTcX86zDxaW"
@@ -28658,7 +28734,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -30306,7 +30382,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 166476,
       "name": "ROM & COLA",
       "url": "https://open.spotify.com/track/4jxmEBgLV1TFjvtoNpajSX"
@@ -30770,7 +30846,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -32766,7 +32842,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 175750,
       "name": "Sm\u00e5stadsdr\u00f6mmar",
       "url": "https://open.spotify.com/track/0Ji8JgIjTfYceQcpqMr1pX"
@@ -33444,7 +33520,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 160373,
       "name": "Somna",
       "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
@@ -34350,7 +34426,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 166216,
       "name": "Stj\u00e4rnorna",
       "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
@@ -35928,7 +36004,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -36180,7 +36256,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
@@ -36360,7 +36436,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -36530,7 +36606,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -37078,7 +37154,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -37362,7 +37438,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
@@ -39014,7 +39090,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 139516,
       "name": "Vanilj",
       "url": "https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF"
@@ -39420,7 +39496,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 195518,
       "name": "Vi ska aldrig g\u00e5 hem",
       "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
@@ -39840,7 +39916,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 212453,
       "name": "V\u00e4lkommen in",
       "url": "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji"

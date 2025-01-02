@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2718,
+  "num_followers": 2717,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAACqs/ruUJX+Qp+F67yIlZ1j",
+  "snapshot_id": "Z3M0AAAAAAAg9CXgiHq0baMR1KP0aLFz",
   "tracks": [
     {
       "added_at": null,
@@ -271,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
-        }
-      ],
-      "duration_ms": 158249,
-      "name": "OPUESTOS",
-      "url": "https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Caricia",
         "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 208240,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 158249,
+      "name": "OPUESTOS",
+      "url": "https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
         }
       ],
-      "duration_ms": 164052,
-      "name": "LENTO",
-      "url": "https://open.spotify.com/track/4tsqTxwsSejvLnnwW30kpx"
+      "duration_ms": 91658,
+      "name": "OJO DE DIOS",
+      "url": "https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
         }
       ],
-      "duration_ms": 91658,
-      "name": "OJO DE DIOS",
-      "url": "https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj"
+      "duration_ms": 164052,
+      "name": "LENTO",
+      "url": "https://open.spotify.com/track/4tsqTxwsSejvLnnwW30kpx"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Este Final",
-      "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
+      "duration_ms": 188687,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 188687,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
+      "duration_ms": 205320,
+      "name": "Este Final",
+      "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
     },
     {
       "added_at": null,
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 203633,
-      "name": "Hasta la Fantas\u00eda",
-      "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
+      "duration_ms": 218452,
+      "name": "Correr",
+      "url": "https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI"
     },
     {
       "added_at": null,
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 218452,
-      "name": "Correr",
-      "url": "https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI"
+      "duration_ms": 203633,
+      "name": "Hasta la Fantas\u00eda",
+      "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

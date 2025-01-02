@@ -1,12 +1,12 @@
 {
   "description": "This is \u9b3c\u982d\u660e\u91cc. The essential tracks, all in one playlist.",
-  "num_followers": 2239,
+  "num_followers": 2238,
   "original_name": "This Is \u9b3c\u982d\u660e\u91cc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAD5dHMTN6dmQMfIFmbidpJL",
+  "snapshot_id": "Z3M0AAAAAAAhGfSYl1NliOAqrbCBNNil",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "BYERONY",
+      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 295200,
       "name": "The One",
       "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u5922\u306e\u7cf8",
-        "url": "https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "From Fate",
-      "url": "https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
+        "name": "\u5922\u306e\u7cf8",
+        "url": "https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 184626,
-      "name": "BYERONY",
-      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
+      "duration_ms": 200933,
+      "name": "From Fate",
+      "url": "https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t"
     },
     {
       "added_at": null,
@@ -455,6 +455,38 @@
       "duration_ms": 260826,
       "name": "Star Arc",
       "url": "https://open.spotify.com/track/4rVJe6WIRlmH808XDC3rYq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
+        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 215653,
+      "name": "Dive to World",
+      "url": "https://open.spotify.com/track/3Yisssl9wA0HWNSpLf1BfI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 308786,
+      "name": "Esquisse",
+      "url": "https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P"
     },
     {
       "added_at": null,
@@ -491,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
-        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 215653,
-      "name": "Dive to World",
-      "url": "https://open.spotify.com/track/3Yisssl9wA0HWNSpLf1BfI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dear Doze Days",
         "url": "https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ"
       },
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 308786,
-      "name": "Esquisse",
-      "url": "https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P"
+      "duration_ms": 232053,
+      "name": "\u30b0\u30c3\u30c9\u30e2\u30fc\u30cb\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1vzmw0eSU8IWoUp7VDxRIY"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 238746,
       "name": "Desire Again Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
       "url": "https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "\u30b0\u30c3\u30c9\u30e2\u30fc\u30cb\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/1vzmw0eSU8IWoUp7VDxRIY"
     },
     {
       "added_at": null,

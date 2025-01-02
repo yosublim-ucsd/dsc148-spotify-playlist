@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129715,
+  "num_followers": 129718,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
+        "name": "Take You Dancing",
+        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Take You Dancing",
+      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
-        "name": "Take You Dancing",
-        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Take You Dancing",
-      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "If I Can't Have You",
-        "url": "https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "If I Can't Have You",
-      "url": "https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
+        "name": "If I Can't Have You",
+        "url": "https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 180488,
-      "name": "The Bottom",
-      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
         "name": "Know Your Worth",
         "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 139830,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
+      "duration_ms": 180488,
+      "name": "The Bottom",
+      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -743,6 +727,22 @@
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 139830,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
+        "name": "Free Spirit",
+        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Outta My Head (with John Mayer)",
+      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
         "name": "Anything You Want",
         "url": "https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 189280,
       "name": "New Man",
       "url": "https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
-        "name": "Free Spirit",
-        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Outta My Head (with John Mayer)",
-      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "2002",
-        "url": "https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+        "name": "2002",
+        "url": "https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -959,6 +943,22 @@
       "duration_ms": 147070,
       "name": "Let Me Move You - From the Netflix film \"Work It\"",
       "url": "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Craziest thing happened in my backyard",
-        "url": "https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6"
-      },
-      "artists": [
-        {
-          "name": "Ardhito Pramono",
-          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
-        }
-      ],
-      "duration_ms": 192233,
-      "name": "Here We Go Again / Fanboi",
-      "url": "https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
+        "name": "Craziest thing happened in my backyard",
+        "url": "https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6"
+      },
+      "artists": [
+        {
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+        }
+      ],
+      "duration_ms": 192233,
+      "name": "Here We Go Again / Fanboi",
+      "url": "https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
         "name": "All 4 Nothing (I'm So In Love)",
         "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
-        "name": "Spotify Singles - Christmas",
-        "url": "https://open.spotify.com/album/2sFIcASZWGhP0KyMPWemSE"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Feliz Navidad - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4uqRDeCgXPLQFYqA5uf5Tr"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/2sFIcASZWGhP0KyMPWemSE"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 148085,
+      "name": "Feliz Navidad - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4uqRDeCgXPLQFYqA5uf5Tr"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -1239,38 +1239,6 @@
       "duration_ms": 184346,
       "name": "Humbug Mountain Song",
       "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/4FjCAJoxMAle4m86IX0PzZ"
-      },
-      "artists": [
-        {
-          "name": "a!ka",
-          "url": "https://open.spotify.com/artist/6joZG8wmwfEVAxWSEhezJA"
-        }
-      ],
-      "duration_ms": 184347,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/2zCO8w8puVE1frDRpCBLuD"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
-        "name": "BAIL\u00c9 CON MI EX",
-        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -1307,6 +1275,22 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/4FjCAJoxMAle4m86IX0PzZ"
+      },
+      "artists": [
+        {
+          "name": "a!ka",
+          "url": "https://open.spotify.com/artist/6joZG8wmwfEVAxWSEhezJA"
+        }
+      ],
+      "duration_ms": 184347,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/2zCO8w8puVE1frDRpCBLuD"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
         "name": "Mixer",
         "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 192823,
       "name": "Mixer",
       "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
+        "name": "BAIL\u00c9 CON MI EX",
+        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     }
   ],
   "unique_name": "\u6d88\u9664\u58d3\u529b",

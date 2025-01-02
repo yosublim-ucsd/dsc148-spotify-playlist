@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 95532,
+  "num_followers": 95556,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Can You Feel It (Kevin Saunderson Remix)",
-        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
+        "name": "Best of Techno (Compilation Tracks)",
+        "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
       },
       "artists": [
         {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns"
         }
       ],
-      "duration_ms": 208210,
-      "name": "Can You Feel It - Kevin Saunderson Remix",
-      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
+      "duration_ms": 223626,
+      "name": "Throw",
+      "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -467,18 +463,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Best of Techno (Compilation Tracks)",
-        "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
+        "name": "Can You Feel It (Kevin Saunderson Remix)",
+        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
       },
       "artists": [
         {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns"
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         }
       ],
-      "duration_ms": 223626,
-      "name": "Throw",
-      "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
+      "duration_ms": 208210,
+      "name": "Can You Feel It - Kevin Saunderson Remix",
+      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
     },
     {
       "added_at": "2023-10-26 20:41:14",

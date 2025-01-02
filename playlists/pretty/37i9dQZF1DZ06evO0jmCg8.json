@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 75379,
+  "num_followers": 75390,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAD3DwtMnfc+5uVNSqarTiYh",
+  "snapshot_id": "Z3M0AAAAAAB/hj9Oox1HfrCJW06H047v",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 92893,
-      "name": "Snow Bound",
-      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
+      "duration_ms": 233000,
+      "name": "Dead Bury Their Dead",
+      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Dead Bury Their Dead",
-      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
+      "duration_ms": 92893,
+      "name": "Snow Bound",
+      "url": "https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn"
     },
     {
       "added_at": null,

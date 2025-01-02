@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 154122,
       "name": "Sailplane",
       "url": "https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 229824,
       "name": "Start out With Differences",
       "url": "https://open.spotify.com/track/5fITXhJcP55MMRlst8B8lY"
@@ -578,6 +578,24 @@
       "duration_ms": 264306,
       "name": "The Luck You Had",
       "url": "https://open.spotify.com/track/4Ulj9Yqe2F5GwhplK2WXm8"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211029,
+      "name": "Then People Forget",
+      "url": "https://open.spotify.com/track/1AjtK89Eq1tS44Iu4YFg3T"
     },
     {
       "album": {
@@ -682,7 +700,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 254528,
       "name": "Winona Ryder",
       "url": "https://open.spotify.com/track/3Ss1NP5PLQmRakgtYwUS0o"

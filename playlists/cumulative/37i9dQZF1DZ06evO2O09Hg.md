@@ -101,6 +101,6 @@
 | [Wishing Well](https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:14 | 2024-07-03 |  |
 | [World Tour \(Aquafina\)](https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 2:35 | 2024-09-12 | 2024-11-04 |
 | [World Tour \(Aquafina\)](https://open.spotify.com/track/42GhSb1Rca49SbHhunbc0z) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party \(Extended\)](https://open.spotify.com/album/51ojViy1d9Siz28EF08d49) | 2:35 | 2024-11-04 |  |
-| [Yacht Club \(feat\. Juice WRLD\)](https://open.spotify.com/track/5R2rsbwCDXORX2tLfprRmM) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Nuthin' 2 Prove](https://open.spotify.com/album/4qplno3lbet8WvuTGdDG3T) | 2:46 | 2024-07-03 | 2024-12-27 |
+| [Yacht Club \(feat\. Juice WRLD\)](https://open.spotify.com/track/5R2rsbwCDXORX2tLfprRmM) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Nuthin' 2 Prove](https://open.spotify.com/album/4qplno3lbet8WvuTGdDG3T) | 2:46 | 2024-07-03 |  |
 
 \*This playlist was first scraped on 2024-07-03. Prior content cannot be recovered.

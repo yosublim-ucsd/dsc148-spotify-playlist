@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 32754,
+  "num_followers": 32775,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAADF0LXxAuI41igaQE/aQQZg",
+  "snapshot_id": "Z3M0AAAAAAAHvkcUqPlqNI854fS0wClM",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 174683,
       "name": "PROCEDURE (feat. Latto)",
       "url": "https://open.spotify.com/track/0NrMjaEIssvhuzUhQOEwmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nasa 2",
+        "url": "https://open.spotify.com/album/3oYRwdyQKn5nTccm3LODnF"
+      },
+      "artists": [
+        {
+          "name": "Outta Space",
+          "url": "https://open.spotify.com/artist/21j9HxFstMjB7DzXWujBnB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 178956,
+      "name": "TouchDown",
+      "url": "https://open.spotify.com/track/7oqhhfWAQiUUUijb9FSsVG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Queen of Da Souf",
         "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 161538,
       "name": "Sex Lies (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nasa 2",
-        "url": "https://open.spotify.com/album/3oYRwdyQKn5nTccm3LODnF"
-      },
-      "artists": [
-        {
-          "name": "Outta Space",
-          "url": "https://open.spotify.com/artist/21j9HxFstMjB7DzXWujBnB"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 178956,
-      "name": "TouchDown",
-      "url": "https://open.spotify.com/track/7oqhhfWAQiUUUijb9FSsVG"
     },
     {
       "added_at": null,

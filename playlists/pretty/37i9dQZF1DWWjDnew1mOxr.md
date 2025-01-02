@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Sam Fender
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,496 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,521 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 59 | [Bliss](https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi), [Fears](https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT) | [Bliss](https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu) | 3:51 |
 | 60 | [Twist and Turn](https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Cardinals](https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp) | 3:14 |
 | 61 | [3AM](https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [3AM](https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx) | 3:31 |
-| 62 | [Cry at the Moon](https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Cry at the Moon](https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB) | 3:07 |
+| 62 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
 | 63 | [Does Only God Know That We're Lonely?](https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq) | 3:02 |
-| 64 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
+| 64 | [Cry at the Moon](https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Cry at the Moon](https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB) | 3:07 |
 | 65 | [Mr & Mrs Human Race](https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Mr & Mrs Human Race](https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H) | 2:55 |
 | 66 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 |
 | 67 | [Adrenaline](https://open.spotify.com/track/2fgktVdVpJnMcsrCtkzGm0) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Ballad Of A Bystander](https://open.spotify.com/album/3tbVVoG2U5m4IAnJTF3YyZ) | 3:00 |
-| 68 | [Fever Dream](https://open.spotify.com/track/0GYauYXRLca27TmK3VsiVK) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Fever Dream](https://open.spotify.com/album/1eceK22Ob6mCkjz4yYrFWM) | 3:24 |
-| 69 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
+| 68 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
+| 69 | [Fever Dream](https://open.spotify.com/track/0GYauYXRLca27TmK3VsiVK) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Fever Dream](https://open.spotify.com/album/1eceK22Ob6mCkjz4yYrFWM) | 3:24 |
 | 70 | [Better Day](https://open.spotify.com/track/0UG7NIRTR70z5rd7Nii1tl) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS), [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [10 For The People](https://open.spotify.com/album/79ARqZZ3ciUJVsJaIqh4N2) | 4:12 |
 | 71 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 |
 | 72 | [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 |
@@ -86,11 +86,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 76 | [Afternoon](https://open.spotify.com/track/76Ae2kmof1uEsE0uMmE5tC) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 2:05 |
 | 77 | [Sugarcoated](https://open.spotify.com/track/3EdGkRv8PkxVAoqkFcJR9L) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Sugarcoated](https://open.spotify.com/album/4dv356EKWiXo9Z9HZ1BPGa) | 4:11 |
 | 78 | [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 |
-| 79 | [On It](https://open.spotify.com/track/0iKYoUL481hFCTEp0ouxgt) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [On It](https://open.spotify.com/album/5CNFekoqEHJepwkq9qvY4X) | 3:45 |
-| 80 | [Personality Test](https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Personality Test](https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S) | 2:20 |
-| 81 | [Something To Hold On To](https://open.spotify.com/track/6nNxogHPcGYobCodixuKkr) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Something To Hold On To](https://open.spotify.com/album/7D8c36Se7rGEWmrIAVWRkd) | 3:12 |
+| 79 | [Personality Test](https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Personality Test](https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S) | 2:20 |
+| 80 | [On It](https://open.spotify.com/track/0iKYoUL481hFCTEp0ouxgt) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [On It](https://open.spotify.com/album/5CNFekoqEHJepwkq9qvY4X) | 3:45 |
+| 81 | [All Kinds of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 |
 | 82 | [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 |
-| 83 | [All Kinds of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 |
+| 83 | [Something To Hold On To](https://open.spotify.com/track/6nNxogHPcGYobCodixuKkr) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Something To Hold On To](https://open.spotify.com/album/7D8c36Se7rGEWmrIAVWRkd) | 3:12 |
 | 84 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 |
 | 85 | [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 |
 | 86 | [Stay Up](https://open.spotify.com/track/7i2ZntdYyNmcGnptw8Dhbw) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Stay Up](https://open.spotify.com/album/5J7fJeUi0ouBt8y4QWJYyY) | 3:17 |

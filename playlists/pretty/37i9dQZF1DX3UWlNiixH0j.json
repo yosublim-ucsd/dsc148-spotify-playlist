@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: MOROHA",
-  "num_followers": 59954,
+  "num_followers": 59961,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "Forest (feat. ACE COOL)",
-        "url": "https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5"
-      },
-      "artists": [
-        {
-          "name": "\u3093oon",
-          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
-        },
-        {
-          "name": "ACE COOL",
-          "url": "https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G"
-        }
-      ],
-      "duration_ms": 183397,
-      "name": "Forest - feat. ACE COOL",
-      "url": "https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
         "name": "Sorrow (feat. Mandark)",
         "url": "https://open.spotify.com/album/4g4MowiT8Au4qUYZABRcyQ"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 192857,
       "name": "Sorrow (feat. Mandark)",
       "url": "https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
+        "name": "Forest (feat. ACE COOL)",
+        "url": "https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5"
+      },
+      "artists": [
+        {
+          "name": "\u3093oon",
+          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
+        },
+        {
+          "name": "ACE COOL",
+          "url": "https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G"
+        }
+      ],
+      "duration_ms": 183397,
+      "name": "Forest - feat. ACE COOL",
+      "url": "https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 157889,
-      "name": "Ebi Fry",
-      "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
         "name": "\u9006\u3089\u3046\u7fbd",
         "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "Slow Motion Perception",
-        "url": "https://open.spotify.com/album/3y1yDShK721iCzxjmDCiTk"
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
       },
       "artists": [
         {
-          "name": "paranoid void",
-          "url": "https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx"
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
         }
       ],
-      "duration_ms": 216783,
-      "name": "Slow Motion Perception",
-      "url": "https://open.spotify.com/track/6eLMiSiERRlJkHu20umk5I"
+      "duration_ms": 157889,
+      "name": "Ebi Fry",
+      "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -947,6 +931,22 @@
       "duration_ms": 191747,
       "name": "World's Famous",
       "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
+        "name": "Slow Motion Perception",
+        "url": "https://open.spotify.com/album/3y1yDShK721iCzxjmDCiTk"
+      },
+      "artists": [
+        {
+          "name": "paranoid void",
+          "url": "https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx"
+        }
+      ],
+      "duration_ms": 216783,
+      "name": "Slow Motion Perception",
+      "url": "https://open.spotify.com/track/6eLMiSiERRlJkHu20umk5I"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
-        "url": "https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 274750,
-      "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
-      "url": "https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
         "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ea\u30d0\u30fc",
         "url": "https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 224864,
       "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ea\u30d0\u30fc",
       "url": "https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
+        "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
+        "url": "https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 274750,
+      "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
+      "url": "https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "\u30ad\u30ea\u30b3",
-        "url": "https://open.spotify.com/album/5oTBl4jE0kOqmrZefDnjOC"
+        "name": "HAPPY BIRTHDAY",
+        "url": "https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj"
       },
       "artists": [
         {
-          "name": "Helsinki Lambda Club",
-          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+          "name": "LAYRUS LOOP",
+          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
         }
       ],
-      "duration_ms": 224626,
-      "name": "\u30ad\u30ea\u30b3",
-      "url": "https://open.spotify.com/track/4GEbfJOxBQjCbTtG9CPZY9"
+      "duration_ms": 186766,
+      "name": "\u9b54\u6cd5\u4f7f\u3044\u306b\u306a\u308a\u305f\u304f\u3066",
+      "url": "https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "HAPPY BIRTHDAY",
-        "url": "https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj"
+        "name": "\u30ad\u30ea\u30b3",
+        "url": "https://open.spotify.com/album/5oTBl4jE0kOqmrZefDnjOC"
       },
       "artists": [
         {
-          "name": "LAYRUS LOOP",
-          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
         }
       ],
-      "duration_ms": 186766,
-      "name": "\u9b54\u6cd5\u4f7f\u3044\u306b\u306a\u308a\u305f\u304f\u3066",
-      "url": "https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab"
+      "duration_ms": 224626,
+      "name": "\u30ad\u30ea\u30b3",
+      "url": "https://open.spotify.com/track/4GEbfJOxBQjCbTtG9CPZY9"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
+        "name": "\u6148\u611bequal\u81ea\u611b",
+        "url": "https://open.spotify.com/album/66QgofGJtkPlUTXEz3iYjA"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "\u81ea\u6211\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/6fbQH4mvJma1OnnwpvZ4k2"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
         "name": "KissKissKiss (feat.Maika Loubt\u00e9)",
         "url": "https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 200376,
       "name": "KissKissKiss (feat.Maika Loubt\u00e9)",
       "url": "https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
-        "name": "\u6148\u611bequal\u81ea\u611b",
-        "url": "https://open.spotify.com/album/66QgofGJtkPlUTXEz3iYjA"
-      },
-      "artists": [
-        {
-          "name": "4s4ki",
-          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "\u81ea\u6211\u8b83\u6b4c",
-      "url": "https://open.spotify.com/track/6fbQH4mvJma1OnnwpvZ4k2"
     },
     {
       "added_at": "2024-12-24 15:00:32",

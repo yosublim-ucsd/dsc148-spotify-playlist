@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,920 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,958 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 51 | [Off The Wall](https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 |
 | 52 | [Screamin'](https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:36 |
 | 53 | [Albert's Shuffle \- 2002 Remix w/o Horns](https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 6:58 |
-| 54 | [La Llorona](https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn) | [Tim "Too Slim" Langford](https://open.spotify.com/artist/2kx2O6JbEPkAS2bfaVXswy) | [Broken Halo](https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S) | 2:58 |
-| 55 | [If You're Not Mine](https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:23 |
-| 56 | [Wham!](https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [For Collectors Only \(The Wham Of That Memphis Man\)](https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v) | 2:12 |
-| 57 | [Boogie Albert](https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h) | [Room To Move 1969 \- 1974](https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL) | 2:13 |
+| 54 | [If You're Not Mine](https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:23 |
+| 55 | [La Llorona](https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn) | [Tim "Too Slim" Langford](https://open.spotify.com/artist/2kx2O6JbEPkAS2bfaVXswy) | [Broken Halo](https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S) | 2:58 |
+| 56 | [Boogie Albert](https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h) | [Room To Move 1969 \- 1974](https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL) | 2:13 |
+| 57 | [Wham!](https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [For Collectors Only \(The Wham Of That Memphis Man\)](https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v) | 2:12 |
 | 58 | [Side Tracked](https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:05 |
 | 59 | [Homesick's Shuffle](https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Blues On The South Side](https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC) | 4:14 |
 | 60 | [Thank You Mr\. Poobah](https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:05 |

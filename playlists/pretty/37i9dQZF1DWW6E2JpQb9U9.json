@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 119039,
+  "num_followers": 119073,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
-        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 368743,
-      "name": "Paisano de Hurlingham",
-      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
         "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 247613,
       "name": "La Rueda M\u00e1gica - En Vivo",
       "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
+        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 368743,
+      "name": "Paisano de Hurlingham",
+      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Solito Vas (En Vivo Movistar Arena)",
+        "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 234571,
+      "name": "Solito Vas - En Vivo Movistar Arena",
+      "url": "https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Luna en Obras (En Vivo)",
         "url": "https://open.spotify.com/album/66DKPufdxOw4bYcshbAjl4"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 163014,
       "name": "O No? - En Vivo",
       "url": "https://open.spotify.com/track/5sncjhKWpdlgwQDJtWTvDA"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Solito Vas (En Vivo Movistar Arena)",
-        "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 234571,
-      "name": "Solito Vas - En Vivo Movistar Arena",
-      "url": "https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
+        "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
+      "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Nada Salvaje (En Vivo Estadio Obras)",
         "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 230693,
       "name": "De La Hoya - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
-        "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        },
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
-      "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Razzmatazz (En directo)",
-        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
+        "name": "Carretera Perdida (En Vivo)",
+        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
         }
       ],
-      "duration_ms": 180885,
-      "name": "Me envenenaste - En directo Razzmatazz",
-      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
+      "duration_ms": 290496,
+      "name": "Carretera Perdida - En Vivo",
+      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Carretera Perdida (En Vivo)",
-        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
-      },
-      "artists": [
-        {
-          "name": "Buitres",
-          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
-        }
-      ],
-      "duration_ms": 290496,
-      "name": "Carretera Perdida - En Vivo",
-      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
         "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 268960,
       "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
       "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Razzmatazz (En directo)",
+        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 180885,
+      "name": "Me envenenaste - En directo Razzmatazz",
+      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "XV A\u00f1os - En Vivo Estadio Obras",
+        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 377832,
+      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "M\u00fasica del Alma (En Vivo)",
         "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 448381,
       "name": "La Grange - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/3noiACsm4BRcQAYlJNmQoR"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "XV A\u00f1os - En Vivo Estadio Obras",
-        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 377832,
-      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
     }
   ],
   "unique_name": "Vivo de Rock",

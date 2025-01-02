@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,979 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,990 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 47 | [Something About The Name Jesus Pt\. 2 \(feat\. Rance Allen, Marvin Winans, John P\. Kee & Isaac Carree\)](https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Rance Allen](https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:36 |
 | 48 | [The One You Love/One Thing Remains \(feat\. Brandon Lake & Dante Bowe\)](https://open.spotify.com/track/6BnHuqER7ETLtTWMy4017Q) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 10:47 |
 | 49 | [Revolution](https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Boycott](https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf) | 5:39 |
-| 50 | [Thank God](https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI) | [Thank God](https://open.spotify.com/album/3SVVpAm8enSoy5Ab4NUQAR) | 4:14 |
+| 50 | [Always \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/3loaCZ2ZeolNXvrxmB3RaJ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 6:44 |
 
-Snapshot ID: `Z3HigAAAAAAEz71L5Q198ROz39pTKFYr`
+Snapshot ID: `Z3M0AAAAAADtWo5nF6R44Lv03rMrOrnI`

@@ -1,6 +1,6 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Justin Morales en portada.",
-  "num_followers": 136523,
+  "num_followers": 136549,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-11-08 16:28:41",
       "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 176324,
-      "name": "JESUS",
-      "url": "https://open.spotify.com/track/6OwjpJLqayrcTuzBvxoGMd"
-    },
-    {
-      "added_at": "2024-11-08 16:28:41",
-      "album": {
         "name": "Tiempos de Guerra",
         "url": "https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 172248,
       "name": "Tiempos de Guerra",
       "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
+    },
+    {
+      "added_at": "2024-11-08 16:28:41",
+      "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 176324,
+      "name": "JESUS",
+      "url": "https://open.spotify.com/track/6OwjpJLqayrcTuzBvxoGMd"
     },
     {
       "added_at": "2024-11-08 16:28:41",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-11-08 16:28:41",
       "album": {
+        "name": "Ni\u00f1o De Oro (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Ni\u00f1o De Oro",
+      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
+    },
+    {
+      "added_at": "2024-11-08 16:28:41",
+      "album": {
         "name": "Antonio Montana (Remix)",
         "url": "https://open.spotify.com/album/6Ek28uJYTugproEPiwJRZx"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 161640,
       "name": "Antonio Montana - Remix",
       "url": "https://open.spotify.com/track/7Gbt0nXReC7pb7Vf05hTJH"
-    },
-    {
-      "added_at": "2024-11-08 16:28:41",
-      "album": {
-        "name": "Ni\u00f1o De Oro (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Ni\u00f1o De Oro",
-      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
     },
     {
       "added_at": "2024-11-08 16:28:41",

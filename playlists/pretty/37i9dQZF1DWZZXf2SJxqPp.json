@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 141785,
+  "num_followers": 141797,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -257,22 +257,6 @@
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
-      "added_at": "2024-07-01 18:06:28",
-      "album": {
-        "name": "Technicolor Dream",
-        "url": "https://open.spotify.com/album/165OxgFnUaeMTJnYndej77"
-      },
-      "artists": [
-        {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
-        }
-      ],
-      "duration_ms": 250085,
-      "name": "Technicolor Dream",
-      "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Marechi\u00e0",
@@ -291,6 +275,22 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+    },
+    {
+      "added_at": "2024-07-01 18:06:28",
+      "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/165OxgFnUaeMTJnYndej77"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "duration_ms": 250085,
+      "name": "Technicolor Dream",
+      "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
     },
     {
       "added_at": "2024-07-19 20:42:14",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
     },
     {
+      "added_at": "2024-03-07 19:13:49",
+      "album": {
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Profite (Remixes)",
@@ -513,22 +529,6 @@
       "url": "https://open.spotify.com/track/7fbdTbr12vcmJhWgp58dvO"
     },
     {
-      "added_at": "2024-03-07 19:13:49",
-      "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Rust & Gold",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 289720,
+      "name": "Pays imaginaire",
+      "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Laberinto (Bosq Remix)",
         "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 289720,
-      "name": "Pays imaginaire",
-      "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -617,6 +617,22 @@
       "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
     },
     {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+    },
+    {
       "added_at": "2024-05-03 06:00:00",
       "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
@@ -635,22 +651,6 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Cabrioli",
-        "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
-      },
-      "artists": [
-        {
-          "name": "Moussa",
-          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
-        }
-      ],
-      "duration_ms": 152631,
-      "name": "Cabrioli",
-      "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
-    },
-    {
       "added_at": "2023-10-24 02:02:26",
       "album": {
         "name": "Carrossel Do Tempo",
@@ -823,6 +807,22 @@
       "duration_ms": 297440,
       "name": "Carrossel Do Tempo",
       "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Cabrioli",
+        "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
+      },
+      "artists": [
+        {
+          "name": "Moussa",
+          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
+        }
+      ],
+      "duration_ms": 152631,
+      "name": "Cabrioli",
+      "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1001,42 +1001,6 @@
       "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
-      },
-      "artists": [
-        {
-          "name": "Gary Luton",
-          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Don't Sing",
-        "url": "https://open.spotify.com/album/7HGiUWfOslsBiDEeJkzy4V"
-      },
-      "artists": [
-        {
-          "name": "Data",
-          "url": "https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8"
-        },
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 311950,
-      "name": "Don't Sing (Polo & Pan Remix)",
-      "url": "https://open.spotify.com/track/3e4OoM7ltrDn63xcZccpj1"
-    },
-    {
       "added_at": "2024-05-30 23:14:49",
       "album": {
         "name": "Genius of Love",
@@ -1059,22 +1023,38 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
+        "name": "Don't Sing",
+        "url": "https://open.spotify.com/album/7HGiUWfOslsBiDEeJkzy4V"
       },
       "artists": [
         {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+          "name": "Data",
+          "url": "https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 261224,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
+      "duration_ms": 311950,
+      "name": "Don't Sing (Polo & Pan Remix)",
+      "url": "https://open.spotify.com/track/3e4OoM7ltrDn63xcZccpj1"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
+      },
+      "artists": [
+        {
+          "name": "Gary Luton",
+          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1091,6 +1071,26 @@
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 261224,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
     },
     {
       "added_at": "2024-07-09 06:43:32",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
       "added_at": "2023-12-12 19:01:54",
       "album": {
         "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
@@ -1167,22 +1183,6 @@
       "duration_ms": 451362,
       "name": "Girl",
       "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1259,26 +1259,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "El Sabor del Viejo Mar",
-        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
+        "name": "Mopedbart",
+        "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Hubbabubbaklubb",
+          "url": "https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq"
         }
       ],
-      "duration_ms": 263265,
-      "name": "El Sabor del Viejo Mar",
-      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
+      "duration_ms": 312200,
+      "name": "Mopedbart",
+      "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1299,18 +1291,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Mopedbart",
-        "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
+        "name": "El Sabor del Viejo Mar",
+        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
       },
       "artists": [
         {
-          "name": "Hubbabubbaklubb",
-          "url": "https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 312200,
-      "name": "Mopedbart",
-      "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
+      "duration_ms": 263265,
+      "name": "El Sabor del Viejo Mar",
+      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
-      },
-      "artists": [
-        {
-          "name": "Art of November",
-          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
-        }
-      ],
-      "duration_ms": 229581,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Lost in Music",
         "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 208150,
       "name": "Lost in Music",
       "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "duration_ms": 229581,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
       "added_at": "2024-06-26 19:12:18",
@@ -1561,6 +1561,42 @@
       "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
     },
     {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Beginning (Totally Enormous Extinct Dinosaurs Remix)",
+        "url": "https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 350851,
+      "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
+      "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Une Beat Encore",
+        "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 196900,
+      "name": "Une Beat Encore",
+      "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
+    },
+    {
       "added_at": "2024-10-10 03:17:46",
       "album": {
         "name": "Lovesong",
@@ -1587,22 +1623,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Beginning (Totally Enormous Extinct Dinosaurs Remix)",
-        "url": "https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo"
+        "name": "Looking for the Sea",
+        "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
       },
       "artists": [
         {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        },
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Pupkulies & Rebecca",
+          "url": "https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K"
         }
       ],
-      "duration_ms": 350851,
-      "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
-      "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
+      "duration_ms": 213133,
+      "name": "Fou de toi",
+      "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1623,38 +1655,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Une Beat Encore",
-        "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 196900,
-      "name": "Une Beat Encore",
-      "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Looking for the Sea",
-        "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
-      },
-      "artists": [
-        {
-          "name": "Pupkulies & Rebecca",
-          "url": "https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Fou de toi",
-      "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Don't Stop Me Now",
         "url": "https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1"
       },
@@ -1667,22 +1667,6 @@
       "duration_ms": 208446,
       "name": "Don't Stop Me Now",
       "url": "https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd"
-    },
-    {
-      "added_at": "2024-07-01 18:08:26",
-      "album": {
-        "name": "Technicolor Dream",
-        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
-      },
-      "artists": [
-        {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Crystallize",
-      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1707,6 +1691,38 @@
       "duration_ms": 212885,
       "name": "Do Beijo",
       "url": "https://open.spotify.com/track/10e7D2zxoamqizmQ03C1RK"
+    },
+    {
+      "added_at": "2024-07-01 18:08:26",
+      "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1759,18 +1775,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+        "name": "TILT",
+        "url": "https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI"
       },
       "artists": [
         {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+      "duration_ms": 227520,
+      "name": "Feels Like A Different Thing",
+      "url": "https://open.spotify.com/track/4koWjqTL62F8WSWpuhwpvu"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1787,22 +1803,6 @@
       "duration_ms": 236136,
       "name": "Zaim",
       "url": "https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "TILT",
-        "url": "https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Feels Like A Different Thing",
-      "url": "https://open.spotify.com/track/4koWjqTL62F8WSWpuhwpvu"
     },
     {
       "added_at": "2023-08-14 14:58:41",

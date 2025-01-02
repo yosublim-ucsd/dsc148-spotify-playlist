@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 115082,
+  "num_followers": 115113,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAD3BFy4baPpuSGNKRc2cond",
+  "snapshot_id": "Z3M0AAAAAABp20isHsWQnpfvlj3pPAez",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Bols\u00f3n",
-        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
       "artists": [
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 231177,
-      "name": "El Bols\u00f3n",
-      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
+      "duration_ms": 246533,
+      "name": "Te Gustan Malos",
+      "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
     },
     {
       "added_at": null,
@@ -823,18 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+        "name": "El Bols\u00f3n",
+        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
       },
       "artists": [
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 246533,
-      "name": "Te Gustan Malos",
-      "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
+      "duration_ms": 231177,
+      "name": "El Bols\u00f3n",
+      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Escapatoria",
+        "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 205060,
+      "name": "Sin Escapatoria",
+      "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Misi\u00f3n (Episodio 4)",
         "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 293325,
       "name": "La Misi\u00f3n (Episodio 4)",
       "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Escapatoria",
-        "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 205060,
-      "name": "Sin Escapatoria",
-      "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 62862,
+  "num_followers": 62877,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAAP7m2TatZu0SSlyEAl8g0s",
+  "snapshot_id": "Z3M0AAAAAACKqxT0+DG5sWgTaVG/QVAx",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Arit",
+          "url": "https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS"
+        }
+      ],
+      "duration_ms": 219334,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F**K SONGS",
         "url": "https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi"
       },
@@ -107,30 +131,6 @@
       "duration_ms": 200586,
       "name": "T\u00c1 TARDE",
       "url": "https://open.spotify.com/track/0dyJ7rDk995cRo1ktfVmkP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Arit",
-          "url": "https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS"
-        }
-      ],
-      "duration_ms": 219334,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 152342,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/3bdgb8PuKpkA54t4SPN0cG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antes dos Gigantes Chegarem, Vol. 2",
         "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 305002,
       "name": "Antes dos Gigantes Chegarem",
       "url": "https://open.spotify.com/track/1Iz2RJFAbcyAwB9sOaXvLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 152342,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3bdgb8PuKpkA54t4SPN0cG"
     },
     {
       "added_at": null,
@@ -1139,30 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dois",
-        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 222858,
-      "name": "exalta",
-      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 232096,
       "name": "Gigantes",
       "url": "https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 222858,
+      "name": "exalta",
+      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
     },
     {
       "added_at": null,

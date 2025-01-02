@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,976 likes - 446 songs - 1 day 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,984 likes - 446 songs - 1 day 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,8 +185,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 175 | [Greenlight \- From "Songland"](https://open.spotify.com/track/5HgbcQFIHjNcn46w8ORwhu) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greenlight \(From "Songland"\)](https://open.spotify.com/album/3RRyP3NlMJOrPGxjrRfK5l) | 3:00 |
 | 176 | [Music Sounds Better \(feat\. Mann\)](https://open.spotify.com/track/21svHgL8NlWthrlW9Gy0BZ) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd), [Mann](https://open.spotify.com/artist/3sAHunotiQdUXKSsFj5KUg) | [Elevate](https://open.spotify.com/album/2vlQEIT6XEYVKfaKQwADnk) | 3:09 |
 | 177 | [Together \(feat\. Gwen Stefani\)](https://open.spotify.com/track/0otmDG441slQ7QYZUPgBcM) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:38 |
-| 178 | [FELL IN LOVE](https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:18 |
-| 179 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 |
+| 178 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 |
+| 179 | [FELL IN LOVE](https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:18 |
 | 180 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
 | 181 | [Ordinary Human](https://open.spotify.com/track/0VmdveDdlr2FMGwBljCfxA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Ordinary Human](https://open.spotify.com/album/1UhPPEJiu8RHhupj6aC4kh) | 4:50 |
 | 182 | [Bigger Love](https://open.spotify.com/track/4kcJsfPTr7RCrLQRvW7cyj) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:50 |
@@ -280,10 +280,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 270 | [Play](https://open.spotify.com/track/3qdtOI4KHrYS4drA8PLajG) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 2:51 |
 | 271 | [Savior](https://open.spotify.com/track/4VhR9r9zgzikeruUScgj8A) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:01 |
 | 272 | [Ships + Tides](https://open.spotify.com/track/0GUncXNah8KoaErnDd7H1L) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 4:56 |
-| 273 | [Satellite](https://open.spotify.com/track/0VTJI43ZlIaMt05ZdZ6HuN) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [The Wanted \(Special Edition\)](https://open.spotify.com/album/0NN3zv0dQ73NkBd8tM7wFj) | 3:02 |
-| 274 | [Finest Hour \- New Version](https://open.spotify.com/track/41isF5DR6sT9acqYDTQ7FS) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Finest Hour: The Best of Gavin DeGraw](https://open.spotify.com/album/0IMzbxnAqwRi6sm9s5oOJO) | 3:41 |
-| 275 | [Heartbreak Can Wait](https://open.spotify.com/track/2Yil4R2nh93IZEvdUyYWDc) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:21 |
-| 276 | [Unpretty](https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:44 |
+| 273 | [Unpretty](https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:44 |
+| 274 | [Satellite](https://open.spotify.com/track/0VTJI43ZlIaMt05ZdZ6HuN) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [The Wanted \(Special Edition\)](https://open.spotify.com/album/0NN3zv0dQ73NkBd8tM7wFj) | 3:02 |
+| 275 | [Finest Hour \- New Version](https://open.spotify.com/track/41isF5DR6sT9acqYDTQ7FS) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Finest Hour: The Best of Gavin DeGraw](https://open.spotify.com/album/0IMzbxnAqwRi6sm9s5oOJO) | 3:41 |
+| 276 | [Heartbreak Can Wait](https://open.spotify.com/track/2Yil4R2nh93IZEvdUyYWDc) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:21 |
 | 277 | [Forgot About You](https://open.spotify.com/track/73xYQWRzImNfVHhz0x9ETV) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:53 |
 | 278 | [Take It Home](https://open.spotify.com/track/45RspXN5oWquKcWiiScmkR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Take It Home](https://open.spotify.com/album/5nWFGfFaGM09JaawwjwXLF) | 2:46 |
 | 279 | [Run \(with Mariah Angeliq\) \- Latin Version](https://open.spotify.com/track/0RpCZ17BXI0x8b14UFrgDQ) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Run \(with Mariah Angeliq\) \[Latin Version\]](https://open.spotify.com/album/7tXGtR2l4iE3kvuCzFqLxL) | 2:16 |
@@ -455,4 +455,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 445 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 446 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AblpVAAAAACiq/WVRjpYEN6qJoJfvzLF`
+Snapshot ID: `Ablu4AAAAABg+TacC5lvfozTEPSTILq6`

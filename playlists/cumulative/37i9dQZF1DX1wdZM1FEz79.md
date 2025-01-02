@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Bok Dajin\(복다진\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Mingginyu\(밍기뉴\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-547 songs - 1 day 8 hr 30 min
+548 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Babo \(feat\. nafla\) \- Acoustic Version](https://open.spotify.com/track/7KLKXIfYCvAC6BOGXRUDNi) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [CAELO](https://open.spotify.com/album/3vbnZhZvjqL3H4sLIkk1Ra) | 3:48 | 2022-01-13 | 2022-04-21 |
 | [Baby I told you](https://open.spotify.com/track/27PvuEGJGW91wrP5q3khDD) | [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [Baby I told you](https://open.spotify.com/album/4RfQ0urMKBfgd7XF8iQNxc) | 2:44 | 2022-04-12 | 2022-04-19 |
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2021-12-10 | 2022-07-29 |
-| [Bad dream](https://open.spotify.com/track/3Rzke6SYrdZWuJqzuaBsqg) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [when the loved one comes as a nightmare](https://open.spotify.com/album/5LjcvrnhAJP6Og0GlW2V3N) | 3:37 | 2024-12-05 |  |
+| [Bad dream](https://open.spotify.com/track/3Rzke6SYrdZWuJqzuaBsqg) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [when the loved one comes as a nightmare](https://open.spotify.com/album/5LjcvrnhAJP6Og0GlW2V3N) | 3:37 | 2024-12-05 | 2025-01-02 |
 | [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 | 2022-12-20 | 2023-01-11 |
 | [Be Love](https://open.spotify.com/track/1Bpk1E0XMCkA30pu1GQLNB) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Be Love](https://open.spotify.com/album/6pc6IdDxGdtDQqYUtI3Oer) | 4:33 | 2022-03-31 | 2022-04-13 |
 | [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 | 2024-11-23 |
@@ -331,6 +331,7 @@
 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 | 2022-07-08 | 2024-04-19 |
 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 | 2022-03-31 | 2022-04-21 |
 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-03-31 | 2022-04-14 |
+| [Perhaps](https://open.spotify.com/track/4pawkVuIEMJX1NMQjZq2Al) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Perhaps](https://open.spotify.com/album/6q3yMOtkLEpTGkEmFsJxbT) | 3:03 | 2025-01-02 |  |
 | [PET](https://open.spotify.com/track/4ENLJt3lo1gHeCwzas8om1) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [50 X HALF](https://open.spotify.com/album/6Gb67WVk3hjMcQ6WhQmuRK) | 3:41 | 2022-03-31 | 2022-04-21 |
 | [Petal](https://open.spotify.com/track/1eozcOVAxDUMuDKWrkcmXR) | [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Petal](https://open.spotify.com/album/3ePGY33BivCQUdDcBKqWKx) | 4:04 | 2022-03-31 | 2022-04-11 |
 | [Petals on the Wind](https://open.spotify.com/track/6DX22kxAkmAXIsml8xuPv0) | [WABLE](https://open.spotify.com/artist/4gQewA50oTupuaVOVhFExE) | [Petals on the Wind](https://open.spotify.com/album/7nGDkeAohJaHt7wzETUaHL) | 3:25 | 2022-03-31 | 2022-04-12 |
@@ -351,10 +352,10 @@
 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 | 2021-12-10 | 2022-08-13 |
 | [Reason Why We Have To Break Up](https://open.spotify.com/track/1IBAhKP77WU0xMrynp5Ymv) | [Only U](https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C) | [Reason Why We Have To Break Up](https://open.spotify.com/album/4nwxtVuw1mxCzZ3SGIGEcu) | 3:22 | 2022-01-13 | 2022-06-25 |
 | [Regrets 미안한 마음](https://open.spotify.com/track/59PiMiACfGn5yfLTPcFeYA) | [PAPERCUT PROJECT](https://open.spotify.com/artist/40MbmSwJQPPCvWV2Q6Cuqp) | [Regrets 미안한 마음](https://open.spotify.com/album/3XsBCKZMBVB5eJt98fBJ9x) | 4:03 | 2022-03-31 | 2022-04-13 |
-| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 | 2024-12-11 |
+| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 |  |
 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 | 2022-03-31 |  |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-25 | 2024-09-03 |
-| [Romeo & Juliet](https://open.spotify.com/track/2WkJb27TKlVaNTM4vulZDy) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [‘BLUISH’ Unplugged](https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr) | 2:52 | 2024-12-10 |  |
+| [Romeo & Juliet](https://open.spotify.com/track/2WkJb27TKlVaNTM4vulZDy) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [‘BLUISH’ Unplugged](https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr) | 2:52 | 2024-12-10 | 2025-01-02 |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-12 | 2022-08-19 |
 | [Rosy](https://open.spotify.com/track/5HRZc7kGDmKvu2x5OhcRG6) | [Jeong Gayi](https://open.spotify.com/artist/0u4K1Tr32rIXpmYUhHhqP8) | [Rosy](https://open.spotify.com/album/2xS4080eyHIBBvJ0W31osc) | 3:18 | 2024-08-10 | 2024-08-23 |
 | [Running \- Acoustic](https://open.spotify.com/track/5MQoTAOrOjNafc4VPav9Rn) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [START\-UP \(Acoustic\)](https://open.spotify.com/album/6DaW5wC8oRPAuCSy4A4ggk) | 3:14 | 2021-12-10 | 2022-07-08 |

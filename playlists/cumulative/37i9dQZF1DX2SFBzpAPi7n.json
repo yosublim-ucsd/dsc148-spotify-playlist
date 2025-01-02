@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUAMEL(\ub8e8\uc544\uba5c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Lee Seung Yoon(\uc774\uc2b9\uc724)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -3447,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "Empty Space Above",
+        "url": "https://open.spotify.com/album/5hCKuPY5AWeMaIlTTTHpwa"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Empty Space Above",
+      "url": "https://open.spotify.com/track/5eek1iO2hgsffOssvVtICp"
+    },
+    {
+      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK"
       },
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 297533,
       "name": "Flash",
       "url": "https://open.spotify.com/track/20jlpOzNCCZzqkeVAQm8rV"
@@ -4650,6 +4668,24 @@
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "album": {
+        "name": "PUZZLE",
+        "url": "https://open.spotify.com/album/3IyCy5reObC7anLU5t1KjZ"
+      },
+      "artists": [
+        {
+          "name": "KEN",
+          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "Gradually",
+      "url": "https://open.spotify.com/track/2wdMvcn0OfxBislSqVFy7b"
     },
     {
       "album": {
@@ -10829,6 +10865,24 @@
     },
     {
       "album": {
+        "name": "S G T A P E - 02",
+        "url": "https://open.spotify.com/album/4ngTgk3EulbfnBvCKz1C0N"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1121939,
+      "name": "S G T A P E - 02",
+      "url": "https://open.spotify.com/track/7jkdHQiiYHhBNAvZeKAeRA"
+    },
+    {
+      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp"
       },
@@ -12738,7 +12792,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 225786,
       "name": "The forgotten memories",
       "url": "https://open.spotify.com/track/4m1ytjci4xhxT1C0PzZHhD"
@@ -14466,7 +14520,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 204614,
       "name": "You",
       "url": "https://open.spotify.com/track/2F6CENl6unVtch4oN2o7I5"

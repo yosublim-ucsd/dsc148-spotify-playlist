@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 217163,
+  "num_followers": 217220,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,26 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Por Mi M\u00e9xico",
+      "url": "https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "El Gabacho",
         "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 162617,
       "name": "El Gabacho",
       "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Por Mi M\u00e9xico",
-      "url": "https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "Me Voy a Poner Bien Loco",
-      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Pow Wow Wow",
         "url": "https://open.spotify.com/album/6ja3hrP2QFKJb7qhPpX3Cy"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 166293,
       "name": "Pow Wow Wow",
       "url": "https://open.spotify.com/track/6mmhluGpoTV7m49MG5krOY"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Me Voy a Poner Bien Loco",
+      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Estilo Malandro",
+      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Presidente",
         "url": "https://open.spotify.com/album/0jVUqz5x4VgFMYIof4Q64d"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 181064,
       "name": "Presidente",
       "url": "https://open.spotify.com/track/2q0wKlSmIWLdpCwwKjLPxZ"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Estilo Malandro",
-      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1735,8 +1735,8 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "La Misi\u00f3n (Episodio 4)",
-        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
+        "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
+        "url": "https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP"
       },
       "artists": [
         {
@@ -1744,17 +1744,13 @@
           "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         },
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 293325,
-      "name": "La Misi\u00f3n (Episodio 4)",
-      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
+      "duration_ms": 243999,
+      "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1955,8 +1951,8 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
-        "url": "https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP"
+        "name": "La Misi\u00f3n (Episodio 4)",
+        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
       },
       "artists": [
         {
@@ -1964,13 +1960,17 @@
           "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 243999,
-      "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx"
+      "duration_ms": 293325,
+      "name": "La Misi\u00f3n (Episodio 4)",
+      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "El Spider",
-        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 180589,
-      "name": "El Spider",
-      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Round 6",
         "url": "https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 216750,
       "name": "Round 6",
       "url": "https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "El Spider",
+        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 180589,
+      "name": "El Spider",
+      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
     },
     {
       "added_at": "2024-12-27 06:00:18",

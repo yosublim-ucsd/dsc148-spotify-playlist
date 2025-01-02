@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-265 songs - 15 hr 10 min
+266 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Flicker](https://open.spotify.com/track/2xkfXjYKy3IIh2jy42SHMC) | [Andora](https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [Flicker](https://open.spotify.com/album/0zbiEqttHyOelGd2SkUUAA) | 3:14 | 2024-04-08 |  |
 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 | 2024-02-04 |  |
 | [Full Moon Full Life](https://open.spotify.com/track/3Jl2LQmRwbXEF2lO1RTvxn) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 4:53 | 2024-05-08 |  |
+| [Gaikotsu Gakudan To Riria](https://open.spotify.com/track/1joOPSOAwgGOHZxUSaK9rC) | [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Seitou No Marche \(Standard Edition\)](https://open.spotify.com/album/5bjcGpvKfRk4ai8cJEcvbZ) | 3:21 | 2025-01-02 |  |
 | [GAME](https://open.spotify.com/track/3fp4ozT7rzn1Vax1OUOMtJ) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [DOLL](https://open.spotify.com/album/5JxQndpUT8K1ySB3EbFGhA) | 2:50 | 2024-06-03 |  |
 | [Go Go Wonderland](https://open.spotify.com/track/5WIuky12ctllWM8lAGFfVo) | [noiseless\-world](https://open.spotify.com/artist/1fzPkOEEMTM3S2RWteQjTj) | [2018](https://open.spotify.com/album/4j6gQbX2DOnPnP4gi5FdBu) | 3:55 | 2023-12-24 |  |
 | [Good Night](https://open.spotify.com/track/2Aeq6X8PmiZrzdC5WptzIL) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Play the world](https://open.spotify.com/album/4mnu3y4nJjpnT24fRUPlMD) | 3:57 | 2024-02-06 |  |

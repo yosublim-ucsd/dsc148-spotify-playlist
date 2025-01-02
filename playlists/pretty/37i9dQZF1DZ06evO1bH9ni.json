@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 332164,
+  "num_followers": 332223,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAADUkoeUGfpbCIcH1b7w748f",
+  "snapshot_id": "Z3M0AAAAAADo1/+9XsB8p9oZUmRkX+Oo",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Propina",
-        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142013,
-      "name": "La Propina",
-      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Que No Me Cuenten",
         "url": "https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 127728,
       "name": "Pa' Que No Me Cuenten",
       "url": "https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
     },
     {
       "added_at": null,

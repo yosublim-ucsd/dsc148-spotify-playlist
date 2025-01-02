@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 189025,
+  "num_followers": 189038,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAACx9+uEZqZnHADjiD2p8inn",
+  "snapshot_id": "Z3M0AAAAAAD09SxNsLWV83xnyEb+hQu4",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 118653,
-      "name": "You Gave Your Love To Me Softly",
-      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 223560,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 118653,
+      "name": "You Gave Your Love To Me Softly",
+      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 326293,
-      "name": "Tragic Girl",
-      "url": "https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 139093,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 326293,
+      "name": "Tragic Girl",
+      "url": "https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (White Album)",
-        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Do You Wanna Get High?",
-      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pacific Daydream",
         "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 177280,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer (White Album)",
+        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Do You Wanna Get High?",
+      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
     }
   ],
   "unique_name": "This Is Weezer",

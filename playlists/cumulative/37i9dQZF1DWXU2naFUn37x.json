@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 119850,
       "name": "CAFF\u00c8 AMARO",
       "url": "https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD"
@@ -7000,7 +7000,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 246857,
       "name": "IO ODIO IL GOVERNO!",
       "url": "https://open.spotify.com/track/7hJNjETbz8fNswSXQizENZ"
@@ -7106,7 +7106,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 130142,
       "name": "JANNIK SIPPER",
       "url": "https://open.spotify.com/track/6jUm9RA32o0tj7YIJ7XZkX"
@@ -11138,7 +11138,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 197181,
       "name": "POWER SLAP",
       "url": "https://open.spotify.com/track/0wHW7nZlqZqbxnmTotTLGp"
@@ -11216,6 +11216,24 @@
       "duration_ms": 194133,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/78jAJtOnoKtpHvXM8ByleE"
+    },
+    {
+      "album": {
+        "name": "Northside Melodies",
+        "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150349,
+      "name": "Problem Solver",
+      "url": "https://open.spotify.com/track/3X5Zw8zkIGULZEnJUwwJwj"
     },
     {
       "album": {
@@ -15016,6 +15034,24 @@
       "duration_ms": 117600,
       "name": "Whip Whip",
       "url": "https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f"
+    },
+    {
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125131,
+      "name": "WHY U MAD",
+      "url": "https://open.spotify.com/track/7dYgUWAIXFUniq5S2OkDZC"
     },
     {
       "album": {

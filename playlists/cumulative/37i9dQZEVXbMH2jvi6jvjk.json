@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "\"Heal'lang\"(folang)",
+        "url": "https://open.spotify.com/album/0MR41Liswk7VXV5Gq1JuY3"
+      },
+      "artists": [
+        {
+          "name": "DJ Janisto",
+          "url": "https://open.spotify.com/artist/49pDCx2fEbFhIhVwE37KZW"
+        },
+        {
+          "name": "Kharishma",
+          "url": "https://open.spotify.com/artist/3G3iXfLj7hbqflU59UiaAa"
+        },
+        {
+          "name": "Mack eaze",
+          "url": "https://open.spotify.com/artist/0Dx1YwCy8p6Kc7nl9YCHDl"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273711,
+      "name": "\"Heal'lang\"(folang)",
+      "url": "https://open.spotify.com/track/4Om6zFeaZy44UT5sLWfk1U"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -1956,7 +1982,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 402896,
       "name": "Amabhoza",
       "url": "https://open.spotify.com/track/3Aw4XtR8BopVdvJ1dGnevM"
@@ -2974,7 +3000,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -5896,7 +5922,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -5942,7 +5968,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 242179,
       "name": "Biri Marung (Edit) (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
       "url": "https://open.spotify.com/track/44Z9yOoNfCafT8nPZCimMs"
@@ -6288,7 +6314,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 548120,
       "name": "Bo Thata",
       "url": "https://open.spotify.com/track/219UdZ1b9vuUe45FK2JeWx"
@@ -9508,7 +9534,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 218274,
       "name": "Dali (feat. Bless The Gentleman & DJ Kap)",
       "url": "https://open.spotify.com/track/6ZiPVgBrULcpN0n9qQ3XO4"
@@ -10578,7 +10604,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -11854,7 +11880,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 407804,
       "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
       "url": "https://open.spotify.com/track/3E1PwVodPiDbBHOI85CO9M"
@@ -20682,7 +20708,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 395044,
       "name": "Iza Mawala (feat. Dladla Mshunqisi & Goldmax)",
       "url": "https://open.spotify.com/track/0Xc5lXQ1Q1NxGyL7SSXnF9"
@@ -20988,7 +21014,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 332382,
       "name": "Jealous Down (feat. Dr Skaro)",
       "url": "https://open.spotify.com/track/0WowHKVNsbEBaPLZbB4Zmj"
@@ -25354,7 +25380,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -30608,7 +30634,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 310680,
       "name": "Number 1 (feat. Iyanya, Prince Benza)",
       "url": "https://open.spotify.com/track/6nzdbRzlTopbYwutzoakvI"
@@ -33734,7 +33760,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -36136,6 +36162,36 @@
       "duration_ms": 227480,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3gmKj3ulv2GGeW4JkmphHE"
+    },
+    {
+      "album": {
+        "name": "My Music My Story",
+        "url": "https://open.spotify.com/album/7yUI4e53uazZYEd2f9ymik"
+      },
+      "artists": [
+        {
+          "name": "Shebeshxt",
+          "url": "https://open.spotify.com/artist/4bDFUYafgZILBp9Yv71mCS"
+        },
+        {
+          "name": "Kharishma",
+          "url": "https://open.spotify.com/artist/5ln4EWpJqQZEWXAlSNTtVz"
+        },
+        {
+          "name": "Tribbywadibhozza",
+          "url": "https://open.spotify.com/artist/1yPubUwc9KigNpYx7PfFfN"
+        },
+        {
+          "name": "Buddy Sax",
+          "url": "https://open.spotify.com/artist/0g3kKdweX3nXMy3VQTQZ7h"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229146,
+      "name": "Sebetse",
+      "url": "https://open.spotify.com/track/52ksAmL8oAhdxxHkfRng9f"
     },
     {
       "album": {
@@ -42274,7 +42330,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -43630,7 +43686,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -43886,7 +43942,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 368699,
       "name": "Uhambe Wrongo (feat. Mr. Maker)",
       "url": "https://open.spotify.com/track/40zr1pQlSaIWUYyR8APyy2"
@@ -45188,7 +45244,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 324000,
       "name": "Uvalo",
       "url": "https://open.spotify.com/track/3H8XWGDteOl8nmUqeYrHw5"
@@ -46046,7 +46102,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 285034,
       "name": "Wadibusa (feat. Royal MusiQ, OHP Sage, & Pcee)",
       "url": "https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI"

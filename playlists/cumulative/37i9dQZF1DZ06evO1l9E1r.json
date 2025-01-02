@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 88493,
       "name": "A Bad Comedian",
       "url": "https://open.spotify.com/track/5x7zV8WBDXfNCkUYOffc8d"
@@ -1214,6 +1214,24 @@
       "duration_ms": 298106,
       "name": "Leaving Home",
       "url": "https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8"
+    },
+    {
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51106,
+      "name": "Looking for Answers",
+      "url": "https://open.spotify.com/track/6CYwk3fy8OPIy4ibjNlNv6"
     },
     {
       "album": {

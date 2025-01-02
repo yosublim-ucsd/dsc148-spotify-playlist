@@ -323,6 +323,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+        "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 229939,
+      "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+      "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "Pyramide 2",
         "url": "https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 189569,
       "name": "La famine",
       "url": "https://open.spotify.com/track/2miptNhVu6KAZk5aaSUB3Y"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-        "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 229939,
-      "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-      "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "Absent",
-        "url": "https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "Absent",
-      "url": "https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "C'est l'heure",
         "url": "https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 149306,
       "name": "C'est l'heure",
       "url": "https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "Absent",
+        "url": "https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Absent",
+      "url": "https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "IMPOSTEUR",
+        "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Les d\u00e9mons de minuit",
+      "url": "https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 194311,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "IMPOSTEUR",
-        "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Les d\u00e9mons de minuit",
-      "url": "https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "Dans ma bulle",
-        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 152679,
-      "name": "Dans ma bulle",
-      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "AMOR\u00c9",
         "url": "https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 144394,
       "name": "AMOR\u00c9",
       "url": "https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "Dans ma bulle",
+        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 152679,
+      "name": "Dans ma bulle",
+      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
     },
     {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "MON ANN\u00c9E",
-        "url": "https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 148024,
-      "name": "MON ANN\u00c9E",
-      "url": "https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit"
-    },
-    {
       "added_at": "2024-12-20 05:00:25",
       "album": {
         "name": "West Coast",
@@ -775,6 +759,22 @@
       "duration_ms": 146680,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/3mFmzE2bIrEiLLyGwjfm11"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "MON ANN\u00c9E",
+        "url": "https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 148024,
+      "name": "MON ANN\u00c9E",
+      "url": "https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "Un v\u0153u",
-        "url": "https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 238683,
-      "name": "Un v\u0153u",
-      "url": "https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "STACKS",
         "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 220160,
       "name": "STACKS",
       "url": "https://open.spotify.com/track/4vTypaKlQmPqLLeYhRWptb"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "Un v\u0153u",
+        "url": "https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 238683,
+      "name": "Un v\u0153u",
+      "url": "https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

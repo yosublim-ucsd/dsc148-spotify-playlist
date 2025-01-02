@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 18515,
+  "num_followers": 18520,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAAagxwTUTYoypIW3qRh4R5h",
+  "snapshot_id": "Z3M0AAAAAAC91/7wopgXwCCHdQqqalxU",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 587746,
-      "name": "Matamua",
-      "url": "https://open.spotify.com/track/472kQ99QrEpFLaLBUglVF3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 587746,
+      "name": "Matamua",
+      "url": "https://open.spotify.com/track/472kQ99QrEpFLaLBUglVF3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reiki Hands of Love",
         "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
       },
@@ -495,38 +495,6 @@
       "duration_ms": 297333,
       "name": "Deeper than the Sky",
       "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 420160,
-      "name": "Black Velvet Flirt",
-      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 458373,
-      "name": "Tonglen",
-      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
     },
     {
       "added_at": null,
@@ -563,6 +531,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 458373,
+      "name": "Tonglen",
+      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 420160,
+      "name": "Black Velvet Flirt",
+      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reiki Healing",
         "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 566813,
-      "name": "Schein und Widerschein",
-      "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 383133,
       "name": "Deux",
       "url": "https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 566813,
+      "name": "Schein und Widerschein",
+      "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
     },
     {
       "added_at": null,

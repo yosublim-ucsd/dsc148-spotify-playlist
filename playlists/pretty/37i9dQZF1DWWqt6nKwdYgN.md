@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Adán Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,619 likes - 58 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,622 likes - 58 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 41 | [ICONIC PERRA](https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [ICONIC PERRA](https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU) | 2:04 |
 | 42 | [Con la Frente en Alto](https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4) | [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk) | [Con la Frente en Alto](https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz) | 3:02 |
 | 43 | [NADA QUE TEMER](https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg) | [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [L'Xuasma](https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO) | [NADA QUE TEMER](https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ) | 2:46 |
-| 44 | [Tu No La Corrite](https://open.spotify.com/track/3nppZvNY6FE4HSA11LUfFV) | [Pla La Sustancia](https://open.spotify.com/artist/6wTPPL1LzCVykuqxwnfHB7), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [Tu No La Corrite](https://open.spotify.com/album/4k4CKCgs1SdrgFTOT07dke) | 3:16 |
-| 45 | [Me Perdí](https://open.spotify.com/track/0MviaUXHVTPtSBrdI4jdbV) | [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [Me Perdí](https://open.spotify.com/album/3JztFYUCobcH797dwe4hL3) | 2:44 |
-| 46 | [LOOP ∞](https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b) | [ANOMALÍA](https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy) | 3:30 |
-| 47 | [Taxi](https://open.spotify.com/track/2smiMselSX5qEM0XOCHSaN) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Pocket Tincho](https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387) | [Fin de Semana](https://open.spotify.com/album/1r2zeTHOjHe991q5Hxr0MQ) | 3:09 |
+| 44 | [Me Perdí](https://open.spotify.com/track/0MviaUXHVTPtSBrdI4jdbV) | [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [Me Perdí](https://open.spotify.com/album/3JztFYUCobcH797dwe4hL3) | 2:44 |
+| 45 | [Tu No La Corrite](https://open.spotify.com/track/3nppZvNY6FE4HSA11LUfFV) | [Pla La Sustancia](https://open.spotify.com/artist/6wTPPL1LzCVykuqxwnfHB7), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [Tu No La Corrite](https://open.spotify.com/album/4k4CKCgs1SdrgFTOT07dke) | 3:16 |
+| 46 | [Taxi](https://open.spotify.com/track/2smiMselSX5qEM0XOCHSaN) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Pocket Tincho](https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387) | [Fin de Semana](https://open.spotify.com/album/1r2zeTHOjHe991q5Hxr0MQ) | 3:09 |
+| 47 | [LOOP ∞](https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b) | [ANOMALÍA](https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy) | 3:30 |
 | 48 | [DIME](https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Niko RST](https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd) | [DIME](https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE) | 3:43 |
 | 49 | [Manantial](https://open.spotify.com/track/5Tv8NKokEXGMfgAGNGdVgu) | [AEME](https://open.spotify.com/artist/1BvuliS0keIKrgH8dvvJQM), [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Manantial](https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3) | 3:14 |
 | 50 | [It's Okey](https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn) | [VIEF](https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [It's Okey](https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9) | 3:17 |

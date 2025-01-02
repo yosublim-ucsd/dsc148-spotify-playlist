@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 91092,
+  "num_followers": 91144,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
-      "added_at": "2024-09-13 09:24:57",
-      "album": {
-        "name": "Waiting on the Right Time",
-        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Waiting on the Right Time",
-      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Comin' From Where I'm From",
@@ -663,6 +647,22 @@
       "duration_ms": 273893,
       "name": "Cornbread, Fish & Collard Greens",
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
+    },
+    {
+      "added_at": "2024-09-13 09:24:57",
+      "album": {
+        "name": "Waiting on the Right Time",
+        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Waiting on the Right Time",
+      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
     },
     {
       "added_at": "2024-09-27 17:49:29",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "These Eyes",
-      "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
-    },
-    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Love Goes",
@@ -823,6 +807,22 @@
       "duration_ms": 166665,
       "name": "Love Goes",
       "url": "https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "These Eyes",
+      "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
     },
     {
       "added_at": "2024-10-25 08:08:52",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Glimmer",
-        "url": "https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD"
-      },
-      "artists": [
-        {
-          "name": "Velvet Bloom",
-          "url": "https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55"
-        }
-      ],
-      "duration_ms": 191594,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "A Love Story",
-        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
-      },
-      "artists": [
-        {
-          "name": "Vivian Green",
-          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Fanatic",
-      "url": "https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Bless My Soul",
         "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
       },
@@ -1203,6 +1171,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD"
+      },
+      "artists": [
+        {
+          "name": "Velvet Bloom",
+          "url": "https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55"
+        }
+      ],
+      "duration_ms": 191594,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "My Home (Love Brings Us Here) - Single",
         "url": "https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 213983,
       "name": "My Home (Love Brings Us Here)",
       "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "A Love Story",
+        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
+      },
+      "artists": [
+        {
+          "name": "Vivian Green",
+          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Fanatic",
+      "url": "https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Feels So Good (Don\u2019t It)",
+        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
+      },
+      "artists": [
+        {
+          "name": "Secret Rendezvous",
+          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
+        }
+      ],
+      "duration_ms": 209524,
+      "name": "Feels So Good Don\u2019t It",
+      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 117927,
       "name": "Home Improvement",
       "url": "https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Feels So Good (Don\u2019t It)",
-        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
-      },
-      "artists": [
-        {
-          "name": "Secret Rendezvous",
-          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
-        }
-      ],
-      "duration_ms": 209524,
-      "name": "Feels So Good Don\u2019t It",
-      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
     },
     {
       "added_at": "2024-10-25 08:08:52",

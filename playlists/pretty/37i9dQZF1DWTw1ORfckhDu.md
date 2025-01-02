@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Sliki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,587 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,600 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 30 | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/track/3OdKGNIndt3A6pfaF7BLAi) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Kojo](https://open.spotify.com/artist/6nUCZ9ZvQHA7Fhw0kweIG0), [Shabu](https://open.spotify.com/artist/3fL5w79svx1GI19mElGLns) | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/album/1KpsLP9rTo2iXkJF10kjb3) | 3:07 |
 | 31 | [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 |
 | 32 | [Jos Mä Oisin Bämä](https://open.spotify.com/track/338Se8AykwAEuu4wawaaDB) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Goat Talk](https://open.spotify.com/album/7m9ZYGQdXMX1mZbaO3vg4T) | 2:50 |
-| 33 | [UP NOW](https://open.spotify.com/track/42C5z31jTMKBi1YHgyq8wK) | [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om), [ez](https://open.spotify.com/artist/13b4x7l89ymNwCrh4dKmje) | [ONE AND ONLY](https://open.spotify.com/album/0d0AJkrzyUGTmwIk4KX3yP) | 2:42 |
+| 33 | [UP NOW](https://open.spotify.com/track/42C5z31jTMKBi1YHgyq8wK) | [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om) | [ONE AND ONLY](https://open.spotify.com/album/0d0AJkrzyUGTmwIk4KX3yP) | 2:42 |
 | 34 | [Kyyneliä kaulaliinaan](https://open.spotify.com/track/0DBzoxR8kYMKnEHXoRFrQZ) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Kyyneliä kaulaliinaan](https://open.spotify.com/album/4bt6rY5ycgP8rj3PVngHPh) | 2:55 |
 | 35 | [Made in JKL](https://open.spotify.com/track/503tNCYSpytvdZUXItTopa) | [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z), [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Kabinettimusiikkia](https://open.spotify.com/album/7uLT2h05Xvja8IdV6w3aLy) | 4:00 |
 | 36 | [Sut](https://open.spotify.com/track/0tf1KvEZyNBh7P84KVIcV2) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [houseparty](https://open.spotify.com/album/0wA2eLyY8Y3S8eR65lkK15) | 2:52 |

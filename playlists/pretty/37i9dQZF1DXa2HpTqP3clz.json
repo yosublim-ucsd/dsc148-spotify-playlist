@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Wood Box Heroes",
-  "num_followers": 164815,
+  "num_followers": 164827,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Alpenglow",
-        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "Highs and Lows",
         "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Hubbardville Store",
-        "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
       },
       "artists": [
         {
-          "name": "Lost Dog Street Band",
-          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 252520,
-      "name": "Hubbardville Store",
-      "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
+      "duration_ms": 225333,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -767,22 +751,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "Runaway Train",
         "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 260493,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Hubbardville Store",
+        "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
+      },
+      "artists": [
+        {
+          "name": "Lost Dog Street Band",
+          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Hubbardville Store",
+      "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -851,6 +851,26 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "Songs from Horizon",
+        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
+      },
+      "artists": [
+        {
+          "name": "Matt Combs",
+          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+        },
+        {
+          "name": "Teddy Morgan",
+          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
+        }
+      ],
+      "duration_ms": 132794,
+      "name": "Winds Forever Blow",
+      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 306440,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Songs from Horizon",
-        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
-      },
-      "artists": [
-        {
-          "name": "Matt Combs",
-          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
-        },
-        {
-          "name": "Teddy Morgan",
-          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
-        }
-      ],
-      "duration_ms": 132794,
-      "name": "Winds Forever Blow",
-      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "Saint Anthony",
+        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Saint Anthony",
-        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Disarm",
-        "url": "https://open.spotify.com/album/2aqRa79t97SrXRvmpmu6zn"
-      },
-      "artists": [
-        {
-          "name": "Chicken Wire Empire",
-          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
-        }
-      ],
-      "duration_ms": 222302,
-      "name": "Disarm",
-      "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "Kentucky Highway",
         "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 219493,
       "name": "Kentucky Highway",
       "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Disarm",
+        "url": "https://open.spotify.com/album/2aqRa79t97SrXRvmpmu6zn"
+      },
+      "artists": [
+        {
+          "name": "Chicken Wire Empire",
+          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
+        }
+      ],
+      "duration_ms": 222302,
+      "name": "Disarm",
+      "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "Will You Ever Be Mine",
         "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 158480,
       "name": "Will You Ever Be Mine",
       "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/66W5KTdHyd7pCtULDT6VLB"
+      },
+      "artists": [
+        {
+          "name": "Wood Box Heroes",
+          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Cross the Line",
+      "url": "https://open.spotify.com/track/5dv9FDaqpzYANipuHSfp6G"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 205933,
       "name": "She Left Me Standing on the Mountain",
       "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/66W5KTdHyd7pCtULDT6VLB"
-      },
-      "artists": [
-        {
-          "name": "Wood Box Heroes",
-          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Cross the Line",
-      "url": "https://open.spotify.com/track/5dv9FDaqpzYANipuHSfp6G"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "No Matter Where It Goes from Here",
-        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
+        "name": "Kinetic Tone",
+        "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
       },
       "artists": [
         {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
         }
       ],
-      "duration_ms": 236666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
+      "duration_ms": 292000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Kinetic Tone",
-        "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
+        "name": "No Matter Where It Goes from Here",
+        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
       },
       "artists": [
         {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
+      "duration_ms": 236666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1623,6 +1623,22 @@
       "duration_ms": 175128,
       "name": "All the Mornings Have an Echo",
       "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Last Road Going Home",
+        "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "Last Road Going Home",
+      "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Last Road Going Home",
-        "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
       },
       "artists": [
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
         }
       ],
-      "duration_ms": 214306,
-      "name": "Last Road Going Home",
-      "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
-      },
-      "artists": [
-        {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "When It All Falls Apart",
         "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
       },
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
+        "name": "So Much For Forever",
+        "url": "https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/5sVC9YU9VdVhQhGxayUX0n"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 235786,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "So Much For Forever",
-        "url": "https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
     },
     {
       "added_at": "2024-12-27 05:00:40",

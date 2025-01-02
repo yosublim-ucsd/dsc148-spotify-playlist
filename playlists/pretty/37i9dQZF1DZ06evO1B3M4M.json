@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 14104,
+  "num_followers": 14106,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3HigAAAAAD4FF3+85qAM+4aQogF2miP",
+  "snapshot_id": "Z3M0AAAAAAAUqrY6aisXkv4xqpiR9B3k",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Village",
+        "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 271480,
+      "name": "The Gravel Road - Score",
+      "url": "https://open.spotify.com/track/5ynPIIbdGo2OBoX9vcnUo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Dark Knight (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
       },
@@ -355,38 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maleficent (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 281493,
-      "name": "Aurora in Faerieland",
-      "url": "https://open.spotify.com/track/3G4oEYQPiRQE5O4ahs7OC8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Village",
-        "url": "https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 271480,
-      "name": "The Gravel Road - Score",
-      "url": "https://open.spotify.com/track/5ynPIIbdGo2OBoX9vcnUo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dinosaur",
         "url": "https://open.spotify.com/album/364YR5hc3wDSLIJfgrrqHi"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 177493,
       "name": "Inner Sanctum / The Nesting Grounds - From \"Dinosaur\"/Score",
       "url": "https://open.spotify.com/track/5JbuKh2rpieicj3ld8Yy2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maleficent (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 281493,
+      "name": "Aurora in Faerieland",
+      "url": "https://open.spotify.com/track/3G4oEYQPiRQE5O4ahs7OC8"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 125469,
-      "name": "He's Listening to You Tina",
-      "url": "https://open.spotify.com/track/5p8Phi6zi7bm5Ar8Sk4OpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantastic Beasts: The Secrets of Dumbledore (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 155613,
       "name": "I Know You Are There",
       "url": "https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 125469,
+      "name": "He's Listening to You Tina",
+      "url": "https://open.spotify.com/track/5p8Phi6zi7bm5Ar8Sk4OpT"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 130509,
-      "name": "In the Cells",
-      "url": "https://open.spotify.com/track/4s52mTzlRIeVofnNlL2qcg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dark Knight (Collectors Edition) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/3vARhx9vwOve3Xdu06vM8S"
       },
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 97200,
-      "name": "Fantastic Beasts Theme - Solo Piano",
-      "url": "https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi"
+      "duration_ms": 130509,
+      "name": "In the Cells",
+      "url": "https://open.spotify.com/track/4s52mTzlRIeVofnNlL2qcg"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
       "duration_ms": 184200,
       "name": "Healing Katniss",
       "url": "https://open.spotify.com/track/3Kgycp43ACNRDY3X9KTd9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "Fantastic Beasts Theme - Solo Piano",
+      "url": "https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blood Diamond (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 115906,
+      "name": "Archer & Solomon Hike",
+      "url": "https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
       },
@@ -811,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Diamond (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X"
+        "name": "The Last Airbender (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S"
       },
       "artists": [
         {
@@ -820,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 115906,
-      "name": "Archer & Solomon Hike",
-      "url": "https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u"
+      "duration_ms": 392853,
+      "name": "Flow Like Water",
+      "url": "https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Airbender (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 392853,
-      "name": "Flow Like Water",
-      "url": "https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
       },
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Original Motion Picture Score",
-        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 118413,
-      "name": "The Countdown",
-      "url": "https://open.spotify.com/track/3i3g2kJg5DMrp0rC5g98Ow"
+      "duration_ms": 87626,
+      "name": "Dumbledore's Theme - Solo Piano",
+      "url": "https://open.spotify.com/track/752Rr90DpIKYoe055QkIds"
     }
   ],
   "unique_name": "This Is James Newton Howard",

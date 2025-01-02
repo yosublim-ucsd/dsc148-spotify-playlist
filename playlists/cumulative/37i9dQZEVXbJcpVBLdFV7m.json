@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 146718,
       "name": "Doldum",
       "url": "https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd"
@@ -4628,6 +4628,32 @@
     {
       "album": {
         "name": "Evil Jordan",
+        "url": "https://open.spotify.com/album/3BUBj7P3WCMlpcF6uAvT7K"
+      },
+      "artists": [
+        {
+          "name": "fedo DJ",
+          "url": "https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3"
+        },
+        {
+          "name": "ciaffa",
+          "url": "https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x"
+        },
+        {
+          "name": "vampvampvamp",
+          "url": "https://open.spotify.com/artist/5T9Qk7MADn1JHGrd2QdCAG"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134499,
+      "name": "Evil Jordan",
+      "url": "https://open.spotify.com/track/0efLlKsfxZRupQc4JHymJQ"
+    },
+    {
+      "album": {
+        "name": "Evil Jordan",
         "url": "https://open.spotify.com/album/33j5cxdZ9rv8zsfHCHOnAr"
       },
       "artists": [
@@ -4646,7 +4672,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 134733,
       "name": "Evil Jordan",
       "url": "https://open.spotify.com/track/3vtJp67yAeJ0kr9GvnbImd"
@@ -4740,7 +4766,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -7616,7 +7642,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 181346,
       "name": "Italy Forma",
       "url": "https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY"
@@ -8360,6 +8386,28 @@
       "duration_ms": 148328,
       "name": "La",
       "url": "https://open.spotify.com/track/5XF583kr3Eojotxl6SOKF0"
+    },
+    {
+      "album": {
+        "name": "Hotel Cabana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
     },
     {
       "album": {
@@ -9192,7 +9240,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -9222,7 +9270,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -9916,7 +9964,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 296560,
       "name": "Missing - Todd Terry Club Mix",
       "url": "https://open.spotify.com/track/12JS8jXv0pcLAke3nIyejB"
@@ -9938,7 +9986,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 296560,
       "name": "Missing - Todd Terry Club Mix",
       "url": "https://open.spotify.com/track/2raDw4a7uZ4aQKw4eYB4s3"
@@ -12510,6 +12558,24 @@
     {
       "album": {
         "name": "HOP",
+        "url": "https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "Railway (Bang Chan)",
+      "url": "https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2"
+    },
+    {
+      "album": {
+        "name": "HOP",
         "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
       },
       "artists": [
@@ -12520,7 +12586,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 173640,
       "name": "Railway (Bang Chan)",
       "url": "https://open.spotify.com/track/4vNhzQfgfWIzOxbB8HfIHa"
@@ -14854,7 +14920,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 207794,
       "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
@@ -20179,6 +20245,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0435\u0432\u0435\u0440\u043d\u044f\u0448\u043a\u0438 \u043d\u0430\u0440\u043e\u0434\u043d\u0438 \u0445\u043e\u0440\u0430",
+        "url": "https://open.spotify.com/album/4y0usWzS3zXM5C1tQAmeo3"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0435\u043d \u0434\u0443\u0445\u043e\u0432 \u043e\u0440\u043a\u0435\u0441\u0442\u044a\u0440 \u043d\u0430 \u0416.\u041f.",
+          "url": "https://open.spotify.com/artist/2Jiu5WFtc7CFP5T5v1MaUD"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215017,
+      "name": "\u0414\u0443\u043d\u0430\u0432\u0441\u043a\u043e \u0445\u043e\u0440\u043e",
+      "url": "https://open.spotify.com/track/3VuG6DmcyM5KvWFPviZvqI"
+    },
+    {
+      "album": {
         "name": "\u0414\u044f\u0432\u043e\u043b \u043e\u0442 \u0420\u0430\u044f",
         "url": "https://open.spotify.com/album/3hMoxCqS2rl4HboPRwFSor"
       },
@@ -21120,6 +21204,28 @@
       "duration_ms": 221860,
       "name": "\u041d\u0438\u0449\u043e, \u0447\u0435 \u0435 \u043b\u0443\u0434\u0430",
       "url": "https://open.spotify.com/track/5LVk8bbIEAQY7zdB629IHb"
+    },
+    {
+      "album": {
+        "name": "\u041d\u043e\u0432\u0430 \u0413\u043e\u0434\u0438\u043d\u0430",
+        "url": "https://open.spotify.com/album/4PRIVQPgTHmsVLZAs2ORzQ"
+      },
+      "artists": [
+        {
+          "name": "\u0411\u043e\u0433\u0434\u0430\u043d\u0430 \u041a\u0430\u0440\u0430\u0434\u043e\u0447\u0435\u0432\u0430",
+          "url": "https://open.spotify.com/artist/4ij8HiPbLDVj3bcPeLvfgh"
+        },
+        {
+          "name": "\u0412\u0430\u0441\u0438\u043b \u041d\u0430\u0439\u0434\u0435\u043d\u043e\u0432",
+          "url": "https://open.spotify.com/artist/3vLt40czCCGpRlLmykAx3f"
+        }
+      ],
+      "date_added": "2025-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "\u041d\u043e\u0432\u0430 \u0413\u043e\u0434\u0438\u043d\u0430",
+      "url": "https://open.spotify.com/track/4Pe3yUvK5GBL0xAKfy7sV9"
     },
     {
       "album": {
@@ -22194,7 +22300,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-02",
       "duration_ms": 90604,
       "name": "\u10e9\u10e3\u10d1\u10d8\u10dc\u10d0",
       "url": "https://open.spotify.com/track/0s6vEUEL2Ij2tXXGLvgmLi"

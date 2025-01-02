@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,857 songs - 1 day 14 hr 3 min
+1,859 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Floating Petals \- Cello Version](https://open.spotify.com/track/5Ft1FvBxDCmbl2B5a0CI8q) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Ambient Preludes, Vol\. 2 \(Cello Version\)](https://open.spotify.com/album/17PzB2hpgvNhS4nIPMaGHr) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Floating Pink Petals](https://open.spotify.com/track/3zx3rEN5DKvxMCuZswtztF) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Simple Beauty](https://open.spotify.com/album/4QdKwwK6GK3RDguqX13o9J) | 1:03 | 2022-02-11 | 2024-01-30 |
 | [Floating Silently With You](https://open.spotify.com/track/107WqXxnRAFZqK7GX5wOtD) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Memories, Vol\. 2](https://open.spotify.com/album/4fgMhnmLUlZCGbz9Eh1ECd) | 0:59 | 2024-02-09 | 2024-02-13 |
+| [Flora](https://open.spotify.com/track/2zNxO6wDOLMmxWXjChMe09) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Flora](https://open.spotify.com/album/5qxkBySD34kR7TiY7lVqqT) | 1:00 | 2025-01-01 |  |
 | [Flow with the Wind](https://open.spotify.com/track/7zjICBUe0gFeP7LM4sWgHs) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Flow with the Wind](https://open.spotify.com/album/03UjkLKfTsGsBWZsEuzoQK) | 3:05 | 2022-01-12 | 2024-02-13 |
 | [Flowers](https://open.spotify.com/track/71fz81vFTtiuxJgUVYZ0oh) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:21 | 2022-01-12 |  |
 | [Flowers In The Sun](https://open.spotify.com/track/0TMtPVhTDQIfPGDHaBTMc1) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:14 | 2022-01-20 | 2024-01-30 |
@@ -1069,6 +1070,7 @@
 | [Mountain Walk Arr\. For Piano](https://open.spotify.com/track/3p8ywA1wFev1fUsbyu6nt3) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Mountain Walk](https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li) | 1:01 | 2023-07-01 | 2024-01-30 |
 | [Mountain Walk Arr\. For Strings](https://open.spotify.com/track/34Wl9HqIqp9Qc3cxzAsYMr) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Mountain Walk](https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li) | 1:00 | 2023-07-31 | 2024-02-13 |
 | [Mountain Walk Lullaby](https://open.spotify.com/track/6JiHMgnq24HAoZf1uyVqFM) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Three Soft Piano Lullabies](https://open.spotify.com/album/3rQoLYUaODWodjY4mksraY) | 1:00 | 2023-07-01 | 2024-01-30 |
+| [Mountains](https://open.spotify.com/track/0hK6yHQaI8NtXe2Dfwz6sH) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Mountains](https://open.spotify.com/album/6MBdjqkG6xBUrrxSRVgiGB) | 1:00 | 2025-01-01 |  |
 | [Moving](https://open.spotify.com/track/1PMIDkAWprB4On9rOyJxSg) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Moving](https://open.spotify.com/album/55xV2HHtGrGSdfUiMJriTh) | 1:00 | 2024-12-19 |  |
 | [Much Appreciation](https://open.spotify.com/track/6GrymcnkkdfZZhEOhEKu61) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Constant Glow](https://open.spotify.com/album/1GJvpTYe3wv4ZpjXwH1oUP) | 1:01 | 2023-04-08 | 2024-02-13 |
 | [Much Awaits For Us](https://open.spotify.com/track/1oMFrEKCvGKhd3Lx0E3DJR) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Simple Beauty](https://open.spotify.com/album/4QdKwwK6GK3RDguqX13o9J) | 1:03 | 2022-02-15 |  |
