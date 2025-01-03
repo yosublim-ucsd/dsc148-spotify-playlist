@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Delicatoni in cover della playlist con il meglio dell\u2019indie italiano \ud83d\udd25",
+  "description": "Francamente in cover della playlist con il meglio dell\u2019indie italiano \ud83d\udd25",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 147906,
       "name": "MIELE (scusa)",
       "url": "https://open.spotify.com/track/6pmIgVimnQs8dgohYE9SSB"
@@ -1928,6 +1928,24 @@
       "duration_ms": 201782,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW"
+    },
+    {
+      "album": {
+        "name": "Noi no",
+        "url": "https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196796,
+      "name": "Noi no",
+      "url": "https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7"
     },
     {
       "album": {
@@ -2606,7 +2624,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 226192,
       "name": "Sconosciuti",
       "url": "https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf"
@@ -2896,7 +2914,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 222025,
       "name": "Tonight gospel (feat. Mecna)",
       "url": "https://open.spotify.com/track/1vLaI6OG6I7DUunpuEy9ks"
@@ -3134,6 +3152,24 @@
       "duration_ms": 200624,
       "name": "Un Altro Universo",
       "url": "https://open.spotify.com/track/235IH4fO2EjnQuZmGjBg6c"
+    },
+    {
+      "album": {
+        "name": "Un momento migliore",
+        "url": "https://open.spotify.com/album/7yu27fd3zjgkPrsTYY4Q4v"
+      },
+      "artists": [
+        {
+          "name": "Andrea Laszlo De Simone",
+          "url": "https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362248,
+      "name": "Un momento migliore",
+      "url": "https://open.spotify.com/track/1drertInnr9h9odhSHkDsS"
     },
     {
       "album": {

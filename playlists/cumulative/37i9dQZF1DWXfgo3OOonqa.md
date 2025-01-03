@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,704 songs - 3 day 1 hr 59 min
+1,708 songs - 3 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [AfterParty](https://open.spotify.com/track/0ARF9LfcpSgZeT1NvcEFhZ) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd), [O’Melly](https://open.spotify.com/artist/4DkJGLzJj2E2FACgUyHdbl) | [AfterParty](https://open.spotify.com/album/6n5iwAOI25IQ6kmnSTiPL2) | 3:06 | 2023-08-10 | 2023-11-17 |
 | [AGERA](https://open.spotify.com/track/22PS8HKGq8QpgYERf9dzRZ) | [Rozh](https://open.spotify.com/artist/3SRes7eoE3xRodLopFKXWb) | [Alltid varit här](https://open.spotify.com/album/4NgQrhhZ5a451lLJK47qgv) | 2:56 | 2022-11-24 | 2023-01-27 |
 | [Aiko](https://open.spotify.com/track/3jEU1V6aIJR8cQWiKT8BNT) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Aiko](https://open.spotify.com/album/4HXJUqCo77UmYUR4USxu3F) | 2:26 | 2024-08-29 |  |
+| [Aj Aj Aj](https://open.spotify.com/track/55M6DeR1dnoeYU9Ig4nP3m) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H) | [Aj Aj Aj](https://open.spotify.com/album/1orU6gnKffJv1mg14FNVcl) | 2:07 | 2025-01-02 |  |
 | [AKHIRELLI](https://open.spotify.com/track/0LAdzBTGSi7csMiGhO4PhH) | [SHEKO](https://open.spotify.com/artist/2pWoxtfTw1z2Eg5fMvuEyj) | [AKHIRELLI](https://open.spotify.com/album/1A4AO0bckzybna3MHNZG1d) | 2:28 | 2024-12-12 |  |
 | [Aktiv](https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Spår av BLod](https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK) | 2:40 | 2023-10-26 | 2024-04-12 |
 | [AKTIV](https://open.spotify.com/track/11asg9CR2vxjzIlVu83C4j) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [AKTIV](https://open.spotify.com/album/7vsQV6WY4h5e4YuwfxYDLK) | 3:16 | 2024-04-25 | 2024-06-07 |
@@ -391,6 +392,7 @@
 | [DEEPER](https://open.spotify.com/track/6Xk5ST2mrdwy8YJZDQzzyb) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [DEEPER](https://open.spotify.com/album/0zlVIF8suaz3RPFDX5SCRh) | 2:36 | 2022-06-02 | 2022-07-22 |
 | [Demons](https://open.spotify.com/track/2zVvdOYwVkz2ownPMwsNhW) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [Demons](https://open.spotify.com/album/2qX5Wf692BSRABozOf5pDM) | 2:49 | 2021-12-16 | 2022-02-11 |
 | [Den ja e](https://open.spotify.com/track/3OGYS5Ptq6GzybyDjG74CQ) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [Den ja e](https://open.spotify.com/album/5r4AM90rT6yaN4BJxgEamH) | 2:34 | 2022-07-21 | 2022-08-12 |
+| [DERBY](https://open.spotify.com/track/6BbxOaw7A0RtJwFSqD3CT1) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [DERBY](https://open.spotify.com/album/7uJUZcxPHsROB24PV1GWE5) | 2:16 | 2025-01-02 |  |
 | [Deregna](https://open.spotify.com/track/4Iu0U8U9PkivbcJvSkrSqg) | [XO](https://open.spotify.com/artist/4kBuSaq9Vb6XlJUgqFie4a), [Loco Ivo](https://open.spotify.com/artist/5aQNmyn9l28EzN7uwneL0Y), [Gigo](https://open.spotify.com/artist/14RRQZprirjq9tBb9T1Kgw) | [Deregna](https://open.spotify.com/album/2CJ6Iw6i5bj9YbvQZLcRBl) | 3:50 | 2023-08-10 | 2023-08-13 |
 | [Devilish](https://open.spotify.com/track/21qmv5S238wxa9ZDiwbllJ) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Devilish](https://open.spotify.com/album/6gFdMohjEfbgysvBwTedKF) | 2:28 | 2022-09-15 | 2022-11-25 |
 | [Dexter](https://open.spotify.com/track/7lEvAbpXa91doVdZGMkQHy) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 2:55 | 2022-09-01 | 2022-09-30 |
@@ -527,6 +529,7 @@
 | [Fendi](https://open.spotify.com/track/08AN9OsR8KGiMmztL3AlaJ) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [Fendi](https://open.spotify.com/album/7wU4PQLb9WE6javqXaFTMt) | 2:24 | 2022-09-01 | 2022-10-21 |
 | [Festen](https://open.spotify.com/track/2d8Hb0xeptCrPKyZBbWcAr) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Festen](https://open.spotify.com/album/2QVsKkOYUzhBkxhOzr5fp1) | 2:37 | 2023-09-28 | 2023-10-13 |
 | [Festivallåten](https://open.spotify.com/track/5FszaD22ntnHwPdWKwmvQ6) | [Trainspotters](https://open.spotify.com/artist/4dq4bHaTzqLMpRwGJFuuxy), [Käp](https://open.spotify.com/artist/13jd8ireAONmQcSDY3cMka), [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c), [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [Festivallåten](https://open.spotify.com/album/2r1unkDCaBGTlPlO3LugcH) | 4:20 | 2022-08-04 | 2022-08-19 |
+| [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 | 2025-01-02 |  |
 | [Fin & Bad](https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Fin & Bad](https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d) | 2:01 | 2024-06-27 |  |
 | [First Day Out Freestyle](https://open.spotify.com/track/7hz1ew55h3msWUVZzM5yvi) | [Nilo](https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la) | [First Day Out Freestyle](https://open.spotify.com/album/4FVI2AZPkNLelqInOlkwIP) | 2:04 | 2022-10-27 | 2022-11-09 |
 | [FIRST PICK](https://open.spotify.com/track/0VLAg7TZY2v6Y8GlJx1gdq) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [FIRST PICK](https://open.spotify.com/album/3iD7enLyHRPGOXEl9ljJv6) | 2:01 | 2023-10-19 | 2024-02-27 |
@@ -1240,6 +1243,7 @@
 | [Propeller](https://open.spotify.com/track/4vPqkcOlDttVYbovaQKMt1) | [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp), [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Propeller](https://open.spotify.com/album/49WSWsHYhmcJEXQ27yTKfs) | 2:13 | 2024-01-11 | 2024-04-19 |
 | [PSG](https://open.spotify.com/track/00R2eVdkti9OZboefW2f4i) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [PSG](https://open.spotify.com/album/3DqTOXqAYA9sjSjpdQ7aHw) | 2:40 | 2024-09-26 |  |
 | [Psykopat](https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Psykopat](https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d) | 2:09 | 2023-09-21 | 2024-02-02 |
+| [PSYKOS](https://open.spotify.com/track/7o1G0OmFqkuojGQ72lYj5U) | [yoChris](https://open.spotify.com/artist/6zGzgzbLgfqpV9dxw1iyno) | [PSYKOS](https://open.spotify.com/album/2vpjksVF685ToElmIoFb4b) | 2:39 | 2025-01-02 |  |
 | [Psykos \(feat\. Nuqi\)](https://open.spotify.com/track/56X6QSC3uUyDuYPeSLbohK) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [2 Early 42 Late](https://open.spotify.com/album/2tIWsjmQDeGE3S2GLqIB4L) | 2:24 | 2024-04-25 | 2024-08-09 |
 | [PTSD](https://open.spotify.com/track/4hYamjfzU3VXJCUkfakO0J) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI) | [PTSD](https://open.spotify.com/album/45dplEuz4rtySVo6z5P65x) | 3:20 | 2023-01-26 | 2023-03-10 |
 | [PUERTO BANUS](https://open.spotify.com/track/5suSm6IuqrTNv6FpQH91sw) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [PUERTO BANUS](https://open.spotify.com/album/64zWt948Xq4UOVDJAHWt4p) | 2:47 | 2024-07-25 |  |

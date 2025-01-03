@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 180618,
       "name": "Azar Azar",
       "url": "https://open.spotify.com/track/4xdl1mVmS8lwVdwadHXL3A"
@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Gecenin En K\u00f6r\u00fcnde",
+        "url": "https://open.spotify.com/album/2YHMZpAMSFDKfioLADclSl"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Gecenin En K\u00f6r\u00fcnde",
+      "url": "https://open.spotify.com/track/4aX1wiMdIzdWFGGA7J2tfK"
+    },
+    {
+      "album": {
         "name": "Geri D\u00f6nemedim",
         "url": "https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC"
       },
@@ -1054,6 +1072,24 @@
       "duration_ms": 228693,
       "name": "Hayat Oyunu",
       "url": "https://open.spotify.com/track/7kKFuo8oXLGeaYr69bNDcE"
+    },
+    {
+      "album": {
+        "name": "Hepsi A\u015fktan",
+        "url": "https://open.spotify.com/album/0wF5iSxHrCD49n5HMnV8F2"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234153,
+      "name": "Hepsi A\u015fktan",
+      "url": "https://open.spotify.com/track/2jRTfbjS2PmBKJZm4fIyqT"
     },
     {
       "album": {
@@ -1268,7 +1304,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 223125,
       "name": "Ka\u00e7ak G\u00f6\u00e7ek",
       "url": "https://open.spotify.com/track/4y0kg2hqDbEG04NevUqNPF"

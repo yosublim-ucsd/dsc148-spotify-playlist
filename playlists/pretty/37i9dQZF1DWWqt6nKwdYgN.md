@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Adán Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,622 likes - 58 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,626 likes - 58 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 26 | [Tatequieto](https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Ily Wonder](https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI) | [Tatequieto](https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0) | 2:32 |
 | 27 | [Atlanta](https://open.spotify.com/track/2hFuezTQgiBRlR1pqfFeAx) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [ROMAN YOUGARETH](https://open.spotify.com/artist/1FZXkcxfsrrD0WTj9WMJFX) | [Atlanta](https://open.spotify.com/album/1M8RojczNaahkj0hIPgfzo) | 4:26 |
 | 28 | [Iluminado](https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Micelio](https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV) | 2:49 |
-| 29 | [Gato Negro](https://open.spotify.com/track/6RImeydrd1nwtrSRi6slr7) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Gato Negro](https://open.spotify.com/album/5eQtKd7746jDH4qftjyCO8) | 2:27 |
-| 30 | [Tiempo](https://open.spotify.com/track/18sOWAFBNwbZdVT9LUJK2t) | [Seyer Black Art Gang](https://open.spotify.com/artist/0ajXUlyQnejinmO6xvBXtG), [Pads Killah](https://open.spotify.com/artist/2GZ4RFJkhUfgZDSdDjbFDP) | [Cantinas Clandestinas](https://open.spotify.com/album/08RNfijVdidvS4iL801z1e) | 4:03 |
+| 29 | [Tiempo](https://open.spotify.com/track/18sOWAFBNwbZdVT9LUJK2t) | [Seyer Black Art Gang](https://open.spotify.com/artist/0ajXUlyQnejinmO6xvBXtG), [Pads Killah](https://open.spotify.com/artist/2GZ4RFJkhUfgZDSdDjbFDP) | [Cantinas Clandestinas](https://open.spotify.com/album/08RNfijVdidvS4iL801z1e) | 4:03 |
+| 30 | [Gato Negro](https://open.spotify.com/track/6RImeydrd1nwtrSRi6slr7) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Gato Negro](https://open.spotify.com/album/5eQtKd7746jDH4qftjyCO8) | 2:27 |
 | 31 | [FLAM](https://open.spotify.com/track/0G6HHWjYnMRXhB7wYBHjRj) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Ramiro Jota](https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga) | [FLAM](https://open.spotify.com/album/3MQVKKAUZfsYeELRjC1L75) | 2:24 |
 | 32 | [Loco \(Freestyle\)](https://open.spotify.com/track/52EQZLMsjySrQi2oMfV2nm) | [Alak](https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1) | [Loco](https://open.spotify.com/album/6AzLsAHLYtFMJSqDq0LoEb) | 2:11 |
 | 33 | [Bareto](https://open.spotify.com/track/1GN1BpgNVGbfqsKboa6HLu) | [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Bareto](https://open.spotify.com/album/5mI6Ifptn42GagjGZ91ccn) | 4:23 |

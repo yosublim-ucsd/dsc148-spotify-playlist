@@ -2,9 +2,9 @@
 
 ### [Afro Station](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover: Babyboy AV
+> Tracks popping off in the Afro scene\. Cover: Darkoo
 
-619 songs - 1 day 5 hr 42 min
+621 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Bonjour](https://open.spotify.com/track/0BkYNFe23cGq7herskna5k) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Bonjour](https://open.spotify.com/album/2OHIWGJpTUKx5WuEhJ2QoO) | 3:39 | 2024-11-28 |  |
 | [Bossy Girl](https://open.spotify.com/track/4msbsjQlixRbQU1NRE3eNw) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Bossy Girl](https://open.spotify.com/album/5VO01zNNWXMdYVXRx8oZpM) | 2:34 | 2023-11-23 | 2023-12-15 |
 | [Bottles](https://open.spotify.com/track/331ZKCTgF27kBC2W5vmRmV) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Bottles](https://open.spotify.com/album/1EhfKYJkIdRS5yYDnb3OKq) | 2:40 | 2023-08-24 | 2023-10-20 |
-| [Bouchekaraille](https://open.spotify.com/track/6EFPZqzXyfJVNJZYMDd8Ez) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Bouchekaraille](https://open.spotify.com/album/5m2o4mk2FM50Qi6hrPWhW8) | 3:04 | 2024-12-19 |  |
+| [Bouchekaraille](https://open.spotify.com/track/6EFPZqzXyfJVNJZYMDd8Ez) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Bouchekaraille](https://open.spotify.com/album/5m2o4mk2FM50Qi6hrPWhW8) | 3:04 | 2024-12-19 | 2025-01-03 |
 | [Bum Bum](https://open.spotify.com/track/3PXSh7uhLgcvq4gM3C3Xw1) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Davido](https://open.spotify.com/artist/2piG6G1NOfpr0lyzmh2ekW) | [Bum Bum](https://open.spotify.com/album/7uBGaBqKEEhjR7tIIpubNw) | 2:35 | 2024-12-19 |  |
 | [Bumbu](https://open.spotify.com/track/1OXXxrs4Q0x2Vn55tnV76E) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Bumbu](https://open.spotify.com/album/6BPgVZctI6VvO0dd4bbwE3) | 2:51 | 2023-09-07 | 2023-11-24 |
 | [Bunda](https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Bunda](https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ) | 3:34 | 2023-01-19 | 2023-06-23 |
@@ -220,6 +220,7 @@
 | [Finesse](https://open.spotify.com/track/6H4z94Rq4Gz7SzL7VmpGRR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Top Hits UK](https://open.spotify.com/album/49d0Ii0oCrS9BshhcpLRhr) | 2:35 | 2022-11-10 | 2022-11-14 |
 | [Flicky \- Bonus track](https://open.spotify.com/track/6A00ITrAOrMuEQvlhw27an) | [Man Like Maz](https://open.spotify.com/artist/2W40n1Ft9S6yMtBRPaKywG), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Road Man Capsule EP](https://open.spotify.com/album/6onOuwulVe72N7BU1ZrnzJ) | 2:50 | 2023-05-18 | 2023-06-08 |
 | [FO](https://open.spotify.com/track/0QC78byr4xeU188bszEBWn) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [T dans quel mood ?](https://open.spotify.com/album/2yNmy1w8BaC6QA4BBPVH77) | 2:43 | 2024-10-24 | 2024-11-29 |
+| [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 | 2025-01-02 |  |
 | [Fondili](https://open.spotify.com/track/7FTTX6qzR4TSPeyOxo2N2b) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Fondili](https://open.spotify.com/album/6nMH7VGRdE4HOSRRr2jdaQ) | 4:21 | 2024-05-02 | 2024-06-07 |
 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 | 2024-11-28 |  |
 | [Foreigner \- Remix](https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Foreigner \(Remix\)](https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR) | 3:53 | 2023-11-23 | 2024-01-13 |
@@ -386,7 +387,7 @@
 | [Mon Bebe](https://open.spotify.com/track/2FtGKTF64tiJozJqtMME0X) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Mon Bebe](https://open.spotify.com/album/4S4L8omUt8zh4RCgJaHRjx) | 2:21 | 2023-09-07 | 2023-11-24 |
 | [Mon bébé](https://open.spotify.com/track/6xCEcTtnWzkI6V1NEXJg0u) | [Souf](https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Sentiments](https://open.spotify.com/album/0HcsmCipLf78idaLFz9eo3) | 3:26 | 2024-10-03 | 2024-11-15 |
 | [Mona Lisa](https://open.spotify.com/track/6hz2R7LudNTURnmv6xVyEl) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [L'homme de l'ombre](https://open.spotify.com/album/3OfxwSnhcG7JCjyqjhO3OT) | 2:39 | 2023-12-14 | 2024-01-26 |
-| [MONA LISA](https://open.spotify.com/track/6K8yvIAG0B4k1p02oCBa0r) | [CJ Tell'm](https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T) | [MONA LISA](https://open.spotify.com/album/39DwulUHKfSGZiPo5uoGEs) | 3:26 | 2024-11-21 |  |
+| [MONA LISA](https://open.spotify.com/track/6K8yvIAG0B4k1p02oCBa0r) | [CJ Tell'm](https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T) | [MONA LISA](https://open.spotify.com/album/39DwulUHKfSGZiPo5uoGEs) | 3:26 | 2024-11-21 | 2025-01-03 |
 | [Monde entier](https://open.spotify.com/track/147pZmwBwNPncFbFhorZIl) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Honestly,](https://open.spotify.com/album/5RmNJ4XWLWKjU4dk6eYbSx) | 2:58 | 2024-06-27 | 2024-08-02 |
 | [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-27 | 2023-04-13 |
 | [Mood \(feat\. Khaid\)](https://open.spotify.com/track/7tG4123A00GMjBqFRrblMT) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Mood \(feat\. Khaid\)](https://open.spotify.com/album/0lmld57fQ3VDvT7p21CXPG) | 2:57 | 2024-07-25 | 2024-09-13 |
@@ -571,6 +572,7 @@
 | [Till The Morning](https://open.spotify.com/track/2TJ9teswbAP3c1nnZjQhHY) | [Kwambo](https://open.spotify.com/artist/6pef4qLfcO23IJsHw3NMqI), [TBaze](https://open.spotify.com/artist/2SPhk678zxqaCyAzyNk48r) | [Till The Morning](https://open.spotify.com/album/2Z8v0Ek07lSeRgONy3kS0V) | 2:45 | 2023-07-07 | 2023-07-28 |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-10-26 | 2024-04-19 |
 | [Time](https://open.spotify.com/track/534W5nlVhBthPSYSzrHYCM) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [The One Who Descends](https://open.spotify.com/album/6y3G0lel5n8pd29aTR41d9) | 2:21 | 2023-11-30 | 2024-01-13 |
+| [TMINIK \(In the House Pt.3\)](https://open.spotify.com/track/5fFGCF58y26aMagPB8Guhp) | [VinR](https://open.spotify.com/artist/0GGUWzxEVuDaFHnmoogMYk) | [TMINIK \(In the House Pt.3\)](https://open.spotify.com/album/6YcmwxtEhpM9j7rmgIArNB) | 3:07 | 2025-01-02 |  |
 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 | 2024-01-25 | 2024-04-05 |
 | [Tolo \(Faut m'oublier\)](https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Tolo \(Faut m'oublier\)](https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3) | 2:49 | 2024-05-02 | 2024-07-19 |
 | [Tomorrow](https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tomorrow](https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm) | 3:23 | 2024-05-16 | 2024-08-16 |

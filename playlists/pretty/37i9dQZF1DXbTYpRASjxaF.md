@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,695 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,684 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 34 | [Date](https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Date](https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK) | 2:40 |
 | 35 | [Santo de Casa](https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:22 |
 | 36 | [Caninana](https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Caninana](https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n) | 3:10 |
-| 37 | [Outra Hora](https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Outra Hora](https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw) | 3:17 |
-| 38 | [Paladar](https://open.spotify.com/track/62uUKrOmi2WzHlCpALbex5) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Paladar](https://open.spotify.com/album/6Y5GeHtdEKBESUSzCDZAng) | 1:52 |
+| 37 | [Paladar](https://open.spotify.com/track/62uUKrOmi2WzHlCpALbex5) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Paladar](https://open.spotify.com/album/6Y5GeHtdEKBESUSzCDZAng) | 1:52 |
+| 38 | [Outra Hora](https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Outra Hora](https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw) | 3:17 |
 | 39 | [Bala da Coruja](https://open.spotify.com/track/7MjUS0vMe6hQNSJQTAw4Vo) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Velloso](https://open.spotify.com/artist/5iIc1bz0IBPFdN5V5DjKrD), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [Bala da Coruja](https://open.spotify.com/album/16o1NNfY3fbjUM0oaVsyMQ) | 2:46 |
 | 40 | [Prazer Te Conhecer](https://open.spotify.com/track/1FW29XcpGqX66vYb0Nfo7X) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Prazer Te Conhecer](https://open.spotify.com/album/7k6nuBlMP5vYYQ4OLzuSLz) | 3:13 |
 | 41 | [Remessa Estrangeira \- Remix](https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN) | [2HEAVY BEATS](https://open.spotify.com/artist/2of4ilOUWTaYTqy3qgnUQQ), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1) | [Remessa Estrangeira \(Remix\)](https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr) | 1:57 |

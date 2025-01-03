@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Lola Young
 
-2,378 songs - 4 day 15 hr 42 min
+2,379 songs - 4 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -879,6 +879,7 @@
 | [Happy Alone](https://open.spotify.com/track/21M4y1IgfG4m4wnjCDhz0K) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [Happy Alone](https://open.spotify.com/album/4v0vNSsbpv8bbcIWA9iVsa) | 1:58 | 2023-08-10 | 2023-08-30 |
 | [happy end](https://open.spotify.com/track/6kxfeWb2WDi0XivpkRm6nU) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e), [John Known](https://open.spotify.com/artist/0iplr7ETf7yRX49OqYaVuM) | [happy end](https://open.spotify.com/album/52wLKrDdtrU9Y3yqNF8GqN) | 3:07 | 2022-06-13 | 2022-07-12 |
 | [Happy Nation](https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 4:15 | 2024-01-11 | 2024-01-19 |
+| [happy new year](https://open.spotify.com/track/0RRFV4t4vYoUDR93o57BMA) | [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [happy new year](https://open.spotify.com/album/0dTQbn11cLj5Q2Lnj1GT2w) | 2:56 | 2025-01-02 |  |
 | [HARDCORE](https://open.spotify.com/track/4MwWDUEPSGLdTKTUdOAXQz) | [Dennis Dies Das](https://open.spotify.com/artist/30ttvzupq5sM6n9NBx6uBx) | [HARDCORE](https://open.spotify.com/album/0G8FFBP9WFcCoH7StXwFuj) | 1:59 | 2023-07-27 | 2023-08-25 |
 | [Hardcore Vibes](https://open.spotify.com/track/355KRPH7R6NaRJBfxeY4z8) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Picco](https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK) | [Hardcore Vibes](https://open.spotify.com/album/7BnLMC4rqICGf1ZU4wdayc) | 2:36 | 2024-11-14 | 2024-12-13 |
 | [HASS](https://open.spotify.com/track/4rDRIKNXQ7NkdEsShjyq7M) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs), [can't be bought](https://open.spotify.com/artist/6aGfkA2a7j43EmYPnn3UJv) | [HASS](https://open.spotify.com/album/1R9qQhjLKPyTwDpzZdgjZE) | 2:11 | 2023-10-19 | 2023-11-17 |

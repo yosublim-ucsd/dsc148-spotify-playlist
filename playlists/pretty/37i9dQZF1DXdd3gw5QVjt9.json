@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1159929,
+  "num_followers": 1159876,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
+        "name": "Morning Is Made",
+        "url": "https://open.spotify.com/album/6pVhP4yZaSMv6tmy9MY7ti"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 175408,
+      "name": "Morning Is Made",
+      "url": "https://open.spotify.com/track/5njv7WRM11r6Xlul5wAy2T"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 221546,
       "name": "I Knew I Could Fly",
       "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
-        "name": "Morning Is Made",
-        "url": "https://open.spotify.com/album/6pVhP4yZaSMv6tmy9MY7ti"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 175408,
-      "name": "Morning Is Made",
-      "url": "https://open.spotify.com/track/5njv7WRM11r6Xlul5wAy2T"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/7w9jIIaTUlpYmLSgCNwbb0"
-      },
-      "artists": [
-        {
-          "name": "Handsome Ghost",
-          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
-        }
-      ],
-      "duration_ms": 199334,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/7wJj7JVgEbaakRVn9OJ2BF"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "New Girl",
         "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 224986,
       "name": "Is There Something Wrong With Me?",
       "url": "https://open.spotify.com/track/5lu2iqVrNKMcJxQGk7BYyi"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7w9jIIaTUlpYmLSgCNwbb0"
+      },
+      "artists": [
+        {
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+        }
+      ],
+      "duration_ms": 199334,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/7wJj7JVgEbaakRVn9OJ2BF"
     },
     {
       "added_at": "2024-08-23 14:59:54",

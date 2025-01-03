@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: frytz, BRUCKNER
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,591 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,605 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [allein mit dir](https://open.spotify.com/track/57FkG1a3mePzWzHie8WlRB) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [allein mit dir](https://open.spotify.com/album/657m1yXZ7fJA3K4P2hhi0x) | 2:09 |
 | 2 | [Walzer](https://open.spotify.com/track/6SowVm0zmhrJrbRgM4Rutz) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Walzer](https://open.spotify.com/album/1uYi1qfEzRX7xMgaM88uNk) | 3:21 |
-| 3 | [Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Balancieren](https://open.spotify.com/album/64R5uhq54bMnKC5cEw45B8) | 3:40 |
-| 4 | [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 |
-| 5 | [Waldbrand](https://open.spotify.com/track/68Obsp7H5akdfFR4geTZpD) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2mzXddPCtNlGzttAcr97ON) | 3:31 |
-| 6 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 |
-| 7 | [Familie](https://open.spotify.com/track/7cJNGxAHUpsLW0uZeJ6xa8) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Familie](https://open.spotify.com/album/13fqjcDPiG9xMQgnrqgHx5) | 3:05 |
-| 8 | [morgen](https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [morgen](https://open.spotify.com/album/1QuXsDeoXxLjRAOseNjHIY) | 3:47 |
-| 9 | [Aus dem Nichts](https://open.spotify.com/track/233zgukbOI7quzjK124SfJ) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [aus dem nichts tape](https://open.spotify.com/album/3SFvDIitK7fZMgzSbKpPi6) | 2:42 |
-| 10 | [Salz](https://open.spotify.com/track/7GQ5d2bSKkVSEyvw9LOBP3) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [vorgestern](https://open.spotify.com/album/5daSP3RsdrEdH2IdTUdRD1) | 2:35 |
-| 11 | [Fenster zum Hof](https://open.spotify.com/track/1yAh0ZVv86lZb2kdVOugjC) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Fenster zum Hof](https://open.spotify.com/album/5Ouzj8yhLALlpNlxDDojvD) | 2:47 |
-| 12 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 |
-| 13 | [Montag](https://open.spotify.com/track/6afDt2mkum1Vr04mAIkAwO) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Montag](https://open.spotify.com/album/0XhoOk9IsZJl2flKOgfg5j) | 3:05 |
-| 14 | [Manchmal so, Manchmal so](https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Manchmal so, Manchmal so](https://open.spotify.com/album/1j49KbJvkFrcrKqvWJeNDh) | 1:57 |
+| 3 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 |
+| 4 | [Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Balancieren](https://open.spotify.com/album/64R5uhq54bMnKC5cEw45B8) | 3:40 |
+| 5 | [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 |
+| 6 | [morgen](https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [morgen](https://open.spotify.com/album/1QuXsDeoXxLjRAOseNjHIY) | 3:47 |
+| 7 | [Waldbrand](https://open.spotify.com/track/68Obsp7H5akdfFR4geTZpD) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2mzXddPCtNlGzttAcr97ON) | 3:31 |
+| 8 | [Montag](https://open.spotify.com/track/6afDt2mkum1Vr04mAIkAwO) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Montag](https://open.spotify.com/album/0XhoOk9IsZJl2flKOgfg5j) | 3:05 |
+| 9 | [Salz](https://open.spotify.com/track/7GQ5d2bSKkVSEyvw9LOBP3) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [vorgestern](https://open.spotify.com/album/5daSP3RsdrEdH2IdTUdRD1) | 2:35 |
+| 10 | [Aus dem Nichts](https://open.spotify.com/track/233zgukbOI7quzjK124SfJ) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [aus dem nichts tape](https://open.spotify.com/album/3SFvDIitK7fZMgzSbKpPi6) | 2:42 |
+| 11 | [Wenn du mich lässt](https://open.spotify.com/track/2ZrLi8jo7CTd3xTjtuR8E6) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [Wenn du mich lässt](https://open.spotify.com/album/2JFTkm3wQL0ZIxgylYKZWB) | 3:32 |
+| 12 | [Fenster zum Hof](https://open.spotify.com/track/1yAh0ZVv86lZb2kdVOugjC) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Fenster zum Hof](https://open.spotify.com/album/5Ouzj8yhLALlpNlxDDojvD) | 2:47 |
+| 13 | [Manchmal so, Manchmal so](https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Manchmal so, Manchmal so](https://open.spotify.com/album/1j49KbJvkFrcrKqvWJeNDh) | 1:57 |
+| 14 | [Familie](https://open.spotify.com/track/7cJNGxAHUpsLW0uZeJ6xa8) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Familie](https://open.spotify.com/album/13fqjcDPiG9xMQgnrqgHx5) | 3:05 |
 | 15 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 |
-| 16 | [Ich hab Angst](https://open.spotify.com/track/39laCiQUfz9UO7E2gHWoVy) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Ich hab Angst](https://open.spotify.com/album/1hUaelyLAfs3iyb0gJfwIZ) | 3:01 |
-| 17 | [Hals über Kopf](https://open.spotify.com/track/0bJET87Db6DDCGEbvaChdg) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO), [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Hals über Kopf](https://open.spotify.com/album/43o5uTxyHMoY9J4WHg9hya) | 2:19 |
-| 18 | [niemand](https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [niemand](https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG) | 2:26 |
-| 19 | [4 Uhr](https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [4 Uhr](https://open.spotify.com/album/1PJdG5V66ybOSUHumjVoMf) | 3:00 |
-| 20 | [Ich dachte](https://open.spotify.com/track/6huKdWHyNUZyr9bjJHndox) | [Yisit](https://open.spotify.com/artist/2W2EfbWfhP8dccKjyEc7f4) | [Ich dachte](https://open.spotify.com/album/09ZAymOOe0iSxIvzefHlRC) | 2:14 |
-| 21 | [Rosarote Brille](https://open.spotify.com/track/4xGLfAGlNJVvpC1X1lCWAf) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Rosarote Brille](https://open.spotify.com/album/6JcRxfywMvls60m7s9CXfb) | 3:52 |
+| 16 | [Rosarote Brille](https://open.spotify.com/track/4xGLfAGlNJVvpC1X1lCWAf) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Rosarote Brille](https://open.spotify.com/album/6JcRxfywMvls60m7s9CXfb) | 3:52 |
+| 17 | [Ich hab Angst](https://open.spotify.com/track/39laCiQUfz9UO7E2gHWoVy) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Ich hab Angst](https://open.spotify.com/album/1hUaelyLAfs3iyb0gJfwIZ) | 3:01 |
+| 18 | [Hals über Kopf](https://open.spotify.com/track/0bJET87Db6DDCGEbvaChdg) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO), [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Hals über Kopf](https://open.spotify.com/album/43o5uTxyHMoY9J4WHg9hya) | 2:19 |
+| 19 | [niemand](https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [niemand](https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG) | 2:26 |
+| 20 | [4 Uhr](https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [4 Uhr](https://open.spotify.com/album/1PJdG5V66ybOSUHumjVoMf) | 3:00 |
+| 21 | [Ich dachte](https://open.spotify.com/track/6huKdWHyNUZyr9bjJHndox) | [Yisit](https://open.spotify.com/artist/2W2EfbWfhP8dccKjyEc7f4) | [Ich dachte](https://open.spotify.com/album/09ZAymOOe0iSxIvzefHlRC) | 2:14 |
 | 22 | [zwischendrin verliebt](https://open.spotify.com/track/4cfEKx32p9CV07CfHWXXdT) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [zwischendrin verliebt](https://open.spotify.com/album/6nX8JYjiIt34TspNoUbczf) | 2:46 |
 | 23 | [über rot](https://open.spotify.com/track/1ulrYt2UofgDztMYaFAqUV) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4), [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [über rot](https://open.spotify.com/album/1bzfK4SRN5lZnYvkDDvKrR) | 2:04 |
 | 24 | [Tanzen](https://open.spotify.com/track/43VBNtrjwo5RMxfoeHp8ST) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Tanzen](https://open.spotify.com/album/22IcAvyJCl7mLyENnc0vAu) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Seifenspender](https://open.spotify.com/track/3i4JuEQQ9EuSzWH8QIjZHy) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seifenspender](https://open.spotify.com/album/5S3Sinq4pawxn7jzTkXwi6) | 2:44 |
 | 75 | [Innenhof](https://open.spotify.com/track/57IRJnCO1pkHBdSBL4e08X) | [Jette Sorgenfrey](https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT) | [Innenhof](https://open.spotify.com/album/6zYNjyY25QsA5bTiQUgxv7) | 2:31 |
 
-Snapshot ID: `Z2SlmQAAAACLE52g4mawXF5djORyCrgV`
+Snapshot ID: `Z3Z6ZgAAAADb5NXGCEMLzPCySIUTKA5y`

@@ -2979,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "\u304d\u3089\u308a\u3093\u2606\u30ec\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30fb\u30bd\u30f3\u30b0\u30fb\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 (5)",
+        "url": "https://open.spotify.com/album/1W9vnBbk3VJgvIZwgasYQ1"
+      },
+      "artists": [
+        {
+          "name": "\u96ea\u91ce\u306e\u3048\u308b starring \u5317\u539f\u6c99\u5f25\u9999",
+          "url": "https://open.spotify.com/artist/5Yz9YjEMV8fJPW9mZ5Lm5n"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "\u8ca0\u3051\u3093\u6c17\uff01\u5f37\u6c17\uff01\u5143\u6c17\uff01\u524d\u5411\u304d\uff01",
+      "url": "https://open.spotify.com/track/16rnSK4y4AEinny7crgWaD"
+    },
+    {
+      "album": {
         "name": "\u30c6\u30ec\u30d3\u671d\u65e5\u300c\u30b9\u30fc\u30d1\u30fcJ\u30c1\u30e3\u30f3\u30cd\u30eb\u300d2020\u30c6\u30fc\u30de\u66f2",
         "url": "https://open.spotify.com/album/3Z2aAAtsS4PcOuunrPyYNe"
       },

@@ -455,6 +455,22 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
+        "name": "Au fil des \u00e9motions",
+        "url": "https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lyne",
+          "url": "https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Je suis content",
+      "url": "https://open.spotify.com/track/76Kng3M8uChs6RVq05l5v0"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
         "name": "Une colombe",
         "url": "https://open.spotify.com/album/392eSZskLbb3cUW5ybv6ls"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 206300,
       "name": "Une colombe",
       "url": "https://open.spotify.com/track/5vVAWiCQWmdwMBpO3nkOCQ"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "Au fil des \u00e9motions",
-        "url": "https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lyne",
-          "url": "https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Je suis content",
-      "url": "https://open.spotify.com/track/76Kng3M8uChs6RVq05l5v0"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg"
         }
       ],
-      "duration_ms": 135373,
-      "name": "J'ai trop la honte",
-      "url": "https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj"
+      "duration_ms": 127840,
+      "name": "Je suis d\u00e9go\u00fbt\u00e9(e)",
+      "url": "https://open.spotify.com/track/4fSolIPapbSByj1hUch5Zf"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Les Girafes Se Pavanent",
-        "url": "https://open.spotify.com/album/49ZEytqL33KqYBwljIleGM"
+        "name": "Chansons polies pour enfants \u00e9nerv\u00e9s",
+        "url": "https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM"
       },
       "artists": [
         {
-          "name": "Monsieur Lotus",
-          "url": "https://open.spotify.com/artist/46tbcnmLXFRWImGYluUQUt"
+          "name": "LAFREUX",
+          "url": "https://open.spotify.com/artist/0ReEJ0psDLp8mqOI5LVmKr"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Les Girafes Se Pavanent",
-      "url": "https://open.spotify.com/track/1izSRf63idvZ6rUpT7pq4q"
+      "duration_ms": 152000,
+      "name": "Non oui",
+      "url": "https://open.spotify.com/track/2bNp29G1UCFD1PcctgsBgy"
     }
   ],
   "unique_name": "Bo\u00eete \u00e0 jouets",

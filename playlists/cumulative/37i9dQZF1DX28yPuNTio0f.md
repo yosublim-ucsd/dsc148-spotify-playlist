@@ -2,7 +2,7 @@
 
 ### [Summer Hits \(3\)](https://open.spotify.com/playlist/37i9dQZF1DX28yPuNTio0f)
 
-> The sound of Summer 2024!
+> The sound of Summer 2025!
 
 93 songs - 4 hr 55 min
 

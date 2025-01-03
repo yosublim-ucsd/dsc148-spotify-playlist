@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Are Square",
-  "num_followers": 16848,
+  "num_followers": 16862,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "\u30ab\u30b2\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
         "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
         "url": "https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 188130,
       "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
       "url": "https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "\u30ab\u30b2\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "\u30b7\u30ca\u30e2\u30f3",
-        "url": "https://open.spotify.com/album/1elcAkVQ1N96cWUVhl4HOA"
-      },
-      "artists": [
-        {
-          "name": "ChoQMay",
-          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
-        }
-      ],
-      "duration_ms": 233442,
-      "name": "\u30b7\u30ca\u30e2\u30f3",
-      "url": "https://open.spotify.com/track/5EykrIDBVN1JdcM6BwBFsg"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
         "name": "\u82b1\u74f6",
         "url": "https://open.spotify.com/album/3E1jH7u9XAM37uI8xr8ass"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 223285,
       "name": "\u82b1\u74f6",
       "url": "https://open.spotify.com/track/28gzgrmeBwSpDHxIidG1GH"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "\u30b7\u30ca\u30e2\u30f3",
+        "url": "https://open.spotify.com/album/1elcAkVQ1N96cWUVhl4HOA"
+      },
+      "artists": [
+        {
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "duration_ms": 233442,
+      "name": "\u30b7\u30ca\u30e2\u30f3",
+      "url": "https://open.spotify.com/track/5EykrIDBVN1JdcM6BwBFsg"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "21 century boys",
-        "url": "https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j"
-      },
-      "artists": [
-        {
-          "name": "SATOH",
-          "url": "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
-        }
-      ],
-      "duration_ms": 189629,
-      "name": "21 century boys",
-      "url": "https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
         "name": "daratto",
         "url": "https://open.spotify.com/album/6ub5vVdPmp568lPaBwPBDA"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 234920,
       "name": "daratto",
       "url": "https://open.spotify.com/track/2xQ6WvFriFHAJR3ngSICRr"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "21 century boys",
+        "url": "https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j"
+      },
+      "artists": [
+        {
+          "name": "SATOH",
+          "url": "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
+        }
+      ],
+      "duration_ms": 189629,
+      "name": "21 century boys",
+      "url": "https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "3036",
-        "url": "https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX"
-      },
-      "artists": [
-        {
-          "name": "Hump Back",
-          "url": "https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI"
-        }
-      ],
-      "duration_ms": 70110,
-      "name": "3036",
-      "url": "https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
         "name": "\u4e00\u7d1a\u54c1",
         "url": "https://open.spotify.com/album/6zhHgXrsu6oiyKI0JClQUK"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 154733,
       "name": "ook",
       "url": "https://open.spotify.com/track/4n9TLhUesjEQHdBf3z8SuK"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "3036",
+        "url": "https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX"
+      },
+      "artists": [
+        {
+          "name": "Hump Back",
+          "url": "https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI"
+        }
+      ],
+      "duration_ms": 70110,
+      "name": "3036",
+      "url": "https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4r9kTQXkHYolHE2QjcAhSV"
+      },
+      "artists": [
+        {
+          "name": "WHISPER OUT LOUD",
+          "url": "https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4mMkZuiys5j0deMIS4hiVG"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
         "name": "\u3044\u3051\u306a\u3044\u30b5\u30f3\u30bf",
         "url": "https://open.spotify.com/album/2uFRmKBA9gh0d0yVxtsqxj"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 168853,
       "name": "\u30dc\u30fc\u30a4\u30ba\u30a2\u30f3\u30c9\u30ac\u30fc\u30eb\u30ba",
       "url": "https://open.spotify.com/track/2zcGKQTvGiFh7jOipeAOQr"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/4r9kTQXkHYolHE2QjcAhSV"
-      },
-      "artists": [
-        {
-          "name": "WHISPER OUT LOUD",
-          "url": "https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4mMkZuiys5j0deMIS4hiVG"
     },
     {
       "added_at": "2024-12-24 15:00:00",

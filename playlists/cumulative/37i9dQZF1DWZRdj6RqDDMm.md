@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=\_DP1pOcnRWygI85Vp4Ct0w> Marizu,  <a href=https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=wFE5h9yTS\-\-vUzB3NTyz8g>Reblah, <a href=https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3?si=5XSIjLnDS5\-y8SW79b45tw>IMRHAN
 
-402 songs - 22 hr 53 min
+404 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [SUMMER](https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [SUMMER](https://open.spotify.com/album/42lZ7fs6ZVYjOvpXvbhUu1) | 2:25 | 2024-07-26 | 2024-10-18 |
 | [Supa](https://open.spotify.com/track/0GZkn1i4yKLegfPXAjxmQw) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo) | [Supa](https://open.spotify.com/album/76zIo6TOf1HBewJ9Ua9hjS) | 2:32 | 2024-02-23 | 2024-04-06 |
 | [Superman \- Remix](https://open.spotify.com/track/5wVX9TDYtkpwCKxHIYDExs) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Superman \(Remix\)](https://open.spotify.com/album/5buMtnkYZVdSyif39l2MsN) | 2:07 | 2024-09-27 | 2024-11-08 |
+| [SURE](https://open.spotify.com/track/0Q9HxCnsukScN8HhStukkJ) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [SURE](https://open.spotify.com/album/0y3P7yCypBWA2Zc5CuTPAQ) | 2:24 | 2025-01-03 |  |
 | [SURELY \- UNVL' 24](https://open.spotify.com/track/2zTR5has6FHGwdwoi26Apt) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [SURELY \(UNVL' 24\)](https://open.spotify.com/album/0tzCM41z8QPFzQcLiIpWCX) | 2:05 | 2024-09-20 | 2024-11-08 |
 | [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 | 2024-03-22 |
 | [Sweet \- Remix](https://open.spotify.com/track/26mpBVaglCZ1CZ7flEgQIY) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Sweet \(Remix\)](https://open.spotify.com/album/3MHm7jR2DyqSBy1WbcfB0n) | 3:07 | 2024-03-01 | 2024-06-07 |
@@ -410,5 +411,6 @@
 | [Your Love is Amazing](https://open.spotify.com/track/1sDLL1lKapOjUZBtdjp9CE) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Your Love is Amazing](https://open.spotify.com/album/1HFVwMq3e8eRqrX2n0kFTw) | 5:20 | 2023-11-17 | 2024-01-26 |
 | [Your Way](https://open.spotify.com/track/7CGCoEDU786ZHdMCd722zA) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [yinkah](https://open.spotify.com/artist/6YWJpsuE7N3BUInXjKqimK) | [Your Way](https://open.spotify.com/album/3qvxxSiCfdtX0WIpoyO5MT) | 2:06 | 2024-07-12 | 2024-09-27 |
 | [Your Will](https://open.spotify.com/track/0PbqGz9L9tW7s6dNW3Mt7a) | [Eliyah Black](https://open.spotify.com/artist/1exHNJVSFIsw0NR3OYk6fj) | [Your Will](https://open.spotify.com/album/3MNf7OAkfqDCm7BBmVEBZS) | 3:48 | 2024-11-01 |  |
+| [Your Word](https://open.spotify.com/track/1kHVUbF8xeWcDpuYZzd8ME) | [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Your Word](https://open.spotify.com/album/0YXffD71HwbKg5MxYqpds3) | 3:12 | 2025-01-03 |  |
 
 \*This playlist was first scraped on 2023-10-20. Prior content cannot be recovered.

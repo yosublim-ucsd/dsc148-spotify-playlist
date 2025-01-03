@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: MOROHA",
-  "num_followers": 59961,
+  "num_followers": 59977,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
+        "name": "Pathway",
+        "url": "https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 231924,
+      "name": "Ethos",
+      "url": "https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
         "name": "Magic Powers",
         "url": "https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 157297,
       "name": "Magic Powers",
       "url": "https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
-        "name": "Pathway",
-        "url": "https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 231924,
-      "name": "Ethos",
-      "url": "https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
-        "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
-      },
-      "artists": [
-        {
-          "name": "Humbert Humbert",
-          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "\u3042\u306e\u65e5\u306e\u307e\u307e\u306e\u307c\u304f\u3089",
-      "url": "https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
         "name": "EMPT MILE",
         "url": "https://open.spotify.com/album/7BSqHAeNbOl6Wi6ywf2Nkf"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 241071,
       "name": "ANIMA - Feat. Such",
       "url": "https://open.spotify.com/track/5vFc7ydAJJ5T2QotoTvm0B"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
+        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
+        "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
+      },
+      "artists": [
+        {
+          "name": "Humbert Humbert",
+          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "\u3042\u306e\u65e5\u306e\u307e\u307e\u306e\u307c\u304f\u3089",
+      "url": "https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "Forest (feat. ACE COOL)",
-        "url": "https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5"
-      },
-      "artists": [
-        {
-          "name": "\u3093oon",
-          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
-        },
-        {
-          "name": "ACE COOL",
-          "url": "https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G"
-        }
-      ],
-      "duration_ms": 183397,
-      "name": "Forest - feat. ACE COOL",
-      "url": "https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
         "name": "Don't make love vow",
         "url": "https://open.spotify.com/album/7f8pXcJau1rJur5app8nTW"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
+        "name": "Forest (feat. ACE COOL)",
+        "url": "https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5"
+      },
+      "artists": [
+        {
+          "name": "\u3093oon",
+          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
+        },
+        {
+          "name": "ACE COOL",
+          "url": "https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G"
+        }
+      ],
+      "duration_ms": 183397,
+      "name": "Forest - feat. ACE COOL",
+      "url": "https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
         "name": "\u53cc\u5b50\u5ea7(gemini)",
         "url": "https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "Wan!",
-        "url": "https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW"
+        "name": "\u9006\u3089\u3046\u7fbd",
+        "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
       },
       "artists": [
         {
-          "name": "Cwondo",
-          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+          "name": "\u677e\u6728\u7f8e\u5b9a",
+          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Wan!",
-      "url": "https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5"
+      "duration_ms": 195133,
+      "name": "\u9006\u3089\u3046\u7fbd",
+      "url": "https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -883,34 +883,18 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "\u9006\u3089\u3046\u7fbd",
-        "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
+        "name": "Wan!",
+        "url": "https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW"
       },
       "artists": [
         {
-          "name": "\u677e\u6728\u7f8e\u5b9a",
-          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
         }
       ],
-      "duration_ms": 195133,
-      "name": "\u9006\u3089\u3046\u7fbd",
-      "url": "https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 157889,
-      "name": "Ebi Fry",
-      "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
+      "duration_ms": 155520,
+      "name": "Wan!",
+      "url": "https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -935,18 +919,34 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "Slow Motion Perception",
-        "url": "https://open.spotify.com/album/3y1yDShK721iCzxjmDCiTk"
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
       },
       "artists": [
         {
-          "name": "paranoid void",
-          "url": "https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx"
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
         }
       ],
-      "duration_ms": 216783,
-      "name": "Slow Motion Perception",
-      "url": "https://open.spotify.com/track/6eLMiSiERRlJkHu20umk5I"
+      "duration_ms": 157889,
+      "name": "Ebi Fry",
+      "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
+        "name": "Unbalanced Blend",
+        "url": "https://open.spotify.com/album/6j3FsUUi3dVuIalzgUCAFz"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 319623,
+      "name": "Unbalanced Blend",
+      "url": "https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "Unbalanced Blend",
-        "url": "https://open.spotify.com/album/6j3FsUUi3dVuIalzgUCAFz"
+        "name": "Slow Motion Perception",
+        "url": "https://open.spotify.com/album/3y1yDShK721iCzxjmDCiTk"
       },
       "artists": [
         {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+          "name": "paranoid void",
+          "url": "https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx"
         }
       ],
-      "duration_ms": 319623,
-      "name": "Unbalanced Blend",
-      "url": "https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY"
+      "duration_ms": 216783,
+      "name": "Slow Motion Perception",
+      "url": "https://open.spotify.com/track/6eLMiSiERRlJkHu20umk5I"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
+        "name": "HAPPY BIRTHDAY",
+        "url": "https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj"
+      },
+      "artists": [
+        {
+          "name": "LAYRUS LOOP",
+          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
+        }
+      ],
+      "duration_ms": 186766,
+      "name": "\u9b54\u6cd5\u4f7f\u3044\u306b\u306a\u308a\u305f\u304f\u3066",
+      "url": "https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
         "name": "see you, frail angel. sea adore you.",
         "url": "https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 235000,
       "name": "slowboat",
       "url": "https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
-      },
-      "artists": [
-        {
-          "name": "Hedigan\u2019s",
-          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "\u3075\u3057\u304e",
-      "url": "https://open.spotify.com/track/5m3RAoGt9RB77MhNCBju1s"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "HAPPY BIRTHDAY",
-        "url": "https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
       },
       "artists": [
         {
-          "name": "LAYRUS LOOP",
-          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
         }
       ],
-      "duration_ms": 186766,
-      "name": "\u9b54\u6cd5\u4f7f\u3044\u306b\u306a\u308a\u305f\u304f\u3066",
-      "url": "https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab"
+      "duration_ms": 177946,
+      "name": "\u3075\u3057\u304e",
+      "url": "https://open.spotify.com/track/5m3RAoGt9RB77MhNCBju1s"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
+        "name": "hito",
+        "url": "https://open.spotify.com/album/3O0r7QHLFBxNuoWDNGhceT"
+      },
+      "artists": [
+        {
+          "name": "\u5e7d\u4f53\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "hito",
+      "url": "https://open.spotify.com/track/0rgwOh6kTpmOYXFbGNJ3vx"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
         "name": "KissKissKiss (feat.Maika Loubt\u00e9)",
         "url": "https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 203541,
       "name": "\u30af\u30ba\u30a2\u30f3\u30c9\u30d4\u30fc\u30b9",
       "url": "https://open.spotify.com/track/4JnZyGMjxj9f7AK74y6Cbu"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
-        "name": "\u3042\u3051\u306a\u3044\u3072\u307f\u3064",
-        "url": "https://open.spotify.com/album/608QksoNbIViwjp15kbj1q"
-      },
-      "artists": [
-        {
-          "name": "Special Favorite Music",
-          "url": "https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM"
-        }
-      ],
-      "duration_ms": 277010,
-      "name": "\u3042\u3051\u306a\u3044\u3072\u307f\u3064",
-      "url": "https://open.spotify.com/track/3ufoRksbgnm36Yj9jX0C4X"
     }
   ],
   "unique_name": "Edge!",

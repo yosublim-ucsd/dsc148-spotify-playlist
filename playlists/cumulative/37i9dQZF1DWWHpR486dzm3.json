@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa pehmoaino.",
+  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Ville Veikka.",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 213615,
       "name": "Gutter",
       "url": "https://open.spotify.com/track/1VxKOaUAZNNyLMJsMuad8H"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 248698,
       "name": "Hautajaismuusikot",
       "url": "https://open.spotify.com/track/1lTKyfgZBIbaRrGIRG1Jmb"
@@ -2072,6 +2072,24 @@
       "duration_ms": 175438,
       "name": "Hei Anna (discolove)",
       "url": "https://open.spotify.com/track/1qxy24d0QQIhdUDgB1RewZ"
+    },
+    {
+      "album": {
+        "name": "Hei hei ja hyv\u00e4sti",
+        "url": "https://open.spotify.com/album/2ETubknpXplEytEEGTtiDb"
+      },
+      "artists": [
+        {
+          "name": "Ville Veikka",
+          "url": "https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148480,
+      "name": "Hei hei ja hyv\u00e4sti",
+      "url": "https://open.spotify.com/track/1A3KXxnNSL1DLQXwn2mSxI"
     },
     {
       "album": {
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 265732,
       "name": "I Can See Myself",
       "url": "https://open.spotify.com/track/2o4qqxVC4DeGDC3z8JuiYO"
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 193503,
       "name": "Korpiviidakon laki",
       "url": "https://open.spotify.com/track/4ujhh12VO5ul3hnCQr5dOD"
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 200506,
       "name": "Kundit kondikseen",
       "url": "https://open.spotify.com/track/0SwRb9XB737hkM3Yj1Av63"
@@ -3888,6 +3906,24 @@
       "duration_ms": 211377,
       "name": "Letters to Laura",
       "url": "https://open.spotify.com/track/6itxVxpEenFILVV0IqSF5i"
+    },
+    {
+      "album": {
+        "name": "Levoton tuhkimo",
+        "url": "https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi"
+      },
+      "artists": [
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258157,
+      "name": "Levoton tuhkimo",
+      "url": "https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf"
     },
     {
       "album": {
@@ -4454,7 +4490,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 202560,
       "name": "Mee jo",
       "url": "https://open.spotify.com/track/4YkYQAFfd46Xti7X6o5HXj"
@@ -5002,7 +5038,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 211011,
       "name": "Niink\u00f6 se on",
       "url": "https://open.spotify.com/track/4nd6e9YvUEeuR0mtP5fNJu"
@@ -5742,7 +5778,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 224533,
       "name": "Pink Tutu",
       "url": "https://open.spotify.com/track/4QwMXfV2f191xcysZHv4pL"
@@ -5926,6 +5962,24 @@
       "duration_ms": 174466,
       "name": "Provocateur",
       "url": "https://open.spotify.com/track/4WM16ujAuOr9QGwPkBT8u4"
+    },
+    {
+      "album": {
+        "name": "Psykedeelinen Harmaa",
+        "url": "https://open.spotify.com/album/4yKPRxh7bnDqc0PsJLBKNW"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4j\u00e4ytt\u00e4j\u00e4t",
+          "url": "https://open.spotify.com/artist/3RTaDnHRTqTHMyAlQQZfQy"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328324,
+      "name": "Psykedeelinen Harmaa",
+      "url": "https://open.spotify.com/track/4jjzce0WWJ0k6rehl4Zxrz"
     },
     {
       "album": {
@@ -6160,6 +6214,24 @@
       "duration_ms": 279426,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5o1VFI9pkftoG25k2M8j0Q"
+    },
+    {
+      "album": {
+        "name": "Right Type of High",
+        "url": "https://open.spotify.com/album/2sihDxLUINNBsrIe26nRxM"
+      },
+      "artists": [
+        {
+          "name": "Honey Crisp",
+          "url": "https://open.spotify.com/artist/1tk7aANlL5yiOLqajatBHV"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Right Type of High",
+      "url": "https://open.spotify.com/track/3PDekYAUdenHhS3SUep701"
     },
     {
       "album": {
@@ -6803,6 +6875,28 @@
     },
     {
       "album": {
+        "name": "Summer Of Synesthesia",
+        "url": "https://open.spotify.com/album/7s6fH8dEJMimmKslkswl7A"
+      },
+      "artists": [
+        {
+          "name": "Jimi Tenor",
+          "url": "https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284719,
+      "name": "Summer Of Synesthesia",
+      "url": "https://open.spotify.com/track/5wew02slQckjiz7OcDeAzg"
+    },
+    {
+      "album": {
         "name": "Sumun j\u00e4lkeen",
         "url": "https://open.spotify.com/album/0mwsfd0lX1HtWrDij6rlAa"
       },
@@ -7060,6 +7154,24 @@
       "duration_ms": 200625,
       "name": "Tarviin uuden jumalan",
       "url": "https://open.spotify.com/track/7jEI5zhyD6glS2DTI3Ds3y"
+    },
+    {
+      "album": {
+        "name": "teenagestylez",
+        "url": "https://open.spotify.com/album/61jqDAJzmyqG4mFGDTT4U8"
+      },
+      "artists": [
+        {
+          "name": "ROSLUV",
+          "url": "https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "teenagestylez",
+      "url": "https://open.spotify.com/track/1OlZdNudtDZdkRCZykhZVK"
     },
     {
       "album": {
@@ -7836,7 +7948,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 268500,
       "name": "Uutiset",
       "url": "https://open.spotify.com/track/7HqUO4Dl1CkxfTXtbKR1uZ"

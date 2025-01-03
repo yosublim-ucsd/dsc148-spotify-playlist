@@ -2,7 +2,7 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Antonia, Oscar
+> Cele mai noi hituri pop românești\. Cover: Mario Fresh
 
 162 songs - 7 hr 41 min
 

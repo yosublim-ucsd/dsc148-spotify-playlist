@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 109553,
+  "num_followers": 109576,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
+        "name": "Pudredumbre",
+        "url": "https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr"
+      },
+      "artists": [
+        {
+          "name": "A Tomar X Culo",
+          "url": "https://open.spotify.com/artist/6r5n867130CDJnBJC1kJWW"
+        }
+      ],
+      "duration_ms": 125727,
+      "name": "Pudredumbre",
+      "url": "https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v"
+    },
+    {
+      "added_at": "2024-12-19 23:00:47",
+      "album": {
         "name": "A Cara de Perro",
         "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "Yonkijote",
-        "url": "https://open.spotify.com/album/5EWAsbX9Pp3i22ckFWrrPF"
-      },
-      "artists": [
-        {
-          "name": "A Granel",
-          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
-        }
-      ],
-      "duration_ms": 128498,
-      "name": "Yonkijote",
-      "url": "https://open.spotify.com/track/4OHk0NyPOMuIndz5HohDOl"
-    },
-    {
-      "added_at": "2024-12-19 23:00:47",
-      "album": {
         "name": "A Quien Pueda Interesar (Remasterizado 2024)",
         "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-12-19 23:00:47",
       "album": {
-        "name": "Pudredumbre",
-        "url": "https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr"
+        "name": "Yonkijote",
+        "url": "https://open.spotify.com/album/5EWAsbX9Pp3i22ckFWrrPF"
       },
       "artists": [
         {
-          "name": "A Tomar X Culo",
-          "url": "https://open.spotify.com/artist/6r5n867130CDJnBJC1kJWW"
+          "name": "A Granel",
+          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
         }
       ],
-      "duration_ms": 125727,
-      "name": "Pudredumbre",
-      "url": "https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v"
+      "duration_ms": 128498,
+      "name": "Yonkijote",
+      "url": "https://open.spotify.com/track/4OHk0NyPOMuIndz5HohDOl"
     },
     {
       "added_at": "2024-12-19 23:00:47",

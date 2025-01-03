@@ -2,7 +2,7 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Heykel
+> Les plus belles plumes rap français du moment\. Photo : Médine
 
 109 songs - 6 hr 12 min
 

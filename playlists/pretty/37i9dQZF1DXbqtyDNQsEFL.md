@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain](/playlists/plain/37i9dQZF1DXbqtyDNQsEFL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbqtyDNQsEFL)
 
-### [Be Lifted ](https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL)
+### [Be Lifted: Moses Bliss Takeover](https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL)
 
 > Be Lifted into 2025 with these uplifting Gospel songs curated by  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=nMcUNuRnQiOBRk7qEAOAxQ>Moses Bliss</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,705 likes - 43 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,971 likes - 43 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 42 | [My Story](https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [My Story](https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD) | 2:49 |
 | 43 | [Ebezina \- Remix](https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Promise Effiong](https://open.spotify.com/artist/1I9z32ju9HEWHAZcEhKGqp) | [Ebezina \(Remix\)](https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd) | 4:54 |
 
-Snapshot ID: `Z3SFRgAAAAAllLvMegrov6xbd6cxj71b`
+Snapshot ID: `Z3by/wAAAADnCVOSKsYCG4brJfzAEktQ`

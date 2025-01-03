@@ -2,9 +2,9 @@
 
 ### [Rock Rotation](https://open.spotify.com/playlist/37i9dQZF1DWZJhOVGWqUKF)
 
-> Sechs Saiten für ein Halleluja\. Cover: Barns Courtney
+> Sechs Saiten für ein Halleluja\. Cover: The Haunt
 
-311 songs - 17 hr 48 min
+314 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,10 @@
 | [Black Thunder \(feat\. Serj Tankian and DL of Bad Wolves\)](https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Daniel Laskiewicz](https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ) | [Black Thunder \(feat\. Serj Tankian and DL of Bad Wolves\)](https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d) | 4:28 | 2024-07-04 | 2024-07-27 |
 | [Blame](https://open.spotify.com/track/0xviTjDBRIelaqGTKHR1Ns) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Blame](https://open.spotify.com/album/2opWu1FXpnCL3OMVNuuKmB) | 2:52 | 2024-07-11 | 2024-07-19 |
 | [Blind Side Sonny](https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Blind Side Sonny](https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ) | 2:22 | 2024-10-03 | 2024-12-04 |
+| [Blood Red Heart](https://open.spotify.com/track/33AVQadDICfdLSxmv6rsr6) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Blood Red Heart](https://open.spotify.com/album/6rY89ErMOwDPPqTsGiAiSm) | 2:24 | 2025-01-02 |  |
 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-06-27 | 2024-12-20 |
 | [Breathe It In](https://open.spotify.com/track/2BtanT7WGRTqIlAZS0yyzS) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [Breathe It In](https://open.spotify.com/album/393W0entp1fwHBKk1XLqb2) | 3:32 | 2024-10-17 | 2024-10-25 |
+| [Bright Eyes](https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Bright Eyes](https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ) | 3:31 | 2025-01-02 |  |
 | [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 | 2024-12-19 |  |
 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 | 2024-06-27 |  |
 | [C:K:C](https://open.spotify.com/track/0EYSzxTPgTIDErmid8Jatk) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [C:K:C](https://open.spotify.com/album/7chcPzPRIeFfAwi3Y2Vaxd) | 3:04 | 2024-08-29 | 2024-09-06 |
@@ -75,7 +77,7 @@
 | [COME ALIVE](https://open.spotify.com/track/246bjBGHwB1YIEnOiSF1iZ) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [COME ALIVE](https://open.spotify.com/album/0MtCTrcYWyVtbYIVHx3Xol) | 3:13 | 2024-09-19 | 2024-10-04 |
 | [Come Undone](https://open.spotify.com/track/0R8u2YkiDG0rr6sfGn44PX) | [Catapults](https://open.spotify.com/artist/1kgH8UtIKcjH6fuUj1DnFG) | [Come Undone](https://open.spotify.com/album/554Oi7129Uejpl9k9lNBJt) | 3:30 | 2024-09-12 | 2024-09-20 |
 | [Confession](https://open.spotify.com/track/0jDgi8JLdQdyO18wXaMSSv) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Confession](https://open.spotify.com/album/6YK8axuJDVV1RkMrZtUurS) | 3:23 | 2024-10-17 |  |
-| [CONTROL](https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CONTROL](https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX) | 3:04 | 2024-12-19 |  |
+| [CONTROL](https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CONTROL](https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX) | 3:04 | 2024-12-19 | 2025-01-03 |
 | [Conversations That Hurt](https://open.spotify.com/track/0uhAW3c9zZKpWKa3kDyj3f) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [Conversations That Hurt](https://open.spotify.com/album/4HX1t1QGSFING7ALuxbWP7) | 3:49 | 2024-07-18 | 2024-07-27 |
 | [Country Mile](https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Country Mile / Picture Of You \(X+W\)](https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk) | 4:58 | 2024-09-26 | 2024-12-13 |
 | [Crack Cocaine](https://open.spotify.com/track/6t1WBBQsSDjYuZL2TglrEN) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Crack Cocaine](https://open.spotify.com/album/4u9d35U27Iy0lK5Z0zxeXF) | 4:01 | 2024-06-27 |  |
@@ -173,7 +175,7 @@
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-01 |  |
 | [Lighthouse](https://open.spotify.com/track/1aHHwI79IBD4hHIWqQ7DyJ) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Lighthouse](https://open.spotify.com/album/6yEv9GYNLHZdqPRcQTg4Ew) | 3:34 | 2024-06-27 | 2024-07-12 |
 | [Lion Rumpus](https://open.spotify.com/track/2les6HNKPpydYUgWfkl7aA) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Lion Rumpus](https://open.spotify.com/album/2FQlTOSIj5D5gQZh8DsRYr) | 3:33 | 2024-10-31 | 2024-11-08 |
-| [Listen Up](https://open.spotify.com/track/4IIdwu2qr7CZZsImuArXGx) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Listen Up](https://open.spotify.com/album/1fegkigvCLmcXA3jUVn1VT) | 3:03 | 2024-11-28 |  |
+| [Listen Up](https://open.spotify.com/track/4IIdwu2qr7CZZsImuArXGx) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Listen Up](https://open.spotify.com/album/1fegkigvCLmcXA3jUVn1VT) | 3:03 | 2024-11-28 | 2025-01-03 |
 | [Live Before I’m Dead \(Hours\)](https://open.spotify.com/track/2Z9DT5CCjTG8in1nFmtcpw) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout \(Deluxe\)](https://open.spotify.com/album/2nrcJMkhBQGbpIyqkDqQf5) | 3:29 | 2024-06-27 | 2024-08-04 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-06-27 |  |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2024-06-27 | 2024-12-20 |
@@ -243,7 +245,7 @@
 | [Rays of Light](https://open.spotify.com/track/2DXX1Lc4GZzpT24UtdKvdE) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Distortion](https://open.spotify.com/album/33UKM7bqokrSxxX14MO9Jp) | 3:38 | 2024-09-05 | 2024-09-13 |
 | [Rest In Pieces](https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Rest In Pieces](https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq) | 2:56 | 2024-10-24 | 2024-11-01 |
 | [Right Here](https://open.spotify.com/track/5WHOmYg1NWhKPkCpv8pFqT) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [Right Here](https://open.spotify.com/album/7yBM7pwSfmSdS0pjywrq4r) | 3:57 | 2024-12-12 | 2024-12-20 |
-| [Right Now](https://open.spotify.com/track/07lDQBet0tjH77t5T1YtGH) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Right Now](https://open.spotify.com/album/59C8gUScKsa2e1ZdROyYYa) | 3:40 | 2024-09-12 |  |
+| [Right Now](https://open.spotify.com/track/07lDQBet0tjH77t5T1YtGH) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Right Now](https://open.spotify.com/album/59C8gUScKsa2e1ZdROyYYa) | 3:40 | 2024-09-12 | 2025-01-03 |
 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-06-27 |  |
 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 | 2024-06-27 |  |
 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-07-04 | 2024-07-17 |
@@ -280,6 +282,7 @@
 | [Sweet Machine](https://open.spotify.com/track/2d4E9PWXoxCZ0JDXyqKmdq) | [Bloomer](https://open.spotify.com/artist/2SLlBWxyIRlpAMsiggj9OH) | [Hollow](https://open.spotify.com/album/1upkG96CIg4wuxGnGWGKNA) | 3:07 | 2024-09-12 | 2024-09-20 |
 | [Take Me Away When You Go](https://open.spotify.com/track/37bXnEg4XoBeRPHBJJS6uS) | [Basement Gary](https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5), [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [Take Me Away When You Go](https://open.spotify.com/album/3IfN5VTg8odtiMsdKWjAA4) | 2:24 | 2024-11-07 | 2024-11-15 |
 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 | 2024-09-05 |  |
+| [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 | 2025-01-02 |  |
 | [Terrified](https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:03 | 2024-06-27 | 2024-07-27 |
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-01 |  |
 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-08-08 | 2024-09-27 |

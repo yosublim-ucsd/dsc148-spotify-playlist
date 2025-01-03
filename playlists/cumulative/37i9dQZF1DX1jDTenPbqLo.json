@@ -221,6 +221,28 @@
     },
     {
       "album": {
+        "name": "Adams: China Gates",
+        "url": "https://open.spotify.com/album/3XMBAeHebyW3xmaDXyMRzQ"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258225,
+      "name": "China Gates",
+      "url": "https://open.spotify.com/track/3rQbjkSToh2vsXlCIcRyev"
+    },
+    {
+      "album": {
         "name": "Chopin: Preludes & Piano Works - 24 Preludes, Op. 28: No.15 in D-Flat Major, \"Raindrop\"",
         "url": "https://open.spotify.com/album/0o29UJuZspptFzTPNEQ3mQ"
       },

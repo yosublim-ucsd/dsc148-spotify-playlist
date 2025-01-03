@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 181100,
       "name": "'N Da West(Re-Up)",
       "url": "https://open.spotify.com/track/2jEu93RJvowPtloVED2zQI"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 286000,
       "name": "A Tale Of 2 Kings (feat. Tech N9ne)",
       "url": "https://open.spotify.com/track/19fmLObxPn65nyyCcqUWVK"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 206765,
       "name": "Another Part Of Me (feat. Sting)",
       "url": "https://open.spotify.com/track/6KmW2oHAkhnBQKUtVxatR4"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "Asteroids - Redux",
       "url": "https://open.spotify.com/track/6lXZ19zGWK3EFkZ3UL6Eu3"
@@ -5874,7 +5874,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 179437,
       "name": "Burning Down (with Joe Jonas)",
       "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
@@ -17624,7 +17624,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 577118,
       "name": "Holiday JamGoodTime",
       "url": "https://open.spotify.com/track/2UJMvfQDL0jmCsBt2dIrxz"
@@ -22872,7 +22872,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 578202,
       "name": "Lingus - Alternate Take",
       "url": "https://open.spotify.com/track/5jKq0VCeyGhvk8VxneKc2F"
@@ -23142,7 +23142,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 219000,
       "name": "Live In Love",
       "url": "https://open.spotify.com/track/6ZBiQ0S0ZCHTOcflZAEfVd"
@@ -23302,7 +23302,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 200563,
       "name": "Lonely Road (feat. Terrace Martin)",
       "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
@@ -32266,7 +32266,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 354857,
       "name": "Resenha do Arrocha",
       "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
@@ -34130,7 +34130,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 393011,
       "name": "Shofukan - 2024 Remixed + Remastered",
       "url": "https://open.spotify.com/track/29roKbcQ1uTtQ8hbKKKDAv"
@@ -41088,7 +41088,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -41274,6 +41274,24 @@
       "duration_ms": 221538,
       "name": "Triflin' - ethrlmx",
       "url": "https://open.spotify.com/track/2wRiofZ5CcG1HfAQ0j9PVG"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/25E7mK5NcKtLTWj8Qs5q1N"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean Blonded",
+          "url": "https://open.spotify.com/artist/5k4mzBL9YuQM0BFDcPrslA"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157570,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3bZQDQyabVOAwKNO8YyxRd"
     },
     {
       "album": {
@@ -44266,7 +44284,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 208515,
       "name": "Whole Lotta Gang Shit",
       "url": "https://open.spotify.com/track/4BG0UryKdTnp60E53G61TT"

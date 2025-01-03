@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc",
   "name": "R&Bae",
   "tracks": [
     {
@@ -3102,6 +3102,28 @@
       "duration_ms": 169289,
       "name": "J'la connais, Pt. 2 - Jamais",
       "url": "https://open.spotify.com/track/3qUp2s94OKNATynGWVRxAP"
+    },
+    {
+      "album": {
+        "name": "J'\u00e6 a\u00e7\u00e7ept\u00e9",
+        "url": "https://open.spotify.com/album/3EDmTC0V0Wj64XIxIrmNkQ"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210883,
+      "name": "J'\u00e6 a\u00e7\u00e7ept\u00e9",
+      "url": "https://open.spotify.com/track/5DN6GhHoXrZlWh1qN6T3yW"
     },
     {
       "album": {
@@ -6608,7 +6630,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 135593,
       "name": "Solide",
       "url": "https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF"

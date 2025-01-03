@@ -1,13 +1,14 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2T25mA6YJhO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2T25mA6YJhO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2T25mA6YJhO)
 
-### [Rock 2024](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
+### [Rock 2025](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
 > Súbete a la nueva ola del rock español\. Foto: Niños Bravos.
 
-247 songs - 12 hr 43 min
+249 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 de enero](https://open.spotify.com/track/1CmLxjRz3cY8cqJnfdH2as) | [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [1 de enero](https://open.spotify.com/album/1TjCUAUUMRG1b4lpaAOhZ2) | 2:47 | 2025-01-02 |  |
 | [1 wasap](https://open.spotify.com/track/6OvnWc6lKWBSp5Tk1RDCTh) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [1 wasap](https://open.spotify.com/album/3lyjPH7nxCqadApjxnmQr8) | 3:00 | 2024-09-12 | 2024-10-11 |
 | [1900](https://open.spotify.com/track/3ipA6qIgx7ycMxj8EI2grU) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Gran Hostal](https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9) | 2:47 | 2024-10-10 |  |
 | [4 Impulsos Más](https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2) | [Erin Memento](https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp) | [4 Impulsos Más](https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo) | 3:27 | 2024-10-03 |  |
@@ -18,6 +19,7 @@
 | [A la Mierda](https://open.spotify.com/track/4LQXK92qiThKntANgxd9Yz) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [A tomar por culo](https://open.spotify.com/album/1u0KpgKOxJZY5wVrfbveOB) | 1:58 | 2024-10-17 |  |
 | [Adelante](https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Adelante](https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ) | 4:00 | 2024-06-27 | 2024-12-13 |
 | [agosto](https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX) | [garbí](https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM) | [agosto](https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz) | 3:28 | 2024-07-18 | 2024-09-13 |
+| [ahora es diferente](https://open.spotify.com/track/5kzRmChVusM1Vu3fRc0yW4) | [FINTA](https://open.spotify.com/artist/4q5q5oeMnuEHo6UMyTOwrW), [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [ahora es diferente](https://open.spotify.com/album/6MYsspfP9I9si7jKvliwKt) | 2:44 | 2025-01-02 |  |
 | [Al Amanecer](https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Al Amanecer](https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy) | 3:11 | 2024-07-11 | 2024-11-08 |
 | [Al Amanecer](https://open.spotify.com/track/4e53xhYzdbAWuZu6dqfDOh) | [Monteperdido](https://open.spotify.com/artist/3GxxpOZw5vZ4Z5Wxesav1y), [Marco](https://open.spotify.com/artist/5NIA81lu3aTT72RVQ20l2W) | [Al Amanecer](https://open.spotify.com/album/4JfvYkC4ih4egFoHmMr7ZG) | 2:54 | 2024-06-27 | 2024-08-23 |
 | [Al Final](https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Al Final](https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa) | 3:04 | 2024-06-27 |  |

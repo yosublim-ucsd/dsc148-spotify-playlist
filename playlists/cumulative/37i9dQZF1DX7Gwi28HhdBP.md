@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw">  كزابيرو </a>
 
-277 songs - 20 hr 12 min
+278 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Etal tetkayef](https://open.spotify.com/track/5GNfSTV6ioiX3n9oIpyM6c) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Etal tetkayef](https://open.spotify.com/album/2JFefxJ5kwKa5YPjs8qvGj) | 4:17 | 2023-04-20 | 2024-08-12 |
 | [Etlaaly Bara](https://open.spotify.com/track/4hqqaY70c6dQdWJQxen9Lx) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Etlaaly Bara](https://open.spotify.com/album/1iwfXGanX6SuuSkbZsQJj6) | 3:48 | 2021-12-16 | 2022-07-29 |
 | [Ewa'a El Wahsh](https://open.spotify.com/track/3WujSFVSAIOHefifMmtZ9n) | [Hassan El Kholaey](https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0), [Johara](https://open.spotify.com/artist/6eIPhs5acqaz0s3aXnGoGl) | [Ewa'a El Wahsh](https://open.spotify.com/album/3XoVVi5ID5SRsQKDeuX5Lo) | 4:03 | 2021-12-16 | 2023-05-09 |
-| [Fi 7eta Tanya](https://open.spotify.com/track/1Z2EZuhLqHvLXlhYs2McXy) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Fi 7eta Tanya](https://open.spotify.com/album/1iSgUh21DNUOm1BhnJxMiL) | 3:14 | 2022-01-25 |  |
+| [Fi 7eta Tanya](https://open.spotify.com/track/1Z2EZuhLqHvLXlhYs2McXy) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Fi 7eta Tanya](https://open.spotify.com/album/1iSgUh21DNUOm1BhnJxMiL) | 3:14 | 2022-01-25 | 2025-01-03 |
 | [Film Cima](https://open.spotify.com/track/2rj2Y18FJdyWGUrHJJ6lKl) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [El Sayed Hassan](https://open.spotify.com/artist/7Aqgdu7smKyE3fAW2VmvjJ) | [Film Cima](https://open.spotify.com/album/6egzcqt5y5x1TMKfD7ySVQ) | 3:44 | 2021-12-16 | 2022-07-28 |
 | [Garahony](https://open.spotify.com/track/1ix7NiigEUwVjJ0PWcRI8G) | [Hassan El Asmar](https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax) | [Omry](https://open.spotify.com/album/6fqXjbB0w5V82nCilSM8NX) | 4:44 | 2021-12-16 | 2023-05-12 |
 | [Geit Ala El Garh](https://open.spotify.com/track/1cYKgE6YxifsD4prcjAvYv) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [Ana Men Gabal](https://open.spotify.com/album/3kgdUVzNWSYTJietLt2LD2) | 6:38 | 2021-12-16 | 2023-04-15 |
@@ -124,7 +124,7 @@
 | [Mganenany](https://open.spotify.com/track/4BdczslzGIu6MPYQzkCa2X) | [Hassan El Kholaey](https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0) | [Mganenany](https://open.spotify.com/album/43CnQIq5C5ToUNDwrwNlVt) | 4:39 | 2021-12-16 | 2023-05-12 |
 | [Nas Khasisa](https://open.spotify.com/track/4Sjb9HcCQKqvt079Mi9PRD) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Nas Khasisa](https://open.spotify.com/album/3IX8ZyWax1OABq7c6FG3kt) | 3:51 | 2024-04-11 | 2024-09-13 |
 | [Oul Allah](https://open.spotify.com/track/2bJQO2SegQFc8fOpFhizlc) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Oul Allah](https://open.spotify.com/album/5sOCIhikdDVOPNrVBibxcF) | 3:25 | 2022-07-14 | 2022-12-21 |
-| [Rakam Wahd Fel Grah](https://open.spotify.com/track/6Mp7U4S9GLWsAyRXd0wWwI) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [Rakam Wahd Fel Grah](https://open.spotify.com/album/5CdROjZfNXC290fVbqQEb6) | 3:03 | 2024-04-11 |  |
+| [Rakam Wahd Fel Grah](https://open.spotify.com/track/6Mp7U4S9GLWsAyRXd0wWwI) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [Rakam Wahd Fel Grah](https://open.spotify.com/album/5CdROjZfNXC290fVbqQEb6) | 3:03 | 2024-04-11 | 2025-01-03 |
 | [Ramo Tobty](https://open.spotify.com/track/1fMfO3xpg1OGfmNBXow57n) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Ramo Tobty](https://open.spotify.com/album/0CKqgpYnHAetUCjrn74BvQ) | 2:41 | 2023-06-22 | 2023-07-12 |
 | [Resala](https://open.spotify.com/track/522j2fXo5LMHuEMTw67aaF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Resala](https://open.spotify.com/album/72j6bXgAo4YFlgNM376Ukn) | 4:08 | 2021-12-16 | 2022-07-29 |
 | [Rozma](https://open.spotify.com/track/6Xwcz7MnRx2ULy94FEaPXK) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG), [Nourine](https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K) | [Rozma](https://open.spotify.com/album/5zbqTtpHlYIahxnvZFqJAf) | 2:48 | 2024-09-19 |  |
@@ -192,6 +192,7 @@
 | [السم جوه العسل](https://open.spotify.com/track/7i2pvvHw2DbOxQQqdErN2H) | [Semsem Shehab](https://open.spotify.com/artist/7z6lX09yzAUCeEsYVCimo4) | [السم جوه العسل](https://open.spotify.com/album/5oeVGgDGQOn7N0TcV4cjSi) | 4:20 | 2021-12-16 | 2023-09-01 |
 | [الصمت لغة العظماء](https://open.spotify.com/track/4Yfp2SnD4d1Q2Ftw7tya0k) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [الصمت لغة العظماء](https://open.spotify.com/album/5N1tiywFBgDRA3HaRM3BlE) | 4:05 | 2024-09-19 |  |
 | [الغل مني هاريكو](https://open.spotify.com/track/4KACpmTcHspHtJCupdVozK) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [الغل مني هاريكو](https://open.spotify.com/album/7MF1GeEM83pFtcYHNY7M9g) | 4:02 | 2023-07-11 | 2024-01-12 |
+| [الفترة اللى فاتت](https://open.spotify.com/track/5NfAzsHPEua9P1D9XHbEok) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [الفترة اللى فاتت](https://open.spotify.com/album/6MujNJk74u0qvij5Mct9DP) | 5:10 | 2025-01-02 |  |
 | [القلوب طرحت حجارة](https://open.spotify.com/track/6ZrC8g6j9V0e0dBGpUKD0E) | [Tarek El Sheikh](https://open.spotify.com/artist/1yi5rDKyrkV1zdDXOzOMkk) | [القلوب طرحت حجارة](https://open.spotify.com/album/5DigNXSH1AyfVXElOKsKy6) | 5:11 | 2021-12-16 | 2022-04-22 |
 | [اللي تقلان عليك](https://open.spotify.com/track/151ZFGZaaDCHf420EUWxQg) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [اللي تقلان عليك](https://open.spotify.com/album/3eX927m0S5mkV7WtSeqC2P) | 3:08 | 2022-07-14 | 2023-05-12 |
 | [اللي تقلان عليك](https://open.spotify.com/track/5hQyXnuYgvcMZRhjBKrscl) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [اللي تقلان عليك](https://open.spotify.com/album/7hqx427YVS0gwr25TSduvT) | 3:08 | 2021-12-16 | 2022-07-29 |

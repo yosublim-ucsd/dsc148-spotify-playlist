@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "difficult",
+        "url": "https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156609,
+      "name": "difficult",
+      "url": "https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k"
+    },
+    {
+      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 214340,
       "name": "Fomo",
       "url": "https://open.spotify.com/track/1iho6JCCMpTS2yLHocyOeQ"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 195428,
       "name": "lights on",
       "url": "https://open.spotify.com/track/7gpGBUeWYmB3HP7hAoS94w"
@@ -2846,6 +2864,24 @@
       "duration_ms": 180373,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
+    },
+    {
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/5pNVdxxG96gpjgQmwdmPb6"
+      },
+      "artists": [
+        {
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195533,
+      "name": "Vibrations",
+      "url": "https://open.spotify.com/track/5FsW2KldiTNskb2MGX81Cd"
     },
     {
       "album": {

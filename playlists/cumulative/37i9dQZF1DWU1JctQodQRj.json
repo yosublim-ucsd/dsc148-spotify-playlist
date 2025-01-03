@@ -163,6 +163,50 @@
     },
     {
       "album": {
+        "name": "Bach",
+        "url": "https://open.spotify.com/album/4dty6NVmcPVeBC3hEfhvPu"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "Bach, JS: Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (Transcr. Tharaud for Piano)",
+      "url": "https://open.spotify.com/track/68mZhknhkVTK8ftL8YbFLI"
+    },
+    {
+      "album": {
+        "name": "Angels and Demons",
+        "url": "https://open.spotify.com/album/3jIJQtnK0nJlYConJy2cXO"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andrew von Oeyen",
+          "url": "https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69480,
+      "name": "Bach, JS: French Suite No. 5 in G Major, BWV 816: IV. Gavotte",
+      "url": "https://open.spotify.com/track/6UgR1UnHzXfa4D2Qkkqy34"
+    },
+    {
+      "album": {
         "name": "Bach: Sacred Cantatas, BWV 150 - 153",
         "url": "https://open.spotify.com/album/7Gwt8Pms7wgtvohQLtS5DN"
       },

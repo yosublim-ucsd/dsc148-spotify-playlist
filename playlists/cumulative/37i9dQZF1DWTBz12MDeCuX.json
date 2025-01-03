@@ -17459,6 +17459,28 @@
     },
     {
       "album": {
+        "name": "happy new year",
+        "url": "https://open.spotify.com/album/0dTQbn11cLj5Q2Lnj1GT2w"
+      },
+      "artists": [
+        {
+          "name": "Monk",
+          "url": "https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176539,
+      "name": "happy new year",
+      "url": "https://open.spotify.com/track/0RRFV4t4vYoUDR93o57BMA"
+    },
+    {
+      "album": {
         "name": "HARDCORE",
         "url": "https://open.spotify.com/album/0G8FFBP9WFcCoH7StXwFuj"
       },

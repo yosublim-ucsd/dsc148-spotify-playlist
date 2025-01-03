@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: עידן עמדי
 
-211 songs - 11 hr 8 min
+212 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [וונדרוול](https://open.spotify.com/track/0y7ivwoPptQTZoqSNuLx3j) | [Amir Sade](https://open.spotify.com/artist/0WJRb30AqOO17jmpL3s8NN) | [אמיר שדה](https://open.spotify.com/album/1ZFa2dXBHAlvgzdUvLlY35) | 4:12 | 2024-12-05 | 2024-12-20 |
 | [ויני וידי ויצ'י](https://open.spotify.com/track/4RrZdfphKgLiQ6uJJEgIMx) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [ויני וידי ויצ'י](https://open.spotify.com/album/2ZAVMJ0cfMztnaQoPiYv4N) | 2:24 | 2024-06-27 | 2024-10-18 |
 | [ונאהב](https://open.spotify.com/track/1GmLUf2dEXKUA1PBjIeqjX) | [Mika Moshe](https://open.spotify.com/artist/2TbLxamjJeEArYTdwdpvC6), [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מיקה משה](https://open.spotify.com/album/0lrNdjfc5hRNVeqwcSJ8Ak) | 4:00 | 2024-06-27 | 2024-08-02 |
+| [זאת חנוכה](https://open.spotify.com/track/1IF2SYMl7zrIIp7OCUlaxC) | [Maor Cohen](https://open.spotify.com/artist/2vPzfdWIYB3zCD8qEIvMM0) | [זאת חנוכה](https://open.spotify.com/album/4JSOfLeyYZE7VNUt9f33eK) | 3:26 | 2025-01-02 |  |
 | [זה הסוף](https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [זה הסוף](https://open.spotify.com/album/71pTFfLhPQ6uEjx1uOmHr4) | 2:55 | 2024-06-27 | 2024-07-05 |
 | [זה ככה כל הזמן](https://open.spotify.com/track/5J9kPVpxZEiRQzsWUx3COM) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [זה ככה כל הזמן](https://open.spotify.com/album/53Fz69cxmFTSpC6Bpm3dZP) | 3:29 | 2024-08-08 | 2024-10-04 |
 | [חיילת של אושר](https://open.spotify.com/track/6Cp1HsYY2lWxO6wZviv7O0) | [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [חיילת של אושר](https://open.spotify.com/album/3HJxggybi3KKXQUvXi1lb9) | 2:30 | 2024-08-29 | 2024-10-04 |

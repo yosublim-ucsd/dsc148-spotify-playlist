@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash x Damso ",
+  "description": "Les hits dancehall du moment. Photo : Kybba",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -3340,7 +3340,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 131071,
       "name": "Friday",
       "url": "https://open.spotify.com/track/44uSkhcewItyroMzNr6rFF"
@@ -3388,6 +3388,24 @@
       "duration_ms": 152352,
       "name": "Full Plastique",
       "url": "https://open.spotify.com/track/0iwBzyOvJUTcxkEdiTVmAs"
+    },
+    {
+      "album": {
+        "name": "F\u00e8 Plas",
+        "url": "https://open.spotify.com/album/7l5GuplNsAdqyEZV7pzNT0"
+      },
+      "artists": [
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236654,
+      "name": "F\u00e8 Plas",
+      "url": "https://open.spotify.com/track/1wlMZAtBzeruzXfsSNtLd2"
     },
     {
       "album": {

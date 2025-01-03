@@ -1551,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "AIN'T NO MERCY",
+        "url": "https://open.spotify.com/album/1oorWXeTEMNlDYJWcHYkNZ"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        },
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "AIN'T NO MERCY",
+      "url": "https://open.spotify.com/track/1UyoLF9J88jvOimhEy6jnm"
+    },
+    {
+      "album": {
         "name": "Cagoul\u00e9",
         "url": "https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0"
       },
@@ -3582,7 +3604,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 165613,
       "name": "BIP! (feat. Morad)",
       "url": "https://open.spotify.com/track/4YQUZ08BI3sb4VdWj09Jc2"
@@ -5664,7 +5686,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 149096,
       "name": "CHIRON",
       "url": "https://open.spotify.com/track/1UInAyocR12QyZjj4Ehx7w"
@@ -10518,7 +10540,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 243400,
       "name": "GELBI T3AB (feat. Samara)",
       "url": "https://open.spotify.com/track/1B7hZEXDweYKwHMT3CcHC7"
@@ -12188,7 +12210,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 223278,
       "name": "HWASI",
       "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
@@ -18940,7 +18962,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 177049,
       "name": "Mizane",
       "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"

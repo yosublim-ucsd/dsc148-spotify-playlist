@@ -1,6 +1,6 @@
 {
   "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 242. Artwork: Isu Kim",
-  "num_followers": 8791,
+  "num_followers": 8794,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-12-26 17:40:51",
       "album": {
+        "name": "\u0e19\u0e34\u0e17\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/4Red8Au1DIlsnLt3Y40dee"
+      },
+      "artists": [
+        {
+          "name": "Chameen",
+          "url": "https://open.spotify.com/artist/3ADNeGjopyldLHgA7D2zRv"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "\u0e19\u0e34\u0e17\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/20NQZ3GkiwP5XFPT0GTU10"
+    },
+    {
+      "added_at": "2024-12-26 17:40:51",
+      "album": {
         "name": "\u0e0b\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49 - Single",
         "url": "https://open.spotify.com/album/61duPsCmWoFMPg5NW1kKQh"
       },
@@ -303,38 +319,6 @@
     {
       "added_at": "2024-12-26 17:40:51",
       "album": {
-        "name": "\u0e19\u0e34\u0e17\u0e23\u0e32",
-        "url": "https://open.spotify.com/album/4Red8Au1DIlsnLt3Y40dee"
-      },
-      "artists": [
-        {
-          "name": "Chameen",
-          "url": "https://open.spotify.com/artist/3ADNeGjopyldLHgA7D2zRv"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "\u0e19\u0e34\u0e17\u0e23\u0e32",
-      "url": "https://open.spotify.com/track/20NQZ3GkiwP5XFPT0GTU10"
-    },
-    {
-      "added_at": "2024-12-26 17:40:51",
-      "album": {
-        "name": "\u0e1e\u0e32\u0e09\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e44\u0e1b (Lend Me a Good Night)",
-        "url": "https://open.spotify.com/album/50H4bORP6RiAEihMwrYPFp"
-      },
-      "artists": [
-        {
-          "name": "YEP MAY YEP",
-          "url": "https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga"
-        }
-      ],
-      "duration_ms": 186064,
-      "name": "\u0e1e\u0e32\u0e09\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e44\u0e1b (Lend Me a Good Night)",
-      "url": "https://open.spotify.com/track/3XuguUkJSa3cOaocap8NUt"
-    },
-    {
-      "added_at": "2024-12-26 17:40:51",
-      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e1e\u0e39\u0e14\u0e01\u0e48\u0e2d\u0e19 (Say it)",
         "url": "https://open.spotify.com/album/7tPBuA4Om7L4970dUeIlXv"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 208723,
       "name": "\u0e40\u0e18\u0e2d\u0e1e\u0e39\u0e14\u0e01\u0e48\u0e2d\u0e19 (Say it)",
       "url": "https://open.spotify.com/track/6nG54ZDkyoRKUZ9Fc1d21T"
+    },
+    {
+      "added_at": "2024-12-26 17:40:51",
+      "album": {
+        "name": "\u0e1e\u0e32\u0e09\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e44\u0e1b (Lend Me a Good Night)",
+        "url": "https://open.spotify.com/album/50H4bORP6RiAEihMwrYPFp"
+      },
+      "artists": [
+        {
+          "name": "YEP MAY YEP",
+          "url": "https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga"
+        }
+      ],
+      "duration_ms": 186064,
+      "name": "\u0e1e\u0e32\u0e09\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e44\u0e1b (Lend Me a Good Night)",
+      "url": "https://open.spotify.com/track/3XuguUkJSa3cOaocap8NUt"
     },
     {
       "added_at": "2024-12-26 17:40:51",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-12-26 17:40:51",
       "album": {
+        "name": "\u0e40\u0e04\u0e35\u0e22\u0e07\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/1YSKzm0KUwsarP24mPSAHp"
+      },
+      "artists": [
+        {
+          "name": "Driver Boy",
+          "url": "https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi"
+        }
+      ],
+      "duration_ms": 279757,
+      "name": "\u0e40\u0e04\u0e35\u0e22\u0e07\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/1fMuv5QWejzNhXVfmOWgXj"
+    },
+    {
+      "added_at": "2024-12-26 17:40:51",
+      "album": {
         "name": "\u0e1c\u0e39\u0e49\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e20\u0e31\u0e22\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2b\u0e07\u0e32",
         "url": "https://open.spotify.com/album/60hklrkr0ioKklPJYUsNkL"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2024-12-26 17:40:51",
       "album": {
-        "name": "\u0e40\u0e04\u0e35\u0e22\u0e07\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/1YSKzm0KUwsarP24mPSAHp"
-      },
-      "artists": [
-        {
-          "name": "Driver Boy",
-          "url": "https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi"
-        }
-      ],
-      "duration_ms": 279757,
-      "name": "\u0e40\u0e04\u0e35\u0e22\u0e07\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/1fMuv5QWejzNhXVfmOWgXj"
-    },
-    {
-      "added_at": "2024-12-26 17:40:51",
-      "album": {
         "name": "\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e43\u0e08",
         "url": "https://open.spotify.com/album/1qZJQ68CUTZvuaRGTCsNbY"
       },
@@ -491,50 +491,18 @@
     {
       "added_at": "2024-12-26 17:40:51",
       "album": {
-        "name": "\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e01\u0e47\u0e04\u0e07\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/620KelJBebMn7Cu0DaH3cU"
+        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e2b\u0e21\u0e14\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e21\u0e35\u0e2d\u0e30\u0e44\u0e23\u0e2d\u0e22\u0e32\u0e01\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/2qCCss1pBNOwOKxQJQvJJR"
       },
       "artists": [
         {
-          "name": "Weeed Bomb",
-          "url": "https://open.spotify.com/artist/71tVOqttMufXBW90RjZNoF"
+          "name": "Atip",
+          "url": "https://open.spotify.com/artist/7BjEwYS4mwbVRhQb9aFn4m"
         }
       ],
-      "duration_ms": 246338,
-      "name": "\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e01\u0e47\u0e04\u0e07\u0e14\u0e35",
-      "url": "https://open.spotify.com/track/2qPfwiwEiSVt0xqvFFIBiJ"
-    },
-    {
-      "added_at": "2024-12-26 17:40:51",
-      "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
-        "url": "https://open.spotify.com/album/5WwJStCxtsBCqDzaSLnRJI"
-      },
-      "artists": [
-        {
-          "name": "REDBONEZ",
-          "url": "https://open.spotify.com/artist/4qpeNoHKlRtFTI8f6CSlDl"
-        }
-      ],
-      "duration_ms": 242823,
-      "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
-      "url": "https://open.spotify.com/track/143rW7m2jOty3wei4nqcA8"
-    },
-    {
-      "added_at": "2024-12-26 17:40:51",
-      "album": {
-        "name": "\u0e17\u0e35\u0e48\u0e08\u0e23\u0e34\u0e07",
-        "url": "https://open.spotify.com/album/3mRBYrJTr05NF5kKTZ6Cqy"
-      },
-      "artists": [
-        {
-          "name": "Beam Voranan",
-          "url": "https://open.spotify.com/artist/3nbR3NMrJAQXAglRmOajhv"
-        }
-      ],
-      "duration_ms": 281023,
-      "name": "\u0e17\u0e35\u0e48\u0e08\u0e23\u0e34\u0e07",
-      "url": "https://open.spotify.com/track/1tbTLAgqCrgXaEHxZ1c5fD"
+      "duration_ms": 126041,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e2b\u0e21\u0e14\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e21\u0e35\u0e2d\u0e30\u0e44\u0e23\u0e2d\u0e22\u0e32\u0e01\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/2cTBwGGXr2rLhSl7jJDS54"
     },
     {
       "added_at": "2024-12-26 17:40:51",
@@ -555,6 +523,38 @@
     {
       "added_at": "2024-12-26 17:40:51",
       "album": {
+        "name": "\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e01\u0e47\u0e04\u0e07\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/620KelJBebMn7Cu0DaH3cU"
+      },
+      "artists": [
+        {
+          "name": "Weeed Bomb",
+          "url": "https://open.spotify.com/artist/71tVOqttMufXBW90RjZNoF"
+        }
+      ],
+      "duration_ms": 246338,
+      "name": "\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e01\u0e47\u0e04\u0e07\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/2qPfwiwEiSVt0xqvFFIBiJ"
+    },
+    {
+      "added_at": "2024-12-26 17:40:51",
+      "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e08\u0e23\u0e34\u0e07",
+        "url": "https://open.spotify.com/album/3mRBYrJTr05NF5kKTZ6Cqy"
+      },
+      "artists": [
+        {
+          "name": "Beam Voranan",
+          "url": "https://open.spotify.com/artist/3nbR3NMrJAQXAglRmOajhv"
+        }
+      ],
+      "duration_ms": 281023,
+      "name": "\u0e17\u0e35\u0e48\u0e08\u0e23\u0e34\u0e07",
+      "url": "https://open.spotify.com/track/1tbTLAgqCrgXaEHxZ1c5fD"
+    },
+    {
+      "added_at": "2024-12-26 17:40:51",
+      "album": {
         "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e44\u0e1b\u0e17\u0e38\u0e01\u0e1b\u0e35\u0e40\u0e25\u0e22\u0e19\u0e30 (Together)",
         "url": "https://open.spotify.com/album/4iAgQogboRb3ahlw9v6IiQ"
       },
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-12-26 17:40:51",
       "album": {
-        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e2b\u0e21\u0e14\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e21\u0e35\u0e2d\u0e30\u0e44\u0e23\u0e2d\u0e22\u0e32\u0e01\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/2qCCss1pBNOwOKxQJQvJJR"
+        "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/5WwJStCxtsBCqDzaSLnRJI"
       },
       "artists": [
         {
-          "name": "Atip",
-          "url": "https://open.spotify.com/artist/7BjEwYS4mwbVRhQb9aFn4m"
+          "name": "REDBONEZ",
+          "url": "https://open.spotify.com/artist/4qpeNoHKlRtFTI8f6CSlDl"
         }
       ],
-      "duration_ms": 126041,
-      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e2b\u0e21\u0e14\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e21\u0e35\u0e2d\u0e30\u0e44\u0e23\u0e2d\u0e22\u0e32\u0e01\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/2cTBwGGXr2rLhSl7jJDS54"
+      "duration_ms": 242823,
+      "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/143rW7m2jOty3wei4nqcA8"
     },
     {
       "added_at": "2024-12-26 17:40:51",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-12-26 17:40:51",
       "album": {
-        "name": "\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e0d\u0e34\u0e07\u0e43\u0e19\u0e43\u0e08 (Mymind)",
-        "url": "https://open.spotify.com/album/1hNl5etdWzKFjYA68dxBld"
-      },
-      "artists": [
-        {
-          "name": "MONEYWALL",
-          "url": "https://open.spotify.com/artist/5iQCaXImJ3CAXASfPoWTHy"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e0d\u0e34\u0e07\u0e43\u0e19\u0e43\u0e08 - Mymind",
-      "url": "https://open.spotify.com/track/4UJDvco3IGn2q2qfaImyDr"
-    },
-    {
-      "added_at": "2024-12-26 17:40:51",
-      "album": {
         "name": "PMS (\u0e1b\u0e48\u0e27\u0e22 \u0e1b\u0e48\u0e27\u0e22)",
         "url": "https://open.spotify.com/album/58t3tX24cJkO8L5kdA1ifY"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2024-12-26 17:40:51",
       "album": {
-        "name": "\u0e17\u0e35\u0e2b\u0e25\u0e31\u0e07\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07 (No,Thanks)",
-        "url": "https://open.spotify.com/album/5SudO01dWlxvfWisnEbRsg"
+        "name": "\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e0d\u0e34\u0e07\u0e43\u0e19\u0e43\u0e08 (Mymind)",
+        "url": "https://open.spotify.com/album/1hNl5etdWzKFjYA68dxBld"
       },
       "artists": [
         {
-          "name": "BABEPOOM",
-          "url": "https://open.spotify.com/artist/3JBMALUBTQeTn7xC92wZqK"
+          "name": "MONEYWALL",
+          "url": "https://open.spotify.com/artist/5iQCaXImJ3CAXASfPoWTHy"
         }
       ],
-      "duration_ms": 266363,
-      "name": "\u0e17\u0e35\u0e2b\u0e25\u0e31\u0e07\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07 (No,Thanks)",
-      "url": "https://open.spotify.com/track/6u2qGRRXfwNKSUBktyihUy"
+      "duration_ms": 246500,
+      "name": "\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e0d\u0e34\u0e07\u0e43\u0e19\u0e43\u0e08 - Mymind",
+      "url": "https://open.spotify.com/track/4UJDvco3IGn2q2qfaImyDr"
     },
     {
       "added_at": "2024-12-26 17:40:51",
@@ -703,6 +687,22 @@
       "duration_ms": 179047,
       "name": "\u0e41\u0e04\u0e48\u0e2d\u0e35\u0e01\u0e04\u0e37\u0e19",
       "url": "https://open.spotify.com/track/1GTEnUDEHAEWZ1Y1dP5NVZ"
+    },
+    {
+      "added_at": "2024-12-26 17:40:51",
+      "album": {
+        "name": "\u0e17\u0e35\u0e2b\u0e25\u0e31\u0e07\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07 (No,Thanks)",
+        "url": "https://open.spotify.com/album/5SudO01dWlxvfWisnEbRsg"
+      },
+      "artists": [
+        {
+          "name": "BABEPOOM",
+          "url": "https://open.spotify.com/artist/3JBMALUBTQeTn7xC92wZqK"
+        }
+      ],
+      "duration_ms": 266363,
+      "name": "\u0e17\u0e35\u0e2b\u0e25\u0e31\u0e07\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07 (No,Thanks)",
+      "url": "https://open.spotify.com/track/6u2qGRRXfwNKSUBktyihUy"
     },
     {
       "added_at": "2024-12-26 17:40:51",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-12-26 17:40:51",
       "album": {
-        "name": "Santy Baby",
-        "url": "https://open.spotify.com/album/1ddVQBFwwZFjLuNa9unmsi"
-      },
-      "artists": [
-        {
-          "name": "DOUBLE G",
-          "url": "https://open.spotify.com/artist/12JDfiCl8UUEZxQrMVywC1"
-        }
-      ],
-      "duration_ms": 146488,
-      "name": "Santy Baby",
-      "url": "https://open.spotify.com/track/66yclpLf7SCMjM0LU8xEs2"
-    },
-    {
-      "added_at": "2024-12-26 17:40:51",
-      "album": {
         "name": "Take your time",
         "url": "https://open.spotify.com/album/1huOyIpoONtA07MuknVYo7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 291515,
       "name": "Take your time",
       "url": "https://open.spotify.com/track/6wtoDK1ZWmcEEqM3G1x9JX"
+    },
+    {
+      "added_at": "2024-12-26 17:40:51",
+      "album": {
+        "name": "Santy Baby",
+        "url": "https://open.spotify.com/album/1ddVQBFwwZFjLuNa9unmsi"
+      },
+      "artists": [
+        {
+          "name": "DOUBLE G",
+          "url": "https://open.spotify.com/artist/12JDfiCl8UUEZxQrMVywC1"
+        }
+      ],
+      "duration_ms": 146488,
+      "name": "Santy Baby",
+      "url": "https://open.spotify.com/track/66yclpLf7SCMjM0LU8xEs2"
     },
     {
       "added_at": "2024-12-26 17:40:51",

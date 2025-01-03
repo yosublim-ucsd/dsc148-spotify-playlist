@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>"
 
-332 songs - 1 day 10 hr 29 min
+333 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Umbhedesho \- Live](https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 4:32 | 2023-06-09 |  |
 | [Umhlatshelo \(The Sacrifice\)](https://open.spotify.com/track/7gt15H6CRr94YljSVLK8H3) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Umhlatshelo \(The Sacrifice\)](https://open.spotify.com/album/50UIxQJzLuazRKXqWwCXd6) | 11:48 | 2023-07-07 | 2024-07-12 |
 | [Umi Nami Engumthokozisi](https://open.spotify.com/track/0qUckWrZmSXvzn0m0kbyMI) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Umi Nami Engumthokozisi](https://open.spotify.com/album/4iFzLQ51cRqqldRBg6zefy) | 4:45 | 2023-10-13 | 2024-02-02 |
+| [Umkhuleko We Bandla](https://open.spotify.com/track/2CFDmYlaldjUNC00kNmVRe) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Umkhuleko We Bandla](https://open.spotify.com/album/4hlNaELIOZhmQbjLq0Yxum) | 8:27 | 2025-01-03 |  |
 | [Umkhulu Simakade](https://open.spotify.com/track/2OTsc3vlxgQZeNFhp6JW50) | [Glory of the Last Days](https://open.spotify.com/artist/2TVTBhxlNmH8LKV0DqZBsZ) | [Umhlengi Wami](https://open.spotify.com/album/7nb6gINUO6Ud5VpthuqS9B) | 9:42 | 2024-03-29 | 2024-04-05 |
 | [Umoya Praise Medley \- Live](https://open.spotify.com/track/2Y8Nh5gZpcMl9Uh0NGszhC) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 18: One Purpose \(Live at CityHill Church, Durban 2014\)](https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr) | 9:58 | 2024-04-05 |  |
 | [Umuhle \(Live\)](https://open.spotify.com/track/6qMYfriQOG2alYAWFTKBiq) | [Buhle Thela](https://open.spotify.com/artist/3LW26tYtBgsMCv8QpoUuhs) | [Umuhle](https://open.spotify.com/album/540wvtDmjHq2p3muUBUkyV) | 6:54 | 2024-03-29 | 2024-04-05 |

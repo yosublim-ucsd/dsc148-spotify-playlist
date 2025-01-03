@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 GIIN in cover",
+  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 chiaroscuro in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1210,6 +1210,24 @@
       "duration_ms": 219019,
       "name": "Anche questa \u00e8 insicurezza",
       "url": "https://open.spotify.com/track/7Jv6EL3KvtPEdK67S66fVE"
+    },
+    {
+      "album": {
+        "name": "Anche tu galleggerai",
+        "url": "https://open.spotify.com/album/4nnp0Z9AYhgziohUPFwV4U"
+      },
+      "artists": [
+        {
+          "name": "Quarantadue",
+          "url": "https://open.spotify.com/artist/0LnuBmiLGCzdZ23sgFMrG5"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511612,
+      "name": "Anche tu galleggerai",
+      "url": "https://open.spotify.com/track/5mzfV33CS8vpXAxZywlUCK"
     },
     {
       "album": {
@@ -2606,7 +2624,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 200920,
       "name": "Bright Black Hole",
       "url": "https://open.spotify.com/track/3cVTr5LRWm1ypwCUjfWN2t"
@@ -4992,7 +5010,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 167680,
       "name": "Cuori infranti",
       "url": "https://open.spotify.com/track/0D0ZSyiqzZcuvbXqMi76fg"
@@ -6231,6 +6249,24 @@
     },
     {
       "album": {
+        "name": "Equatoriale",
+        "url": "https://open.spotify.com/album/7i3jbp4P51QCToFKxwEgoH"
+      },
+      "artists": [
+        {
+          "name": "Leita",
+          "url": "https://open.spotify.com/artist/5uZSi8TsRkUiPOcBZyPXZO"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194785,
+      "name": "Equatoriale",
+      "url": "https://open.spotify.com/track/4TGZutK0f5xXiR1pzWqKKS"
+    },
+    {
+      "album": {
         "name": "Equidistanti",
         "url": "https://open.spotify.com/album/3mjSTBj1BMm1naf1viNBRF"
       },
@@ -7182,6 +7218,24 @@
       "duration_ms": 211649,
       "name": "Fiji",
       "url": "https://open.spotify.com/track/71IMl8wVSkav5NPjqk9bxe"
+    },
+    {
+      "album": {
+        "name": "ALLERTA!",
+        "url": "https://open.spotify.com/album/7qodb5SNxzTjW64ib0FVEm"
+      },
+      "artists": [
+        {
+          "name": "ALLERTA!",
+          "url": "https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197843,
+      "name": "Filistei",
+      "url": "https://open.spotify.com/track/7Dm5Rw7I2UTqVpLVVsWQLa"
     },
     {
       "album": {
@@ -9228,7 +9282,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 245819,
       "name": "I Want to Go",
       "url": "https://open.spotify.com/track/4Osk8xRWZfrSDxpMR70QSU"
@@ -15848,7 +15902,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 159123,
       "name": "Pianopiano!",
       "url": "https://open.spotify.com/track/51lqAz8iOM3IN8TpR4xSxA"
@@ -16406,7 +16460,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 152000,
       "name": "Post Punk",
       "url": "https://open.spotify.com/track/32whoVKitdwAyuzAJmK3X1"
@@ -16748,7 +16802,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 207321,
       "name": "PSM",
       "url": "https://open.spotify.com/track/7w96pxSaMkIxm7ZWecmpGA"
@@ -17052,7 +17106,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 179578,
       "name": "Ragazzo Fragile",
       "url": "https://open.spotify.com/track/0sAmlbM6PIRqEYzbEWIhmg"
@@ -20082,7 +20136,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 306700,
       "name": "T-POSING",
       "url": "https://open.spotify.com/track/2oUApuSxxjt6sbhcx2V5yB"

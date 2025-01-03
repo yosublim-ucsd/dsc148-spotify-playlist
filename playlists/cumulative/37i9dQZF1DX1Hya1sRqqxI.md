@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-346 songs - 22 hr 47 min
+347 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [It Only Takes A Minute \- Remastered](https://open.spotify.com/track/5DEy8wVNCdJdAGNsOWxmVQ) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Anthology](https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8) | 4:03 | 2021-03-22 | 2022-06-01 |
 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 | 2021-03-22 |  |
 | [It's Been so Long](https://open.spotify.com/track/383bBw9IAANbB7WzKaE22g) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Singles 1974 \- 76](https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY) | 2:40 | 2021-09-08 | 2022-06-24 |
-| [Jeepster](https://open.spotify.com/track/5BUVbe6Zt1jVgKFKMdp0p0) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:07 | 2021-09-08 |  |
+| [Jeepster](https://open.spotify.com/track/5BUVbe6Zt1jVgKFKMdp0p0) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:07 | 2021-09-08 | 2025-01-03 |
 | [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 | 2021-03-22 |  |
 | [Jive Talkin'](https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 3:42 | 2021-03-22 |  |
 | [Juke Box Jive](https://open.spotify.com/track/2jyXWrQQapcB0mRbKvcEyU) | [The Rubettes](https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39) | [The Best Of](https://open.spotify.com/album/3LsiyvsH7JH1EA4slItT8N) | 3:02 | 2021-09-08 | 2022-07-27 |
@@ -182,6 +182,7 @@
 | [Leave Me Alone \(Ruby Red Dress\)](https://open.spotify.com/track/2Uak7fGdGpwsgbIQWA8iCQ) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Helen Reddy's Greatest Hits \(And More\)](https://open.spotify.com/album/2CGgJ9PpKXTDCEvJ6qS9AV) | 3:27 | 2021-09-08 | 2022-06-10 |
 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 | 2021-09-08 |  |
 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/2Dm6EGLAZLjk0iBIdUN9qp) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Give and Take \- The Best of The Pioneers](https://open.spotify.com/album/5TwvKc49ROXhjd3oha206q) | 3:07 | 2021-09-08 | 2022-07-17 |
+| [Let's All Chant](https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw) | [The Michael Zager Band](https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd) | [Let's All Chant](https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez) | 3:04 | 2021-09-08 |  |
 | [Light My Fire / 137 Disco Heaven](https://open.spotify.com/track/7aUeF1jaMeEA1ydV7vit1X) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock On Wood: The Anthology](https://open.spotify.com/album/6brPlzSCD2ucBdhqmasvdf) | 8:24 | 2021-09-08 | 2022-06-02 |
 | [Listen To What The Man Said \- 2014 Remaster](https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Venus And Mars \(Archive Collection\)](https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9) | 4:00 | 2021-09-08 | 2023-05-08 |
 | [Little Bitty Pretty One](https://open.spotify.com/track/056YIuMW7ds4FhC7DcYmz5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Lookin' Through The Windows](https://open.spotify.com/album/5S5HVazwAhiLRsmwpZN8J9) | 2:49 | 2021-09-08 | 2022-07-09 |

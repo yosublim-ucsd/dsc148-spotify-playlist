@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-297 songs - 17 hr 16 min
+298 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [celestial sojourn](https://open.spotify.com/track/3tI1sd213SOODpv7bYRutx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:20 | 2022-02-18 |  |
 | [Cepheid](https://open.spotify.com/track/3lrj8lldxN9UESE70sspmd) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [Light Years](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) | 4:32 | 2021-05-27 |  |
 | [Chill Kingdom](https://open.spotify.com/track/7lxPJaeT21LyiC7Pu4eSNX) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Chill Kingdom](https://open.spotify.com/album/3YPivgJnzq2dZbKNu8xZy9) | 3:47 | 2021-01-15 | 2021-05-27 |
-| [Clear moment](https://open.spotify.com/track/5khfKdJXTPsqK6PviRofGE) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Elevate](https://open.spotify.com/album/1MWyqip0t6nGrWIg1G1yyh) | 3:44 | 2023-01-27 |  |
+| [Clear moment](https://open.spotify.com/track/5khfKdJXTPsqK6PviRofGE) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Elevate](https://open.spotify.com/album/1MWyqip0t6nGrWIg1G1yyh) | 3:44 | 2023-01-27 | 2025-01-03 |
 | [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 | 2023-12-01 |  |
 | [Clockwork](https://open.spotify.com/track/1Mkp2QNd6KR24DTf1xlcm1) | [Skycloud](https://open.spotify.com/artist/3M5lh5Ie2gqnN7LkXvojX5) | [Endless](https://open.spotify.com/album/6dvEovpXNRaNhx7fp86frH) | 3:10 | 2022-02-04 | 2024-11-02 |
 | [Clouds Come By](https://open.spotify.com/track/22QpETyov5UfGA9AinrKSu) | [Temperance Space](https://open.spotify.com/artist/2DPK0zJqIfqXdS6R7IVLiO) | [Clouds Come By](https://open.spotify.com/album/4wuAL4aslivLUKRHgn7xHI) | 4:42 | 2020-12-08\* | 2021-07-24 |
@@ -256,6 +256,7 @@
 | [Standing in Silence, Pt\. 3](https://open.spotify.com/track/7peWz6xwuR5DWdjDMQuGZn) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0KLAXxu7GBA811RWmg7raB) | 5:13 | 2022-07-22 | 2022-09-11 |
 | [Star Waves](https://open.spotify.com/track/2I0J13l3avJt2EfLHM03Qa) | [Vandis](https://open.spotify.com/artist/1Aco6Nf3MLLDTGaiyd1Y1u) | [Star Waves](https://open.spotify.com/album/50isrbNQMokQzbzTlBriSW) | 3:23 | 2020-12-08\* | 2021-05-27 |
 | [Stella](https://open.spotify.com/track/1ZLsZGzB04p76fyrUcnxOf) | [The Lost Astronaut](https://open.spotify.com/artist/2th806MD01Yc7JKd06uJ14) | [Stella](https://open.spotify.com/album/1ai1jBFImpmxd6KkSPZtMX) | 3:00 | 2020-12-08\* |  |
+| [Stillness](https://open.spotify.com/track/4bnaF7yVJ8vc0jmdbwGkeP) | [Gae Terragni](https://open.spotify.com/artist/48aSPr6mkeQaIKPJtMycrj) | [Stillness](https://open.spotify.com/album/2hMPYFNkc0f3Ceq7BjZl5w) | 2:38 | 2024-11-14 |  |
 | [stratus dream](https://open.spotify.com/track/1vXEcyQCc2LFnJD6hImYdx) | [Dreamsome](https://open.spotify.com/artist/1dqmMwqD6ylzixREHMaZyB) | [Clouds EP](https://open.spotify.com/album/0FqYLntyZVm3JHjOe9Zrtu) | 3:18 | 2024-08-21 | 2024-11-19 |
 | [Submergia](https://open.spotify.com/track/0bHPNWPKsoqlGkQJa7Pt7f) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [Submergia](https://open.spotify.com/album/4jR4xnfi1ZeA13rStAbPSI) | 2:57 | 2020-12-08\* | 2021-03-18 |
 | [Suhpratti](https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J) | [Parazal](https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49) | [Hum](https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK) | 3:06 | 2020-12-08\* | 2021-05-27 |

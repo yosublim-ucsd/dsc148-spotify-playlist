@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Yuki Lovey
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 不平靜水域
 
-1,284 songs - 3 day 0 hr 29 min
+1,286 songs - 3 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [出水芙蓉](https://open.spotify.com/track/3x2OFytSWdt2TkdJrWNtn5) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [出水芙蓉](https://open.spotify.com/album/1VSJ5mtJU9KH4poF99mJcV) | 1:57 | 2022-09-29 | 2023-02-03 |
 | [出門口食豆腐花](https://open.spotify.com/track/72vHdnHpYOZNjjQNmf2D1k) | [34 pessimists](https://open.spotify.com/artist/7CIc2EIGlSABfECh8nV4Li) | [海闊天空 sea wide sky empty](https://open.spotify.com/album/0r3y1Watg2URRb59Kuqloz) | 2:56 | 2023-09-14 | 2023-12-01 |
 | [分心](https://open.spotify.com/track/3sMKYHJbsxx3fRJQ1Cg2NT) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [分心](https://open.spotify.com/album/6ZqwuPQxzlRsoIrnCV7cgr) | 2:49 | 2023-09-21 | 2024-01-05 |
+| [到時](https://open.spotify.com/track/4FcEVN18bBNzv6Mp1oG4F6) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [到時](https://open.spotify.com/album/4MI3HWSBBmBS9qfmKiL3LE) | 4:13 | 2025-01-02 |  |
 | [刺](https://open.spotify.com/track/6C5BvVK3tVe3OeUfhJZWN8) | [沿海敬拜](https://open.spotify.com/artist/0ETYn9v4F1un0EI45OfPd4) | [刺](https://open.spotify.com/album/2jPgaYCLJS79gtmbQ28de5) | 3:30 | 2023-05-25 | 2023-09-01 |
 | [剃光頭](https://open.spotify.com/track/4Go5fO2eGto0kzaWICw1Ov) | [Ryan's Bucket List](https://open.spotify.com/artist/4eBKRt82Hdn471MeTmOFFt) | [剃光頭](https://open.spotify.com/album/62cZNWXmxBjJcZjZImiQLX) | 3:10 | 2022-05-26 | 2022-06-10 |
 | [半漫遊世界](https://open.spotify.com/track/1xl10XtzLg9EW46AxxwXP5) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [半漫遊世界](https://open.spotify.com/album/5dDVngK1TsKCuSOCHiiwzo) | 3:35 | 2022-05-26 | 2022-07-29 |
@@ -1280,6 +1281,7 @@
 | [香](https://open.spotify.com/track/1mQs7TBokQ8l85TUcdlGeu) | [Delf](https://open.spotify.com/artist/3ZVZi0IyNLH18rZsmA8SfO), [polun](https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq) | [Geosonics \- A Love Letter](https://open.spotify.com/album/25AEzqbb0RLpOkMnGidwPV) | 1:28 | 2023-12-21 | 2024-05-10 |
 | [香港地pt.2](https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [香港地pt.2](https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu) | 3:35 | 2022-05-26 | 2022-07-29 |
 | [騷](https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [騷](https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE) | 4:14 | 2022-05-26 | 2022-09-09 |
+| [高純度愛](https://open.spotify.com/track/5gdkXKI0sweaHEwBbs0IKU) | [不平靜水域](https://open.spotify.com/artist/4EMRISVCxzXmNZUnbqKDD2) | [高純度愛](https://open.spotify.com/album/72d3F5cxm33KkU7r2uP53K) | 3:37 | 2025-01-02 |  |
 | [髮端](https://open.spotify.com/track/7nWyAT4CyWrHKyKlAxjbVH) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [週五狀態](https://open.spotify.com/album/4kMjk7NN45w7WSfz7o5uD4) | 3:12 | 2024-11-08 |  |
 | [鬆](https://open.spotify.com/track/1sM06CdsgQUWAFo8NaQWoZ) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [鬆](https://open.spotify.com/album/5JFJ4Lo6knTRUFPW6JoKTl) | 3:02 | 2023-08-10 | 2023-11-03 |
 | [魚蛋燒賣](https://open.spotify.com/track/4lSKRgNrR3x8nnLSTXpFI1) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva), [N\-Free](https://open.spotify.com/artist/0or4a5LZi0qF0shTXnTNvZ) | [魚蛋燒賣](https://open.spotify.com/album/3EMwOR2jUzFD08ncmVCpnw) | 2:35 | 2023-02-23 | 2023-07-14 |

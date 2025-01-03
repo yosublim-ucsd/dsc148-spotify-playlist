@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Senza\_Cri
+> ✨giovane✨pop✨z✨ Cover: ANTONIA
 
-583 songs - 1 day 3 hr 3 min
+584 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 | 2023-05-15 | 2024-03-29 |
 | [Antiproiettile](https://open.spotify.com/track/1RwgqtkCbCWafDa6NFnd1m) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Antiproiettile](https://open.spotify.com/album/77dLEvgklE2aHse254YZVs) | 2:34 | 2024-04-18 | 2024-06-01 |
 | [ARANCIATA](https://open.spotify.com/track/4X24I8ugXKgRgdtC9LzmlP) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ARANCIATA](https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK) | 3:14 | 2023-06-08 | 2023-10-06 |
-| [aria](https://open.spotify.com/track/0xryh8A0H9gaqau8JtobTy) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [aria](https://open.spotify.com/album/4jyju09H9enkSvlupvGSZm) | 2:35 | 2024-09-19 |  |
+| [aria](https://open.spotify.com/track/0xryh8A0H9gaqau8JtobTy) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [aria](https://open.spotify.com/album/4jyju09H9enkSvlupvGSZm) | 2:35 | 2024-09-19 | 2025-01-03 |
 | [Arsenico](https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:03 | 2023-06-08 | 2023-06-30 |
 | [Assurdo](https://open.spotify.com/track/3ZXL0jrjFsK5tlMifAohYg) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Assurdo](https://open.spotify.com/album/1m64K87nJYI6lwpCQKET7h) | 3:01 | 2024-01-04 | 2024-03-15 |
 | [ATTIMO](https://open.spotify.com/track/0KM17GZroJQiZUkQZEUH1I) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [ATTIMO](https://open.spotify.com/album/46oN09hGI1JujQaLgv1kbL) | 3:07 | 2024-03-07 | 2024-03-29 |
@@ -264,6 +264,7 @@
 | [La parte più bella di me \- RMX](https://open.spotify.com/track/0pBKfPHCqniryGa355fuxX) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/4EwMpauuV16OuTohtrb4Zd) | 2:15 | 2023-10-19 | 2023-10-27 |
 | [La parte più bella di me \- RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 | 2023-10-12 | 2024-03-15 |
 | [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 | 2024-02-07 | 2024-07-12 |
+| [La Storia Della Nostra Vita](https://open.spotify.com/track/5WnEGQ73A7ZyiYs9dLFp6G) | [Spacehippiez](https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh) | [La Storia Della Nostra Vita](https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp) | 2:46 | 2025-01-02 |  |
 | [La Storia Più Triste Del Mondo](https://open.spotify.com/track/4FeBQvfSqo5YxuUKKDGW30) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [La Storia Più Triste Del Mondo](https://open.spotify.com/album/7HLFnEr0FHVK4UvNdaSV3T) | 2:56 | 2024-05-09 | 2024-06-28 |
 | [LA VITA NON UCCIDE](https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [LA VITA NON UCCIDE](https://open.spotify.com/album/7qUZ6SbmXlLh44LvnfMkRg) | 3:11 | 2024-05-16 | 2024-10-04 |
 | [Lacrime Di Piombo](https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:16 | 2023-08-10 | 2024-02-07 |
@@ -454,7 +455,7 @@
 | [Roulette](https://open.spotify.com/track/6WCXJhQsP3ykIr1kOfO7dh) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Roulette](https://open.spotify.com/album/6xSWwCb4pBor8WwaMQ9GWW) | 2:50 | 2024-07-25 | 2024-10-04 |
 | [RUMORE](https://open.spotify.com/track/21ue7kSKtFBqGQNV23uGW8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:39 | 2023-09-28 | 2023-10-06 |
 | [RUMORE](https://open.spotify.com/track/7fxAFWmMsl86C60gW5yooG) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [RUMORE](https://open.spotify.com/album/6Lo4MzfKF6e0mwnEGtdGgd) | 2:39 | 2023-09-12 | 2023-10-04 |
-| [Sale](https://open.spotify.com/track/4uWjmSagtdQFBzPpYYpp1P) | [Tess](https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM), [nlyfive](https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX) | [Sale](https://open.spotify.com/album/4eGWXMAyjbz3y0gi49dqlC) | 2:03 | 2024-12-19 |  |
+| [Sale](https://open.spotify.com/track/4uWjmSagtdQFBzPpYYpp1P) | [Tess](https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM), [nlyfive](https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX) | [Sale](https://open.spotify.com/album/4eGWXMAyjbz3y0gi49dqlC) | 2:03 | 2024-12-19 | 2025-01-03 |
 | [Salire](https://open.spotify.com/track/5kuVlOHjzutgkyopjJn8A2) | [Lucy](https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P) | [Salire](https://open.spotify.com/album/4HYUidAJGBAxq8sxTEd3iV) | 3:09 | 2024-09-26 | 2024-11-14 |
 | [Sangue e Aria](https://open.spotify.com/track/2FGQvZ0P8QcOqAshENIbK2) | [Sercho](https://open.spotify.com/artist/1YzDKK9gJRBqqkL5wxQQTa) | [Sangue e Aria](https://open.spotify.com/album/3FIG3AbOwcV8Ww8ur0jZ55) | 2:35 | 2023-09-21 | 2023-10-20 |
 | [Scappi da me](https://open.spotify.com/track/75vgIeiaO6DtqrToQby1Qg) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck) | [Solo Francesco](https://open.spotify.com/album/6xPawfNwFStXqQHms84B2R) | 2:50 | 2023-03-23 | 2023-04-27 |

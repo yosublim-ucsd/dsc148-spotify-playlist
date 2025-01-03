@@ -794,7 +794,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 112848,
       "name": "Ah\u00ed Estabas T\u00fa",
       "url": "https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 145555,
       "name": "Alma",
       "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 227145,
       "name": "Ciudad de la Paz",
       "url": "https://open.spotify.com/track/2H8upfbsuPJS7YfPVi4Wys"
@@ -7572,6 +7572,24 @@
       "duration_ms": 398222,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU"
+    },
+    {
+      "album": {
+        "name": "Una Tarde Cualquiera",
+        "url": "https://open.spotify.com/album/08BWl9MHCJcrLfRcv0k5EG"
+      },
+      "artists": [
+        {
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236251,
+      "name": "Gente Luminosa",
+      "url": "https://open.spotify.com/track/5mVPLLoGUH4c3D22Gp7gDR"
     },
     {
       "album": {
@@ -13055,6 +13073,24 @@
     },
     {
       "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "New Year\u2019s Day",
+      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
+    },
+    {
+      "album": {
         "name": "Ni Lo Intenten",
         "url": "https://open.spotify.com/album/45tnkwi58ZSonhPRVnI1lp"
       },
@@ -14118,6 +14154,24 @@
       "duration_ms": 221274,
       "name": "Pa Panamericano X Boppa Private (Tik Tok Viral) (Afro House)",
       "url": "https://open.spotify.com/track/3kkIERNkul0TS6TAOmfLgi"
+    },
+    {
+      "album": {
+        "name": "Pa Panamericano X Boppe (Viral Tik Tok) [Remix]",
+        "url": "https://open.spotify.com/album/0V6dZ1VfqQH4MZ6RqPEzRj"
+      },
+      "artists": [
+        {
+          "name": "Dj alan rojas",
+          "url": "https://open.spotify.com/artist/1BSs6bx6xcdHspENpKx25o"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133435,
+      "name": "Pa Panamericano X Boppe (Viral Tik Tok) - Remix",
+      "url": "https://open.spotify.com/track/6hci44Dz65LweTyPsh6ar2"
     },
     {
       "album": {

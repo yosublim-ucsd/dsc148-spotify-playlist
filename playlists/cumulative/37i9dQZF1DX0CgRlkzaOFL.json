@@ -507,6 +507,40 @@
     },
     {
       "album": {
+        "name": "Player 1",
+        "url": "https://open.spotify.com/album/4wdjgUrGbKbMOCx7SkPdgl"
+      },
+      "artists": [
+        {
+          "name": "Takahiro Obata",
+          "url": "https://open.spotify.com/artist/10FfrtPCJ5xFt8xVOOlcsX"
+        },
+        {
+          "name": "Ray Chen",
+          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Cristian M\u0103celaru",
+          "url": "https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr"
+        },
+        {
+          "name": "Suzy Willison-Kawalec",
+          "url": "https://open.spotify.com/artist/1kBDaGiXeEF8Zg2CHGjLfF"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136933,
+      "name": "Isabella's Lullaby (Arr. Rimmer for Violin & Orchestra) - From \"The Promised Neverland\"",
+      "url": "https://open.spotify.com/track/4TJaR49RhPvqu66QdXXGd0"
+    },
+    {
+      "album": {
         "name": "Jojo's Bizarre Adventure: Il vento d'oro - Golden Wind (Piano Version)",
         "url": "https://open.spotify.com/album/0fdoEPSgIRrba6LQMGJwDs"
       },
@@ -1014,6 +1048,24 @@
       "duration_ms": 205426,
       "name": "Prelude (From \"Angel's Egg\")",
       "url": "https://open.spotify.com/track/4DV8T3Ec2VtvsHpkYJ61Um"
+    },
+    {
+      "album": {
+        "name": "Princess Mononoke Theme Song (Piano Version)",
+        "url": "https://open.spotify.com/album/3lZfV1KQFoJkUvkZVo7iYt"
+      },
+      "artists": [
+        {
+          "name": "GabAnime",
+          "url": "https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98733,
+      "name": "Princess Mononoke Theme Song - Piano Version",
+      "url": "https://open.spotify.com/track/3ygqmxlMVd5HeqeDKAHuKw"
     },
     {
       "album": {

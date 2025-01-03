@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Flor de Rap & Ana Tijoux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,557 likes - 101 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,548 likes - 101 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 86 | [Flor Te Mata](https://open.spotify.com/track/6TKA2yBPqSKWpA3hBxRsgl) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Mariposa](https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X) | 2:52 |
 | 87 | [Artista](https://open.spotify.com/track/2aangGJ2zpCkqwufkqJK0O) | [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik) | [Gianni The Sniper](https://open.spotify.com/album/6qCuFADs3BI96jIWbtMhH7) | 1:34 |
 | 88 | [Mi Mejor Rima](https://open.spotify.com/track/3JB5m2J7ArNEFdX5yxXCEF) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Mi Mejor Rima](https://open.spotify.com/album/29vUwFu7OH5mIp1uREyCnR) | 3:42 |
-| 89 | [Viejos Habitantes](https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm) | [Geoenezetao](https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK), [Dj Dacel](https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [SQB](https://open.spotify.com/artist/6aMeTQMYEBSGnp34gku2QB) | [Retrospección Mixtape, Vol\. 1](https://open.spotify.com/album/1aniMf0ypLhf8aonlyNBEm) | 2:17 |
+| 89 | [Viejos Habitantes](https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm) | [Geoenezetao](https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK), [Dj Dacel](https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [Sqb](https://open.spotify.com/artist/751KWo9OE8EhdTgXVCKMOs) | [Retrospección Mixtape, Vol\. 1](https://open.spotify.com/album/1aniMf0ypLhf8aonlyNBEm) | 2:17 |
 | 90 | [THE ROOKIE](https://open.spotify.com/track/3Q2iwtxmzLEIQm0mrSXr5N) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [THE ROOKIE](https://open.spotify.com/album/5ffp7jVauYWxTDvfBSvhpq) | 2:50 |
 | 91 | [Rimas Bravas](https://open.spotify.com/track/3AY1xH0YVYggPz4AKajxvE) | [Adickta Sinfonía](https://open.spotify.com/artist/3McbjZPGQECT5OMujemGpi) | [Rimas Bravas](https://open.spotify.com/album/2aXT7tp2VhvKzY8JLFmIom) | 4:22 |
 | 92 | [Cienfuegos](https://open.spotify.com/track/0lFy22vazKGMQrqxq2N9mT) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Magicenelbeat](https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43) | [Fuero interno](https://open.spotify.com/album/1YJaB1qUlNdUwEnWsJEcXJ) | 3:34 |

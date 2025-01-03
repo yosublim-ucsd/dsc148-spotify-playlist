@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7Lja8VGp26epzrvyl9y02C.md) - [plain]
 
 > Here are the most streamed songs and artists on the PS4 &amp; PS5 in 2024, 2023, and beyond.
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 53,975 likes - 388 songs - 21 hr 14 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 53,990 likes - 388 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -397,4 +397,4 @@ pretty - [cumulative](/playlists/cumulative/7Lja8VGp26epzrvyl9y02C.md) - [plain]
 | 387 | [Suicidal \(feat\. Juice WRLD\) \- Remix](https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Suicidal \(Remix\) \[feat\. Juice WRLD\]](https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH) | 3:45 |
 | 388 | [Bring a Friend](https://open.spotify.com/track/49MnXdjvR2Mmz7wHmQghKT) | [Ayo & Teo](https://open.spotify.com/artist/27mFvqQj8KpjmdKIqcw1mG) | [Bring a Friend](https://open.spotify.com/album/3EhUzLNbHKenRLPS6VaCEb) | 2:46 |
 
-Snapshot ID: `AAACw/AmYQzBIGDn6NMbB7nAHPcylFGv`
+Snapshot ID: `AAACxeuWxGWG3i/cxuhu+mWI6vq6TrTG`

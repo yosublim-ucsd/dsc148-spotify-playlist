@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-219 songs - 17 hr 44 min
+220 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 | 2022-10-03 | 2022-10-27 |
 | [GHAZALI](https://open.spotify.com/track/2LSRM5FkmDXXWQaVQ5SaLM) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/28hdmFb32V93d3Nt4gs6rP) | 5:04 | 2022-09-19 | 2022-10-31 |
 | [Ghazali \- Live](https://open.spotify.com/track/2lVjlg3ZAYsLuKlTxIhANZ) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Ghazali \(Live\)](https://open.spotify.com/album/3Jkrmbv3nLjOIaAYUdAax6) | 5:04 | 2022-10-03 | 2022-10-08 |
-| [Ghazali Habitou](https://open.spotify.com/track/6hhhkowroGbSLNlnuNM8fF) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina](https://open.spotify.com/artist/16xaDylgpAhxXn1nfWxsU6), [Nasreddine Hora](https://open.spotify.com/artist/5v9r8rYVvqOHnJzVUhA9hQ) | [Ghazali Habitou](https://open.spotify.com/album/4T3ywwlgzvYGC5Q0NZgePj) | 5:12 | 2023-07-11 |  |
+| [Ghazali Habitou](https://open.spotify.com/track/6hhhkowroGbSLNlnuNM8fF) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina](https://open.spotify.com/artist/16xaDylgpAhxXn1nfWxsU6), [Nasreddine Hora](https://open.spotify.com/artist/5v9r8rYVvqOHnJzVUhA9hQ) | [Ghazali Habitou](https://open.spotify.com/album/4T3ywwlgzvYGC5Q0NZgePj) | 5:12 | 2023-07-11 | 2025-01-03 |
 | [Ghbina Mora Ghbina](https://open.spotify.com/track/6VnRY3NS8IqE93MmXZSNDe) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ghbina Mora Ghbina](https://open.spotify.com/album/6C3JfZkinqjhUVmmuBEU9l) | 6:20 | 2022-09-20 | 2022-12-01 |
 | [Ghir Wahdi Mdamar](https://open.spotify.com/track/2K6B9NcxYnqwTzFmbjghUm) | [Cheb Mouiz](https://open.spotify.com/artist/2CgN8028PDOYbE4I0tMhZN) | [Ghir Wahdi Mdamar](https://open.spotify.com/album/3yAjMxvfCcH69wFsB9KY7e) | 7:29 | 2022-09-20 | 2022-12-01 |
 | [Haki Swalhek Haki](https://open.spotify.com/track/16ggzT3QSUDvyU2ZIC7W9z) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs), [DJ ILyas](https://open.spotify.com/artist/0I1NTt5GRa9pE7jT3q1KmP) | [Haki Swalhek Haki](https://open.spotify.com/album/7BsoFUPCQRWcLKOtZ63XND) | 3:24 | 2022-11-14 | 2022-11-21 |
@@ -203,6 +203,7 @@
 | [جبدها يا بابور](https://open.spotify.com/track/6kuAcGBU7zjjh3wAVrYG0J) | [Cheb Faycal](https://open.spotify.com/artist/47gfytQSeoeL85ObS9eNmk) | [جبدها يا بابور](https://open.spotify.com/album/6fqKZBsxKUsE8OBVbDw1ly) | 4:46 | 2024-05-13 |  |
 | [جوارينك برڨاڨين](https://open.spotify.com/track/5cy5bvDvZoH2WzcS6PBqvS) | [Amine Manini](https://open.spotify.com/artist/6D6Iyy90oqY8zw0OE1fav9) | [جوارينك برڨاڨين](https://open.spotify.com/album/0NqCwP9CnOjdMGcIMJRAZz) | 3:53 | 2024-10-27 |  |
 | [خسرت العلاقة](https://open.spotify.com/track/1PbIQ0JtakidqCGcMFI4dn) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [خسرت العلاقة](https://open.spotify.com/album/6ydZDwBkPrTt7yqtfquocl) | 4:18 | 2022-09-20 | 2022-12-27 |
+| [خلاط](https://open.spotify.com/track/3txQ8D2xaUxYUxD2W4kYv6) | [Cheba Manel](https://open.spotify.com/artist/2gf81e1DwyMQ4TbmPgM8Qs), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [خلاط](https://open.spotify.com/album/2uyzv6iX4w4zMrXM5H1RPO) | 4:41 | 2025-01-02 |  |
 | [ديرولو الحنة](https://open.spotify.com/track/7ylB5uC2u03oOIdt7ssFhy) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE), [DJ Ismail Bba](https://open.spotify.com/artist/6CSGZBcKW5hL7rkJzMuFge) | [ديرولو الحنة](https://open.spotify.com/album/0ubTeMJ7J02UwlDY51oT4C) | 6:26 | 2022-11-14 | 2022-11-21 |
 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 | 2022-09-20 | 2023-07-28 |
 | [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 | 2024-06-01 |

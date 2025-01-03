@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-156 songs - 10 hr 36 min
+157 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [行くぜっ!怪盗少女 \-ZZ ver.\-](https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 3:48 | 2022-03-08 |  |
 | [表裏一体](https://open.spotify.com/track/6aBOMQNskwFTl330WjOkrO) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [表裏一体](https://open.spotify.com/album/0vduACUV6AI6yH3n4h7WdX) | 5:36 | 2022-03-08 |  |
 | [誠\-Live for Justice\-](https://open.spotify.com/track/1L5wceNlns34OuiQ1UycYO) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:32 | 2022-03-08 |  |
+| [負けん気！強気！元気！前向き！](https://open.spotify.com/track/16rnSK4y4AEinny7crgWaD) | [雪野のえる starring 北原沙弥香](https://open.spotify.com/artist/5Yz9YjEMV8fJPW9mZ5Lm5n) | [きらりん☆レボリューション・ソング・セレクション \(5\)](https://open.spotify.com/album/1W9vnBbk3VJgvIZwgasYQ1) | 3:25 | 2025-01-02 |  |
 | [開雲見日 〜スーパーJチャンネルのテーマ〜](https://open.spotify.com/track/7KDYIIJEHPIULDtabF19T2) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [テレビ朝日「スーパーJチャンネル」2020テーマ曲](https://open.spotify.com/album/3Z2aAAtsS4PcOuunrPyYNe) | 1:12 | 2022-03-08 |  |
 | [飲めや 歌えや 踊れや 騒げ](https://open.spotify.com/track/53auYigwBSruRRFjPe4hf6) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [飲めや 歌えや 踊れや 騒げ](https://open.spotify.com/album/1T6CM2RkCtYRGg3aS779TF) | 3:48 | 2022-03-08 |  |
 | [魔法アラ・ドーモ！](https://open.spotify.com/track/32kJsFb0lcQaivhF0aUupg) | [キュアミラクル\(CV:高橋李依\)](https://open.spotify.com/artist/4gYWBgUXLALfeBzmEzjGyH), [キュアフェリーチェ\(CV:早見沙織\)](https://open.spotify.com/artist/2GLeq74jvezGdIZIhOJQIM), [キュアマジカル\(CV:堀江由衣\)](https://open.spotify.com/artist/41hujDAS4f36WggPeqQFWk) | [魔法つかいプリキュア！ボーカルベストアルバム てのひらのおくりもの](https://open.spotify.com/album/3nhyacnkpYH8ll2sluKeEH) | 4:16 | 2022-03-08 |  |

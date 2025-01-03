@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbqtyDNQsEFL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbqtyDNQsEFL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbqtyDNQsEFL)
 
-### [Be Lifted ](https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL)
+### [Be Lifted: Moses Bliss Takeover](https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL)
 
 > Be Lifted into 2025 with these uplifting Gospel songs curated by  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=nMcUNuRnQiOBRk7qEAOAxQ>Moses Bliss</a>.
 

@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG?si=ruGXGJTQTHeaKrS\-Bo0HjQ">Vancoet</a>
 
-562 songs - 1 day 9 hr 22 min
+564 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 | 2024-06-06 |  |
 | [Berlin](https://open.spotify.com/track/6unYH2tMnh3iCOHUW8ep8j) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Fuzz Machine EP](https://open.spotify.com/album/06IXnbdQxlYFYi7Ve7wB2F) | 3:20 | 2023-05-18 | 2023-07-29 |
 | [BEST DAYS](https://open.spotify.com/track/0h946n13uGeFs6PaKFvuCx) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [BEST DAYS](https://open.spotify.com/album/6uLmU29FmTprDpB9hSfhoH) | 3:14 | 2023-06-08 | 2023-07-07 |
-| [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 | 2024-03-22 |  |
+| [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 | 2024-03-22 | 2025-01-03 |
 | [Bietjie Bipolêr](https://open.spotify.com/track/6vxQqhd7fTIKVOa9CT3WYd) | [Brigite Duvenhage](https://open.spotify.com/artist/0UBwRVPVLHsViFuFcpiPB4) | [Bietjie Bipolêr](https://open.spotify.com/album/2kw0oaEV8IeAtfJ3PBRA3t) | 2:48 | 2023-08-31 | 2023-12-15 |
 | [Bietjie Vreemd](https://open.spotify.com/track/1QAB2g40WaEASMPAcAKfV0) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54), [Vir Nou Net Magé](https://open.spotify.com/artist/4XJpVEJxoyVtPq7x3p0JsL) | [Bietjie Vreemd](https://open.spotify.com/album/4DgbSxh7c02EVAKRWHd6uN) | 3:02 | 2024-12-12 | 2024-12-20 |
 | [Big Mistakes](https://open.spotify.com/track/3f5MFKBb6aRheW6IpSn5qw) | [Trevor Rabin](https://open.spotify.com/artist/23ukNzhMiRiYgORi3n3RJq) | [Big Mistakes](https://open.spotify.com/album/6k4QPx0m28c6UlXqkiPnlC) | 5:32 | 2023-08-04 | 2023-12-08 |
@@ -267,6 +267,7 @@
 | [Joune](https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [Joune](https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db) | 2:54 | 2024-07-11 | 2024-09-09 |
 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 | 2024-07-11 |  |
 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 | 2023-08-25 |
+| [Jy Dink Jy's Die Een](https://open.spotify.com/track/3GLZ8rb7BBRldebmVgfEX1) | [Saterdag Vanaand](https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc) | [Jy Dink Jy's Die Een](https://open.spotify.com/album/6h1M4yC8owteIAKFiZnmOP) | 3:06 | 2025-01-02 |  |
 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 | 2024-01-04 |  |
 | [Karma](https://open.spotify.com/track/3omZL5SXL74UYWmqrnilTM) | [New Volume](https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q) | [Karma](https://open.spotify.com/album/2Q9BQwWEgZYeoPUylHEXX6) | 3:24 | 2023-11-09 | 2024-01-05 |
 | [Kat & Die Muis](https://open.spotify.com/track/2cAZaOs9ODCSnVgn3rvJUV) | [Karel Bester & Die Kraaines Band](https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz) | [Kat & Die Muis](https://open.spotify.com/album/5RJbpF52gxSaUUjJywDLou) | 3:03 | 2024-12-05 | 2025-01-01 |
@@ -333,7 +334,7 @@
 | [Moth Eater](https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Moth Eater](https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3) | 5:23 | 2024-10-04 | 2024-11-22 |
 | [Mud](https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Mud](https://open.spotify.com/album/4Ne7tTIbyzladfzbwO2y8x) | 3:07 | 2023-04-14 | 2023-06-09 |
 | [Murmurs](https://open.spotify.com/track/4Bje2kBjtCQBKGpZAN8onp) | [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Murmurs](https://open.spotify.com/album/1ZCeM4FJo7Gqh1crcLsuT1) | 4:10 | 2024-07-04 | 2024-08-16 |
-| [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 | 2024-01-04 |  |
+| [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 | 2024-01-04 | 2025-01-03 |
 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 | 2021-12-02 | 2022-11-18 |
 | [My Hart Is 'n Trein](https://open.spotify.com/track/0UBxkP3u0lvRJRgpL7ew7N) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [My Hart Is 'n Trein](https://open.spotify.com/album/3rVVd7WGdBVSKmQco86Y2J) | 3:44 | 2024-03-08 | 2024-05-07 |
 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 | 2024-10-25 |  |
@@ -369,6 +370,7 @@
 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 | 2024-01-04 | 2024-10-26 |
 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 | 2024-11-08 |  |
 | [Optimistic](https://open.spotify.com/track/6BEAF04SxrZhHpjM0SDSEj) | [National Lakes](https://open.spotify.com/artist/3vOdpylUMXYBdIkKnBjDyO) | [Entertainment](https://open.spotify.com/album/5KXDsW4krGCMFYi8PYvX0n) | 3:40 | 2024-12-12 | 2024-12-20 |
+| [Original Nightmare](https://open.spotify.com/track/23qhzLlc5M9A6nH7Gd4Tt5) | [Whitecollar](https://open.spotify.com/artist/41GHjsofgg86ArV6bA798Q) | [Original Nightmare](https://open.spotify.com/album/3KHIlZiFKJZH1CQ8XRvXcr) | 3:49 | 2025-01-02 |  |
 | [Oud Geword](https://open.spotify.com/track/4uiF6f8SnK7Yxax8GNy6bz) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Oud Geword](https://open.spotify.com/album/70VkQsYTEX51832qXP82U1) | 3:03 | 2023-05-25 | 2023-09-01 |
 | [Out & About](https://open.spotify.com/track/4IJjTMbpLBnewkNrtcRLPj) | [Nomadic Orchestra](https://open.spotify.com/artist/27EGFQK4v27KEpLcdJhORE) | [Out & About](https://open.spotify.com/album/4HHFN1jXBNoSxpHUUupEbJ) | 2:52 | 2021-12-09 | 2022-09-16 |
 | [Out In The Open](https://open.spotify.com/track/0zG0Pb5Iqk4k85w1gCTKpl) | [The Govt.](https://open.spotify.com/artist/2UJWWvf4gRNfPzfrvO1VU9) | [Friendly Neighbourhood Conspiracies](https://open.spotify.com/album/092gJ1XwRQ1NgJXouE7h2j) | 3:44 | 2024-02-22 | 2024-03-30 |

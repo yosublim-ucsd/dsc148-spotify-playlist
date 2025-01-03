@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "\u05d6\u05d0\u05ea \u05d7\u05e0\u05d5\u05db\u05d4",
+        "url": "https://open.spotify.com/album/4JSOfLeyYZE7VNUt9f33eK"
+      },
+      "artists": [
+        {
+          "name": "Maor Cohen",
+          "url": "https://open.spotify.com/artist/2vPzfdWIYB3zCD8qEIvMM0"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "\u05d6\u05d0\u05ea \u05d7\u05e0\u05d5\u05db\u05d4",
+      "url": "https://open.spotify.com/track/1IF2SYMl7zrIIp7OCUlaxC"
+    },
+    {
+      "album": {
         "name": "\u05d6\u05d4 \u05d4\u05e1\u05d5\u05e3",
         "url": "https://open.spotify.com/album/71pTFfLhPQ6uEjx1uOmHr4"
       },

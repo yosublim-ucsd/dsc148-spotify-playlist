@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Ana Gabriela",
-  "num_followers": 437409,
+  "num_followers": 437463,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-12-23 19:42:47",
       "album": {
-        "name": "Caso eu Case",
-        "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 215943,
-      "name": "Caso eu Case",
-      "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
-    },
-    {
-      "added_at": "2024-12-23 19:42:47",
-      "album": {
         "name": "ARRASTO",
         "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 186700,
       "name": "ARRASTO",
       "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
+    },
+    {
+      "added_at": "2024-12-23 19:42:47",
+      "album": {
+        "name": "Caso eu Case",
+        "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 215943,
+      "name": "Caso eu Case",
+      "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
     },
     {
       "added_at": "2024-12-23 19:42:47",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-12-23 19:42:47",
       "album": {
-        "name": "Apressa",
-        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "Apressa",
-      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
-    },
-    {
-      "added_at": "2024-12-23 19:42:47",
-      "album": {
         "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
         "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 123600,
       "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
       "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
+    },
+    {
+      "added_at": "2024-12-23 19:42:47",
+      "album": {
+        "name": "Apressa",
+        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "Apressa",
+      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
     },
     {
       "added_at": "2024-12-23 19:42:47",

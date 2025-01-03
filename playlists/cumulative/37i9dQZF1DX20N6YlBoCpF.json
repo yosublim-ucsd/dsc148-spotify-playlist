@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "'n Bietjie is Genoeg",
+        "url": "https://open.spotify.com/album/0Dz5zhC5FHNQ1986o8568v"
+      },
+      "artists": [
+        {
+          "name": "Peer Papsak",
+          "url": "https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219559,
+      "name": "'n Bietjie is Genoeg",
+      "url": "https://open.spotify.com/track/5itUuesgidicCXbn4fnL6m"
+    },
+    {
+      "album": {
         "name": "'n Brein met \u2018n Bloukol",
         "url": "https://open.spotify.com/album/6JSEBbiYRfamK1N4yv8LlG"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 284916,
       "name": "Barend Die Barbaar",
       "url": "https://open.spotify.com/track/0XHEmDMp5DLYob9q1vqgQi"
@@ -6550,7 +6568,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 181160,
       "name": "Een Tree",
       "url": "https://open.spotify.com/track/2ER9X2lCNe9Dyi7vvjbvbF"
@@ -11025,6 +11043,24 @@
     },
     {
       "album": {
+        "name": "Jy Dink Jy's Die Een",
+        "url": "https://open.spotify.com/album/6h1M4yC8owteIAKFiZnmOP"
+      },
+      "artists": [
+        {
+          "name": "Saterdag Vanaand",
+          "url": "https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Jy Dink Jy's Die Een",
+      "url": "https://open.spotify.com/track/3GLZ8rb7BBRldebmVgfEX1"
+    },
+    {
+      "album": {
         "name": "Jy Hoort Hier",
         "url": "https://open.spotify.com/album/2GZhgNaNQ49DVL6jwuVN1o"
       },
@@ -12418,7 +12454,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 152326,
       "name": "kolwyntjie",
       "url": "https://open.spotify.com/track/5cCoOzuwOQ22spaw7TsxSH"
@@ -13194,6 +13230,24 @@
     {
       "album": {
         "name": "Laat Dit Re\u00ebn",
+        "url": "https://open.spotify.com/album/4oyO1678R7B5HADeXiY5hw"
+      },
+      "artists": [
+        {
+          "name": "Frederico Fortuin",
+          "url": "https://open.spotify.com/artist/1bSF3lf5Ip934uwGfW2xZz"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203538,
+      "name": "Laat Dit Re\u00ebn",
+      "url": "https://open.spotify.com/track/6plPK91Y6N23KIjH9uo993"
+    },
+    {
+      "album": {
+        "name": "Laat Dit Re\u00ebn",
         "url": "https://open.spotify.com/album/6KNYHfnr44scLF38TXZkHm"
       },
       "artists": [
@@ -13248,6 +13302,32 @@
       "duration_ms": 158296,
       "name": "Laat My Skyn",
       "url": "https://open.spotify.com/track/06wmMnTR38Ly29QY9qYcoo"
+    },
+    {
+      "album": {
+        "name": "Laat Nag Party (Remix)",
+        "url": "https://open.spotify.com/album/4hfsISh7dGYpQn6rKQfmxG"
+      },
+      "artists": [
+        {
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
+        },
+        {
+          "name": "Vanilla Dutchman",
+          "url": "https://open.spotify.com/artist/2b6sTB2pVc2QeKX0QPgQpA"
+        },
+        {
+          "name": "Brannaz",
+          "url": "https://open.spotify.com/artist/3Hzk7pFRHKBdUL5OE8PtlT"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185338,
+      "name": "Laat Nag Party - Remix",
+      "url": "https://open.spotify.com/track/0hkB2y0A9QL7oCM7Ty32xH"
     },
     {
       "album": {
@@ -14530,6 +14610,32 @@
       "duration_ms": 208226,
       "name": "Lyfie",
       "url": "https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu"
+    },
+    {
+      "album": {
+        "name": "Lysftraf (Hypertechno Remix)",
+        "url": "https://open.spotify.com/album/54zTjfYbJp1VWuOhzNgnW1"
+      },
+      "artists": [
+        {
+          "name": "Bjarne",
+          "url": "https://open.spotify.com/artist/2e6piu8T6ZcZjC3UOAhJSW"
+        },
+        {
+          "name": "Snacci",
+          "url": "https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1"
+        },
+        {
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157430,
+      "name": "Lyfstraf - Hypertechno Remix",
+      "url": "https://open.spotify.com/track/3CFyzxgmbtSUAsJ4HCywh9"
     },
     {
       "album": {
@@ -22331,6 +22437,24 @@
     },
     {
       "album": {
+        "name": "Stuur daai bottel om",
+        "url": "https://open.spotify.com/album/5aRbV0avB9wV13m2cAFNNj"
+      },
+      "artists": [
+        {
+          "name": "Peer Papsak",
+          "url": "https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182804,
+      "name": "Stuur daai bottel om",
+      "url": "https://open.spotify.com/track/0o6Bgi2ZXJ776IaoZcPPZf"
+    },
+    {
+      "album": {
         "name": "Stuur Groete Aan Mannetjies Roux",
         "url": "https://open.spotify.com/album/6mVuUWIJWLDH5r2F1fjwzz"
       },
@@ -24338,7 +24462,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 207091,
       "name": "Verdrink",
       "url": "https://open.spotify.com/track/1sd0gboyvgQoL5aOCYTMem"

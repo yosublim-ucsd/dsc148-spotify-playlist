@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: The Lantis
+> The best tracks from the world of music\. Cover: Andmesh
 
 213 songs - 12 hr 8 min
 

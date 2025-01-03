@@ -2,7 +2,7 @@
 
 ### [Best of Frequency 2024](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> The best of Black music in 2024\. Cover: <a href="spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a>
+> The best of Black music in 2024\. Cover: <a href="spotify:artist:687cZJR45JO7jhk1LHIbgq">Tems</a>
 
 4,044 songs - 8 day 11 hr 55 min
 

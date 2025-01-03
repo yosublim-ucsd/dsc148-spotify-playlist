@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Filthy lucre",
+        "url": "https://open.spotify.com/album/2hI0fBgSlbAlYt6mmRW3jC"
+      },
+      "artists": [
+        {
+          "name": "Elea Calvet",
+          "url": "https://open.spotify.com/artist/18Hl0NlWPsQdjDnbPV1nR4"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199499,
+      "name": "Filthy Lucre",
+      "url": "https://open.spotify.com/track/4SOc3DpGIyLiifA7INFAj4"
+    },
+    {
+      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0"
       },

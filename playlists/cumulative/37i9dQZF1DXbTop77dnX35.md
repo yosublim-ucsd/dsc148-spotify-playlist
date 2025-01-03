@@ -4,7 +4,7 @@
 
 > New Music from Burna Boy and more
 
-1,521 songs - 3 day 3 hr 8 min
+1,523 songs - 3 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Crazy](https://open.spotify.com/track/6KPhWQj0PqbesojfICNXMu) | [Reehaa](https://open.spotify.com/artist/3uEftX1neotPP4BkfvFJHC), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ajala](https://open.spotify.com/album/0tlEQL9Dqfs1Wd5BWqQuLj) | 2:18 | 2024-09-20 | 2024-09-27 |
 | [CRAZY SEXY PERFECT GIRLS](https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:56 | 2024-06-21 | 2024-06-28 |
 | [Credit Alert](https://open.spotify.com/track/15PPXNgPKfxZhrnzhw1BJf) | [Randommuzik](https://open.spotify.com/artist/4OeKf1TH79nu7kW1e82NHk) | [Credit Alert / HNTD](https://open.spotify.com/album/6GZAxpu7bMT0SaQOTZlCSO) | 2:00 | 2024-08-02 | 2024-08-09 |
+| [Credit Alert](https://open.spotify.com/track/3juEqcbxmMs1jdu5du1xGl) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh), [Luwa.Mp4](https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ), [Karlito](https://open.spotify.com/artist/1AWCLUjn8srlDm4JqxBido) | [Credit Alert](https://open.spotify.com/album/1vtSaFlCreRuBzzobouwWk) | 2:39 | 2025-01-03 |  |
 | [CRUISE](https://open.spotify.com/track/1oCMYZ9k98wgiqTw5hdMwq) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL) | [CRUISE](https://open.spotify.com/album/2u7YBP6ssXmsdolIzGLo56) | 1:39 | 2024-08-30 | 2024-09-06 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-09 | 2024-08-17 |
 | [Cry Baby \- Ruger Remix](https://open.spotify.com/track/4C0fuJRGXikVLrrw6kzNI3) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Cry Baby \(Ruger Remix\)](https://open.spotify.com/album/0eCIlVaHhTXCsrZkTQldeG) | 2:44 | 2024-09-20 | 2024-09-27 |
@@ -1111,6 +1112,7 @@
 | [Prodigal](https://open.spotify.com/track/4AzjDZudZxhTvv7c0bx1RV) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Prodigal](https://open.spotify.com/album/6EJI47BoVplR1bbCDjHtp0) | 2:44 | 2024-08-09 | 2024-08-17 |
 | [Profeh](https://open.spotify.com/track/4wndTAhbo2y5Sbo6uGwg7u) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Profeh](https://open.spotify.com/album/1Mg3BXH7gA93oY7nFwyVN4) | 2:52 | 2024-12-20 |  |
 | [Promiscuous](https://open.spotify.com/track/6gkOuNkFMdtaZsVQtJ4mBk) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Promiscuous](https://open.spotify.com/album/2GnqXec3H61eIMQZzibupf) | 3:13 | 2024-12-06 | 2024-12-13 |
+| [Psycho Street House](https://open.spotify.com/track/4I3PguPy7yiPHW655I6snL) | [Dj khalipha](https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB) | [Psycho Street House](https://open.spotify.com/album/6TBZvTV0oZRSJ1aW7ktEv3) | 2:18 | 2025-01-03 |  |
 | [Publicity](https://open.spotify.com/track/3FAA5HP5MLYnOZitFgwzdC) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Space Time](https://open.spotify.com/album/0iaVvgXzjg7jgGbxcIDxJF) | 2:56 | 2024-08-16 | 2024-08-23 |
 | [PUFF PUFF](https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [PUFF PUFF](https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm) | 2:44 | 2024-10-18 | 2024-10-25 |
 | [Pull Over](https://open.spotify.com/track/40N72jM3hFr8jIl8s1HSEl) | [Doncarta](https://open.spotify.com/artist/5Z63FmpC8AabOGYc0asXU3), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Pull Over](https://open.spotify.com/album/6La7mFfoiK4D76FrvF44ON) | 2:28 | 2024-06-07 | 2024-06-14 |

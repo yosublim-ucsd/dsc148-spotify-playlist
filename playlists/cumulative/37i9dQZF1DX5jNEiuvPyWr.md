@@ -2,7 +2,7 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Zed x Green Montana
+> Le meilleur du rap français version cloud\. Photo : Moha MMZ
 
 472 songs - 22 hr 59 min
 
@@ -290,7 +290,7 @@
 | [MANIFIC](https://open.spotify.com/track/7f6XGcLhUUKyqOdYTAojWf) | [Lapostroz](https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj) | [NOCTURNE Pt\. 1](https://open.spotify.com/album/43vvMCkTc3trOqOv5irP9b) | 2:16 | 2024-03-07 | 2024-06-01 |
 | [MARK LANDERS](https://open.spotify.com/track/0Ob5R4MJD5L4AfCke7cJVE) | [Lazer MMZ](https://open.spotify.com/artist/5Ae1qozZeLofVqeQjJswoD) | [MARK LANDERS](https://open.spotify.com/album/5LQIFAhrEQseK0St28dQ9z) | 3:03 | 2023-01-12 | 2023-04-07 |
 | [Maudit](https://open.spotify.com/track/0SDdToMgBtqdd7WJnT2iGi) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [Maudit](https://open.spotify.com/album/5VhQXyXXmdn7bPqODOkOmV) | 3:49 | 2022-11-03 | 2023-01-13 |
-| [Mauvais œil](https://open.spotify.com/track/0uWb1GX2Csz8SJop1ZpSLJ) | [Andy Roques](https://open.spotify.com/artist/6tOmejvtGQ1BliDBsECu4h) | [Mauvais œil](https://open.spotify.com/album/6xsm8qxceTRsbqswXOE3O9) | 1:56 | 2024-12-19 |  |
+| [Mauvais œil](https://open.spotify.com/track/0uWb1GX2Csz8SJop1ZpSLJ) | [Andy Roques](https://open.spotify.com/artist/6tOmejvtGQ1BliDBsECu4h) | [Mauvais œil](https://open.spotify.com/album/6xsm8qxceTRsbqswXOE3O9) | 1:56 | 2024-12-19 | 2025-01-03 |
 | [mayday](https://open.spotify.com/track/6Ax8LuViU7B5YrJBX8V8oe) | [LVZ](https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf) | [SOUS L'AVERSE](https://open.spotify.com/album/2kQVXn6S6Dk7KOs5UCbjGZ) | 2:19 | 2023-11-23 | 2024-01-12 |
 | [MBK](https://open.spotify.com/track/7DX6YyPd39LPiWQMlSaFdg) | [zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU) | [Birthday Saison](https://open.spotify.com/album/2BNuUlEpbte2Jl9YFcvQym) | 2:46 | 2024-05-30 | 2024-07-19 |
 | [Medellín](https://open.spotify.com/track/5A6krUMRdMEHE2XT1qaBFB) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fissure de vie](https://open.spotify.com/album/1jDCzsViwRa0trfppiwWTC) | 3:13 | 2022-07-14 | 2022-08-19 |

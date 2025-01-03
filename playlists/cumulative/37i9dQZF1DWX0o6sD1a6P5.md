@@ -2,7 +2,7 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Burna Boy
+> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Youka
 
 711 songs - 1 day 11 hr 0 min
 

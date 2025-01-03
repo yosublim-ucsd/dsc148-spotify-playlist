@@ -2,9 +2,9 @@
 
 ### [nuovo pop 🇮🇹](https://open.spotify.com/playlist/37i9dQZF1DX2c7QgpQBJFr)
 
-> ELASI in cover della playlist del nuovo pop italiano ✨
+> la nuova scena pop italiana ✨ cover: cmqmartina
 
-325 songs - 15 hr 32 min
+326 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [nessuno mi conosce come mi conosci tu](https://open.spotify.com/track/67rC2YKJGDuiE4FAtkyZgv) | [Why, the Moon](https://open.spotify.com/artist/0ealn2IOVIzlIY9G1wIUzq) | [Armonia](https://open.spotify.com/album/4kXSJZLyrlYRlM8vJgtXOR) | 2:29 | 2024-11-21 |  |
 | [nevischio su ande](https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp) | [tinai](https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP) | [girammo tutto in una macchina](https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq) | 2:49 | 2024-10-17 | 2024-12-06 |
 | [New York](https://open.spotify.com/track/7hBHGaopLsZAcZ36wJpL1t) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [New York](https://open.spotify.com/album/0K1BwtPMtI7Ohv8VLcqzt4) | 2:42 | 2024-10-24 | 2024-12-13 |
+| [ninna nanna](https://open.spotify.com/track/1KGCqzJ6wkwpSxQlHPvl8E) | [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [ninna nanna](https://open.spotify.com/album/5NPFUAs7ZJsXSu9d6jECfr) | 2:27 | 2025-01-02 |  |
 | [No Me Llames](https://open.spotify.com/track/7qNPXRA4f17HVwrTvSQv54) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [No Me Llames](https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06) | 2:24 | 2024-07-18 | 2024-08-30 |
 | [NO STRESS](https://open.spotify.com/track/4RnH661Lvlf1nZg6jy92WO) | [MATILDE](https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ) | [NO STRESS](https://open.spotify.com/album/3DS6IS3XMxIpiLnuheq6nq) | 2:28 | 2024-09-05 | 2024-11-13 |
 | [No Stress \(feat\. VillaBanks\)](https://open.spotify.com/track/7tsElhgryjaCRhBYUBcgBs) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [No Stress \(feat\. VillaBanks\)](https://open.spotify.com/album/3Piq4K3vyu572kJjRlLtmU) | 2:38 | 2024-06-27 | 2024-08-30 |

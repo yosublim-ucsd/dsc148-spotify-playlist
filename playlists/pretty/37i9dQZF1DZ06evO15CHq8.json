@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 627964,
+  "num_followers": 628076,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3M0AAAAAAC8mwEjcDJElJ0OVQLpDPkq",
+  "snapshot_id": "Z3SFgAAAAADRnhPLHZ4s9wQGQZ17E9c7",
   "tracks": [
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part XIV: The Vulture Saga",
-        "url": "https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 123285,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meet Me Where the River Turns Grey",
         "url": "https://open.spotify.com/album/1rcqcrADJOrtw4V0yRTc1N"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 185725,
       "name": "Sarcophagus II",
       "url": "https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part XIV: The Vulture Saga",
+        "url": "https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 123285,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GERM HAS A DEATHWISH",
-        "url": "https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23"
-      },
-      "artists": [
-        {
-          "name": "Germ",
-          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
-        },
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 109898,
-      "name": "AWKWARD CAR DRIVE",
-      "url": "https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DIRTIESTNASTIEST$UICIDE",
         "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 140288,
       "name": "Champagne Face",
       "url": "https://open.spotify.com/track/1UsvO5U72YRU8Xnq8Lp14O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GERM HAS A DEATHWISH",
+        "url": "https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23"
+      },
+      "artists": [
+        {
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
+        },
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 109898,
+      "name": "AWKWARD CAR DRIVE",
+      "url": "https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx"
     },
     {
       "added_at": null,

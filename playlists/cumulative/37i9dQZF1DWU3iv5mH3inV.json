@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 148370,
       "name": "Cachorra",
       "url": "https://open.spotify.com/track/1DnXqeP1IOg9MKVIDE19zQ"
@@ -3584,7 +3584,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 151181,
       "name": "Descarada (feat. Three Seven Music & The Chosen Few)",
       "url": "https://open.spotify.com/track/3Bp4EyCfo4zpOxBqGPhGlh"
@@ -9271,6 +9271,32 @@
     },
     {
       "album": {
+        "name": "Me Ta Subiendo",
+        "url": "https://open.spotify.com/album/5ATlxsmbIFtzIw8cRx9lAr"
+      },
+      "artists": [
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142974,
+      "name": "Me Ta Subiendo",
+      "url": "https://open.spotify.com/track/34MmnWc2cXDATfzrh7HDwT"
+    },
+    {
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/7p9lBLA0o9JnxOgosUZlLJ"
       },
@@ -11374,7 +11400,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 110254,
       "name": "PAO PAO",
       "url": "https://open.spotify.com/track/4NwvPd2PoeDZUqAulPOByl"
@@ -13099,6 +13125,24 @@
     },
     {
       "album": {
+        "name": "Que Cobarde",
+        "url": "https://open.spotify.com/album/38JqSZsfHn3blynly0prCH"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92540,
+      "name": "Que Cobarde",
+      "url": "https://open.spotify.com/track/4wkgwTCJcnRw8V2X95zSCo"
+    },
+    {
+      "album": {
         "name": "Que La Choque (En Vivo)",
         "url": "https://open.spotify.com/album/01Jp01iSwEkw9ZHKHZfYb9"
       },
@@ -13936,7 +13980,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 146436,
       "name": "ROMPECORA",
       "url": "https://open.spotify.com/track/7JOXgSI073RHX6tJHetZ8v"
@@ -14640,6 +14684,28 @@
       "duration_ms": 161000,
       "name": "Silicon",
       "url": "https://open.spotify.com/track/77tueUB7hmKpszzIaxhyft"
+    },
+    {
+      "album": {
+        "name": "Silla",
+        "url": "https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141355,
+      "name": "Silla",
+      "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
     },
     {
       "album": {
@@ -16638,7 +16704,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 230774,
       "name": "TIMIDA (feat. Jowell)",
       "url": "https://open.spotify.com/track/27u5RlcTPYpR39OAGsvY7w"
@@ -17065,6 +17131,32 @@
     },
     {
       "album": {
+        "name": "TOY CARRETO (Remix)",
+        "url": "https://open.spotify.com/album/2X9swbDwQ7NlwPHXLOCHh5"
+      },
+      "artists": [
+        {
+          "name": "Bluemoney",
+          "url": "https://open.spotify.com/artist/5pL4JCQ5E6AxnT10xuaojk"
+        },
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "TOY CARRETO - Remix",
+      "url": "https://open.spotify.com/track/4SbEou8mp6zUNWOQEBaOuC"
+    },
+    {
+      "album": {
         "name": "Toy Prendio",
         "url": "https://open.spotify.com/album/0dZrTQcd7dE9FbW6GoQbzd"
       },
@@ -17470,7 +17562,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 141496,
       "name": "Tu Ere La Baby",
       "url": "https://open.spotify.com/track/6M7y7YwptOuj8iAXZ77d5N"
@@ -18789,6 +18881,28 @@
     },
     {
       "album": {
+        "name": "Wow Que Sexy",
+        "url": "https://open.spotify.com/album/1wGWIv0k66qlsn7iuFKq9U"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Polojoa",
+          "url": "https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222900,
+      "name": "Wow Que Sexy",
+      "url": "https://open.spotify.com/track/2euSxXCsB7oGOacvgZRAkO"
+    },
+    {
+      "album": {
         "name": "Y Eso?",
         "url": "https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N"
       },
@@ -18972,6 +19086,28 @@
       "duration_ms": 118153,
       "name": "Yo Te Dar\u00e9",
       "url": "https://open.spotify.com/track/0skwN2nVCDaAasYlLbAwZP"
+    },
+    {
+      "album": {
+        "name": "Zakuza",
+        "url": "https://open.spotify.com/album/7soJxCeLfA5nsFdlii4lo1"
+      },
+      "artists": [
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "Recio DC",
+          "url": "https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121860,
+      "name": "Zakuza",
+      "url": "https://open.spotify.com/track/0Z8QO0Rd3uz3eUPRyVqASW"
     },
     {
       "album": {

@@ -2013,6 +2013,32 @@
     },
     {
       "album": {
+        "name": "Got You",
+        "url": "https://open.spotify.com/album/6UesXENuAbvKpwjDgkWEaE"
+      },
+      "artists": [
+        {
+          "name": "GKhan",
+          "url": "https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        },
+        {
+          "name": "Kulshan Sandhu",
+          "url": "https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222864,
+      "name": "Got You",
+      "url": "https://open.spotify.com/track/7mJ2BANWY4PnWtfsQWzn6C"
+    },
+    {
+      "album": {
         "name": "Gotta Go",
         "url": "https://open.spotify.com/album/5eLqcFc9iQBu8KMJtlP7KK"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > nasze brzmienie ✨ Cover: Zuza Jabłońska
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,952 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,953 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 40 | [Znak](https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Znak](https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C) | 2:53 |
 | 41 | [kochaj na serio](https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [kochaj na serio](https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE) | 2:40 |
 | 42 | [Gadać albo milczeć](https://open.spotify.com/track/2AtHnPQ1SoNmwTe8Ag4n8J) | [Wilhelm](https://open.spotify.com/artist/7jxBlr52pdoKTrrjehTunc) | [Gadać albo milczeć](https://open.spotify.com/album/6IZBWIMJxXW3fwMbOJYAIZ) | 3:04 |
-| 43 | [nieoczywiste](https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [nieoczywiste](https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1) | 2:34 |
-| 44 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 |
+| 43 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 |
+| 44 | [nieoczywiste](https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [nieoczywiste](https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1) | 2:34 |
 | 45 | [dla Ciebie mógłbym zabić](https://open.spotify.com/track/2cljfGUtSk2mbIJBo8EKch) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Do rany przyłóż](https://open.spotify.com/album/4vW0hzSiDuPxgCtIE0VjlI) | 2:21 |
 | 46 | [Tak jak ja](https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Wracam do siebie](https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a) | 2:58 |
 | 47 | [Stacja Hel](https://open.spotify.com/track/6n6ME7vJzu3C3QpmGzahTA) | [Stan Zapalny](https://open.spotify.com/artist/15BJ0ipMSdHELUOqJZ7Xmr) | [Stacja Hel](https://open.spotify.com/album/2a91tP89paQQeBNtvrgZb3) | 2:34 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 69 | [milczysz](https://open.spotify.com/track/2REKOuFQwvWRfycJB1Hfn1) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [milczysz](https://open.spotify.com/album/0q3TtiHKHnQvnDXhDRfRYI) | 2:17 |
 | 70 | [znów patrzysz tak](https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [znów patrzysz tak](https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK) | 3:11 |
 | 71 | [Bajka](https://open.spotify.com/track/1t4ZzlgGghetwNEjAhRVK1) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Bajka](https://open.spotify.com/album/0sXdmDSA4cP8PsiFeBvpLF) | 2:29 |
-| 72 | [+2 złamane serca](https://open.spotify.com/track/2boUivVVmvd58WLBUYmrru) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [+2 złamane serca](https://open.spotify.com/album/4fBcQOqgdE9n0SCvGhNKff) | 2:53 |
-| 73 | [\#omg](https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX) | [hubithekid](https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd) | [\#omg](https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu) | 2:06 |
+| 72 | [\#omg](https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX) | [hubithekid](https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd) | [\#omg](https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu) | 2:06 |
+| 73 | [+2 złamane serca](https://open.spotify.com/track/2boUivVVmvd58WLBUYmrru) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [+2 złamane serca](https://open.spotify.com/album/4fBcQOqgdE9n0SCvGhNKff) | 2:53 |
 | 74 | [BLUZA](https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BLUZA](https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc) | 2:50 |
 | 75 | [Zostaniesz na zawsze?](https://open.spotify.com/track/5uXyJ2mYb4LHQ0gKEMXtEL) | [MDOPE](https://open.spotify.com/artist/6Z7uS8MOrEyM04JjnBf3R9) | [Zostaniesz na zawsze?](https://open.spotify.com/album/22ItEEmozmJHs3P7mgvdnV) | 2:54 |
 | 76 | [zapomniałem wydać w lipcu](https://open.spotify.com/track/3daeJPWGlUIJJPkefq7RZ0) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [zapomniałem wydać w lipcu](https://open.spotify.com/album/5iA0IoIFn6ysnwXq8APt64) | 2:53 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 87 | [Na zdjęciach](https://open.spotify.com/track/0sUFW4xGgV33GDSIHAGAtk) | [Ala Tracz](https://open.spotify.com/artist/0Tb15PV8RtDedmtSDI4GQ7) | [Na zdjęciach](https://open.spotify.com/album/7yx9nm2P2DcUZhPOm9HkO3) | 2:19 |
 | 88 | [Narkotyk](https://open.spotify.com/track/5AO9dmRl4XCb0iW6ZP3fQb) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Narkotyk](https://open.spotify.com/album/1eVrFxiHAjO66n5JsXF7CQ) | 2:07 |
 | 89 | [ŻART!?](https://open.spotify.com/track/5dbs7qdEG6oiAmKN4liNSB) | [ROZIE](https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo) | [ŻART!?](https://open.spotify.com/album/73IFHogZWsogRGF6Q4nzSH) | 2:51 |
-| 90 | [burzysz krew](https://open.spotify.com/track/50DiPplDH3i9KKn8NkfPwa) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [burzysz krew](https://open.spotify.com/album/1UVwtL7JInFSGPpIJlfPsh) | 3:18 |
-| 91 | [wrogowie](https://open.spotify.com/track/5D6U01nI60WYFbLGFj1tld) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [wrogowie](https://open.spotify.com/album/1tZtVZ2zMmPxYr7YRzXFuH) | 3:26 |
+| 90 | [wrogowie](https://open.spotify.com/track/5D6U01nI60WYFbLGFj1tld) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [wrogowie](https://open.spotify.com/album/1tZtVZ2zMmPxYr7YRzXFuH) | 3:26 |
+| 91 | [burzysz krew](https://open.spotify.com/track/50DiPplDH3i9KKn8NkfPwa) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [burzysz krew](https://open.spotify.com/album/1UVwtL7JInFSGPpIJlfPsh) | 3:18 |
 | 92 | [Polecę do gwiazd](https://open.spotify.com/track/7Cy7tvCsU9TBa9tmXSIFT2) | [Michell Siwak](https://open.spotify.com/artist/2nKTrZd6c5xy8AgNyrSM0q) | [Polecę do gwiazd](https://open.spotify.com/album/40e57jAadRbNmcWXDHdM1D) | 2:24 |
 | 93 | [Sansewierie](https://open.spotify.com/track/5CWSpK1cmWWEgYod64Wlrf) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Sansewierie](https://open.spotify.com/album/3lA9ppkbEyLkGhMYjdGSQF) | 3:24 |
 | 94 | [szukam](https://open.spotify.com/track/3NUiSTyt0MZtEmWxzAmwT4) | [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [szukam](https://open.spotify.com/album/3t0zAIaiSo023Fcsw0keef) | 3:25 |
 | 95 | [Pętle](https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE) | [Dereal](https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3) | [Pętle](https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa) | 2:15 |
 | 96 | [Za daleko](https://open.spotify.com/track/09y1MRKKZngQBDAwL7oOSJ) | [Klaudia Kowalik](https://open.spotify.com/artist/48xj6VTZJbWGgs2Pt1Slkj) | [Za daleko](https://open.spotify.com/album/4anrcjnwoyQWD8zh6Lhh1x) | 3:21 |
 | 97 | [lubię patrzeć na twą broń](https://open.spotify.com/track/1xgWsfJ8qmFhrvJ6NmP1UW) | [Patryk Krzysztof Molenda](https://open.spotify.com/artist/3pxfM6pz8d8dXGriLKGyvG) | [lubię patrzeć na twą broń](https://open.spotify.com/album/6Wn64bI8wMIB66Zy0ReTHP) | 3:01 |
-| 98 | [a może nie?](https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [a może nie?](https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm) | 2:42 |
-| 99 | [I like that](https://open.spotify.com/track/5cVrhm5TnQ3DVzrhCvcmeP) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [I like that](https://open.spotify.com/album/0qNCipvVGfpKa2OZVLY6as) | 2:15 |
+| 98 | [I like that](https://open.spotify.com/track/5cVrhm5TnQ3DVzrhCvcmeP) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [I like that](https://open.spotify.com/album/0qNCipvVGfpKa2OZVLY6as) | 2:15 |
+| 99 | [a może nie?](https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [a może nie?](https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm) | 2:42 |
 | 100 | [Filozof](https://open.spotify.com/track/62FnWjof4qPzSVCUmmACaD) | [Zofie](https://open.spotify.com/artist/0OO46T770SxOKPhS7oVAze) | [Filozof](https://open.spotify.com/album/5suovL7M8Qg0HH5CH2OD0x) | 3:20 |
 
 Snapshot ID: `Z2UtRwAAAABf8WhxFXbtS/eSYzRLLwLH`

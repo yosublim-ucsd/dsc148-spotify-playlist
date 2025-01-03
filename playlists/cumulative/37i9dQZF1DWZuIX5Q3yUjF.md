@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Yasmina
+> Il meglio dell'R&B italiano\. Cover: Heartman
 
 692 songs - 1 day 10 hr 20 min
 

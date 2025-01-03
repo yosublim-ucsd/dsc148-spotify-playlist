@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Linying",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: rae",
   "name": "Rising 65",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 85206,
       "name": "2025",
       "url": "https://open.spotify.com/track/5AAdFGz3cPQUl6SOoZ9nbU"
+    },
+    {
+      "album": {
+        "name": "210 East",
+        "url": "https://open.spotify.com/album/6LFA1p8MpTjRdJgKBYf95R"
+      },
+      "artists": [
+        {
+          "name": "Amelia Rae",
+          "url": "https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "210 East",
+      "url": "https://open.spotify.com/track/5AwJXWPOMNmvz4dPncHUnE"
     },
     {
       "album": {
@@ -88,7 +106,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 195000,
       "name": "Achamillai",
       "url": "https://open.spotify.com/track/5iJ2j00266Z92MOxPS9pLI"
@@ -182,6 +200,24 @@
       "duration_ms": 191666,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5CPWV0SfZaQ3YCYAyTvhHr"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4UoiDNay2Ye9whGvfXEpbA"
+      },
+      "artists": [
+        {
+          "name": "Khidir Surattee",
+          "url": "https://open.spotify.com/artist/7kE9uLPEryAaGIcbG0IzrO"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183448,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/29ERSGlPvqwI2lvloM4dPy"
     },
     {
       "album": {
@@ -642,6 +678,24 @@
       "duration_ms": 174315,
       "name": "blame",
       "url": "https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv"
+    },
+    {
+      "album": {
+        "name": "bliss",
+        "url": "https://open.spotify.com/album/3KDIdaJMs85yYHtw9pLyOa"
+      },
+      "artists": [
+        {
+          "name": "rae",
+          "url": "https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181710,
+      "name": "bliss",
+      "url": "https://open.spotify.com/track/1hdzOMcfnF2mCROkxcmhZs"
     },
     {
       "album": {
@@ -2089,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "FOREVERMORE",
+        "url": "https://open.spotify.com/album/0tydnmOXHza2RDuu3bSYvh"
+      },
+      "artists": [
+        {
+          "name": "Mia Insyirah",
+          "url": "https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "FOREVERMORE",
+      "url": "https://open.spotify.com/track/3UfxHtJBk9QhTk5sFXJyEm"
+    },
+    {
+      "album": {
         "name": "Fridge",
         "url": "https://open.spotify.com/album/156WbTOOVi5e5oRV9Y7fhe"
       },
@@ -2479,6 +2551,28 @@
     },
     {
       "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273442,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
+    },
+    {
+      "album": {
         "name": "HEAVENFALL",
         "url": "https://open.spotify.com/album/2oUm9YRz6XRosrGGbPsoxg"
       },
@@ -2530,6 +2624,24 @@
       "duration_ms": 187600,
       "name": "Hide and Seek Love",
       "url": "https://open.spotify.com/track/0JjoQnOdwwLMac0xo31IY9"
+    },
+    {
+      "album": {
+        "name": "Hidup Sekadar Derita",
+        "url": "https://open.spotify.com/album/6EjwKBoNRePTlTbpWTGjP4"
+      },
+      "artists": [
+        {
+          "name": "Hasni Arctrace",
+          "url": "https://open.spotify.com/artist/0q5b7EPP0K3cRindBoaIWm"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209023,
+      "name": "Hidup Sekadar Derita",
+      "url": "https://open.spotify.com/track/0Lu4ELmFcY17BEa7vFv8wn"
     },
     {
       "album": {
@@ -3246,7 +3358,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 179167,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6LbGcYB3FgDrgP1PnAga8K"
@@ -4556,7 +4668,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 285911,
       "name": "Paling Sejati",
       "url": "https://open.spotify.com/track/3c4kxwdR3X0p7lJpYYSGMg"
@@ -4707,6 +4819,28 @@
     },
     {
       "album": {
+        "name": "PIG",
+        "url": "https://open.spotify.com/album/3J3WRku3hrlgqutnnlA4Nu"
+      },
+      "artists": [
+        {
+          "name": "Calista Liaw",
+          "url": "https://open.spotify.com/artist/5pHNhL7wLSKVAkZzu2VSfI"
+        },
+        {
+          "name": "B.LEO",
+          "url": "https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251079,
+      "name": "PIG",
+      "url": "https://open.spotify.com/track/49tQ3mTDv9rGA6RZIdVMpL"
+    },
+    {
+      "album": {
         "name": "Play Me",
         "url": "https://open.spotify.com/album/5hiTPhfeGpJcHklIhOjX11"
       },
@@ -4790,7 +4924,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 154000,
       "name": "POSE",
       "url": "https://open.spotify.com/track/0Nt6xCzN89tsZHdczpDMys"
@@ -4808,7 +4942,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 204335,
       "name": "Powder & Smoke",
       "url": "https://open.spotify.com/track/4ANSnY2wnYwpiBhnTrwY49"
@@ -4976,7 +5110,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 103403,
       "name": "red petals",
       "url": "https://open.spotify.com/track/4cWFLcSOqz8wjhyqxVRyJO"
@@ -5994,7 +6128,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 192527,
       "name": "Tango Yankee",
       "url": "https://open.spotify.com/track/1CBQa0EmT8R3uskMneQB6D"
@@ -6586,7 +6720,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 273066,
       "name": "Trial & Error",
       "url": "https://open.spotify.com/track/3XFbOVSEIjHN2ZGRcoWqU1"
@@ -7222,7 +7356,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 181408,
       "name": "Yang Terkhir",
       "url": "https://open.spotify.com/track/0YlVCa6ql7XNwd4WfMA7LW"
@@ -7792,6 +7926,24 @@
       "duration_ms": 241038,
       "name": "\u5fae\u5149\uff08\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u6d74\u6c34\u91cd\u751f\u300b\u63d2\u66f2\uff09",
       "url": "https://open.spotify.com/track/4TS6e9h090H294fDvWAeha"
+    },
+    {
+      "album": {
+        "name": "\u60f3\u4e00\u500b\u4eba",
+        "url": "https://open.spotify.com/album/2PiOLiIqyiTuAwVeAC9Dy2"
+      },
+      "artists": [
+        {
+          "name": "Lin Si Tong",
+          "url": "https://open.spotify.com/artist/1FXhxn9AhnOPufmvvu7qGc"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272806,
+      "name": "\u60f3\u4e00\u500b\u4eba",
+      "url": "https://open.spotify.com/track/1yfJ2Oc5p4KWr6kBHIYlTe"
     },
     {
       "album": {
@@ -8454,7 +8606,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 201812,
       "name": "\u9523\u9f13\u55a7\u5929\u5e86\u56e2\u5706",
       "url": "https://open.spotify.com/track/2i9vVlL2rF0IhBZXlpwQXs"

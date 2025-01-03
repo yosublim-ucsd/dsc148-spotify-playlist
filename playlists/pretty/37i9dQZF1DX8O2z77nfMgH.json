@@ -1,12 +1,12 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Myke Towers, L-Gante",
-  "num_followers": 887272,
+  "num_followers": 887256,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3AtTAAAAABcbtiJhZf2s8pBsj44afOj",
+  "snapshot_id": "Z3YGpAAAAACG58D6PoqR2AHKrHiv3Mcn",
   "tracks": [
     {
       "added_at": "2024-12-27 05:00:42",
@@ -43,6 +43,26 @@
       "duration_ms": 190432,
       "name": "LOS DEPURO (feat. L-Gante)",
       "url": "https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3"
+    },
+    {
+      "added_at": "2025-01-02 03:23:16",
+      "album": {
+        "name": "Luck Ra: Bzrp Music Sessions, Vol. 61",
+        "url": "https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Luck Ra: Bzrp Music Sessions, Vol. 61",
+      "url": "https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a"
     },
     {
       "added_at": "2024-12-27 05:00:42",
@@ -1403,22 +1423,6 @@
       "duration_ms": 155246,
       "name": "24",
       "url": "https://open.spotify.com/track/2ZJtRsJjRgzTAat3bStWx5"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Viento EP",
-        "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd"
     },
     {
       "added_at": "2024-12-20 06:00:08",

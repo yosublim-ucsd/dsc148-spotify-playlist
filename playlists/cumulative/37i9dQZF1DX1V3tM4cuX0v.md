@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: NAZVA
+> Найпопулярніші пісні сьогодення\. Обкладинка: анастимоза
 
 86 songs - 4 hr 13 min
 

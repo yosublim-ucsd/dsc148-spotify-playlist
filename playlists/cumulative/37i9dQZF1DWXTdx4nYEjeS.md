@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,017 songs - 2 day 13 hr 50 min
+1,018 songs - 2 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,6 +656,7 @@
 | [No Aguanto Más](https://open.spotify.com/track/1NBblhAr28FTAec6ViFQAk) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [No Aguanto Más](https://open.spotify.com/album/0oqgWBgh1BXPjfjqAJTCuc) | 3:46 | 2022-04-01 | 2022-04-21 |
 | [No Es un Juego](https://open.spotify.com/track/2VDg8c5oYcGjkEE0BpeLRa) | [Acero](https://open.spotify.com/artist/6lmCju6acWQGvPOZJuYsD2) | [No Es un Juego](https://open.spotify.com/album/2A6QWgwKPxoSBtgg8MtUtf) | 3:15 | 2022-04-13 | 2022-04-21 |
 | [No Me Agarrás Más](https://open.spotify.com/track/6LILK93SI4jajZBIYgWBTu) | [Federico Nathan](https://open.spotify.com/artist/4PGgtdaknjJVfEXcW1EcOm), [Leo Maslíah](https://open.spotify.com/artist/1V91O7M7AAOZxWnTRDlJy7) | [Vivo y Medio](https://open.spotify.com/album/0yQ0NoMHnHW215GZyqdyvQ) | 3:07 | 2022-03-28 | 2022-04-01 |
+| [No Me Digas Que No](https://open.spotify.com/track/3DINASfl27t6yqfTwQEJtD) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No Me Digas Que No](https://open.spotify.com/album/6J5Kf8vKFJJlxdnykuLbHq) | 3:23 | 2024-11-07 |  |
 | [No Necesito](https://open.spotify.com/track/2xyyyQRwvw8oVo5nKiBNh4) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [No Necesito](https://open.spotify.com/album/2vJrccNi8aJxBdwHVmpNQw) | 3:04 | 2021-12-24 | 2022-07-29 |
 | [No Soy un Extraño \(Homenaje a Charly García en Su 70 Aniversario\)](https://open.spotify.com/track/0rkL8DgXsVFXaIjSO8eTN9) | [La Fanfarria del Capitán](https://open.spotify.com/artist/3RtwbiB9DVyibUaEZo6ZYu) | [No Soy un Extraño \(Homenaje a Charly García en Su 70 Aniversario\)](https://open.spotify.com/album/1ZGsZgYwK0P1FsrqSWKwp0) | 3:36 | 2022-03-28 | 2022-04-21 |
 | [No Sé Que Tiene la Guaracha](https://open.spotify.com/track/5Yb895u0Qx1HTJ1NunnY2n) | [Los Arcanos Del Desierto](https://open.spotify.com/artist/3TtEIFoIsIU2eV9uTgDhdD) | [No Sé Que Tiene la Guaracha](https://open.spotify.com/album/0uU0dVe0ddjSCC1h3KG5Z6) | 3:13 | 2022-03-28 | 2022-04-21 |
@@ -817,7 +818,7 @@
 | [Seguir](https://open.spotify.com/track/2B8O85kMp5ZbaqaAGjKURP) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4) | [Seguir](https://open.spotify.com/album/46nnrvyYdT3BeOSmMGTqk1) | 3:01 | 2022-03-28 | 2022-04-21 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/5uCTPBorZZysv918IxWAi0) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Otras Músicas](https://open.spotify.com/album/6iYwUTIBeOwE3NptAXPIwx) | 3:08 | 2022-03-28 | 2022-04-20 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2021-12-24 |  |
-| [Seguir Viviendo Sin Tu Amor \- Acustico](https://open.spotify.com/track/5HnzCCUCScRKGrWAAqiqtL) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Laberintos Entre Aristas Y Dialectos](https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz) | 3:44 | 2021-12-24 |  |
+| [Seguir Viviendo Sin Tu Amor \- Acustico](https://open.spotify.com/track/5HnzCCUCScRKGrWAAqiqtL) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Laberintos Entre Aristas Y Dialectos](https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz) | 3:44 | 2021-12-24 | 2025-01-03 |
 | [Seminare](https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Seminare](https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI) | 3:24 | 2021-12-24 | 2022-07-29 |
 | [Seminare \- 2021 Remasterizado](https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(2021 Remasterizado\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 3:22 | 2022-01-28 |  |
 | [Sencillamente](https://open.spotify.com/track/0dsIBvWTJir86M4qSTMn6d) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Testosterona](https://open.spotify.com/album/0kiGu6K0189V5QwvPbtN9i) | 5:07 | 2022-01-07 | 2022-06-06 |

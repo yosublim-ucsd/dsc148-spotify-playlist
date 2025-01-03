@@ -1516,10 +1516,36 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 174773,
       "name": "Salut d'amour, Op. 12",
       "url": "https://open.spotify.com/track/2WZNkbVqATzXscJ6VgYJeo"
+    },
+    {
+      "album": {
+        "name": "Songs from the Arc of Life",
+        "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164680,
+      "name": "Salut d'Amour, Op. 12",
+      "url": "https://open.spotify.com/track/0P7UwPB9vL74bD6gzYaKIu"
     },
     {
       "album": {
@@ -1846,6 +1872,28 @@
       "duration_ms": 99960,
       "name": "Where Is Your Heart (From \"Moulin Rouge\") [Arr. for Piano]",
       "url": "https://open.spotify.com/track/1wFDGTlLE91EeholRAB6x9"
+    },
+    {
+      "album": {
+        "name": "Zelda's Lullaby (Arr. Clements for Vocal Ensemble & Harp)",
+        "url": "https://open.spotify.com/album/0y54gIwJbHdScbz7dJWAWh"
+      },
+      "artists": [
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Lise Vandersmissen",
+          "url": "https://open.spotify.com/artist/0iMnYfFwxNUFp45FxlSpuC"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179720,
+      "name": "Zelda's Lullaby (Arr. Clements for Vocal Ensemble & Harp)",
+      "url": "https://open.spotify.com/track/3EljV7yUSuuVcUQAzZSCtE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbTR7abB7Ji7"

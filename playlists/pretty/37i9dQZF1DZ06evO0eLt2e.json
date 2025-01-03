@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 29688,
+  "num_followers": 29696,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3M0AAAAAABYh+XvkwFizf1oVwIviPn5",
+  "snapshot_id": "Z3SFgAAAAACqqrwWDlZcTE9mNwGWlg3+",
   "tracks": [
     {
       "added_at": null,
@@ -1199,22 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "From Here to Forever",
-      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 212840,
       "name": "Angels Love Bad Men",
       "url": "https://open.spotify.com/track/4erMZWKJDVPko0AQtWD5ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "From Here to Forever",
+      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
     },
     {
       "added_at": null,
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 185560,
-      "name": "Jody and the Kid",
-      "url": "https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3"
+      "duration_ms": 170093,
+      "name": "Once More With Feeling",
+      "url": "https://open.spotify.com/track/609YKrV5yz6V9e876motcJ"
     },
     {
       "added_at": null,
@@ -1344,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 170093,
-      "name": "Once More With Feeling",
-      "url": "https://open.spotify.com/track/609YKrV5yz6V9e876motcJ"
+      "duration_ms": 185560,
+      "name": "Jody and the Kid",
+      "url": "https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3"
     },
     {
       "added_at": null,

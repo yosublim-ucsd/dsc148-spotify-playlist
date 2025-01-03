@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Sunshine!!\" \u00a92017 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
-  "num_followers": 55212,
+  "num_followers": 55215,
   "original_name": "Love Live! Sunshine!!",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album \u301cOne More Sunshine Story\u301c",
-        "url": "https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39) from Aqours",
-          "url": "https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "One More Sunshine Story",
-      "url": "https://open.spotify.com/track/7h73Xkk2JqVV2bMo0P7x06"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
         "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
       },
@@ -687,8 +671,24 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u6c7a\u3081\u305f\u3088Hand in Hand/\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
-        "url": "https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL"
+        "name": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album \u301cOne More Sunshine Story\u301c",
+        "url": "https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39) from Aqours",
+          "url": "https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "One More Sunshine Story",
+      "url": "https://open.spotify.com/track/7h73Xkk2JqVV2bMo0P7x06"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044/\u672a\u719fDREAMER",
+        "url": "https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM"
       },
       "artists": [
         {
@@ -702,11 +702,23 @@
         {
           "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
           "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        },
+        {
+          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        },
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
         }
       ],
-      "duration_ms": 272266,
-      "name": "\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
-      "url": "https://open.spotify.com/track/51118cg0D9k0F952AGtNou"
+      "duration_ms": 334440,
+      "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044",
+      "url": "https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -855,8 +867,8 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044/\u672a\u719fDREAMER",
-        "url": "https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM"
+        "name": "\u6c7a\u3081\u305f\u3088Hand in Hand/\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
+        "url": "https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL"
       },
       "artists": [
         {
@@ -870,23 +882,11 @@
         {
           "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
           "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
-        },
-        {
-          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
-          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
-        },
-        {
-          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
-          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
-        },
-        {
-          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
-          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
         }
       ],
-      "duration_ms": 334440,
-      "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044",
-      "url": "https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB"
+      "duration_ms": 272266,
+      "name": "\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
+      "url": "https://open.spotify.com/track/51118cg0D9k0F952AGtNou"
     },
     {
       "added_at": "2024-12-17 16:20:41",

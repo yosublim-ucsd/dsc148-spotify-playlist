@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 2024년 Fresh Finds Korea를 빛낸 트랙들을 만나보세요! \(Cover: 엘루이, 리치보이하디\) \(Listen the highlight tracks in Fresh Finds Korea playlist this year!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,959 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,956 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

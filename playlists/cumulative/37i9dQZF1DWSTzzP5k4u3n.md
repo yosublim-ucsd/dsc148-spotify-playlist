@@ -2,9 +2,9 @@
 
 ### [Suomirock tänään](https://open.spotify.com/playlist/37i9dQZF1DWSTzzP5k4u3n)
 
-> Tällä listalla parasta tuoretta suomirockia\. Kannessa pilvet pilvet.
+> Tällä listalla parasta tuoretta suomirockia\. Kannessa Samae Koskinen.
 
-246 songs - 14 hr 29 min
+248 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Kaikki hyvin \(feat\. Pikku G\)](https://open.spotify.com/track/0qAygKPxprmvhBStKotsdp) | [Leo Stillman](https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld), [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Ihmiset & ongelmat](https://open.spotify.com/album/65XJMEVfqyrETikUgxreps) | 2:43 | 2024-09-12 |  |
 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 | 2024-11-21 |  |
 | [Kalpeaa valoa](https://open.spotify.com/track/3zUjxPK3ypd5JlfVLHku5B) | [Hullunkruunu](https://open.spotify.com/artist/4e5S9w4n2q9xeePK88mgIx) | [Tumman veden pinta](https://open.spotify.com/album/7qULDZOGiQTQ9OOyh8jc6N) | 4:45 | 2024-07-02 | 2024-11-15 |
+| [Kanaria](https://open.spotify.com/track/1hrxc1mvTbW9ISOGwxrk7I) | [Särmä](https://open.spotify.com/artist/7khIzQpPNEFxg3IolAP7F2), [Jari Karjalainen](https://open.spotify.com/artist/1zTp3cxbIPsk9JuYedEMNE) | [Kanaria](https://open.spotify.com/album/0fRX5IXf0soZUXASCkIcD7) | 2:55 | 2025-01-02 |  |
 | [Kapteeni](https://open.spotify.com/track/3eYzh7MET7DfMWbSoiQ5zj) | [Juuso](https://open.spotify.com/artist/0XkYgQirNpuUpQKa2YN4Uw) | [Kapteeni](https://open.spotify.com/album/1OUCSFLe2WX05AqvOrTcEn) | 2:36 | 2024-07-02 | 2024-07-05 |
 | [Karma Corrupted](https://open.spotify.com/track/5fv1YoBQm6rqR3CgcKYW05) | [Myon](https://open.spotify.com/artist/0bn2hcS30y2GaCwA9OCoWL) | [Terra Nova](https://open.spotify.com/album/0sFgF6uCSxmiiG8orITQLS) | 5:37 | 2024-07-02 | 2024-07-12 |
 | [Kaunis](https://open.spotify.com/track/6T6D0KAk4q6ujqWkTmQ0bL) | [Hugo Cajan](https://open.spotify.com/artist/2qtz8c5VZQMusKI1B24MW2) | [Kaunis](https://open.spotify.com/album/5k0ej6zgI4sOOIMrGCxZlY) | 3:24 | 2024-07-02 | 2024-07-05 |
@@ -248,6 +249,7 @@
 | [Voi kun riittäis pieni taivas](https://open.spotify.com/track/2EBCiPiw41o3Uqpg5mFhW2) | [Jouko Hohko & Jukka Orman Taivaallinen Sotajoukko](https://open.spotify.com/artist/19OiCuwqMDp0jA137MgDAA), [Jouko Hohko](https://open.spotify.com/artist/29xqY32T9vZdhrN2n2KU3f), [Jukka Orma](https://open.spotify.com/artist/30tgJpLphPAwrwbasvd7on) | [Voi kun riittäis pieni taivas](https://open.spotify.com/album/3v6atwO9AP6eNdLGd5WocU) | 3:47 | 2024-09-12 | 2024-10-18 |
 | [Voittajan ainesta](https://open.spotify.com/track/4lvwtpLCJdsVfHlQpY26J0) | [Bad Sauna](https://open.spotify.com/artist/2ZG33QoV5Nd96TA4RwEsZT) | [Voittajan ainesta](https://open.spotify.com/album/0UwaVJ62RKrRPlrVWeMGhx) | 4:32 | 2024-11-07 | 2024-11-15 |
 | [Vuonna '85](https://open.spotify.com/track/0cThSokBJLUZIRcDs9wZvm) | [Jere Ijäs](https://open.spotify.com/artist/1jzz3jZOBjI9ipSG1k1O8q) | [Vuonna '85](https://open.spotify.com/album/0EsUJnhYY3pctuNpJe5y9y) | 5:04 | 2024-11-14 |  |
+| [Worstness & pahoinvointi](https://open.spotify.com/track/07qkjd6iN8HN0yL4IdREhi) | [Kätfish](https://open.spotify.com/artist/2AlXNadhO0u0eK37N41bft) | [Worstness & pahoinvointi](https://open.spotify.com/album/09nERzYIpN7juKxMB2UpYG) | 2:12 | 2025-01-02 |  |
 | [Wrecking Ball](https://open.spotify.com/track/0N3ufYCnqo8lwAH3iWoIPT) | [Tom Tikka & The Missing Hubcaps](https://open.spotify.com/artist/1ShdRWWqSaSp57Gz82WiO8), [Lappe](https://open.spotify.com/artist/4pCyo7rC8AfxXHdftmpHg3), [Nicklas](https://open.spotify.com/artist/0M41YC4xNPWYCrPCDKoZfF) | [Wrecking Ball](https://open.spotify.com/album/3qOEq7waBcfcXNRIFNnann) | 2:47 | 2024-07-02 | 2024-07-12 |
 | [Yhdet liikaa](https://open.spotify.com/track/4GWh5r8RgOMtwWpGlmQT4x) | [ILO](https://open.spotify.com/artist/29PSvcmaFVFfpfv12p1nud) | [Yhdet liikaa](https://open.spotify.com/album/6xDS4ftSPTKy0qxjWm5Vfc) | 3:35 | 2024-09-26 |  |
 | [Yllä Helsingin on tillin\-tallin\-kuu](https://open.spotify.com/track/3Pm0wrSXJWwoDDNCZs81VS) | [Jouko Mäki\-Lohiluoma](https://open.spotify.com/artist/2NxoPESl7U2fsHcwx1dOYu) | [Yllä Helsingin on tillin\-tallin\-kuu](https://open.spotify.com/album/4X0cTwztscWrlOg4SSgDpe) | 2:40 | 2024-09-26 | 2024-11-01 |

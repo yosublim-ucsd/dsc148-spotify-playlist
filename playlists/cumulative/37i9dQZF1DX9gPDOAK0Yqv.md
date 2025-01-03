@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-648 songs - 2 day 3 hr 5 min
+649 songs - 2 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ana](https://open.spotify.com/track/5PpqIZqDaY0dtKSxjLNO64) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Ana](https://open.spotify.com/album/5gWO17CbmyvXOtiukxEcdr) | 3:58 | 2024-05-02 | 2024-11-29 |
 | [and the colour red \- Rebūke Remix](https://open.spotify.com/track/72ydjj6mIRlmcDd93PRM41) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [and the colour red \(Rebūke Remix\)](https://open.spotify.com/album/6VBFQzll1JGtUW9Z9Ggrhy) | 5:24 | 2023-08-18 | 2023-10-30 |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-11-23 | 2023-03-11 |
+| [Angel in the Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel in the Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 | 2025-01-02 |  |
 | [Another Dimension](https://open.spotify.com/track/6JvxvazbCGARCcZKm8qsCf) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [B\-Sides](https://open.spotify.com/album/39C0lar5IGZVwPXhO0ZYvI) | 5:23 | 2024-10-10 |  |
 | [Another World \- Kevin de Vries & SLVR Remix](https://open.spotify.com/track/70hIxHhQLcxmqwxfcYkoUf) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Another World \(Kevin de Vries & SLVR Remix\)](https://open.spotify.com/album/6rsdb9z4X2APof4aa8fJuz) | 3:31 | 2024-11-14 |  |
 | [Anytime](https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Anytime](https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE) | 6:05 | 2022-11-23 | 2023-01-20 |
@@ -406,7 +407,7 @@
 | [Otaku](https://open.spotify.com/track/2pKqAIkPQraNbuL0quBuPo) | [Nure](https://open.spotify.com/artist/4zsl085OD62z4Pyc7JPhUq) | [Otaku](https://open.spotify.com/album/4v4qIlqoXLTX1CyIvdtZaU) | 6:12 | 2022-12-06 | 2023-02-04 |
 | [Otherside \- Fideles Remix Edit](https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Otherside \(Fideles Remix Edit\)](https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf) | 4:30 | 2022-11-23 | 2024-07-13 |
 | [Our Lives](https://open.spotify.com/track/0NIAGOzrOc4Y7yLl2EVi3l) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Our Lives](https://open.spotify.com/album/73LLXQVzvlttD9MBdvcwDB) | 6:35 | 2023-05-31 | 2023-06-03 |
-| [Out Of My Mind](https://open.spotify.com/track/1b8ukj8lFaaJn1L5buFICj) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [Out Of My Mind](https://open.spotify.com/album/4D3b0pbXJuXp5osS5fZE7f) | 3:46 | 2024-08-08 |  |
+| [Out Of My Mind](https://open.spotify.com/track/1b8ukj8lFaaJn1L5buFICj) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [Out Of My Mind](https://open.spotify.com/album/4D3b0pbXJuXp5osS5fZE7f) | 3:46 | 2024-08-08 | 2025-01-03 |
 | [Out Of Your Comfort Zone](https://open.spotify.com/track/0C8G5YJrDlRJvhLR8mfC98) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Out Of Your Comfort Zone](https://open.spotify.com/album/0HvHEOaBmpRMH2vYHSf6Qt) | 6:54 | 2023-02-10 | 2023-02-18 |
 | [Outside Time](https://open.spotify.com/track/5F8TBm0KnHfW2IVSgSlZrY) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Outside Time](https://open.spotify.com/album/6XskRNKES3V9dY2SSZ0H6s) | 6:48 | 2023-11-24 | 2024-01-27 |
 | [Overcome](https://open.spotify.com/track/3Ri7CVRYHurCnvubOZKZRA) | [Maksim Dark](https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu), [Arturo \(RU\)](https://open.spotify.com/artist/5Mci17S1El2pO6fvVaZ2Fd) | [Overcome](https://open.spotify.com/album/1esfKP16AKHgk6P5fDuXQX) | 7:12 | 2022-11-23 | 2023-01-28 |

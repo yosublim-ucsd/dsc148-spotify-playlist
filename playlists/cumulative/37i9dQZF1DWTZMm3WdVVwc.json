@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "LOST AND FOUND",
+        "url": "https://open.spotify.com/album/6gAE7QWM0Ry10n1qoMrgvz"
+      },
+      "artists": [
+        {
+          "name": "Ryoko Moriyama",
+          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451506,
+      "name": "LOST AND FOUND",
+      "url": "https://open.spotify.com/track/6XFmI9JrepfB54inQuA5c1"
+    },
+    {
+      "album": {
         "name": "LOVE LOVE LOVE",
         "url": "https://open.spotify.com/album/6lPTKqfxFjfOodm0U7eXlC"
       },
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 215000,
       "name": "White Snow",
       "url": "https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5"

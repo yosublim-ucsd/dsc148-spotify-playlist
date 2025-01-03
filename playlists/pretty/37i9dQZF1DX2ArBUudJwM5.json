@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Valeria Lynch en portada.",
-  "num_followers": 40609,
+  "num_followers": 40614,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,22 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
-        "name": "Puerto Pollensa",
-        "url": "https://open.spotify.com/album/6b92efJS3GCOn2wuJWqZd5"
+        "name": "Esencia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/2Wh9zZhZyzR2nfIo7NT5hE"
       },
       "artists": [
         {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Mar\u00eda Martha Serra Lima",
+          "url": "https://open.spotify.com/artist/03vv0WEv8o8eeVgeXBVHdP"
         }
       ],
-      "duration_ms": 264506,
-      "name": "Puerto Pollensa",
-      "url": "https://open.spotify.com/track/5BaoWORszQDCU5ee4frtoP"
+      "duration_ms": 208880,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4NDHOxoZEaTHNaQKIjZ1fS"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -191,22 +195,18 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
-        "name": "Esencia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/2Wh9zZhZyzR2nfIo7NT5hE"
+        "name": "Puerto Pollensa",
+        "url": "https://open.spotify.com/album/6b92efJS3GCOn2wuJWqZd5"
       },
       "artists": [
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Mar\u00eda Martha Serra Lima",
-          "url": "https://open.spotify.com/artist/03vv0WEv8o8eeVgeXBVHdP"
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
         }
       ],
-      "duration_ms": 208880,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4NDHOxoZEaTHNaQKIjZ1fS"
+      "duration_ms": 264506,
+      "name": "Puerto Pollensa",
+      "url": "https://open.spotify.com/track/5BaoWORszQDCU5ee4frtoP"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -255,22 +255,6 @@
       "duration_ms": 323066,
       "name": "Pasos",
       "url": "https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "En El Paraiso",
-        "url": "https://open.spotify.com/album/1qL3M86pwcdTvNSUED6lbo"
-      },
-      "artists": [
-        {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
-        }
-      ],
-      "duration_ms": 223360,
-      "name": "Todo Me Recuerda a Ti",
-      "url": "https://open.spotify.com/track/07VXbU838kwvlJ0Id68z6y"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -367,6 +351,22 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
+        "name": "En El Paraiso",
+        "url": "https://open.spotify.com/album/1qL3M86pwcdTvNSUED6lbo"
+      },
+      "artists": [
+        {
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Todo Me Recuerda a Ti",
+      "url": "https://open.spotify.com/track/07VXbU838kwvlJ0Id68z6y"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
         "name": "Nelly Omar - Desde el alma",
         "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
       },
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
+        "name": "Alma Gitana",
+        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 340172,
+      "name": "Alma Gitana",
+      "url": "https://open.spotify.com/track/4m0jEL1UfmfGwLzNXdUycG"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
         "name": "La Caldera",
         "url": "https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg"
       },
@@ -427,6 +443,22 @@
       "duration_ms": 216125,
       "name": "Cara de Gitana",
       "url": "https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "Confesi\u00f3n del Viento",
+        "url": "https://open.spotify.com/album/4nVMhhYI6UC4Q1tP3lLXES"
+      },
+      "artists": [
+        {
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Palabras para Julia",
+      "url": "https://open.spotify.com/track/6SgV5JOlX0s5za4hJtb2Fe"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -447,38 +479,6 @@
       "duration_ms": 220533,
       "name": "Y Qu\u00e9 M\u00e1s",
       "url": "https://open.spotify.com/track/5AUAwAIe2eoZfHsfUrmQqQ"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Alma Gitana",
-        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 340172,
-      "name": "Alma Gitana",
-      "url": "https://open.spotify.com/track/4m0jEL1UfmfGwLzNXdUycG"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Confesi\u00f3n del Viento",
-        "url": "https://open.spotify.com/album/4nVMhhYI6UC4Q1tP3lLXES"
-      },
-      "artists": [
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Palabras para Julia",
-      "url": "https://open.spotify.com/track/6SgV5JOlX0s5za4hJtb2Fe"
     },
     {
       "added_at": "2024-12-04 14:28:26",

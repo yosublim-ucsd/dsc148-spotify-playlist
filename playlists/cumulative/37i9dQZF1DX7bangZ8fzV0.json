@@ -2731,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Lippe teen die Klippe",
+        "url": "https://open.spotify.com/album/6t4pXqBpyPk8nxu8ztsa8Q"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194377,
+      "name": "Lippe teen die Klippe",
+      "url": "https://open.spotify.com/track/4LgPIQKMRWEUWoCf6DWZ4r"
+    },
+    {
+      "album": {
         "name": "Lisensie",
         "url": "https://open.spotify.com/album/2wOqcXyC7bpsZ0zeqXGwgq"
       },
@@ -3255,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "Nou Raak Dit Lekker",
+        "url": "https://open.spotify.com/album/297pJLze89iTiAwJbm1Fyx"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182395,
+      "name": "Nou Raak Dit Lekker",
+      "url": "https://open.spotify.com/track/3tSXiJtOuS51swYUuW8y16"
+    },
+    {
+      "album": {
         "name": "O My Vy",
         "url": "https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh"
       },
@@ -3530,7 +3566,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 221000,
       "name": "Plaaspop (Mullet Mix)",
       "url": "https://open.spotify.com/track/6pTZP4V1f14d7s6n2Nqhok"
@@ -4566,7 +4602,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 165173,
       "name": "Vuur En Vlam",
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"

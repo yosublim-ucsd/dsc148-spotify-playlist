@@ -1,12 +1,12 @@
 {
   "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Alamat",
-  "num_followers": 172710,
+  "num_followers": 172742,
   "original_name": "OPM Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3UkpQAAAACvlPKnmeLA9vWhjbYNO5K2",
+  "snapshot_id": "Z3ZXoQAAAAC9rn6vCVfd1Zsn7O1vkH1o",
   "tracks": [
     {
       "added_at": "2025-01-01 11:19:00",
@@ -23,6 +23,22 @@
       "duration_ms": 345230,
       "name": "Hunyo '97",
       "url": "https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t"
+    },
+    {
+      "added_at": "2025-01-02 09:08:49",
+      "album": {
+        "name": "Nang Tahimik",
+        "url": "https://open.spotify.com/album/5gC6gRRQB40oSPOoyPMDdA"
+      },
+      "artists": [
+        {
+          "name": "geiko",
+          "url": "https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2"
+        }
+      ],
+      "duration_ms": 334901,
+      "name": "Nang Tahimik",
+      "url": "https://open.spotify.com/track/2ZvnsAhdcPO0P6pM4JWmKs"
     },
     {
       "added_at": "2025-01-01 11:19:00",

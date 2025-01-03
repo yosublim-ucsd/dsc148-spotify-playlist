@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-291 songs - 18 hr 39 min
+292 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Finale / Reprise](https://open.spotify.com/track/5LWUzNLA1mYCz9m7DmGBvl) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Catherine O'Hara](https://open.spotify.com/artist/0KDbBK1pnCWEL33tRNwDhD), [The Citizens of Halloween](https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 2:44 | 2024-10-31 |  |
 | [Follow Me](https://open.spotify.com/track/1q28v8ngb6gs3E49plZJrR) | [Dream Valley Music](https://open.spotify.com/artist/5f2NXnezq4bJWnTj8K6PdY) | [The Strangeness of Beauty](https://open.spotify.com/album/1Qnl6fc4ohNeTV07LlHv5S) | 1:50 | 2022-07-30 |  |
 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 | 2021-07-02 |  |
+| [Foot Forward](https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 2:33 | 2025-01-02 |  |
 | [FOR YOUR EYES ONLY](https://open.spotify.com/track/587KkUDbQ0XHigC1fdFOFk) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [PRINCESS CATGIRL](https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh) | 3:08 | 2020-11-30 |  |
 | [Forever ..\. \(is a long time\)](https://open.spotify.com/track/6BORJ0ZazxMBpM3cWg79Id) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:47 | 2024-03-21 |  |
 | [Forget About The Party](https://open.spotify.com/track/0hnh2mE1YXEF3wvOmTVizC) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 3:20 | 2021-10-23 |  |

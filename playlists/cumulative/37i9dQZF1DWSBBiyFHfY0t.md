@@ -4,7 +4,7 @@
 
 > For frolicking joyously, freely and theatrically in this world.
 
-112 songs - 7 hr 3 min
+113 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Don’t Beat the Girl out of My Boy](https://open.spotify.com/track/1eQN2B11BU0sIqBGAGnwsH) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Hunter](https://open.spotify.com/album/4i2XIJtswPyQE6G46wpKpH) | 4:03 | 2024-04-18 |  |
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-04-18 |  |
 | [Everybody Wants to Love You](https://open.spotify.com/track/21iSFtrC2VHP3PfImVTglV) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/1XjQUeeHjQCEhOdBCE8Amo) | 2:12 | 2024-04-18 |  |
+| [Filthy Lucre](https://open.spotify.com/track/4SOc3DpGIyLiifA7INFAj4) | [Elea Calvet](https://open.spotify.com/artist/18Hl0NlWPsQdjDnbPV1nR4) | [Filthy lucre](https://open.spotify.com/album/2hI0fBgSlbAlYt6mmRW3jC) | 3:19 | 2025-01-03 |  |
 | [Fix Me Up](https://open.spotify.com/track/6yqRgmb91QYz7s6anxNbdo) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Return](https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0) | 4:19 | 2024-04-18 |  |
 | [Florida Kilos](https://open.spotify.com/track/4oGbPRMRSOaUgO0pHH7vMr) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/0xM5ya1HwAoc8ubvL5GORB) | 4:16 | 2024-04-18 |  |
 | [Florida!!! \(feat\. Florence + The Machine\)](https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:35 | 2024-04-18 |  |

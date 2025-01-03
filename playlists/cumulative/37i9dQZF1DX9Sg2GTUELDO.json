@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: Gwenji",
+  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: Sica",
   "name": "\u8d85\u7d1a\u5973\u8072",
   "tracks": [
     {
@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "JET-51CA",
+        "url": "https://open.spotify.com/album/6AKhCOyS3lRQBea0E0jtQH"
+      },
+      "artists": [
+        {
+          "name": "sica",
+          "url": "https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "JET-51CA",
+      "url": "https://open.spotify.com/track/4h5K62op14M02lx0GA1TH9"
+    },
+    {
+      "album": {
         "name": "kill the thought",
         "url": "https://open.spotify.com/album/4frxdpM4eCcnLoUTlucFZe"
       },
@@ -1926,6 +1944,24 @@
       "duration_ms": 201052,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/7FjYiUCnjfP1gmzj7aAues"
+    },
+    {
+      "album": {
+        "name": "nothing about you",
+        "url": "https://open.spotify.com/album/5nWghT9U5ZdEiQOeB4rYPC"
+      },
+      "artists": [
+        {
+          "name": "Marf \u90b1\u5f65\u7b52",
+          "url": "https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181267,
+      "name": "nothing about you",
+      "url": "https://open.spotify.com/track/0DhPLOi5pwaNzH74yI82wM"
     },
     {
       "album": {
@@ -3642,6 +3678,24 @@
       "duration_ms": 207620,
       "name": "\u5225\u70ba\u6211\u597d",
       "url": "https://open.spotify.com/track/7mjD9lnV1pLw36tPcyPHF5"
+    },
+    {
+      "album": {
+        "name": "\u5230\u6642",
+        "url": "https://open.spotify.com/album/4MI3HWSBBmBS9qfmKiL3LE"
+      },
+      "artists": [
+        {
+          "name": "Luna Is A Bep",
+          "url": "https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253816,
+      "name": "\u5230\u6642",
+      "url": "https://open.spotify.com/track/4FcEVN18bBNzv6Mp1oG4F6"
     },
     {
       "album": {
@@ -6580,6 +6634,24 @@
       "duration_ms": 168645,
       "name": "\u75f4\u6839\u9435\u7c89",
       "url": "https://open.spotify.com/track/25GXAivtvnqjrd9HxtUo4F"
+    },
+    {
+      "album": {
+        "name": "\u767d\u91d1\u5361\u516c\u4e3b",
+        "url": "https://open.spotify.com/album/7qmZp4TkhCLVF3vD6xl1d8"
+      },
+      "artists": [
+        {
+          "name": "J.Arie",
+          "url": "https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251328,
+      "name": "\u767d\u91d1\u5361\u516c\u4e3b",
+      "url": "https://open.spotify.com/track/12tq3AJtqWB8OcdANiG8CN"
     },
     {
       "album": {

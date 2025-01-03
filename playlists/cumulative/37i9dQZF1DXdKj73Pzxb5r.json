@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Holy City Rollers",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Olski",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 187927,
       "name": "Aku Aku, Kamu Kamu",
       "url": "https://open.spotify.com/track/1Dm4RkicRtJNMxboGFlQZW"
@@ -284,6 +284,24 @@
       "duration_ms": 285739,
       "name": "Arutala",
       "url": "https://open.spotify.com/track/4dRV4oxoLxMy9ipgXXmpr6"
+    },
+    {
+      "album": {
+        "name": "Ayo Janji",
+        "url": "https://open.spotify.com/album/6deiQQbI4JecoYcnfQjCNm"
+      },
+      "artists": [
+        {
+          "name": "Olski",
+          "url": "https://open.spotify.com/artist/4R0IfHszLiWGOgtqlyuY71"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160171,
+      "name": "Ayo Janji",
+      "url": "https://open.spotify.com/track/10A4qPaPfefup8WFu3vs7L"
     },
     {
       "album": {
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 268343,
       "name": "Dreamscape",
       "url": "https://open.spotify.com/track/7iQ5HEi9HHzlQTZHvF7lM2"
@@ -1332,6 +1350,24 @@
       "duration_ms": 199819,
       "name": "Expectation",
       "url": "https://open.spotify.com/track/3E9C95z7qSy2DDN8Q0pppH"
+    },
+    {
+      "album": {
+        "name": "Fall II (Acoustic)",
+        "url": "https://open.spotify.com/album/5NlUsSezIld8jmDiKw8YaP"
+      },
+      "artists": [
+        {
+          "name": "Morgensoll",
+          "url": "https://open.spotify.com/artist/60a7NWRbuo9IF8TelOWjl3"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Fall II - Acoustic",
+      "url": "https://open.spotify.com/track/5y3Lki39SW5WKF6PLbCsVp"
     },
     {
       "album": {
@@ -1534,7 +1570,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 185496,
       "name": "Harap",
       "url": "https://open.spotify.com/track/6Chsst9NID5A8otlE0Gacz"
@@ -2006,7 +2042,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 271610,
       "name": "Jumpa Lagi Nanti",
       "url": "https://open.spotify.com/track/4CS261KuieO8JtGW3Pxn0O"
@@ -2400,7 +2436,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 172384,
       "name": "Lost - Remastered",
       "url": "https://open.spotify.com/track/2T01si7GbNoELB3pMG4GSj"
@@ -2494,7 +2530,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 238982,
       "name": "Lovely Echoes",
       "url": "https://open.spotify.com/track/2aASuMToTrUrpNHGI8vw0x"
@@ -3319,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "Riot Angels",
+        "url": "https://open.spotify.com/album/7M3flwCd0kAKZ7RT596Xwp"
+      },
+      "artists": [
+        {
+          "name": "The Hydrant",
+          "url": "https://open.spotify.com/artist/7JbyDoxuSWVvH1IvrNj2Dd"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197962,
+      "name": "Riot Angels",
+      "url": "https://open.spotify.com/track/2dyO7E1uadz2d5LRbfhW1P"
+    },
+    {
+      "album": {
         "name": "Romansa Romansaan",
         "url": "https://open.spotify.com/album/7MqEdqGfiVkNHjOT2avUiy"
       },
@@ -3724,7 +3778,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 276610,
       "name": "Stop Loving You",
       "url": "https://open.spotify.com/track/4623UMZf7ASZiyAoM8DaY6"

@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 208800,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS"
@@ -4767,6 +4767,24 @@
     },
     {
       "album": {
+        "name": "Jy Dink Jy's Die Een",
+        "url": "https://open.spotify.com/album/6h1M4yC8owteIAKFiZnmOP"
+      },
+      "artists": [
+        {
+          "name": "Saterdag Vanaand",
+          "url": "https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Jy Dink Jy's Die Een",
+      "url": "https://open.spotify.com/track/3GLZ8rb7BBRldebmVgfEX1"
+    },
+    {
+      "album": {
         "name": "Bloeisels",
         "url": "https://open.spotify.com/album/21Wolo015jpmELBve2nf8E"
       },
@@ -5994,7 +6012,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 217200,
       "name": "My Ek(skuus)",
       "url": "https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D"
@@ -6640,6 +6658,24 @@
       "duration_ms": 220810,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/6BEAF04SxrZhHpjM0SDSEj"
+    },
+    {
+      "album": {
+        "name": "Original Nightmare",
+        "url": "https://open.spotify.com/album/3KHIlZiFKJZH1CQ8XRvXcr"
+      },
+      "artists": [
+        {
+          "name": "Whitecollar",
+          "url": "https://open.spotify.com/artist/41GHjsofgg86ArV6bA798Q"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Original Nightmare",
+      "url": "https://open.spotify.com/track/23qhzLlc5M9A6nH7Gd4Tt5"
     },
     {
       "album": {

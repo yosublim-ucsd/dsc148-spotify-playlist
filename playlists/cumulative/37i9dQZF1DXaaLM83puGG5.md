@@ -2,7 +2,7 @@
 
 ### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
-> Keeping the party going with Jerk x Jollof\.  And cop tickets for our Cape Town takeover <a href="https://jerkxjollof.howler.co.za/events/jerk\-x\-jollof\-cape\-town\-takeover\-1c91">here</a>.
+> Keeping the party going with Jerk x Jollof!
 
 1,435 songs - 3 day 14 hr 59 min
 

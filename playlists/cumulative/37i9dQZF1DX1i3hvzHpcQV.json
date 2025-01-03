@@ -404,7 +404,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 220350,
       "name": "Beast Mode (From \"Beast\")",
       "url": "https://open.spotify.com/track/1aQ58u4guUf999iQX3J2HF"
@@ -2580,6 +2580,32 @@
       "duration_ms": 106495,
       "name": "Sandhanam Theme - Background Score",
       "url": "https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al"
+    },
+    {
+      "album": {
+        "name": "Sawadeeka (From \"Vidaamuyarchi\")",
+        "url": "https://open.spotify.com/album/3J9YX3ayznkSAV2XecdDzT"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Sawadeeka (From \"Vidaamuyarchi\")",
+      "url": "https://open.spotify.com/track/0Vh3jGxKhm9KxzQgnfnIV6"
     },
     {
       "album": {

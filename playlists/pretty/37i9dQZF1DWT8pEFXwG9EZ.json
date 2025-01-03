@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 170315,
+  "num_followers": 170366,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -48,22 +48,6 @@
       },
       "artists": [
         {
-          "name": "La La Land Cast",
-          "url": "https://open.spotify.com/artist/6T70tWxqyIpdVbsFvPzqM3"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Another Day Of Sun",
-      "url": "https://open.spotify.com/track/5kRBzRZmZTXVg8okC7SJFZ"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
-      },
-      "artists": [
-        {
           "name": "Ryan Gosling",
           "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
         },
@@ -75,6 +59,22 @@
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "La La Land Cast",
+          "url": "https://open.spotify.com/artist/6T70tWxqyIpdVbsFvPzqM3"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Another Day Of Sun",
+      "url": "https://open.spotify.com/track/5kRBzRZmZTXVg8okC7SJFZ"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -184,6 +184,26 @@
       },
       "artists": [
         {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "A Lovely Night",
+      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
           "name": "Justin Hurwitz",
           "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
         }
@@ -227,26 +247,6 @@
       "duration_ms": 157680,
       "name": "The Pink Panther Theme - From \"The Pink Panther\"",
       "url": "https://open.spotify.com/track/0juPSJLFnLFim7BK6VzTes"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        },
-        {
-          "name": "Emma Stone",
-          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "A Lovely Night",
-      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Overture - From \"Whiplash\"",
-      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 124986,
       "name": "They Can\u2019t Take That Away From Me",
       "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Overture - From \"Whiplash\"",
+      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Music From Peter Gunn",
+        "url": "https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 237306,
+      "name": "Dreamsville",
+      "url": "https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Dug Days (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 52640,
       "name": "Opening (Spirit of Adventure)",
       "url": "https://open.spotify.com/track/5oYUpqagyuDKyv4CAYOqzR"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Music From Peter Gunn",
-        "url": "https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Dreamsville",
-      "url": "https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        }
+      ],
+      "duration_ms": 344226,
+      "name": "Blues / La Dolce Vita Dei Nobili",
+      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 179893,
       "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
       "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
-      },
-      "artists": [
-        {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        }
-      ],
-      "duration_ms": 344226,
-      "name": "Blues / La Dolce Vita Dei Nobili",
-      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "The Best Of Matt Monro",
+        "url": "https://open.spotify.com/album/41IR9ViLL2GlvI3uzfXo5F"
+      },
+      "artists": [
+        {
+          "name": "Matt Monro",
+          "url": "https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl"
+        }
+      ],
+      "duration_ms": 155840,
+      "name": "From Russia with Love - Single Version",
+      "url": "https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "'Round Midnight - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 141240,
       "name": "Theme From The Thomas Crown Affair (The Windmills Of Your Mind)",
       "url": "https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "The Best Of Matt Monro",
-        "url": "https://open.spotify.com/album/41IR9ViLL2GlvI3uzfXo5F"
-      },
-      "artists": [
-        {
-          "name": "Matt Monro",
-          "url": "https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl"
-        }
-      ],
-      "duration_ms": 155840,
-      "name": "From Russia with Love - Single Version",
-      "url": "https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Fair Weather",
-      "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Who Framed Roger Rabbit",
         "url": "https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 152333,
       "name": "Lonely at the Top",
       "url": "https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Johnny Cool (Original Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw"
-      },
-      "artists": [
-        {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
-        }
-      ],
-      "duration_ms": 198034,
-      "name": "Green Tables Blues",
-      "url": "https://open.spotify.com/track/4Jsugzy5b9QZdSlOpCjrIl"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Monsters Inc Original Soundtrack",
         "url": "https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 210600,
       "name": "Walk To Work",
       "url": "https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Johnny Cool (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "duration_ms": 198034,
+      "name": "Green Tables Blues",
+      "url": "https://open.spotify.com/track/4Jsugzy5b9QZdSlOpCjrIl"
     },
     {
       "added_at": "2024-06-14 07:09:21",

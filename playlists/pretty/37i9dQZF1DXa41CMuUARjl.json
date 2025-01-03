@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Lilly Palmer",
-  "num_followers": 506983,
+  "num_followers": 507113,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -327,30 +327,6 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/7yAYrrZuBXeQHc161gqIyO"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "Wasback",
-          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
-        },
-        {
-          "name": "ALYSSA",
-          "url": "https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp"
-        }
-      ],
-      "duration_ms": 169736,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/3lUIB7V8u0hZqRFCajVFUq"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/4uUBVpa38H5hfhsDIAbUpw"
       },
@@ -375,18 +351,26 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Born To Make It",
-        "url": "https://open.spotify.com/album/6HlysPNeaDNbptK2EGKBiU"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/7yAYrrZuBXeQHc161gqIyO"
       },
       "artists": [
         {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Wasback",
+          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
+        },
+        {
+          "name": "ALYSSA",
+          "url": "https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp"
         }
       ],
-      "duration_ms": 130789,
-      "name": "Born To Make It",
-      "url": "https://open.spotify.com/track/6kTN5hzVv7v7OBWkadx3IP"
+      "duration_ms": 169736,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/3lUIB7V8u0hZqRFCajVFUq"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -407,6 +391,22 @@
       "duration_ms": 335267,
       "name": "Freedom Of The Night - Claptone Remix",
       "url": "https://open.spotify.com/track/72PGpccRP9XOH2HacT7t8J"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "Born To Make It",
+        "url": "https://open.spotify.com/album/6HlysPNeaDNbptK2EGKBiU"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 130789,
+      "name": "Born To Make It",
+      "url": "https://open.spotify.com/track/6kTN5hzVv7v7OBWkadx3IP"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Liqueur & Rum",
-        "url": "https://open.spotify.com/album/4CSF2UyqElbagb47rbhrMD"
-      },
-      "artists": [
-        {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
-        },
-        {
-          "name": "Spada",
-          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
-        }
-      ],
-      "duration_ms": 214104,
-      "name": "Liqueur & Rum - Edit",
-      "url": "https://open.spotify.com/track/0twpIW7agorQ3UkMcXFim2"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
         "name": "Destination (A State of Trance 2024 Anthem) [Remixes]",
         "url": "https://open.spotify.com/album/4UxIuweHPppRU7d6kFm7NT"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 159156,
       "name": "Destination (A State of Trance 2024 Anthem) - Ben Nicky Remix",
       "url": "https://open.spotify.com/track/3DWjAZhcCOEtNpYw6zq9Pw"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "Liqueur & Rum",
+        "url": "https://open.spotify.com/album/4CSF2UyqElbagb47rbhrMD"
+      },
+      "artists": [
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        }
+      ],
+      "duration_ms": 214104,
+      "name": "Liqueur & Rum - Edit",
+      "url": "https://open.spotify.com/track/0twpIW7agorQ3UkMcXFim2"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "NEEDED ME.",
-        "url": "https://open.spotify.com/album/1wlJ99ex04dqSOvrDfQXl2"
-      },
-      "artists": [
-        {
-          "name": "AKN",
-          "url": "https://open.spotify.com/artist/34SNzLPgGONrLAInuTJJwW"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "NEEDED ME.",
-      "url": "https://open.spotify.com/track/6ril4Ejx11yxGqkoIzJ9A6"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/72Cf5NyUsNGqjs9hLTpd3N"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 192727,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/7yPbp6ev8UlPOSQ0rB8a8B"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "NEEDED ME.",
+        "url": "https://open.spotify.com/album/1wlJ99ex04dqSOvrDfQXl2"
+      },
+      "artists": [
+        {
+          "name": "AKN",
+          "url": "https://open.spotify.com/artist/34SNzLPgGONrLAInuTJJwW"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "NEEDED ME.",
+      "url": "https://open.spotify.com/track/6ril4Ejx11yxGqkoIzJ9A6"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/6Hy9sSZfJd3zLASt6xGin7"
-      },
-      "artists": [
-        {
-          "name": "Boogie Hill Faders",
-          "url": "https://open.spotify.com/artist/0g5qve0kT9YgAHypxrzURK"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/1LzZ9FPcujMWYL3CxzPbwr"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
         "name": "Give Me Love",
         "url": "https://open.spotify.com/album/41IaxN1tbSErs5FiKcWr12"
       },
@@ -755,6 +739,42 @@
       "duration_ms": 133500,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/6v1UcG6R8qaPPCZTWXE2ag"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/6Hy9sSZfJd3zLASt6xGin7"
+      },
+      "artists": [
+        {
+          "name": "Boogie Hill Faders",
+          "url": "https://open.spotify.com/artist/0g5qve0kT9YgAHypxrzURK"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/1LzZ9FPcujMWYL3CxzPbwr"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "Stuck In My Head",
+        "url": "https://open.spotify.com/album/5pcLBF3NwdfKgaXT67XXHZ"
+      },
+      "artists": [
+        {
+          "name": "WolfCaveland",
+          "url": "https://open.spotify.com/artist/67OdFlvoRwvscCtUPec66o"
+        },
+        {
+          "name": "Alex Moore",
+          "url": "https://open.spotify.com/artist/5j4vjojOD0nfPuv7htTJFY"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/6oqH5KYMpL91sC8SMHtugF"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -779,26 +799,6 @@
       "duration_ms": 154960,
       "name": "Back To '89",
       "url": "https://open.spotify.com/track/4RYlANUIQAf8g4y6SEMQku"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
-        "name": "Stuck In My Head",
-        "url": "https://open.spotify.com/album/5pcLBF3NwdfKgaXT67XXHZ"
-      },
-      "artists": [
-        {
-          "name": "WolfCaveland",
-          "url": "https://open.spotify.com/artist/67OdFlvoRwvscCtUPec66o"
-        },
-        {
-          "name": "Alex Moore",
-          "url": "https://open.spotify.com/artist/5j4vjojOD0nfPuv7htTJFY"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Stuck In My Head",
-      "url": "https://open.spotify.com/track/6oqH5KYMpL91sC8SMHtugF"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "The Dream That Never Ends",
-        "url": "https://open.spotify.com/album/1vqWl4ruJWmHIbroVSXBK3"
-      },
-      "artists": [
-        {
-          "name": "Henri (BR)",
-          "url": "https://open.spotify.com/artist/0Du9SjGFzfg4SF7LoXAovo"
-        }
-      ],
-      "duration_ms": 232097,
-      "name": "The Dream That Never Ends",
-      "url": "https://open.spotify.com/track/4pulSZzwtnqTpBhm8A1gWR"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
         "name": "ACTIVATE",
         "url": "https://open.spotify.com/album/78J2MEF2cv3JZRA9JQ2auX"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 160400,
       "name": "ACTIVATE",
       "url": "https://open.spotify.com/track/53wJfYQCV8DDBvaqgwZ9te"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "The Dream That Never Ends",
+        "url": "https://open.spotify.com/album/1vqWl4ruJWmHIbroVSXBK3"
+      },
+      "artists": [
+        {
+          "name": "Henri (BR)",
+          "url": "https://open.spotify.com/artist/0Du9SjGFzfg4SF7LoXAovo"
+        }
+      ],
+      "duration_ms": 232097,
+      "name": "The Dream That Never Ends",
+      "url": "https://open.spotify.com/track/4pulSZzwtnqTpBhm8A1gWR"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
+        "name": "It Should Be Me",
+        "url": "https://open.spotify.com/album/5gPAUcqv6GjhNRCjEhCBku"
+      },
+      "artists": [
+        {
+          "name": "Yellowtael",
+          "url": "https://open.spotify.com/artist/1ZWPMZCohbM9qkAopMRZGJ"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "It Should Be Me",
+      "url": "https://open.spotify.com/track/1Tfbs7QBCVFagm4nS54MRL"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
         "name": "Feed Your Soul",
         "url": "https://open.spotify.com/album/3AuVUzGrWlPULowuoxQgNG"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "It Should Be Me",
-        "url": "https://open.spotify.com/album/5gPAUcqv6GjhNRCjEhCBku"
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/69HCcKcQ6j2U7KCucQH5Qq"
       },
       "artists": [
         {
-          "name": "Yellowtael",
-          "url": "https://open.spotify.com/artist/1ZWPMZCohbM9qkAopMRZGJ"
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
         }
       ],
-      "duration_ms": 212666,
-      "name": "It Should Be Me",
-      "url": "https://open.spotify.com/track/1Tfbs7QBCVFagm4nS54MRL"
+      "duration_ms": 105937,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/3ZSNidDkcVWfKNyQGvzdmU"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -1083,22 +1099,6 @@
       "duration_ms": 207812,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5GMMv6js6IhxMcj54bCQg7"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/69HCcKcQ6j2U7KCucQH5Qq"
-      },
-      "artists": [
-        {
-          "name": "Thando",
-          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
-        }
-      ],
-      "duration_ms": 105937,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/3ZSNidDkcVWfKNyQGvzdmU"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "Coco Bongo",
-        "url": "https://open.spotify.com/album/5R3JM5OgbDYhH6mL3E3qqy"
-      },
-      "artists": [
-        {
-          "name": "Misha (US)",
-          "url": "https://open.spotify.com/artist/7qkb4MvRFQATc7gUB9vqUP"
-        }
-      ],
-      "duration_ms": 361890,
-      "name": "Coco Bongo",
-      "url": "https://open.spotify.com/track/0DktlWZ6DrrLxeu8KhAzHy"
-    },
-    {
-      "added_at": "2024-12-27 15:31:14",
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/0v1A44NKYrvcTNMD7CBPC9"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2024-12-27 15:31:14",
       "album": {
-        "name": "AQUI",
-        "url": "https://open.spotify.com/album/4SDOoag2TLIUIFTvm8upUY"
+        "name": "Coco Bongo",
+        "url": "https://open.spotify.com/album/5R3JM5OgbDYhH6mL3E3qqy"
       },
       "artists": [
         {
-          "name": "Dom Dias",
-          "url": "https://open.spotify.com/artist/68ptFxNNKKJOxy7Y8x5K0B"
+          "name": "Misha (US)",
+          "url": "https://open.spotify.com/artist/7qkb4MvRFQATc7gUB9vqUP"
         }
       ],
-      "duration_ms": 130560,
-      "name": "AQUI",
-      "url": "https://open.spotify.com/track/6e640yexGe2oTGmJk9frs8"
+      "duration_ms": 361890,
+      "name": "Coco Bongo",
+      "url": "https://open.spotify.com/track/0DktlWZ6DrrLxeu8KhAzHy"
     },
     {
       "added_at": "2024-12-27 15:31:14",
@@ -1219,6 +1203,22 @@
       "duration_ms": 249808,
       "name": "Eucalipto",
       "url": "https://open.spotify.com/track/2EqVU21KNDeSEECAK4okyX"
+    },
+    {
+      "added_at": "2024-12-27 15:31:14",
+      "album": {
+        "name": "AQUI",
+        "url": "https://open.spotify.com/album/4SDOoag2TLIUIFTvm8upUY"
+      },
+      "artists": [
+        {
+          "name": "Dom Dias",
+          "url": "https://open.spotify.com/artist/68ptFxNNKKJOxy7Y8x5K0B"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "AQUI",
+      "url": "https://open.spotify.com/track/6e640yexGe2oTGmJk9frs8"
     },
     {
       "added_at": "2024-12-27 15:31:14",

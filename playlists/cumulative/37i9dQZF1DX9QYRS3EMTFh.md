@@ -2,9 +2,9 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall du moment\. Photo : Kalash x Damso
+> Les hits dancehall du moment\. Photo : Kybba
 
-483 songs - 21 hr 28 min
+484 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,9 +162,10 @@
 | [Fling It Back](https://open.spotify.com/track/5rKSO98bJ5fOBYNbpbiXQS) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [New Motion](https://open.spotify.com/album/5tL7qwPbH3xoAXcLdPaHsf) | 2:24 | 2022-06-16 | 2022-07-29 |
 | [Foki](https://open.spotify.com/track/2romlZZi2Ypdik8KPjpv6X) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Alex Sargo](https://open.spotify.com/artist/2rzmi9GgvLsfDZwMLRkNEG), [La Toya Linger](https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Foki](https://open.spotify.com/album/1xUt5s1XoEoyOQj1lf7xas) | 2:24 | 2022-01-06 | 2022-04-22 |
 | [Forever](https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Forever](https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn) | 3:13 | 2023-05-11 | 2023-06-02 |
-| [Friday](https://open.spotify.com/track/44uSkhcewItyroMzNr6rFF) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Friday](https://open.spotify.com/album/1Kuj8UG83VKYtLPcuE7Ylr) | 2:11 | 2024-11-07 |  |
+| [Friday](https://open.spotify.com/track/44uSkhcewItyroMzNr6rFF) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Friday](https://open.spotify.com/album/1Kuj8UG83VKYtLPcuE7Ylr) | 2:11 | 2024-11-07 | 2025-01-03 |
 | [Friendzone](https://open.spotify.com/track/5AWWQyAsqtjov0hogzafxE) | [Paille](https://open.spotify.com/artist/22odTnbJhyDIQFnp8z1PgA) | [Friendzone](https://open.spotify.com/album/4tGSazhEvCFBdiricqkJUV) | 3:49 | 2023-10-19 | 2023-12-08 |
 | [Full Plastique](https://open.spotify.com/track/0iwBzyOvJUTcxkEdiTVmAs) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [Youth CrazySquad](https://open.spotify.com/artist/7c0anpzJb2ssRsmpmoKRZ2) | [Full Plastique](https://open.spotify.com/album/6oiOkRNRABM02BwSvERdXx) | 2:32 | 2024-09-19 |  |
+| [Fè Plas](https://open.spotify.com/track/1wlMZAtBzeruzXfsSNtLd2) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Fè Plas](https://open.spotify.com/album/7l5GuplNsAdqyEZV7pzNT0) | 3:56 | 2025-01-02 |  |
 | [Fè to choix](https://open.spotify.com/track/4uTUPgwlmnXJ25m5aJjMLh) | [Ken Vybz](https://open.spotify.com/artist/0eomtAhpoAMBnsns4DwGCp) | [G\-Side: The Way I Do It](https://open.spotify.com/album/0JJ9srPt1oHSwQrfMDWFCe) | 2:34 | 2021-12-22 | 2022-01-28 |
 | [Fôwfè](https://open.spotify.com/track/1f7l8jgNRV8wBxJNuR8OYc) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [Fôwfè](https://open.spotify.com/album/0CGwFVLvdWoAnX2iLd6KwL) | 2:44 | 2024-12-12 |  |
 | [G.O.A.T](https://open.spotify.com/track/5fOt4iG6Xty1zMAlUt1niy) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Mirror 25](https://open.spotify.com/album/4KtT8KV2JUWB12p5SlQd22) | 2:58 | 2024-08-08 | 2024-09-27 |

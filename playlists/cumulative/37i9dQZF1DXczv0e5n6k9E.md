@@ -2,9 +2,9 @@
 
 ### [Hot Greek Rap](https://open.spotify.com/playlist/37i9dQZF1DXczv0e5n6k9E)
 
-> Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Bossikan
+> Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο:  Bossikan
 
-259 songs - 12 hr 8 min
+260 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Pornstar .i.](https://open.spotify.com/track/3ijZezhpvrHubmkbOGj6bJ) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [Pre Za Ki](https://open.spotify.com/album/0CYhzv8lk2aMXgy5XBkxsD) | 2:48 | 2024-06-27 | 2024-07-05 |
 | [POSOSTA](https://open.spotify.com/track/21FXtFiJkX1D5V25s5WK73) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [POSOSTA](https://open.spotify.com/album/62oq819iE2U7O1JPvJiaf1) | 1:59 | 2024-12-19 |  |
 | [Prishtina](https://open.spotify.com/track/1BuBPgJyWGSZ4PcLISga4x) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [\#kosovoisalbania](https://open.spotify.com/album/6QlBtdGncxLgDmyk5g3eVu) | 2:00 | 2024-07-11 | 2024-07-27 |
+| [PULL UP](https://open.spotify.com/track/3gZHFbrbtx94WThAqx1n5Y) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [SINALOA](https://open.spotify.com/album/6uEfN3eghmQN8owe3jJrO1) | 2:56 | 2025-01-02 |  |
 | [PULVO](https://open.spotify.com/track/39zEhtL1tPzBUD8T1ZOWKR) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [EYE OF THE TIGER](https://open.spotify.com/album/61sB6y1OGLHk585htCrZET) | 2:30 | 2024-10-03 |  |
 | [Rabanne](https://open.spotify.com/track/5IEfvd0RtX7WITYPiM2cN4) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [Rabanne](https://open.spotify.com/album/7JlaMMchnCJOK66a1zX0x3) | 2:21 | 2024-09-26 |  |
 | [RADEVOU](https://open.spotify.com/track/1qKxv3gk9OVdJKL9tACwyg) | [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [MEMBERS' CLUB](https://open.spotify.com/album/5afr5sXXBWnxJILVP46zeZ) | 2:34 | 2024-06-27 | 2024-12-20 |
@@ -219,7 +220,7 @@
 | [San Emas](https://open.spotify.com/track/3FOlNQhCL8UwDhuj2jACOc) | [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj) | [San Emas](https://open.spotify.com/album/5Fcexhv6WG9q5MgucW0eo7) | 2:11 | 2024-07-18 | 2024-08-02 |
 | [SANTORINI](https://open.spotify.com/track/7eAzMLAakDzrUSylWXkGDy) | [EPITHE](https://open.spotify.com/artist/3KMRPwBUMocndx02a5QPRx) | [SANTORINI](https://open.spotify.com/album/3w1FwQIDSh0CTYMTIg26Lg) | 2:21 | 2024-07-18 | 2024-08-02 |
 | [SCARS](https://open.spotify.com/track/5HABP6Jx4xqp35Lnn7Mikk) | [TAFF](https://open.spotify.com/artist/7sqEbHUwpaJTFqLv8e0W0J), [Evan Spikes](https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP) | [SCARS](https://open.spotify.com/album/4N1QlDPEj9MyUR1sf4bBWh) | 2:36 | 2024-06-27 | 2024-07-12 |
-| [Se Thelo Toso Poly](https://open.spotify.com/track/2LcMwczF0sb5PAMHaFlgV8) | [Maverick](https://open.spotify.com/artist/16HMpbHn9nhzyjYYgiaoTt), [Ninja Techniques](https://open.spotify.com/artist/3DzeULqKmHM56pKZzB2MO0), [Lobo](https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC) | [Se Thelo Toso Poly](https://open.spotify.com/album/3Kx7L4inv51DndjG2W0DX4) | 3:20 | 2024-12-12 |  |
+| [Se Thelo Toso Poly](https://open.spotify.com/track/2LcMwczF0sb5PAMHaFlgV8) | [Maverick](https://open.spotify.com/artist/16HMpbHn9nhzyjYYgiaoTt), [Ninja Techniques](https://open.spotify.com/artist/3DzeULqKmHM56pKZzB2MO0), [Lobo](https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC) | [Se Thelo Toso Poly](https://open.spotify.com/album/3Kx7L4inv51DndjG2W0DX4) | 3:20 | 2024-12-12 | 2025-01-03 |
 | [SEKUSHI](https://open.spotify.com/track/0GYX0KUkK846w6tWYiFJMV) | [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [SEKUSHI](https://open.spotify.com/album/1hJQ1UH3y1ZGHsRZHH8G1J) | 2:16 | 2024-09-19 | 2024-10-04 |
 | [SERVICE](https://open.spotify.com/track/5WCUggpYwkiTOAqu4b92FJ) | [Katohos](https://open.spotify.com/artist/37vmuL2WrCqCOCk0VUVZsH), [Xjay](https://open.spotify.com/artist/5KJRGPvZ4vizdn8Zm60ySN) | [SERVICE](https://open.spotify.com/album/6AU2SibYsJhVU5FWPG0dhj) | 3:09 | 2024-06-27 | 2024-07-12 |
 | [Sexy Lady](https://open.spotify.com/track/0uNOPjIB2uBEQznfxmOMdJ) | [Miccap](https://open.spotify.com/artist/3E69lOJmmam9z4hYjHzaeb), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Sexy Lady](https://open.spotify.com/album/5ZQByv7evQ03YpUYH8fUFu) | 3:02 | 2024-10-24 | 2024-11-15 |

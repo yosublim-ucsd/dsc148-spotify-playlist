@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-143 songs - 7 hr 45 min
+144 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Hick Hop Thang \(feat\. Jawga Boyz\)](https://open.spotify.com/track/7BQtrNgI3DoitGB1IE8gI9) | [Tennessee Shine](https://open.spotify.com/artist/2EMzEaCYBoIXBSAdyryi4l), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Tennessee Shine](https://open.spotify.com/album/4smxfavZtbma0XLdYiiMA0) | 3:57 | 2023-03-17 |  |
 | [Hill Billy](https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Jeremy Crews](https://open.spotify.com/artist/0IGDqrNOOGsVtgZphF4lAK) | [Hill Billy](https://open.spotify.com/album/6GeOVU4wnonE5clZuoqQGC) | 3:35 | 2023-04-21 |  |
 | [Hillbilly Boys](https://open.spotify.com/track/3YnIYa9Z8qwM0GILQ3ugHg) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Hillbilly Boys](https://open.spotify.com/album/4lKF5MuunbcExTLGUhB25y) | 2:29 | 2024-03-08 |  |
+| [Himothy](https://open.spotify.com/track/4XaYPJlx91o683PDyDT1g5) | [Cymple Man](https://open.spotify.com/artist/5CCou9DjNqJQqG9kN2PJJq), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Himothy](https://open.spotify.com/album/0bSIzUrKhcYcfGVxwwIOhP) | 2:42 | 2025-01-02 |  |
 | [Hits Different](https://open.spotify.com/track/6ASzn7AXEkOf6XtOIus9BZ) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9), [HoodBillies](https://open.spotify.com/artist/3uaiFUf9Mgy2Bf5gVsH4P2) | [Hits Different](https://open.spotify.com/album/6mSnyGFMnDXhkrAiZgXSQs) | 1:51 | 2023-07-28 | 2023-10-07 |
 | [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 | 2023-03-17 |  |
 | [Holler Boys](https://open.spotify.com/track/1XsTcnVnJqjjXXLBRqXWmD) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Parachute](https://open.spotify.com/album/0ZzfgzLIpiIPOpVopokjPg) | 3:31 | 2024-04-19 |  |

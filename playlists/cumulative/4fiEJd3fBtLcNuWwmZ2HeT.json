@@ -1987,6 +1987,28 @@
     },
     {
       "album": {
+        "name": "NYAN (feat. HATSUNE MIKU)",
+        "url": "https://open.spotify.com/album/608oZh12hfBNawDa1ahW7K"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "NYAN (feat. HATSUNE MIKU)",
+      "url": "https://open.spotify.com/track/7iqm8tmLgRSMkkNTw9FAww"
+    },
+    {
+      "album": {
         "name": "ODD NUMBER",
         "url": "https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO"
       },

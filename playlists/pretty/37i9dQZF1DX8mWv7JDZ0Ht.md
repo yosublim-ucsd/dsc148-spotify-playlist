@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve / Foto: Ana Gabriela
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,409 likes - 95 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,463 likes - 95 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 29 | [Cócegas](https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim \(Deluxe\)](https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy) | 2:12 |
 | 30 | [Viva O Amor](https://open.spotify.com/track/3GH22kQ3ONn8B9jg0CgxEO) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 2:58 |
 | 31 | [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 |
-| 32 | [Caso eu Case](https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Caso eu Case](https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN) | 3:35 |
-| 33 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 |
+| 32 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 |
+| 33 | [Caso eu Case](https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Caso eu Case](https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN) | 3:35 |
 | 34 | [Ver Em Cores](https://open.spotify.com/track/5cJ3lUnqM7Aio9bG50bn9Y) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Ver Em Cores](https://open.spotify.com/album/4I0aqJmFE8H1mXlvGRYRrp) | 4:03 |
 | 35 | [A Cara do Amor da Minha Vida](https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [A Cara do Amor da Minha Vida](https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC) | 2:31 |
 | 36 | [Massagem nas Costas](https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Massagem nas Costas](https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq) | 2:39 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 76 | [Se Você Quiser \(Versão\)](https://open.spotify.com/track/7FDk8EX3fuUsSDVbS4gIB3) | [Joe Caetano](https://open.spotify.com/artist/0hUnMWEMD2Om6juG3dBJTE), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW) | [Se Você Quiser \(Versão\)](https://open.spotify.com/album/6373SGgFo7W2hyKe4oUbj4) | 2:42 |
 | 77 | [Tão Bom](https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Bhangzwn](https://open.spotify.com/album/3183dne70LPY7JS3DngZNO) | 3:25 |
 | 78 | [Astronauta](https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Todos os Futuros](https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf) | 2:32 |
-| 79 | [Apressa](https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Apressa](https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ) | 2:35 |
-| 80 | [Ibérico \- O Canto do Beija\-Flor\-de\-Gravata\-Verde](https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Ibérico \(O Canto do Beija\-Flor\-de\-Gravata\-Verde\)](https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua) | 2:03 |
+| 79 | [Ibérico \- O Canto do Beija\-Flor\-de\-Gravata\-Verde](https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Ibérico \(O Canto do Beija\-Flor\-de\-Gravata\-Verde\)](https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua) | 2:03 |
+| 80 | [Apressa](https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Apressa](https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ) | 2:35 |
 | 81 | [nada do que você falou](https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc) | [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [nada do que você falou](https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU) | 2:33 |
 | 82 | [Cafona](https://open.spotify.com/track/6kdH8k1kAb5n9PjLfFiyGX) | [Ana K](https://open.spotify.com/artist/1LZ1TpuHPh2Z1Joff5OMGp), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Cafona](https://open.spotify.com/album/7KVnFYVKfycYyTeEoLqdQO) | 3:13 |
 | 83 | [O Nosso Amor É Tão Bom](https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [O Nosso Amor É Tão Bom](https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7) | 3:22 |

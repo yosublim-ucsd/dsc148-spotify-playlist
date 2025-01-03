@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best new electronic music. Cover: Marc DePulse",
+  "description": "The best new electronic music. Cover: Jil Tanner,  Patrick Scuro, VEENMOL",
   "name": "Electronic Rising",
   "tracks": [
     {
@@ -5676,7 +5676,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 240000,
       "name": "Aria",
       "url": "https://open.spotify.com/track/0ugUcd4jKEkOUmkmTRzszO"
@@ -8279,6 +8279,24 @@
     },
     {
       "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/1WyRTRFPQjJxgQVLD3siMh"
+      },
+      "artists": [
+        {
+          "name": "Kellerkind",
+          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381611,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2L3ElzZIa4L0rd8UHDtyDp"
+    },
+    {
+      "album": {
         "name": "The Forgotten Ones",
         "url": "https://open.spotify.com/album/7pU5AiXXfG7rRkuwWdpunP"
       },
@@ -8830,7 +8848,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 207761,
       "name": "Belocca - PAPI.wav",
       "url": "https://open.spotify.com/track/4Pq9mf0fg7OneSHBlRpZvv"
@@ -18987,6 +19005,24 @@
     },
     {
       "album": {
+        "name": "Delante",
+        "url": "https://open.spotify.com/album/0rkw7h9lhBKTHAOMIuR7hh"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234804,
+      "name": "Delante",
+      "url": "https://open.spotify.com/track/0WY7NXc81363q7Pf24elU2"
+    },
+    {
+      "album": {
         "name": "Delilah (pull me out of this)",
         "url": "https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW"
       },
@@ -29092,7 +29128,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 210731,
       "name": "Fly Into Bliss",
       "url": "https://open.spotify.com/track/2jAlTbNkgRw1Sw59Q4ZGeV"
@@ -31626,7 +31662,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 188160,
       "name": "Get Up and Dance",
       "url": "https://open.spotify.com/track/6PNzRuW0zEfnrk6jkY8Oql"
@@ -40052,7 +40088,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 235086,
       "name": "In A Flow - Edit",
       "url": "https://open.spotify.com/track/1MVUSTcBIVV7jdNEM8EYUm"
@@ -43502,7 +43538,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 192690,
       "name": "Kaval",
       "url": "https://open.spotify.com/track/2SZbJsRMojkmjD3aw1gszz"
@@ -44897,6 +44933,32 @@
     },
     {
       "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/51SaHFcUt96rZoj1tVXnST"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "VEENMOL",
+          "url": "https://open.spotify.com/artist/6GRjb9Ki4EMI6WxeWbvBCa"
+        },
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/5A186GvDTTMovlQqqnpaaH"
+    },
+    {
+      "album": {
         "name": "Lady Love",
         "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
       },
@@ -45520,7 +45582,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 331707,
       "name": "Leading",
       "url": "https://open.spotify.com/track/0YhA2mnUgAhhpddQzc9Nt2"
@@ -45971,6 +46033,28 @@
     },
     {
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj"
+      },
+      "artists": [
+        {
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+        },
+        {
+          "name": "Ren Ocean",
+          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178442,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc"
+    },
+    {
+      "album": {
         "name": "Let It Move Ya",
         "url": "https://open.spotify.com/album/3W3LGJBX76t8cCVfXTssZe"
       },
@@ -45982,7 +46066,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 344380,
       "name": "Let It Move Ya",
       "url": "https://open.spotify.com/track/5tDVJapUmqhoFK55tOKtsP"
@@ -62764,7 +62848,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 190819,
       "name": "Polar Lights",
       "url": "https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi"
@@ -67705,6 +67789,24 @@
     },
     {
       "album": {
+        "name": "Royal Way",
+        "url": "https://open.spotify.com/album/6lflgpHcZTqyiNyYLwhRSO"
+      },
+      "artists": [
+        {
+          "name": "Matara",
+          "url": "https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356496,
+      "name": "Royal Way",
+      "url": "https://open.spotify.com/track/4DejSZj02DfcoKph3IoHWX"
+    },
+    {
+      "album": {
         "name": "Rubi's Acid Spa",
         "url": "https://open.spotify.com/album/3eQDPZHWKbb6CpED23EuRV"
       },
@@ -69210,7 +69312,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 260786,
       "name": "Schwarze Witwe - Edit",
       "url": "https://open.spotify.com/track/6dtjixclljvBr0wFstBrL5"
@@ -71913,6 +72015,28 @@
     },
     {
       "album": {
+        "name": "Skylite",
+        "url": "https://open.spotify.com/album/0Ybrh4DJhdIQJnqRyuLdr0"
+      },
+      "artists": [
+        {
+          "name": "Mark Valsecchi",
+          "url": "https://open.spotify.com/artist/1KkQpGzIc1ExuivTY4efGQ"
+        },
+        {
+          "name": "Aaron Suiss",
+          "url": "https://open.spotify.com/artist/5Jl4yj7KU7jneqJ2KIepZA"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316874,
+      "name": "Skylite",
+      "url": "https://open.spotify.com/track/3sNUEYeX34KbO0Gbpzzgwk"
+    },
+    {
+      "album": {
         "name": "Skynet",
         "url": "https://open.spotify.com/album/3ncdnHQ31kD9BgqQGpKu2v"
       },
@@ -72887,6 +73011,28 @@
     },
     {
       "album": {
+        "name": "Some Of It",
+        "url": "https://open.spotify.com/album/4dzT5Lt1pDMQ6jQn3PBiJy"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        },
+        {
+          "name": "Nixxie",
+          "url": "https://open.spotify.com/artist/25ZwJCQFcPHh5dGCQF2qzt"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309865,
+      "name": "Some Of It",
+      "url": "https://open.spotify.com/track/3phvGNkxVjtNSVBvLwobA2"
+    },
+    {
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/0Il8H7BLwcyieWC1icwMtq"
       },
@@ -73841,6 +73987,28 @@
     },
     {
       "album": {
+        "name": "Spectra",
+        "url": "https://open.spotify.com/album/1GF63WTm7z1B5pI40rHpFY"
+      },
+      "artists": [
+        {
+          "name": "Abloz\u00e9",
+          "url": "https://open.spotify.com/artist/5OFLwoxk5jmOkgjxbgAWOO"
+        },
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255411,
+      "name": "Spectra",
+      "url": "https://open.spotify.com/track/6twQKmjgiYuWXt3kXVb5Dq"
+    },
+    {
+      "album": {
         "name": "Spectrum (Rafael Cerato Remix)",
         "url": "https://open.spotify.com/album/7oGNqkM60LDhaJmOpM9jfh"
       },
@@ -74324,6 +74492,28 @@
       "duration_ms": 263214,
       "name": "Starling",
       "url": "https://open.spotify.com/track/5jjkXEpdxNlwolhrBhlifk"
+    },
+    {
+      "album": {
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/1ZuttkzOM600DUDRX38l5y"
+      },
+      "artists": [
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Donner",
+          "url": "https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/6LWPgSesVmSaJI9cPIHQsW"
     },
     {
       "album": {
@@ -77085,6 +77275,24 @@
     },
     {
       "album": {
+        "name": "Talamonkey",
+        "url": "https://open.spotify.com/album/1VDn0nUZ2UbMoapsnFrOjt"
+      },
+      "artists": [
+        {
+          "name": "Fran&co",
+          "url": "https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307743,
+      "name": "Talamonkey",
+      "url": "https://open.spotify.com/track/4XI1PVvoUUDDiAYsQ6btDl"
+    },
+    {
+      "album": {
         "name": "Talk It Over",
         "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
       },
@@ -77422,6 +77630,28 @@
       "duration_ms": 267122,
       "name": "Tears In Berghain",
       "url": "https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa"
+    },
+    {
+      "album": {
+        "name": "Tears of Elysium",
+        "url": "https://open.spotify.com/album/5SmhprG1ZpFlJcmXjLKbTj"
+      },
+      "artists": [
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        },
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287907,
+      "name": "Tears of Elysium",
+      "url": "https://open.spotify.com/track/42wPGXGyNCjcQln22KbBgg"
     },
     {
       "album": {
@@ -80326,7 +80556,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 187748,
       "name": "The Savior - Radio-Edit",
       "url": "https://open.spotify.com/track/5eNYYUgeIJtPVKhqRqDnLa"

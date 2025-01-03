@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Blaya",
+  "description": "Uma playlist de pura alma pop! Foto: Nena, Lu\u00eds Trigacheiro",
   "name": "Pop PT",
   "tracks": [
     {
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 166700,
       "name": "Sem ti no Natal",
       "url": "https://open.spotify.com/track/2WwNInqhqXBUhCcltFKuUT"
@@ -3216,6 +3216,28 @@
       "duration_ms": 210989,
       "name": "Vai Vaguear",
       "url": "https://open.spotify.com/track/1G59cxn9MKkmt9Sy41rYmv"
+    },
+    {
+      "album": {
+        "name": "\u00c0 Espera Do Fim",
+        "url": "https://open.spotify.com/album/2thqEo3jisGUBgPkyVOkwP"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        },
+        {
+          "name": "Lu\u00eds Trigacheiro",
+          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198728,
+      "name": "\u00c0 Espera Do Fim",
+      "url": "https://open.spotify.com/track/3HKfGY4DN6qvjTWsrxINRL"
     },
     {
       "album": {

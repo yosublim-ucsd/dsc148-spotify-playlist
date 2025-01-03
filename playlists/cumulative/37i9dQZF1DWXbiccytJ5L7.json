@@ -1323,6 +1323,28 @@
     },
     {
       "album": {
+        "name": "Himothy",
+        "url": "https://open.spotify.com/album/0bSIzUrKhcYcfGVxwwIOhP"
+      },
+      "artists": [
+        {
+          "name": "Cymple Man",
+          "url": "https://open.spotify.com/artist/5CCou9DjNqJQqG9kN2PJJq"
+        },
+        {
+          "name": "Hard Target",
+          "url": "https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162909,
+      "name": "Himothy",
+      "url": "https://open.spotify.com/track/4XaYPJlx91o683PDyDT1g5"
+    },
+    {
+      "album": {
         "name": "Hits Different",
         "url": "https://open.spotify.com/album/6mSnyGFMnDXhkrAiZgXSQs"
       },

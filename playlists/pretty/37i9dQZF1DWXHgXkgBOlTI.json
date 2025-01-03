@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: fox capture plan\n",
-  "num_followers": 30284,
+  "num_followers": 30296,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -247,18 +247,26 @@
     {
       "added_at": "2024-12-17 15:00:08",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
-        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
+        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
+        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
       },
       "artists": [
         {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+          "name": "BimBomBam Orchestra",
+          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
+        },
+        {
+          "name": "\u5143\u6674",
+          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
+        },
+        {
+          "name": "\u67f4\u7530\u4eae",
+          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Blue Eyed Monster",
-      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+      "duration_ms": 427000,
+      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
+      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
     },
     {
       "added_at": "2024-12-17 15:00:08",
@@ -327,42 +335,18 @@
     {
       "added_at": "2024-12-17 15:00:08",
       "album": {
-        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
-        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
+        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
+        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
       },
       "artists": [
         {
-          "name": "BimBomBam Orchestra",
-          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
-        },
-        {
-          "name": "\u5143\u6674",
-          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
-        },
-        {
-          "name": "\u67f4\u7530\u4eae",
-          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
         }
       ],
-      "duration_ms": 427000,
-      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
-      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
-    },
-    {
-      "added_at": "2024-12-17 15:00:08",
-      "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+      "duration_ms": 250933,
+      "name": "Blue Eyed Monster",
+      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
     },
     {
       "added_at": "2024-12-17 15:00:08",
@@ -379,6 +363,22 @@
       "duration_ms": 327160,
       "name": "The bell tolls",
       "url": "https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp"
+    },
+    {
+      "added_at": "2024-12-17 15:00:08",
+      "album": {
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2024-12-17 15:00:08",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-12-17 15:00:08",
       "album": {
-        "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
-        "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
+        "name": "MOMENTS",
+        "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
       },
       "artists": [
         {
-          "name": "PE'Z",
-          "url": "https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig"
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
         }
       ],
-      "duration_ms": 268826,
-      "name": "Akatsuki",
-      "url": "https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw"
+      "duration_ms": 277840,
+      "name": "\u77f3\u306e\u6559\u4f1a",
+      "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
     },
     {
       "added_at": "2024-12-17 15:00:08",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-12-17 15:00:08",
       "album": {
-        "name": "MOMENTS",
-        "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "\u77f3\u306e\u6559\u4f1a",
-      "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
-    },
-    {
-      "added_at": "2024-12-17 15:00:08",
-      "album": {
         "name": "PIANO CRAZE",
         "url": "https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 350680,
       "name": "Dancing in the mood",
       "url": "https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn"
+    },
+    {
+      "added_at": "2024-12-17 15:00:08",
+      "album": {
+        "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
+        "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
+      },
+      "artists": [
+        {
+          "name": "PE'Z",
+          "url": "https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig"
+        }
+      ],
+      "duration_ms": 268826,
+      "name": "Akatsuki",
+      "url": "https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw"
     },
     {
       "added_at": "2024-12-17 15:00:08",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-12-17 15:00:08",
       "album": {
+        "name": "color & monochrome 2",
+        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 318240,
+      "name": "Golden Forest",
+      "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
+    },
+    {
+      "added_at": "2024-12-17 15:00:08",
+      "album": {
         "name": "Tangerine Peel Jam",
         "url": "https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-12-17 15:00:08",
       "album": {
-        "name": "color & monochrome 2",
-        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 318240,
-      "name": "Golden Forest",
-      "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
-    },
-    {
-      "added_at": "2024-12-17 15:00:08",
-      "album": {
         "name": "Oneself Likeness",
         "url": "https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 390680,
       "name": "Down In The Village",
       "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
-    },
-    {
-      "added_at": "2024-12-17 15:00:08",
-      "album": {
-        "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
-        "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
-      },
-      "artists": [
-        {
-          "name": "PE'Z",
-          "url": "https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Hale no sola sita -LA YELLOW SAMBA-",
-      "url": "https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z"
     },
     {
       "added_at": "2024-12-17 15:00:08",
@@ -863,6 +847,22 @@
       "duration_ms": 268425,
       "name": "Never Let Go - Instrumental",
       "url": "https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl"
+    },
+    {
+      "added_at": "2024-12-17 15:00:08",
+      "album": {
+        "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
+        "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
+      },
+      "artists": [
+        {
+          "name": "PE'Z",
+          "url": "https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Hale no sola sita -LA YELLOW SAMBA-",
+      "url": "https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

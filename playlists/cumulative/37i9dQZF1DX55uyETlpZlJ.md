@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vijay Prakash
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-424 songs - 23 hr 18 min
+425 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Chitte](https://open.spotify.com/track/11D2ENXpVlMasJbwPxcMEJ) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte](https://open.spotify.com/album/18K3VnzpV5fSFZhivYSQei) | 3:28 | 2023-05-25 | 2023-06-08 |
 | [Chitte \(Tulu Song\)](https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte \(Tulu Song\)](https://open.spotify.com/album/0regMNfCSK2yR0aqjdvwGQ) | 3:29 | 2023-05-25 | 2023-06-01 |
 | [Choore Chooru](https://open.spotify.com/track/4xvAtC9MHD06kHgCs9oGDS) | [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF), [Vismaya Jaga](https://open.spotify.com/artist/4OJZPi2d4EtkviaKrsyHMV) | [Choore Chooru](https://open.spotify.com/album/7nvwX5BqZFQHMdMHTbV0Uj) | 3:23 | 2024-12-17 |  |
+| [Cotton Candy](https://open.spotify.com/track/2LjbQqa8DW8Zw1NSOMbIQ5) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Cotton Candy](https://open.spotify.com/album/6GQDke7RJSemiACQQyiKWy) | 3:12 | 2025-01-02 |  |
 | [Cup Namdu](https://open.spotify.com/track/6WEYexjIqGmkb7F0UILxpG) | [Parvez Ahmed](https://open.spotify.com/artist/2mYPXgVAHd01UcZP1m1Vbp) | [Cup Namdu](https://open.spotify.com/album/4Ra460PZ9uiMb4wBwo8dva) | 2:01 | 2024-06-10 | 2024-11-13 |
 | [D Boss Nera Maathu](https://open.spotify.com/track/6zQCYjmxhlRqBrq08PH4WW) | [Harshit Acharya](https://open.spotify.com/artist/6igHsxUrTKAq3LLGS0AX6x), [N Raaj](https://open.spotify.com/artist/2ZWut9Ob2PPRPXafTWXf5P) | [D Boss Nera Maathu](https://open.spotify.com/album/31g7eocmCwHhmzzZd3VCUC) | 3:27 | 2024-11-26 |  |
 | [Daari \- The Way of Life](https://open.spotify.com/track/0upvnzpFrtV9TqTA7cfJhC) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Daari \- The Way of Life](https://open.spotify.com/album/5LzEpngZmmTKQ228rk64Ln) | 4:15 | 2023-12-07 | 2024-02-17 |
@@ -119,7 +120,7 @@
 | [Full Charge](https://open.spotify.com/track/3uArz7gKhSuwSkTzFUlKBo) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [Full Charge](https://open.spotify.com/album/6beHIG9uQMKnBduxEM9kO1) | 2:26 | 2024-01-31 | 2024-02-17 |
 | [Gadda](https://open.spotify.com/track/5NMcqtJ4MKHpFsHIvgWs7p) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Chikkesh Hamsabhimani](https://open.spotify.com/artist/4UT07rarVsghjWlBzj7iU9) | [Gadda](https://open.spotify.com/album/5HeVSXTlmUq9Rw8BuOZiGv) | 4:32 | 2023-02-13 | 2023-09-01 |
 | [Geejaga Hakki](https://open.spotify.com/track/1u6vTH5nUSKaSTPJZJC81s) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [Prassanna Hegde](https://open.spotify.com/artist/0GXTpJPW41OHk5rTZCRDDy) | [Geejaga Hakki](https://open.spotify.com/album/330gRfCGukj4u4WpucNpP4) | 3:25 | 2023-06-08 | 2023-07-22 |
-| [Geeya Geeya](https://open.spotify.com/track/6XJf6jtozUGfOEmswsp8So) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Michael League](https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9), [Praveen D Rao](https://open.spotify.com/artist/72CnTX4NMeDFpxPrEoV0MJ) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 5:09 | 2024-07-08 |  |
+| [Geeya Geeya](https://open.spotify.com/track/6XJf6jtozUGfOEmswsp8So) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Michael League](https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9), [Praveen D Rao](https://open.spotify.com/artist/72CnTX4NMeDFpxPrEoV0MJ) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 5:09 | 2024-07-08 | 2025-01-03 |
 | [Gelthinallo](https://open.spotify.com/track/67aund6DgSswfEy1lkMyZD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Gelthinallo](https://open.spotify.com/album/1lwlU3A6anSNGgR8U0gZ1U) | 3:31 | 2024-03-14 | 2024-08-04 |
 | [Good Night](https://open.spotify.com/track/2on44Nj5lhjWRTcdJfVcu8) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Good Night](https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac) | 3:52 | 2022-10-20 | 2023-12-20 |
 | [Good Vibe](https://open.spotify.com/track/1sAUWodQtglnQ3RqVbRLxj) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Good Vibe](https://open.spotify.com/album/52RcOVDsrNbqrDAnCesUnq) | 2:17 | 2024-02-26 | 2024-08-13 |

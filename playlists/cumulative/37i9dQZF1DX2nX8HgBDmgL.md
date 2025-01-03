@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Adnan Dhool
 
-289 songs - 15 hr 36 min
+290 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [General](https://open.spotify.com/track/1XcmeA4mhX5xxSWWbuHd1V) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [General](https://open.spotify.com/album/1DSlrzHuCgjryoBcMqaruc) | 3:16 | 2021-11-11 | 2022-07-19 |
 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 | 2022-07-18 | 2024-02-23 |
 | [Got It All](https://open.spotify.com/track/6dsnBVYmOkQ5sYWOluVYw8) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Got It All](https://open.spotify.com/album/2Z1KXlqb2Agtc2F8ep1DU5) | 3:10 | 2021-11-11 | 2022-07-19 |
+| [Got You](https://open.spotify.com/track/7mJ2BANWY4PnWtfsQWzn6C) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Got You](https://open.spotify.com/album/6UesXENuAbvKpwjDgkWEaE) | 3:42 | 2025-01-02 |  |
 | [Gotta Go](https://open.spotify.com/track/0qKsgeSKJNx7nT7C1jtwd6) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Gotta Go](https://open.spotify.com/album/5eLqcFc9iQBu8KMJtlP7KK) | 3:03 | 2021-11-11 | 2022-07-19 |
 | [Gulabi Sadi](https://open.spotify.com/track/4ITtnvLQ6SOA8XhiqkLa24) | [Sanju Rathod](https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7), [G\-SPXRK](https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll) | [Gulabi Sadi](https://open.spotify.com/album/5NDcb02xBpTu752ETxKuGN) | 3:43 | 2024-09-09 |  |
 | [Gulzar](https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Gulzar](https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD) | 3:09 | 2024-07-05 | 2024-07-16 |

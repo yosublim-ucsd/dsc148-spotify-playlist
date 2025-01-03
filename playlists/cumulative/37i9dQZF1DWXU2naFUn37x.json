@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Artie e Niky Savage sulla cover della playlist con il top dello street rap italiano \ud83d\udd25 ",
+  "description": "Simba e Tony Boy sulla cover della playlist con il top dello street rap italiano \ud83d\udd25 ",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1568,6 +1568,32 @@
       "duration_ms": 139200,
       "name": "AVVOCATO (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r"
+    },
+    {
+      "album": {
+        "name": "AYAHUASCA (feat. Tony Boy)",
+        "url": "https://open.spotify.com/album/5HQUIQmVxiUwZ8975mSIMH"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187650,
+      "name": "AYAHUASCA (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/6Ajvu1afirjocbZK934qqh"
     },
     {
       "album": {
@@ -12710,7 +12736,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 190380,
       "name": "Sotto Pressione (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/4Ln4T8IJbEQRH9V0jtrAr8"

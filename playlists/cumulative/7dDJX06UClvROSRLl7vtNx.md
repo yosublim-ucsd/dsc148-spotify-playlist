@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/7dDJX06UClvROSRLl7vtNx.md) - cumulative - [plain](/playlists/plain/7dDJX06UClvROSRLl7vtNx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7dDJX06UClvROSRLl7vtNx)
 
-### [Beach Lounge 2024 🌴 IBIZA Summer Chillout](https://open.spotify.com/playlist/7dDJX06UClvROSRLl7vtNx)
+### [Beach Lounge 2025 🌴 IBIZA Summer Chillout](https://open.spotify.com/playlist/7dDJX06UClvROSRLl7vtNx)
 
-> Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
+> Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
 667 songs - 1 day 5 hr 3 min
 

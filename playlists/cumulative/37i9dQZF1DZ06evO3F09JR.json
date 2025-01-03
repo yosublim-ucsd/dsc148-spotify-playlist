@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 210720,
       "name": "Megalomania",
       "url": "https://open.spotify.com/track/6UCmtZZKwMKnzKcPEtUKcy"
@@ -1762,6 +1762,24 @@
       "duration_ms": 98186,
       "name": "Mourning the Fallen",
       "url": "https://open.spotify.com/track/5oblJwpXzETf1DGPAeXXOg"
+    },
+    {
+      "album": {
+        "name": "Forse 1",
+        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416000,
+      "name": "Nebbia",
+      "url": "https://open.spotify.com/track/2GI5EPmYohSacVQnCxqAEV"
     },
     {
       "album": {
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 419000,
       "name": "Stella",
       "url": "https://open.spotify.com/track/7keRragmWrnvopHQrQSw4s"
@@ -2828,7 +2846,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 202600,
       "name": "The Long Road",
       "url": "https://open.spotify.com/track/1rfCCZxJcU1UA9oRfKLF8e"

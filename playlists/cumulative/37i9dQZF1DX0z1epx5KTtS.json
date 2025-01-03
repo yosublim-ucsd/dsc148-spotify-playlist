@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from the continent to Paris. Photo : Debordo Leekunfa",
+  "description": "African dance party music from the continent to Paris. Photo : Serge Beynaud",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -478,6 +478,32 @@
       "duration_ms": 142452,
       "name": "BIAMA 2 BLACK K",
       "url": "https://open.spotify.com/track/7K65fwVYwjWHvyxwc8vvUi"
+    },
+    {
+      "album": {
+        "name": "Biama Brut Reverse",
+        "url": "https://open.spotify.com/album/3xoYfNYq0K6abXFOyAIhIO"
+      },
+      "artists": [
+        {
+          "name": "Oyoki Onanayo",
+          "url": "https://open.spotify.com/artist/4aKN9IVVCH0haHMdFhfw7L"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181624,
+      "name": "Biama Brut Reverse",
+      "url": "https://open.spotify.com/track/2cql6AVi8ktgedXr4RAFR0"
     },
     {
       "album": {
@@ -3484,7 +3510,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 191146,
       "name": "Rein",
       "url": "https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo"

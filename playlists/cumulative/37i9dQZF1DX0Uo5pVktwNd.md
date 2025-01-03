@@ -4,7 +4,7 @@
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-116 songs - 9 hr 35 min
+117 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Let the Music Play](https://open.spotify.com/track/4jkXawep434f2T2Zt7Gzm5) | [Shamur](https://open.spotify.com/artist/6SZBqn91m2QZDcbzmHUFPP) | [Shardana](https://open.spotify.com/album/52Ipw9FNpnNTJOjbuPaQBg) | 3:41 | 2024-12-31 |  |
 | [Let's Work It Out](https://open.spotify.com/track/4BtEy5bRmoYWBgswJe5eeU) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jahaziel](https://open.spotify.com/artist/4mBjh7LoTi9rnCYG9swMjP) | [Storyteller](https://open.spotify.com/album/4H0jJJPERIedtxoC1mAvlB) | 4:05 | 2023-03-15 | 2023-10-13 |
 | [Let's Work It out \(feat\. Jahaziel\)](https://open.spotify.com/track/78PIQS3mIIJc7ZZ3OKGr6c) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jahaziel](https://open.spotify.com/artist/11PK8fmGXnan9HCEwNI1T6) | [Storyteller](https://open.spotify.com/album/4kExwHAZEatBHppwVp5Vl9) | 4:05 | 2024-12-31 |  |
-| [Lift Kara De](https://open.spotify.com/track/5Yita5PCCRG42WpcBRfs83) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Kabhi To Nazar Milao/Bheegi Bheegi raton Mein](https://open.spotify.com/album/3SRNLEnYOt0eRMfm9lWYd3) | 4:13 | 2024-12-31 |  |
+| [Lift Kara De](https://open.spotify.com/track/5Yita5PCCRG42WpcBRfs83) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Kabhi To Nazar Milao/Bheegi Bheegi raton Mein](https://open.spotify.com/album/3SRNLEnYOt0eRMfm9lWYd3) | 4:13 | 2024-12-31 | 2025-01-03 |
 | [Love \- Ology](https://open.spotify.com/track/3AjLzpwLY91dPA7W7zyONF) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Love\-Ology](https://open.spotify.com/album/3QJF82W18yDZSW7jajj11C) | 3:43 | 2022-12-29 | 2023-03-16 |
 | [Lover Girl](https://open.spotify.com/track/44NcO3sv7gVBH03tNRmwDR) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Made in India](https://open.spotify.com/album/6RU0wl99jN8GaFtD0BXCZ3) | 4:46 | 2023-04-21 | 2025-01-01 |
 | [Maaeri](https://open.spotify.com/track/6Fvdk2eTzxEa9JsUUa1kP2) | [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Phir Dhoom](https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj) | 5:32 | 2022-04-11 |  |
@@ -88,6 +88,7 @@
 | [Musu Musu \(From "Pyaar Mein Kabhi Kabhi"\)](https://open.spotify.com/track/3akTx7f3zkKeQI9jPOziL3) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shiraz](https://open.spotify.com/artist/7xVc0E3yppOTdqFbG7fYkA), [Samrat](https://open.spotify.com/artist/5RwriSLPFn4NLfH0ln4wT2), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rediscovered Gems: Shaan](https://open.spotify.com/album/3UpecWk3GRINATioR0ZlKz) | 4:07 | 2022-04-11 | 2022-12-15 |
 | [Nachangeh Sari Raath](https://open.spotify.com/track/0tFVfArJG8BY54jo3UkADg) | [Stereo Nation](https://open.spotify.com/artist/4yg2tDrBwZAUD4d7eUGG0l), [Hunterz](https://open.spotify.com/artist/0G4H2fBVHbe6grWwuPH0uo) | [Slave II Fusion](https://open.spotify.com/album/7iEHiUNsbnpsGs72QFRzQg) | 5:15 | 2022-04-11 | 2025-01-01 |
 | [Nain Katari](https://open.spotify.com/track/3vAkvUTS3Ie9ClSJzonEW7) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Gaane Bhi Do Yaaro](https://open.spotify.com/album/0xsEXZSUFxzL9xvPVr8eFX) | 4:11 | 2023-10-12 | 2023-11-20 |
+| [Nain Se Naino Ko Mila](https://open.spotify.com/track/5dU0yXUXYjP1e6e2s6OSh2) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 4:12 | 2024-12-31 |  |
 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 | 2022-04-11 |  |
 | [O, Meri Muni](https://open.spotify.com/track/4zykrW1QLLkW8oPzYyPnS1) | [Remo Fernandes](https://open.spotify.com/artist/6Bthsls57GgYPQFdrY3eyw) | [O Meri Munni](https://open.spotify.com/album/4utKJR1PFvP2wK0svqsqKi) | 4:49 | 2022-12-29 | 2023-11-20 |
 | [Paree](https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW) | 6:01 | 2022-04-11 |  |

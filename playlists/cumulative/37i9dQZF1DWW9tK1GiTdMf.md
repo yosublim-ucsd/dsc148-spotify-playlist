@@ -2,9 +2,9 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica da gridare 🗣️ arssalendo in cover
+> musica che ti fa stare così ༼ ༎ຶ ෴ ༎ຶ༽ lola young in cover
 
-1,171 songs - 2 day 5 hr 43 min
+1,173 songs - 2 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [BABY DOLL](https://open.spotify.com/track/1ujONgmMYCNm0xFDSZZBqP) | [Delorean](https://open.spotify.com/artist/6cOxMyXc6gp4WsI4vruk2h) | [TEPPISTA](https://open.spotify.com/album/0G6EDjdgrG8HuP2GPyheNC) | 2:23 | 2023-07-20 | 2023-08-04 |
 | [Baby Don't Cry](https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Baby Don't Cry](https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz) | 3:04 | 2024-01-11 | 2024-03-01 |
 | [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 | 2022-05-06 | 2022-10-14 |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-01-02 |  |
 | [Backrooms](https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Backrooms](https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ) | 1:51 | 2023-03-23 | 2023-04-21 |
 | [bad 4ever](https://open.spotify.com/track/2JjPe4bFnwIUO5hQNASY44) | [FANTASMA DI ME](https://open.spotify.com/artist/3nnxeSXklp4PjXcjxfxe5l), [YANG ROT](https://open.spotify.com/artist/3d01ugFXlcrtlWQg0JXgY7) | [bad 4ever](https://open.spotify.com/album/343wFaooEhkayCxQeBdUhe) | 3:15 | 2024-10-03 | 2024-10-18 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 | 2023-09-12 |
@@ -174,7 +175,7 @@
 | [Bugie](https://open.spotify.com/track/0mqyFeAwtKUIgohU4Z8IKA) | [Misa](https://open.spotify.com/artist/5jHjoTewpLc3afcQ8hdCzF), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Bugie](https://open.spotify.com/album/05TqtYBsiY47KpprBkuKrj) | 2:35 | 2023-03-30 | 2023-06-16 |
 | [Buio](https://open.spotify.com/track/3WM5bGn36yCpOA1hVxr7iq) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll) | [Buio](https://open.spotify.com/album/3MEmWuqwBmSjI6z0wflyIy) | 2:26 | 2024-02-23 | 2024-03-22 |
 | [BUIO \(feat\. Sally Cruz\)](https://open.spotify.com/track/2d1ok1lJagwTQB22k8R6Nq) | [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [ERA](https://open.spotify.com/album/27nDdzr7C5sOAnB0iHr0Rc) | 2:43 | 2024-12-19 |  |
-| [Buon Natal\-ex](https://open.spotify.com/track/32kUq5Mc3rDyNiPVVIleKK) | [Stefy Evita](https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz) | [Buon Natal\-ex](https://open.spotify.com/album/5c4lnbkEk8Xhsw1xj2l20s) | 2:55 | 2024-12-05 |  |
+| [Buon Natal\-ex](https://open.spotify.com/track/32kUq5Mc3rDyNiPVVIleKK) | [Stefy Evita](https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz) | [Buon Natal\-ex](https://open.spotify.com/album/5c4lnbkEk8Xhsw1xj2l20s) | 2:55 | 2024-12-05 | 2025-01-03 |
 | [Buonanotte](https://open.spotify.com/track/3vcwmTtfqSvBNYfnpG81La) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [MELA MARCIA](https://open.spotify.com/album/7tdF0W54CrLK0Dxssdpxjq) | 3:03 | 2023-05-25 | 2023-06-02 |
 | [Burn The Witch](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Burn The Witch](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 | 2024-03-07 | 2024-05-24 |
 | [BYE BYE](https://open.spotify.com/track/5iJoUukQtwJ883xshmOuAR) | [Officina011](https://open.spotify.com/artist/2hoEXGtMJgcjgIwSzvRzbK), [Acerbo](https://open.spotify.com/artist/4mUquATp0HZGr9txsE9OZa), [Petraz](https://open.spotify.com/artist/2T6E7Duwy15mxY7JBvWN7i), [Vinny](https://open.spotify.com/artist/3uovMTMDgkldB5gyea3dUU), [collaesse](https://open.spotify.com/artist/6M3AFJ7JHXJc03K2R3z2wL), [donato](https://open.spotify.com/artist/4thYdzPvyqxuVPhUajdqIG), [DJT](https://open.spotify.com/artist/5YwukRXliqHCDC1sZBQSrl) | [BYE BYE](https://open.spotify.com/album/0IlThQ5a3NlzUWV1dmmJgo) | 2:51 | 2023-07-27 | 2023-09-15 |
@@ -657,10 +658,11 @@
 | [Memory card](https://open.spotify.com/track/0aEn53Ylvg9hqBrh3DcvYx) | [Morganorarity](https://open.spotify.com/artist/1PZQrQESNQJPWZKXPC43nS), [CarciofinoLesso](https://open.spotify.com/artist/3d81H4qtyNPCScsnG54cUP) | [LORE FM + Memory Card \(slot 1\)](https://open.spotify.com/album/2l3ptPuZVll09MATXBl3sX) | 2:39 | 2022-12-01 | 2023-04-28 |
 | [menTAL BReAKdOWn](https://open.spotify.com/track/4hYnMkDnCVvoXVatr7KY2j) | [Stefy Evita](https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz) | [menTAL BReAKdOWn](https://open.spotify.com/album/4cPg53Qarq5ihZDMO6fXi3) | 2:29 | 2024-10-10 | 2024-11-29 |
 | [Merry Christmas](https://open.spotify.com/track/2UGSZDrU8eNmQeyONwSWNC) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch) | [Merry Christmas](https://open.spotify.com/album/0rcaf9Wz1xnUT1zu6BNBAG) | 2:42 | 2024-09-19 | 2024-11-29 |
+| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-02 |  |
 | [Meta\|verso](https://open.spotify.com/track/5J9kch9fW17r6bEgyhaZoe) | [Evrint Bless](https://open.spotify.com/artist/6a9h2MsqrQTJqERdiWrMC8), [Last Nite](https://open.spotify.com/artist/3o26lEpMoGEv75IZuVtJrV) | [Meta\|verso](https://open.spotify.com/album/0r0uvaU2cuAlWKSDC6MOeK) | 2:32 | 2023-12-14 | 2024-02-02 |
 | [Meteoropatica](https://open.spotify.com/track/6vdQV0iH7Fd362gxre1Z6n) | [Stefy Evita](https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz) | [Meteoropatica](https://open.spotify.com/album/6RoZYsfkh3A3P2nXS3G3mb) | 2:50 | 2023-06-08 | 2023-07-14 |
 | [mi fa ridere](https://open.spotify.com/track/3N5ujfxULFPv7qrxKwsCFO) | [Camilla PNK](https://open.spotify.com/artist/27Uqdev5esWGfrnqmUuPdd) | [mi fa ridere](https://open.spotify.com/album/6gHEcvAUDVcEwC9uHFAWbM) | 2:31 | 2024-11-28 |  |
-| [MI SENTO BENE](https://open.spotify.com/track/48YW9x98QqV3gUbYAhuMFu) | [SoDa](https://open.spotify.com/artist/61ssXv3eSeePstTB6J8YtB), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [MI SENTO BENE](https://open.spotify.com/album/6a4jHNiqioybAmEvkxAeOI) | 2:50 | 2024-10-10 |  |
+| [MI SENTO BENE](https://open.spotify.com/track/48YW9x98QqV3gUbYAhuMFu) | [SoDa](https://open.spotify.com/artist/61ssXv3eSeePstTB6J8YtB), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [MI SENTO BENE](https://open.spotify.com/album/6a4jHNiqioybAmEvkxAeOI) | 2:50 | 2024-10-10 | 2025-01-03 |
 | [MI SENTO MALE](https://open.spotify.com/track/3QKPIpTCyOR0ruOt8HHu9j) | [Jayred](https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08) | [MI SENTO MALE](https://open.spotify.com/album/1HLpNPvn8mjlCAOT2xaZub) | 3:00 | 2023-03-09 | 2023-04-14 |
 | [MI SPIACE MA È NO Feat\. DARRN \(lui bravissimo io urlo e basta\)](https://open.spotify.com/track/237FG3JiayYXagJ0Eb9qjC) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [DARRN](https://open.spotify.com/artist/7tIRfM2ZxdW5Qz2qVQIpB4) | [TITOLO PROVVISORIO](https://open.spotify.com/album/32dfx6NuDgeTHhqK0E8leD) | 1:58 | 2023-07-06 | 2023-12-08 |
 | [Milano Late Night](https://open.spotify.com/track/2sN7CAnecDcTfia4QbbY6y) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I), [ERRE](https://open.spotify.com/artist/5qsqKIWFc0atXDqx4yZAJF) | [Milano Late Night](https://open.spotify.com/album/2RHp2FPWb2xbZA9dsfARZ6) | 2:33 | 2023-03-23 | 2023-04-14 |

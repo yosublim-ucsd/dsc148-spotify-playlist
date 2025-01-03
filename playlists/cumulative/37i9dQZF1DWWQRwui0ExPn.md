@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,132 songs - 11 day 6 hr 21 min
+7,134 songs - 11 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -994,6 +994,7 @@
 | [Car Park](https://open.spotify.com/track/6Hi5gQrTgCAntyn8fe7jPF) | [Levi's Day](https://open.spotify.com/artist/5DVTIZJ7LbxjhWPBYo1U9z) | [Change](https://open.spotify.com/album/5doigX2hIIAz9MJGMIbQ53) | 1:24 | 2020-06-12 | 2021-01-11 |
 | [Car Ride](https://open.spotify.com/track/6WJjp4tweyEM415TtdFsqx) | [Gittiye](https://open.spotify.com/artist/4g4I92b4rKtESZUpNA0w5f) | [Car Ride](https://open.spotify.com/album/793wFdKEFWdOyYLgtX3OL5) | 2:15 | 2024-03-15 |  |
 | [Careful](https://open.spotify.com/track/21JzIbHNQOpIrsLqve9M3X) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Careful](https://open.spotify.com/album/6Y7kZO9Q5XHpA71BKp0uKM) | 2:07 | 2021-03-06 | 2022-01-14 |
+| [careful whisper](https://open.spotify.com/track/6DoSAApCGDM3rlt892BZ9o) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [careful whisper](https://open.spotify.com/album/0MQuVB6kUJk4mfJLLuNiig) | 2:06 | 2024-12-20 |  |
 | [Careless](https://open.spotify.com/track/2DunsbafLTMQabVAXBzUzJ) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6) | [Careless](https://open.spotify.com/album/1IN5HaKMF1Ex8cqjrROECY) | 2:32 | 2022-12-16 | 2023-11-24 |
 | [Careless](https://open.spotify.com/track/3v1O6lndJhBf7BXgnNs42x) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [Careless](https://open.spotify.com/album/1gm3U9qhpCZwdOFxt6sJk8) | 2:40 | 2019-11-22 | 2021-07-01 |
 | [Careless](https://open.spotify.com/track/7aWbMM0ABFa7NJJAmVbYYw) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11) | [Nighthawks II](https://open.spotify.com/album/2ICrGMQ3W1NGwykLyXudIl) | 1:14 | 2022-12-09 | 2023-08-11 |
@@ -4227,6 +4228,7 @@
 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 | 2023-10-27 |  |
 | [Nevada](https://open.spotify.com/track/0lbntzTzXeGI4jD9rBYTza) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Nevada](https://open.spotify.com/album/5dEyidK3wpFN4CmRfeB5PD) | 1:47 | 2023-11-24 |  |
 | [Never Ending Love Story](https://open.spotify.com/track/1DWaGXAVwKB6cyHsAMZgff) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Never Ending Love Story](https://open.spotify.com/album/3BH1qB4reGeHjhh6YF6z96) | 2:57 | 2023-08-10 | 2023-12-15 |
+| [Never Feel the Same](https://open.spotify.com/track/578wuYvZKJhL3ZnHLbBlRz) | [Yawuh](https://open.spotify.com/artist/5dFzAFmO3MGNTFcAApR6UR), [its ananke](https://open.spotify.com/artist/0g3P1DxnNkQlxwvX3rdJ8Y) | [Never Feel the Same](https://open.spotify.com/album/2shrd4xTL5zoKEqUxhfssg) | 2:08 | 2024-12-20 |  |
 | [Never Forgotten](https://open.spotify.com/track/74BxYDojYHtw9GOeTsik8f) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Never Forgotten](https://open.spotify.com/album/7zgBhhx6aV03m41a2veUUX) | 3:05 | 2024-01-05 | 2024-12-24 |
 | [Never Going Back](https://open.spotify.com/track/1EPgfVfxPaaispfsgXBXcs) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Never Going Back](https://open.spotify.com/album/1T5vxwuxPSvQtxEvtURSId) | 2:24 | 2022-11-18 | 2024-11-15 |
 | [Never Too Far](https://open.spotify.com/track/3c46OlpYw7xlD4McjpAIOY) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Never Too Far](https://open.spotify.com/album/07K0knvrXNmfaEdWwLfrYf) | 2:15 | 2022-06-17 | 2022-10-07 |
@@ -5526,7 +5528,7 @@
 | [Slow Descent](https://open.spotify.com/track/4OqaeW7DdsbU71WLpfJ6iP) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Slow Descent](https://open.spotify.com/album/4aEh7ShmVBPDg3R8TqHYeU) | 3:35 | 2022-11-25 | 2023-04-21 |
 | [slow down, breath deep, be the willow](https://open.spotify.com/track/446XTzkmwnMgf0RqbSG0rn) | [Mellow dive](https://open.spotify.com/artist/4dEG3k0HWAI1NltH7UI5Nv) | [slow down, breath deep, be the willow](https://open.spotify.com/album/6NWVC4H9MTT8qtWMEtsYT1) | 2:18 | 2020-06-23 | 2021-10-02 |
 | [Slow Drip](https://open.spotify.com/track/7KvWW99v6fnmQGRN8yXjRP) | [Fun Intended](https://open.spotify.com/artist/3LVh75iLe4iDjG4W1ztvAh) | [Slow Drip](https://open.spotify.com/album/4jjzGg5VsaLJUhZlJnIuW4) | 1:56 | 2023-01-20 | 2023-07-06 |
-| [Slow Drive](https://open.spotify.com/track/3Fi2M2hOIIzfOCHuTip2Pp) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Slow Drive](https://open.spotify.com/album/5zJiGlOxaYJQftfvnf2VBl) | 2:12 | 2024-02-02 |  |
+| [Slow Drive](https://open.spotify.com/track/3Fi2M2hOIIzfOCHuTip2Pp) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Slow Drive](https://open.spotify.com/album/5zJiGlOxaYJQftfvnf2VBl) | 2:12 | 2024-02-02 | 2025-01-03 |
 | [Slow Food](https://open.spotify.com/track/7uYOMj56grRFYmjarMQjVf) | [Tamala Bay](https://open.spotify.com/artist/2lncpX7wgkhvlIkw7ozMRj) | [Slow Food](https://open.spotify.com/album/5kP7OW53jtyMSB1TqcVDJb) | 2:26 | 2024-02-02 |  |
 | [Slow Food](https://open.spotify.com/track/7ksVuoTJ7NLFAMqazYB4j3) | [Yellowbase](https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC) | [Slow Food](https://open.spotify.com/album/71E9MiHH2VVQQhuXvv7qbX) | 3:06 | 2019-07-12 | 2020-01-04 |
 | [Slow Jazz](https://open.spotify.com/track/7v6jVyrZvRfCAZDc8P79tq) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Slow Jazz](https://open.spotify.com/album/0q1v98Yh9bkyPWdZrLSNWB) | 1:53 | 2022-04-08 | 2022-09-02 |
@@ -6610,7 +6612,7 @@
 | [Up We Go](https://open.spotify.com/track/4Le7OEss3Jrd5bmP9yokQV) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Up We Go](https://open.spotify.com/album/4ubp9l76UFqdDXaNcANxi3) | 2:18 | 2020-10-28 | 2021-10-20 |
 | [upah\-upah](https://open.spotify.com/track/3b9qWdL1VIppZ8p4lNoPdZ) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [upah\-upah](https://open.spotify.com/album/513oJf1MZDWtBirWktcC5c) | 2:19 | 2022-11-25 | 2023-02-15 |
 | [Upfront](https://open.spotify.com/track/2V9Z7zw3B3zCmmdHc8Cg8d) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Upfront](https://open.spotify.com/album/1D8b1BsrDvQ3HsFXk6p7ed) | 2:30 | 2024-09-13 |  |
-| [UPON REFLECTION](https://open.spotify.com/track/2wXJEUVtLuq0xLK3OeDQmB) | [Chilltone](https://open.spotify.com/artist/2ORbG4SlyzHnrOdRJg1hxz) | [Upon Reflection](https://open.spotify.com/album/4SsLUHBg7gR6v83TNh1a4u) | 2:19 | 2024-02-23 |  |
+| [UPON REFLECTION](https://open.spotify.com/track/2wXJEUVtLuq0xLK3OeDQmB) | [Chilltone](https://open.spotify.com/artist/2ORbG4SlyzHnrOdRJg1hxz) | [Upon Reflection](https://open.spotify.com/album/4SsLUHBg7gR6v83TNh1a4u) | 2:19 | 2024-02-23 | 2025-01-03 |
 | [Upper Lows](https://open.spotify.com/track/3lrBu4V4yz4VuFPJe5HNWy) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Upper Lows](https://open.spotify.com/album/0SdoJPwJWy3FPSqpIExNBh) | 2:02 | 2023-12-01 | 2024-02-02 |
 | [upside](https://open.spotify.com/track/1DhQMYNfTUEGbmP5SsRRdQ) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [thaw](https://open.spotify.com/album/72RtUxmfFc9GjaMMIzfJj2) | 2:45 | 2022-06-17 | 2022-10-07 |
 | [Upside Down](https://open.spotify.com/track/3cx4qyjwX8Ji4SXKc7P5F6) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy), [Nuxe](https://open.spotify.com/artist/5Sq2960LCdGIniRjmbmT6G) | [Upside Down](https://open.spotify.com/album/67AvbJNFoiZorbA9cdCwnv) | 1:59 | 2022-09-16 | 2023-01-07 |

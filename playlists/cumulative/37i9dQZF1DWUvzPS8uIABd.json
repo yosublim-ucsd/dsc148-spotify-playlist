@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa BEHM ja Ege Zulu.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa KIKI.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Ainutlaatuinen",
+        "url": "https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160177,
+      "name": "Ainutlaatuinen",
+      "url": "https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4"
+    },
+    {
+      "album": {
         "name": "SUPERAURINKO",
         "url": "https://open.spotify.com/album/03fwmDxA6Q154BX2GwJU7A"
       },
@@ -234,7 +252,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 175240,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/5WSW4kZ4lO6nACET8FgGqJ"
@@ -932,7 +950,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 168037,
       "name": "Elina",
       "url": "https://open.spotify.com/track/2wlcMM4bMkdl0UZPclmqLP"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 202480,
       "name": "Encore",
       "url": "https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo"
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 179739,
       "name": "Forever Young (feat. Joe L)",
       "url": "https://open.spotify.com/track/6pG5I35avZEynviks1Cxjz"
@@ -1366,6 +1384,24 @@
       "duration_ms": 170406,
       "name": "Harmaan s\u00e4vyj\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/3AbxR1gWW26UQ6N1n1wfcC"
+    },
+    {
+      "album": {
+        "name": "Hei hei ja hyv\u00e4sti",
+        "url": "https://open.spotify.com/album/2ETubknpXplEytEEGTtiDb"
+      },
+      "artists": [
+        {
+          "name": "Ville Veikka",
+          "url": "https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148480,
+      "name": "Hei hei ja hyv\u00e4sti",
+      "url": "https://open.spotify.com/track/1A3KXxnNSL1DLQXwn2mSxI"
     },
     {
       "album": {
@@ -1632,7 +1668,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 196837,
       "name": "Iha miten vaa",
       "url": "https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC"
@@ -1676,6 +1712,24 @@
       "duration_ms": 160812,
       "name": "Ihanuuteni blondiina",
       "url": "https://open.spotify.com/track/0YWhcwLqzS4QkrmH8dogWS"
+    },
+    {
+      "album": {
+        "name": "Ihmishirvi\u00f6",
+        "url": "https://open.spotify.com/album/2xlMjMfeOJXJwgTtgQae17"
+      },
+      "artists": [
+        {
+          "name": "Jemina",
+          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186010,
+      "name": "Ihmishirvi\u00f6",
+      "url": "https://open.spotify.com/track/6EsFnbuNzZmSgiKAd0weFZ"
     },
     {
       "album": {
@@ -1872,7 +1926,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 190000,
       "name": "Joku, jonka luo palata",
       "url": "https://open.spotify.com/track/1XYPk1AGMeJ4wOfkudWsXb"
@@ -1970,7 +2024,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 164590,
       "name": "Jouluks kotiin",
       "url": "https://open.spotify.com/track/0lPnlw2OqYerwBT9MyoLex"
@@ -2050,7 +2104,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 186400,
       "name": "Kahden kodin v\u00e4liss\u00e4",
       "url": "https://open.spotify.com/track/0WmEqqcDxWSuwAVCQXcNpw"
@@ -2260,7 +2314,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 156146,
       "name": "Katujen \u00c4\u00e4ni",
       "url": "https://open.spotify.com/track/2KopLIGfST6iCswFBRBrio"
@@ -2318,7 +2372,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 172386,
       "name": "Kauniita unia",
       "url": "https://open.spotify.com/track/2adRg6euPGESmGoKIl1R2f"
@@ -2394,7 +2448,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 171933,
       "name": "Kerro mik\u00e4 mun oikein on (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/0hWYSlEJulMgFduhp04paS"
@@ -2560,6 +2614,24 @@
       "duration_ms": 272461,
       "name": "Kiljut riemusta (Roosa nauha 2024)",
       "url": "https://open.spotify.com/track/55hOn2rl3tx24cgYneShKz"
+    },
+    {
+      "album": {
+        "name": "KOHTALO",
+        "url": "https://open.spotify.com/album/3gFojaJRDbfyUjUTr4KJ1A"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182118,
+      "name": "KOHTALO",
+      "url": "https://open.spotify.com/track/2WlZzWKyyQRFpXnqV6JepA"
     },
     {
       "album": {
@@ -2806,7 +2878,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 168752,
       "name": "Kyyneleet sateessa",
       "url": "https://open.spotify.com/track/6LtPm6eJ3xywabrHNWdWPg"
@@ -3126,7 +3198,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 168076,
       "name": "Luuseri (feat. R\u00f6ge)",
       "url": "https://open.spotify.com/track/6Ldpx7FBS0HP8WEXP9A0bv"
@@ -3442,7 +3514,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 202560,
       "name": "Mee jo",
       "url": "https://open.spotify.com/track/4YkYQAFfd46Xti7X6o5HXj"
@@ -3467,6 +3539,24 @@
     },
     {
       "album": {
+        "name": "Menestys on paras tapa kostaa",
+        "url": "https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165484,
+      "name": "Menestys on paras tapa kostaa",
+      "url": "https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8"
+    },
+    {
+      "album": {
         "name": "Menneisyys",
         "url": "https://open.spotify.com/album/29IATF11KR4niQR5ceedGg"
       },
@@ -3478,10 +3568,28 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 151051,
       "name": "Menneisyys",
       "url": "https://open.spotify.com/track/1bsOGitVlRlz2T1deVPXcY"
+    },
+    {
+      "album": {
+        "name": "Menolippu",
+        "url": "https://open.spotify.com/album/3rNuYNwHjSYQoCECmXkFzo"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170041,
+      "name": "Menolippu",
+      "url": "https://open.spotify.com/track/6dyhgkxZnFiCRDHOFBY6Nt"
     },
     {
       "album": {
@@ -3522,6 +3630,24 @@
       "duration_ms": 226626,
       "name": "Miehet (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/1tRI8jDnQUi4ScD6kAkXpA"
+    },
+    {
+      "album": {
+        "name": "MILJON\u00c4\u00c4RI",
+        "url": "https://open.spotify.com/album/7yOYxbuq2YIpgMfB8bW1o7"
+      },
+      "artists": [
+        {
+          "name": "Pasi ja Anssi",
+          "url": "https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174014,
+      "name": "MILJON\u00c4\u00c4RI",
+      "url": "https://open.spotify.com/track/7qt5YH5RsODXqq5q8k0ijJ"
     },
     {
       "album": {
@@ -3580,7 +3706,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 199334,
       "name": "Miten ihmiset l\u00f6yt\u00e4\u00e4 toisiaan (feat. \u00d6veri)",
       "url": "https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y"
@@ -3946,7 +4072,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 165845,
       "name": "Niin kuin s\u00e4",
       "url": "https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW"
@@ -4222,7 +4348,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 177233,
       "name": "Otan Kii",
       "url": "https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4"
@@ -4305,6 +4431,32 @@
     },
     {
       "album": {
+        "name": "Paitsioon",
+        "url": "https://open.spotify.com/album/2awsYgoQolMUnEEEdcgOqR"
+      },
+      "artists": [
+        {
+          "name": "Yksi Totuus",
+          "url": "https://open.spotify.com/artist/6WhRNmekAnpW3ae3Nlu1xw"
+        },
+        {
+          "name": "Poju",
+          "url": "https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn"
+        },
+        {
+          "name": "Jukka Ruusumaa",
+          "url": "https://open.spotify.com/artist/1kEzkwyWxAsO6HbQGVscAT"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Paitsioon",
+      "url": "https://open.spotify.com/track/52tEE1G9rWdH3B6tkEIvkn"
+    },
+    {
+      "album": {
         "name": "Pakumies",
         "url": "https://open.spotify.com/album/5NaDafoOkS8V3v2n90TBFM"
       },
@@ -4338,6 +4490,28 @@
       "duration_ms": 171879,
       "name": "Palava huone",
       "url": "https://open.spotify.com/track/7DkqLdkweGriITDbi176K2"
+    },
+    {
+      "album": {
+        "name": "Paletti (feat. Sexmane)",
+        "url": "https://open.spotify.com/album/6K8JX9fixwTxSFYOd4LqVy"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183777,
+      "name": "Paletti (feat. Sexmane)",
+      "url": "https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX"
     },
     {
       "album": {
@@ -4728,7 +4902,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 148591,
       "name": "P\u00e4\u00e4s Kii",
       "url": "https://open.spotify.com/track/0cR8kk0BKbJzgNNTEMJjqZ"
@@ -4880,7 +5054,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 156000,
       "name": "Ratiriti",
       "url": "https://open.spotify.com/track/4DJ7vFjUxx58Ud2hzvabUN"
@@ -5058,7 +5232,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 179114,
       "name": "Saat mut syttyy",
       "url": "https://open.spotify.com/track/4rzRKGcbQ5faVnrMX494iS"
@@ -5192,7 +5366,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 145268,
       "name": "Sattuu jos sattuu",
       "url": "https://open.spotify.com/track/7HmxW2TPFTLQGG0dUyVOGQ"
@@ -5603,6 +5777,24 @@
     },
     {
       "album": {
+        "name": "Suutele mun silmii",
+        "url": "https://open.spotify.com/album/7EXuqXgy9fDCUAS2aHVVdr"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145566,
+      "name": "Suutele mun silmii",
+      "url": "https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR"
+    },
+    {
+      "album": {
         "name": "Syd\u00e4n j\u00e4\u00e4",
         "url": "https://open.spotify.com/album/4d1Icw9EaPTDtOLXqoC8w8"
       },
@@ -5614,7 +5806,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 193103,
       "name": "Syd\u00e4n j\u00e4\u00e4",
       "url": "https://open.spotify.com/track/4NCzngmY9wuWRbf0QF2IWd"
@@ -5878,7 +6070,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 250466,
       "name": "Talviklassikko",
       "url": "https://open.spotify.com/track/2IxGkiAebe0JvS83eW5gVE"
@@ -6108,7 +6300,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 181250,
       "name": "Tunnista tuntiin",
       "url": "https://open.spotify.com/track/0jooO42vkt1zh74OsLXwfr"
@@ -6320,7 +6512,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 182505,
       "name": "T\u00e4s m\u00e4 oon",
       "url": "https://open.spotify.com/track/5tfW3t4zAZoeftsKQI0jD0"
@@ -6436,7 +6628,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 142841,
       "name": "T\u00e4\u00e4 on slut",
       "url": "https://open.spotify.com/track/437yd9PAiY5FZigIMbmjVt"
@@ -6494,7 +6686,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 240666,
       "name": "Vaatteet ja iho",
       "url": "https://open.spotify.com/track/427I5MP8z0avmKQZX4ZgGA"
@@ -6588,7 +6780,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 193960,
       "name": "Valons\u00e4teet",
       "url": "https://open.spotify.com/track/3xCIF7RAaUPU0teP44pOjA"
@@ -6961,6 +7153,24 @@
     },
     {
       "album": {
+        "name": "Vuosi",
+        "url": "https://open.spotify.com/album/4o2NeIpas2AuMq50pLdJ2Q"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180229,
+      "name": "Vuosi",
+      "url": "https://open.spotify.com/track/7HLjXn0DkzLjVfCM8GePX6"
+    },
+    {
+      "album": {
         "name": "Rehellisesti",
         "url": "https://open.spotify.com/album/7fiaOeSdQLY7j5sf2ZqfgO"
       },
@@ -7132,7 +7342,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 189863,
       "name": "Ylpee",
       "url": "https://open.spotify.com/track/0YiG81JSChnCxKCk5CoRD1"
@@ -7158,6 +7368,24 @@
       "duration_ms": 145600,
       "name": "Ympyr\u00e4\u00e4",
       "url": "https://open.spotify.com/track/0M6h2AOJ6YjnkdGfeJEmuo"
+    },
+    {
+      "album": {
+        "name": "Y\u00f6n selk\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/4mPAgbKX4KmL3N9XDZ6oNS"
+      },
+      "artists": [
+        {
+          "name": "Eini",
+          "url": "https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178590,
+      "name": "Y\u00f6n selk\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/4uGuic7I5mYTwKFA9vf7XX"
     },
     {
       "album": {

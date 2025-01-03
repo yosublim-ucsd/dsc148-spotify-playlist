@@ -1,12 +1,12 @@
 {
-  "description": "Los \u00e9xitos del Dembow. Portada: Jey One",
-  "num_followers": 579920,
+  "description": "Los \u00e9xitos del Dembow. Portada: Yailin La M\u00e1s Viral",
+  "num_followers": 580505,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z22aggAAAACoQ88djEMqgWlFnLWp9DFt",
+  "snapshot_id": "Z3YdXQAAAADfre8cjSdV5tbM+PPFjelX",
   "tracks": [
     {
       "added_at": "2024-11-14 20:36:26",
@@ -47,6 +47,26 @@
       "duration_ms": 115432,
       "name": "A 30",
       "url": "https://open.spotify.com/track/2h2Kllyx5wpXvrYN3M8CG1"
+    },
+    {
+      "added_at": "2024-12-26 18:03:46",
+      "album": {
+        "name": "Silla",
+        "url": "https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "duration_ms": 141355,
+      "name": "Silla",
+      "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -129,26 +149,6 @@
       "url": "https://open.spotify.com/track/1SwgbVS16zRVJTsMW3RHUR"
     },
     {
-      "added_at": "2024-12-13 00:05:57",
-      "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/0U9k5RDgexyD90shmSgB5b"
-      },
-      "artists": [
-        {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Boy Boy",
@@ -169,24 +169,20 @@
       "url": "https://open.spotify.com/track/0E2T5QGDi48YmAo32ZqaqF"
     },
     {
-      "added_at": "2024-12-26 18:03:46",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Silla",
-        "url": "https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7"
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
       },
       "artists": [
         {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        },
-        {
-          "name": "Puyalo Pantera",
-          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
         }
       ],
-      "duration_ms": 141355,
-      "name": "Silla",
-      "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -227,6 +223,26 @@
       "duration_ms": 206842,
       "name": "Vivo Por Palomo",
       "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
+    },
+    {
+      "added_at": "2024-12-13 00:05:57",
+      "album": {
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/0U9k5RDgexyD90shmSgB5b"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -307,22 +323,6 @@
       "duration_ms": 179200,
       "name": "Palo Ajeno",
       "url": "https://open.spotify.com/track/0ABRPWTI7U9Knhmc0pQJuI"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "HAY LUPITA",
-        "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 105836,
-      "name": "HAY LUPITA",
-      "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
     },
     {
       "added_at": "2024-08-27 14:46:38",

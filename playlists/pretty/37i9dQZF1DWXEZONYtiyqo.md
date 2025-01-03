@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Antonia, Oscar
+> Cele mai noi hituri pop românești\. Cover: Mario Fresh
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,766 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,781 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nu mai am pentru tine](https://open.spotify.com/track/5Qg44TP2YxRJNtGekdtgxd) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Nu mai am pentru tine](https://open.spotify.com/album/1Mr0ZbnoXRkBEKRMV7EKlX) | 2:45 |
-| 2 | [Să mă iubești](https://open.spotify.com/track/7vOicF7WjREmCSCyOeqjl4) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW), [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Să mă iubești](https://open.spotify.com/album/7e5mFgXK6KNMVSD6LeGIcF) | 3:16 |
-| 3 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:30 |
-| 4 | [Același oraș](https://open.spotify.com/track/6MeoGIs5zRBXhEEwUWSewZ) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Același oraș](https://open.spotify.com/album/3yIKJPCbmKQ80UFV6IS7Qh) | 3:02 |
-| 5 | [Ultimul Dans](https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Ultimul Dans](https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS) | 3:23 |
-| 6 | [Nu mă întorc \- 12.09.2024](https://open.spotify.com/track/5WeWg0JVLdnkhL5RFKYz9L) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Nu mă întorc \(12.09.2024\)](https://open.spotify.com/album/2aO2y90P1cnZGZE6DNcfIG) | 3:18 |
-| 7 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 |
-| 8 | [Maria, Maria](https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Maria, Maria](https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE) | 2:40 |
-| 9 | [Bilet doar dus](https://open.spotify.com/track/0eT9x6eqtQzMqzBUYr3FDu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Bilet doar dus](https://open.spotify.com/album/4nRZzLqqFM8ZQQmVdt81rp) | 2:21 |
-| 10 | [Dudadu](https://open.spotify.com/track/7A0foIRFpCRMXutDU9vDsQ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu](https://open.spotify.com/album/1R6lbA0eS3rw4wSetdUIhk) | 2:36 |
-| 11 | [Ultima dată](https://open.spotify.com/track/7B4J2a2igdWJvS2fTIhOZX) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ultima dată](https://open.spotify.com/album/6ButmZLaKMNNnqadJgzq4q) | 3:19 |
-| 12 | [Orice drum duce acasă](https://open.spotify.com/track/0IVutpfE8ayYpnr0XfbU6o) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Orice drum duce acasă](https://open.spotify.com/album/0CkYzw7KgsfypX4lL88IBx) | 4:11 |
-| 13 | [Screenshot](https://open.spotify.com/track/1HMgMXELMFh8AMBXpfbwsu) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Screenshot](https://open.spotify.com/album/5CBBGOdyIiARP5l8itGFsc) | 2:22 |
-| 14 | [Ultimul sărut](https://open.spotify.com/track/4uBWKMNcZWaFGKFB617Xn2) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Ultimul sărut](https://open.spotify.com/album/2koLXtK6zIBjnPQI7ui7QZ) | 2:52 |
+| 1 | [Nu mă întorc \- 12.09.2024](https://open.spotify.com/track/5WeWg0JVLdnkhL5RFKYz9L) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Nu mă întorc \(12.09.2024\)](https://open.spotify.com/album/2aO2y90P1cnZGZE6DNcfIG) | 3:18 |
+| 2 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:30 |
+| 3 | [Maria, Maria](https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Maria, Maria](https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE) | 2:40 |
+| 4 | [Ultima dată](https://open.spotify.com/track/7B4J2a2igdWJvS2fTIhOZX) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ultima dată](https://open.spotify.com/album/6ButmZLaKMNNnqadJgzq4q) | 3:19 |
+| 5 | [Același oraș](https://open.spotify.com/track/6MeoGIs5zRBXhEEwUWSewZ) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Același oraș](https://open.spotify.com/album/3yIKJPCbmKQ80UFV6IS7Qh) | 3:02 |
+| 6 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 |
+| 7 | [Nu mai am pentru tine](https://open.spotify.com/track/5Qg44TP2YxRJNtGekdtgxd) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Nu mai am pentru tine](https://open.spotify.com/album/1Mr0ZbnoXRkBEKRMV7EKlX) | 2:45 |
+| 8 | [Să mă iubești](https://open.spotify.com/track/7vOicF7WjREmCSCyOeqjl4) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW), [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Să mă iubești](https://open.spotify.com/album/7e5mFgXK6KNMVSD6LeGIcF) | 3:16 |
+| 9 | [Ultimul Dans](https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Ultimul Dans](https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS) | 3:23 |
+| 10 | [Bilet doar dus](https://open.spotify.com/track/0eT9x6eqtQzMqzBUYr3FDu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Bilet doar dus](https://open.spotify.com/album/4nRZzLqqFM8ZQQmVdt81rp) | 2:21 |
+| 11 | [Ultimul sărut](https://open.spotify.com/track/4uBWKMNcZWaFGKFB617Xn2) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Ultimul sărut](https://open.spotify.com/album/2koLXtK6zIBjnPQI7ui7QZ) | 2:52 |
+| 12 | [Dudadu](https://open.spotify.com/track/7A0foIRFpCRMXutDU9vDsQ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu](https://open.spotify.com/album/1R6lbA0eS3rw4wSetdUIhk) | 2:36 |
+| 13 | [Orice drum duce acasă](https://open.spotify.com/track/0IVutpfE8ayYpnr0XfbU6o) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Orice drum duce acasă](https://open.spotify.com/album/0CkYzw7KgsfypX4lL88IBx) | 4:11 |
+| 14 | [Screenshot](https://open.spotify.com/track/1HMgMXELMFh8AMBXpfbwsu) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Screenshot](https://open.spotify.com/album/5CBBGOdyIiARP5l8itGFsc) | 2:22 |
 | 15 | [Nostalgia de Crăciun](https://open.spotify.com/track/3ZHiSIJosF9IByR1BBXEuk) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Nostalgia de Crăciun](https://open.spotify.com/album/0zb277H0AiXjzFhSuWrNLW) | 3:16 |
 | 16 | [Arde cerul](https://open.spotify.com/track/6lmB4XvuVcyJ7lTsrqOZSB) | [Betty Salam](https://open.spotify.com/artist/6YoV1pQqV1SX4m40yQ6LOd), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Arde cerul](https://open.spotify.com/album/3cRgSc1gEzhjTsJv4wyG7T) | 2:38 |
 | 17 | [O, brad faimos](https://open.spotify.com/track/2Ru51wqn1WxwZaWRZWvjn2) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [O, brad faimos](https://open.spotify.com/album/4gvXXxpCIhLSJJ16lVR7eN) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [De mă lași](https://open.spotify.com/track/2EWDzxXpPn5EiGOyAbPZry) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [Albwho](https://open.spotify.com/artist/1gKMA54tfPeStFBKsNl2t2) | [De mă lași](https://open.spotify.com/album/6LJDT2bwtbVjp3R5qht6ct) | 2:26 |
 | 50 | [Pentru Inimi Frante](https://open.spotify.com/track/2Vte9P5aMap0rBZrB47stv) | [Lora](https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq) | [Pentru Inimi Frante](https://open.spotify.com/album/2N97K2JsZf9HKCh4Mnup5V) | 3:07 |
 
-Snapshot ID: `Z2SXeAAAAADo449MOas/tF1udBRwnKIQ`
+Snapshot ID: `Z3cOmgAAAAD+gVSBJR15dq2y62ENyGRH`

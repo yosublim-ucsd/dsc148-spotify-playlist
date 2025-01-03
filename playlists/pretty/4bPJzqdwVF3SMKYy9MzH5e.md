@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,035 songs - 4 day 13 hr 9 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,037 songs - 4 day 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2043,5 +2043,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2033 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 |
 | 2034 | [Rolex](https://open.spotify.com/track/0pSBuHjILhNEo55xK1zrRt) | [Ayo & Teo](https://open.spotify.com/artist/27mFvqQj8KpjmdKIqcw1mG) | [Rolex](https://open.spotify.com/album/1bHj528aZfYOKq0ve5AHMr) | 3:58 |
 | 2035 | [HUMBLE.](https://open.spotify.com/track/7ujx3NYtwO2LkmKGz59mXp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25) | 2:57 |
+| 2036 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 |
+| 2037 | [L\-ON\-D\-ON](https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 3:08 |
 
-Snapshot ID: `AAADr0TIClK4CM+s/hhrk9+QCcMbmIcG`
+Snapshot ID: `AAADsWiPomfrje9svcl8VU8woH6O3mAY`

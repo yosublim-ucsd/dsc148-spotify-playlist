@@ -4,7 +4,7 @@
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-53 songs - 3 hr 40 min
+54 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bluebird](https://open.spotify.com/track/1dWxSS2a93X4XVfs1mSYkB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:24 | 2021-09-27 |  |
 | [Brahms: 3 Intermezzi, Op\. 117: No\. 1 in E\-Flat Major](https://open.spotify.com/track/2AgUNLzpD2RBfarEvMiTxZ) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Nicholas Angelich](https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E) | [Brahms: Fantasien, Op\. 116, Intermezzi, Op\. 117, Klavierstücke, Op\. 118 & 119](https://open.spotify.com/album/0uaisnbddhMuJBXkHXyw7J) | 5:29 | 2021-09-27 |  |
 | [Canon in D Major, P\. 37/1 \(Arr\. Coates & Lawson for Harp\)](https://open.spotify.com/track/1DWoBGJYcPhsXKGRtvSuWV) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Pachelbel: Canon in D Major, P\. 37/1 \(Arr\. Coates & Lawson for Harp\)](https://open.spotify.com/album/6EPyc1L35hClQ9gHDv22cx) | 4:15 | 2024-12-18 |  |
+| [China Gates](https://open.spotify.com/track/3rQbjkSToh2vsXlCIcRyev) | [John Adams](https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Adams: China Gates](https://open.spotify.com/album/3XMBAeHebyW3xmaDXyMRzQ) | 4:18 | 2025-01-02 |  |
 | [Chopin: 24 Preludes, Op\. 28: No\. 15 in D\-Flat Major "Raindrop"](https://open.spotify.com/track/5vZRIYphBMNUeCfzYB2WyV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Aimi Kobayashi](https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs) | [Chopin: Preludes & Piano Works \- 24 Preludes, Op\. 28: No.15 in D\-Flat Major, "Raindrop"](https://open.spotify.com/album/0o29UJuZspptFzTPNEQ3mQ) | 6:20 | 2021-09-27 |  |
 | [Dancing Michelangelo \- Andante Piano Sessions](https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo \(Andante Piano Sessions\)](https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0) | 1:50 | 2024-11-15 |  |
 | [Deux Arabesques, L\. 66, CD 74: I\. Première Arabesque](https://open.spotify.com/track/0CKertYAUevycqhVjGuewD) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Efflam Bavouzet](https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ) | [Debussy: Complete Works for Piano, Vol\. 3](https://open.spotify.com/album/01ofr7grBeNmvO5Gh61j4j) | 4:04 | 2021-09-27 | 2024-04-19 |

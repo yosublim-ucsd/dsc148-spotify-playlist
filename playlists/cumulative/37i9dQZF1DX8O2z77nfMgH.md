@@ -4,7 +4,7 @@
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Myke Towers, L\-Gante
 
-9,218 songs - 20 day 11 hr 5 min
+9,219 songs - 20 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4669,6 +4669,7 @@
 | [Lucifer](https://open.spotify.com/track/6mFLA8Tq4MlnhyUGV7Tf4I) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Lucifer](https://open.spotify.com/album/3ID0TDMh101kcidA9TrwWr) | 2:54 | 2022-05-20 | 2022-05-28 |
 | [Lucifer](https://open.spotify.com/track/3Jtosgz3o85FHYpXr6YjEE) | [Yeieme](https://open.spotify.com/artist/4kgqEEUm1KUt6IYJmwq4OZ), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Horas](https://open.spotify.com/album/5HWqhCluWKBZUzZFKLrku3) | 2:45 | 2022-07-29 | 2022-08-06 |
 | [LUCK RA \| DJ TAO Turreo Sessions \#19](https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [LUCK RA \| DJ TAO Turreo Sessions \#19](https://open.spotify.com/album/2A4aFi0rBICWnzlm0HZ76j) | 2:10 | 2023-08-11 | 2023-08-19 |
+| [Luck Ra: Bzrp Music Sessions, Vol\. 61](https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra: Bzrp Music Sessions, Vol\. 61](https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX) | 2:50 | 2025-01-02 |  |
 | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi) | 11:07 | 2024-06-28 | 2024-07-06 |
 | [Luego Luego](https://open.spotify.com/track/39yLQLqotOBe7lRnXphLFG) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Luego Luego](https://open.spotify.com/album/6fjebZOhgKZHH5EWpxXap4) | 3:07 | 2022-09-30 | 2022-10-08 |
 | [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 | 2024-07-05 | 2024-07-13 |
@@ -8797,7 +8798,7 @@
 | [Viejo](https://open.spotify.com/track/4Jnqwmy4Ms1q4PDMmACzfw) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/2BzRAvBLzKPp03b5VRLde2) | 3:01 | 2022-06-17 | 2022-06-25 |
 | [Vienen Y Van](https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Vienen Y Van](https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS) | 3:01 | 2022-06-03 | 2022-06-11 |
 | [Vienes o Voy](https://open.spotify.com/track/6MocrPHRgxQ1cDs51rfXGf) | [Luisa Fernanda W](https://open.spotify.com/artist/3iKdkIEoOGT55KE72tSOgU), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Vienes o Voy](https://open.spotify.com/album/2t1uqXDZcezSbZNyOt3J63) | 3:08 | 2022-02-18 | 2022-02-26 |
-| [Viento](https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Viento EP](https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV) | 3:37 | 2024-12-20 |  |
+| [Viento](https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Viento EP](https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV) | 3:37 | 2024-12-20 | 2025-01-03 |
 | [Viernes](https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Viernes](https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe) | 3:16 | 2022-10-14 | 2022-10-22 |
 | [Viernes 13](https://open.spotify.com/track/1h8zgoGsezP2QyOzVwvzpf) | [EXTi](https://open.spotify.com/artist/4qXoStzSrllHWv0TPl96l1) | [Viernes 13](https://open.spotify.com/album/667dNv4Hv869bOltkZw3SF) | 2:54 | 2024-04-21 | 2024-04-27 |
 | [Vikingos](https://open.spotify.com/track/5xsB0fAhMLOjutwlPNsQls) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Vikingos](https://open.spotify.com/album/1yM8N3pWYI7LjWEvGbBkcQ) | 2:46 | 2023-05-19 | 2023-05-21 |

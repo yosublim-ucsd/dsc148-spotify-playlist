@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 170689,
       "name": "feathers",
       "url": "https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA"
@@ -3863,6 +3863,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u7684\u554f\u984c\u8a72\u554f\u8ab0",
+        "url": "https://open.spotify.com/album/6HbOuUXV6eN9Mr39l88MV8"
+      },
+      "artists": [
+        {
+          "name": "Eve Ai",
+          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325158,
+      "name": "\u5c0f\u9ec3\u72d7",
+      "url": "https://open.spotify.com/track/2ZFWX4oi8UQRskFimIpkAz"
+    },
+    {
+      "album": {
         "name": "BEFORE 20",
         "url": "https://open.spotify.com/album/2nvrFeW0LkgAGhavukF8pm"
       },
@@ -4145,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "\u5ee2\u7d19\u7403",
+        "url": "https://open.spotify.com/album/4KBTXnFGMoQ5zQDVDdzG23"
+      },
+      "artists": [
+        {
+          "name": "Mily K",
+          "url": "https://open.spotify.com/artist/3V5ATM4EPxx31afVtMCQ8P"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253884,
+      "name": "\u5ee2\u7d19\u7403",
+      "url": "https://open.spotify.com/track/5I4hilVqw1Boji5ANHiij2"
+    },
+    {
+      "album": {
         "name": "\u5ef6\u9072\u7684\u7406\u60f3",
         "url": "https://open.spotify.com/album/0WsnhVeZSK7eAcOrwYGTil"
       },
@@ -4264,7 +4300,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 162653,
       "name": "\u5f8c\u8996\u93e1",
       "url": "https://open.spotify.com/track/32oTT0te8RGfNuATgUCccI"
@@ -4852,6 +4888,24 @@
       "duration_ms": 268906,
       "name": "\u6211\u5011\u5f88\u597d",
       "url": "https://open.spotify.com/track/7iud0nXzaQBO6lY5ukT4Hn"
+    },
+    {
+      "album": {
+        "name": "\u6211\u53ef\u4ee5",
+        "url": "https://open.spotify.com/album/5bitmU8nDk51WqYtPjohYg"
+      },
+      "artists": [
+        {
+          "name": "\u6d2a\u4ee5\u82af",
+          "url": "https://open.spotify.com/artist/5PMS3LPsDNAhBc3Sa5EEuO"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203008,
+      "name": "\u6211\u53ef\u4ee5",
+      "url": "https://open.spotify.com/track/7FJ1eVDKKZMblOygYVTSkz"
     },
     {
       "album": {
@@ -6579,6 +6633,28 @@
     },
     {
       "album": {
+        "name": "\u89c0\u5df1",
+        "url": "https://open.spotify.com/album/6AHjaNqXvdYbnTdi3a8IQs"
+      },
+      "artists": [
+        {
+          "name": "\u9ed1\u8c79",
+          "url": "https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0"
+        },
+        {
+          "name": "\u9ed1\u8c79\u4e50\u961f",
+          "url": "https://open.spotify.com/artist/2SGTJVOtFUwbmgYHFBXRej"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "\u751f\u547d\u7684\u95dc\u65bc",
+      "url": "https://open.spotify.com/track/0S54tEUDFV1Z9svTR6iwcS"
+    },
+    {
+      "album": {
         "name": "\u751f\u65e5\u5feb\u4e50",
         "url": "https://open.spotify.com/album/5LBtkZCuAlDf44QDz52ac9"
       },
@@ -6972,7 +7048,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 251022,
       "name": "\u7d66\u4f60",
       "url": "https://open.spotify.com/track/3IN7EP6jgxkjzhhmqb2CRn"
@@ -7318,7 +7394,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 199282,
       "name": "\u8327Jian",
       "url": "https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX"

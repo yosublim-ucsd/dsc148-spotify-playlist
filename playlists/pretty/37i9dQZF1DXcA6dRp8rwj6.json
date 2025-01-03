@@ -1,12 +1,12 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: GloRilla)",
-  "num_followers": 447341,
+  "num_followers": 447379,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z24gvwAAAABXG1ErVzWXdcb75BDMSQ8u",
+  "snapshot_id": "Z3bGJAAAAACgDz2kqEiaVzxWACOWqTqX",
   "tracks": [
     {
       "added_at": "2024-12-27 03:36:31",
@@ -79,6 +79,22 @@
     {
       "added_at": "2024-12-27 03:36:31",
       "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "added_at": "2024-12-27 03:36:31",
+      "album": {
         "name": "Slime Season 2",
         "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
       },
@@ -117,20 +133,36 @@
       "url": "https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5"
     },
     {
-      "added_at": "2024-12-27 03:36:31",
+      "added_at": "2025-01-02 17:00:20",
       "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+        "name": "ALRIGHT OK",
+        "url": "https://open.spotify.com/album/3qgIiX5tMvks68Mc7MIhpW"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
         }
       ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+      "duration_ms": 171620,
+      "name": "ALRIGHT OK",
+      "url": "https://open.spotify.com/track/5sy1XZd8J7kwN14qUO6E2d"
+    },
+    {
+      "added_at": "2025-01-02 17:00:20",
+      "album": {
+        "name": "The Old Guard Is Dead",
+        "url": "https://open.spotify.com/album/4vZPp9zXVRH5TCcTcoWJMJ"
+      },
+      "artists": [
+        {
+          "name": "Ghais Guevara",
+          "url": "https://open.spotify.com/artist/7zQ4NNGWgCVWU80Rg6dXOH"
+        }
+      ],
+      "duration_ms": 184028,
+      "name": "The Old Guard Is Dead",
+      "url": "https://open.spotify.com/track/1pfw03FOjkDE3GcjlsNIHA"
     },
     {
       "added_at": "2024-12-27 03:36:31",
@@ -155,6 +187,66 @@
       "duration_ms": 165965,
       "name": "Shit Show (feat. Veeze & Lil Yachty)",
       "url": "https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM"
+    },
+    {
+      "added_at": "2025-01-02 17:00:20",
+      "album": {
+        "name": "EROS",
+        "url": "https://open.spotify.com/album/4HNWSfU1fB4LxA290mo07b"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "duration_ms": 134166,
+      "name": "fuh",
+      "url": "https://open.spotify.com/track/4EETwYyHMcqtBbzb1t5Mud"
+    },
+    {
+      "added_at": "2025-01-02 17:00:20",
+      "album": {
+        "name": "WHAT'S UP WHAT'S GOOD Vol.1",
+        "url": "https://open.spotify.com/album/4ZFZpN3WSf2ai8gpmgDl6F"
+      },
+      "artists": [
+        {
+          "name": "Elin Lee",
+          "url": "https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx"
+        },
+        {
+          "name": "\u859b\u8a52\u4e39",
+          "url": "https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z"
+        },
+        {
+          "name": "BRADD",
+          "url": "https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "Silent Choir (feat. BRADD & aDAN)",
+      "url": "https://open.spotify.com/track/3CUTjUjehpLno5QTkLpltn"
+    },
+    {
+      "added_at": "2025-01-02 17:00:20",
+      "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/172et2QtVh9vh9KX29SBrF"
+      },
+      "artists": [
+        {
+          "name": "Sun D",
+          "url": "https://open.spotify.com/artist/24J2rPxnR6It1aBDVsJnPE"
+        },
+        {
+          "name": "Manutized",
+          "url": "https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS"
+        }
+      ],
+      "duration_ms": 175578,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/3sdNMbj07fP1MDSckSVS0i"
     },
     {
       "added_at": "2024-12-27 03:36:31",
@@ -1503,42 +1595,6 @@
     {
       "added_at": "2024-12-27 03:36:31",
       "album": {
-        "name": "PALING BERAT",
-        "url": "https://open.spotify.com/album/7BljWhcAKDUs9p1QOusjvU"
-      },
-      "artists": [
-        {
-          "name": "Wicigo Shawty",
-          "url": "https://open.spotify.com/artist/11YdJ9365MP5iprTsq8plx"
-        },
-        {
-          "name": "Quai",
-          "url": "https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c"
-        }
-      ],
-      "duration_ms": 153729,
-      "name": "sejauh mimpi",
-      "url": "https://open.spotify.com/track/3gm6ofKa8wgWaj4JPuxBdX"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "AOS",
-        "url": "https://open.spotify.com/album/1rY6739giM1uBqMwc1stBe"
-      },
-      "artists": [
-        {
-          "name": "KID FRESINO",
-          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "AOS",
-      "url": "https://open.spotify.com/track/7wUXGC5UqNIL8Rj4siTwzr"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
         "name": "Dont Wanna C Me Rich",
         "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
       },
@@ -1611,42 +1667,6 @@
     {
       "added_at": "2024-12-27 03:36:31",
       "album": {
-        "name": "Denied",
-        "url": "https://open.spotify.com/album/1CyfGor0jCs9BeUZIOPRCG"
-      },
-      "artists": [
-        {
-          "name": "Kohjiya",
-          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
-        },
-        {
-          "name": "Bonbero",
-          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Denied",
-      "url": "https://open.spotify.com/track/3WKlZc2q9VWchjXALyaftR"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "Lisa Lisa",
-        "url": "https://open.spotify.com/album/1wS1Jg2pk1SH3mVVHvMsBq"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9jizz",
-          "url": "https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY"
-        }
-      ],
-      "duration_ms": 208486,
-      "name": "Lisa Lisa",
-      "url": "https://open.spotify.com/track/33Nu5zTbkpFbeaW3t06wNL"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
         "name": "I Love My Life",
         "url": "https://open.spotify.com/album/2zwfLXppN9Yc2FW53LIQfX"
       },
@@ -1659,22 +1679,6 @@
       "duration_ms": 170181,
       "name": "I Love My Life",
       "url": "https://open.spotify.com/track/1zVwPx2pMgTOjlEKx3xK9q"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "Big Dog",
-        "url": "https://open.spotify.com/album/1N9k3SYJcmzarGYohamLiD"
-      },
-      "artists": [
-        {
-          "name": "Maino",
-          "url": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
-        }
-      ],
-      "duration_ms": 121150,
-      "name": "Big Dog",
-      "url": "https://open.spotify.com/track/5MjSfB61yXqBMz2yRrY9vR"
     },
     {
       "added_at": "2024-12-27 03:36:31",
@@ -1747,26 +1751,6 @@
       "duration_ms": 190000,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/02FNEPzq6bTUOXoYc8nmso"
-    },
-    {
-      "added_at": "2024-12-27 03:36:31",
-      "album": {
-        "name": "Float 2 London",
-        "url": "https://open.spotify.com/album/1SQNd5rYIqvCYYJzm1tMJx"
-      },
-      "artists": [
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        },
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 159144,
-      "name": "Spend That Bag",
-      "url": "https://open.spotify.com/track/72MhvtK0weBzGreuqLKT6O"
     },
     {
       "added_at": "2024-12-27 03:36:31",

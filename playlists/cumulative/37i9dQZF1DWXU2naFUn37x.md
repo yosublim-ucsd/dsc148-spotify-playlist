@@ -2,9 +2,9 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Artie e Niky Savage sulla cover della playlist con il top dello street rap italiano 🔥
+> Simba e Tony Boy sulla cover della playlist con il top dello street rap italiano 🔥
 
-686 songs - 1 day 7 hr 32 min
+687 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/album/3j6szanjkO1lTjsL6xAPeo) | 2:10 | 2023-12-01 | 2023-12-15 |
 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 | 2023-03-24 | 2023-06-16 |
 | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/album/1gA7NrXfOvJY7nXtfqaWqp) | 2:19 | 2024-08-08 | 2024-10-04 |
+| [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/track/6Ajvu1afirjocbZK934qqh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/album/5HQUIQmVxiUwZ8975mSIMH) | 3:07 | 2025-01-03 |  |
 | [B](https://open.spotify.com/track/3YqNZb0hxMsNdB3CJuHNCI) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:29 | 2024-10-10 | 2024-11-22 |
 | [BABA](https://open.spotify.com/track/5VIZljI1FY58fuwEL3yT9g) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [BABA](https://open.spotify.com/album/4vtojtO2Y0KT9x3nkkvLcK) | 2:35 | 2024-12-05 | 2024-12-13 |
 | [BAD BITCH \(feat\. Niky Savage\)](https://open.spotify.com/track/25m72KhnYc55RqyvE2bydZ) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [BAD BITCH \(feat\. Niky Savage\)](https://open.spotify.com/album/1LarPsLpKUptL4NOy71JnP) | 3:00 | 2024-03-21 | 2024-06-01 |
@@ -573,7 +574,7 @@
 | [Soldi Puliti](https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Soldi Puliti](https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4) | 2:39 | 2022-05-11 | 2022-11-25 |
 | [SOLITE PARE \(feat\. tha Supreme & Sfera Ebbasta\)](https://open.spotify.com/track/3NbehQmQsyuN17EP7dW5mJ) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:31 | 2022-05-11 | 2022-05-27 |
 | [SON FATTO COSÌ](https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [SON FATTO COSÌ](https://open.spotify.com/album/6wQFQlu9RJDpVd4OigS5nS) | 2:53 | 2023-05-04 | 2023-10-06 |
-| [Sotto Pressione \(feat\. Artie 5ive\)](https://open.spotify.com/track/4Ln4T8IJbEQRH9V0jtrAr8) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [No Pressure, No Diamonds](https://open.spotify.com/album/5gRvTwwvyRN2vYNBM9hmQu) | 3:10 | 2024-10-24 |  |
+| [Sotto Pressione \(feat\. Artie 5ive\)](https://open.spotify.com/track/4Ln4T8IJbEQRH9V0jtrAr8) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [No Pressure, No Diamonds](https://open.spotify.com/album/5gRvTwwvyRN2vYNBM9hmQu) | 3:10 | 2024-10-24 | 2025-01-03 |
 | [SPACCIATORE \(feat\. Gazo, Vale Pain, Keta, Nko\)](https://open.spotify.com/track/61CX76RLIHI1RELTfVT0mM) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:46 | 2022-05-26 | 2022-06-03 |
 | [Spedizione punitiva](https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Spedizione punitiva](https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW) | 2:36 | 2023-11-17 | 2024-01-05 |
 | [SPENDERE \(feat\. Simba La Rue\)](https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:04 | 2024-10-03 |  |

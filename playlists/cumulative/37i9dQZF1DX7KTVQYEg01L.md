@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7KTVQYEg01L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7KTVQYEg01L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7KTVQYEg01L)
 
-### [Tenha um Ótimo Natal!](https://open.spotify.com/playlist/37i9dQZF1DX7KTVQYEg01L)
+### [Tenha um Ótimo Dia!](https://open.spotify.com/playlist/37i9dQZF1DX7KTVQYEg01L)
 
-> celebre o natal no maior astral!
+> celebre seu dia no maior astral!
 
 318 songs - 18 hr 18 min
 

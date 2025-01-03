@@ -6633,6 +6633,24 @@
     },
     {
       "album": {
+        "name": "Du \u00e4r nog",
+        "url": "https://open.spotify.com/album/0iCL5mpUCWSIdc7e4mgQ4V"
+      },
+      "artists": [
+        {
+          "name": "Daniel Adams-Ray",
+          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226105,
+      "name": "Du \u00e4r nog",
+      "url": "https://open.spotify.com/track/4QZwUG1znAUQ7TH7HNyGK9"
+    },
+    {
+      "album": {
         "name": "Du \u00e4r tagen",
         "url": "https://open.spotify.com/album/59N0HnARGMC1Tvy6nUy94y"
       },
@@ -16957,6 +16975,24 @@
     },
     {
       "album": {
+        "name": "L\u00e4ngesen",
+        "url": "https://open.spotify.com/album/0Fo160cTKdluGDAueV4aAy"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "L\u00e4ngesen",
+      "url": "https://open.spotify.com/track/40yRQySDfSc5I6SoZzRLxZ"
+    },
+    {
+      "album": {
         "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
         "url": "https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP"
       },
@@ -21984,7 +22020,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 149059,
       "name": "Ramlar jag s\u00e5 faller allt",
       "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
@@ -25484,7 +25520,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 166043,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
@@ -27185,6 +27221,24 @@
     },
     {
       "album": {
+        "name": "Terapi",
+        "url": "https://open.spotify.com/album/1PclVXly9xQi0c2U1pcbVZ"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172386,
+      "name": "Terapi",
+      "url": "https://open.spotify.com/track/7Ck9S4q8vVfdyEkggerGB0"
+    },
+    {
+      "album": {
         "name": "Terminal (feat. Haley Bridge)",
         "url": "https://open.spotify.com/album/6gHfQ7fZIFmFCxbeTJcuU4"
       },
@@ -28276,7 +28330,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 147176,
       "name": "Truls M\u00f6reg\u00e5rdh",
       "url": "https://open.spotify.com/track/5Qn15a2y5kiUMbybqJcoGB"

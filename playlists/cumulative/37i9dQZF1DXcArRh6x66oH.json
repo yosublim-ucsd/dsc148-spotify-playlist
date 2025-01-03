@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Don't close the door",
+        "url": "https://open.spotify.com/album/2UDfmJ7fuRbNrGecZBHJzn"
+      },
+      "artists": [
+        {
+          "name": "Danny Anderson",
+          "url": "https://open.spotify.com/artist/2ZcgnUFe9X6KCZhuY2nxmi"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194129,
+      "name": "Don't close the door",
+      "url": "https://open.spotify.com/track/4MgRrQeubyqQAwl76ZMUyl"
+    },
+    {
+      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 272821,
       "name": "Father\u2019s S\u00f8n - Acoustic",
       "url": "https://open.spotify.com/track/2kfV0ZcYANdBXvfvGQGXUz"
@@ -3369,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "Madeline",
+        "url": "https://open.spotify.com/album/0CSkndwqaDGbN4LOs6Ws2a"
+      },
+      "artists": [
+        {
+          "name": "Sons of Habit",
+          "url": "https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/7IW0YwaqaIJUTkCsayk4cs"
+    },
+    {
+      "album": {
         "name": "J.R. Carroll | OurVinyl Sessions",
         "url": "https://open.spotify.com/album/72089SOlxYZ4GbnDxqaXgQ"
       },
@@ -3818,6 +3854,24 @@
       "duration_ms": 197969,
       "name": "Nothing's News",
       "url": "https://open.spotify.com/track/2ZwTsj0dsoutw9iLjhOfX8"
+    },
+    {
+      "album": {
+        "name": "No Vacancy",
+        "url": "https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241375,
+      "name": "Ode To Bourbon",
+      "url": "https://open.spotify.com/track/4kvCtReby19JPkePLwy8Pq"
     },
     {
       "album": {

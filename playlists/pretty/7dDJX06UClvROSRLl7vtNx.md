@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain](/playlists/plain/7dDJX06UClvROSRLl7vtNx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7dDJX06UClvROSRLl7vtNx)
 
-### [Beach Lounge 2024 🌴 IBIZA Summer Chillout](https://open.spotify.com/playlist/7dDJX06UClvROSRLl7vtNx)
+### [Beach Lounge 2025 🌴 IBIZA Summer Chillout](https://open.spotify.com/playlist/7dDJX06UClvROSRLl7vtNx)
 
-> Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
+> Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 75,516 likes - 212 songs - 9 hr 14 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 75,533 likes - 212 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 211 | [Vision](https://open.spotify.com/track/2zctpVRHCcEcSjh9RpASl4) | [Ødyssey](https://open.spotify.com/artist/6qLB9SoM25z2JDFBcgvJ8G) | [Vision](https://open.spotify.com/album/5XFXTv8s2KTfLMGUmIK1ef) | 2:45 |
 | 212 | [I Don't Need You](https://open.spotify.com/track/08hBQCNt6DRzZQs8gkJEIL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [I Don't Need You](https://open.spotify.com/album/0qC3o6ssC7IS7bEZ3fQaBn) | 3:00 |
 
-Snapshot ID: `AABGF6uZy/+CC4BoUKePeFknJ3YWroWe`
+Snapshot ID: `AABGGsh+JVVNY5DofXJK0fwt00tJKL+7`

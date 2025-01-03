@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Sliki.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Ares.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -550,6 +550,24 @@
       "duration_ms": 198000,
       "name": "Aina - Julma H Remix",
       "url": "https://open.spotify.com/track/2fXkS7KWjPXjuwnOLv6WQJ"
+    },
+    {
+      "album": {
+        "name": "Ainutlaatuinen",
+        "url": "https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160177,
+      "name": "Ainutlaatuinen",
+      "url": "https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4"
     },
     {
       "album": {
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 168037,
       "name": "Elina",
       "url": "https://open.spotify.com/track/2wlcMM4bMkdl0UZPclmqLP"
@@ -4330,7 +4348,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 127023,
       "name": "jeesus",
       "url": "https://open.spotify.com/track/5BqTedQR0QEN7UkyvEKNeS"
@@ -7983,6 +8001,24 @@
     },
     {
       "album": {
+        "name": "Menestys on paras tapa kostaa",
+        "url": "https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165484,
+      "name": "Menestys on paras tapa kostaa",
+      "url": "https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8"
+    },
+    {
+      "album": {
         "name": "Menet\u00e4n mun j\u00e4rjen",
         "url": "https://open.spotify.com/album/6em8daieCMwCluji0mAkRZ"
       },
@@ -8042,6 +8078,24 @@
       "duration_ms": 151051,
       "name": "Menneisyys",
       "url": "https://open.spotify.com/track/1bsOGitVlRlz2T1deVPXcY"
+    },
+    {
+      "album": {
+        "name": "Menolippu",
+        "url": "https://open.spotify.com/album/3rNuYNwHjSYQoCECmXkFzo"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170041,
+      "name": "Menolippu",
+      "url": "https://open.spotify.com/track/6dyhgkxZnFiCRDHOFBY6Nt"
     },
     {
       "album": {
@@ -8856,7 +8910,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 187196,
       "name": "My\u00f6t\u00e4virta (feat. Kojo & Shabu)",
       "url": "https://open.spotify.com/track/3OdKGNIndt3A6pfaF7BLAi"
@@ -9146,7 +9200,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 165845,
       "name": "Niin kuin s\u00e4",
       "url": "https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW"
@@ -9890,6 +9944,28 @@
       "duration_ms": 170911,
       "name": "Palamaan",
       "url": "https://open.spotify.com/track/7xfSNbCBxTRv5KhOQweOcf"
+    },
+    {
+      "album": {
+        "name": "Paletti (feat. Sexmane)",
+        "url": "https://open.spotify.com/album/6K8JX9fixwTxSFYOd4LqVy"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183777,
+      "name": "Paletti (feat. Sexmane)",
+      "url": "https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX"
     },
     {
       "album": {
@@ -11857,6 +11933,24 @@
     },
     {
       "album": {
+        "name": "Sinilev\u00e4",
+        "url": "https://open.spotify.com/album/755dC9Fq9chBrDlJ9QvpvC"
+      },
+      "artists": [
+        {
+          "name": "LAVAREDO",
+          "url": "https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137375,
+      "name": "Sinilev\u00e4",
+      "url": "https://open.spotify.com/track/2x7jDG4VYwbNDr0Yyvho1P"
+    },
+    {
+      "album": {
         "name": "Sinusta",
         "url": "https://open.spotify.com/album/21a06F4CGo8HMw0NnPFyrl"
       },
@@ -13248,7 +13342,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 182950,
       "name": "Therapy Session VII: Compass",
       "url": "https://open.spotify.com/track/13FtDnR1W6DOG5ZtxJ8nKu"

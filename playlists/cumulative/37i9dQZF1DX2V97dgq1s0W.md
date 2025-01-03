@@ -2,7 +2,7 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Sasha Keable
+> The best voices in R&B\. Cover: Melina Malone
 
 395 songs - 20 hr 46 min
 

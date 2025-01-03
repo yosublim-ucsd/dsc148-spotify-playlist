@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Blaya
+> Uma playlist de pura alma pop! Foto: Nena, Luís Trigacheiro
 
-161 songs - 8 hr 31 min
+162 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Se Não Houvesse Amor](https://open.spotify.com/track/2TzA35bQJ6S2etM3fVuEcw) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Se Não Houvesse Amor](https://open.spotify.com/album/34unpI0GpqY3gyd4xCgRxe) | 3:32 | 2024-06-27 | 2024-11-29 |
 | [Segredos](https://open.spotify.com/track/50pUzr6GYYWvr3jCSDPlKH) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [9](https://open.spotify.com/album/2fBNDKu8TOe6HXY5L7gCV5) | 3:30 | 2024-06-27 | 2024-11-29 |
 | [Sem Hora Marcada](https://open.spotify.com/track/6bLIR9R5T73E2idV7vUZQ1) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Sem Hora Marcada](https://open.spotify.com/album/4QFpbqxcgIEylU0I932Khs) | 4:02 | 2024-06-27 | 2024-11-29 |
-| [Sem ti no Natal](https://open.spotify.com/track/2WwNInqhqXBUhCcltFKuUT) | [Umbelino](https://open.spotify.com/artist/2F5ZWFm3CDZ95LgLWIksUW) | [Sem ti no Natal](https://open.spotify.com/album/11wrhkOUKDl6Vu3vYW7OOA) | 2:46 | 2024-12-06 |  |
+| [Sem ti no Natal](https://open.spotify.com/track/2WwNInqhqXBUhCcltFKuUT) | [Umbelino](https://open.spotify.com/artist/2F5ZWFm3CDZ95LgLWIksUW) | [Sem ti no Natal](https://open.spotify.com/album/11wrhkOUKDl6Vu3vYW7OOA) | 2:46 | 2024-12-06 | 2025-01-03 |
 | [Silêncio e Tanta Gente](https://open.spotify.com/track/1ficHVddpZ4rCfgExZXYpd) | [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [Silêncio e Tanta Gente](https://open.spotify.com/album/7f5JNyAOv8B9Ol08te8nF3) | 2:38 | 2024-06-27 | 2024-07-05 |
 | [SINAIS](https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [SINAIS](https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K) | 3:26 | 2024-07-11 | 2024-09-20 |
 | [Sincero](https://open.spotify.com/track/49oZxIeKVg4XMSXn3h2ICL) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Sincero](https://open.spotify.com/album/5d33B15WZGhVGZkMsK8q0i) | 2:04 | 2024-06-27 | 2024-09-20 |
@@ -167,6 +167,7 @@
 | [Tu Amor](https://open.spotify.com/track/3pXyAh3uYKEehDa6EcHRI8) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Tu Amor](https://open.spotify.com/album/2IqpqWDTt6n9oLHboUZkaB) | 3:53 | 2024-06-27 | 2024-07-19 |
 | [Tu És Capaz](https://open.spotify.com/track/7FWthtHNaVxbg5C1aQ68Fl) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Tu És Capaz](https://open.spotify.com/album/0ZDVybzvo8hbZ2IUWxK4Vz) | 2:53 | 2024-08-15 |  |
 | [Vai Vaguear](https://open.spotify.com/track/1G59cxn9MKkmt9Sy41rYmv) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Vai Vaguear](https://open.spotify.com/album/4pqOlvUgjCoCPVqzvPXfcB) | 3:30 | 2024-09-26 | 2024-10-11 |
+| [À Espera Do Fim](https://open.spotify.com/track/3HKfGY4DN6qvjTWsrxINRL) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [À Espera Do Fim](https://open.spotify.com/album/2thqEo3jisGUBgPkyVOkwP) | 3:18 | 2025-01-03 |  |
 | [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 | 2024-07-18 | 2024-09-06 |
 | [Último Esforço](https://open.spotify.com/track/1WShOxlHNjiCvaAQAJ8Epp) | [Umbelino](https://open.spotify.com/artist/2F5ZWFm3CDZ95LgLWIksUW) | [Último Esforço](https://open.spotify.com/album/6MHGpH9jWamp1WKPsssgpZ) | 3:19 | 2024-10-24 | 2024-11-29 |
 

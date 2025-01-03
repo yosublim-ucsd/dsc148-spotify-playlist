@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 70552,
+  "num_followers": 70576,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3M0AAAAAAAbiNT6eBlCUFoB0i4soh62",
+  "snapshot_id": "Z3SFgAAAAAB/4SUA53G0AAWwseWFzN1I",
   "tracks": [
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 180706,
-      "name": "Animales Sueltos",
-      "url": "https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj"
+      "duration_ms": 350712,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 350712,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
+      "duration_ms": 180706,
+      "name": "Animales Sueltos",
+      "url": "https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj"
     },
     {
       "added_at": null,
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+        "name": "Besos en el Ascensor",
+        "url": "https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03"
       },
       "artists": [
+        {
+          "name": "Manu Pir\u00f3",
+          "url": "https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 203080,
-      "name": "Voy a Seguir Bailando",
-      "url": "https://open.spotify.com/track/6fOAa742Fu17tI39hrtnDN"
+      "duration_ms": 190500,
+      "name": "Besos en el Ascensor",
+      "url": "https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a"
     },
     {
       "added_at": null,

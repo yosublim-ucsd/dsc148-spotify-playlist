@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 345000,
       "name": "Ngidle",
       "url": "https://open.spotify.com/track/4EHnPTebdfncfJ3Qez0hFP"
@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Ujesu Ulidwala (Live)",
+        "url": "https://open.spotify.com/album/6Rfh86XAPnqbZnd7Mr2ptJ"
+      },
+      "artists": [
+        {
+          "name": "David TheKing",
+          "url": "https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399705,
+      "name": "Ujesu Ulidwala - Live",
+      "url": "https://open.spotify.com/track/7LamEiavI6OfgyAmyI15CH"
+    },
+    {
+      "album": {
         "name": "Ukholo Lwam (A Song of Hope)",
         "url": "https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf"
       },
@@ -1500,6 +1518,24 @@
       "duration_ms": 272640,
       "name": "Umbhedesho - Live",
       "url": "https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9"
+    },
+    {
+      "album": {
+        "name": "Umkhuleko We Bandla",
+        "url": "https://open.spotify.com/album/4hlNaELIOZhmQbjLq0Yxum"
+      },
+      "artists": [
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507000,
+      "name": "Umkhuleko We Bandla",
+      "url": "https://open.spotify.com/track/2CFDmYlaldjUNC00kNmVRe"
     },
     {
       "album": {

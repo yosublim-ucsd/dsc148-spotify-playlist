@@ -2244,7 +2244,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 178125,
       "name": "Alibi - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/519rzZg4a0OfzmQqBzyEB2"
@@ -2550,7 +2550,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 161595,
       "name": "Amore Mio",
       "url": "https://open.spotify.com/track/1z5ZZ8pSPvcepnf9j4xFb2"
@@ -5130,7 +5130,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
@@ -11086,7 +11086,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 150834,
       "name": "Dzi\u0119ki, \u017ce jeste\u015b",
       "url": "https://open.spotify.com/track/6mtyMWr8cDvLroVQgR3UC9"
@@ -11578,7 +11578,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 175582,
       "name": "Erotyczne Pif-Paf",
       "url": "https://open.spotify.com/track/1xHbeaBnk5tV1BEInmVKlw"
@@ -16688,7 +16688,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 199512,
       "name": "ITALODISCO",
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
@@ -19444,7 +19444,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 141288,
       "name": "Kocie oczy",
       "url": "https://open.spotify.com/track/3d0CMq8PaxTOaZoGnpa8to"
@@ -20500,6 +20500,32 @@
     {
       "album": {
         "name": "Last night",
+        "url": "https://open.spotify.com/album/7L9CSaehVDvzqXqRvZAIrl"
+      },
+      "artists": [
+        {
+          "name": "Hilary Incognito",
+          "url": "https://open.spotify.com/artist/6udTUV1aI2aPaTMAhLBtVz"
+        },
+        {
+          "name": "FourNine",
+          "url": "https://open.spotify.com/artist/4t5tP3pvrx50ONnbos94lz"
+        },
+        {
+          "name": "p3",
+          "url": "https://open.spotify.com/artist/7GsITNaWwtgl2FCpmNdxcH"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Last night",
+      "url": "https://open.spotify.com/track/4Xch29YoOYG3qsJoXXGaRy"
+    },
+    {
+      "album": {
+        "name": "Last night",
         "url": "https://open.spotify.com/album/3rT4sRkKWG6qy5wFBouNFw"
       },
       "artists": [
@@ -20518,7 +20544,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 123428,
       "name": "Last night",
       "url": "https://open.spotify.com/track/6uup1nPNzgIDtiYo0Up0U5"
@@ -21852,7 +21878,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -21948,7 +21974,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 159463,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/38GSwzJGcEnENqcrZ8dADJ"
@@ -28618,7 +28644,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 187500,
       "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
       "url": "https://open.spotify.com/track/47It9cPiMz74aAXKMAbfO0"
@@ -28842,7 +28868,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -29710,7 +29736,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 189428,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/6wyJltdOuSjUt1bdwO4QCZ"
@@ -30656,7 +30682,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 192021,
       "name": "Pi\u0119knie p\u0142yniesz",
       "url": "https://open.spotify.com/track/5XIAnKNsdUim7GQsekL3uE"
@@ -30744,7 +30770,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 155056,
       "name": "Plaster",
       "url": "https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO"
@@ -34164,7 +34190,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -36644,7 +36670,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -36818,7 +36844,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 195701,
       "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
       "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
@@ -38874,7 +38900,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
@@ -38976,7 +39002,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -40746,7 +40772,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 199235,
       "name": "Vem Dancar Kuduro",
       "url": "https://open.spotify.com/track/6ku3i5WNrsY3qhOq6ua9TL"
@@ -40802,7 +40828,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 202506,
       "name": "VHS",
       "url": "https://open.spotify.com/track/7t3iKbFf34FK5syqppOlIx"
@@ -41730,7 +41756,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -42280,7 +42306,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 191304,
       "name": "Woda Ksi\u0119\u017cycowa",
       "url": "https://open.spotify.com/track/1usq8LPUPjpF1TxLXTOJ82"
@@ -44556,7 +44582,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 195649,
       "name": "Z\u0142amane serce jest OK",
       "url": "https://open.spotify.com/track/4588ZH7944EUrbDvdkr2sA"

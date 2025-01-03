@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Igo",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: asl33p",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -864,7 +864,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 269973,
       "name": "Chcia\u0142bym z tob\u0105 stworzy\u0107 dom",
       "url": "https://open.spotify.com/track/5CEkcTSgwfGpInXUaPTBXZ"
@@ -2052,6 +2052,24 @@
       "duration_ms": 220500,
       "name": "Garda",
       "url": "https://open.spotify.com/track/1YGUvPdGZSRgaozp4PBSRs"
+    },
+    {
+      "album": {
+        "name": "urbancard ep",
+        "url": "https://open.spotify.com/album/1hHZSUz9tnpwLBDbfiYJ0L"
+      },
+      "artists": [
+        {
+          "name": "asl33p",
+          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154646,
+      "name": "gasn\u0105",
+      "url": "https://open.spotify.com/track/4xXYIuuvKLj9YTKK6Q8M1P"
     },
     {
       "album": {
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 212773,
       "name": "Na no\u017ce",
       "url": "https://open.spotify.com/track/2Ug5alwLaG2oDaUa7D4mtg"
@@ -5714,7 +5732,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 300640,
       "name": "Ostatnie",
       "url": "https://open.spotify.com/track/5tHuq9Fd9ASatOwM1JPyUL"
@@ -7375,6 +7393,24 @@
     },
     {
       "album": {
+        "name": "Stanzie",
+        "url": "https://open.spotify.com/album/6Bx7DU5TFgOc3dCKA5eKBX"
+      },
+      "artists": [
+        {
+          "name": "Formeo",
+          "url": "https://open.spotify.com/artist/58VDkUTKHrrr5b0P4yszTO"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240499,
+      "name": "Stanzie",
+      "url": "https://open.spotify.com/track/4p8G7m9wdkI7NO0yt7OfCU"
+    },
+    {
+      "album": {
         "name": "OMEN (Deluxe)",
         "url": "https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0"
       },
@@ -8354,6 +8390,24 @@
       "duration_ms": 146636,
       "name": "uciekaj!",
       "url": "https://open.spotify.com/track/1cMJPa55C62HlcQRFw0Hjj"
+    },
+    {
+      "album": {
+        "name": "UCIEKAM",
+        "url": "https://open.spotify.com/album/5Y8eLJWfXoVqxuwmmvx49X"
+      },
+      "artists": [
+        {
+          "name": "Gverilla",
+          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144003,
+      "name": "UCIEKAM",
+      "url": "https://open.spotify.com/track/4MLwDuUPotk1Ygf5JdkvOb"
     },
     {
       "album": {

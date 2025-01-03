@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Bassline Vandal",
+        "url": "https://open.spotify.com/album/5wlxgzkOV92T2RHqMGXoeM"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bassline Vandal",
+      "url": "https://open.spotify.com/track/1GUMaM9D1qF2eHxMy7KwXT"
+    },
+    {
+      "album": {
         "name": "Battlefield",
         "url": "https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj"
       },

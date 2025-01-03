@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain](/playlists/plain/3wI0prya1veVHKQOtLbmxB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3wI0prya1veVHKQOtLbmxB)
 
-### [songs to fall in love to \| love songs 2024](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
+### [songs to fall in love to \| love songs 2025](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
 
 > Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 139,348 likes - 98 songs - 5 hr 58 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 139,341 likes - 98 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 | 97 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 |
 | 98 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 
-Snapshot ID: `AAAJDVK2ifgapegGXRn1QvNZsKKXzKdw`
+Snapshot ID: `AAAJDoF1KJzJ6y6kAmPKoMKZ365Y02p/`

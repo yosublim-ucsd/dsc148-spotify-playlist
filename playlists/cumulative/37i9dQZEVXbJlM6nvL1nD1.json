@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 225994,
       "name": "Alto Troyanaje",
       "url": "https://open.spotify.com/track/50qm2o9IDiRpn62f3NMzw8"
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 207306,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 184462,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
@@ -3928,6 +3928,24 @@
       "duration_ms": 237283,
       "name": "Cumbia",
       "url": "https://open.spotify.com/track/4wR4cWUWnGUaAE0U4taZJv"
+    },
+    {
+      "album": {
+        "name": "Cumbia Chonera",
+        "url": "https://open.spotify.com/album/4CKx5YMxxworuTXxxZMVar"
+      },
+      "artists": [
+        {
+          "name": "Don Medardo y sus Players Mauricio Luzuriaga",
+          "url": "https://open.spotify.com/artist/3FrdNjfGP8dYVSidGYRFDP"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241486,
+      "name": "Cumbia Chonera",
+      "url": "https://open.spotify.com/track/0PniWiJeVL4tyF4BVItzHW"
     },
     {
       "album": {
@@ -6226,7 +6244,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 192053,
       "name": "Es Un Secreto",
       "url": "https://open.spotify.com/track/1AddbBdKFz8wdqatGVSsYS"
@@ -6244,10 +6262,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
+    },
+    {
+      "album": {
+        "name": "Escr\u00edbeme",
+        "url": "https://open.spotify.com/album/6bF7ZijN7c8X5UNdIx6dcf"
+      },
+      "artists": [
+        {
+          "name": "Tannya Hidalgo",
+          "url": "https://open.spotify.com/artist/5NPmYreacbGeckXUCuMRaN"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233901,
+      "name": "Escr\u00edbeme",
+      "url": "https://open.spotify.com/track/37UDNSkoQnK8Y8t7AjIaLh"
     },
     {
       "album": {
@@ -6814,7 +6850,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 219574,
       "name": "Flow Cali",
       "url": "https://open.spotify.com/track/3F8vudBbfHSi4FhVxgi0Ns"
@@ -7494,6 +7530,24 @@
       "duration_ms": 177450,
       "name": "GRACIAS POR NADA",
       "url": "https://open.spotify.com/track/1U3A66OHQyTu4N2QTMsP86"
+    },
+    {
+      "album": {
+        "name": "Como en un Baile",
+        "url": "https://open.spotify.com/album/57joXjPA3hwgC1Zs0eZjZ2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488986,
+      "name": "Guayacan Cumbiando: Cumbia Sampuesana / Cumbia Cienaguera / Cumbia del Caribe / Amaneciendo / El Negro Jose / Asi Empezaron Papa y Mama / Se Me Perdio la Cadenita / La Piragua - Salsa",
+      "url": "https://open.spotify.com/track/0rzSJZUGXKTvcEV1MJMLvP"
     },
     {
       "album": {
@@ -8871,6 +8925,28 @@
     },
     {
       "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220020,
+      "name": "La Colegiala",
+      "url": "https://open.spotify.com/track/0GDWfiGkJsArr9mNYjfMa1"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -10022,6 +10098,24 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
+      "album": {
+        "name": "Dimensi\u00f3n Latina '75",
+        "url": "https://open.spotify.com/album/4LVzen0aTeqUcVZCOeEuEW"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/0zDO5avDZSXRwWzfuguIRb"
     },
     {
       "album": {
@@ -12109,6 +12203,24 @@
     },
     {
       "album": {
+        "name": "30 Aniversario Vol. 60",
+        "url": "https://open.spotify.com/album/0VQfFm37VvolHicAUP5Q6y"
+      },
+      "artists": [
+        {
+          "name": "Don Medardo y sus Players - Producciones Medarluz",
+          "url": "https://open.spotify.com/artist/2hpC7X87BL6Jfzp8QCkxnj"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316293,
+      "name": "Mosaico Manabita",
+      "url": "https://open.spotify.com/track/4Vi23da0SOsaBK4sphSn63"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -12656,7 +12768,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 225654,
       "name": "NO ME QUIERO CASAR",
       "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
@@ -12792,7 +12904,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
@@ -13220,7 +13332,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 214120,
       "name": "Pa' Que La Pases Bien",
       "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
@@ -15072,7 +15184,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 150927,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/0zNMdrDEs5N0JPQ7RYQZln"
@@ -16282,7 +16394,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
@@ -17036,7 +17148,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 170971,
       "name": "Si Veo a Tu Mam\u00e1",
       "url": "https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F"
@@ -17330,7 +17442,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 207746,
       "name": "SORRY 4 THAT MUCH",
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
@@ -18545,6 +18657,24 @@
     },
     {
       "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/5rGGnoonof7UyTdqyChTbb"
+      },
+      "artists": [
+        {
+          "name": "Tannya Hidalgo",
+          "url": "https://open.spotify.com/artist/5NPmYreacbGeckXUCuMRaN"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189911,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/3Rk3TcN5Zu0x3jCnFKfyml"
+    },
+    {
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -18748,7 +18878,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 176298,
       "name": "Ultra Complicado",
       "url": "https://open.spotify.com/track/1kcn16i5Tmp8udmHcahvi7"
@@ -19676,7 +19806,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"

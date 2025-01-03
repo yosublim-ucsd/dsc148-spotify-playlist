@@ -2121,6 +2121,32 @@
     },
     {
       "album": {
+        "name": "After Parties & Aeroplanes",
+        "url": "https://open.spotify.com/album/76gqFX9pIgy9WzF92ecoSc"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Wally Callerio",
+          "url": "https://open.spotify.com/artist/17ONczWNpCXkcRu40gy7cK"
+        },
+        {
+          "name": "Mikey V.",
+          "url": "https://open.spotify.com/artist/2BnKT3mTPKt0eKTszhRq7u"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380374,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4Slv79Cvbf0dfw1LlRy8Qm"
+    },
+    {
+      "album": {
         "name": "Matters of the Heart",
         "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 576607,
+  "num_followers": 576626,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -643,18 +643,26 @@
     {
       "added_at": "2024-12-16 05:11:53",
       "album": {
-        "name": "Cafe Bossa",
-        "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
       },
       "artists": [
         {
-          "name": "Sitti",
-          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
+          "name": "Lipip",
+          "url": "https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2"
+        },
+        {
+          "name": "Asiong De Luna",
+          "url": "https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW"
+        },
+        {
+          "name": "esseca",
+          "url": "https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Para Sa Akin",
-      "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
+      "duration_ms": 259569,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx"
     },
     {
       "added_at": "2024-12-16 05:11:53",
@@ -679,26 +687,18 @@
     {
       "added_at": "2024-12-16 05:11:53",
       "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
+        "name": "Cafe Bossa",
+        "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
       },
       "artists": [
         {
-          "name": "Lipip",
-          "url": "https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2"
-        },
-        {
-          "name": "Asiong De Luna",
-          "url": "https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW"
-        },
-        {
-          "name": "esseca",
-          "url": "https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr"
+          "name": "Sitti",
+          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
         }
       ],
-      "duration_ms": 259569,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx"
+      "duration_ms": 186240,
+      "name": "Para Sa Akin",
+      "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
     },
     {
       "added_at": "2024-12-16 05:11:53",

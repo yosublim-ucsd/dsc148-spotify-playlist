@@ -5835,6 +5835,32 @@
     },
     {
       "album": {
+        "name": "Credit Alert",
+        "url": "https://open.spotify.com/album/1vtSaFlCreRuBzzobouwWk"
+      },
+      "artists": [
+        {
+          "name": "Siraheem",
+          "url": "https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh"
+        },
+        {
+          "name": "Luwa.Mp4",
+          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
+        },
+        {
+          "name": "Karlito",
+          "url": "https://open.spotify.com/artist/1AWCLUjn8srlDm4JqxBido"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "Credit Alert",
+      "url": "https://open.spotify.com/track/3juEqcbxmMs1jdu5du1xGl"
+    },
+    {
+      "album": {
         "name": "CRUISE",
         "url": "https://open.spotify.com/album/2u7YBP6ssXmsdolIzGLo56"
       },
@@ -23464,6 +23490,24 @@
       "duration_ms": 193684,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/6gkOuNkFMdtaZsVQtJ4mBk"
+    },
+    {
+      "album": {
+        "name": "Psycho Street House",
+        "url": "https://open.spotify.com/album/6TBZvTV0oZRSJ1aW7ktEv3"
+      },
+      "artists": [
+        {
+          "name": "Dj khalipha",
+          "url": "https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138775,
+      "name": "Psycho Street House",
+      "url": "https://open.spotify.com/track/4I3PguPy7yiPHW655I6snL"
     },
     {
       "album": {

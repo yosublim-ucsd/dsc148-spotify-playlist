@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: G\u00f6khan T\u00fcrkmen",
-  "num_followers": 511846,
+  "num_followers": 511964,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-12-26 21:00:19",
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "duration_ms": 153999,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"
+    },
+    {
+      "added_at": "2024-12-26 21:00:19",
+      "album": {
         "name": "D\u00fc\u015f\u00fc\u015flerim Fazla",
         "url": "https://open.spotify.com/album/3wvLRWKTy8exkhC81GjyNV"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
-    },
-    {
-      "added_at": "2024-12-26 21:00:19",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X"
-      },
-      "artists": [
-        {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
-        }
-      ],
-      "duration_ms": 153999,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"
     },
     {
       "added_at": "2024-12-26 21:00:19",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-12-26 21:00:19",
       "album": {
+        "name": "\u0130kimizden Biri",
+        "url": "https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX"
+      },
+      "artists": [
+        {
+          "name": "Fatma Turgut",
+          "url": "https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI"
+        }
+      ],
+      "duration_ms": 227143,
+      "name": "\u0130kimizden Biri",
+      "url": "https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe"
+    },
+    {
+      "added_at": "2024-12-26 21:00:19",
+      "album": {
         "name": "Krali\u00e7e",
         "url": "https://open.spotify.com/album/4kHAWGBdk9ZlMAqSKW7LCU"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2024-12-26 21:00:19",
       "album": {
-        "name": "\u0130kimizden Biri",
-        "url": "https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX"
+        "name": "Kar\u0131\u015f\u0131k Kaset",
+        "url": "https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg"
       },
       "artists": [
         {
-          "name": "Fatma Turgut",
-          "url": "https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI"
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
         }
       ],
-      "duration_ms": 227143,
-      "name": "\u0130kimizden Biri",
-      "url": "https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe"
+      "duration_ms": 185799,
+      "name": "Eyvah Neye Yarar",
+      "url": "https://open.spotify.com/track/5wSj1BUYLvYf8NWJy9MQuM"
     },
     {
       "added_at": "2024-12-26 21:00:19",
@@ -675,22 +691,6 @@
       "duration_ms": 129804,
       "name": "\u0130mdad\u0131m",
       "url": "https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM"
-    },
-    {
-      "added_at": "2024-12-26 21:00:19",
-      "album": {
-        "name": "Kar\u0131\u015f\u0131k Kaset",
-        "url": "https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        }
-      ],
-      "duration_ms": 185799,
-      "name": "Eyvah Neye Yarar",
-      "url": "https://open.spotify.com/track/5wSj1BUYLvYf8NWJy9MQuM"
     },
     {
       "added_at": "2024-12-26 21:00:19",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-12-26 21:00:19",
       "album": {
-        "name": "M\u00fckemmel",
-        "url": "https://open.spotify.com/album/7AR2RxrSIPBI1TL7m6QzVI"
-      },
-      "artists": [
-        {
-          "name": "Hande Yener",
-          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
-        }
-      ],
-      "duration_ms": 268494,
-      "name": "Bir K\u0131\u015f Masal\u0131",
-      "url": "https://open.spotify.com/track/4AF4SBaAnrqYNWxJgz3vjV"
-    },
-    {
-      "added_at": "2024-12-26 21:00:19",
-      "album": {
         "name": "G\u00fcliz Ayla",
         "url": "https://open.spotify.com/album/4j6JrIJFSDO85NMTRXfzKm"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 198665,
       "name": "Bahsetmem Laz\u0131m",
       "url": "https://open.spotify.com/track/0pRykJaHRomTCCGd89b5cX"
+    },
+    {
+      "added_at": "2024-12-26 21:00:19",
+      "album": {
+        "name": "M\u00fckemmel",
+        "url": "https://open.spotify.com/album/7AR2RxrSIPBI1TL7m6QzVI"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        }
+      ],
+      "duration_ms": 268494,
+      "name": "Bir K\u0131\u015f Masal\u0131",
+      "url": "https://open.spotify.com/track/4AF4SBaAnrqYNWxJgz3vjV"
     },
     {
       "added_at": "2024-12-26 21:00:19",

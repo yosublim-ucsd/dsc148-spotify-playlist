@@ -1,12 +1,12 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG?si=ruGXGJTQTHeaKrS-Bo0HjQ\">Vancoet</a>",
-  "num_followers": 21505,
+  "num_followers": 21514,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SXeQAAAABLNHqwsyss+oGrpj6AjoPa",
+  "snapshot_id": "Z3cMhQAAAAAApbf6SOfIs+6MMa4ac3Kd",
   "tracks": [
     {
       "added_at": "2024-12-19 22:00:25",
@@ -109,20 +109,20 @@
       "url": "https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj"
     },
     {
-      "added_at": "2024-12-19 22:00:25",
+      "added_at": "2025-01-02 22:00:37",
       "album": {
-        "name": "Aangenaam",
-        "url": "https://open.spotify.com/album/7fcYzRPTd0fOGxPwbuzBB5"
+        "name": "Jy Dink Jy's Die Een",
+        "url": "https://open.spotify.com/album/6h1M4yC8owteIAKFiZnmOP"
       },
       "artists": [
         {
-          "name": "Dawid de Koning en die Kommuniste",
-          "url": "https://open.spotify.com/artist/3e1L6NN9GvUjXIoG50dsN2"
+          "name": "Saterdag Vanaand",
+          "url": "https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc"
         }
       ],
-      "duration_ms": 237687,
-      "name": "Bakers Mini Krieket",
-      "url": "https://open.spotify.com/track/1ebkVIKuzovrwE0DhS9iGZ"
+      "duration_ms": 186666,
+      "name": "Jy Dink Jy's Die Een",
+      "url": "https://open.spotify.com/track/3GLZ8rb7BBRldebmVgfEX1"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -139,22 +139,6 @@
       "duration_ms": 210786,
       "name": "Fok Jou",
       "url": "https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN"
-    },
-    {
-      "added_at": "2024-12-19 22:00:25",
-      "album": {
-        "name": "The Brink (Single)",
-        "url": "https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl"
-      },
-      "artists": [
-        {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "The Brink (Single)",
-      "url": "https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -191,18 +175,50 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU"
+        "name": "The Brink (Single)",
+        "url": "https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl"
       },
       "artists": [
         {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
         }
       ],
-      "duration_ms": 142286,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q"
+      "duration_ms": 187286,
+      "name": "The Brink (Single)",
+      "url": "https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe"
+    },
+    {
+      "added_at": "2024-12-19 22:00:25",
+      "album": {
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+      },
+      "artists": [
+        {
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+    },
+    {
+      "added_at": "2025-01-02 22:00:37",
+      "album": {
+        "name": "Original Nightmare",
+        "url": "https://open.spotify.com/album/3KHIlZiFKJZH1CQ8XRvXcr"
+      },
+      "artists": [
+        {
+          "name": "Whitecollar",
+          "url": "https://open.spotify.com/artist/41GHjsofgg86ArV6bA798Q"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Original Nightmare",
+      "url": "https://open.spotify.com/track/23qhzLlc5M9A6nH7Gd4Tt5"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -239,18 +255,18 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU"
       },
       "artists": [
         {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+      "duration_ms": 142286,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -303,6 +319,22 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
+        "name": "Oor Jou",
+        "url": "https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 238112,
+      "name": "Oor Jou",
+      "url": "https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o"
+    },
+    {
+      "added_at": "2024-12-19 22:00:25",
+      "album": {
         "name": "Judas Mind",
         "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
       },
@@ -335,22 +367,6 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "Oor Jou",
-        "url": "https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 238112,
-      "name": "Oor Jou",
-      "url": "https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o"
-    },
-    {
-      "added_at": "2024-12-19 22:00:25",
-      "album": {
         "name": "Surpass The Power",
         "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "I Won't Come to Your Opening",
-        "url": "https://open.spotify.com/album/0WMIirciFV7OjikmVCGBwE"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I Won't Come to Your Opening",
-      "url": "https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP"
-    },
-    {
-      "added_at": "2024-12-19 22:00:25",
-      "album": {
         "name": "Bloeisels",
         "url": "https://open.spotify.com/album/21Wolo015jpmELBve2nf8E"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 202250,
       "name": "Kan Ek Met Jou Dans",
       "url": "https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx"
+    },
+    {
+      "added_at": "2024-12-19 22:00:25",
+      "album": {
+        "name": "I Won't Come to Your Opening",
+        "url": "https://open.spotify.com/album/0WMIirciFV7OjikmVCGBwE"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I Won't Come to Your Opening",
+      "url": "https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -539,6 +555,22 @@
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
+    },
+    {
+      "added_at": "2024-12-19 22:00:25",
+      "album": {
+        "name": "Aangenaam",
+        "url": "https://open.spotify.com/album/7fcYzRPTd0fOGxPwbuzBB5"
+      },
+      "artists": [
+        {
+          "name": "Dawid de Koning en die Kommuniste",
+          "url": "https://open.spotify.com/artist/3e1L6NN9GvUjXIoG50dsN2"
+        }
+      ],
+      "duration_ms": 237687,
+      "name": "Bakers Mini Krieket",
+      "url": "https://open.spotify.com/track/1ebkVIKuzovrwE0DhS9iGZ"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -703,22 +735,6 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "My Lover's on the Run",
-        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "My Lover's on the Run",
-      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
-    },
-    {
-      "added_at": "2024-12-19 22:00:25",
-      "album": {
         "name": "Crumble",
         "url": "https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2"
       },
@@ -735,6 +751,22 @@
       "duration_ms": 161091,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
+    },
+    {
+      "added_at": "2024-12-19 22:00:25",
+      "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -783,38 +815,6 @@
       "duration_ms": 174974,
       "name": "Penny Sleeps",
       "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
-    },
-    {
-      "added_at": "2024-12-19 22:00:25",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt"
-      },
-      "artists": [
-        {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS"
-    },
-    {
-      "added_at": "2024-12-19 22:00:25",
-      "album": {
-        "name": "Die gids vir grootword",
-        "url": "https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU"
-      },
-      "artists": [
-        {
-          "name": "Dans Dans Lisa",
-          "url": "https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "My Ek(skuus)",
-      "url": "https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D"
     }
   ],
   "unique_name": "SA Rock ",

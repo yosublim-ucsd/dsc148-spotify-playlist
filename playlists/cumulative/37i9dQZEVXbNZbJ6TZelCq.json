@@ -4280,7 +4280,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -5202,7 +5202,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 151099,
       "name": "Burj Khalifa",
       "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
@@ -6712,7 +6712,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 169697,
       "name": "Ciocolata",
       "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
@@ -8452,7 +8452,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 209528,
       "name": "De Ce Sa Ne Certam Iubi",
       "url": "https://open.spotify.com/track/7JIMR0dBbjrQfRAu7ne5Jr"
@@ -8750,7 +8750,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 182791,
       "name": "Dema Mamo",
       "url": "https://open.spotify.com/track/7lykVoeRhArAOLcLSV6xWP"
@@ -9278,7 +9278,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 145040,
       "name": "Diss Music Romania",
       "url": "https://open.spotify.com/track/00h0W7OACncGvIWVhwGhPX"
@@ -10856,7 +10856,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 250775,
       "name": "Eu Nu Dau Inapoi",
       "url": "https://open.spotify.com/track/21BgLCEqa7UNo0PgcOZBzX"
@@ -11240,7 +11240,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 158740,
       "name": "Fana",
       "url": "https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn"
@@ -14360,7 +14360,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 204923,
       "name": "Harem",
       "url": "https://open.spotify.com/track/2ALfSjoYUJaODMJIQ6TpLm"
@@ -17056,6 +17056,50 @@
       "duration_ms": 173160,
       "name": "jealousy, jealousy",
       "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
+    },
+    {
+      "album": {
+        "name": "Jeleu (From \"Candidatul Perfect\" The Movie)",
+        "url": "https://open.spotify.com/album/4gk3J91ui1WaYvBk7eF893"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Denis Ramniceanu",
+          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Jeleu - From \"Candidatul Perfect\" The Movie",
+      "url": "https://open.spotify.com/track/0f8WNnOzO1K8NXuWkSdX2m"
+    },
+    {
+      "album": {
+        "name": "Jenifer buci de fier",
+        "url": "https://open.spotify.com/album/3rLWJ7cgo4moVie8cNs2ME"
+      },
+      "artists": [
+        {
+          "name": "Raihold",
+          "url": "https://open.spotify.com/artist/4Imlr3Uol1yePpItVufDed"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Jenifer buci de fier",
+      "url": "https://open.spotify.com/track/40GLYWLoMFhkuoDImEwHm4"
     },
     {
       "album": {
@@ -27309,6 +27353,24 @@
     },
     {
       "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "Rebirth (Intro)",
+      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
+    },
+    {
+      "album": {
         "name": "\u00cenapoi La Via\u021b\u0103",
         "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
       },
@@ -28634,7 +28696,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 210808,
       "name": "Saint Tropez",
       "url": "https://open.spotify.com/track/5L3dE30wwebKXn4lwUQkoC"
@@ -30018,7 +30080,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 163199,
       "name": "Sistem Otoman",
       "url": "https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa"
@@ -31825,6 +31887,28 @@
     },
     {
       "album": {
+        "name": "Sugar Daddy",
+        "url": "https://open.spotify.com/album/4RjOxC32suZlf1ajszXewJ"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Sugar Daddy",
+      "url": "https://open.spotify.com/track/7fuZr7YvNC22Ld6FjOMfXy"
+    },
+    {
+      "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
@@ -32400,7 +32484,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
@@ -34946,7 +35030,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Turbo Orange",
       "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
@@ -36032,7 +36116,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 117600,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/6nanWWO9YYAShPnUbC6vQ0"
@@ -36378,7 +36462,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Vreau",
       "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"
@@ -38112,7 +38196,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 141268,
       "name": "Zi-mi cine",
       "url": "https://open.spotify.com/track/4cZ0QPVw1oTZ48yML1k8wI"

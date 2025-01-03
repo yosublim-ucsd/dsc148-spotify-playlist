@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: BTOB\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-11,182 songs - 26 day 17 hr 12 min
+11,185 songs - 26 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [A lot of stars](https://open.spotify.com/track/6fzNhDNQ7GPvdYoIr8k4g3) | [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [A lot of stars](https://open.spotify.com/album/1jgilgG0i2t0RemKegciMz) | 1:38 | 2024-02-22 | 2024-03-14 |
 | [A Love Only Heaven Permits](https://open.spotify.com/track/0API3BOY98GkpXmZA6qtGN) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [A Love Only Heaven Permits : Re+Project ‘Re+Turn’](https://open.spotify.com/album/2qYLnLqgTat1VwrpgCInPh) | 4:29 | 2023-07-24 | 2023-08-18 |
 | [a man and a woman \(feat\. gamma\)](https://open.spotify.com/track/7vNiNWqcf4mfn0tDkJUkhp) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3) | [a man and a woman \(feat\. gamma\)](https://open.spotify.com/album/1Lumjdbi9lsIaZpqJ8hICv) | 3:40 | 2022-09-08 | 2022-11-07 |
+| [A Man In Yellow Shirt \(Drama Live Ver\)](https://open.spotify.com/track/17zzvZnljn5Y9VBwIt3erK) | [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti), [Chae Won Bin](https://open.spotify.com/artist/3NSZzukyqYMM6qI9fvYZeh) | [Who Is She OST Part.5](https://open.spotify.com/album/6bQDwfQulzCjPxOiQdnfe0) | 3:07 | 2025-01-02 |  |
 | [A man of moods](https://open.spotify.com/track/6vGwO7iENGPqGOaXSEBHEw) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [A man of moods](https://open.spotify.com/album/30JZshYLKIc51inTWwVBaB) | 3:17 | 2022-09-30 | 2022-11-07 |
 | [A Memorial Day](https://open.spotify.com/track/6XF1F1BMA7TNRX1f9USAnB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [talks about memory](https://open.spotify.com/album/6yxPjDBlRVhHaUKhybIFRx) | 3:29 | 2022-09-21 | 2022-11-07 |
 | [A Mother’s Fear](https://open.spotify.com/track/0DffMF7OZ4FztRUI9ssARg) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [A Mother’s Fear](https://open.spotify.com/album/6jZWt0bIqs4O8vTMKndYpv) | 3:36 | 2023-01-31 | 2023-02-15 |
@@ -505,6 +506,7 @@
 | [always](https://open.spotify.com/track/1QX4AzgbnUZNt2l3y1cKr1) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S), [Sori](https://open.spotify.com/artist/27L28cNkMJsYKs8Xyuhmd9) | [always](https://open.spotify.com/album/4qW5nT6N9TsT3h1XBkDE76) | 3:26 | 2023-05-15 | 2023-07-12 |
 | [ALWAYS](https://open.spotify.com/track/7rRHAYULh9dwFDgHifMhqn) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [ALWAYS](https://open.spotify.com/album/0aQl0KsNWhD54huuCxSU8A) | 3:11 | 2023-05-09 | 2023-07-12 |
 | [Always and Forever](https://open.spotify.com/track/4XoNHcpISsSFeil5pDoXCO) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Always and Forever](https://open.spotify.com/album/2rakJkUUTAjBQmsgI0BJQd) | 3:43 | 2024-05-27 | 2024-06-20 |
+| [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/2mM8FBNml8EU36pkultmhu) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/album/5o92RLFD3ppuTFHOwqmG3r) | 4:11 | 2025-01-02 |  |
 | [Always Been You](https://open.spotify.com/track/4SRahZ48Vzii7XVGbInzCS) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Always Been You](https://open.spotify.com/album/3X8vX3dM1FmuX5ZPy0ZveM) | 3:02 | 2024-09-06 | 2024-10-10 |
 | [Always By Your Side](https://open.spotify.com/track/6miOvQK1D76hopwIQqZr8y) | [Jung Se Young](https://open.spotify.com/artist/7mkeMDyzlRKT32H2hsAW6f) | [Bravo, My Life OST Part.6](https://open.spotify.com/album/5ZHtWTj9GoPviSKDpmNw4A) | 3:30 | 2022-05-09 | 2022-05-14 |
 | [Always by your side](https://open.spotify.com/track/6EqypvUzeDjUy06apeCi4g) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Always by your side \(18x2 Beyond Youthful Days with Jungyup\)](https://open.spotify.com/album/6Li7dxQcRmzDqVTOCM85Nz) | 3:54 | 2024-05-27 | 2024-06-20 |
@@ -4533,6 +4535,7 @@
 | [In the End, We Said Farewell](https://open.spotify.com/track/4u32PDlNu3TaqqCDFByzlY) | [Dinner Coat](https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV) | [In the End, We Said Farewell](https://open.spotify.com/album/0tfE2c6UVlk2lQqeAMck3d) | 3:15 | 2024-09-22 | 2024-10-10 |
 | [In the Glow of Us](https://open.spotify.com/track/1wT5uoyQwmO7Kq917G6cs6) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [Dear Hyeri, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/4XXl2XpBEU1jU5etOsPLVO) | 3:09 | 2024-10-02 | 2024-10-10 |
 | [In The Head](https://open.spotify.com/track/7n8CUH5iMozYbk1v9NYH2C) | [Kai](https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD) | [In The Head](https://open.spotify.com/album/2RYq64m37uOKmmeEL5uF3g) | 6:08 | 2023-12-13 | 2023-12-22 |
+| [In the meantime](https://open.spotify.com/track/5qYMebf81XBNIvCKtcBzdk) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [In the meantime](https://open.spotify.com/album/0sQi4MrajuVWpPV4gSA8Cj) | 3:51 | 2025-01-02 |  |
 | [in the middle](https://open.spotify.com/track/3GxIRtoTYOqojn2iNOaJLL) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [in the middle](https://open.spotify.com/album/70xAyiMkKkHKdFhqqyU60D) | 2:56 | 2024-01-31 | 2024-05-01 |
 | [In The Mood](https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [IN the mood](https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet) | 2:48 | 2023-10-12 | 2023-11-11 |
 | [In The Mud](https://open.spotify.com/track/6CfMtSd1VzajRUdOm4uleS) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [Cry](https://open.spotify.com/album/4r6OEbBv8k7C0kJzG7RjW5) | 3:45 | 2022-10-31 | 2022-12-22 |

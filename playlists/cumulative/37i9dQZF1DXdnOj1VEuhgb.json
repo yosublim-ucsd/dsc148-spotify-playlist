@@ -71,6 +71,36 @@
     },
     {
       "album": {
+        "name": "12'lik Verse",
+        "url": "https://open.spotify.com/album/4nIeCT4llwtHWNgCsa3LOQ"
+      },
+      "artists": [
+        {
+          "name": "Sokrat St",
+          "url": "https://open.spotify.com/artist/7ouCgJkxRBIJljUiQVJK65"
+        },
+        {
+          "name": "Kamufle",
+          "url": "https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t"
+        },
+        {
+          "name": "\u015ean\u0131\u015fer",
+          "url": "https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86"
+        },
+        {
+          "name": "Ados",
+          "url": "https://open.spotify.com/artist/4jtv7mIerRdHNQOkFtKyDW"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197094,
+      "name": "12'lik Verse",
+      "url": "https://open.spotify.com/track/1yG12cLbis6k7R6CXw8mvY"
+    },
+    {
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY"
       },
@@ -3265,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "2024 Bootleg",
+        "url": "https://open.spotify.com/album/2gHBAriairZLVMKT4yn0Mo"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201708,
+      "name": "Gibi",
+      "url": "https://open.spotify.com/track/4iKftOZWorMkLpeZpGI2nF"
+    },
+    {
+      "album": {
         "name": "Gidemem",
         "url": "https://open.spotify.com/album/1oXVgFvLiexNS48eLlEuLV"
       },
@@ -4760,7 +4808,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 141649,
       "name": "Kalabal\u0131k",
       "url": "https://open.spotify.com/track/4BtbbvFgyFPIouSQHJEIRr"
@@ -4786,7 +4834,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 232087,
       "name": "Kalamam Aran\u0131zda",
       "url": "https://open.spotify.com/track/2GAH1NtbMOQkf0zfHVIt2u"
@@ -5866,7 +5914,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 294428,
       "name": "Lab Cypher 2",
       "url": "https://open.spotify.com/track/4T4s8JjJRWzVZ9f3RFJr6G"
@@ -8502,6 +8550,24 @@
     {
       "album": {
         "name": "SEVG\u0130",
+        "url": "https://open.spotify.com/album/0uuodlzRuwI7wmlyQ3m9C9"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198403,
+      "name": "SEVG\u0130",
+      "url": "https://open.spotify.com/track/4UHqIAacNKHUq1yYv5Xfob"
+    },
+    {
+      "album": {
+        "name": "SEVG\u0130",
         "url": "https://open.spotify.com/album/6V4Lw81mboujvK3S7hJvou"
       },
       "artists": [
@@ -10261,6 +10327,24 @@
     },
     {
       "album": {
+        "name": "\u00c7ekilmemi\u015f Foto\u011fraflar",
+        "url": "https://open.spotify.com/album/2JjMeVa69WbYLBU4ldYO6P"
+      },
+      "artists": [
+        {
+          "name": "Rota",
+          "url": "https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204618,
+      "name": "\u00c7ekilmemi\u015f Foto\u011fraflar",
+      "url": "https://open.spotify.com/track/6rkTY4YNuOO0ObFVRzZHUN"
+    },
+    {
+      "album": {
         "name": "\u00c7evir Tavuklar\u0131",
         "url": "https://open.spotify.com/album/4tYo3XSPJn7tFCWHMXYYmZ"
       },
@@ -10298,7 +10382,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-03",
       "duration_ms": 147636,
       "name": "\u00c7\u0130LEDEN",
       "url": "https://open.spotify.com/track/2ZvOBilAxRTLv1s4zBrAEA"
